@@ -7,8 +7,7 @@
 **v2**: 2019年7月に公開された新バージョンのみんなで翻刻上で翻刻されたテキストデータです（準備中）。
 
 ## 特殊記法について
-振り仮名、割書、虫損箇所などを明示するために、みんなで翻刻は「[青空文庫記法](https://www.aozora.gr.jp/annotation/)」に類似した表記体系を採用しています。
+振り仮名、割書、虫損箇所などを明示するために、みんなで翻刻は「[青空文庫記法](https://www.aozora.gr.jp/annotation/)」に類似した表記体系を採用しています。詳しくは[凡例](https://github.com/yuta1984/honkoku-data/blob/master/v1/legends.md)をご覧ください。
 
 # ライセンス
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
-ggg
