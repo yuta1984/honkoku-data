@@ -1,5 +1,5 @@
 label,manifestUrl,projectId,size,progress,attribution,thumbnail
-豊橋市史談,https://www.dl.ndl.go.jp/api/iiif/954691/manifest.json,code4libjp,382,256,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/954691/F0000001/full/full/0/default.jpg
+豊橋市史談,https://www.dl.ndl.go.jp/api/iiif/954691/manifest.json,code4libjp,382,289,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/954691/F0000001/full/full/0/default.jpg
 東参名勝案内,https://www.dl.ndl.go.jp/api/iiif/765200/manifest.json,code4libjp,72,72,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/765200/F0000001/full/full/0/default.jpg
 新釈輿地図説,https://www.dl.ndl.go.jp/api/iiif/2532343/manifest.json,code4libjp,51,51,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2532343/T0000001/full/full/0/default.jpg
 豊橋市都市計画第一期事業報告書,https://www.dl.ndl.go.jp/api/iiif/1222164/manifest.json,code4libjp,154,61,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1222164/T0000001/full/full/0/default.jpg
@@ -15,7 +15,7 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 小野湖山翁小伝,https://www.dl.ndl.go.jp/api/iiif/1209441/manifest.json,code4libjp,74,42,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1209441/T0000001/full/full/0/default.jpg
 東海道五拾三次　吉田・豊川橋,https://www.dl.ndl.go.jp/api/iiif/1309866/manifest.json,code4libjp,1,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1309866/T0000001/full/full/0/default.jpg
 駿河舞 3巻,https://www.dl.ndl.go.jp/api/iiif/2533130/manifest.json,code4libjp,30,30,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2533130/T0000001/full/full/0/default.jpg
-三河之物語,https://kotenseki.nijl.ac.jp/biblio/200019193/manifest,code4libjp,40,37,国文学研究資料館,https://kotenseki.nijl.ac.jp/api/iiif/200019193/v4/NIKI/096-0153/096-0153-00001.tif/full/400,/0/default.jpg
+三河之物語,https://kotenseki.nijl.ac.jp/biblio/200019193/manifest,code4libjp,40,40,国文学研究資料館,https://kotenseki.nijl.ac.jp/api/iiif/200019193/v4/NIKI/096-0153/096-0153-00001.tif/full/400,/0/default.jpg
 三河吉田藩動員史料,https://www.dl.ndl.go.jp/api/iiif/1172144/manifest.json,code4libjp,47,47,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1172144/T0000001/full/full/0/default.jpg
 三河国[東海道図],https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020016/manifest.json,code4libjp,3,3,,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00020016/RB00020016_00001_0.ptif/full/400,/0/default.jpg
 東海道之内　二川,https://www.dl.ndl.go.jp/api/iiif/1309579/manifest.json,code4libjp,1,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1309579/T0000001/full/full/0/default.jpg
@@ -24,7 +24,7 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 東三河之古城,https://www.dl.ndl.go.jp/api/iiif/1192003/manifest.json,code4libjp,33,33,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1192003/T0000001/full/full/0/default.jpg
 郷土誌,https://www.dl.ndl.go.jp/api/iiif/765001/manifest.json,code4libjp,20,20,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/765001/F0000001/full/full/0/default.jpg
 〔日本古城絵図〕　東海道之部（2）. 37 三州吉田之城図,https://www.dl.ndl.go.jp/api/iiif/1286302/manifest.json,code4libjp,1,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286302/T0000001/full/full/0/default.jpg
-豊橋市水道誌,https://www.dl.ndl.go.jp/api/iiif/1225183/manifest.json,code4libjp,453,140,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1225183/T0000001/full/full/0/default.jpg
+豊橋市水道誌,https://www.dl.ndl.go.jp/api/iiif/1225183/manifest.json,code4libjp,453,145,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1225183/T0000001/full/full/0/default.jpg
 〔日本古城絵図〕　東海道之部（2）. 36 参州吉田城図,https://www.dl.ndl.go.jp/api/iiif/1286301/manifest.json,code4libjp,1,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286301/T0000001/full/full/0/default.jpg
 豊橋志要,https://www.dl.ndl.go.jp/api/iiif/765211/manifest.json,code4libjp,63,63,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/765211/F0000001/full/full/0/default.jpg
 古義真言宗本末帳 21巻. [4] 第三 伊賀国、伊勢国、志摩国、尾張国、三河国、遠江国、駿河国、伊豆国、甲斐国,https://www.dl.ndl.go.jp/api/iiif/2548812/manifest.json,code4libjp,70,70,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2548812/T0000001/full/full/0/default.jpg
