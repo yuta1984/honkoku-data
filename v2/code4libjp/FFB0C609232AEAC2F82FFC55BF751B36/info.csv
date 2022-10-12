@@ -27,7 +27,7 @@ filename,status,image
 026.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000026/full/full/0/default.jpg
 027.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000027/full/full/0/default.jpg
 028.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000028/full/full/0/default.jpg
-029.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000029/full/full/0/default.jpg
+029.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000029/full/full/0/default.jpg
 030.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000030/full/full/0/default.jpg
 031.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000031/full/full/0/default.jpg
 032.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000032/full/full/0/default.jpg
@@ -186,15 +186,15 @@ filename,status,image
 185.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000185/full/full/0/default.jpg
 186.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000186/full/full/0/default.jpg
 187.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000187/full/full/0/default.jpg
-188.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000188/full/full/0/default.jpg
-189.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000189/full/full/0/default.jpg
+188.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000188/full/full/0/default.jpg
+189.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000189/full/full/0/default.jpg
 190.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000190/full/full/0/default.jpg
 191.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000191/full/full/0/default.jpg
 192.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000192/full/full/0/default.jpg
 193.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000193/full/full/0/default.jpg
 194.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000194/full/full/0/default.jpg
 195.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000195/full/full/0/default.jpg
-196.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000196/full/full/0/default.jpg
+196.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000196/full/full/0/default.jpg
 197.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000197/full/full/0/default.jpg
 198.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000198/full/full/0/default.jpg
 199.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000199/full/full/0/default.jpg

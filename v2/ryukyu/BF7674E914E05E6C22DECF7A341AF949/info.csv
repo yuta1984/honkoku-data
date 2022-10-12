@@ -1,10 +1,10 @@
 filename,status,image
-001.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_001.tif/full/full/0/default.jpg
-002.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_002.tif/full/full/0/default.jpg
-003.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_003.tif/full/full/0/default.jpg
-004.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_004.tif/full/full/0/default.jpg
-005.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_005.tif/full/full/0/default.jpg
-006.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_006.tif/full/full/0/default.jpg
+001.txt,completed,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_001.tif/full/full/0/default.jpg
+002.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_002.tif/full/full/0/default.jpg
+003.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_003.tif/full/full/0/default.jpg
+004.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_004.tif/full/full/0/default.jpg
+005.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_005.tif/full/full/0/default.jpg
+006.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_006.tif/full/full/0/default.jpg
 007.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_007.tif/full/full/0/default.jpg
 008.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_008.tif/full/full/0/default.jpg
 009.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_009.tif/full/full/0/default.jpg
@@ -44,4 +44,4 @@ filename,status,image
 043.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_043.tif/full/full/0/default.jpg
 044.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_044.tif/full/full/0/default.jpg
 045.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_045.tif/full/full/0/default.jpg
-046.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_046.tif/full/full/0/default.jpg
+046.txt,completed,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW518%2FHW518_046.tif/full/full/0/default.jpg

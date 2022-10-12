@@ -2,9 +2,9 @@ filename,status,image
 001.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000084.tif/full/full/0/default.jpg
 002.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000085.tif/full/full/0/default.jpg
 003.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000086.tif/full/full/0/default.jpg
-004.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000087.tif/full/full/0/default.jpg
-005.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000088.tif/full/full/0/default.jpg
-006.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000089.tif/full/full/0/default.jpg
+004.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000087.tif/full/full/0/default.jpg
+005.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000088.tif/full/full/0/default.jpg
+006.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000089.tif/full/full/0/default.jpg
 007.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000090.tif/full/full/0/default.jpg
 008.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000091.tif/full/full/0/default.jpg
 009.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/200004191/v4/image/110_0407/00000001/00000092.tif/full/full/0/default.jpg

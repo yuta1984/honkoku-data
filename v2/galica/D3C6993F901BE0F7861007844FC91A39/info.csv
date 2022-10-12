@@ -1,5 +1,5 @@
 filename,status,image
-001.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f1/full/full/0/default.jpg
+001.txt,completed,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f1/full/full/0/default.jpg
 002.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f2/full/full/0/default.jpg
 003.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f3/full/full/0/default.jpg
 004.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f4/full/full/0/default.jpg
@@ -12,7 +12,7 @@ filename,status,image
 011.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f11/full/full/0/default.jpg
 012.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f12/full/full/0/default.jpg
 013.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f13/full/full/0/default.jpg
-014.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f14/full/full/0/default.jpg
+014.txt,completed,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f14/full/full/0/default.jpg
 015.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f15/full/full/0/default.jpg
 016.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f16/full/full/0/default.jpg
 017.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105259392/f17/full/full/0/default.jpg

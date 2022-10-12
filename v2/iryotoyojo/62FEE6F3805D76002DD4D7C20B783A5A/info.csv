@@ -1,9 +1,9 @@
 filename,status,image
-001.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00001_0.ptif/full/full/0/default.jpg
-002.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00002_0.ptif/full/full/0/default.jpg
-003.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00003_0.ptif/full/full/0/default.jpg
-004.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00004_0.ptif/full/full/0/default.jpg
-005.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00005_0.ptif/full/full/0/default.jpg
+001.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00001_0.ptif/full/full/0/default.jpg
+002.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00002_0.ptif/full/full/0/default.jpg
+003.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00003_0.ptif/full/full/0/default.jpg
+004.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00004_0.ptif/full/full/0/default.jpg
+005.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00005_0.ptif/full/full/0/default.jpg
 006.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00006_0.ptif/full/full/0/default.jpg
 007.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00007_0.ptif/full/full/0/default.jpg
 008.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00008_0.ptif/full/full/0/default.jpg
@@ -58,4 +58,4 @@ filename,status,image
 057.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00057_0.ptif/full/full/0/default.jpg
 058.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00058_0.ptif/full/full/0/default.jpg
 059.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00059_0.ptif/full/full/0/default.jpg
-060.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00060_0.ptif/full/full/0/default.jpg
+060.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004866/RB00004866_00060_0.ptif/full/full/0/default.jpg

@@ -22,7 +22,7 @@ filename,status,image
 021.txt,completed,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_021.tif/full/full/0/default.jpg
 022.txt,completed,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_022.tif/full/full/0/default.jpg
 023.txt,completed,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_023.tif/full/full/0/default.jpg
-024.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_024.tif/full/full/0/default.jpg
+024.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_024.tif/full/full/0/default.jpg
 025.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_025.tif/full/full/0/default.jpg
 026.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_026.tif/full/full/0/default.jpg
 027.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_027.tif/full/full/0/default.jpg
@@ -53,10 +53,10 @@ filename,status,image
 052.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_052.tif/full/full/0/default.jpg
 053.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_053.tif/full/full/0/default.jpg
 054.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_054.tif/full/full/0/default.jpg
-055.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_055.tif/full/full/0/default.jpg
+055.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_055.tif/full/full/0/default.jpg
 056.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_056.tif/full/full/0/default.jpg
 057.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_057.tif/full/full/0/default.jpg
-058.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_058.tif/full/full/0/default.jpg
+058.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_058.tif/full/full/0/default.jpg
 059.txt,default,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_059.tif/full/full/0/default.jpg
 060.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_060.tif/full/full/0/default.jpg
 061.txt,initiated,https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA108_01%2FNA108_01_061.tif/full/full/0/default.jpg

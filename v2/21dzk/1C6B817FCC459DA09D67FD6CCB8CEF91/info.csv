@@ -75,7 +75,7 @@ filename,status,image
 074.txt,completed,https://www.dl.ndl.go.jp/api/iiif/952809/R0000140/full/full/0/default.jpg
 075.txt,completed,https://www.dl.ndl.go.jp/api/iiif/952809/R0000141/full/full/0/default.jpg
 076.txt,completed,https://www.dl.ndl.go.jp/api/iiif/952809/R0000142/full/full/0/default.jpg
-077.txt,default,https://www.dl.ndl.go.jp/api/iiif/952809/R0000143/full/full/0/default.jpg
+077.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/952809/R0000143/full/full/0/default.jpg
 078.txt,default,https://www.dl.ndl.go.jp/api/iiif/952809/R0000144/full/full/0/default.jpg
 079.txt,default,https://www.dl.ndl.go.jp/api/iiif/952809/R0000145/full/full/0/default.jpg
 080.txt,default,https://www.dl.ndl.go.jp/api/iiif/952809/R0000146/full/full/0/default.jpg
