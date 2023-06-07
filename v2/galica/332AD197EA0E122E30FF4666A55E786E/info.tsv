@@ -1,0 +1,23 @@
+filename,status,image
+001.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f1/full/full/0/default.jpg
+002.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f2/full/full/0/default.jpg
+003.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f3/full/full/0/default.jpg
+004.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f4/full/full/0/default.jpg
+005.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f5/full/full/0/default.jpg
+006.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f6/full/full/0/default.jpg
+007.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f7/full/full/0/default.jpg
+008.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f8/full/full/0/default.jpg
+009.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f9/full/full/0/default.jpg
+010.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f10/full/full/0/default.jpg
+011.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f11/full/full/0/default.jpg
+012.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f12/full/full/0/default.jpg
+013.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f13/full/full/0/default.jpg
+014.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f14/full/full/0/default.jpg
+015.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f15/full/full/0/default.jpg
+016.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f16/full/full/0/default.jpg
+017.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f17/full/full/0/default.jpg
+018.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f18/full/full/0/default.jpg
+019.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f19/full/full/0/default.jpg
+020.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f20/full/full/0/default.jpg
+021.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f21/full/full/0/default.jpg
+022.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535169k/f22/full/full/0/default.jpg
