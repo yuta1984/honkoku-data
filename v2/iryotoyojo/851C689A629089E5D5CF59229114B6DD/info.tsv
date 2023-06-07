@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100345344/v4/HRSM/HRSM-10416/HRSM-10416-00000.tif/full/full/0/default.jpg
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100345344/v4/HRSM/HRSM-10416/HRSM-10416-00001.tif/full/full/0/default.jpg
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100345344/v4/HRSM/HRSM-10416/HRSM-10416-00002.tif/full/full/0/default.jpg

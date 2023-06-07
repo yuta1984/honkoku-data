@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00000.tif/full/full/0/default.jpg
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00001.tif/full/full/0/default.jpg
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00002.tif/full/full/0/default.jpg
@@ -67,7 +67,7 @@ filename  status  image
 066.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00065.tif/full/full/0/default.jpg
 067.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00066.tif/full/full/0/default.jpg
 068.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00067.tif/full/full/0/default.jpg
-069.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00068.tif/full/full/0/default.jpg
+069.txt	editing	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00068.tif/full/full/0/default.jpg
 070.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00069.tif/full/full/0/default.jpg
 071.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00070.tif/full/full/0/default.jpg
 072.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100346966/v4/TKGK/TKGK-00131/TKGK-00131-00071.tif/full/full/0/default.jpg

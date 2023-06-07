@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	default	https://ids.lib.harvard.edu/ids/iiif/28470359/full/full/0/default.jpg
 002.txt	completed	https://ids.lib.harvard.edu/ids/iiif/28470360/full/full/0/default.jpg
 003.txt	completed	https://ids.lib.harvard.edu/ids/iiif/28470361/full/full/0/default.jpg

@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511050r/f1/full/full/0/default.jpg
 002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511050r/f2/full/full/0/default.jpg
 003.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511050r/f3/full/full/0/default.jpg

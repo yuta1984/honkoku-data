@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	editing	https://kotenseki.nijl.ac.jp/api/iiif/200022050/v4/NIIP/049-0097/049-0097-00001.tif/full/full/0/default.jpg
 002.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/200022050/v4/NIIP/049-0097/049-0097-00002.tif/full/full/0/default.jpg
 003.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/200022050/v4/NIIP/049-0097/049-0097-00003.tif/full/full/0/default.jpg

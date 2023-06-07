@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/01/RB00002357_00001_0.ptif/full/full/0/default.jpg
 002.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/01/RB00002357_00002_0.ptif/full/full/0/default.jpg
 003.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/01/RB00002357_00003_0.ptif/full/full/0/default.jpg
@@ -272,7 +272,7 @@ filename  status  image
 271.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00271_0.ptif/full/full/0/default.jpg
 272.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00272_0.ptif/full/full/0/default.jpg
 273.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00273_0.ptif/full/full/0/default.jpg
-274.txt	editing	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00274_0.ptif/full/full/0/default.jpg
+274.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00274_0.ptif/full/full/0/default.jpg
 275.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00275_0.ptif/full/full/0/default.jpg
 276.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00276_0.ptif/full/full/0/default.jpg
 277.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002357/03/RB00002357_00277_0.ptif/full/full/0/default.jpg

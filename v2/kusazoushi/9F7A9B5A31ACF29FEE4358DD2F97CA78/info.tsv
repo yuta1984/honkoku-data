@@ -1,4 +1,4 @@
-filename  status  image
+filename	status	image
 001.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0944/09440001.tif/full/full/0/default.jpg
 002.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0944/09440002.tif/full/full/0/default.jpg
 003.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0944/09440003.tif/full/full/0/default.jpg
