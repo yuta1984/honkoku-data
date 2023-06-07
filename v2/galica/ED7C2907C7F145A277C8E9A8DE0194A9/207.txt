@@ -13,12 +13,12 @@ en tout 315 feuilles.
 　　Le Livre  204 a 34 feuilles: li est intitule 吉田
 祭　Ki tien tsi.
 　　Le Livre 205 a  40 feuilles: il est intitue 賀茂臨時
-祭 Kia foung lin che tsi.
+祭 Kia joung lin che tsi.
 　　Le Livre 206  a 40 feuilles: il est intitule 賀茂臨時
-祭 Kia foung lin che tsi.
+祭 Kia joung lin che tsi.
 　　Le Livre 207 a 54 feuilles: il est intitule
  賀茂臨時
-祭 Kia foung lin che tsi.
+祭 Kia joung lin che tsi.
 　　Le Livre 208 a 55 feuilles: il  est intitule 法成寺八
 講  Fa cheng sseu pa kiang.
 　　Le Livre 209 a  50 feuilles: il est intitule 御体御
@@ -26,5 +26,7 @@ en tout 315 feuilles.
 　　Le Livre 210 a 42 feuilles: il est intitule 
  神今食
 　　Chen kin cheu.
+
+
 
 

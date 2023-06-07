@@ -7,7 +7,7 @@ No.3 du Catalogue
 　　　　Rei gi roui ten
 　　　　　　Les regles des rites (Suite).
 Tome III
-(L.8-14)【以上左はみだし】
+(L.8-14)【二行左はみだし】
 　　Ce Tome va du Livre 8 au Livre 14: il contient
 　　en tout 358 feuilles.
 　　Le Livre 8 est intitule 拝礼三 Pai li san.
@@ -15,9 +15,9 @@ Tome III
 　　Le Livre 9 a 32 feuilles: il est intitule 戴餅 
 Tai ping.
 　　Le Livre 10 a 49 feuilles: il est intitule  元日節
-会一. Iuen je tsie houei  y.
+会一. Iuen【＊】 je tsie houei  y.
 　　Le Livre 11 a 52 feuilles: il est intitule  元日節
-会二 . Iuen ju tsie  houei eul.
+会二 . Iuen je tsie  houei eul.
 　　Le Livre 12 a 42 feuilles: il est intitule  元日節
 会三. Iuen je tsie houei  san.
 　　Le Livre 13 a 60 feuilles: il est intitule元日節
@@ -25,5 +25,5 @@ Tai ping.
 　　Le Livre 14 a 67 feuilles: il est intitule元日節
 会五. Iuen je tsie houei  ou.
 
-
+【＊元の中国読みはyuan】
 

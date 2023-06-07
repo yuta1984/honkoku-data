@@ -11,7 +11,7 @@ filename,status,image
 010.txt,initiated,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f10/full/full/0/default.jpg
 011.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f11/full/full/0/default.jpg
 012.txt,default,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f12/full/full/0/default.jpg
-013.txt,initiated,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f13/full/full/0/default.jpg
+013.txt,completed,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f13/full/full/0/default.jpg
 014.txt,initiated,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f14/full/full/0/default.jpg
 015.txt,initiated,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f15/full/full/0/default.jpg
 016.txt,initiated,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105257844/f16/full/full/0/default.jpg

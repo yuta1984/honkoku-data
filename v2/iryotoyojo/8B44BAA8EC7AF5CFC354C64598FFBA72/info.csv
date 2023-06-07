@@ -3,11 +3,11 @@ filename,status,image
 002.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00002_0.ptif/full/full/0/default.jpg
 003.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00003_0.ptif/full/full/0/default.jpg
 004.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00004_0.ptif/full/full/0/default.jpg
-005.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00005_0.ptif/full/full/0/default.jpg
-006.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00006_0.ptif/full/full/0/default.jpg
-007.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00007_0.ptif/full/full/0/default.jpg
-008.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00008_0.ptif/full/full/0/default.jpg
-009.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00009_0.ptif/full/full/0/default.jpg
+005.txt,completed,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00005_0.ptif/full/full/0/default.jpg
+006.txt,initiated,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00006_0.ptif/full/full/0/default.jpg
+007.txt,initiated,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00007_0.ptif/full/full/0/default.jpg
+008.txt,initiated,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00008_0.ptif/full/full/0/default.jpg
+009.txt,initiated,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00009_0.ptif/full/full/0/default.jpg
 010.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00010_0.ptif/full/full/0/default.jpg
 011.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00011_0.ptif/full/full/0/default.jpg
 012.txt,default,https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005582/01/RB00005582_00012_0.ptif/full/full/0/default.jpg

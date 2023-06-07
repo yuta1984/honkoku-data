@@ -1,5 +1,5 @@
 label,manifestUrl,projectId,size,progress,attribution,thumbnail
-これこれ草 2巻. [2],https://www.dl.ndl.go.jp/api/iiif/2557265/manifest.json,zukan,42,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557265/T0000001/full/full/0/default.jpg
+これこれ草 2巻. [2],https://www.dl.ndl.go.jp/api/iiif/2557265/manifest.json,zukan,42,42,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557265/T0000001/full/full/0/default.jpg
 畫圖百花鳥 5巻. [1],https://www.dl.ndl.go.jp/api/iiif/2546758/manifest.json,zukan,29,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2546758/T0000001/full/full/0/default.jpg
 本草図譜. 巻91-93,https://www.dl.ndl.go.jp/api/iiif/2550804/manifest.json,zukan,82,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550804/T0000001/full/full/0/default.jpg
 介譜,https://www.dl.ndl.go.jp/api/iiif/1286742/manifest.json,zukan,82,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286742/T0000001/full/full/0/default.jpg
@@ -7,13 +7,13 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 草木性譜 3巻. [3],https://www.dl.ndl.go.jp/api/iiif/2555816/manifest.json,zukan,39,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555816/T0000001/full/full/0/default.jpg
 本草図譜. 巻55-57,https://www.dl.ndl.go.jp/api/iiif/2550792/manifest.json,zukan,74,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550792/T0000001/full/full/0/default.jpg
 目八譜. 第６巻,https://www.dl.ndl.go.jp/api/iiif/1287301/manifest.json,zukan,127,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287301/T0000001/full/full/0/default.jpg
-錦繍枕 5巻. [5],https://www.dl.ndl.go.jp/api/iiif/2557569/manifest.json,zukan,44,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557569/T0000001/full/full/0/default.jpg
+錦繍枕 5巻. [5],https://www.dl.ndl.go.jp/api/iiif/2557569/manifest.json,zukan,44,43,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557569/T0000001/full/full/0/default.jpg
 目八譜. 第１４巻,https://www.dl.ndl.go.jp/api/iiif/1287309/manifest.json,zukan,35,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287309/T0000001/full/full/0/default.jpg
 梅園草木花譜夏之部. 3,https://www.dl.ndl.go.jp/api/iiif/1287285/manifest.json,zukan,57,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287285/T0000001/full/full/0/default.jpg
 画本虫ゑらみ,https://www.dl.ndl.go.jp/api/iiif/1288345/manifest.json,zukan,22,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1288345/T0000001/full/full/0/default.jpg
 水谷禽譜. [2],https://www.dl.ndl.go.jp/api/iiif/2553655/manifest.json,zukan,86,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553655/T0000001/full/full/0/default.jpg
-朝顔叢. 上巻,https://www.dl.ndl.go.jp/api/iiif/2536620/manifest.json,zukan,35,10,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536620/T0000001/full/full/0/default.jpg
-畫本野山草. [4],https://www.dl.ndl.go.jp/api/iiif/2557220/manifest.json,zukan,20,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557220/T0000001/full/full/0/default.jpg
+朝顔叢. 上巻,https://www.dl.ndl.go.jp/api/iiif/2536620/manifest.json,zukan,35,11,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536620/T0000001/full/full/0/default.jpg
+畫本野山草. [4],https://www.dl.ndl.go.jp/api/iiif/2557220/manifest.json,zukan,20,16,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557220/T0000001/full/full/0/default.jpg
 梅園草木花譜春之部. 4,https://www.dl.ndl.go.jp/api/iiif/1287283/manifest.json,zukan,59,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287283/T0000001/full/full/0/default.jpg
 畫本野山草. [2],https://www.dl.ndl.go.jp/api/iiif/2557218/manifest.json,zukan,22,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557218/T0000001/full/full/0/default.jpg
 梅園草木花譜春之部. 2,https://www.dl.ndl.go.jp/api/iiif/1287281/manifest.json,zukan,49,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287281/T0000001/full/full/0/default.jpg
@@ -26,14 +26,14 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 艸花繪前集. [1],https://www.dl.ndl.go.jp/api/iiif/2586993/manifest.json,zukan,21,21,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2586993/T0000001/full/full/0/default.jpg
 梅園草木花譜秋之部. 2,https://www.dl.ndl.go.jp/api/iiif/1287292/manifest.json,zukan,45,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287292/T0000001/full/full/0/default.jpg
 本草図譜. 巻79-81,https://www.dl.ndl.go.jp/api/iiif/2550800/manifest.json,zukan,92,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550800/T0000001/full/full/0/default.jpg
-錦繍枕 5巻. [3],https://www.dl.ndl.go.jp/api/iiif/2557567/manifest.json,zukan,29,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557567/T0000001/full/full/0/default.jpg
+錦繍枕 5巻. [3],https://www.dl.ndl.go.jp/api/iiif/2557567/manifest.json,zukan,29,28,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557567/T0000001/full/full/0/default.jpg
 目八譜. 第９巻,https://www.dl.ndl.go.jp/api/iiif/1287304/manifest.json,zukan,95,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287304/T0000001/full/full/0/default.jpg
 本草図譜. 巻10-12,https://www.dl.ndl.go.jp/api/iiif/2550777/manifest.json,zukan,65,2,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550777/T0000001/full/full/0/default.jpg
 怡顔斎梅品 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557787/manifest.json,zukan,50,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557787/T0000001/full/full/0/default.jpg
-怡顔齋櫻品,https://www.dl.ndl.go.jp/api/iiif/2536945/manifest.json,zukan,98,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536945/T0000001/full/full/0/default.jpg
+怡顔齋櫻品,https://www.dl.ndl.go.jp/api/iiif/2536945/manifest.json,zukan,98,98,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536945/T0000001/full/full/0/default.jpg
 本草図譜. 巻67-69,https://www.dl.ndl.go.jp/api/iiif/2550796/manifest.json,zukan,90,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550796/T0000001/full/full/0/default.jpg
 梅園魚品図正. 巻１,https://www.dl.ndl.go.jp/api/iiif/1287112/manifest.json,zukan,56,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287112/T0000001/full/full/0/default.jpg
-畫本野山草. [5],https://www.dl.ndl.go.jp/api/iiif/2557221/manifest.json,zukan,24,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557221/T0000001/full/full/0/default.jpg
+畫本野山草. [5],https://www.dl.ndl.go.jp/api/iiif/2557221/manifest.json,zukan,24,24,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557221/T0000001/full/full/0/default.jpg
 鯨史稿 6巻. [3],https://www.dl.ndl.go.jp/api/iiif/2575477/manifest.json,zukan,89,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2575477/T0000001/full/full/0/default.jpg
 畫圖百花鳥 5巻. [2],https://www.dl.ndl.go.jp/api/iiif/2546759/manifest.json,zukan,25,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2546759/T0000001/full/full/0/default.jpg
 草木奇品家雅見 3巻. [1],https://www.dl.ndl.go.jp/api/iiif/2558232/manifest.json,zukan,45,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2558232/T0000001/full/full/0/default.jpg
@@ -44,9 +44,9 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 本草図譜. 巻73-75,https://www.dl.ndl.go.jp/api/iiif/2550798/manifest.json,zukan,63,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550798/T0000001/full/full/0/default.jpg
 本草図譜. 巻5-6,https://www.dl.ndl.go.jp/api/iiif/2550775/manifest.json,zukan,71,3,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550775/T0000001/full/full/0/default.jpg
 梅園草木花譜春之部. 1,https://www.dl.ndl.go.jp/api/iiif/1287280/manifest.json,zukan,56,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287280/T0000001/full/full/0/default.jpg
-華鳥譜,https://www.dl.ndl.go.jp/api/iiif/1286931/manifest.json,zukan,71,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286931/T0000001/full/full/0/default.jpg
+華鳥譜,https://www.dl.ndl.go.jp/api/iiif/1286931/manifest.json,zukan,71,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286931/T0000001/full/full/0/default.jpg
 目八譜. 第１巻,https://www.dl.ndl.go.jp/api/iiif/1286773/manifest.json,zukan,89,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286773/T0000001/full/full/0/default.jpg
-本草図譜. 巻13-15,https://www.dl.ndl.go.jp/api/iiif/2550778/manifest.json,zukan,79,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550778/T0000001/full/full/0/default.jpg
+本草図譜. 巻13-15,https://www.dl.ndl.go.jp/api/iiif/2550778/manifest.json,zukan,79,4,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550778/T0000001/full/full/0/default.jpg
 目八譜. 第１３巻,https://www.dl.ndl.go.jp/api/iiif/1287308/manifest.json,zukan,56,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287308/T0000001/full/full/0/default.jpg
 畫圖百花鳥 5巻. [4],https://www.dl.ndl.go.jp/api/iiif/2546761/manifest.json,zukan,23,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2546761/T0000001/full/full/0/default.jpg
 有毒草木図説 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2556216/manifest.json,zukan,44,29,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2556216/T0000001/full/full/0/default.jpg
@@ -55,26 +55,26 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 潮干のつと,https://www.dl.ndl.go.jp/api/iiif/1288344/manifest.json,zukan,12,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1288344/T0000001/full/full/0/default.jpg
 鯨史稿 6巻. [1],https://www.dl.ndl.go.jp/api/iiif/2575475/manifest.json,zukan,87,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2575475/T0000001/full/full/0/default.jpg
 梅園草木花譜夏之部. 1,https://www.dl.ndl.go.jp/api/iiif/1286769/manifest.json,zukan,54,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286769/T0000001/full/full/0/default.jpg
-絵本百千鳥. 2,https://www.dl.ndl.go.jp/api/iiif/8943230/manifest.json,zukan,11,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/8943230/T0000001/full/full/0/default.jpg
-草木性譜 3巻. [1],https://www.dl.ndl.go.jp/api/iiif/2555814/manifest.json,zukan,38,4,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555814/T0000001/full/full/0/default.jpg
+絵本百千鳥. 2,https://www.dl.ndl.go.jp/api/iiif/8943230/manifest.json,zukan,11,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/8943230/T0000001/full/full/0/default.jpg
+草木性譜 3巻. [1],https://www.dl.ndl.go.jp/api/iiif/2555814/manifest.json,zukan,38,3,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555814/T0000001/full/full/0/default.jpg
 虫譜図説 12巻. [4],https://www.dl.ndl.go.jp/api/iiif/2553452/manifest.json,zukan,72,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553452/T0000001/full/full/0/default.jpg
-花菖培養録,https://www.dl.ndl.go.jp/api/iiif/2536396/manifest.json,zukan,33,15,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536396/T0000001/full/full/0/default.jpg
-誹諧名知折 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2556796/manifest.json,zukan,23,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2556796/T0000001/full/full/0/default.jpg
+花菖培養録,https://www.dl.ndl.go.jp/api/iiif/2536396/manifest.json,zukan,33,16,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536396/T0000001/full/full/0/default.jpg
+誹諧名知折 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2556796/manifest.json,zukan,23,3,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2556796/T0000001/full/full/0/default.jpg
 本草図譜. 巻52-54,https://www.dl.ndl.go.jp/api/iiif/2550791/manifest.json,zukan,74,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550791/T0000001/full/full/0/default.jpg
 花彙 草部4巻木部4巻. [2],https://www.dl.ndl.go.jp/api/iiif/2555608/manifest.json,zukan,112,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555608/T0000001/full/full/0/default.jpg
-怡顔斎菌品 2巻,https://www.dl.ndl.go.jp/api/iiif/2536362/manifest.json,zukan,43,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536362/T0000001/full/full/0/default.jpg
+怡顔斎菌品 2巻,https://www.dl.ndl.go.jp/api/iiif/2536362/manifest.json,zukan,43,13,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536362/T0000001/full/full/0/default.jpg
 龍乃宮津子,https://www.dl.ndl.go.jp/api/iiif/8929636/manifest.json,zukan,36,33,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/8929636/T0000001/full/full/0/default.jpg
 花壇朝顔通 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557561/manifest.json,zukan,33,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557561/T0000001/full/full/0/default.jpg
 怡顔斎梅品 2巻. [2],https://www.dl.ndl.go.jp/api/iiif/2557788/manifest.json,zukan,46,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557788/T0000001/full/full/0/default.jpg
 水族四帖. 冬,https://www.dl.ndl.go.jp/api/iiif/1287130/manifest.json,zukan,69,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287130/T0000001/full/full/0/default.jpg
-錦繍枕 5巻. [2],https://www.dl.ndl.go.jp/api/iiif/2557566/manifest.json,zukan,28,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557566/T0000001/full/full/0/default.jpg
+錦繍枕 5巻. [2],https://www.dl.ndl.go.jp/api/iiif/2557566/manifest.json,zukan,28,27,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557566/T0000001/full/full/0/default.jpg
 本草図譜. 巻46-48,https://www.dl.ndl.go.jp/api/iiif/2550789/manifest.json,zukan,91,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550789/T0000001/full/full/0/default.jpg
 目八譜. 第８巻,https://www.dl.ndl.go.jp/api/iiif/1287303/manifest.json,zukan,79,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287303/T0000001/full/full/0/default.jpg
 目八譜. 第１２巻,https://www.dl.ndl.go.jp/api/iiif/1287307/manifest.json,zukan,51,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287307/T0000001/full/full/0/default.jpg
 草木性譜 3巻. [2],https://www.dl.ndl.go.jp/api/iiif/2555815/manifest.json,zukan,38,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555815/T0000001/full/full/0/default.jpg
 本草図譜. 巻31-33,https://www.dl.ndl.go.jp/api/iiif/2550784/manifest.json,zukan,73,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550784/T0000001/full/full/0/default.jpg
 梅園禽譜,https://www.dl.ndl.go.jp/api/iiif/1286915/manifest.json,zukan,111,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1286915/T0000001/full/full/0/default.jpg
-錦繍枕 5巻. [4],https://www.dl.ndl.go.jp/api/iiif/2557568/manifest.json,zukan,41,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557568/T0000001/full/full/0/default.jpg
+錦繍枕 5巻. [4],https://www.dl.ndl.go.jp/api/iiif/2557568/manifest.json,zukan,41,35,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557568/T0000001/full/full/0/default.jpg
 水族四帖. 夏,https://www.dl.ndl.go.jp/api/iiif/1287212/manifest.json,zukan,57,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287212/T0000001/full/full/0/default.jpg
 艸花繪前集. [2],https://www.dl.ndl.go.jp/api/iiif/2586994/manifest.json,zukan,22,22,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2586994/T0000001/full/full/0/default.jpg
 本草図譜. 巻16-18,https://www.dl.ndl.go.jp/api/iiif/2550779/manifest.json,zukan,90,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550779/T0000001/full/full/0/default.jpg
@@ -92,11 +92,11 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 艸花繪前集. [3],https://www.dl.ndl.go.jp/api/iiif/2586995/manifest.json,zukan,22,22,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2586995/T0000001/full/full/0/default.jpg
 目八譜. 第１５巻,https://www.dl.ndl.go.jp/api/iiif/1287310/manifest.json,zukan,35,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287310/T0000001/full/full/0/default.jpg
 千蟲譜 3巻. [3],https://www.dl.ndl.go.jp/api/iiif/2576063/manifest.json,zukan,88,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2576063/T0000001/full/full/0/default.jpg
-錦繍枕 5巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557565/manifest.json,zukan,31,12,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557565/T0000001/full/full/0/default.jpg
+錦繍枕 5巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557565/manifest.json,zukan,31,31,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557565/T0000001/full/full/0/default.jpg
 水族四帖. 春,https://www.dl.ndl.go.jp/api/iiif/1287211/manifest.json,zukan,53,1,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287211/T0000001/full/full/0/default.jpg
 梅園草木花譜秋之部. 3,https://www.dl.ndl.go.jp/api/iiif/1287293/manifest.json,zukan,55,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287293/T0000001/full/full/0/default.jpg
-本草図譜. 巻25-27,https://www.dl.ndl.go.jp/api/iiif/2550782/manifest.json,zukan,72,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550782/T0000001/full/full/0/default.jpg
-これこれ草 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557264/manifest.json,zukan,38,26,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557264/T0000001/full/full/0/default.jpg
+本草図譜. 巻25-27,https://www.dl.ndl.go.jp/api/iiif/2550782/manifest.json,zukan,72,72,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550782/T0000001/full/full/0/default.jpg
+これこれ草 2巻. [1],https://www.dl.ndl.go.jp/api/iiif/2557264/manifest.json,zukan,38,38,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2557264/T0000001/full/full/0/default.jpg
 目八譜. 第４巻,https://www.dl.ndl.go.jp/api/iiif/1287299/manifest.json,zukan,81,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287299/T0000001/full/full/0/default.jpg
 千蟲譜 3巻. [2],https://www.dl.ndl.go.jp/api/iiif/2576062/manifest.json,zukan,92,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2576062/T0000001/full/full/0/default.jpg
 虫譜図説 12巻. [2],https://www.dl.ndl.go.jp/api/iiif/2553450/manifest.json,zukan,69,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553450/T0000001/full/full/0/default.jpg
@@ -104,9 +104,9 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 畫圖百花鳥 5巻. [5],https://www.dl.ndl.go.jp/api/iiif/2546762/manifest.json,zukan,29,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2546762/T0000001/full/full/0/default.jpg
 目八譜. 第１０巻,https://www.dl.ndl.go.jp/api/iiif/1287305/manifest.json,zukan,75,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287305/T0000001/full/full/0/default.jpg
 本草図譜. 巻7-9,https://www.dl.ndl.go.jp/api/iiif/2550776/manifest.json,zukan,90,2,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550776/T0000001/full/full/0/default.jpg
-蝦夷草木図,https://www.dl.ndl.go.jp/api/iiif/2533718/manifest.json,zukan,78,12,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2533718/T0000001/full/full/0/default.jpg
+蝦夷草木図,https://www.dl.ndl.go.jp/api/iiif/2533718/manifest.json,zukan,78,64,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2533718/T0000001/full/full/0/default.jpg
 絵本時津艸,https://www.dl.ndl.go.jp/api/iiif/2536732/manifest.json,zukan,18,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536732/T0000001/full/full/0/default.jpg
-本草図譜. 巻28-30,https://www.dl.ndl.go.jp/api/iiif/2550783/manifest.json,zukan,72,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550783/T0000001/full/full/0/default.jpg
+本草図譜. 巻28-30,https://www.dl.ndl.go.jp/api/iiif/2550783/manifest.json,zukan,72,71,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550783/T0000001/full/full/0/default.jpg
 梅園草木花譜秋之部. 4,https://www.dl.ndl.go.jp/api/iiif/1287294/manifest.json,zukan,58,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287294/T0000001/full/full/0/default.jpg
 皇和魚譜 2巻,https://www.dl.ndl.go.jp/api/iiif/2537042/manifest.json,zukan,57,57,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2537042/T0000001/full/full/0/default.jpg
 本草図譜. 巻85-87,https://www.dl.ndl.go.jp/api/iiif/2550802/manifest.json,zukan,74,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550802/T0000001/full/full/0/default.jpg
@@ -115,7 +115,7 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 水族四帖. 秋,https://www.dl.ndl.go.jp/api/iiif/1287012/manifest.json,zukan,61,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/1287012/T0000001/full/full/0/default.jpg
 有毒草木図説 2巻. [2],https://www.dl.ndl.go.jp/api/iiif/2556217/manifest.json,zukan,40,2,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2556217/T0000001/full/full/0/default.jpg
 誹諧名知折 2巻. [2],https://www.dl.ndl.go.jp/api/iiif/2556797/manifest.json,zukan,24,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2556797/T0000001/full/full/0/default.jpg
-花彙 草部4巻木部4巻. [1],https://www.dl.ndl.go.jp/api/iiif/2555607/manifest.json,zukan,114,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555607/T0000001/full/full/0/default.jpg
+花彙 草部4巻木部4巻. [1],https://www.dl.ndl.go.jp/api/iiif/2555607/manifest.json,zukan,114,100,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2555607/T0000001/full/full/0/default.jpg
 本草図譜. 巻58-60,https://www.dl.ndl.go.jp/api/iiif/2550793/manifest.json,zukan,83,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550793/T0000001/full/full/0/default.jpg
 本草図譜. 巻94-96,https://www.dl.ndl.go.jp/api/iiif/2550805/manifest.json,zukan,72,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550805/T0000001/full/full/0/default.jpg
 水谷禽譜. [5],https://www.dl.ndl.go.jp/api/iiif/2553658/manifest.json,zukan,64,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553658/T0000001/full/full/0/default.jpg
@@ -126,7 +126,7 @@ label,manifestUrl,projectId,size,progress,attribution,thumbnail
 本草図譜. 巻34-36,https://www.dl.ndl.go.jp/api/iiif/2550785/manifest.json,zukan,86,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550785/T0000001/full/full/0/default.jpg
 虫譜図説 12巻. [5],https://www.dl.ndl.go.jp/api/iiif/2553453/manifest.json,zukan,68,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553453/T0000001/full/full/0/default.jpg
 救荒野菜圖説,https://www.dl.ndl.go.jp/api/iiif/2536199/manifest.json,zukan,11,11,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2536199/T0000001/full/full/0/default.jpg
-水谷禽譜. [1],https://www.dl.ndl.go.jp/api/iiif/2553654/manifest.json,zukan,66,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553654/T0000001/full/full/0/default.jpg
+水谷禽譜. [1],https://www.dl.ndl.go.jp/api/iiif/2553654/manifest.json,zukan,66,2,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553654/T0000001/full/full/0/default.jpg
 虫譜図説 12巻. [6],https://www.dl.ndl.go.jp/api/iiif/2553454/manifest.json,zukan,68,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553454/T0000001/full/full/0/default.jpg
 本草図譜. 巻76-78,https://www.dl.ndl.go.jp/api/iiif/2550799/manifest.json,zukan,69,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2550799/T0000001/full/full/0/default.jpg
 虫譜図説 12巻. [1],https://www.dl.ndl.go.jp/api/iiif/2553449/manifest.json,zukan,75,0,国立国会図書館 National Diet Library, JAPAN,https://www.dl.ndl.go.jp/api/iiif/2553449/T0000001/full/full/0/default.jpg

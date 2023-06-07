@@ -1,14 +1,14 @@
 filename,status,image
-001.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00000.tif/full/full/0/default.jpg
-002.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00001.tif/full/full/0/default.jpg
+001.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00000.tif/full/full/0/default.jpg
+002.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00001.tif/full/full/0/default.jpg
 003.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00002.tif/full/full/0/default.jpg
 004.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00003.tif/full/full/0/default.jpg
 005.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00004.tif/full/full/0/default.jpg
 006.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00005.tif/full/full/0/default.jpg
 007.txt,default,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00006.tif/full/full/0/default.jpg
 008.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00007.tif/full/full/0/default.jpg
-009.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00008.tif/full/full/0/default.jpg
-010.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00009.tif/full/full/0/default.jpg
+009.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00008.tif/full/full/0/default.jpg
+010.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00009.tif/full/full/0/default.jpg
 011.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00010.tif/full/full/0/default.jpg
 012.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00011.tif/full/full/0/default.jpg
 013.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00012.tif/full/full/0/default.jpg
@@ -124,7 +124,7 @@ filename,status,image
 123.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00122.tif/full/full/0/default.jpg
 124.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00123.tif/full/full/0/default.jpg
 125.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00124.tif/full/full/0/default.jpg
-126.txt,initiated,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00125.tif/full/full/0/default.jpg
+126.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00125.tif/full/full/0/default.jpg
 127.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00126.tif/full/full/0/default.jpg
 128.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00127.tif/full/full/0/default.jpg
 129.txt,completed,https://kotenseki.nijl.ac.jp/api/iiif/100346858/v4/TKGK/TKGK-00033/TKGK-00033-00128.tif/full/full/0/default.jpg

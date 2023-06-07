@@ -88,7 +88,7 @@ filename,status,image
 087.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000087/full/full/0/default.jpg
 088.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000088/full/full/0/default.jpg
 089.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000089/full/full/0/default.jpg
-090.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000090/full/full/0/default.jpg
+090.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000090/full/full/0/default.jpg
 091.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000091/full/full/0/default.jpg
 092.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000092/full/full/0/default.jpg
 093.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000093/full/full/0/default.jpg
@@ -125,7 +125,7 @@ filename,status,image
 124.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000124/full/full/0/default.jpg
 125.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000125/full/full/0/default.jpg
 126.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000126/full/full/0/default.jpg
-127.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000127/full/full/0/default.jpg
+127.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000127/full/full/0/default.jpg
 128.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000128/full/full/0/default.jpg
 129.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000129/full/full/0/default.jpg
 130.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000130/full/full/0/default.jpg
@@ -167,11 +167,11 @@ filename,status,image
 166.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000166/full/full/0/default.jpg
 167.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000167/full/full/0/default.jpg
 168.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000168/full/full/0/default.jpg
-169.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000169/full/full/0/default.jpg
-170.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000170/full/full/0/default.jpg
-171.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000171/full/full/0/default.jpg
-172.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000172/full/full/0/default.jpg
-173.txt,default,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000173/full/full/0/default.jpg
+169.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000169/full/full/0/default.jpg
+170.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000170/full/full/0/default.jpg
+171.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000171/full/full/0/default.jpg
+172.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000172/full/full/0/default.jpg
+173.txt,initiated,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000173/full/full/0/default.jpg
 174.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000174/full/full/0/default.jpg
 175.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000175/full/full/0/default.jpg
 176.txt,completed,https://www.dl.ndl.go.jp/api/iiif/1176185/R0000176/full/full/0/default.jpg
