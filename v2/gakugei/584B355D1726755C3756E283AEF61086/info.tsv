@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000453__00001.tif/full/full/0/default.jpg
 002.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000453__00002.tif/full/full/0/default.jpg
 003.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000453__00003.tif/full/full/0/default.jpg

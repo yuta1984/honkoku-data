@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/2546782/R0000067/full/full/0/default.jpg
 002.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/2546782/R0000068/full/full/0/default.jpg
 003.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/2546782/R0000069/full/full/0/default.jpg

@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://www.dheq.org/repo/iiif-img/3362/full/full/0/default.jpg
 002.txt	initiated	https://www.dheq.org/repo/iiif-img/3363/full/full/0/default.jpg
 003.txt	initiated	https://www.dheq.org/repo/iiif-img/3364/full/full/0/default.jpg

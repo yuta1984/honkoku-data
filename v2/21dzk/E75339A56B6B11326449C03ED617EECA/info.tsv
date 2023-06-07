@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1010.tif/full/full/0/default.jpg
 002.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1011.tif/full/full/0/default.jpg
 003.txt	initiated	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1012.tif/full/full/0/default.jpg

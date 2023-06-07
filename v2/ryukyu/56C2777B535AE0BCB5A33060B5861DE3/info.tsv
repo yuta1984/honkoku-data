@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW449%2FHW449_001.tif/full/full/0/default.jpg
 002.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW449%2FHW449_002.tif/full/full/0/default.jpg
 003.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW449%2FHW449_003.tif/full/full/0/default.jpg

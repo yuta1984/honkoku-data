@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045348/3045348_0000001.jpx/full/full/0/default.jpg
 002.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045349/3045349_0000002.jpx/full/full/0/default.jpg
 003.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045350/3045350_0000003.jpx/full/full/0/default.jpg
@@ -27,7 +27,7 @@ filename,status,image
 026.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045373/3045373_0000026.jpx/full/full/0/default.jpg
 027.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045374/3045374_0000027.jpx/full/full/0/default.jpg
 028.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045375/3045375_0000028.jpx/full/full/0/default.jpg
-029.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045376/3045376_0000029.jpx/full/full/0/default.jpg
+029.txt	editing	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045376/3045376_0000029.jpx/full/full/0/default.jpg
 030.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045377/3045377_0000030.jpx/full/full/0/default.jpg
 031.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045378/3045378_0000031.jpx/full/full/0/default.jpg
 032.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009307/3045379/3045379_0000032.jpx/full/full/0/default.jpg

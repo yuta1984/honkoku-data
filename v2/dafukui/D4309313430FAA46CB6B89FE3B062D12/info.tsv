@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/X0280000/X0280013/2980025_2014010100002800013.jpx/full/full/0/default.jpg
 002.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/X0280000/X0280013/2980026_2014010100002800013.jpx/full/full/0/default.jpg
 003.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/X0280000/X0280013/2980027_2014010100002800013.jpx/full/full/0/default.jpg

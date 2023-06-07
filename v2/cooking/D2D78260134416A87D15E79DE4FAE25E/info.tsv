@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249770/v4/AJNM/AJNM-00255/AJNM-00255-00001.tif/full/full/0/default.jpg
 002.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100249770/v4/AJNM/AJNM-00255/AJNM-00255-00002.tif/full/full/0/default.jpg
 003.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249770/v4/AJNM/AJNM-00255/AJNM-00255-00003.tif/full/full/0/default.jpg

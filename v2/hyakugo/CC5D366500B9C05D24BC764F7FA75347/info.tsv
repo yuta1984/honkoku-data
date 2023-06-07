@@ -1,3 +1,3 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/046_11530_0000.tif/full/full/0/default.jpg
 002.txt	completed	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/046_11530_0001.tif/full/full/0/default.jpg

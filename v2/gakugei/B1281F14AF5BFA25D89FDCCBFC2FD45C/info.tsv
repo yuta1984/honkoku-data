@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346891/v4/TKGK/TKGK-00066/TKGK-00066-00000.tif/full/full/0/default.jpg
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346891/v4/TKGK/TKGK-00066/TKGK-00066-00001.tif/full/full/0/default.jpg
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346891/v4/TKGK/TKGK-00066/TKGK-00066-00002.tif/full/full/0/default.jpg

@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	default	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009309/3045645/3045645_0000001.jpx/full/full/0/default.jpg
 002.txt	default	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009309/3045646/3045646_0000002.jpx/full/full/0/default.jpg
 003.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2009309/3045647/3045647_0000003.jpx/full/full/0/default.jpg

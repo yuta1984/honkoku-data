@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	initiated	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/029_07168_0000.tif/full/full/0/default.jpg
 002.txt	completed	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/029_07168_0001.tif/full/full/0/default.jpg
 003.txt	completed	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/029_07168_0002.tif/full/full/0/default.jpg

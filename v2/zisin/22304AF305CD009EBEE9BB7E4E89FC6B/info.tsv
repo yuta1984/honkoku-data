@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/200017690/v4/NIAC/MIT-Y01422-003/MIT-Y01422-003-00001.tif/full/full/0/default.jpg
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/200017690/v4/NIAC/MIT-Y01422-003/MIT-Y01422-003-00002.tif/full/full/0/default.jpg
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/200017690/v4/NIAC/MIT-Y01422-003/MIT-Y01422-003-00003.tif/full/full/0/default.jpg

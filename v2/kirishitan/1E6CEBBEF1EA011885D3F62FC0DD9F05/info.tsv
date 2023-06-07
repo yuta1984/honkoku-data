@@ -1,4 +1,4 @@
-filename,status,image
+filename  status  image
 001.txt	default	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0001-sub.0001_fa_0001r.jp2/full/full/0/default.jpg
 002.txt	default	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0002-sub.0001_fa_0001v.jp2/full/full/0/default.jpg
 003.txt	default	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0003-sub.0001_fa_0002r.jp2/full/full/0/default.jpg
