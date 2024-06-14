@@ -1,27 +1,27 @@
 filename	status	image
-001.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00001.tif/full/full/0/default.jpg
-002.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00002.tif/full/full/0/default.jpg
-003.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00003.tif/full/full/0/default.jpg
-004.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00004.tif/full/full/0/default.jpg
-005.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00005.tif/full/full/0/default.jpg
-006.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00006.tif/full/full/0/default.jpg
-007.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00007.tif/full/full/0/default.jpg
-008.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00008.tif/full/full/0/default.jpg
-009.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00009.tif/full/full/0/default.jpg
-010.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00010.tif/full/full/0/default.jpg
-011.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00011.tif/full/full/0/default.jpg
-012.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00012.tif/full/full/0/default.jpg
-013.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00013.tif/full/full/0/default.jpg
-014.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00014.tif/full/full/0/default.jpg
-015.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00015.tif/full/full/0/default.jpg
-016.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00016.tif/full/full/0/default.jpg
-017.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00017.tif/full/full/0/default.jpg
-018.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00018.tif/full/full/0/default.jpg
-019.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00019.tif/full/full/0/default.jpg
-020.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00020.tif/full/full/0/default.jpg
-021.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00021.tif/full/full/0/default.jpg
-022.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00022.tif/full/full/0/default.jpg
-023.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00023.tif/full/full/0/default.jpg
-024.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00024.tif/full/full/0/default.jpg
-025.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00025.tif/full/full/0/default.jpg
-026.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00026.tif/full/full/0/default.jpg
+001.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00001.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p1
+002.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00002.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p2
+003.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00003.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p3
+004.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00004.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p4
+005.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00005.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p5
+006.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00006.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p6
+007.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00007.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p7
+008.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00008.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p8
+009.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00009.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p9
+010.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00010.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p10
+011.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00011.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p11
+012.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00012.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p12
+013.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00013.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p13
+014.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00014.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p14
+015.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00015.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p15
+016.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00016.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p16
+017.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00017.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p17
+018.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00018.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p18
+019.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00019.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p19
+020.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00020.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p20
+021.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00021.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p21
+022.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00022.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p22
+023.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20000838__00023.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p23
+024.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00024.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p24
+025.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00025.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p25
+026.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20000838__00026.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3631/canvas/p26

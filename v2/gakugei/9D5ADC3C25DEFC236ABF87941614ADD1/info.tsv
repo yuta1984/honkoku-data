@@ -1,15 +1,15 @@
 filename	status	image
-001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00000.tif/full/full/0/default.jpg
-002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00001.tif/full/full/0/default.jpg
-003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00002.tif/full/full/0/default.jpg
-004.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00003.tif/full/full/0/default.jpg
-005.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00004.tif/full/full/0/default.jpg
-006.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00005.tif/full/full/0/default.jpg
-007.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00006.tif/full/full/0/default.jpg
-008.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00007.tif/full/full/0/default.jpg
-009.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00008.tif/full/full/0/default.jpg
-010.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00009.tif/full/full/0/default.jpg
-011.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00010.tif/full/full/0/default.jpg
-012.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00011.tif/full/full/0/default.jpg
-013.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00012.tif/full/full/0/default.jpg
-014.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00013.tif/full/full/0/default.jpg
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/1
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/2
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/3
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00003.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/4
+005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00004.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/5
+006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00005.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/6
+007.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00006.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/7
+008.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00007.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/8
+009.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00008.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/9
+010.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00009.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/10
+011.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00010.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/11
+012.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00011.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/12
+013.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00012.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/13
+014.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346862/v4/TKGK/TKGK-00037/TKGK-00037-00013.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346862/canvas/14

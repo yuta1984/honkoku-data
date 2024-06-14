@@ -1,9 +1,9 @@
 filename	status	image
-001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f1/full/full/0/default.jpg
-002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f2/full/full/0/default.jpg
-003.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f3/full/full/0/default.jpg
-004.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f4/full/full/0/default.jpg
-005.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f5/full/full/0/default.jpg
-006.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f6/full/full/0/default.jpg
-007.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f7/full/full/0/default.jpg
-008.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f8/full/full/0/default.jpg
+001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f1/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f1
+002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f2/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f2
+003.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f3/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f3
+004.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f4/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f4
+005.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f5/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f5
+006.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f6/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f6
+007.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f7/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f7
+008.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/f8/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b53054661b/canvas/f8

@@ -1,21 +1,21 @@
 filename	status	image
-001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f1/full/full/0/default.jpg
-002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f2/full/full/0/default.jpg
-003.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f3/full/full/0/default.jpg
-004.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f4/full/full/0/default.jpg
-005.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f5/full/full/0/default.jpg
-006.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f6/full/full/0/default.jpg
-007.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f7/full/full/0/default.jpg
-008.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f8/full/full/0/default.jpg
-009.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f9/full/full/0/default.jpg
-010.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f10/full/full/0/default.jpg
-011.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f11/full/full/0/default.jpg
-012.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f12/full/full/0/default.jpg
-013.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f13/full/full/0/default.jpg
-014.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f14/full/full/0/default.jpg
-015.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f15/full/full/0/default.jpg
-016.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f16/full/full/0/default.jpg
-017.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f17/full/full/0/default.jpg
-018.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f18/full/full/0/default.jpg
-019.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f19/full/full/0/default.jpg
-020.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f20/full/full/0/default.jpg
+001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f1/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f1
+002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f2/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f2
+003.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f3/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f3
+004.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f4/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f4
+005.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f5/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f5
+006.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f6/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f6
+007.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f7/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f7
+008.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f8/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f8
+009.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f9/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f9
+010.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f10/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f10
+011.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f11/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f11
+012.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f12/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f12
+013.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f13/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f13
+014.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f14/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f14
+015.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f15/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f15
+016.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f16/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f16
+017.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f17/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f17
+018.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f18/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f18
+019.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f19/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f19
+020.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/f20/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83057921/canvas/f20

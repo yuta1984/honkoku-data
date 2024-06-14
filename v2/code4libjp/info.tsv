@@ -1,5 +1,5 @@
 id	label	manifestUrl	projectId	size	progress	attribution	thumbnail
-0AEE874FB6D5447744AF438BEE410AA1	豊橋市史談	https://www.dl.ndl.go.jp/api/iiif/954691/manifest.json	code4libjp	382	303	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/954691/F0000001/full/full/0/default.jpg
+0AEE874FB6D5447744AF438BEE410AA1	豊橋市史談	https://www.dl.ndl.go.jp/api/iiif/954691/manifest.json	code4libjp	382	310	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/954691/F0000001/full/full/0/default.jpg
 0B334CE8C1E66994B5442D53CCA993C0	東参名勝案内	https://www.dl.ndl.go.jp/api/iiif/765200/manifest.json	code4libjp	72	72	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/765200/F0000001/full/full/0/default.jpg
 0F1A0EF54F5F2D9AD1046A7A319E1EAE	新釈輿地図説	https://www.dl.ndl.go.jp/api/iiif/2532343/manifest.json	code4libjp	51	51	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/2532343/T0000001/full/full/0/default.jpg
 155156C21FD32273BD5053C3A5D51FDF	豊橋市都市計画第一期事業報告書	https://www.dl.ndl.go.jp/api/iiif/1222164/manifest.json	code4libjp	154	61	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/1222164/T0000001/full/full/0/default.jpg
@@ -7,7 +7,7 @@ id	label	manifestUrl	projectId	size	progress	attribution	thumbnail
 1A494B6498668B44079F1639676167C5	産業の豊橋	https://www.dl.ndl.go.jp/api/iiif/1233585/manifest.json	code4libjp	23	23	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/1233585/T0000001/full/full/0/default.jpg
 1ED3724F7843A3D550A9580F76E1C691	[歴民カード_歴史] 浪図	https://khirin-i.rekihaku.ac.jp/manifests/nmjh_rekimin_h/12349023.json	code4libjp	2	2		https://khirin-i.rekihaku.ac.jp/iiif/nmjh_rekimin_h/12349023_01.tif/full/400,/0/default.jpg
 31FB4EF2DB42E04B62082677E21DBFED	[歴民カード_歴史] 群雀図	https://khirin-i.rekihaku.ac.jp/manifests/nmjh_rekimin_h/12349040.json	code4libjp	2	2		https://khirin-i.rekihaku.ac.jp/iiif/nmjh_rekimin_h/12349040_01.tif/full/400,/0/default.jpg
-3267947BFA815D17A999C72B81DBD62C	三河国古蹟考	https://kotenseki.nijl.ac.jp/biblio/200018495/manifest	code4libjp	208	97	国文学研究資料館	https://kotenseki.nijl.ac.jp/api/iiif/200018495/v4/NIAC/MIT-X00355-022/MIT-X00355-022-00001.tif/full/400,/0/default.jpg
+3267947BFA815D17A999C72B81DBD62C	三河国古蹟考	https://kotenseki.nijl.ac.jp/biblio/200018495/manifest	code4libjp	208	99	国文学研究資料館	https://kotenseki.nijl.ac.jp/api/iiif/200018495/v4/NIAC/MIT-X00355-022/MIT-X00355-022-00001.tif/full/400,/0/default.jpg
 38080F1AC374FE1AE712170DCDDA2E2F	豊橋商工案内. 昭和15年度版	https://www.dl.ndl.go.jp/api/iiif/1036236/manifest.json	code4libjp	147	31	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/1036236/F0000001/full/full/0/default.jpg
 3C1CCE60D696D93E3AC748AD95A1E045	書画五拾三駅　三河豊橋往昔戦争	https://www.dl.ndl.go.jp/api/iiif/1305684/manifest.json	code4libjp	1	1	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/1305684/T0000001/full/full/0/default.jpg
 3F8AD02580327F68C6540FF95F1B2943	豊橋市街圖	https://www.dl.ndl.go.jp/api/iiif/936980/manifest.json	code4libjp	8	8	国立国会図書館 National Diet Library, JAPAN	https://www.dl.ndl.go.jp/api/iiif/936980/F0000001/full/full/0/default.jpg

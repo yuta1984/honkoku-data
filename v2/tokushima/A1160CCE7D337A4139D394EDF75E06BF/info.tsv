@@ -1,6 +1,6 @@
 filename	status	image
-001.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0201.tif/full/full/0/default.jpg
-002.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0202.tif/full/full/0/default.jpg
-003.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0203.tif/full/full/0/default.jpg
-004.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0204.tif/full/full/0/default.jpg
-005.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0205.tif/full/full/0/default.jpg
+001.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0201.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5940/canvas/p1
+002.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0202.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5940/canvas/p2
+003.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0203.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5940/canvas/p3
+004.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0204.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5940/canvas/p4
+005.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__0205.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5940/canvas/p5
