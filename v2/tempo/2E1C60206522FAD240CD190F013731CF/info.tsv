@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2549976-001.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2549976/page1
 002.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2549976-002.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2549976/page2
 003.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2549976-003.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2549976/page3

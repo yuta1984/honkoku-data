@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952785/R0000123/full/full/0/default.jpg	
 002.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952785/R0000124/full/full/0/default.jpg	
 003.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952785/R0000125/full/full/0/default.jpg	

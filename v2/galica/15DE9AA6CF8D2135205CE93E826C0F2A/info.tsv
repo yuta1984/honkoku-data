@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/f1/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/canvas/f1
 002.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/f2/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/canvas/f2
 003.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/f3/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508703s/canvas/f3

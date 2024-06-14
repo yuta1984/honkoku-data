@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/arch_img/03232001/3232060_2017030815214700537.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-1040964/page1
 002.txt	default	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/arch_img/03232001/3232061_2017030815214800152.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-1040964/page2
 003.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/ikou/arch_img/03232001/3232062_2017030815214800997.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-1040964/page3

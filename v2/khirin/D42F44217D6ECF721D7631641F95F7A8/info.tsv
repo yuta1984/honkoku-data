@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F02-011-004-001.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/02-011-004-001.tif/canvas
 002.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F02-011-004-002.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/02-011-004-002.tif/canvas
 003.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F02-011-004-003.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/02-011-004-003.tif/canvas

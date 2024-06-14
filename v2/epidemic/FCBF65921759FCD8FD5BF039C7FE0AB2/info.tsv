@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100335606/v4/KYUS/KYUS-00399/KYUS-00399-00000.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100335606/canvas/1
 002.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100335606/v4/KYUS/KYUS-00399/KYUS-00399-00001.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100335606/canvas/2
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100335606/v4/KYUS/KYUS-00399/KYUS-00399-00002.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100335606/canvas/3

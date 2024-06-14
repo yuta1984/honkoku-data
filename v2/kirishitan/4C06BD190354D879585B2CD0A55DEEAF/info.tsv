@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100273859/v4/ORMK/ORMK-00459/ORMK-00459-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100273859/canvas/1
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100273859/v4/ORMK/ORMK-00459/ORMK-00459-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100273859/canvas/2
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100273859/v4/ORMK/ORMK-00459/ORMK-00459-00003.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100273859/canvas/3

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200017691/v4/NIAC/MIT-Y01422-004/MIT-Y01422-004-00001.tif/full/full/0/default.jpg	
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200017691/v4/NIAC/MIT-Y01422-004/MIT-Y01422-004-00002.tif/full/full/0/default.jpg	
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200017691/v4/NIAC/MIT-Y01422-004/MIT-Y01422-004-00003.tif/full/full/0/default.jpg	

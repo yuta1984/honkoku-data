@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0001-sub.0001_fa_0001r.jp2/full/full/0/default.jpg	https://digi.vatlib.it/iiif/MSS_Barb.or.153.pt.A/canvas/p0001-sub.0001
 002.txt	completed	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0002-sub.0001_fa_0001v.jp2/full/full/0/default.jpg	https://digi.vatlib.it/iiif/MSS_Barb.or.153.pt.A/canvas/p0002-sub.0001
 003.txt	completed	https://digi.vatlib.it/iiifimage/MSS_Barb.or.153.pt.A/Barb.or.153.pt.A_0003-sub.0001_fa_0002r.jp2/full/full/0/default.jpg	https://digi.vatlib.it/iiif/MSS_Barb.or.153.pt.A/canvas/p0003-sub.0001

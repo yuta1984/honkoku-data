@@ -1,3 +1,3 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/029_07134_0000.tif/full/full/0/default.jpg	
 002.txt	completed	https://iiif.khirin-labs.org/fcgi-bin/iipsrv.fcgi?IIIF=/hyakugo/029_07134_0001.tif/full/full/0/default.jpg	

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://image.kukozisin.org/iiif/2/T21030402__01.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/4979/canvas/p1
 002.txt	initiated	https://image.kukozisin.org/iiif/2/T21030402__02.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/4979/canvas/p2
 003.txt	initiated	https://image.kukozisin.org/iiif/2/T21030402__03.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/4979/canvas/p3

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081094/3081094_0000001.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page1
 002.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081095/3081095_0000002.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page2
 003.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081096/3081096_0000003.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page3
@@ -49,7 +49,7 @@ filename	status	image
 048.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081141/3081141_0000048.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page48
 049.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081142/3081142_0000049.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page49
 050.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081143/3081143_0000050.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page50
-051.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081144/3081144_0000051.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page51
+051.txt	editing	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081144/3081144_0000051.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page51
 052.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081145/3081145_0000052.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page52
 053.txt	initiated	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081146/3081146_0000053.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page53
 054.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007117/3081147/3081147_0000054.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007117/page54

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100345690/v4/KOBE/KOBE-01183/KOBE-01183-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100345690/canvas/1
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100345690/v4/KOBE/KOBE-01183/KOBE-01183-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100345690/canvas/2
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100345690/v4/KOBE/KOBE-01183/KOBE-01183-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100345690/canvas/3

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007131/3081942/3081942_0000001.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007131-0/page1
 002.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007131/3081943/3081943_0000002.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007131-0/page2
 003.txt	completed	https://www.library-archives.pref.fukui.lg.jp/archive/ics/viewer/iipsrv.fcgi?IIIF=/2007131/3081944/3081944_0000003.jpx/full/full/0/default.jpg	https://honkoku.org/manifests/fukui/011-011-2007131-0/page3

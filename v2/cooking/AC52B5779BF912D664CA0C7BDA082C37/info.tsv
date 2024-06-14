@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100301978/v4/YKHM/YKHM-10159/YKHM-10159-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100301978/canvas/1
 002.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100301978/v4/YKHM/YKHM-10159/YKHM-10159-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100301978/canvas/2
 003.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100301978/v4/YKHM/YKHM-10159/YKHM-10159-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100301978/canvas/3

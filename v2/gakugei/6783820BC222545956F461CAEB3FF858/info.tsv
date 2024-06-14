@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346844/v4/TKGK/TKGK-00019/TKGK-00019-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346844/canvas/1
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346844/v4/TKGK/TKGK-00019/TKGK-00019-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346844/canvas/2
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100346844/v4/TKGK/TKGK-00019/TKGK-00019-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100346844/canvas/3

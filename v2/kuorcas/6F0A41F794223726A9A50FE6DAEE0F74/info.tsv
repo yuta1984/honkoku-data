@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192%2F0001.tif/full/full/0/default.jpg	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192/page2565120
 002.txt	completed	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192%2F0002.tif/full/full/0/default.jpg	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192/page2565121
 003.txt	completed	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192%2F0003.tif/full/full/0/default.jpg	https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/208087192/page2565122

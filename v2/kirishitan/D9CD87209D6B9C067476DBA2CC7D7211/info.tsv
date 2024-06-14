@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://ids.lib.harvard.edu/ids/iiif/28470359/full/full/0/default.jpg	https://iiif.lib.harvard.edu/manifests/drs:28470156/canvas/canvas-28470359.json
 002.txt	completed	https://ids.lib.harvard.edu/ids/iiif/28470360/full/full/0/default.jpg	https://iiif.lib.harvard.edu/manifests/drs:28470156/canvas/canvas-28470360.json
 003.txt	completed	https://ids.lib.harvard.edu/ids/iiif/28470361/full/full/0/default.jpg	https://iiif.lib.harvard.edu/manifests/drs:28470156/canvas/canvas-28470361.json

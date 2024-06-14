@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0636/06360001.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b11fbdec-4a41-4811-b2ae-0629d42dd6d1/canvas/p1
 002.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0636/06360002.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b11fbdec-4a41-4811-b2ae-0629d42dd6d1/canvas/p2
 003.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0636/06360003.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b11fbdec-4a41-4811-b2ae-0629d42dd6d1/canvas/p3

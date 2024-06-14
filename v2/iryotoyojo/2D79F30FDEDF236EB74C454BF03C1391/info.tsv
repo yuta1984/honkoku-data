@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100259540/v4/HOKU/HOKU-00846/HOKU-00846-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100259540/canvas/1
 002.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100259540/v4/HOKU/HOKU-00846/HOKU-00846-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100259540/canvas/2
 003.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100259540/v4/HOKU/HOKU-00846/HOKU-00846-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100259540/canvas/3

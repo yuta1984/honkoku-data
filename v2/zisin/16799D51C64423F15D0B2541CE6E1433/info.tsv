@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000001.tif/full/full/0/default.jpg	
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000002.tif/full/full/0/default.jpg	
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000003.tif/full/full/0/default.jpg	

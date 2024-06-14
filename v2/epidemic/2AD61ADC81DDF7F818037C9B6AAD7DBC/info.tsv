@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00000.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/1
 002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00001.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/2
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00002.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/3

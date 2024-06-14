@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00001/full/full/0/default.jpg	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00117901/canvas/1
 002.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00002/full/full/0/default.jpg	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00117901/canvas/2
 003.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00003/full/full/0/default.jpg	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00117901/canvas/3

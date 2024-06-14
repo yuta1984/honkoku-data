@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/RB00004520_00001_0.ptif/full/full/0/default.jpg	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/page898299
 002.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/RB00004520_00002_0.ptif/full/full/0/default.jpg	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/page898300
 003.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/RB00004520_00003_0.ptif/full/full/0/default.jpg	https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004520/page898301

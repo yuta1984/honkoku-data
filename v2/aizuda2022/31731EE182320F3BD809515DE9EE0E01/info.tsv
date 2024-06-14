@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720215100!0720215100100010!289_sa_21!001.tif/full/full/0/default.jpg	https://adeac.jp/viewitem/city-aizuwakamatsu/viewer/iiif/289_sa_21/canvas/p1.json
 002.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720215100!0720215100100010!289_sa_21!002.tif/full/full/0/default.jpg	https://adeac.jp/viewitem/city-aizuwakamatsu/viewer/iiif/289_sa_21/canvas/p2.json
 003.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720215100!0720215100100010!289_sa_21!003.tif/full/full/0/default.jpg	https://adeac.jp/viewitem/city-aizuwakamatsu/viewer/iiif/289_sa_21/canvas/p3.json

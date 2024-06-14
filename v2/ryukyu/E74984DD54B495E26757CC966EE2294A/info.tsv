@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499%2FHW499_001.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499/pageHW4990010
 002.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499%2FHW499_002.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499/pageHW4990020
 003.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499%2FHW499_003.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW499/pageHW4990030

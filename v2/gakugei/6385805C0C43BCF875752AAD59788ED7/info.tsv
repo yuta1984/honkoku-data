@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2FTKGK-00061%2FTKGK-00061-00000.tif/full/full/0/default.jpg	https://d-archive.u-gakugei.ac.jp/iiif/2/TKGK-00061/pageTKGK-00061-00000
 002.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2FTKGK-00061%2FTKGK-00061-00001.tif/full/full/0/default.jpg	https://d-archive.u-gakugei.ac.jp/iiif/2/TKGK-00061/pageTKGK-00061-00001
 003.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2FTKGK-00061%2FTKGK-00061-00002.tif/full/full/0/default.jpg	https://d-archive.u-gakugei.ac.jp/iiif/2/TKGK-00061/pageTKGK-00061-00002

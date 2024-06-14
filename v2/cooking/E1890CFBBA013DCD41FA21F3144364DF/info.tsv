@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100239198/v4/NARA/NARA-00174/NARA-00174-00000.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100239198/canvas/1
 002.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100239198/v4/NARA/NARA-00174/NARA-00174-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100239198/canvas/2
 003.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100239198/v4/NARA/NARA-00174/NARA-00174-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100239198/canvas/3

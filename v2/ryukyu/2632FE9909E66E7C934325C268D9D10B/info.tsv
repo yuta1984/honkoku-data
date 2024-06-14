@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492%2FHW492_001.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492/pageHW4920010
 002.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492%2FHW492_002.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492/pageHW4920020
 003.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492%2FHW492_003.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW492/pageHW4920030

@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://cdm16028.contentdm.oclc.org/iiif/2/p16028coll7:11394/full/full/0/default.jpg	https://cdm16028.contentdm.oclc.org/digital/iiif/p16028coll7/11394/canvas/c0
 002.txt	completed	https://cdm16028.contentdm.oclc.org/iiif/2/p16028coll7:11395/full/full/0/default.jpg	https://cdm16028.contentdm.oclc.org/digital/iiif/p16028coll7/11395/canvas/c1
 003.txt	completed	https://cdm16028.contentdm.oclc.org/iiif/2/p16028coll7:11396/full/full/0/default.jpg	https://cdm16028.contentdm.oclc.org/digital/iiif/p16028coll7/11396/canvas/c2

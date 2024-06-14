@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	completed	https://iiif.lib.keio.ac.jp/iipsrv/FJK/F-e-7/tif/001.tif/full/full/0/default.jpg	
 002.txt	completed	https://iiif.lib.keio.ac.jp/iipsrv/FJK/F-e-7/tif/002-1.tif/full/full/0/default.jpg	
 003.txt	completed	https://iiif.lib.keio.ac.jp/iipsrv/FJK/F-e-7/tif/002-2.tif/full/full/0/default.jpg	

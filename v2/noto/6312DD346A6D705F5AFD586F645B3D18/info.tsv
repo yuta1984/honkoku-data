@@ -1,4 +1,4 @@
-filename	status	image
+filename	status	image	canvasId
 001.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B002430793/iiif/B0024307930001.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B002430793/canvas/p1
 002.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B002430793/iiif/B0024307930002.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B002430793/canvas/p2
 003.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B002430793/iiif/B0024307930003.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B002430793/canvas/p3
