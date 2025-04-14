@@ -1,6 +1,6 @@
 filename	status	image	canvasId
 001.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f1/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f1
-002.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f2/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f2
+002.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f2/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f2
 003.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f3/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f3
 004.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f4/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f4
 005.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/f5/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10511108n/canvas/f5

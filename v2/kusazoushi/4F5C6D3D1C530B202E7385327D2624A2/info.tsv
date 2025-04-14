@@ -18,5 +18,5 @@ filename	status	image	canvasId
 017.txt	initiated	https://dl.ndl.go.jp/api/iiif/9892579/R0000017/full/full/0/default.jpg	
 018.txt	initiated	https://dl.ndl.go.jp/api/iiif/9892579/R0000018/full/full/0/default.jpg	
 019.txt	initiated	https://dl.ndl.go.jp/api/iiif/9892579/R0000019/full/full/0/default.jpg	
-020.txt	default	https://dl.ndl.go.jp/api/iiif/9892579/R0000020/full/full/0/default.jpg	
-021.txt	default	https://dl.ndl.go.jp/api/iiif/9892579/R0000021/full/full/0/default.jpg	
+020.txt	completed	https://dl.ndl.go.jp/api/iiif/9892579/R0000020/full/full/0/default.jpg	
+021.txt	completed	https://dl.ndl.go.jp/api/iiif/9892579/R0000021/full/full/0/default.jpg	

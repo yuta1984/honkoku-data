@@ -1,0 +1,32 @@
+1226 Coupe tes ongles.
+1227 Lavez le visage.
+1228 Lavez vos pieds.
+1229 Vous mangez trop de bons bons.
+1230 Cela derengera【derangera】  ton estomac.
+1231 Vous deviendrez  malade.
+1232  Restez hors le vent.
+1233 Cachez vous du soleil.
+1234 Ici c'est trop humide.
+1235 Quand il fera du tonnere  cette  eau monte.
+1236 Quand il tonnera ces boules descendent.
+【1237なし】
+1238 Jettez【jetez】 le.
+ 1239 Prenez le.
+1240 Ramassez le.
+1241 Cousez le.
+1242 Donne moi une aiguille.
+1243 Donne moi du fil.
+1244 Taisez vous .
+1245 Mets  toi ici.
+1246 Allez vous en.
+1247 Attachez le.
+1248 Nouez le.
+1249 Laissez l'aller.
+1250 Tenez le.
+1251 Cela me surprend.
+1252 Cela m'effraye.
+1253 Ne vous effrayez pas.
+1254 Levez vous.
+1255 Habillez vous.
+1256  Ecrivez le.
+1257 Rappellez vous en.

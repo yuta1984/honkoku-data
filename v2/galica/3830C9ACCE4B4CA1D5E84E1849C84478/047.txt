@@ -1,0 +1,37 @@
+【ページ番号】21
+69 Apres dix jours
+70 　" 　onze　 "
+71 　" 　douze　"
+72 　" 　treize　"
+73 　" 　quatorze "
+74 　" 　une heure
+75 　" 　doux heures
+ 76 　" 　trois heures
+77 　" 　quatre　"
+78 　" 　cinq　　"
+79 　" 　six　 　"
+80 　" 　trois semaines
+81 　" 　un mois
+82 　" 　deux  mois
+83 　" 　trois  　"
+84 　" 　quatre semaines
+85 　" 　quatre mois
+86 　" 　cinq 　 "
+87 　" 　six　  "
+88 　" 　un an
+89  un an passe
+90 dans une semaine
+91 　" 　quinze jours
+92 　" 　un mois
+93 trois jours passe,  ou depuis trois jours
+94 quatre　"　 "
+95 cinq　　"　 "
+96 six　　　"　 "
+97 sept　　 "　 "
+98 huit　　 "　 "
+99 neuf　　"　 "
+100 dix　　 "　 "
+101 onze 　"　 "
+102 douze　"　 "
+103 treize　"　 "
+

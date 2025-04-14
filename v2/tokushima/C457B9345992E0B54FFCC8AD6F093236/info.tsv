@@ -3,7 +3,7 @@ filename	status	image	canvasId
 002.txt	initiated	https://image.kukozisin.org/iiif/2/TKS2021__1002.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p2
 003.txt	initiated	https://image.kukozisin.org/iiif/2/TKS2021__1003.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p3
 004.txt	initiated	https://image.kukozisin.org/iiif/2/TKS2021__1004.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p4
-005.txt	default	https://image.kukozisin.org/iiif/2/TKS2021__1005.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p5
+005.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1005.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p5
 006.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1006.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p6
 007.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1007.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p7
 008.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1008.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p8
@@ -40,5 +40,5 @@ filename	status	image	canvasId
 039.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1039.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p39
 040.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1040.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p40
 041.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1041.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p41
-042.txt	default	https://image.kukozisin.org/iiif/2/TKS2021__1042.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p42
-043.txt	default	https://image.kukozisin.org/iiif/2/TKS2021__1043.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p43
+042.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1042.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p42
+043.txt	completed	https://image.kukozisin.org/iiif/2/TKS2021__1043.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/5948/canvas/p43

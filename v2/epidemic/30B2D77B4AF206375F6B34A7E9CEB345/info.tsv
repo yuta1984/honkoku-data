@@ -12,5 +12,5 @@ filename	status	image	canvasId
 011.txt	completed	https://dl.ndl.go.jp/api/iiif/835190/R0000011/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/11
 012.txt	completed	https://dl.ndl.go.jp/api/iiif/835190/R0000012/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/12
 013.txt	completed	https://dl.ndl.go.jp/api/iiif/835190/R0000013/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/13
-014.txt	default	https://dl.ndl.go.jp/api/iiif/835190/R0000014/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/14
-015.txt	default	https://dl.ndl.go.jp/api/iiif/835190/R0000015/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/15
+014.txt	completed	https://dl.ndl.go.jp/api/iiif/835190/R0000014/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/14
+015.txt	completed	https://dl.ndl.go.jp/api/iiif/835190/R0000015/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/835190/canvas/15

@@ -36,7 +36,7 @@ filename	status	image	canvasId
 035.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00035.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p35
 036.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00036.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p36
 037.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00037.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p37
-038.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20001753__00038.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p38
+038.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00038.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p38
 039.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00039.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p39
 040.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00040.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p40
 041.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00041.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p41
@@ -68,7 +68,7 @@ filename	status	image	canvasId
 067.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20001753__00067.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p67
 068.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00068.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p68
 069.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00069.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p69
-070.txt	default	https://image.kukozisin.org/iiif/2/GD__EP20001753__00070.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p70
+070.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20001753__00070.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p70
 071.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00071.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p71
 072.txt	initiated	https://image.kukozisin.org/iiif/2/GD__EP20001753__00072.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p72
 073.txt	completed	https://image.kukozisin.org/iiif/2/GD__EP20001753__00073.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3629/canvas/p73

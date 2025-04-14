@@ -3,7 +3,7 @@ filename	status	image	canvasId
 002.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000002/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/2
 003.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000003/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/3
 004.txt	initiated	https://dl.ndl.go.jp/api/iiif/9892773/R0000004/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/4
-005.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000005/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/5
+005.txt	initiated	https://dl.ndl.go.jp/api/iiif/9892773/R0000005/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/5
 006.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000006/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/6
 007.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000007/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/7
 008.txt	default	https://dl.ndl.go.jp/api/iiif/9892773/R0000008/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/9892773/canvas/8

@@ -11,11 +11,11 @@ filename	status	image	canvasId
 010.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_010.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010100
 011.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_011.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010110
 012.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_012.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010120
-013.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_013.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010130
-014.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_014.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010140
-015.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_015.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010150
-016.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_016.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010160
-017.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_017.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010170
+013.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_013.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010130
+014.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_014.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010140
+015.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_015.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010150
+016.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_016.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010160
+017.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_017.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010170
 018.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_018.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010180
 019.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_019.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010190
 020.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA102_01%2FNA102_01_020.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA10201/pageNA102010200

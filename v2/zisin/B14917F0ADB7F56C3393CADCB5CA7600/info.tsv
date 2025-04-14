@@ -1,3 +1,3 @@
 filename	status	image	canvasId
-001.txt	default	https://iiif.kahaku.go.jp/imageapi_cantaloupe/iiif/2/3a8d2225-9ddf-4508-91e4-e3e401bc8a12.ptif/full/full/0/default.jpg	https://iiif.kahaku.go.jp/manifests/4f2aa6d6-86d6-42c1-a28f-1cf1ca62a928.json/canvas/p1
-002.txt	default	https://iiif.kahaku.go.jp/imageapi_cantaloupe/iiif/2/60475da5-958c-4fba-bb77-26928fa1a7a6.ptif/full/full/0/default.jpg	https://iiif.kahaku.go.jp/manifests/4f2aa6d6-86d6-42c1-a28f-1cf1ca62a928.json/canvas/p2
+001.txt	initiated	https://iiif.kahaku.go.jp/imageapi_cantaloupe/iiif/2/3a8d2225-9ddf-4508-91e4-e3e401bc8a12.ptif/full/full/0/default.jpg	https://iiif.kahaku.go.jp/manifests/4f2aa6d6-86d6-42c1-a28f-1cf1ca62a928.json/canvas/p1
+002.txt	initiated	https://iiif.kahaku.go.jp/imageapi_cantaloupe/iiif/2/60475da5-958c-4fba-bb77-26928fa1a7a6.ptif/full/full/0/default.jpg	https://iiif.kahaku.go.jp/manifests/4f2aa6d6-86d6-42c1-a28f-1cf1ca62a928.json/canvas/p2

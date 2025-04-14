@@ -28,10 +28,10 @@ filename	status	image	canvasId
 027.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f27/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f27
 028.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f28/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f28
 029.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f29/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f29
-030.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f30/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f30
-031.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f31/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f31
-032.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f32/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f32
-033.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f33/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f33
+030.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f30/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f30
+031.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f31/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f31
+032.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f32/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f32
+033.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f33/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f33
 034.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f34/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f34
 035.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f35/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f35
 036.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f36/full/full/0/default.jpg	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/canvas/f36

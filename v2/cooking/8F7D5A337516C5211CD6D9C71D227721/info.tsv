@@ -2,8 +2,8 @@ filename	status	image	canvasId
 001.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00001.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/1
 002.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00002.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/2
 003.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00003.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/3
-004.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00004.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/4
-005.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00005.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/5
+004.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00004.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/4
+005.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00005.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/5
 006.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00006.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/6
 007.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00007.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/7
 008.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249862/v4/AJNM/AJNM-00328/AJNM-00328-00008.tif/full/full/0/default.jpg	https://kotenseki.nijl.ac.jp/biblio/100249862/canvas/8
