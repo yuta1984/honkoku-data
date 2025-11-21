@@ -1,8 +1,0 @@
-1. Assessed yield: 615 koku, 4 to, 2 sho, 2 go　　　　　　Ōshima village
-1. Assessed yield: 2,309 koku, 3 to, 5 sho, 9 go　　　　　Yoshida village
-1. Assessed yield: 463 koku, 1 sho, 1 go　　　　　　　　　Sakateshima village
-1. Assessed yield: 654 koku, 6 to, 4 sho, 8 go　　　　　　Sengen village
-1. Assessed yield: 661 koku, 5 to, 5 sho, 9 go　　　　　　Ikuta village
-1. Assessed yield: 204 koku, 2 to, 2 sho　　　　　　　　　Miyazaki village
-1. Assessed yield: 506 koku, 9 to, 1 go　　　　　　　　　Otsukawa village
-1. Assessed yield: 771 koku, 5 to, 2 sho, 1 go　　　　　　Toba village

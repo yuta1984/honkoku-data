@@ -1,7 +1,0 @@
-Item: Assessed yield of 1,147 koku, 4 sho, 3 go　　　　　　《Location: Dōzaki Village》
-Item: Assessed yield of 1,469 koku, 7 to, 8 go　　　　　　《Location: Futsu Village》
-Item: Assessed yield of 2,399 koku, 3 to, 5 sho, 5 go　　《Location: Fukae Village》
-Item: Assessed yield of 520 koku, 3 to, 2 sho, 1 go　　　《Location: Nakakoba Village》
-Item: Assessed yield of 688 koku, 2 to, 8 sho, 3 go, 5 seki《Location: Antoku Village》
-　Subtotal　Assessed yield of 71,294 koku, 4 to, 9 sho, 7 go
-　　　　　　　　　　　　　　　　　　《Location: Takaki County》　112 villages

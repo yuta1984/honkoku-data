@@ -1,9 +1,0 @@
-Item: Assessed yield of 485 koku, 3 to, 5 seki　　　　　　《Location: Higashikuga Village》
-Item: Assessed yield of 876 koku, 2 to, 3 sho, 6 go　　　《Location: Ono Village》
-Item: Assessed yield of 1,166 koku, 3 to, 6 sho, 1 go　　《Location: Yue Village》
-Item: Assessed yield of 1,354 koku, 5 sho, 3 go　　　　　《Location: Tahira Village》
-Item: Assessed yield of 1,851 koku, 3 to, 4 sho, 1 go, 5 seki
-　　　　　　　　　　　　　　　　　　　　　　　　　《Location: Tsuchikuro Village》
-Item: Assessed yield of 1,602 koku, 3 to, 7 sho, 6 go　　《Location: Saigo Village》
-Item: Assessed yield of 91 koku, 9 to, 2 sho, 2 go　　　　《Location: Iko Village》
-Item: Assessed yield of 627 koku, 9 to, 6 sho, 9 go　　　《Location: Ifuku Village》

@@ -1,8 +1,0 @@
-Item: Assessed yield of 1,136 koku, 8 to, 2 sho, 9 go　《Location: Notomibun Village》
-Item: Assessed yield of 230 koku, 8 to, 2 go　　　　　《Location: Mawataribun Village》
-Item: Assessed yield of 182 koku, 4 to, 1 sho, 1 go　　《Location: Shoganji Village》
-Item: Assessed yield of 142 koku, 1 to, 5 sho, 7 go　　《Location: Idebun Village》
-Item: Assessed yield of 1,214 koku, 5 to, 1 sho, 5 go　《Location: Kofunatsu Village》
-Item: Assessed yield of 952 koku, 9 to, 4 sho, 3 go　　《Location: Hachihongi Village》
-Item: Assessed yield of 362 koku, 3 to, 5 sho　　　　　《Location: Hama Town》
-Item: Assessed yield of 162 koku, 5 to, 6 sho　　　　　《Location: Kuboyama Village》

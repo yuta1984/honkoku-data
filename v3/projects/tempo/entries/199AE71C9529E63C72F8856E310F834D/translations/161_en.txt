@@ -1,8 +1,0 @@
-Ena District
-1. Assessed yield: 997 koku, 6 sho, 9 shaku - Fuji Village
-1. Assessed yield: 1,177 koku, 6 to, 8 sho, 5 go, 9 shaku, 2 sai - Kusumi Village
-1. Assessed yield: 476 koku, 1 to, 1 sho, 6 go - Morokubo Village
-1. Assessed yield: 866 koku, 8 to, 8 sho - Hirukawa Village
-1. Assessed yield: 377 koku, 2 to, 5 sho, 5 go - Takayama Village
-1. Assessed yield: 1,498 koku, 4 to, 3 sho - Hibino Village
-1. Assessed yield: 202 koku, 7 to, 7 sho - Kamiji Village

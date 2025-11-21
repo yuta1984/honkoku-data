@@ -1,8 +1,0 @@
-Location: Tone District
-- Assessed rice yield: 180 koku 8 gō - Location: Iwamoto Village
-- Assessed rice yield: 571 koku 4 to 3 shō 8 gō - Location: Yagatahara Village  
-- Assessed rice yield: 72 koku 1 to 5 shō 5 gō 6 seki - Location: Imai Village
-- Assessed rice yield: 863 koku 1 shō 6 gō - Location: Kami-Kawata Village
-- Assessed rice yield: 1,193 koku 5 to 5 shō 5 gō - Location: Shimo-Kawata Village
-- Assessed rice yield: 561 koku 1 to 9 shō 6 gō - Location: Tokano Village
-- Assessed rice yield: 170 koku 6 to 5 shō 1 gō - Location: Tokano Shinmachi

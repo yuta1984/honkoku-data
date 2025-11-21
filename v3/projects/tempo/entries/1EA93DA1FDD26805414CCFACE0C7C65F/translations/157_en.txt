@@ -1,8 +1,0 @@
-Item 1: Assessment 440 koku, 6 go　　　　　《Location: Oyasawa Village》
-Item 1: Assessment 131 koku, 7 to, 8 sho　　　　《Location: Nakazawa Village》
-Item 1: Assessment 1,514 koku, 3 to, 6 sho　　　《Location: Kasahari Village》
-Item 1: Assessment 340 koku, 9 to, 6 sho, 7 go　《Location: Mitsuki Village》
-Item 1: Assessment 680 koku, 2 to, 4 sho, 7 go　　《Location: Takahagi Village》
-Item 1: Assessment 480 koku, 8 sho, 8 go, 6 shaku　　《Location: Ashiori Village》
-Item 1: Assessment 703 koku, 8 to, 3 sho　　　　　《Location: Onakage Village》
-Item 1: Assessment 169 koku, 1 to, 5 sho　　　《Location: Kami-Kayama Village》

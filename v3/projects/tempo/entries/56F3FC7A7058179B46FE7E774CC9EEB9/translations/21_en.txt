@@ -1,8 +1,0 @@
-Item: Assessed yield of 819 koku, 6 to, 5 sho, 5 go　　《Location: Mataminami-sato Village》
-Item: Assessed yield of 733 koku, 4 to, 5 sho, 3 go　　《Location: Ihoto Village》
-Item: Assessed yield of 1,451 koku, 4 sho, 2 go　　　　《Location: Tate Village》
-Item: Assessed yield of 693 koku, 5 to, 6 sho, 9 go　　《Location: Ōyori Village》
-Item: Assessed yield of 324 koku, 6 to, 6 sho　　　　　《Location: Koromo Village》
-Item: Assessed yield of 93 koku, 2 to, 6 sho, 5 go　　　《Location: Iwaya Village》
-Item: Assessed yield of 207 koku, 4 to, 9 sho, 9 go　　　《Location: Nihiyama Village》
-Item: Assessed yield of 380 koku, 8 to, 2 go　　　　　　《Location: Obuchi Village》

@@ -1,8 +1,0 @@
-Item 1: Assessment 844 koku, 5 to, 6 sho, 9 go　　《Location: Kami-Odanaka Village》
-Item 1: Assessment 707 koku, 9 sho, 5 go　　　　　　　　《Location: Kosugi Village》
-Item 1: Assessment 787 koku, 7 sho, 3 go　　　　　《Location: Kami-Maruko Village》
-Item 1: Assessment 747 koku, 6 sho, 8 go　　　　《Location: Shimo-Odanaka Village》
-Item 1: Assessment 309 koku, 3 to, 7 sho, 1 go　　　　　　《Location: Imai Village》
-Item 1: Assessment 300 koku　　　　　　　　　　　　　《Location: Shinjo Village》
-Item 1: Assessment 211 koku, 8 to, 8 sho, 3 go　　　　　《Location: Iwakawa Village》
-Item 1: Assessment 451 koku, 4 to, 4 sho, 9 go, 9 shaku　　《Location: Kiyosawa Village》

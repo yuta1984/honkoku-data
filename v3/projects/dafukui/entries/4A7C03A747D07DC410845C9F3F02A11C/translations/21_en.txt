@@ -1,7 +1,0 @@
-Heavenly Net
-
-A　Heavenly net
-B　Standing cut-off net
-C　Strike cut-off net
-D　Drift net
-E　Receiving net

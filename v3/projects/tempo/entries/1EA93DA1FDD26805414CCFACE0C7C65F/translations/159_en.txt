@@ -1,9 +1,0 @@
-Item 1: Assessment 616 koku, 8 sho, 9 go　　　　　《Location: Hirasawa Village》
-　　　　　　　　　　　　　　《Marginal note: 《Location: Hirasawa Village》branch village｜》
-Item 1: Assessment 320 koku, 3 to, 3 sho, 9 go　《Location: Kami-Taname Village》
-Item 1: Assessment 172 koku, 9 to, 4 sho, 8 go　　　《Location: Machiya Village》
-Item 1: Assessment 89 koku, 9 to, 1 sho, 1 go　　　　《Location: Harajuku Village》
-Item 1: Assessment 94 koku, 2 to, 8 sho, 4 go　　　《Location: Kokubo Village》
-Item 1: Assessment 113 koku, 2 to, 4 go　　　　　《Location: Shimokaji Village》
-Item 1: Assessment 99 koku, 9 to, 4 sho, 7 go　　　　《Location: Aoki Village》
-Item 1: Assessment 138 koku, 4 to, 7 sho, 5 go　　《Location: Manoji Village》

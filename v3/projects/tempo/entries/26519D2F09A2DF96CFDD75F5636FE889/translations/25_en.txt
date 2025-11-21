@@ -1,8 +1,0 @@
-1. Rice yield: 310 koku, 8 to, 3 sho, 8 go　　　　　《Location: Nagatsuji Village》
-1. Rice yield: 837 koku, 3 to, 9 sho, 6 go　　　《Location: Kanshuji Village》
-1. Rice yield: 267 koku, 8 to, 8 sho, 6 go, 2 ta　《Location: Ono Village》
-1. Rice yield: 631 koku, 3 to, 9 sho, 5 go　　　《Location: Oyake Village》
-1. Rice yield: 276 koku, 8 to, 4 sho, 9 go　　　《Location: Otsuka Village》
-1. Rice yield: 227 koku, 9 to, 2 sho　　　　　《Location: Koyama Village》
-1. Rice yield: 13 koku, 8 to, 4 sho, 2 go　　　　　《Combined total for Otowa Village and Koyama Village》
-1. Rice yield: 1,469 koku, 9 to, 5 sho, 2 go　　《Location: Daigo Village》

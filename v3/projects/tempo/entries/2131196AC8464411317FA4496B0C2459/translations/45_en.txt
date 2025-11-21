@@ -1,8 +1,0 @@
-1. Assessed yield: 695 koku, 5 to, 7 shō, 4 gō　　　　　《Location: Hatsuma Village》
-1. Assessed yield: 342 koku, 6 to, 4 shō, 1 gō　　　　　《Location: Gomyō Village》
-1. Assessed yield: 58 koku, 1 to, 3 shō　　　　　　　　　《Location: Okuno Village》
-1. Assessed yield: 372 koku, 6 to, 7 shō, 5 gō　　　　　《Location: Higashiyama Village》
-1. Assessed yield: 1,040 koku, 4 to, 9 gō　　　　　　　　《Location: Kurama Village》
-1. Assessed yield: 41 koku, 6 to, 8 shō, 8 gō, 5 shaku　《Location: Ōshika Village》
-1. Assessed yield: 7 koku, 5 to, 9 shō, 6 gō　　　　　　《Location: Sano Shinden》
-　Subtotal: Assessed yield 29,157 koku, 5 to, 9 shō, 5 gō, 6 shaku, 3 sai

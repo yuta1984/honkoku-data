@@ -1,8 +1,0 @@
-1. Assessed yield: 138 koku, 9 to, 9 sho　　　　　　　　　　　Ooka village
-1. Assessed yield: 255 koku, 5 to, 5 sho, 9 go　　　　　　　　Takagi village
-1. Assessed yield: 585 koku, 8 to, 8 sho, 4 go　　　　　　　　Nakamura village
-1. Assessed yield: 222 koku, 3 to, 9 sho, 6 go, 5 shaku　　　Hatta village
-1. Assessed yield: 207 koku, 9 to, 7 sho, 7 go　　　　　　　　Shinome village
-1. Assessed yield: 88 koku, 5 sho, 6 go　　　　　　　　　　　　Betsugo village
-1. Assessed yield: 297 koku, 1 to, 3 sho, 3 go　　　　　　　　Kuwako village
-1. Assessed yield: 524 koku, 3 sho, 9 go　　　　　　　　　　　Tsutsubari village

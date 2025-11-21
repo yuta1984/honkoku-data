@@ -1,8 +1,0 @@
-1. Assessed yield: 131 koku, 4 to, 1 sho - Shikihara Village
-1. Assessed yield: 232 koku, 6 to, 1 sho, 3 go - Otaki Village
-1. Assessed yield: 560 koku, 8 to, 1 sho - Oishi Village
-1. Assessed yield: 777 koku, 2 to, 7 sho, 7 go - Ibuki Village
-1. Assessed yield: 1,864 koku - Iwate Village
-1. Assessed yield: 377 koku, 7 to, 9 sho - Arai Village
-1. Assessed yield: 1,190 koku, 7 to, 2 sho, 8 go - Fuchu Village
-1. Assessed yield: 761 koku, 9 to, 8 sho - Tarui Village

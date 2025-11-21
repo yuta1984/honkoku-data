@@ -1,8 +1,0 @@
-Item 1: Assessed yield 627 koku 1 to 2 sho 3 go　　　　《Location: Atobe Village》
-Item 1: Assessed yield 430 koku 6 to 4 sho 3 go　　　　《Location: Kami-Sakurai Village》
-Item 1: Assessed yield 342 koku 5 sho 8 go　　　　　　　《Location: Naka-Sakurai Village》
-Item 1: Assessed yield 382 koku 7 to 2 sho 9 go 7 shaku　《Location: Shimo-Sakurai Village》
-Item 1: Assessed yield 236 koku 1 to 1 sho 7 go　　　　《Location: Imazono Village》
-Item 1: Assessed yield 638 koku 7 to 1 sho 4 go 3 shaku　《Location: Shimogata Village》
-Item 1: Assessed yield 874 koku 8 to 9 sho 9 go　　　　《Location: Gorobei Shinden Village》
-Item 1: Assessed yield 512 koku 5 to 3 sho 6 go　　　　《Location: Yajima Village》

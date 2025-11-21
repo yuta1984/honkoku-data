@@ -1,9 +1,0 @@
-1. Assessed yield: 430 koku, 1 to, 2 sho 《Location: Kaneda Village》
-1. Assessed yield: 210 koku, 9 to, 6 sho 《Location: Matsuwa Village》
-1. Assessed yield: 209 koku, 4 sho, 2 go 《Location: Bishamonten Village》
-1. Assessed yield: 176 koku, 4 to, 9 sho, 4 go 《Location: Moroiso Village》
-
-1. Assessed yield: 144 koku, 1 sho, 1 go 《Location: Miyagawa Village》
-1. Assessed yield: 118 koku, 9 to, 2 sho, 6 go 《Location: Higashioka Village》
-1. Assessed yield: 57 koku, 1 to, 8 sho, 9 go 《Location: Mukogasaki Village》
-1. Assessed yield: 47 koku, 6 sho 《Location: Nakamachioka Village》

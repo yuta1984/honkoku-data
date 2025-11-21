@@ -1,9 +1,0 @@
-Item 1: Assessment 682 koku, 7 to, 9 sho, 6 go, 5 shaku　　　　《Location: Tabata Village》
-Item 1: Assessment 235 koku, 7 to, 1 go　　　　　　　　《Location: Nakazato Village》
-Item 1: Assessment 225 koku, 1 to, 1 sho, 2 go, 3 shaku, 8 sai　《Location: Kami-Nakazato Village》
-Item 1: Assessment 80 koku, 5 to, 2 sho, 4 go　　　　　　　　　《Location: Funakata Village》
-　　　　　　　　　　　　　　　　　　　《Annotation: 《Location: Kajiwara》｜》
-Item 1: Assessment 268 koku, 4 to, 6 go, 3 shaku, 3 sai　　　《Location: Horinouchi Village》
-Item 1: Assessment 485 koku, 1 to, 1 sho, 2 go, 7 shaku, 2 sai　《Location: Nishigahara Village》
-Item 1: Assessment 460 koku, 7 sho, 7 go　　　　　　　　《Location: Takinogawa Village》
-Item 1: Assessment 328 koku　　　　　　　　　　　　《Location: Oji Village》

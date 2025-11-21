@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 911 koku, 2 to, 1 go　　　　　　《Location: Tomitak Village》
-Item 1: Assessed yield of 508 koku, 4 to, 4 sho, 5 go　　《Location: Kamimachi》
-Item 1: Assessed yield of 446 koku, 5 to, 1 sho, 9 go　　《Location: Kurita-machi》【Not recorded in Kyūkō Kyūryō Torishirabe-chō; possibly "Kurita Village"】
-Item 1: Assessed yield of 549 koku, 8 to, 8 sho, 1 go　　《Location: Rokujizō-machi》
-Item 1: Assessed yield of 260 koku, 1 to, 4 sho, 5 go　　《Location: Uchimachi》
-Item 1: Assessed yield of 921 koku, 7 to, 9 sho　　　　　《Location: Tsuno Village》
-Item 1: Assessed yield of 562 koku, 8 to, 5 sho, 2 go　　《Location: Akanuma-kawara Shinden Village》
-Item 1: Assessed yield of 268 koku, 9 to, 3 sho, 7 go　　《Location: Nakao Village》

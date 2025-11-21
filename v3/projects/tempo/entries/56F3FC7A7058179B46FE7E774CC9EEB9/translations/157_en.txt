@@ -1,8 +1,0 @@
-Item: Assessed yield of 17 koku, 2 to, 9 go　　　　　　《Location: Ikiriki Village》
-Item: Assessed yield of 131 koku, 4 to, 4 sho, 3 go　　《Location: Okusa Village》
-Item: Assessed yield of 109 koku, 7 to, 1 sho　　　　　《Location: Fukahori Village》
-Item: Assessed yield of 54 koku, 3 to, 7 sho　　　　　《Location: Kokakura Village》
-Item: Assessed yield of 18 koku, 9 to, 4 sho, 4 go　　《Location: Tomachi Village》
-Item: Assessed yield of 60 koku, 1 to, 2 sho, 2 go　　《Location: Doigashira Village》
-Item: Assessed yield of 108 koku, 3 to, 9 sho, 2 go　　《Location: Saoura Village》
-Item: Assessed yield of 81 koku, 4 to, 7 sho, 8 go　　《Location: Hirayama Village》

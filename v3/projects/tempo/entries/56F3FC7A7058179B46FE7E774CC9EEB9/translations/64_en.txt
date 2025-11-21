@@ -1,8 +1,0 @@
-Item: Assessed yield of 107 koku, 7 to, 7 sho, 8 go　　　《Location: Nakahara-shuku Village》
-Item: Assessed yield of 417 koku, 2 sho, 6 go　　　《Location: Manako-yama Village》
-Item: Assessed yield of 126 koku, 9 to, 7 sho, 4 go　《Location: Hakin Village》
-Item: Assessed yield of 336 koku, 2 to, 2 sho, 9 go《Location: Kami-mutsuro-yama Village》
-Item: Assessed yield of 57 koku, 8 to, 5 sho, 3 go　　《Location: Douzono Village》
-Item: Assessed yield of 225 koku, 1 sho, 4 go　　《Location: Shimo-mutsuro-yama Village》
-Item: Assessed yield of 199 koku, 7 to, 5 sho, 9 go　《Location: Oono-yama Village》
-Item: Assessed yield of 143 koku, 7 to, 7 sho, 2 go　《Location: Shimo-aise-yama Village》

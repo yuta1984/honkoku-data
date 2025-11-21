@@ -1,8 +1,0 @@
-《Location: Tanboku District》
-One, assessed yield: 155 koku, 3 to, 5 go　　　　《Location: Ota Village》
-One, assessed yield: 447 koku, 6 to, 9 sho, 9 go　《Location: Tsudo Village》
-One, assessed yield: 450 koku, 7 to, 7 sho, 4 go　　《Location: Koyama Village》
-One, assessed yield: 1,770 koku, 8 to, 1 sho, 9 go　《Location: Higashi-Uriwari Village》
-One, assessed yield: 710 koku, 6 to, 1 sho　　　　　《Location: Nishi-Uriwari Village》
-One, assessed yield: 988 koku, 4 to, 8 sho, 8 go　《Location: Yatabe Village》
-One, assessed yield: 291 koku, 1 to, 9 sho, 7 go　《Location: Jorenji Village》

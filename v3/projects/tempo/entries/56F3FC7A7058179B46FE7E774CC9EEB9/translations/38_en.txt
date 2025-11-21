@@ -1,8 +1,0 @@
-Item: Assessed yield of 432 koku, 0 to, 7 sho, 7 go　　　　《Location: Ozato Village》
-Item: Assessed yield of 849 koku, 1 to, 3 sho, 5 go　　《Location: Nagase Village》
-Item: Assessed yield of 272 koku, 7 to, 8 sho, 9 go　　《Location: Tsubogami Village》
-Item: Assessed yield of 226 koku　　　　　　　　《Location: Ogawa Village》
-Item: Assessed yield of 500 koku, 3 to, 8 sho, 5 go　　　　　《Location: Kutomi Village》
-Item: Assessed yield of 100 koku, 6 to, 2 sho, 9 go　　　　　　《Location: Fukushima Village》
-Item: Assessed yield of 365 koku, 1 to, 4 sho, 8 go　　《Location: Raikōji Village》
-Item: Assessed yield of 1,928 koku, 9 to, 6 sho　　　《Location: Chifu Village》

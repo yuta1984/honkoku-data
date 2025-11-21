@@ -1,8 +1,0 @@
-One: Assessed yield of 477 koku, 7 to, 1 sho - Honjo Village
-One: Assessed yield of 640 koku, 4 to, 1 sho, 3 go - Banjo Village
-One: Assessed yield of 489 koku, 4 to, 8 sho, 2 go - Tango-no-sho Village
-One: Assessed yield of 278 koku, 9 to, 9 sho - Izu-shichijo Village
-One: Assessed yield of 1,301 koku, 5 to, 8 sho - Tsutsui Village
-One: Assessed yield of 206 koku, 6 to, 5 sho - Nishi Village
-One: Assessed yield of 508 koku, 7 to, 5 sho - Kobayashi Village
-One: Assessed yield of 529 koku, 7 sho, 5 go - Ikenouchi Village

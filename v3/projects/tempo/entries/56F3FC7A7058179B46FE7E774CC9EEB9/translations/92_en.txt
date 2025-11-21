@@ -1,9 +1,0 @@
-Item: Assessed yield of 147 koku, 7 to, 8 sho, 3 go　　　《Location: Kusunoki Village》
-Item: Assessed yield of 124 koku, 6 to, 1 sho, 7 go　　　《Location: Motoyama Village》
-Item: Assessed yield of 119 koku, 4 to, 9 sho, 3 go　　　　《Location: Machikiri Village》
-Item: Assessed yield of 468 koku, 8 to, 5 sho, 9 go　　《Location: Iwaki Village》
-Item: Assessed yield of 307 koku, 4 to, 2 sho, 3 go　　　　《Location: Makise Village》
-Formerly《marginal note: 《Location: Nakashima Village》｜《Location: Shinohara Village》》two villages
-Item: Assessed yield of 590 koku, 2 to, 4 sho　　　　　《Location: Nakashima Village》
-Item: Assessed yield of 751 koku, 8 to, 6 sho, 3 go　　《Location: Hirose Village》
-Item: Assessed yield of 347 koku, 6 to, 4 sho, 8 go　　《Location: Uragawachi Village》

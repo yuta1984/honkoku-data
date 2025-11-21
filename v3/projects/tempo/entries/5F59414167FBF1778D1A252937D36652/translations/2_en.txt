@@ -1,8 +1,0 @@
-1. Assessed yield: 576 koku, 6 sho, 7 go　　　Honmachi Village
-1. Assessed yield: 868 koku, 3 to, 1 sho, 5 go　Nakamachi Village
-1. Assessed yield: 824 koku, 9 to, 2 sho, 2 go　Tenjinmachi Village
-1. Assessed yield: 402 koku, 6 to, 5 sho, 4 go　　Shinmachi Village
-1. Assessed yield: 749 koku, 7 to, 9 go　　　Omura Village
-1. Assessed yield: 311 koku, 2 sho, 2 go　　　Izumida Village
-1. Assessed yield: 675 koku, 5 to, 4 sho, 5 go　Shinkogaya Village
-1. Assessed yield: 454 koku, 7 sho　　　　　Neda Village

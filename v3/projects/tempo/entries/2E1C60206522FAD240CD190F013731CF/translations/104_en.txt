@@ -1,8 +1,0 @@
-One village with a kokudaka of 239 koku, 5 to, 5 sho: Kotsuna Village
-One village with a kokudaka of 628 koku, 7 to, 7 sho, 8 go: Shijō Village
-One village with a kokudaka of 263 koku, 2 to, 6 sho, 7 go: Koizumidō Village (branch village of Shijō Village)
-One village with a kokudaka of 413 koku, 5 to, 1 sho, 9 go: Imai Village
-One village with a kokudaka of 465 koku, 7 to: Yagi Village
-One village with a kokudaka of 420 koku, 5 to, 8 sho: Nawate Village
-One village with a kokudaka of 776 koku, 2 sho, 5 go: Daigo Village
-One village with a kokudaka of 784 koku, 5 to, 2 sho, 8 go: Takadono Village

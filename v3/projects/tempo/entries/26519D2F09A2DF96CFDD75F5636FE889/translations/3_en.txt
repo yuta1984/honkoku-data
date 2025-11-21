@@ -1,8 +1,0 @@
-1. Rice yield: 347 koku, 6 to, 5 sho　　　　　　　　《Location: Umekoji Village》
-1. Rice yield: 374 koku, 8 to, 6 sho, 1 go, 5 shaku　　　　《Location: Suzaku Village》
-1. Rice yield: 1,006 koku, 6 sho　　　　　　　　　　　　　《Location: Nishishichijo Village》
-1. Rice yield: 142 koku, 4 to, 5 sho, 4 go, 5 shaku　　　　　《Location: Nishishiokoji Village》
-1. Rice yield: 1,244 koku, 2 to　　　　　　　　　《Location: Karahashi Village》
-1. Rice yield: 318 koku, 4 to, 4 sho　　　　　　　　　《Location: Gosho-uchi Village》
-1. Rice yield: 967 koku, 3 to, 7 sho　《Note: Formerly two villages: Kawakatsaji Village | Deiaika Village》《Location: Kawakatsaji Village》
-1. Rice yield: 311 koku, 5 to, 1 sho　　　　　　　　　《Location: Tokudaiji Village》

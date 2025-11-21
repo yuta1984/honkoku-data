@@ -1,8 +1,0 @@
-1. Assessed yield: 220 koku, 4 to, 6 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Tsuki village
-1. Assessed yield: 69 koku, 3 to, 3 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　Hirayama village
-1. Assessed yield: 49 koku, 7 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Kobayashi village
-1. Assessed yield: 110 koku, 2 to, 3 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　Osawa village
-1. Assessed yield: 145 koku, 3 to, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　Shimotsugu Minamikata village
-1. Assessed yield: 134 koku, 2 to, 9 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Shimotsugu Kitakata village
-1. Assessed yield: 87 koku, 2 to, 4 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　Kamitsugu Yamakata village
-1. Assessed yield: 94 koku, 6 to, 4 sho　　　　　　　　　　　　　　　　　　　　　　　　　Kamitsugu Machikata village

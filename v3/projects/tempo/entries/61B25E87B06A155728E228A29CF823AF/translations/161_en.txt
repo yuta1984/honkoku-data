@@ -1,8 +1,0 @@
-1. Assessed yield: 71 koku, 1 to, 9 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　Shiratani village
-1. Assessed yield: 211 koku, 6 sho　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nizaki village
-1. Assessed yield: 970 koku, 9 to, 9 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　Okubo village
-1. Assessed yield: 2,964 koku, 2 to, 8 sho　　　　　　　　　　　　　　　　　　　　　　　　　　　　Noda village
-1. Assessed yield: 490 koku, 9 to, 1 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　　　　Ashi village
-1. Assessed yield: 118 koku, 2 to, 7 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　　Utsue village
-1. Assessed yield: 581 koku, 1 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Ehima village
-1. Assessed yield: 341 koku, 7 to, 8 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　Hachioji village

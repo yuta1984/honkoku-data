@@ -1,8 +1,0 @@
-1. Assessed yield: 90 koku, 2 to, 6 sho, 8 go　Shimo-Takami village
-1. Assessed yield: 74 koku, 4 sho, 8 go　Tero village
-1. Assessed yield: 530 koku, 6 to, 5 sho, 3 go　Hirai village
-1. Assessed yield: 1,190 koku, 9 to, 6 sho, 5 go　Terabe village
-1. Assessed yield: 452 koku, 3 to, 2 sho, 5 go　Ichiki village
-1. Assessed yield: 188 koku, 9 to, 4 sho　Iwataki village
-1. Assessed yield: 204 koku, 7 to, 7 sho, 9 go　Ikeda village
-1. Assessed yield: 82 koku, 4 to, 4 sho　Oro village

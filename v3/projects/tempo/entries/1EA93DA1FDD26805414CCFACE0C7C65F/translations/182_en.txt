@@ -1,8 +1,0 @@
-Item 1: Assessment 389 koku, 7 to, 1 sho, 2 go　　　　《Location: Koyama Village》
-Item 1: Assessment 299 koku, 3 to, 7 sho, 1 go　　　　《Location: Aikami Village》
-Item 1: Assessment 172 koku, 7 to, 5 sho, 4 go　　　　《Location: Shimokuge Village》
-Item 1: Assessment 1,138 koku, 3 to, 8 sho, 1 go　　　　《Location: Kuge Village》
-Item 1: Assessment 504 koku, 6 to, 1 go, 8 shaku, 9 sai　　《Location: Tsuda Shinden Village》
-Item 1: Assessment 1,027 koku, 7 to, 2 sho, 1 go, 7 shaku　　　《Location: Tsuda Village》
-Item 1: Assessment 237 koku, 3 to, 2 sho, 9 go　　　　《Location: Mukaitani Village》
-Item 1: Assessment 329 koku, 8 sho, 1 go, 8 shaku　　　　《Location: Takamoto Village》

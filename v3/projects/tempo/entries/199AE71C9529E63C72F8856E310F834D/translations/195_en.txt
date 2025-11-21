@@ -1,8 +1,0 @@
-1. Assessed yield: 209 koku, 5 to, 5 sho, 2 go - Kumada Village
-1. Assessed yield: 754 koku, 4 to - Furuichiba Village
-1. Assessed yield: 191 koku, 8 to, 2 sho, 7 go - Shimasaki Village
-1. Assessed yield: 204 koku, 2 to, 2 sho, 7 go - Noguchi Village
-1. Assessed yield: 98 koku, 8 to, 1 sho, 6 go - Kakisawa Village
-1. Assessed yield: 101 koku, 2 to, 8 sho, 3 go - No Village
-1. Assessed yield: 959 koku, 6 to, 2 sho, 3 shaku - Maewatari Village
-1. Assessed yield: 179 koku, 5 to, 7 sho, 6 go, 2 shaku - Yamawaki Village (branch village of Maewatari Village)

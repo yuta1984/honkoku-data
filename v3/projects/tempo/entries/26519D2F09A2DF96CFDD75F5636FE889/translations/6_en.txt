@@ -1,8 +1,0 @@
-1. Rice yield: 1,259 koku, 2 to, 3 go　　　　　　　　　　　《Location: Higashiumezu Village》
-1. Rice yield: 295 koku, 8 to, 3 sho　　　　　　　　　　　　《Location: Nishiumezu Village》
-1. Rice yield: 289 koku, 1 to, 9 sho, 6 go　　　　　　　　　　《Location: Takada Village》
-1. Rice yield: 248 koku, 9 sho　　　　　　　　　　　　　　《Location: Ikuta Village》
-1. Rice yield: 1,495 koku, 2 to, 3 sho, 8 go, 5 shaku　　　《Note: Formerly 《Location: Saga Village》》《Location: Kamisaga Village》
-1. Rice yield: 748 koku, 9 to, 5 sho, 4 go, 8 shaku, 8 sai　《Note: Formerly within 《Location: Saga Village》》《Location: Shimosaga Village》
-1. Rice yield: 164 koku, 6 to, 5 go, 5 shaku　　　　　　《Note: Formerly within 《Location: Saga Village》》《Location: Komizo Village》
-1. Rice yield: 839 koku, 8 to, 9 sho, 9 go, 5 shaku　　　　　　　　《Location: Uzumasa Nakazato Village》

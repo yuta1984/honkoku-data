@@ -1,8 +1,0 @@
-Item 1: Assessment 1,003 koku, 8 to, 3 sho, 4 go　　　　　　　　　《Location: Kizuki Village》
-Item 1: Assessment 200 koku　　　　　　　　　　　　　　　《Location: Karishuku Village》
-Item 1: Assessment 299 koku, 3 to, 3 sho, 7 go　　　　　　《Location: Ichitsubo Village》【Ichinotsubo Village?】
-Item 1: Assessment 382 koku, 7 to, 6 sho, 5 go　　　　　《Location: Nakamaruko Village》
-Item 1: Assessment 432 koku, 2 to, 2 sho, 1 go　　　　　《Location: Kamihirama Village》
-Item 1: Assessment 508 koku　　　　　　　　　　　　　《Location: Kashimada Village》
-Item 1: Assessment 340 koku, 9 to, 2 sho, 7 go　　　　　《Location: Kitakase Village》
-Item 1: Assessment 271 koku, 6 to, 3 sho, 3 go, 3 shaku, 3 sai　　《Location: Minowa Village》

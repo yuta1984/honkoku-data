@@ -1,8 +1,0 @@
-1. Assessed yield: 164 koku, 2 to, 5 sho, 9 go - Takanami Village
-1. Assessed yield: 881 koku, 2 to, 7 sho, 5 go, 7 shaku, 9 sai - Kami Village
-1. Assessed yield: 236 koku, 2 to, 2 sho, 8 go, 5 shaku, 4 sai - Urushibara Village
-1. Assessed yield: 290 koku, 9 to, 9 sho, 7 go, 3 shaku, 2 sai - Shimo Village
-1. Assessed yield: 192 koku, 2 to, 5 go, 7 shaku, 2 sai - Odako Village
-1. Assessed yield: 1,128 koku, 6 to, 7 sho, 9 go, 4 shaku, 3 sai - Kushihara Village
-1. Assessed yield: 130 koku, 6 to, 2 sho, 7 go - Asatani Village
-1. Assessed yield: 8 koku, 6 to - Oroshi Village (formerly Koji Shisubuchi Village)

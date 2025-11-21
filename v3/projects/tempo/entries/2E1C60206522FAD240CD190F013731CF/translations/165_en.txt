@@ -1,8 +1,0 @@
-One village with a kokudaka of 71 koku, 2 to, 6 sho, 9 go: Ikari Village
-One village with a kokudaka of 57 koku, 3 to: Shimotako Village
-One village with a kokudaka of 44 koku, 1 to, 1 go: Shirakawawatari Village
-One village with a kokudaka of 92 koku, 6 to, 6 sho, 2 go: Nakaoku Village
-One village with a kokudaka of 92 koku, 3 to, 3 sho: Wada Village
-One village with a kokudaka of 51 koku, 6 to, 1 sho, 1 go: Kamitako Village
-One village with a kokudaka of 78 koku, 8 to, 3 sho, 5 go: Kashiwagi Village
-One village with a kokudaka of 48 koku, 1 to, 8 sho, 3 go: Kaminoya Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 763 koku, 4 to, 5 shō, 8 gō, 8 shaku, 8 sai　《Location: Nakamura》
-1. Assessed yield: 245 koku, 7 to, 7 shō, 8 gō　　　　　《Location: Kashiwabara Village》
-1. Assessed yield: 327 koku, 9 to, 1 shō　　　　　　　《Location: Kashiwabara Town》
-1. Assessed yield: 103 koku, 7 to, 4 shō, 1 gō　　　　　　　　《Location: Kawasaki Town Village》
-1. Assessed yield: 139 koku, 4 to, 5 gō　　　　　　　　《Location: Dōjō Village》
-1. Assessed yield: 925 koku, 9 shō, 8 gō　　　　　　　《Location: Shimo-shōnai Village》
-1. Assessed yield: 100 koku, 4 shō　　　　　　　　　　　　　《Location: Kami-shōnai-shimo Village》
-1. Assessed yield: 183 koku, 4 to, 7 shō, 4 gō　　　　　　《Location: Hashigara Village》

@@ -1,8 +1,0 @@
-One village with a kokudaka of 726 koku, 4 to, 6 sho, 3 go: Ikeda Village
-One village with a kokudaka of 284 koku, 8 to, 1 sho: Arii Village
-One village with a kokudaka of 528 koku, 2 to, 4 sho, 3 go: Kagura Village
-One village with a kokudaka of 605 koku, 8 to, 2 sho: Doko Village
-One village with a kokudaka of 943 koku, 1 to, 7 sho, 8 go: Matsuzuka Village
-One village with a kokudaka of 1,595 koku, 5 to, 9 sho, 5 go: Takada Village
-One village with a kokudaka of 15 koku, 2 to, 2 sho (branch village of Takada Village): Yamanouchi Village
-One village with a kokudaka of 771 koku, 9 sho, 5 go: Mikurado Village

@@ -1,8 +1,0 @@
-Item 1: Assessment 560 koku, 7 to, 8 sho, 2 go, 2 shaku　《Location: Tsukakoshi Village》
-Item 1: Assessment 1,270 koku, 7 to, 5 sho, 5 go　　《Location: Akao Village》
-Item 1: Assessment 1,434 koku, 1 to, 1 sho, 6 go　《Location: Ishii Village》
-Item 1: Assessment 760 koku, 1 to, 1 sho, 8 go　　　《Location: Shimada Village》
-Item 1: Assessment 148 koku, 2 to, 1 sho, 4 go　　《Location: Kamiyoshida Village》
-Item 1: Assessment 849 koku, 1 to, 7 sho, 6 go　　《Location: Katayanagi Village》
-Item 1: Assessment 30 koku, 5 to, 7 sho　　　　　　《Location: Magaya Village》
-Item 1: Assessment 263 koku, 5 to, 6 sho, 9 go　　《Location: Wada Village》

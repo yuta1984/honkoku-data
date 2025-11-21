@@ -1,6 +1,0 @@
-Rudder (Okaji/Kaji)
-[Diagram]
-Tiller (Hoiuhe/Kajitori)
-[Diagram]
-[Diagram]　　　　　[Diagram] Bekefu
-Anchor (Kaita/Ikari)　　　　　　　A tool for bailing out bilge water from boats

@@ -1,8 +1,0 @@
-1. Assessed yield: 135 koku, 1 to, 4 sho　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nagahiko village
-1. Assessed yield: 578 koku, 5 to, 5 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　　　Kaneda village
-1. Assessed yield: 284 koku, 5 to, 5 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Kamigaya village
-1. Assessed yield: 447 koku, 9 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kamigō village
-1. Assessed yield: 676 koku, 1 to, 1 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　Fujigaike village
-1. Assessed yield: 271 koku, 6 to, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hattangaya village
-1. Assessed yield: 375 koku, 5 to, 3 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　Tennō village
-1. Assessed yield: 448 koku, 5 to, 6 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　Takenouchi village

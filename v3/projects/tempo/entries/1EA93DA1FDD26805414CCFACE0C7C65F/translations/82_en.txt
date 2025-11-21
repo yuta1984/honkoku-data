@@ -1,8 +1,0 @@
-Item 1: Assessment 148 koku, 1 sho, 7 go　　　　　　《Location: Arai Village》
-Item 1: Assessment 1,329 koku, 5 to　　　　　　　　《Location: Kami-Yaho Village》
-Item 1: Assessment 558 koku, 1 to, 4 sho, 2 go　　　《Location: Shimo-Yaho Village》
-Item 1: Assessment 44 koku, 6 sho, 2 go　　　　　　　《Location: Shimo-Yaho Shinden》
-Item 1: Assessment 163 koku, 9 sho, 4 go　　　　　　　《Location: Aoyagi Village》
-Item 1: Assessment 1,226 koku, 1 to, 5 sho, 2 go　　　《Location: Honjuku Village》
-Item 1: Assessment 74 koku, 2 to, 6 go　　　　　　　　《Location: Honjuku Shinden》
-Item 1: Assessment 389 koku, 5 sho, 1 go　　　　　　　《Location: Yashikibun Village》

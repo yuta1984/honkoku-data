@@ -1,9 +1,0 @@
-Item 1: Assessed yield of 82 koku, 9 to, 7 go　　　　　《Location: Takato Village》
-Item 1: Assessed yield of 658 koku, 1 sho　　　　　《Location: Kansawa Village》
-Item 1: Assessed yield of 1,181 koku, 1 to, 7 sho, 6 go　《Location: Sano Village》
-　　　　　　　　　　　　　《Note: Formerly《Location: Tanaka Village》》
-Item 1: Assessed yield of 699 koku, 2 to, 9 sho, 8 go　《Location: Yudanaka Village》
-Item 1: Assessed yield of 1,102 koku, 9 to, 2 sho, 2 go　　　《Location: Kamijo Village》
-Item 1: Assessed yield of 3,300 koku, 8 to, 8 sho, 2 go　　《Location: Yomase Village》
-Item 1: Assessed yield of 332 koku, 1 to, 4 sho, 4 go　《Location: Fukazawa Shinden Village》
-Item 1: Assessed yield of 381 koku, 8 to, 3 sho, 6 go　《Location: Koshi Village》

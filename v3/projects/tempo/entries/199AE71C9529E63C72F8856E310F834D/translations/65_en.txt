@@ -1,8 +1,0 @@
-1. Assessed yield: 404 koku, 1 to, 3 go, 2 shaku - Nagara Village
-1. Assessed yield: 86 koku, 9 to, 6 sho, 6 go - Shimooka-jima Village
-1. Assessed yield: 194 koku, 5 to, 7 sho, 2 go, 2 shaku - Nomura (branch village of Shimooka-jima Village)
-1. Assessed yield: 77 koku, 6 to, 7 sho, 7 go - Kamioka-jima Village
-1. Assessed yield: 196 koku, 3 to, 4 sho, 5 go - Shina Village
-1. Assessed yield: 1,653 koku, 5 to, 8 sho, 2 go - Nomura
-1. Assessed yield: 498 koku, 1 to, 3 sho, 9 go - Matsuyama Village
-1. Assessed yield: 963 koku, 4 to, 3 sho - Ushihora Village

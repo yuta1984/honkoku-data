@@ -1,8 +1,0 @@
-Item: Assessed yield of 1,178 koku, 3 to, 4 sho, 8 go　　《Location: Beppu Village》
-Item: Assessed yield of 413 koku, 8 to, 4 sho, 3 go　　　《Location: Minaki Village》
-Item: Assessed yield of 280 koku, 5 to, 4 sho, 4 go　　　《Location: Shibuki Village》
-Item: Assessed yield of 222 koku, 6 to, 2 sho, 2 go　　　《Location: Yanase Village》
-Item: Assessed yield of 917 koku, 5 to, 6 sho, 9 go　　　《Location: Nōsho Village》
-Item: Assessed yield of 532 koku, 9 to, 9 sho, 3 go　　　《Location: Tanaka Village》
-Item: Assessed yield of 550 koku, 7 to, 5 go　　　　　　《Location: Koga Village》
-Item: Assessed yield of 899 koku, 4 to, 1 sho, 2 go　　　《Location: Uchitogawa Village》

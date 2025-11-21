@@ -1,8 +1,0 @@
-One: Assessed rice yield 455 koku 6 to 2 sho 5 shaku　　　《Location: Nagaishi Village》
-One: Assessed rice yield 398 koku 2 to 5 sho 9 go　　　《Location: Mitsuyoshi Village》
-One: Assessed rice yield 53 koku 3 to 6 sho 5 go　　　　　《Location: Karahara Village》
-One: Assessed rice yield 743 koku 5 to 7 go 8 shaku　　　《Location: Katamine Village》
-One: Assessed rice yield 423 koku 8 sho 1 go　　　　　《Location: Ishizaki Village》
-One: Assessed rice yield 656 koku 6 to 1 go　　　　　《Location: Take Village》
-One: Assessed rice yield 1,152 koku 2 to 1 sho 8 go 2 shaku　《Location: Kamiari Village》
-One: Assessed rice yield 167 koku 8 to 6 sho 8 go　　　　《Location: Iwamoto Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 237 koku, 3 to, 7 sho, 4 go, 5 shaku - Kansui Village
-1. Assessed yield: 189 koku, 6 to, 5 sho, 5 go - Okusu-mi Village
-1. Assessed yield: 129 koku, 2 to, 3 sho, 6 go - Kokusu-mi Village
-1. Assessed yield: 145 koku, 5 to, 3 sho, 5 go - Shikakura Village
-1. Assessed yield: 248 koku, 9 to, 3 sho, 5 shaku, 6 sai - Miyadai Village
-1. Assessed yield: 269 koku, 9 to, 9 sho, 9 go - Nojiri Village
-1. Assessed yield: 15 koku, 9 to, 9 sho - Uyamashima
-1. Assessed yield: 209 koku, 6 to, 9 sho, 3 go - Miyaji Village

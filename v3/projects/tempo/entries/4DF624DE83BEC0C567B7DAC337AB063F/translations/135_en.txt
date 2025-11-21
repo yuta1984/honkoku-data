@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 643 koku, 6 sho　　　　　　《Location: Tanba-jima Village》
-Item 1: Assessed yield of 1,123 koku, 3 to, 7 sho　　　　《Location: Tsunashima Village》
-Item 1: Assessed yield of 541 koku, 3 to, 9 sho, 2 go　　《Location: Aoki-jima Village》
-Item 1: Assessed yield of 692 koku, 5 to, 3 sho, 2 go　　《Location: Shimohikanna Village》
-Item 1: Assessed yield of 854 koku, 5 to, 4 sho, 8 go　　《Location: Nakahikanna Village》
-Item 1: Assessed yield of 787 koku, 2 to, 3 sho, 5 go　　《Location: Hirota Village》
-Item 1: Assessed yield of 365 koku, 4 to, 9 sho, 7 go　　《Location: Fujimaki Village》
-Item 1: Assessed yield of 241 koku, 9 to, 4 sho　　　　《Location: Kamifuse Village》

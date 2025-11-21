@@ -1,8 +1,0 @@
-1. Assessed yield: 286 koku, 2 to, 8 go　　　　　　　　　　　Nishitojō village
-1. Assessed yield: 553 koku, 9 to, 8 sho, 7 go　　　　　　　　Oyamada village
-1. Assessed yield: 752 koku, 7 to, 5 sho, 5 go　　　　　　　　Aeba village
-1. Assessed yield: 1,499 koku, 1 to, 7 sho　　　　　　　　　　Ogiwara village
-1. Assessed yield: 1,298 koku, 1 to, 1 go　　　　　　　　　　　Tomita village
-1. Assessed yield: 388 koku, 1 to, 1 sho, 8 go　　　　　　　　　Sakai village
-1. Assessed yield: 1,937 koku, 7 sho, 6 go, 8 shaku　　　　　　Yokosuka village
-1. Assessed yield: 844 koku, 3 to, 8 sho, 5 go　　　　　　　　　Nakano village

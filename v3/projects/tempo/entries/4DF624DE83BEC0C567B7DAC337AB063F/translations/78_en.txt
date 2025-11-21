@@ -1,7 +1,0 @@
-Item 1: Assessed yield 676 koku 4 to 2 sho 1 go　　《Location: Ogōchi Village》《Marginal note: 【Kyūkō Kyūryō Tori-shirabechō = Minami-Ogōchi Village】》
-Item 1: Assessed yield 279 koku 7 sho 7 go 6 shaku　　《Location: Akabane Village》
-Item 1: Assessed yield 382 koku 7 to 1 sho 1 go　　《Location: Sawasoko Village》
-Item 1: Assessed yield 929 koku 7 to 4 go　　　　《Location: Higuchi Village》
-Item 1: Assessed yield 789 koku 7 to 9 sho 4 shaku　　《Location: Hiraide Village》
-Subtotal assessed yield: 134,043 koku 1 to 3 sho 1 go 7 shaku 6 sai
-　　　　　　　　　　　《Location: Ina District》284 villages

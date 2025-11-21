@@ -1,8 +1,0 @@
-One, assessed yield: 555 koku, 3 sho, 1 go　　　　《Location: Higashi Village》
-One, assessed yield: 493 koku, 9 to, 1 go　　　　《Location: Tenmino Village》
-One, assessed yield: 395 koku, 6 to, 8 sho, 8 go　　《Location: Ishizu Village》
-One, assessed yield: 192 koku, 8 to, 1 sho, 2 go　《Marginal note: 《Location: Ōba》》《Location: Ichiban Village》
-One, assessed yield: 682 koku, 7 to, 2 sho, 9 go　　《Location: Kiya Village》
-One, assessed yield: 457 koku, 9 to, 2 sho, 1 go　　《Location: Taima Village》
-One, assessed yield: 636 koku, 9 to, 4 sho, 3 go　　《Location: Takayanagi Village》
-One, assessed yield: 559 koku, 6 to, 5 sho　　　　《Location: Ōri Village》

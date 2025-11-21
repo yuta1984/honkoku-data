@@ -1,8 +1,0 @@
-- Assessed rice yield: 1,074 koku 4 to 8 shō 5 gō　　Location: Shimo-Nyū Village
-- Assessed rice yield: 1,703 koku 3 to 2 shō 8 gō　　Location: Shimo-Takada Village
-- Assessed rice yield: 275 koku 1 to 7 shō 7 gō　　　Location: Sakyōbun Village
-- Assessed rice yield: 517 koku 2 to 5 shō 9 gō　　　Location: Hara Village
-- Assessed rice yield: 359 koku 8 to 1 shō　　　　　Location: Kanuma Village
-- Assessed rice yield: 410 koku 4 to 7 shō 1 gō　　　Location: Nakazawa Village
-- Assessed rice yield: 1,101 koku 5 to 9 shō　　　　Location: Minamijyai Village
-- Assessed rice yield: 94 koku 4 to 6 shō 9 gō　　　Location: Hakusan Village

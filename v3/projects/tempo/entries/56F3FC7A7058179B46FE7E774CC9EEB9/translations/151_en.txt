@@ -1,8 +1,0 @@
-Item: Assessed yield of 375 koku, 5 to, 9 sho, 7 go　《Location: Ozaki Village》
-Item: Assessed yield of 466 koku, 5 to, 1 sho, 3 go　《Location: Okiba Village》
-Item: Assessed yield of 133 koku, 6 to, 1 go　　　　《Location: Do[?] Village》
-Item: Assessed yield of 111 koku, 8 to, 4 sho, 4 go　《Location: Honjo Kawachi Village》
-Item: Assessed yield of 178 koku, 8 to, 6 sho　　　　《Location: Naka Kawachi Village》
-Item: Assessed yield of 471 koku, 1 sho　　　　　　　《Location: Otonobun Village》
-Item: Assessed yield of 161 koku, 1 sho, 7 go　　　　《Location: Yamaura Village》
-Item: Assessed yield of 508 koku, 1 to, 1 go　　　　《Location: Wakatonobun Village》

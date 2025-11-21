@@ -1,8 +1,0 @@
-1. Assessed yield: 602 koku, 4 to, 1 sho, 7 go - Akechi - Kakita Village
-1. Assessed yield: 206 koku, 8 sho, 2 go, 3 shaku - Akechi - Fuchigami Village
-1. Assessed yield: 256 koku, 2 to, 8 sho, 2 go - Akechi - Hiragaito Village
-1. Assessed yield: 1,250 koku, 9 to, 8 sho, 1 go, 6 shaku - Akechi - Seta Village
-1. Assessed yield: 226 koku, 2 to, 5 sho, 8 go - Akechi - Ishimori Village
-1. Assessed yield: 164 koku, 3 to, 6 sho - Akechi - Ishii Village
-1. Assessed yield: 245 koku, 7 to, 9 sho, 9 go, 2 shaku - Ika - Yamagishi Village
-1. Assessed yield: 134 koku, 8 to, 9 sho, 2 go - Ika - Kosaku Village

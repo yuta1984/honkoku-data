@@ -1,8 +1,0 @@
-1. Assessed yield: 184 koku, 1 sho　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kiyanagi village
-1. Assessed yield: 58 koku, 2 to, 8 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　Tarino village
-1. Assessed yield: 908 koku, 2 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Yoshikawa village
-1. Assessed yield: 400 koku, 3 to, 3 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　　Shiozawa village
-1. Assessed yield: 180 koku, 9 to, 7 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　Takewa village
-1. Assessed yield: 560 koku, 9 to, 1 sho, 4 go　　　　　　　　　　　　　　　　　　　　　　　　Norimoto village
-1. Assessed yield: 377 koku, 7 to, 6 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　Kamiyoshida village
-1. Assessed yield: 937 koku, 5 to, 4 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Shimoyoshida village

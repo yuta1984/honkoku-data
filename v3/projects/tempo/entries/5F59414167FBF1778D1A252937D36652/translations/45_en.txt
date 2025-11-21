@@ -1,8 +1,0 @@
-1. Assessed yield: 1,263 koku, 7 to, 9 sho, 1 go　　　　Tokiwa Village
-1. Assessed yield: 402 koku, 3 to, 7 sho, 1 go　　　　　Takashiba Village
-1. Assessed yield: 715 koku, 7 to, 3 sho　　　　　　　　Kita-Narita Village
-1. Assessed yield: 782 koku, 7 to, 7 sho, 5 go　　　　　Tsuchidana Village
-1. Assessed yield: 481 koku, 3 sho, 9 go　　　　　　　　Ohata Village
-1. Assessed yield: 214 koku, 7 to, 3 sho, 4 go　　　　　Itabashi Village
-1. Assessed yield: 393 koku, 6 to, 1 sho, 5 go　　　　　Sumomoda Village
-1. Assessed yield: 584 koku, 6 to, 5 sho　　　　　　　　Minami-Narita Village

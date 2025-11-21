@@ -1,8 +1,0 @@
-1. Assessed yield: 42 koku, 5 sho, 9 go - Oshimo Village
-1. Assessed yield: 150 koku, 9 to, 4 sho - Ogai Village
-1. Assessed yield: 53 koku, 1 to, 6 sho, 4 go - Yokoyama Village
-1. Assessed yield: 14 koku, 8 to, 9 sho, 8 go - Higashi-Suganuma Village
-1. Assessed yield: 40 koku, 7 to, 4 sho, 8 go - Higashi-Seki Village
-1. Assessed yield: 43 koku, 1 to, 2 sho, 1 go - Kotsubone Village
-1. Assessed yield: 100 koku, 3 to, 4 sho, 4 go - Onigori Village
-1. Assessed yield: 112 koku, 9 to, 4 sho, 2 go - Kozawa Village

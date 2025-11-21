@@ -1,8 +1,0 @@
-1. Assessed yield: 343 koku, 6 to, 9 shō, 8 gō　　《Location: Higashi-Wakabayashi Village》
-1. Assessed yield: 302 koku, 5 to, 5 gō　　　　　　《Location: Kozawado Village》
-1. Assessed yield: 186 koku, 2 to, 4 shō, 6 gō, 2 shaku　《Location: Kuramatsu Village》
-1. Assessed yield: 75 koku, 4 to, 8 shō, 9 gō　　　　《Location: Tsutsumi Village》
-1. Assessed yield: 367 koku, 6 to, 7 shō, 3 gō　　《Location: Shimbashi Village》
-1. Assessed yield: 228 koku, 1 to, 2 shō, 2 gō　　《Location: Hōeda Village》
-1. Assessed yield: 199 koku, 8 to, 4 gō　　　　　《Location: Tajiri Village》
-1. Assessed yield: 653 koku, 4 shō, 8 gō　　　　《Location: Shiraha Village》

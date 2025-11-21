@@ -1,8 +1,0 @@
-1. Assessed yield: 21 koku, 7 to, 1 sho, 7 go, 9 shaku - Ikuta Shinden Village
-1. Assessed yield: 50 koku, 1 to, 2 go, 1 shaku - Masukawa Shinden Village
-1. Assessed yield: 691 koku, 8 to, 7 sho, 5 go, 2 shaku - Sawa Shinden Village
-1. Assessed yield: 22 koku, 2 to, 5 sho, 6 go, 1 shaku - Ichiroemon Shinden Village
-1. Assessed yield: 13 koku, 8 to, 8 sho, 6 go - Kawahara Shinden Village
-1. Assessed yield: 328 koku, 4 to, 9 sho, 7 go, 2 shaku - Ato Village
-1. Assessed yield: 487 koku, 7 to, 3 sho, 9 go, 1 shaku - Amarume Shinden Village
-1. Assessed yield: 555 koku, 2 to, 1 sho, 9 go, 7 shaku - Yoshioka Village

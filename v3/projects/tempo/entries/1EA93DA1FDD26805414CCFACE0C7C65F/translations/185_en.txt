@@ -1,9 +1,0 @@
-Item 1: Assessment 270 koku, 7 to, 7 sho, 1 go　　　　《Location: Narisawa Village》
-Item 1: Assessment 358 koku, 1 to, 7 sho　　　　《Location: Hinokuchi Village》
-　　　　　　　　　　　　　　《Marginal note: 《Location: Hinokuchi Village》Branch village｜》
-Item 1: Assessment 157 koku, 2 to, 1 sho, 5 go　　　《Location: Harunohara Village》
-Item 1: Assessment 791 koku, 1 sho, 9 go　　　　　《Location: Oshikiri Village》
-Item 1: Assessment 520 koku, 8 sho, 5 go　　　　　《Location: Mitsumoto Village》
-Item 1: Assessment 40 koku, 6 to, 5 sho, 9 go　　　　《Location: Kawahara-Aketo Village》
-Item 1: Assessment 230 koku, 8 to, 7 go　　　　《Location: Kawahara-Aketo Village》
-Item 1: Assessment 546 koku, 8 to, 2 sho, 5 go　　《Location: Oaso Village》

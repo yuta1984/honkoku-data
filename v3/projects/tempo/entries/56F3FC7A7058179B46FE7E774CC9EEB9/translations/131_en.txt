@@ -1,8 +1,0 @@
-《Location: Kishima District》
-Item: Assessed yield of 1,212 koku, 6 to, 9 sho, 8 go　　《Location: Kami-Oda Town》
-Item: Assessed yield of 1,969 koku, 2 to, 6 sho　　　　　《Location: Shimo-Oda Village》
-Item: Assessed yield of 1,328 koku, 1 to, 6 sho, 5 go　　《Location: Kami-Omachi Village》
-Item: Assessed yield of 1,474 koku, 9 to, 8 sho, 7 go　　《Location: Shimo-Omachi Village》
-Item: Assessed yield of 961 koku, 4 to, 4 go　　　　　　　《Location: Fukumo Village》
-Item: Assessed yield of 485 koku, 2 to, 2 sho, 3 go　　　《Location: Owatari Village》
-Item: Assessed yield of 423 koku, 3 sho, 3 go　　　　　　《Location: Kisaki Village》

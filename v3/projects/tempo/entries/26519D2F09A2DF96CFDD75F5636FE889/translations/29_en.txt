@@ -1,6 +1,0 @@
-1. Rice yield: 86 koku, 5 to, 9 go, 1 shaku, 1 sai　　　《Location: Ninoo Village》
-1. Rice yield: 198 koku, 8 to, 9 sho, 4 go, 1 shaku　　《Location: Sumiyama Village》
-1. Rice yield: 274 koku, 2 to　　　　　　　《Location: Higashi-kasatori Village》
-1. Rice yield: 321 koku, 8 to, 5 sho, 9 shaku, 8 sai　《Location: Nishi-kasatori Village》
-　Subtotal: 15,529 koku, 3 to, 8 go, 2 shaku, 9 sai
-　　　　　　　　　　　　《Location: Uji District》　51 villages

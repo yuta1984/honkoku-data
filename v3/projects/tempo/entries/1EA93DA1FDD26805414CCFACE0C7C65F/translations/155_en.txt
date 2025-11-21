@@ -1,8 +1,0 @@
-Item 1: Assessment 545 koku, 5 to, 2 sho, 5 shaku, 5 sai　　《Location: Shimo-Hirotani Village》
-Item 1: Assessment 103 koku, 8 to, 2 sho　　　　　　　　　　《Location: Tomiya Village》
-Item 1: Assessment 331 koku, 3 to, 7 sho, 2 go, 9 shaku　《Location: Gomigaya Village》
-Item 1: Assessment 326 koku, 2 to, 9 sho　　　　　　　《Location: Fujikane Village》
-Item 1: Assessment 368 koku, 4 to, 9 sho, 1 go　　　《Location: Otagaya Village》
-Item 1: Assessment 59 koku, 5 to, 7 sho　　　　　　　　《Location: Amanuma Shinden》
-Item 1: Assessment 297 koku, 4 to, 6 sho　　　　　《Location: Shimo-Oyazawa Village》
-Item 1: Assessment 235 koku, 2 to, 6 sho　　　　　　　《Location: Yoshida Village》

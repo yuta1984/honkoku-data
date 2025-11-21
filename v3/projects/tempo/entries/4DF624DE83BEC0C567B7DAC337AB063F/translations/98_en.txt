@@ -1,8 +1,0 @@
-Item 1: Assessed yield 736 koku 2 sho 6 shaku　　　　《Location: Furumi Village》
-Item 1: Assessed yield 151 koku 2 to 4 sho 6 go 3 shaku　《Location: Hario Village》
-Item 1: Assessed yield 278 koku 8 to 3 sho 3 go 7 shaku《Location: Onozawa Village》
-Item 1: Assessed yield 380 koku 7 to 7 sho 2 go 9 shaku　《Location: Kosobe Village》
-Item 1: Assessed yield 611 koku 4 to 1 go 1 shaku　　　《Location: Nishi-Seба Village》
-Item 1: Assessed yield 1,508 koku 6 to 8 sho 1 go 1 shaku　《Location: Imai Village》
-Item 1: Assessed yield 1,493 koku 8 to 5 sho 7 go 1 shaku《Location: Iwatare Village》
-Item 1: Assessed yield 227 koku 8 to 7 sho 7 go 4 shaku《Location: Imamura Village》

@@ -1,8 +1,0 @@
-One, assessed yield: 345 koku, 3 to, 9 sho, 3 go　《Location: Kiriyama Village》
-One, assessed yield: 546 koku, 3 to, 3 sho, 4 go　《Location: Mikumari Village》
-One, assessed yield: 161 koku, 7 to, 2 sho　　　　《Location: Futagawarabe Village》
-One, assessed yield: 63 koku, 4 to, 9 sho　　　　 《Location: Umatani Village》
-One, assessed yield: 242 koku, 2 to, 7 go　　　　 《Location: Kamikawachi Village》
-One, assessed yield: 420 koku, 6 to, 1 sho, 3 go　《Location: Hiraishi Village》
-One, assessed yield: 367 koku, 5 to, 7 sho, 7 go　《Location: Minamikano Village》
-One, assessed yield: 217 koku, 1 to, 2 sho　　　　《Location: Kitakano Village》

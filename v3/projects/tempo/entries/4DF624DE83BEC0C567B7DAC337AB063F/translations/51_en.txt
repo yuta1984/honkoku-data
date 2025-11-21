@@ -1,8 +1,0 @@
-Item 1: Assessed yield 1,272 koku 8 to 4 sho 7 go　　　《Location: Iinuma Village》
-Item 1: Assessed yield 453 koku 6 to 9 sho 4 go　　　　《Location: Nanjo Village》
-Item 1: Assessed yield 1,138 koku 2 to 9 sho 2 go 3 shaku　《Location: Beppu Village》
-Item 1: Assessed yield 897 koku 1 to 7 sho 3 shaku 4 sai　《Location: Shimokuroda Village》
-Item 1: Assessed yield 362 koku 6 to 2 sho 2 go 5 shaku　《Location: Kamikuroda Village》
-Item 1: Assessed yield 1,975 koku 5 to 9 sho 4 go 3 shaku　《Location: Kamiida Village》
-Item 1: Assessed yield 154 koku 9 to 4 sho 4 go　　　　　《Location: Seinaiji Village》
-Item 1: Assessed yield 804 koku 2 to 8 go 2 shaku 2 sai　《Location: Kitakata Village》

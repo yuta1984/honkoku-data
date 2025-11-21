@@ -1,8 +1,0 @@
-1. Assessed yield: 84 koku, 4 to, 7 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Shimohira village
-1. Assessed yield: 77 koku, 4 to, 4 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　Terabayashi village
-1. Assessed yield: 67 koku, 8 to, 2 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Ōtōge village
-1. Assessed yield: 84 koku, 6 to, 2 sho, 4 go　　　　　　　　　　　　　　　　　　　　　　Hikichi village
-1. Assessed yield: 36 koku, 7 to, 5 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　Hashihira village
-1. Assessed yield: 35 koku, 1 to, 7 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Yuya village
-1. Assessed yield: 29 koku, 7 to, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　Kakihira village
-1. Assessed yield: 84 koku, 1 to, 1 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Kawai village

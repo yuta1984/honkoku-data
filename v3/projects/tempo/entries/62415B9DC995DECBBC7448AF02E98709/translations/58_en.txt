@@ -1,8 +1,0 @@
-One, assessed yield: 615 koku, 9 to, 5 shō, 6 gō　　《Location: Imaizaike Village》
-One, assessed yield: 1,153 koku, 4 shō, 1 gō　　　《Location: Nihongi Village》
-One, assessed yield: 473 koku, 8 to, 1 shō, 9 gō　《Location: Shimogō Village》
-One, assessed yield: 611 koku, 1 to, 1 shō, 9 gō　　《Location: Sada Village》
-One, assessed yield: 94 koku, 7 to, 6 shō　《Note: 《Location: Sada Village Shinden》》《Location: Nada Village》
-One, assessed yield: 621 koku, 6 to, 2 shō, 5 gō　《Location: Hiyoshi-zu Village》
-One, assessed yield: 384 koku, 2 to, 2 shō, 7 gō　《Location: Ima Village》
-One, assessed yield: 798 koku, 5 to, 2 gō　　　《Location: Kaya Village》

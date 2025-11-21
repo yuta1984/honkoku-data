@@ -1,8 +1,0 @@
-One, assessed yield: 949 koku, 7 to, 9 shō, 5 gō　《Location: Ōtani Village》
-One, assessed yield: 522 koku, 7 to, 9 shō, 8 gō　《Location: Hashimoto Village》
-One, assessed yield: 384 koku, 8 to, 1 shō, 2 gō　《Location: Kanehisa Village》
-One, assessed yield: 432 koku, 8 to, 8 shō, 7 gō　《Location: Aoki Village》
-One, assessed yield: 210 koku, 7 to, 2 gō　　　　　《Location: Bessho Village》
-One, assessed yield: 178 koku, 9 to, 6 shō, 8 gō　《Location: Iwayatani Village》
-One, assessed yield: 499 koku, 2 to, 6 shō, 9 gō　《Location: Shinjō Village》
-One, assessed yield: 230 koku, 3 to, 1 shō　　　　《Location: Yamaichiba Village》

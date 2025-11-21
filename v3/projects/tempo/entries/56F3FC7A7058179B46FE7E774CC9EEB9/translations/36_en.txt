@@ -1,8 +1,0 @@
-Item: Assessed yield of 740 koku, 1 to, 1 sho, 3 go　　　《Location: Fujiki Village》
-Item: Assessed yield of 537 koku, 1 to, 9 sho, 2 go　　　《Location: Doi Village》
-Item: Assessed yield of 472 koku, 3 to, 4 sho, 9 go　　　《Location: Nishi-Nakano Village》
-Item: Assessed yield of 674 koku, 2 to, 7 sho, 5 go　　　《Location: Higashi-Nakano Village》
-Item: Assessed yield of 876 koku, 4 to, 7 sho, 3 go　　　《Location: Shimo[?] Village》
-Item: Assessed yield of 647 koku, 9 to, 6 sho, 7 go　　　《Location: Ōzai Village》
-Item: Assessed yield of 834 koku, 5 to, 5 sho, 2 go　　　《Location: Higashi-buchi Village》
-Item: Assessed yield of 877 koku, 5 to, 9 sho, 3 go　　　《Location: Shimo-buchi Village》

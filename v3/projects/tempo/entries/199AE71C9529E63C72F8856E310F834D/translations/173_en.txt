@@ -1,8 +1,0 @@
-1. Assessed yield: 198 koku, 3 to, 5 sho, 9 go - Takayama Village
-1. Assessed yield: 1,010 koku, 4 to, 1 sho, 5 go, 1 sai - Hida Village
-1. Assessed yield: 634 koku, 8 to, 9 sho, 2 shaku, 4 sai - Dachi Village
-1. Assessed yield: 793 koku, 4 to, 6 sho, 1 go, 2 shaku, 8 sai - Kakino Village
-1. Assessed yield: 387 koku, 6 sho, 1 go, 1 shaku, 2 sai - Hosono Village
-1. Assessed yield: 614 koku, 1 to, 5 sho - Soki Village
-1. Assessed yield: 572 koku, 1 to, 5 sho, 9 go - Oda Village
-1. Assessed yield: 528 koku, 7 to, 1 sho - Yamada Village

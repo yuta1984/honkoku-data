@@ -1,8 +1,0 @@
-One village with a kokudaka of 11 koku, 1 to, 5 sho: Kashiozaki Village
-One village with a kokudaka of 9 koku: Detani Village
-One village with a kokudaka of 6 koku, 7 to: Koyamate Village
-One village with a kokudaka of 4 koku, 4 to, 6 sho, 6 go, 7 shaku: Kotsubose Village
-One village with a kokudaka of 2 koku, 2 to, 3 sho, 3 go, 3 shaku: Sakonishikawa Village
-One village with a kokudaka of 11 koku: Kamiyukawa Village
-One village with a kokudaka of 5 koku, 2 to, 3 sho, 2 go: Nachiai Village
-One village with a kokudaka of 5 koku, 8 to, 8 sho, 6 go: Tanigakiuchi Village

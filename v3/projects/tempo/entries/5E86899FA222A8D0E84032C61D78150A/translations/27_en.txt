@@ -1,8 +1,0 @@
-《Location: Wakae District》
-One, assessed yield: 1,817 koku, 8 to, 9 sho, 9 go　《Location: Takaida Village》
-One, assessed yield: 861 koku, 3 to, 3 sho, 5 go　《Location: Sado Village》
-One, assessed yield: 302 koku, 5 to, 2 sho　　　　　《Location: Anao Village》
-One, assessed yield: 1,850 koku, 2 to, 1 sho, 5 go　《Location: Nishigori Village》
-One, assessed yield: 511 koku, 3 to, 3 sho　　　　《Location: Osakaai Village》
-One, assessed yield: 240 koku, 7 to　　　　　　《Location: Nakata Village》
-One, assessed yield: 535 koku, 6 to, 5 go　　　《Location: Gyobu Village》

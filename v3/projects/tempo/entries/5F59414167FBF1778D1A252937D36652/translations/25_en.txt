@@ -1,8 +1,0 @@
-Iwase District
-1. Assessed yield: 1,766 koku, 6 to, 7 sho　　　　　Ogura Village
-1. Assessed yield: 1,383 koku, 3 to, 4 sho, 7 go　　Shiota Village
-1. Assessed yield: 524 koku, 1 to, 5 go　　　　　　　Tsutsumi Village
-1. Assessed yield: 804 koku, 9 to, 8 sho, 6 go　　　　Emochi Village
-1. Assessed yield: 883 koku, 3 to, 6 sho, 6 go　　　　Kami-Koyamada Village
-1. Assessed yield: 987 koku, 3 to, 5 go　　　　　　　Shimo-Koyamada Village
-1. Assessed yield: 1,146 koku, 9 to, 1 sho, 2 go　　Ameda Village

@@ -1,8 +1,0 @@
-One: Assessed rice yield 185 koku 3 to 3 sho 4 go 9 shaku　　　　　《Location: Akasaka Village》
-One: Assessed rice yield 655 koku 8 to 1 sho 8 go 9 shaku 7 sai　　《Location: Mimuta Village》
-One: Assessed rice yield 343 koku 7 to 9 sho 2 go 3 shaku　　　　《Location: Shinokuma Village》
-One: Assessed rice yield 1,576 koku 1 to 6 go 3 shaku　　　　　《Location: Minami Village》
-One: Assessed rice yield 682 koku 4 to 5 sho 2 go 4 shaku　　　　《Location: Shimijima Village》
-One: Assessed rice yield 995 koku 4 to 5 sho 1 go 8 shaku　　　　《Location: Nakamuta Village》
-One: Assessed rice yield 92 koku 7 to 5 sho 3 go　　　《Note: Branch village of 《Location: Nakamuta Village》》《Location: Ishihitsu Village》
-One: Assessed rice yield 1,522 koku 6 to 7 sho 5 go 5 shaku 2 sai　《Location: Kami-Akizuki Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 381 koku, 7 to, 8 go, 7 shaku - Naka-Kitame Village
-1. Assessed yield: 144 koku, 9 to, 5 sho, 9 go - Kami-Kitame Village
-1. Assessed yield: 401 koku, 1 to, 5 sho, 1 go, 1 shaku - Kami-Mochiyama Village
-1. Assessed yield: 100 koku, 9 to - Tazawa Village
-1. Assessed yield: 14 koku, 7 to, 2 sho, 6 shaku - Sakamoto Village
-1. Assessed yield: 30 koku, 7 to, 2 sho, 1 go, 7 shaku - Sugisawa Village
-1. Assessed yield: 391 koku, 5 to, 3 sho, 7 go, 9 shaku - Shin-Koya Village
-1. Assessed yield: 60 koku, 2 to, 8 sho, 3 go, 2 shaku - Chimi-Koya Village

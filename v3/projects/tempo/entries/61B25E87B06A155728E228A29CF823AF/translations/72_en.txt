@@ -1,8 +1,0 @@
-1. Assessed yield: 405 koku, 6 to, 4 sho, 7 go　　　　　　　　Shimowada village
-1. Assessed yield: 369 koku, 8 to, 4 sho, 2 go　　　　　　　　Nobatake village
-1. Assessed yield: 493 koku, 7 to, 9 sho, 9 go　　　　　　　　Iuchi village
-1. Assessed yield: 462 koku, 4 to, 1 sho, 9 go　　　　　　　　Kamiwada village
-1. Assessed yield: 346 koku, 5 to, 8 go　　　　　　　　　　　　Hossho-ji village
-1. Assessed yield: 242 koku, 6 to, 9 sho, 8 go　　　　　　　　Miyaji village
-1. Assessed yield: 1,095 koku, 8 to, 3 go　　　　　　　　　　　Doi village
-1. Assessed yield: 1,364 koku, 1 to, 8 sho, 6 go　　　　　　　Shimoaono village

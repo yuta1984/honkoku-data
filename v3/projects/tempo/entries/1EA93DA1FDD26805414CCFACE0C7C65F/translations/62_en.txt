@@ -1,7 +1,0 @@
-Item 1: Assessment 357 koku, 8 to, 4 sho, 2 go　　　《Location: Ichinosawa Village》
-Item 1: Assessment 179 koku, 7 to, 7 sho, 3 go　　　　　《Location: Imai Village》
-Item 1: Assessment 7 koku, 1 go　　　　　　　　　　　《Location: Imai Shinden》
-Item 1: Assessment 4 koku, 2 to, 2 sho　　　　　　　　　《Location: Okatsu Shinden》
-Item 1: Assessment 98 koku, 2 to, 8 go　　　　　　　《Location: Arai Shinden》
-　Subtotal: Assessment 27,625 koku, 5 to, 6 sho, 5 go, 9 shaku
-　　　　　　　　　　　　《Location: Tsuzuki District》　76 villages

@@ -1,8 +1,0 @@
-One village with a kokudaka of 638 koku, 5 to, 9 sho, 3 go, 2 shaku: Sami Village
-One village with a kokudaka of 514 koku, 1 to, 6 go, 8 shaku: Manden Village (branch village of Sami Village, formerly Higashisami Village)
-One village with a kokudaka of 174 koku, 6 to, 8 sho: Oami Village
-One village with a kokudaka of 315 koku, 3 to, 3 sho, 2 go: Iitaka Village
-One village with a kokudaka of 870 koku, 5 sho: Yabe Village
-One village with a kokudaka of 431 koku, 6 to, 9 go, 7 shaku: Hotsu Village
-One village with a kokudaka of 725 koku, 8 to, 6 sho, 1 shaku: Yakuoji Village
-One village with a kokudaka of 584 koku, 4 to, 5 sho, 3 go: Jurokumen Village (branch village of Hotsu Village, Takeda Village, and Yakuoji Village)

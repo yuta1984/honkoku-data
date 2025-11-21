@@ -1,8 +1,0 @@
-1. Assessed yield: 117 koku, 5 to, 6 sho, 5 go　　　　Iwawaki Village
-1. Assessed yield: 187 koku, 4 to, 4 sho, 5 go　　　　Yamada Village
-1. Assessed yield: 89 koku, 7 to, 2 sho, 3 go　　　　 Nakamaguchi Village
-1. Assessed yield: 138 koku, 8 to, 6 sho, 9 go　　　　Anzenji Village
-1. Assessed yield: 607 koku, 1 to, 4 sho, 2 go　　　　Takigawa Village
-1. Assessed yield: 26 koku, 4 sho, 1 go　　　　　　　 Mayama Village
-1. Assessed yield: 201 koku, 8 to, 9 sho, 2 go　　　　Urata Village
-1. Assessed yield: 60 koku, 7 to, 5 sho, 1 go　　　　 Fukugawa Village

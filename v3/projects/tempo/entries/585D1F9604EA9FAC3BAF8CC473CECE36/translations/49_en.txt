@@ -1,8 +1,0 @@
-1. Assessed yield: 349 koku, 1 to, 8 sho, 1 go - Kigawa Village
-1. Assessed yield: 224 koku, 3 to, 3 sho, 7 go - Tsubone Village
-1. Assessed yield: 172 koku, 1 to, 2 go, 7 shaku - Sugiura Village
-1. Assessed yield: 119 koku, 9 to, 8 sho, 4 go, 4 shaku - Fukagawa Village
-1. Assessed yield: 71 koku, 2 to, 5 go, 3 shaku - Sunaoshi Village
-1. Assessed yield: 67 koku, 7 to, 2 sho, 1 go, 6 shaku - Sakaishinden Village
-1. Assessed yield: 260 koku, 5 to, 3 sho, 4 go, 4 shaku - Sanbonyanagi Village
-1. Assessed yield: 83 koku, 7 to, 1 go, 6 shaku - Arakōya Village

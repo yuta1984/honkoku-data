@@ -1,9 +1,0 @@
-1. Assessed yield: 138 koku, 3 to, 7 sho, 7 go - Horinouchi Village
-1. Assessed yield: 184 koku, 3 to, 4 sho, 5 go - Tanaka Village
-1. Assessed yield: 534 koku, 4 to, 1 sho, 6 go - Tsurumachi Village
-1. Assessed yield: 278 koku, 9 to, 8 sho, 3 go - Yotsutsuji Village
-1. Assessed yield: 740 koku, 5 to, 8 sho, 6 go - Yoneoka Village
-　　　　　　　　　　　　　Branch village of Yoneoka Village
-1. Assessed yield: 243 koku, 7 to, 9 sho, 2 go - Shigekawa Shinden
-1. Assessed yield: 226 koku, 3 to, 1 sho, 5 go - Yoneoka Koshinden
-1. Assessed yield: 150 koku, 4 to, 9 sho, 1 go - Suginobukuro Village

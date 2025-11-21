@@ -1,9 +1,0 @@
-《Location: Ashigara-kami County》
-1. Assessed yield: 174 koku, 1 to, 5 sho　　　　　《Location: Endo Village》
-1. Assessed yield: 178 koku, 3 to, 9 go, 5 shaku　　《Location: Kitada Village》
-1. Assessed yield: 180 koku, 9 to, 3 sho, 8 go　　　《Location: Tanaka Village》
-1. Assessed yield: 191 koku, 2 to, 8 sho, 2 go　　《Location: Hanbungata Village》
-1. Assessed yield: 166 koku, 2 to, 7 sho, 4 go　　　《Location: Hisadokoro Village》
-1. Assessed yield: 212 koku, 3 to, 3 sho, 2 go　　　《Location: Fujisawa Village》
-1. Assessed yield: 691 koku, 7 to, 1 sho, 2 go　　《Location: Iguchi Village》
-【In the Kyūdaka Kyūryō Toritchō Database, Iguchi Village is recorded as Inokuchi Village.】

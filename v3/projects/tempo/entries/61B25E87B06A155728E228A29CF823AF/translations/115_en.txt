@@ -1,8 +1,0 @@
-1. Assessed yield: 1,109 koku, 5 to, 7 sho, 2 go, 7 shaku　　　　　　Kamagata village
-1. Assessed yield: 526 koku, 7 to, 6 sho, 4 shaku　　　　　　　　　　Fuai Ogae village
-1. Assessed yield: 1,042 koku, 5 to, 5 sho, 2 go　　　　　　　　　　Taketani village
-1. Assessed yield: 694 koku, 9 to, 9 sho, 3 go, 7 shaku　　　　　　　Kaminogo village
-1. Assessed yield: 276 koku, 1 to, 1 sho, 8 go　　　　　　　　　　　Kashiwabara village
-1. Assessed yield: 171 koku, 2 sho, 3 go, 2 shaku　　　　　　　　　　Nishisako village
-1. Assessed yield: 151 koku, 3 to, 9 sho, 9 go　　　　　　　　　　　Hirachi village
-1. Assessed yield: 408 koku, 1 to, 2 sho, 4 go, 6 shaku　　　　　　　Jukoku village

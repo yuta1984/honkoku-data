@@ -1,9 +1,0 @@
-- Assessed rice yield: 1,464 koku 2 to 7 shō 5 gō　Location: Takao Village
-- Assessed rice yield: 578 koku 7 to 9 shō 5 gō　　Location: Kimigawa Village
-- Assessed rice yield: 605 koku 3 to 8 gō 1 seki 5 sai　Location: Sogi Village
-- Assessed rice yield: 1,337 koku 3 to 8 shō 7 gō　Location: Tomioka Village
-- Assessed rice yield: 93 koku 9 shō 9 gō 8 seki 7 sai　Location: Betsuho Village
-- Assessed rice yield: 1,328 koku 5 to 7 shō 9 gō 5 seki 1 sai
-　　　　　　　　　　　　　　　　Location: Kuroiwa Village
-- Assessed rice yield: 772 koku 7 to 3 shō 9 gō　　Location: Kurokawa Village
-- Assessed rice yield: 916 koku 6 to 8 shō 7 seki 9 sai　Location: Nanokaichi Village

@@ -1,8 +1,0 @@
-One, assessed yield: 98 koku, 3 to, 5 shō, 8 gō　　　《Location: Kirikabu Village》
-One, assessed yield: 417 koku, 3 to, 8 shō, 3 gō　　《Location: Hōshōji Village》
-One, assessed yield: 191 koku, 4 to, 8 shō, 2 gō　　《Location: Kakeai Village》
-One, assessed yield: 244 koku, 1 to, 4 shō, 8 gō　《Location: Masara Village》
-One, assessed yield: 141 koku, 6 shō, 1 gō　　　　《Location: Yako Village》
-One, assessed yield: 42 koku, 8 to, 8 shō, 1 gō　　　《Location: Kanasaki Village》
-One, assessed yield: 113 koku, 5 to, 4 shō, 3 gō　　　《Location: Ehara Village》
-One, assessed yield: 70 koku, 7 to, 2 shō, 3 gō　　　　《Location: Jōsei Village》

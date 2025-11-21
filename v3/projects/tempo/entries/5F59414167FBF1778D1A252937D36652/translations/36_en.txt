@@ -1,9 +1,0 @@
-1. Assessed yield: 638 koku, 3 to, 6 sho, 3 go　　　　Kawagoishi Village
-1. Assessed yield: 698 koku, 9 to, 6 sho, 4 go　　　　Akanuma Village
-1. Assessed yield: 703 koku, 1 to, 6 sho, 3 go　　　　Yatsuzukuri Village
-1. Assessed yield: 1,502 koku, 1 to, 4 sho　　　　　　Taharai Village
-　　　　　　　　　　　　　(Branch village of Taharai Village)
-1. Assessed yield: 268 koku, 8 to, 3 sho, 2 go　　　　Wanada Village
-1. Assessed yield: 247 koku, 6 to, 4 sho, 3 go　　　　Oshio Village
-1. Assessed yield: 1,561 koku, 6 to, 4 sho　　　　　　Hadeniwa Village
-1. Assessed yield: 532 koku, 5 to, 8 sho, 1 go　　　　Karimata Village

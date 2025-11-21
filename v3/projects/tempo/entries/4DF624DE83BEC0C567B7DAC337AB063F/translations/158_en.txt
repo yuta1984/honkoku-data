@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 227 koku, 7 to, 8 sho, 8 go, 9 shaku《Location: Aogu Village》《Marginal note: [Old yield/old domain survey record = Aogai Village = recording error]》
-Item 1: Assessed yield of 24 koku, 8 to, 8 sho, 2 go, 5 shaku　　《Location: Kazō-Shinden Village》
-Item 1: Assessed yield of 189 koku, 2 go, 9 shaku　　　　　《Location: Umi-no-kuchi Village》《Marginal note: [Old yield/old domain survey record = Umi-no-kuchi Village]》
-Item 1: Assessed yield of 15 koku, 6 sho, 4 go, 7 shaku　　　　　《Location: Nakatsuna Village》
-Item 1: Assessed yield of 14 koku, 6 to, 8 sho, 7 go, 6 shaku　　　《Location: Aoki Village》
-Item 1: Assessed yield of 172 koku, 4 sho, 7 go　　　　　《Location: Sano Village》
-Item 1: Assessed yield of 500 koku, 2 to, 1 sho, 3 go, 5 shaku　　　《Location: Sawatari Village》
-Item 1: Assessed yield of 271 koku, 7 to, 4 sho, 9 go, 3 shaku《Location: Hori-no-uchi Village》《Marginal note: [Old yield/old domain survey record = Hori-no-uchi Village]》

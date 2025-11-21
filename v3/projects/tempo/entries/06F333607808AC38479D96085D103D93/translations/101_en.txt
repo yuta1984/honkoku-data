@@ -1,8 +1,0 @@
-- Assessed rice yield: 36 koku 4 shō 6 gō - Location: Ōkura-ran Shinden
-- Assessed rice yield: 284 koku 6 to 1 gō - Location: Togami Village
-- Assessed rice yield: 72 koku 4 to 6 shō 1 gō - Location: Zenkōji Village
-- Assessed rice yield: 233 koku 2 to 5 shō - Location: Ōkama Village
-- Assessed rice yield: 159 koku 4 to 6 shō 1 gō - Location: Horimawari Village
-- Assessed rice yield: 238 koku 6 to 3 shō 8 gō - Location: Maniwa Village
-- Assessed rice yield: 126 koku 4 to 2 shō 2 gō - Location: U[?]i Village
-- Assessed rice yield: 289 koku 3 to 6 shō 4 gō - Location: Mandokoro Village

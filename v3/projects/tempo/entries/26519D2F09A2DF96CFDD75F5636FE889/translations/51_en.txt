@@ -1,8 +1,0 @@
-1. Rice yield: 178 koku, 9 to, 3 sho, 1 go　　《Branch village of Ezu Village》《Location: Miyanokuchi Village》
-1. Rice yield: 675 koku, 8 to, 5 sho, 5 go　　　　　《Location: Takagi Village》
-1. Rice yield: 258 koku, 7 to, 4 sho, 1 go　《Branch village of Takagi Village》《Location: Minamiyama Village》
-1. Rice yield: 466 koku, 2 to, 7 sho, 9 go　《Branch village of Takagi Village》《Location: Degaito Village》
-1. Rice yield: 323 koku, 9 to, 9 sho, 7 go　　　　　《Location: Yamamoto Village》
-1. Rice yield: 714 koku, 2 to, 6 sho, 3 go　　　　　　《Location: Iioka Village》
-1. Rice yield: 1,204 koku, 6 to, 2 sho, 4 go　　　　　　《Location: Kusauchi Village》
-1. Rice yield: 578 koku, 1 to, 3 sho, 5 go　《Branch village of Kusauchi Village》《Location: Higashi Village》

@@ -1,8 +1,0 @@
-《Location: Sawara District》
-One: Assessed rice yield 1,560 koku 8 to 3 sho 1 go　　　　《Location: Wakiyama Village》
-One: Assessed rice yield 2,234 koku 4 to 7 sho 2 go　　《Location: Higashi-Iribe Village》
-One: Assessed rice yield 660 koku 5 to 6 sho 4 go 9 shaku　　　《Location: Nishi-Iribe Village》
-One: Assessed rice yield 1,198 koku 7 to 3 sho 5 go　　　　《Location: Shika Village》
-One: Assessed rice yield 1,067 koku 7 sho 1 go　　　　　　　《Location: Kanetake Village》
-One: Assessed rice yield 1,001 koku 5 to 9 sho 7 go　　　　　　　《Location: Shigetome Village》
-One: Assessed rice yield 1,553 koku 3 to 1 sho 3 go 6 shaku　《Location: Ta Village》

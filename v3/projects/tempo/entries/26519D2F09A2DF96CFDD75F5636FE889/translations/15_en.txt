@@ -1,8 +1,0 @@
-1. Rice yield: 143 koku　　　　　　　　《Location: Bessho Village》
-1. Rice yield: 95 koku, 5 to, 5 sho, 3 go　　　《Location: Ofuse Village》
-1. Rice yield: 79 koku, 4 to, 7 go　　　　　《Location: Hassho Village》
-1. Rice yield: 91 koku, 1 to, 1 sho, 2 go　《Note: Kuta》《Location: Miyatani Village》
-1. Rice yield: 91 koku, 3 to, 9 sho　　　《Note: Kuta》《Location: Nakazaichi Village》
-1. Rice yield: 118 koku, 4 to　　　　　《Note: Kuta》《Location: Kamimura Village》
-1. Rice yield: 83 koku, 6 to, 7 sho, 9 go　《Note: Kuta》《Location: Shimomura Village》
-1. Rice yield: 50 koku, 6 sho, 9 go　　　　《Note: Kuta》《Location: Kawai Village》

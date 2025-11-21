@@ -1,8 +1,0 @@
-Item 1: Assessment 657 koku, 9 to, 1 sho, 3 go　　《Location: Makita Village》
-Item 1: Assessment 314 koku, 1 to, 7 sho, 7 go　　　《Location: Tamura Township》
-Item 1: Assessment 155 koku, 2 to, 1 sho, 3 go　　　《Location: Bessho Village》
-Item 1: Assessment 313 koku, 6 to, 9 sho, 4 go　　《Location: Shimo-Kagemori Village》
-Item 1: Assessment 305 koku, 7 to, 6 sho, 4 go　　　《Location: Kami-Kagemori Village》
-Item 1: Assessment 580 koku, 1 to, 7 sho　　　　　《Location: Kuna Village》
-Item 1: Assessment 91 koku, 3 to, 9 sho, 5 go　　　《Location: Onohara Village》
-Item 1: Assessment 435 koku, 9 to, 5 sho, 5 go　　《Location: Hannya Village》

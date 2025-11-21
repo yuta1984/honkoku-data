@@ -1,8 +1,0 @@
-Item 1: Assessment 743 koku, 2 sho　　　　　　《Location: Matoba Village》
-Item 1: Assessment 80 koku, 3 to, 6 sho　　　　　《Location: Abina Shinden》
-Item 1: Assessment 1,278 koku, 9 sho, 5 go　　　《Location: Kashiwabara Village》
-Item 1: Assessment 1,014 koku, 2 to, 9 sho, 3 go　　　《Location: Kami-Hirose Village》
-Item 1: Assessment 238 koku, 8 to　　　　　《Location: Shimo-Hirose Village》
-Item 1: Assessment 194 koku, 4 sho, 5 go　　　　《Location: Ashikariba Village》
-Item 1: Assessment 103 koku, 7 to　　　　　　　　《Location: Mahikisawa Village》
-Item 1: Assessment 105 koku, 7 to, 6 go　　　　　　　《Location: Taki Village》

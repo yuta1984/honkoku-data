@@ -1,8 +1,0 @@
-One: Assessed yield of 352 koku, 8 to, 8 go - Nikō Village (formerly two villages: Nikō Village and Kami-nikō Village)
-One: Assessed yield of 275 koku, 9 to, 9 sho, 8 go - Chishahara Village
-One: Assessed yield of 83 koku, 7 to, 8 sho, 3 go - Shurieda Village
-One: Assessed yield of 181 koku, 3 to, 9 sho, 6 go - Nagataki Village
-One: Assessed yield of 1,988 koku, 4 to, 9 sho, 4 go - Fukusumi Village (formerly eight villages: Fukusumi Village, Onomi Village, Kami-irita Village, Jōdo Village, Shimo-irita Village, Bessho Village, Minamida Village, and Inoichi Village)
-One: Assessed yield of 264 koku, 2 to, 1 sho, 2 go - Inō Village
-One: Assessed yield of 545 koku, 9 to, 5 sho, 3 go - Oyamato Village
-One: Assessed yield of 182 koku, 1 to, 1 sho, 4 go - Aikawa Village

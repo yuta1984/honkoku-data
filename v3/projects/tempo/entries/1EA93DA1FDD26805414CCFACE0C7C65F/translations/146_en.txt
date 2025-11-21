@@ -1,8 +1,0 @@
-Item 1: Assessment 155 koku, 7 to, 8 sho, 2 shaku　　　《Location: Wada Village》
-Item 1: Assessment 243 koku, 4 to, 6 sho, 9 go　　《Location: Nyoi Village》
-Item 1: Assessment 149 koku, 7 to, 1 sho, 8 go　　《Location: Minowada Village》
-Item 1: Assessment 576 koku, 1 to, 4 go　　　　《Location: Kawakado Village》
-Item 1: Assessment 256 koku, 7 to, 4 sho, 7 go　　《Location: Ōrui Village》
-Item 1: Assessment 197 koku, 1 to, 6 sho, 5 go　　《Location: Ōkubo Village》
-Item 1: Assessment 326 koku, 2 to, 5 sho, 5 go　　《Location: Kuzunuki Village》
-Item 1: Assessment 42 koku, 8 to, 4 sho, 1 go, 5 shaku　　《Location: Shukuya Village》

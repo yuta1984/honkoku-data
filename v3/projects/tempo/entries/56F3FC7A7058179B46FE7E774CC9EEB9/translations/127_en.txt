@@ -1,8 +1,0 @@
-Item: Assessed yield of 55 koku, 3 to, 3 sho　　　　　　　　　　　　　《Location: Enohama Village》
-Item: Assessed yield of 79 koku, 5 sho, 2 go, 6 seki　　　　　　　　　　《Location: Ota Village》
-Item: Assessed yield of 48 koku, 5 to, 3 go, 8 seki, 6 sai　　　　　　　《Location: Shuku-no-ura Village》
-Item: Assessed yield of 962 koku, 9 to, 4 sho, 6 go, 2 seki　　　　　　　《Location: Taira Village》
-Item: Assessed yield of 452 koku, 7 to, 3 sho, 7 go　　　　　　　　　　　《Location: Koba Village》
-Item: Assessed yield of 323 koku, 3 to, 5 sho, 3 go, 8 seki　　　　　　　《Location: Otae Village》
-Item: Assessed yield of 163 koku, 9 to, 1 sho, 6 go, 5 seki　　　　　　　《Location: Terashima Village》
-Item: Assessed yield of 754 koku, 5 to, 6 sho, 1 go, 2 seki　　　　　　　《Location: Iira Village》

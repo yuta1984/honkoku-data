@@ -1,8 +1,0 @@
-1. Assessed yield: 506 koku, 7 to, 1 sho, 2 go　　　　　　　　Tsushima Village
-1. Assessed yield: 605 koku, 6 to, 3 sho, 9 go, 5 shaku　　　　Awakuda Village
-1. Assessed yield: 695 koku, 3 to, 7 sho, 9 go　　　　　　　　Ōkura Village
-1. Assessed yield: 821 koku, 3 to, 5 sho, 2 shaku　　　　　　　Shindate Village
-1. Assessed yield: 944 koku, 8 sho, 1 go　　　　　　　　　　　Ishimori Village
-1. Assessed yield: 1,017 koku, 9 to, 6 sho, 6 go　　　　　　　Kitautsushi Village
-1. Assessed yield: 639 koku, 7 sho, 4 go, 5 shaku　　　　　　　Monjika Village
-1. Assessed yield: 1,050 koku, 1 to, 7 sho, 3 go　　　　　　　Ishizawa Village

@@ -1,8 +1,0 @@
-One, assessed yield: 124 koku, 3 to, 5 shō, 9 gō　　　　　《Location: Takaiyani Village》
-One, assessed yield: 327 koku, 1 to, 6 shō, 4 gō　　　　　《Location: Nakanishio Village》
-One, assessed yield: 350 koku, 2 to, 3 shō, 1 gō　《Note: Formerly《Location: Togamae Village》》《Location: Tomishige Village》
-One, assessed yield: 227 koku, 1 to, 7 shō, 7 gō　　　　　《Location: Fukuyori Village》
-One, assessed yield: 186 koku, 1 to, 6 shō, 3 gō　　　　　《Location: Nishiobara Village》
-One, assessed yield: 100 koku, 2 to, 1 shō, 1 gō　　　　　《Location: Honmiya Village》
-One, assessed yield: 367 koku, 8 to, 5 gō, 3 shaku, 8 sai　《Location: Akamatsu Village》
-　Subtotal　assessed yield: 27,062 koku, 2 to, 9 shō, 8 gō, 6 sai

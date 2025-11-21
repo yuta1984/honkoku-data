@@ -1,8 +1,0 @@
-Item 1: Assessment 288 koku, 1 to, 1 sho, 8 go　　　《Location: Nakanoshima Village》
-Item 1: Assessment 26 koku, 8 sho, 3 go　　　　　　《Location: Yagasaki Village》
-Item 1: Assessment 125 koku　　　　　　　　　　　《Location: Omachi Village》
-Item 1: Assessment 448 koku, 3 to, 3 sho, 9 go　　　《Location: Kaneko Village》
-Item 1: Assessment 63 koku, 7 to, 4 sho　　　　　　《Location: Kami-Sengawa Village》
-Item 1: Assessment 62 koku, 5 to　　　　　　　　　《Location: Naka-Sengawa Village》
-Item 1: Assessment 484 koku, 7 sho, 9 go, 9 shaku, 5 sai　《Location: Shimo-Sengawa Village》
-Item 1: Assessment 203 koku, 1 to, 3 sho, 6 go　　　《Location: Kitano Village》

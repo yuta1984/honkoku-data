@@ -1,8 +1,0 @@
-Item 1: Assessment 671 koku, 4 to, 8 sho　　　　　　《Location: Nagatome Village》
-Item 1: Assessment 559 koku, 6 to, 9 sho, 7 go　　　《Location: Kamitano Village》
-Item 1: Assessment 142 koku, 9 to, 2 sho, 6 go　　　　　《Location: Urayama Village》
-Item 1: Assessment 226 koku, 4 to, 2 sho, 7 go　　　　《Location: Hino Village》
-Item 1: Assessment 394 koku, 2 to, 5 sho, 5 go, 3 shaku　　《Location: Shiraku Village》
-Item 1: Assessment 408 koku, 8 to, 3 sho, 8 go　　　　　　《Location: Niekawa Village》
-Item 1: Assessment 296 koku, 5 to, 1 sho, 2 go, 5 shaku　《Location: Shin-Otaki Village》
-Item 1: Assessment 197 koku, 4 sho, 5 go, 5 shaku　　　　《Location: Ko-Otaki Village》

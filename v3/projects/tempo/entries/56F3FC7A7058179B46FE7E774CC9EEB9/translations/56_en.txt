@@ -1,8 +1,0 @@
-Item: Assessed yield of 104 koku, 1 to, 3 sho　　　　　　《Location: Ishi□ Village》
-Item: Assessed yield of 168 koku, 6 to, 1 sho, 1 go　　　《Location: Renji Village》
-Item: Assessed yield of 138 koku, 6 to, 9 go　　　　　　《Location: Mami-ga-sato Village》
-Item: Assessed yield of 672 koku, 6 to, 9 sho, 1 go　　　《Location: Kume-ga-sato Village》
-Item: Assessed yield of 59 koku, 8 to, 4 sho　　　　　　《Location: Eiseiji Village》
-Item: Assessed yield of 381 koku, 3 to, 5 sho, 6 go　　　《Location: Iwakura Village》
-Item: Assessed yield of 205 koku, 7 to, 4 sho, 7 go　　　《Location: □ Village》
-Item: Assessed yield of 393 koku, 2 to, 6 sho, 9 go　　　《Location: Habu-ga-sato Village》

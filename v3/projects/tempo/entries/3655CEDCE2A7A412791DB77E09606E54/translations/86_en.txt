@@ -1,8 +1,0 @@
-1. Assessed yield: 453 koku, 2 to, 1 shō, 7 gō, 7 sai - Karyū Village
-1. Assessed yield: 809 koku, 5 to, 9 shō, 8 gō, 6 shaku, 5 sai - Toana Village
-1. Assessed yield: 750 koku, 6 to, 4 shō, 9 gō, 5 shaku, 8 sai - Kaizaki Village
-1. Assessed yield: 1,475 koku, 3 shō, 3 gō, 6 shaku, 4 sai - Ueno Village
-1. Assessed yield: 683 koku, 7 to, 2 shō, 8 gō, 5 sai - Kamioka Village
-1. Assessed yield: 549 koku, 9 to, 9 shō, 1 gō, 7 sai - Furuichi Village
-1. Assessed yield: 1,535 koku, 6 to, 4 shō, 5 gō, 2 shaku, 8 sai - Shimono Village
-1. Assessed yield: 2,080 koku, 6 to, 2 gō - Shioya Village

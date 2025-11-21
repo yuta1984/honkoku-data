@@ -1,9 +1,0 @@
-Item 1: Assessed yield 543 koku 4 go 3 shaku　　　　《Location: Miyaki Village》
-Item 1: Assessed yield 340 koku 5 to 1 sho 1 go 9 shaku　《Location: Shinmachi Village》
-Item 1: Assessed yield 550 koku 9 sho 2 go 4 shaku　　　《Location: Kita-Oide Village》
-Item 1: Assessed yield 530 koku 3 to 2 sho 4 go　　　《Location: Haneba Village》
-Item 1: Assessed yield 690 koku 6 to 9 sho 5 go　　　《Location: Sawa Village》
-Item 1: Assessed yield 571 koku 4 to 5 sho 5 go　　　《Location: Oide Village》
-　　　　　　　　　　　　　　　《Marginal note: Branch village of 《Location: Matsushima Village》》
-Item 1: Assessed yield 132 koku 9 to 9 sho 3 go　　　《Location: Nakahara-Shinden Village》
-Item 1: Assessed yield 1,988 koku 9 to 3 sho 1 go　《Location: Matsushima Village》

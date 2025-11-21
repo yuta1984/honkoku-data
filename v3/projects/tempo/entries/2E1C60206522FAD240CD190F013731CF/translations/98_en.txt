@@ -1,8 +1,0 @@
-One village with a kokudaka of 526 koku, 8 to, 5 sho, 4 go: Taima Village
-One village with a kokudaka of 466 koku, 6 to, 2 sho, 3 go: Takenouchi Village
-One village with a kokudaka of 553 koku, 7 to, 4 sho: Hyoke Village
-One village with a kokudaka of 703 koku, 5 to, 1 sho, 3 go: Ota Village
-One village with a kokudaka of 501 koku, 2 to, 8 sho: Teraguchi Village
-One village with a kokudaka of 179 koku, 4 sho, 5 go: Oya Village
-One village with a kokudaka of 455 koku, 8 to, 3 sho, 8 go: Nagao Village
-One village with a kokudaka of 470 koku, 8 to, 1 go: Imaichi Village

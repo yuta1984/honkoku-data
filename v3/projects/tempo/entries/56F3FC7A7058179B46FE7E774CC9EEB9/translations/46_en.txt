@@ -1,8 +1,0 @@
-Item: Assessed yield of 1,012 koku, 5 to, 3 sho, 1 go　　　　《Location: Nishi-Shinjo Village》
-Item: Assessed yield of 910 koku, 1 to, 5 go　　　　　　　　　《Location: Hakkozawa Village》
-Item: Assessed yield of 860 koku, 7 to, 3 sho, 6 go　　　　　　《Location: Egashira Village》
-Item: Assessed yield of 742 koku, 8 to, 4 sho, 8 go　　　　　　《Location: Higashi-Shinjo Village》
-Item: Assessed yield of 650 koku, 7 to, 9 sho　　　　　　　　　《Location: Ezato Village》
-Item: Assessed yield of 812 koku, 8 to, 5 sho, 6 go　　　　　　《Location: Ogino Village》
-Item: Assessed yield of 738 koku, 9 to, 1 sho, 3 go　　　　　　《Location: Kakihisa Village》
-Item: Assessed yield of 1,031 koku, 6 to, 2 sho, 3 go　　　　　《Location: Masuda Village》

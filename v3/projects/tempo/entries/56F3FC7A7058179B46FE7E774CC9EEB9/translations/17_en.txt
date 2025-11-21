@@ -1,8 +1,0 @@
-Item: Assessed yield of 55 koku, 6 to, 9 sho, 9 go　　　　《Location: Medabaru Village》
-Item: Assessed yield of 957 koku, 7 to, 4 sho, 3 go　　　《Location: Takuta Village》
-Item: Assessed yield of 619 koku, 3 to, 7 sho　　　　　　《Location: Fujiki Village》
-Item: Assessed yield of 866 koku, 5 to, 3 sho, 6 go　　　《Location: □□da Village》
-Item: Assessed yield of 697 koku, 4 to, 3 sho, 7 go　　　《Location: Chō-Ōta Village》
-Item: Assessed yield of 859 koku, 1 to, 2 sho, 3 go　　　《Location: Kōjiro Village》
-Item: Assessed yield of 578 koku, 6 to, 8 sho, 7 go　　　《Location: Saki Village》
-Item: Assessed yield of 255 koku, 9 sho, 8 go　　　　　　《Location: Kairaku Village》

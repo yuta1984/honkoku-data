@@ -1,8 +1,0 @@
-One: Assessed rice yield 1,169 koku 7 to 8 sho 3 go　　《Location: Kuwahara Village》
-One: Assessed rice yield 272 koku 7 to 9 sho 2 go　　《Location: Tajima Village》
-One: Assessed rice yield 871 koku 7 to 9 sho 8 go　　《Location: Oguma Village》
-One: Assessed rice yield 186 koku 1 to 5 sho 7 go 4 shaku　《Location: Hayashida Village》
-One: Assessed rice yield 97 koku 9 to 8 sho 7 go 5 shaku　　《Location: Uwahata Village》
-One: Assessed rice yield 133 koku 8 to 1 sho 7 go　　　《Location: Kamasaki Village》
-One: Assessed rice yield 369 koku 2 go　　　　　　《Location: Kanamaru Village》
-One: Assessed rice yield 305 koku 5 to 5 sho 7 go　　　　《Location: Unoki Village》

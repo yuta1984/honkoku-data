@@ -1,8 +1,0 @@
-One village with a kokudaka of 177 koku, 7 to, 8 sho, 2 go: Akadaki Village
-One village with a kokudaka of 127 koku, 2 to, 2 sho: Dorogawa Village
-One village with a kokudaka of 46 koku, 5 to, 3 sho, 9 go: Nakagoshi Village
-One village with a kokudaka of 29 koku, 3 to, 1 sho, 9 go: Kitazumi Village
-One village with a kokudaka of 14 koku, 2 to, 1 sho, 8 go: Minamizumi Village
-One village with a kokudaka of 20 koku, 6 to, 5 sho, 2 go: Sawatani Village
-One village with a kokudaka of 45 koku, 4 to, 4 go: Kawai Village
-One village with a kokudaka of 28 koku, 1 to, 8 sho, 2 go: Okigane Village

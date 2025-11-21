@@ -1,9 +1,0 @@
-Item 1: Assessed yield of 539 koku, 2 to, 3 sho, 1 go, 8 shaku《Location: Shinya Village》
-Item 1: Assessed yield of 241 koku, 5 to, 9 sho, 4 go, 5 shaku《Location: Tateashi Village》
-Item 1: Assessed yield of 166 koku, 7 to, 2 sho, 4 go, 3 shaku　《Location: Nezumiana Village》
-　　　　　　　　　　　　　　　《Marginal note: 《Location: Matsukawa Village》branch village》
-Item 1: Assessed yield of 83 koku, 5 to, 2 sho, 9 go　　　　《Location: Kambe Village》《Marginal note: [Kyūdaka Kyūryō Torishirabe-chō = Kambe Shinden Village]》
-Item 1: Assessed yield of 475 koku, 2 to, 8 sho, 5 go, 8 shaku《Location: Itatori Village》
-Item 1: Assessed yield of 1,342 koku, 7 to, 1 sho, 2 go, 4 shaku《Location: Matsukawa Village》
-Item 1: Assessed yield of 480 koku, 9 to, 9 sho, 1 go, 9 shaku　《Location: Nishiyama Village》
-Item 1: Assessed yield of 458 koku, 4 sho, 5 go, 2 shaku　　《Location: Shimizu Village》

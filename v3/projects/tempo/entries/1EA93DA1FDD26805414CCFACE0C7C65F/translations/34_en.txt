@@ -1,8 +1,0 @@
-Item 1: Assessment 375 koku, 8 to, 8 sho, 2 shaku, 9 sai　　　　《Location: Hisasue Village》
-Item 1: Assessment 422 koku, 9 to, 3 sho, 6 go, 1 shaku, 5 sai　《Location: Shiboroguchi Village》
-Item 1: Assessment 66 koku, 3 to, 5 sho, 3 go　　　　　　　　《Location: Kaniya Village》【Kanigaya Village?】
-Item 1: Assessment 72 koku, 9 to, 6 sho, 4 go　　　　　　　　《Location: Aketsu Village》
-Item 1: Assessment 528 koku, 6 sho, 8 go, 7 shaku, 8 sai　　　　《Location: Ida Village》
-Item 1: Assessment 186 koku, 1 to, 8 sho, 4 go, 9 shaku, 7 sai　　《Location: Komagahashi Village》
-Item 1: Assessment 924 koku, 6 to, 5 sho, 7 go　　　　　　《Location: Amishima Village》
-Item 1: Assessment 728 koku, 9 to, 4 sho, 4 go　　　　　　《Location: Komabayashi Village》

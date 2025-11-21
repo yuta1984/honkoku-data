@@ -1,8 +1,0 @@
-- Assessed rice yield: 437 koku 5 to 2 shō 9 gō　　Location: Zōishi Village
-- Assessed rice yield: 346 koku 3 to 6 shō 6 gō　　Location: Niwaya Village
-- Assessed rice yield: 1,326 koku 5 to 2 shō 1 gō　Location: Fukushima Village
-- Assessed rice yield: 92 koku 9 to 2 shō 4 gō　　　Location: Taido Village
-- Assessed rice yield: 141 koku 8 shō 6 gō　　　　　Location: Sasa Village
-- Assessed rice yield: 1,448 koku 5 to 6 shō　　　　Location: Shirakura Village
-- Assessed rice yield: 928 koku 1 to 7 shō　　　　　Location: Amagawa Village
-- Assessed rice yield: 333 koku 5 to 1 shō 2 gō　　　Location: Ueno Village

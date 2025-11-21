@@ -1,8 +1,0 @@
-1. Assessed yield: 322 koku, 1 to, 3 sho, 1 go, 8 shaku - Kita-funahara Village
-1. Assessed yield: 91 koku, 9 sho, 1 shaku, 4 sai - Machiya Village (branch village of Kita-funahara Village)
-1. Assessed yield: 874 koku, 7 to, 6 sho - Yanaizu Village
-1. No assessed yield - Yanaizu-shinden Village
-1. Assessed yield: 619 koku, 3 to, 9 sho, 3 go - Tashiro Village
-1. Assessed yield: 842 koku, 5 to, 6 sho, 7 go - Kita-oyobi Village
-1. Assessed yield: 464 koku, 9 to, 5 sho, 3 go, 6 shaku - Minami-funahara Village
-1. Assessed yield: 433 koku, 6 to, 5 sho, 7 go, 4 shaku, 2 sai - Mori Village

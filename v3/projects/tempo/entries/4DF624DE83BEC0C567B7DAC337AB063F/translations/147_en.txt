@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 426 koku, 4 to, 7 sho, 8 go, 6 shaku《Location: Hira Village》
-Item 1: Assessed yield of 779 koku, 2 to, 2 sho, 2 shaku　　《Location: Hodaka Village》
-Item 1: Assessed yield of 313 koku, 9 to, 4 sho, 1 go, 7 shaku　《Location: Hodaka-machi Village》
-Item 1: Assessed yield of 215 koku, 5 sho, 3 go, 3 shaku　　　《Location: Todoroki-machi Village》
-Item 1: Assessed yield of 555 koku, 4 sho, 4 shaku　　　　《Location: Todoroki Village》
-Item 1: Assessed yield of 204 koku, 9 to, 9 sho, 9 go, 3 shaku　　《Location: Shirokane Village》
-Item 1: Assessed yield of 62 koku, 4 sho, 4 go　　　　　　《Location: Kaibai-bun》《Marginal note: [Kyūdaka Kyūryō Torishirabe-chō = Kaibai Village]》
-Item 1: Assessed yield of 480 koku, 5 to, 1 sho, 1 go　　　《Location: Kitsuneshima Village》

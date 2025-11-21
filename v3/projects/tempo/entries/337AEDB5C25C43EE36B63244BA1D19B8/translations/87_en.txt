@@ -1,7 +1,0 @@
-One: Assessed rice yield 2,667 koku 2 to 2 sho 7 go　　　　《Location: Mushirouchi Village》
-One: Assessed rice yield 560 koku 5 to 4 sho 4 go 2 shaku　　《Location: Sho Village》
-One: Assessed rice yield 650 koku 7 to 1 sho 3 go 5 shaku　　《Location: Shinhara Village》
-One: Assessed rice yield 994 koku 2 to 9 sho 2 go　　　　　《Location: Komono Village》
-One: Assessed rice yield 194 koku 5 sho 2 go 2 shaku　　　　《Location: Ainoshima Village》
-　Subtotal assessed rice yield: 65,150 koku 1 to 8 sho 4 go 1 shaku
-　　　　　　　　　　　《Location: Kasuya District》　84 villages

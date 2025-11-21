@@ -1,8 +1,0 @@
-One: Assessed rice yield 944 koku 5 to 6 sho 6 go　　　《Location: Hiratsuka Village》
-One: Assessed rice yield 703 koku 2 to 3 sho 1 go　　　　　《Location: Oda Village》
-One: Assessed rice yield 1,636 koku 5 go 7 shaku 3 sai　　《Location: Yanaga Village》
-One: Assessed rice yield 447 koku 3 to 7 sho 7 go 5 shaku　《Location: Ushitsuru Village》
-One: Assessed rice yield 1,020 koku 2 to 9 go 6 shaku　　　　　《Location: Tsutsumi Village》
-One: Assessed rice yield 301 koku 5 to 4 sho 7 go　　　　　《Location: Kakihara Village》
-One: Assessed rice yield 296 koku 4 sho 9 go　　　　　《Location: Itaya Village》
-One: Assessed rice yield 278 koku 4 sho 3 go 2 shaku 9 sai　《Location: Yagatahara Village》

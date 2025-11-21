@@ -1,8 +1,0 @@
-Item: Assessed yield of 119 koku, 8 to, 8 sho, 5 go　　　　《Location: Umezaki Village》
-Item: Assessed yield of 168 koku, 8 to, 6 sho, 2 go　　　《Location: Teraura Village》
-Item: Assessed yield of 1,501 koku, 3 sho, 5 go　　　　　《Location: Watada Village》
-Item: Assessed yield of 191 koku, 6 to, 4 go　　　　　《Location: Oishi Village》
-Item: Assessed yield of 422 koku, 3 to, 6 sho, 8 go　　《Location: Yōbota Village》
-Item: Assessed yield of 1,049 koku, 1 to, 5 sho, 5 go　　《Location: Chichiga Village》
-Item: Assessed yield of 1,223 koku, 3 to, 6 sho　　　《Location: Yamamoto Village》
-Item: Assessed yield of 314 koku, 3 sho, 6 go　　　　　《Location: Hatashima Village》

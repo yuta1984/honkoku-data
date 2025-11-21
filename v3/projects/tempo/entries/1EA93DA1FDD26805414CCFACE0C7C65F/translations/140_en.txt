@@ -1,8 +1,0 @@
-Item 1: Assessment 217 koku, 5 to, 8 sho　　　　　《Location: Takabata Village》
-Item 1: Assessment 414 koku, 7 to, 1 sho　　　　　《Location: Fukuda Village》
-Item 1: Assessment 497 koku, 2 to, 6 sho　　　　《Location: Konya Village》
-Item 1: Assessment 41 koku, 3 to, 8 sho, 5 go　　　《Location: Konya Shinden》
-Item 1: Assessment 299 koku, 1 to, 4 sho, 7 go　《Location: Nakakosaka Village》
-Item 1: Assessment 727 koku, 5 to, 9 sho, 2 go　　《Location: Yokonuma Village》
-Item 1: Assessment 775 koku, 1 to, 9 sho　　　　《Location: Konuma Village》
-Item 1: Assessment 372 koku, 9 to, 6 sho, 8 go　　《Location: Aoki Village》

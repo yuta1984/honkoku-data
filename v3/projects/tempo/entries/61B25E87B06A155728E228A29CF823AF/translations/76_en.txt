@@ -1,8 +1,0 @@
-1. Assessed yield: 1,145 koku, 1 to, 9 sho, 2 go　　　　　　Kamiwatari village
-1. Assessed yield: 393 koku, 4 to, 8 sho, 7 go　　　　　　　Higashi-makinai village
-1. Assessed yield: 401 koku, 9 to, 8 sho, 4 go　　　　　　　Nishi-makinai village
-1. Assessed yield: 385 koku, 3 to, 1 go　　　　　　　　　　　Tominaga village
-1. Assessed yield: 250 koku, 3 to, 8 sho, 9 go　　　　　　　Higashi-bessho village
-1. Assessed yield: 836 koku, 7 to, 7 sho, 4 go　　　　　　　Nishi-hongo village
-1. Assessed yield: 818 koku, 4 to, 4 sho, 5 go　　　　　　　Higashi-hongo village
-1. Assessed yield: 1,560 koku, 9 to, 5 sho, 9 go　　　　　　Shigehara village

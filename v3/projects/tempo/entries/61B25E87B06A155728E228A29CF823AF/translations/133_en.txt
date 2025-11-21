@@ -1,8 +1,0 @@
-1. Assessed yield: 47 koku, 3 to, 9 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Ikeba village
-1. Assessed yield: 71 koku, 2 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　Hata village
-1. Assessed yield: 248 koku, 1 to, 9 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Nane village
-1. Assessed yield: 65 koku, 1 to, 3 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　Kawakado village
-1. Assessed yield: 164 koku, 5 to, 8 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　Yorichika village
-1. Assessed yield: 90 koku, 3 to, 9 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　Mise village
-1. Assessed yield: 38 koku, 9 to, 3 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Naka-Shitara village
-1. Assessed yield: 241 koku, 9 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　Bessho village

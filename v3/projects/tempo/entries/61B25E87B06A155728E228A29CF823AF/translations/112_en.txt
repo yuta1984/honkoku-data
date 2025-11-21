@@ -1,8 +1,0 @@
-1. Assessed yield: 452 koku, 4 to, 3 sho, 2 go　　　　　　　　　　　　Odabuchi village
-1. Assessed yield: 417 koku, 4 sho　　　　　　　　　　　　　　　　　　Mori village
-1. Assessed yield: 166 koku, 5 to, 6 sho, 9 go　　　　　　　　　　　　Shigematsu village
-1. Assessed yield: 512 koku, 9 to, 4 sho, 6 go　　　　　　　　　　　　Shuku village
-1. Assessed yield: 995 koku, 8 to, 2 sho, 1 go　　　　　　　　　　　　Kosakai village
-1. Assessed yield: 764 koku, 8 sho, 5 go　　　　　　　　　　　　　　　Tametō village
-1. Assessed yield: 669 koku, 5 to, 7 sho, 7 go　　　　　　　　　　　　Hiroishi village
-1. Assessed yield: 234 koku, 8 to, 1 sho　　　　　　　　　　　　　　　Morishita village

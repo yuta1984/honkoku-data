@@ -1,8 +1,0 @@
-1. Assessed yield: 58 koku, 7 to, 9 sho, 7 go, 7 shaku - Manbu Village
-1. Assessed yield: 13 koku, 7 to, 9 sho, 4 go - Kitame Shinden Village
-1. Assessed yield: 45 koku, 8 to, 8 sho, 4 shaku - Tarukawa Shinden Village
-1. Assessed yield: 55 koku, 4 to, 3 sho, 2 go, 7 shaku - Nakayama Shinden Village
-1. Assessed yield: 62 koku, 9 to, 3 go - Minowa Shinden Village
-1. Assessed yield: 52 koku, 7 to, 2 sho, 3 go, 9 shaku - Tenjin Shinden Village
-1. Assessed yield: 69 koku, 7 sho, 4 go, 3 shaku - Hiratsu Shinden Village
-1. Assessed yield: 56 koku, 6 to, 7 shaku - Senboku Shinden Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 1,140 koku, 3 to, 2 sho, 7 go　　　Takatori village
-1. Assessed yield: 1,438 koku, 8 to, 1 sho　　　Nishihata village
-1. Assessed yield: 1,386 koku, 2 to, 1 sho, 8 go　　　Higashihata village
-1. Assessed yield: 1,257 koku, 9 to, 5 sho, 3 go　　　Nezaki village
-1. Assessed yield: 1,209 koku, 2 to, 9 sho, 8 go　　　Yonezu village
-1. Assessed yield: 194 koku, 1 to, 6 sho, 2 go　　　Nakane village
-1. Assessed yield: 435 koku, 8 to, 2 sho, 2 go　　　Jōgairi village
-1. Assessed yield: 774 koku, 8 sho, 7 go　　　Izumi village

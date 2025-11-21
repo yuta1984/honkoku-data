@@ -1,8 +1,0 @@
-1. Assessed yield: 1,021 koku, 7 to, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hanagasaki village
-1. Assessed yield: 760 koku, 7 to, 8 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　　Hashiyoshi village
-1. Assessed yield: 502 koku, 4 to, 9 sho, 3 shaku　　　　　　　　　　　　　　　　　　　　　　　　　Koike village
-1. Assessed yield: 41 koku, 6 to, 4 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Akumi village
-1. Assessed yield: 2,920 koku, 4 to, 7 sho, 2 go, 3 shaku　　　　　　　　　　　　　　　　　　　　　Nirengi village
-1. Assessed yield: 488 koku, 3 to, 1 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Ii village
-1. Assessed yield: 722 koku, 4 to, 4 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Tajiri village
-1. Assessed yield: 671 koku, 9 to, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Iwasaki village

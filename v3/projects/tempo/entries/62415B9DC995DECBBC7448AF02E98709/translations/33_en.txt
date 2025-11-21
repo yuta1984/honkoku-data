@@ -1,8 +1,0 @@
-One, assessed yield: 356 koku, 1 to, 1 shō, 2 gō　《Location: Sugishita Village》
-One, assessed yield: 311 koku, 2 shō, 3 gō　　　　《Location: Moritō Village》
-One, assessed yield: 260 koku, 4 shō, 2 gō　　　　《Location: Hōman Village》
-One, assessed yield: 169 koku, 5 to, 6 shō, 9 gō　　《Location: Sugichi Village》
-One, assessed yield: 136 koku, 9 to, 2 shō, 2 gō　　《Location: Tanei Village》
-One, assessed yield: 154 koku, 2 to, 5 shō, 6 gō　　《Location: Hachidanda Village》
-One, assessed yield: 104 koku, 7 to, 8 shō　　　　　《Location: Miyauchi Village》
-One, assessed yield: 108 koku, 3 to, 2 shō, 5 gō　　《Location: Baba Village》

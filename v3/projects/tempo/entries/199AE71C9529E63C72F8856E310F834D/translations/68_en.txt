@@ -1,8 +1,0 @@
-1. Assessed yield: 202 koku, 5 sho - Kanbara Village
-1. Assessed yield: 284 koku, 4 to, 3 sho - Kisoya Village
-1. Assessed yield: 737 koku, 9 to, 6 sho, 6 go - Narei Village
-1. Assessed yield: 97 koku, 7 to, 6 sho, 6 go - Tanigumi Village
-1. Assessed yield: 147 koku, 3 sho, 5 go - Funai Village
-1. Assessed yield: 410 koku, 5 to, 9 sho - Yuki Village
-1. Assessed yield: 174 koku, 4 to, 5 sho, 7 go - Akaishi Village
-1. Assessed yield: 423 koku, 9 to, 8 sho, 9 go - Shimonagase Village

@@ -1,8 +1,0 @@
-One, assessed yield: 394 koku, 1 to, 4 shō, 5 gō　《Location: Kumi Village》
-One, assessed yield: 181 koku, 7 to, 7 gō　　　　《Location: Kawakami Village》
-One, assessed yield: 193 koku, 5 to, 6 shō, 4 gō　　《Location: Takatsuji Village》
-One, assessed yield: 88 koku, 6 to, 6 shō, 4 gō　　　《Location: Hōmen Village》
-One, assessed yield: 246 koku, 9 shō, 4 gō　　　《Location: Bessho Village》
-One, assessed yield: 59 koku, 2 to, 5 shō, 1 gō　　　《Location: Yamabe Village》
-One, assessed yield: 194 koku, 2 to, 6 shō, 7 gō　　《Location: Nakao Village》
-One, assessed yield: 275 koku, 1 to, 1 gō　　　《Location: Tahata Village》

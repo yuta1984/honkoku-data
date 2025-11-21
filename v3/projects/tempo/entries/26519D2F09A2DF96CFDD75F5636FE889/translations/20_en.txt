@@ -1,8 +1,0 @@
-1. Rice yield: 429 koku, 7 to, 1 go　　　　　　《Location: Shogoin Village》
-1. Rice yield: 876 koku, 4 to, 3 go, 4 shaku, 8 sai　《Location: Okazaki Village》
-1. Rice yield: 443 koku, 8 to, 8 sho, 5 go, 2 shaku　《Location: Jodoji Village》
-1. Rice yield: 170 koku, 7 to, 5 go, 1 shaku, 5 sai　《Location: Shishigatani Village》
-1. Rice yield: 84 koku, 5 to, 7 sho　　　　　　《Location: Nanzenji Monzen》
-1. Rice yield: 212 koku, 9 to, 8 sho, 7 shaku　　《Location: Awataguchi Village》
-1. Rice yield: 7 koku, 7 to, 2 go, 6 shaku　　　《Location: Amabe Village》
-1. Rice yield: 177 koku, 6 to, 2 sho　　　　　　《Location: Shijo-gawara-dai》

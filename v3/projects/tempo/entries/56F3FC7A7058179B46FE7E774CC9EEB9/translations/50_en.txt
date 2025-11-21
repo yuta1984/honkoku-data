@@ -1,7 +1,0 @@
-Item: Assessed yield of 588 koku, 7 to, 8 sho, 8 go　　　《Location: Tateno Village》
-Item: Assessed yield of 1,021 koku, 5 to, 9 sho, 2 go　　《Location: Sanehisa Village》
-Item: Assessed yield of 1,222 koku, 6 to, 9 sho, 4 go　　《Location: Kami-iimori Village》
-Item: Assessed yield of 1,933 koku, 6 to, 0 sho, 1 go　　《Location: Shimo-iimori Village》
-Item: Assessed yield of 984 koku, 3 to, 7 sho, 3 go　　　《Location: Takatarou Village》
-　Subtotal　Assessed yield of 15,290 koku, 0 to, 6 sho, 7 go
-　　　　　　　　　　《Location: Saga District》　172 villages

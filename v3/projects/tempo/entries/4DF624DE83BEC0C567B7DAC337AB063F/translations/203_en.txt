@@ -1,9 +1,0 @@
-Item 1: Assessed yield of 728 koku, 8 sho, 1 go　　　《Location: Nosakata Village》
-Item 1: Assessed yield of 240 koku, 8 to, 7 sho　　　　《Location: Sakai Village》
-Item 1: Assessed yield of 444 koku, 5 to, 3 sho, 3 go　《Location: Tenjindo Village》
-Item 1: Assessed yield of 721 koku, 8 sho, 1 go　　　《Location: Shimokijima Village》
-Item 1: Assessed yield of 197 koku, 4 to, 4 sho, 3 go　　《Location: Yoshi Village》
-Item 1: Assessed yield of 228 koku, 5 sho, 2 go　　　《Location: Sonowata Village》
-Item 1: Assessed yield of 212 koku, 3 to, 9 sho, 9 go　　《Location: Yamagishi Village》
-　　　　　　　　　　《Note: Formerly》《Note: 《Location: Kamikijima Village》｜《Location: Samuzawa Shinden Village》｜《Location: Nukatsuka Shinden Village》》《Note: Three villages》
-Item 1: Assessed yield of 1,518 koku, 6 to, 7 sho　　　《Location: Kamikijima Village》

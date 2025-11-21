@@ -1,9 +1,0 @@
-1. Assessed yield: 193 koku, 9 to, 2 sho　　　　　　Mizusawa Village
-1. Assessed yield: 187 koku, 6 to, 9 sho　　　　　　Hayashizaki Village
-　　　　　　　　　　　　　　　　　　　　　　　　(Formerly Horinouchi Village)
-1. Assessed yield: 349 koku, 4 to, 3 sho, 4 go　　　　Horiuchi Village
-1. Assessed yield: 248 koku, 2 to, 5 sho, 4 go　　　　Haraitai Village
-1. Assessed yield: 361 koku, 8 to, 2 sho, 4 go　　　　Iizawa Village
-1. Assessed yield: 896 koku, 6 to, 7 sho, 8 go　　　　Tashiro Village
-1. Assessed yield: 826 koku, 2 to, 8 sho, 6 go　　　　Osawa Village
-1. Assessed yield: 537 koku, 2 to, 6 sho, 5 go　　　　Shinmachi Village

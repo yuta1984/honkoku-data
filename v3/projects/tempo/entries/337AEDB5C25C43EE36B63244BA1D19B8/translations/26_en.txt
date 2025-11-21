@@ -1,8 +1,0 @@
-One: Assessed rice yield 324 koku 7 to 8 sho 9 go 4 shaku 6 sai　《Note: Branch village of Kurahisa Village》《Location: Uchiyama Village》
-One: Assessed rice yield 703 koku 6 to 1 sho 5 go 6 shaku　　　　　　　　　《Location: Shiromaru Village》
-One: Assessed rice yield 561 koku 9 to 8 sho 7 go 3 shaku　　　　　　　《Location: Nagaitsuru Village》
-One: Assessed rice yield 766 koku 7 to 2 sho 6 go　　　　　　　　　《Location: Koyase Village》
-One: Assessed rice yield 2,923 koku 2 to 9 sho 3 go　　　　　　　《Location: Ueki Village》
-One: Assessed rice yield 1,645 koku 4 to 4 sho 8 go　　　　　　　　《Location: Komaki Village》
-One: Assessed rice yield 349 koku 6 to 9 sho 9 go　　　　　　　　　《Location: Serita Village》
-One: Assessed rice yield 801 koku 8 to 1 sho 9 shaku　　　　　　　　　　　《Location: Inamitsu Village》

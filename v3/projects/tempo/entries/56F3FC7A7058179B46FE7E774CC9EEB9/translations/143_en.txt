@@ -1,8 +1,0 @@
-Item: Assessed yield of 1,576 koku, 8 sho, 3 go　　　　《Location: Togari Village》
-Item: Assessed yield of 1,257 koku, 4 to, 5 sho, 8 go　《Location: Mawari Village》
-Item: Assessed yield of 678 koku, 3 to, 3 sho　　　　　《Location: Koga Village》
-Item: Assessed yield of 37 koku, 8 sho, 5 go　　　　　　《Location: Taka Town》
-Item: Assessed yield of 663 koku, 1 to, 2 go　　　　　　《Location: Harada Village》
-Item: Assessed yield of 1,970 koku, 3 to, 1 sho, 9 go　《Location: Gōshikyū Village》
-Item: Assessed yield of 699 koku, 7 to, 1 sho, 7 go　　《Location: Yoshi Village》
-Item: Assessed yield of 3,138 koku, 1 to, 1 sho, 5 go　《Location: Hatsuji Village》

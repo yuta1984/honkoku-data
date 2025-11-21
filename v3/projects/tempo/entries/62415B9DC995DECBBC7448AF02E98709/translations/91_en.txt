@@ -1,8 +1,0 @@
-One, assessed yield: 39 koku, 3 to, 2 shō, 6 gō　　　《Location: Urushibara Village》
-One, assessed yield: 243 koku, 3 to, 9 shō, 4 gō　《Location: Neu-juku (post station)》
-One, assessed yield: 282 koku, 1 to, 6 shō, 7 gō　《Location: Nigoritani Village》
-One, assessed yield: 187 koku, 7 to, 2 shō, 5 gō　　《Location: Kadotani Village》
-One, assessed yield: 182 koku, 5 to, 9 shō, 9 gō　　《Location: Akinawa Village》
-One, assessed yield: 43 koku, 2 to, 5 shō, 7 gō　　　《Location: Mitsuchi Village》
-One, assessed yield: 93 koku, 3 to, 8 gō　　　　　《Location: Itaibara-juku (post station)》
-One, assessed yield: 115 koku, 2 to, 7 shō, 2 gō　　　《Location: Kanemochi Village》

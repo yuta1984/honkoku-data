@@ -1,8 +1,0 @@
-Item: Assessed yield of 332 koku, 7 to, 3 sho, 7 go　　《Location: Kusaba Village》
-Item: Assessed yield of 350 koku, 1 to, 4 sho, 7 go　　《Location: Mitsumizo Village》
-Item: Assessed yield of 727 koku, 8 to, 7 sho, 6 go　　《Location: Aigyōshima Village》
-Item: Assessed yield of 503 koku, 3 to, 2 sho, 6 go　　《Location: Kamino Village》
-Item: Assessed yield of 654 koku, 1 to, 3 sho, 8 go　　《Location: Hirao Village》
-Item: Assessed yield of 586 koku, 2 to, 7 sho, 5 go　　《Location: Kita[?] Village》
-Item: Assessed yield of 1,308 koku, 4 to, 4 sho, 1 go　　《Location: Nishi-buchi Village》
-Item: Assessed yield of 3,409 koku, 6 to, 8 sho, 6 go　　《Location: Takagi Village》

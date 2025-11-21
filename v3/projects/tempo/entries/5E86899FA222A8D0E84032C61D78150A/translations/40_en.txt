@@ -1,8 +1,0 @@
-One, assessed yield: 152 koku, 1 to, 1 sho, 2 go　　　《Location: Taiheiji Village》
-One, assessed yield: 1,448 koku, 4 sho, 3 go　　　《Location: Dairen Village》
-One, assessed yield: 600 koku, 3 to, 2 sho, 9 go　　　　　《Location: Shibukawa Village》
-One, assessed yield: 722 koku, 4 to, 8 sho　　　　《Location: Taishido Village》
-One, assessed yield: 1,487 koku, 7 to, 8 sho, 3 go　《Location: Uematsu Village》
-One, assessed yield: 132 koku, 7 to, 5 sho, 1 go　　　《Location: Rokutan Village》
-One, assessed yield: 215 koku, 8 sho, 3 go　　　　　《Location: Hishiya Nishi-shinden》
-One, assessed yield: 209 koku, 3 sho, 8 go　　　　　　《Location: Kanaoka-shinden》

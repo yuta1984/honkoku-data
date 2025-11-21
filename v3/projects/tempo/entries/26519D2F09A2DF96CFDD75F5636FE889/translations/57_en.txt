@@ -1,8 +1,0 @@
-1. Rice yield: 267 koku, 5 to, 8 sho　　　《Location: Tōdaiji Village》
-1. Rice yield: 388 koku, 7 to, 8 sho　　　《Location: Busshōji Village》
-1. Rice yield: 565 koku, 3 to, 3 sho, 8 go　《Location: Kawara Village》
-1. Rice yield: 351 koku, 7 sho, 5 go　　　《Location: Okazaki Village》
-1. Rice yield: 298 koku, 8 to, 9 sho, 9 go　《Location: Ihirao Village》
-1. Rice yield: 135 koku, 3 sho　　　　　　《Location: Kuchibata Village》
-1. Rice yield: 99 koku, 9 to　　　　　　　《Location: Okubata Village》
-1. Rice yield: 327 koku, 9 sho, 2 go　　　《Location: Ishidera Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 448 koku, 1 to, 5 sho, 9 go　　　　　　Enomae village
-1. Assessed yield: 969 koku, 4 to, 9 sho, 2 go　　　　　　Takadana village
-1. Assessed yield: 1,143 koku, 2 to, 6 sho, 3 go, 6 shaku　　　　Takahama village
-1. Assessed yield: 1,123 koku, 7 to, 4 sho　　　　　　　　Yoshihama village
-1. Assessed yield: 1,741 koku, 8 to, 9 sho　　　　　　　　Kogakie village
-1. Assessed yield: 545 koku, 6 to, 7 sho, 2 go, 8 shaku, 4 sai　　　Fukukama village
-1. Assessed yield: 531 koku, 4 to, 6 sho, 6 go　　　　　　Noda village
-1. Assessed yield: 436 koku, 5 to, 1 sho, 2 go　　　　　　Hanjōdo village (formerly: Hanjōdo village)

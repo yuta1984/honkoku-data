@@ -1,8 +1,0 @@
-Item: Assessed yield of 338 koku, 4 to, 9 sho, 8 go　　《Location: Shimofujiwarayama Village》
-Item: Assessed yield of 473 koku, 2 to, 9 sho, 5 go　　《Location: Kamimatsuyama Village》
-Item: Assessed yield of 242 koku, 5 to, 8 go　　　　　《Location: [unclear]noyama Village》
-Item: Assessed yield of 62 koku, 3 to, 6 sho, 2 go　　《Location: Yamanaka Village》
-Item: Assessed yield of 48 koku, 5 to, 8 sho, 9 go　　《Location: Nakazono Village》
-Item: Assessed yield of 368 koku, 2 to, 6 sho, 5 go　　《Location: Miseyama Village》
-　Subtotal: Assessed yield of 52,335 koku, 2 to, 7 sho, 1 go
-　　　　　　　　　  　　　《Location: Kanzaki District》109 villages

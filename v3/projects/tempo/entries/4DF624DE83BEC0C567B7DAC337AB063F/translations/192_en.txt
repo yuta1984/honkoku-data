@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 331 koku, 6 to, 1 sho, 7 go, 9 shaku　《Location: Takanashi Village》
-Item 1: Assessed yield of 115 koku, 2 to, 6 sho, 9 go　　　　　《Location: Gokan Village》
-Item 1: Assessed yield of 386 koku, 3 to, 9 go　　　　　《Location: Murayama Village》
-Item 1: Assessed yield of 968 koku, 5 to, 1 sho, 5 go　　　《Location: Ainoshima Village》
-Item 1: Assessed yield of 337 koku, 9 to, 3 sho, 4 go, 1 shaku　《Location: Yaemori Village》
-Item 1: Assessed yield of 602 koku, 3 sho, 7 go　　　　　　　《Location: Shiokawa Village》
-Item 1: Assessed yield of 438 koku, 9 to, 9 sho, 4 shaku　　　《Location: Numame Village》
-Item 1: Assessed yield of 884 koku, 2 to, 6 sho, 2 go, 7 shaku　《Location: Kojima Village》

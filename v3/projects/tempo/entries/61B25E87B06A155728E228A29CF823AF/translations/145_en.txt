@@ -1,9 +1,0 @@
-1. Assessed yield: 116 koku, 6 to, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Ichihara village
-1. Assessed yield: 62 koku, 2 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　Otani village
-1. Assessed yield: 49 koku, 3 to, 7 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　Sata village
-1. Assessed yield: 11 koku, 3 to, 9 sho, 1 go　　　　　　　　　　　　　　　Choraku village (branch village of Shiohira village)
-1. Assessed yield: 3 koku, 5 to, 7 sho　　　　　　　　　　　　　　　　　　Shiihira village (branch village of Kuzu village)
-1. Assessed yield: 1 koku, 4 to, 6 sho, 4 go　　　　Tsurukubo village (Okusa village, branch village of Asahata village, Shimohira village)
-
-Subtotal: Assessed yield 30,083 koku, 2 to, 8 sho, 9 go, 8 sai
-　　　　　　　　　　Shitara District　229 villages

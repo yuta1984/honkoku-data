@@ -1,8 +1,0 @@
-Item 1: Assessed yield 806 koku 5 to 1 sho 5 go　　　　《Location: Nomizo Village》
-Item 1: Assessed yield 254 koku 1 to 5 sho 3 go 8 shaku《Location: Sasabe Shinden Village》《Note: 【Old Assessment Record = Sasabe Village】》
-Item 1: Assessed yield 162 koku 5 to 7 sho 8 go　　　《Location: Takamiya Shinden Village》
-Item 1: Assessed yield 426 koku 1 to 3 sho 9 go　　　《Location: Kojima Village》
-Item 1: Assessed yield 1,104 koku 9 to　　　　　　　　《Location: Takeda Village》
-Item 1: Assessed yield 681 koku 1 to 7 sho 5 go　　　《Location: Kosaka Village》
-Item 1: Assessed yield 27 koku 1 to 9 sho 1 go　　　　《Location: Katsuru Shinden》
-Item 1: Assessed yield 1,113 koku 9 sho 6 go 6 shaku　　　《Location: Oike Village》

@@ -1,8 +1,0 @@
-1. Rice yield: 600 koku　　　　　　　　　　　　　《Location: Uzumasa Monzen Village》
-1. Rice yield: 335 koku, 8 to, 6 sho, 2 go, 5 shaku　　《Location: Uzumasa Anyoji Village》
-1. Rice yield: 100 koku　　　　　　　　　　　　　　《Location: Uzumasa Ichikawa Village》
-1. Rice yield: 2,880 koku, 6 to, 6 go, 9 shaku, 5 sai　《Location: Saiin Village》
-1. Rice yield: 634 koku, 6 to, 4 sho　　　　　　《Location: Yamanouchi Village》
-1. Rice yield: 409 koku, 9 sho　　　　　　　　　　《Location: Yasui Village》
-1. Rice yield: 273 koku, 1 to, 2 sho, 8 go　　　　《Location: Kitsuji Village》
-1. Rice yield: 53 koku, 9 to, 6 sho, 5 go　　　　　　《Location: Hokongoin Village》

@@ -1,8 +1,0 @@
-Ishida District
-One　Assessed yield: 1,880 koku, 8 to, 4 sho, 6 go　　　　Ishida Village
-One　Assessed yield: 50 koku, 7 to, 9 sho, 5 go　　　　　　Tsumano-shima
-One　Assessed yield: 1,138 koku, 4 to, 9 sho　　　　　　Tsutsuki Village
-One　Assessed yield: 22 koku, 4 to, 8 sho, 7 go　　Branch village of Tsutsuki Village　Miyata Village
-One　Assessed yield: 1,460 koku, 8 to, 3 sho, 4 go　　　　Ikeda Village
-One　Assessed yield: 1,460 koku, 9 sho, 8 go　　　　　　Shihara Village
-One　Assessed yield: 380 koku, 7 to, 8 sho, 3 go　　Branch village of Shihara Village　Ohara Village

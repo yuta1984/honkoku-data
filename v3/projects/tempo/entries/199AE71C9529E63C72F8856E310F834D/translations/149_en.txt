@@ -1,8 +1,0 @@
-1. Assessed yield: 242 koku, 9 to, 5 go - Kino Village
-1. Assessed yield: 1,939 koku, 2 to, 3 sho - Ota Village
-1. Assessed yield: 766 koku, 6 to - Shimofurui Village
-1. Assessed yield: 506 koku, 8 to, 4 sho, 7 go - Kamifurui Village
-1. Assessed yield: 29 koku, 9 to, 5 sho, 7 go - Kawai Village (branch village of Kamifurui Village)
-1. Assessed yield: 83 koku, 6 to, 5 sho, 6 go - Moriyama Village (branch village of Kamifurui Village)
-1. Assessed yield: 2,701 koku, 4 to, 1 sho, 5 go - Hachiya Village
-1. Assessed yield: 350 koku - Ise Village (branch village of Hachiya Village)

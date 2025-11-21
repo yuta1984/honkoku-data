@@ -1,8 +1,0 @@
-One, assessed yield: 732 koku, 2 to, 2 shō, 4 gō　《Location: Yokota Village》
-One, assessed yield: 352 koku, 3 to, 7 shō, 9 gō　《Location: Obara Village》
-One, assessed yield: 300 koku, 3 to, 7 shō, 4 gō　　　　《Location: Bessho Village》
-One, assessed yield: 211 koku, 2 to, 9 shō, 9 gō　　《Location: Suki Village》
-One, assessed yield: 301 koku, 5 shō, 3 gō　　　　　《Location: Tani Village》
-One, assessed yield: 601 koku, 9 to, 1 shō, 3 gō　　　《Location: Tsuhara Village》
-One, assessed yield: 154 koku, 5 to, 9 shō, 5 gō　　《Location: Imazaike Village》
-One, assessed yield: 579 koku, 7 to, 8 shō, 7 gō　《Location: Shimoyonetsumi Village》

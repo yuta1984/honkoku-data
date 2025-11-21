@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 670 koku, 1 to, 8 sho, 3 go　　　　《Location: Gondo Village》
-Item 1: Assessed yield of 1,123 koku, 5 to, 8 sho, 1 go　　　《Location: Miwa Village》
-Item 1: Assessed yield of 351 koku, 8 to, 6 sho　　　　　　　《Location: Hirabayashi Village》
-Item 1: Assessed yield of 194 koku, 4 to　　　　　　　　　　　《Location: Takeme Village》
-Item 1: Assessed yield of 274 koku, 3 sho　　　　　　　　　　　《Location: Hakoshimizu Village》
-Item 1: Assessed yield of 967 koku, 9 to, 8 sho　　　　　　　　《Location: Kamimatsu Village》
-Item 1: Assessed yield of 405 koku, 9 to, 8 sho, 6 go　　　　　《Location: Kamiuki Village》
-Item 1: Assessed yield of 235 koku, 6 to, 8 sho, 7 go　　　　　《Location: Oshigane Village》

@@ -1,9 +1,0 @@
-1. Assessed yield: 410 koku 《Location: Tehiro Village》
-1. Assessed yield: 438 koku, 6 to, 3 sho, 8 go, 1 shaku 《Location: Kajiwara Village》
-1. Assessed yield: 274 koku, 9 to, 1 sho, 2 go 《Location: Kozuka Village》
-1. Assessed yield: 157 koku, 1 to, 2 sho, 2 go 《Location: Takaya Village》
-
-1. Assessed yield: 219 koku, 3 to, 9 sho, 2 go, 6 shaku 《Location: Kamimachiya Village》
-1. Assessed yield: 257 koku, 6 to, 7 sho 《Location: Terabun Village》
-1. Assessed yield: 757 koku, 5 to, 7 sho, 4 go 《Location: Yamazaki Village》
-1. Assessed yield: 367 koku, 6 to, 5 sho, 3 go 《Location: Kobukunoya Village》

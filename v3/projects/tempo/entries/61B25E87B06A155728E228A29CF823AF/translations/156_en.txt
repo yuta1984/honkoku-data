@@ -1,8 +1,0 @@
-1. Assessed yield: 59 koku, 4 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Tearai village
-1. Assessed yield: 523 koku, 8 to, 3 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Kumotani village
-1. Assessed yield: 172 koku, 2 to, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nakahara village
-1. Assessed yield: 401 koku, 8 to, 8 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hara village
-1. Assessed yield: 681 koku, 5 to, 4 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Futagawa-shuku (post town)
-1. Assessed yield: 470 koku, 3 to, 3 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Ōiwa village
-1. Assessed yield: 2,924 koku, 5 to, 9 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Takashi village
-1. Assessed yield: 532 koku, 5 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kohama village

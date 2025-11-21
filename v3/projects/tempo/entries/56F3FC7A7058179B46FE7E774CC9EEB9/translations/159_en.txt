@@ -1,9 +1,0 @@
-Item: Assessed yield of 565 koku, 2 to, 9 sho, 4 go　　《Location: Takahama Village》
-Item: Assessed yield of 3,573 koku, 9 to, 6 sho, 2 go, 8 seki
-　　　　　　　　　　　　　　　　《Location: Omura》
-Item: Assessed yield of 63 koku, 4 to, 1 sho, 7 go, 8 seki　　《Location: Hokuno Village》
-Item: Assessed yield of 400 koku, 6 to, 6 sho, 2 go　　　　　《Location: Kayase Village》
-Item: Assessed yield of 4,689 koku, 5 to, 6 sho, 8 seki《Location: Kori Village》
-Item: Assessed yield of 233 koku, 9 sho, 9 go, 5 seki　　《Location: Nodake Village》
-Item: Assessed yield of 465 koku, 3 to, 5 seki　　　　《Location: Egushi Village》
-Item: Assessed yield of 791 koku, 4 to, 4 sho, 7 go, 2 seki《Location: Chiwata Village》

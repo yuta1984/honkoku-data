@@ -1,7 +1,0 @@
-Multiply 80 of the lower method by 3 to get 24. Retreat by one position and place 7 next to the quotient. Now using the method, multiply all quotients by the lower method. 2×9 = 18,000, 2×8 = 1,600, 2×7 = 140, 9×9 = 8,100, 8×9 = 720, 7×9 = 63, 4×9 = 360, 4×8 = 32, 4×7 = 28 parts. Using the second method, go up by units, tens, hundreds and multiply 7 of the quotient by all methods. 2×7 = 1 kyō 4 chō, 7×9 = 6 chō 3 oku, 1×7 = 7,000, 7×7 = 4,900, 7×9 = 560. Divide by the actual number. The remainder in the actual number is 343. This is to be subtracted and cleared in the small corner.
-
-Chapter 28: Measuring and Dividing Oil
-
-There is one to (about 18 liters) of oil in a bucket, and there are two measuring cups: one of seven shō and one of three shō. The question is how to measure and divide the one to of oil into portions of five shō each using these cups.
-
-First, using the three-shō cup, when you fill it three times from the oil in the bucket (totaling seven shō), two shō will remain in the three-shō cup. Then pour the oil from the seven-shō cup back into the bucket, transfer the two shō from the three-shō cup to the seven-shō cup, and fill the three-shō cup once more. This way, you can divide the oil into portions of five shō each.

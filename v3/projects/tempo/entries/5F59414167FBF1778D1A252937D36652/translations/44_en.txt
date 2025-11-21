@@ -1,8 +1,0 @@
-1. Assessed yield: 2,868 koku, 6 to, 1 sho　　　　　　　Hirose Village
-1. Assessed yield: 644 koku, 6 to, 6 sho, 7 go, 5 shaku　Yuzawa Village
-1. Assessed yield: 416 koku, 2 to, 8 sho, 5 go, 8 shaku　Kuride Village
-1. Assessed yield: 454 koku, 5 go, 5 shaku　　　　　　　Hirano Village
-1. Assessed yield: 842 koku, 7 to, 6 sho, 6 go, 8 shaku　Monzawa Village
-1. Assessed yield: 1,033 koku, 2 to, 6 go, 5 shaku　　　Horikoshi Village
-1. Assessed yield: 250 koku, 7 to, 5 shaku　　　　　　　Toyamasawa Village
-1. Assessed yield: 1,842 koku, 7 to, 3 sho, 5 go, 2 shaku　Ashizawa Village

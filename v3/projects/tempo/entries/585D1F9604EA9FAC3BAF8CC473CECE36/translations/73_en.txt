@@ -1,8 +1,0 @@
-1. Assessed yield: 321 koku, 1 to, 3 sho, 7 go, 5 shaku - Kami-Terada Village
-1. Assessed yield: 223 koku, 3 to, 4 sho, 1 shaku - Shimo-Terada Village
-1. Assessed yield: 183 koku, 3 to, 6 sho, 8 go - Kami-Aratame Village
-1. Assessed yield: 166 koku, 6 to, 7 sho, 9 go, 2 shaku - Shimo-Aratame Village
-1. Assessed yield: 178 koku, 5 to, 1 sho, 7 go, 9 shaku - Minami-Hirasawa Village
-1. Assessed yield: 219 koku, 8 to, 9 sho, 7 shaku - Kita-Hirasawa Village
-1. Assessed yield: 171 koku, 2 to, 3 go, 1 shaku - Kadonocho Village
-1. Assessed yield: 500 koku, 5 sho, 7 go, 9 shaku - Ichijo Village

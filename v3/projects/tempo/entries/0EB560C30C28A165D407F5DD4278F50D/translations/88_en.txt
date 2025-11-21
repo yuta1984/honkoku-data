@@ -1,8 +1,0 @@
-1. Assessed yield: 368 koku, 9 to, 7 sho, 3 go　　《Location: Sanokawa Village》
-1. Assessed yield: 244 koku, 5 to, 8 sho, 2 go　　《Location: Sawai Village》
-1. Assessed yield: 350 koku, 5 to, 1 sho, 6 go　　《Location: Yoshino Village》
-1. Assessed yield: 493 koku, 5 to, 1 go　　　　　《Location: Hizure Village》
-1. Assessed yield: 594 koku, 3 to, 6 sho, 9 go　　《Location: Yose Village》
-1. Assessed yield: 490 koku, 5 to, 1 sho, 8 go　　《Location: Chigira Village》
-1. Assessed yield: 313 koku, 1 to, 4 sho, 8 go　　《Location: Wakayanagi Village》
-1. Assessed yield: 747 koku, 7 to, 5 sho, 2 go　　《Location: Sunzawaarashi Village》

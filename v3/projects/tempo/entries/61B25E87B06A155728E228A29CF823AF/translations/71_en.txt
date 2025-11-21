@@ -1,8 +1,0 @@
-1. Assessed yield: 518 koku, 4 to, 7 sho, 6 go　　　　　　　　Fujii village
-1. Assessed yield: 554 koku, 7 to, 9 sho, 9 go　　　　　　　　Kido village
-1. Assessed yield: 1,526 koku, 4 to, 7 sho, 9 go　　　　　　　Nemunoki village
-1. Assessed yield: 76 koku, 6 to, 7 go　　　　　　　　　　　　Takahata village
-1. Assessed yield: 1,359 koku, 4 to, 8 sho, 2 go, 7 shaku　　　Nakajima village
-1. Assessed yield: 1,488 koku, 6 to, 4 sho, 4 go　　　　　　　Nakamura
-1. Assessed yield: 508 koku, 2 to, 9 sho, 8 go　　　　　　　　Sakasayu village
-1. Assessed yield: 1,963 koku, 7 to, 7 sho, 8 go　　　　　　　Mitsugi village

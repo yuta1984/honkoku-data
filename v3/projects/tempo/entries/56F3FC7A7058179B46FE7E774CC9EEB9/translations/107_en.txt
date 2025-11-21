@@ -1,8 +1,0 @@
-Item: Assessed yield of 359 koku, 8 to, 3 sho　　　　　《Location: Tanohira Village》
-Item: Assessed yield of 146 koku, 5 to, 5 sho, 8 go　　《Location: Yokobeta Village》
-Item: Assessed yield of 224 koku, 7 to, 9 sho, 9 go　　《Location: Udo□ Village》
-Item: Assessed yield of 183 koku, 1 to, 7 sho, 4 go　　《Location: □ki Village》
-Item: Assessed yield of 978 koku, 3 to, 7 sho, 8 go　　《Location: Shirabe-gawa Village》
-Item: Assessed yield of 611 koku, 5 to, 3 sho, 3 go　　《Location: Matsuyamada Village》
-Item: Assessed yield of 406 koku, 3 to, 3 go　　　　　　《Location: Shirai Village》
-Item: Assessed yield of 595 koku, 9 to, 6 sho, 1 go　　《Location: Hirao Village》

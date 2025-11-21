@@ -1,8 +1,0 @@
-Item 1: Assessed yield 111 koku 1 to 2 sho 4 go　　　　《Location: Karakasa Village》
-Item 1: Assessed yield 1,872 koku 6 to 9 sho　　　《Location: Imada Village》
-Item 1: Assessed yield 323 koku 1 to 1 sho 6 go　　　《Location: Shimo Village》
-Item 1: Assessed yield 63 koku 2 to 9 sho　　　　　　《Location: Oshina Village》
-Item 1: Assessed yield 53 koku 1 sho 9 go　　　　　　《Location: Oyashiki Village》
-Item 1: Assessed yield 68 koku 2 to 5 sho 3 go　　　　《Location: Ishibayashi Village》
-Item 1: Assessed yield 25 koku 7 to 6 go　　　　　　《Location: Ando Village》
-Item 1: Assessed yield 185 koku 3 to 2 sho 6 go　　　《Location: Obayashi Village》

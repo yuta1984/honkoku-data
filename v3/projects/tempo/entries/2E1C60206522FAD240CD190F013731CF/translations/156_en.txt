@@ -1,8 +1,0 @@
-One village with a kokudaka of 74 koku, 1 to, 3 sho, 9 go: Dōhara Village
-One village with a kokudaka of 151 koku, 5 sho, 8 go: Terado Village
-One village with a kokudaka of 158 koku, 4 to, 7 sho, 7 go: Awaijitani Village
-One village with a kokudaka of 257 koku, 1 to, 8 sho, 6 go: Nishitani Village
-One village with a kokudaka of 132 koku, 4 to, 6 sho, 8 go: Torizumi Village
-One village with a kokudaka of 52 koku, 1 to, 7 sho, 8 go: Makio Village
-One village with a kokudaka of 173 koku, 9 sho: Wakigawa Village
-One village with a kokudaka of 252 koku, 6 to, 5 sho, 7 go: Nakato Village

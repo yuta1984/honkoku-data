@@ -1,8 +1,0 @@
-《Location: Mikasa District》
-One: Assessed rice yield 701 koku 6 to 6 sho 3 go 1 shaku　《Location: Kokubu Village》
-One: Assessed rice yield 1,047 koku 6 sho 8 go　　　　《Location: Kanzeonji Village》
-One: Assessed rice yield 284 koku 8 to 6 sho 7 go　《Location: Nakashima Village》
-One: Assessed rice yield 395 koku 4 to 3 go　　　《Location: Kami-Ōri Village》
-One: Assessed rice yield 514 koku 3 to 5 sho 3 go　　《Location: Shimo-Ōri Village》
-One: Assessed rice yield 518 koku 4 sho 2 go 1 sai　　《Location: Tenzan Village》
-One: Assessed rice yield 813 koku 1 to 2 sho 9 go　　《Location: Nishi-Oda Village》

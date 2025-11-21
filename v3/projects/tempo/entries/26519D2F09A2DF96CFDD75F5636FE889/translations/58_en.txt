@@ -1,8 +1,0 @@
-1. Rice yield: 426 koku, 2 go　　　　　　　《Location: Shirasu Village》
-1. Rice yield: 280 koku, 8 to, 9 sho, 9 go　　《Location: Bessho Village》
-1. Rice yield: 195 koku, 9 to, 2 sho, 8 go　　《Location: Sono Village》
-1. Rice yield: 181 koku, 2 to, 3 sho, 2 go　　《Location: Harayama Village》
-1. Rice yield: 369 koku, 1 to, 2 sho, 1 go, 1 shaku　《Location: Yufune Village》
-1. Rice yield: 243 koku, 7 sho, 4 go　　　　　《Location: Monzen Village》
-1. Rice yield: 246 koku, 3 to, 6 sho　　　　　《Location: Nakamura Village》
-1. Rice yield: 275 koku, 6 to　　　　　　　　《Location: Kamatsuka Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 547 koku, 1 to, 6 sho, 9 go - Saijo Village
-1. Assessed yield: 477 koku, 6 sho - Hojo Village
-1. Assessed yield: 964 koku, 1 to, 9 sho, 1 go - Yoshiki Village
-1. Assessed yield: 252 koku, 7 to, 2 sho, 9 go - Yamakoshi Village
-1. Assessed yield: 202 koku, 5 to, 7 sho, 3 go - Yonemasu Village
-1. Assessed yield: 80 koku, 2 to, 3 sho, 3 go - Nakanomiya Village
-1. Assessed yield: 629 koku, 7 sho, 4 go - Yamabe Village
-1. Assessed yield: 320 koku, 5 to, 7 sho, 5 go - Kumagawa Village

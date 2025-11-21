@@ -1,8 +1,0 @@
-《Location: Ogata District》
-One, assessed yield: 439 koku, 4 to, 2 sho, 9 go　《Location: Ogata village》
-One, assessed yield: 249 koku, 5 to, 8 sho　　　　《Location: Ando village》
-One, assessed yield: 331 koku, 2 to, 5 go　　　　　《Location: Daihei-ji village》
-One, assessed yield: 335 koku, 4 to, 9 sho, 5 go　　《Location: Kita-Hozen-ji village》
-One, assessed yield: 366 koku, 4 to, 8 sho, 8 go　　《Location: Minami-Hozen-ji village》
-One, assessed yield: 338 koku, 9 to, 5 sho, 5 go　　《Location: Jingu-ji village》
-One, assessed yield: 396 koku, 8 to, 9 sho, 8 go　　《Location: Hirano village》

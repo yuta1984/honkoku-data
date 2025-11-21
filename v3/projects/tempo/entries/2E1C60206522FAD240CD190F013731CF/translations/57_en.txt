@@ -1,8 +1,0 @@
-One village with a kokudaka of 356 koku, 7 to, 3 sho, 1 go: Shimohirai Village (branch village of Kamihirai Village)
-One village with a kokudaka of 118 koku, 4 to, 8 sho, 6 go, 7 shaku: Bessho Village
-One village with a kokudaka of 93 koku, 8 to, 5 sho, 1 go, 1 shaku: Osawa Village
-One village with a kokudaka of 80 koku, 4 to, 6 go, 3 shaku: Kamishina Village
-One village with a kokudaka of 104 koku, 7 to, 6 sho, 8 go, 5 shaku: Shimoshina Village
-One village with a kokudaka of 208 koku, 1 to, 7 sho, 9 go, 4 shaku: Kowada Village
-One village with a kokudaka of 220 koku, 3 sho, 8 go, 3 shaku: Inato Village
-One village with a kokudaka of 292 koku, 3 to, 7 sho, 1 go, 2 shaku: Mita Village

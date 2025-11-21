@@ -1,8 +1,0 @@
-One village with a kokudaka of 63 koku, 4 to, 9 sho, 4 go: Terao Village
-One village with a kokudaka of 28 koku, 5 to, 7 sho, 2 go: Shioya Village
-One village with a kokudaka of 124 koku, 6 to, 6 go: Sako Village
-One village with a kokudaka of 102 koku, 6 to, 4 sho, 6 go: Shiraya Village
-One village with a kokudaka of 181 koku, 3 to, 5 sho, 9 go: Takahara Village
-One village with a kokudaka of 58 koku, 3 to, 5 sho, 4 go: Hitoshiri Village
-One village with a kokudaka of 70 koku, 6 to, 8 sho, 6 go: Ido Village
-One village with a kokudaka of 165 koku, 4 sho, 4 go: Takegi Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 185 koku, 8 sho, 5 go　　　　　　　　　　　Hachiman village
-1. Assessed yield: 245 koku, 7 to, 4 sho　　　　　　　　　　　Komaki village
-1. Assessed yield: 980 koku, 8 sho, 7 go　　　　　　　　　　　Tsuhira village
-1. Assessed yield: 498 koku, 6 to, 8 sho　　　　　　　　　　　Terashima village
-1. Assessed yield: 687 koku, 7 to, 8 sho, 6 go　　　　　　　　　Kida village
-1. Assessed yield: 542 koku, 3 to, 7 go　　　　　　　　　　　Hanazoji village
-1. Assessed yield: 591 koku, 3 to, 9 sho, 4 go　　　　　　　　　Okayama village
-1. Assessed yield: 331 koku, 9 to, 8 sho, 8 go　　　　　　　　　Seto village

@@ -1,8 +1,0 @@
-Motosu District
-1. Assessed yield: 1,585 koku, 2 to, 1 sho, 1 go - Ushimaki Village
-1. Assessed yield: 188 koku, 9 to, 3 go - Ushimaki Uchino Shinden
-1. Assessed yield: 352 koku, 4 to, 7 sho - Ushimaki Noda Shinden (branch village of Ushimaki Village)
-1. Assessed yield: 194 koku, 1 to, 6 sho, 9 go - Noshiro Shinden (branch village of Ushimaki Village)
-1. Assessed yield: 660 koku, 7 sho, 8 go - Jūkyūjō Village
-1. Assessed yield: 940 koku, 8 to, 6 sho, 6 go - Jūhachijō Village
-1. Assessed yield: 1,006 koku - Jūnanajō Village

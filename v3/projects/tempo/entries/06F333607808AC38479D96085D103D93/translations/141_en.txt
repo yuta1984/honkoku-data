@@ -1,8 +1,0 @@
-- Assessed rice yield: 903 koku 9 to 7 shō 4 gō　　　　　　　Location: Naka-kurisu Village
-- Assessed rice yield: 941 koku 6 to 9 gō　　　　　　　　　　Location: Shimo-kurisu Village
-- Assessed rice yield: 1,097 koku 7 to 5 shō 2 gō 9 sai　　　Location: Oka-no-gō Village
-- Assessed rice yield: 618 koku 6 to 5 shō 4 gō　　　　　　　Location: Kami-totsuka Village
-- Assessed rice yield: 537 koku 2 to 2 shō 4 gō　　　　　　　Location: Shimo-totsuka Village
-- Assessed rice yield: 1,044 koku 7 to 1 shō 7 gō　　　　　　Location: Fujioka Town
-- Assessed rice yield: 734 koku 4 to 1 shō 1 gō　　　　　　　Location: Kobayashi Village
-- Assessed rice yield: 269 koku 7 to 2 shō 9 gō　　　　　　　Location: Negishi Village

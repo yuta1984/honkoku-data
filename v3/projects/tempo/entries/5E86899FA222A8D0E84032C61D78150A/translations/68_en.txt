@@ -1,8 +1,0 @@
-One, assessed yield: 246 koku, 1 to, 6 sho, 8 go　　《Location: Minami-Betsui Village》
-One, assessed yield: 267 koku, 1 sho, 2 go　　　　《Location: Kita-Betsui Village》
-One, assessed yield: 77 koku, 9 sho　　　　　　　　《Location: Ōgatsuka Village》
-One, assessed yield: 481 koku, 7 to, 4 sho　　　　《Location: Yamashiro Village》
-One, assessed yield: 741 koku, 5 sho, 4 go　　　　《Location: Ichisuga Village》
-One, assessed yield: 1,675 koku, 2 to, 4 sho, 4 go　《Location: Taishi Village》
-One, assessed yield: 747 koku, 6 to, 4 sho　　　　《Location: Kasuga Village》
-One, assessed yield: 1,420 koku, 5 to, 7 sho, 4 go　《Location: Yamada Village》

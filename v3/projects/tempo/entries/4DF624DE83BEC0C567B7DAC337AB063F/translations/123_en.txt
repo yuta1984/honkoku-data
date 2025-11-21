@@ -1,7 +1,0 @@
-Item 1: Assessed yield of 301 koku, 3 to, 5 sho　　　　　　《Location: Shimo-Maruko Village》
-Item 1: Assessed yield of 858 koku, 8 sho, 5 go　　　　《Location: Ontakedo Village》
-Item 1: Assessed yield of 648 koku, 5 to, 2 go　　　　《Location: Iinuma Village》
-Item 1: Assessed yield of 797 koku, 4 to, 4 sho, 2 go　　《Location: Onoyama Village》
-Item 1: Assessed yield of 114 koku, 8 to, 9 sho, 9 go　　　《Location: Ueda Castle Vicinity》《Marginal note: 【Old Assessment Records = Ueda Town】》
-Subtotal: Assessed yield of 76,990 koku, 9 to, 9 sho, 2 go
-　　　　　　　　　　　《Location: Chiisagata District》 120 villages

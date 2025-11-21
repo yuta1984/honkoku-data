@@ -1,9 +1,0 @@
-Item 1: Assessed yield of 25 koku, 1 to, 6 sho, 7 go　　《Location: Jūjigahara Shinden Village》
-Item 1: Assessed yield of 101 koku, 6 to, 6 sho, 4 go　　　《Location: Tsuboyama Village》
-Item 1: Assessed yield of 321 koku, 6 to, 3 go　　《Location: Hirabayashi Village》
-Item 1: Assessed yield of 276 koku, 7 sho, 7 go　　《Location: Mushiō Village》
-Item 1: Assessed yield of 140 koku, 7 to, 4 sho, 3 go　　《Location: Nanagamaki Village》
-Item 1: Assessed yield of 117 koku, 9 to, 4 sho, 9 go　　《Location: Higashiōtaki Village》
-Item 1: Assessed yield of 567 koku, 5 sho, 9 go　　《Location: Minozukuri Village》
-　　　　　　　　　　《Note: Formerly》《Note: 《Location: Shikumi Village》｜《Location: Horikiri Shinden Village》》《Note: two villages》
-Item 1: Assessed yield of 432 koku, 3 to, 9 go　　《Location: Shikumi Village》

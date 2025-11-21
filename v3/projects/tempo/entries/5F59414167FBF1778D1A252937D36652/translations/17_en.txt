@@ -1,9 +1,0 @@
-1. Assessed yield: 472 koku, 7 to, 5 sho, 2 go　　Takiwa Village
-1. Assessed yield: 375 koku, 8 to, 8 sho, 1 go　　Ohata Village
-1. Assessed yield: 210 koku, 2 to, 3 sho, 5 go　　Sodeyama Village
-1. Assessed yield: 1,308 koku, 6 to, 1 sho, 2 go　Itabashi Village
-1. Assessed yield: 459 koku, 1 to, 1 sho, 9 go　　Minami-Yamagata Village
-1. Assessed yield: 443 koku, 3 to　　　　　　　　Kita-Yamagata Village
-1. Assessed yield: 530 koku, 3 to, 6 sho, 5 go　　Sōri Village
-　　　　　　　　　　　　　(Branch village of Sōri Village)
-1. Assessed yield: 476 koku, 8 to, 6 sho, 4 go　　Kitayama Village

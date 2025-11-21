@@ -1,9 +1,0 @@
-Item 1: Assessment 166 koku, 8 to, 4 sho, 8 go　《Location: Shimoasaba Village》
-Item 1: Assessment 214 koku, 7 to, 7 sho, 5 go　　《Location: Atsukawa Village》
-Item 1: Assessment 81 koku, 5 to, 3 sho, 4 go　　《Location: Daizaike Village》
-Item 1: Assessment 633 koku, 6 sho　　　　　《Location: Morito Village》
-Item 1: Assessment 200 koku, 6 to, 7 sho, 9 go　　　　《Location: Kayakata Village》
-Item 1: Assessment 355 koku　　　　　《Location: Yokkaichiba Village》
-　　　　　　　　　　　《Note: Formerly《Location: Shimotabaname Village》｜》
-Item 1: Assessment 370 koku, 4 to, 8 sho, 9 go　《Location: Tawame Village》
-Item 1: Assessment 240 koku, 8 to, 9 sho, 6 go　《Location: Shimokawara Village》

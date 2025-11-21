@@ -1,8 +1,0 @@
-1. Assessed yield: 396 koku, 5 to, 3 sho　　　　　　　Haraido Village
-1. Assessed yield: 518 koku, 8 sho　　　　　　　　　　Okubo Village
-1. Assessed yield: 266 koku, 9 to, 5 sho, 1 go　　　　Ryumo Village
-1. Assessed yield: 133 koku, 1 to, 1 sho, 7 go　　　　Funabashi Village
-1. Assessed yield: 1,056 koku, 7 to, 5 go　　　　　　　Abugawa Village
-1. Assessed yield: 175 koku, 9 to, 9 sho, 7 go　　　　Yamada Village
-1. Assessed yield: 521 koku, 4 to, 2 sho, 7 go　　　　Iizuka Village
-1. Assessed yield: 129 koku, 2 to, 1 sho　　　　　　　Akazawa Village

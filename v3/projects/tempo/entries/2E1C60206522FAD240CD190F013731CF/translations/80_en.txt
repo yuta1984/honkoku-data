@@ -1,8 +1,0 @@
-One village with a kokudaka of 454 koku, 9 to, 8 sho, 5 go: Ogaki Village
-One village with a kokudaka of 544 koku, 8 sho: Shinnokuchi Village
-One village with a kokudaka of 438 koku, 5 to, 3 sho, 8 go, 6 shaku: Toyota Village
-One village with a kokudaka of 440 koku, 3 to: Johonjiムラ Village
-One village with a kokudaka of 440 koku, 1 to, 2 sho, 9 go: Naizen Village
-One village with a kokudaka of 139 koku, 1 to, 6 sho, 3 go: Kitayagi Village
-One village with a kokudaka of 643 koku, 1 to, 1 sho, 5 go: Shinga Village
-One village with a kokudaka of 1,124 koku, 3 to, 3 sho, 6 go: Hachijo Village

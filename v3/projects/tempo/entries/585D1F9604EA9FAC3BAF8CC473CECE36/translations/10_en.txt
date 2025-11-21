@@ -1,8 +1,0 @@
-1. Assessed yield: 194 koku, 9 to, 9 sho, 3 go, 4 shaku - Okiya Village
-1. Assessed yield: 361 koku, 1 to, 7 sho, 9 go, 1 shaku - Tsuji Okiya Village
-1. Assessed yield: 634 koku, 4 to, 5 sho, 9 go, 6 shaku - Hishitsu Village
-1. Assessed yield: 1,040 koku, 1 to, 4 sho, 1 go, 9 shaku - Umamachi Village
-1. Assessed yield: 372 koku, 9 to, 1 sho, 4 go, 4 shaku - Nagasaki Village
-1. Assessed yield: 56 koku, 9 to, 2 sho, 4 shaku - Kuromori Village
-1. Assessed yield: 259 koku, 3 to, 6 sho, 2 shaku - Nishinuma Village
-1. Assessed yield: 120 koku, 9 to, 5 sho, 6 go, 2 shaku - Nishikayahara Village

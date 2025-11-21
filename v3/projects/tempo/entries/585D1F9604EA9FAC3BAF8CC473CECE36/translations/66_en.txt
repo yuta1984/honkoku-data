@@ -1,8 +1,0 @@
-1. Assessed yield: 334 koku, 4 to, 7 sho, 2 go, 4 shaku - Kumanota Village
-1. Assessed yield: 254 koku, 6 to, 5 sho, 4 go, 8 shaku - Ogishima Village
-1. Assessed yield: 54 koku, 5 to, 2 sho, 4 go, 8 shaku - Kamikozutsumi Village
-1. Assessed yield: 18 koku, 6 to, 9 sho, 2 go, 6 shaku - Shimokozutsumi Village
-1. Assessed yield: 126 koku, 4 to, 8 sho, 4 shaku - Fukushima Village
-1. Assessed yield: 90 koku, 9 to, 8 sho, 1 go, 9 shaku - Tekurata Koya Village
-1. Assessed yield: 139 koku, 3 sho, 3 go, 7 shaku - Kumanota Koya Village
-1. Assessed yield: 417 koku, 3 to, 8 sho, 9 go, 7 shaku - Katsuhoseki Village

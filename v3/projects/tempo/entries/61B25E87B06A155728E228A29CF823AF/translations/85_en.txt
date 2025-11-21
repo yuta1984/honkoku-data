@@ -1,8 +1,0 @@
-1. Assessed yield: 1,281 koku, 9 to, 6 sho, 6 go　　　　　　　Kamimachi village
-1. Assessed yield: 445 koku, 3 sho, 1 go　　　　　　　　　　Shimomachi village
-1. Assessed yield: 261 koku, 5 sho, 8 go　　　　　　　　　　Koma village
-1. Assessed yield: 232 koku, 8 to, 1 sho, 9 go　　　　　　　Hokoji village
-1. Assessed yield: 300 koku, 1 to, 2 sho, 5 go　　　　　　　Tanuki village
-1. Assessed yield: 499 koku, 3 to, 3 sho, 4 go　　　　　　　Nakahata village
-1. Assessed yield: 273 koku, 4 to, 7 sho, 8 go　　　　　　　Shinzaike village
-1. Assessed yield: 243 koku, 9 to, 2 sho, 7 go　　　　　　　Sumisaki village

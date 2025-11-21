@@ -1,8 +1,0 @@
-Item 1: Assessed yield 584 koku 2 to 8 go　　　　《Location: Nakatsubo Village》
-Item 1: Assessed yield 909 koku 3 to 1 sho 6 go　　　　《Location: Noguchi Village》
-Item 1: Assessed yield 598 koku 2 to 5 sho 4 go　　《Location: Shimodera Village》
-Item 1: Assessed yield 399 koku 8 to 4 sho 3 go　　《Location: Yatsude Village》
-Item 1: Assessed yield 613 koku 6 to 7 sho 3 go　　　《Location: Fukuyo Village》《Marginal note: 【Kyūkō Kyūryō Tori-shirabechō = Excluding the Shirakawa Domain territory】》
-Item 1: Assessed yield 1,271 koku 9 to 6 sho 4 go　《Location: Mikkamachi Village》
-Item 1: Assessed yield 847 koku 4 to 5 sho 5 go　　《Location: Nagaoka Village》
-Item 1: Assessed yield 727 koku 9 to 7 go　　　　《Location: Kita-Ogōchi Village》

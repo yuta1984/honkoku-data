@@ -1,8 +1,0 @@
-One, assessed yield: 398 koku, 6 go　　　　　《Location: Kita Village》
-One, assessed yield: 339 koku, 2 to, 8 sho, 4 go　《Location: Takamatsu Village》
-One, assessed yield: 343 koku, 9 to, 6 sho, 6 go　《Location: Joroku Village》
-One, assessed yield: 507 koku, 6 to　　　　　　　《Location: Kitanoda Village》
-One, assessed yield: 515 koku, 6 to, 1 sho, 7 go　　《Location: Sugao Village》
-One, assessed yield: 993 koku, 6 to, 8 sho, 5 go　《Location: Hirao Village》
-One, assessed yield: 519 koku, 5 to, 8 sho, 4 go　　《Location: Kohirao Village》
-One, assessed yield: 582 koku, 6 to, 2 sho　　　《Location: Kawarajo Village》

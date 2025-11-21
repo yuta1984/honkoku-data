@@ -1,8 +1,0 @@
-One: Assessed rice yield 263 koku 8 to 5 sho 8 go　　　　　《Location: Shinoda Village》
-One: Assessed rice yield 238 koku 2 to 2 sho 2 go　　　　　《Location: Kongo Village》
-One: Assessed rice yield 122 koku 1 to 9 sho 6 go　　《Annotation: Branch village of Kongo Village》《Location: Taguchi Village》
-One: Assessed rice yield 1,195 koku 7 to 7 sho　　　　　　　《Location: Kamisakai Village》
-One: Assessed rice yield 734 koku 4 to 5 sho 6 go　《Annotation: Branch village of Kamisakai Village》《Location: Nakaizumi Village》
-One: Assessed rice yield 639 koku 8 to 5 sho 9 go　《Annotation: Branch village of Kamisakai Village》《Location: Eiman-ji Village》
-One: Assessed rice yield 210 koku 2 to 6 sho 1 go　　《Annotation: Branch village of Kamisakai Village》《Location: Hata Village》
-One: Assessed rice yield 2,424 koku 4 to 6 sho 3 go　　　《Location: Shimosakai Village》

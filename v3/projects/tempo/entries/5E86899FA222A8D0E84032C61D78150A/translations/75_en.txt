@@ -1,8 +1,0 @@
-One, assessed yield: 308 koku, 2 to, 2 sho, 4 go　　　《Location: No Village》
-One, assessed yield: 749 koku, 8 to, 6 sho, 3 go　　《Location: Itamochi Village》
-One, assessed yield: 38 koku, 9 to, 2 sho, 7 go　　　《Location: Karakudani Village》
-One, assessed yield: 484 koku, 7 to, 4 sho, 3 go　　《Location: Shimosato Village》
-One, assessed yield: 115 koku, 8 to, 4 sho, 3 go　　　《Location: Kami-Iwase Village》
-One, assessed yield: 145 koku, 3 to　　　　　　　　《Location: Shimo-Iwase Village》
-One, assessed yield: 151 koku, 3 to, 2 sho, 1 go　　《Location: Furuno Village》
-One, assessed yield: 572 koku, 2 to, 2 sho, 2 go　　《Location: Uehara Village》

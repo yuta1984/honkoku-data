@@ -1,8 +1,0 @@
-1. Assessed yield: 98 koku, 9 to, 8 sho　　　　　　　　　　　　　　　　　　　　　　　　　Busetsumachi village
-1. Assessed yield: 92 koku, 2 to, 4 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　Kawate village
-1. Assessed yield: 89 koku, 7 to, 9 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　Oshiyama village
-1. Assessed yield: 113 koku, 6 to, 9 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　Onose village
-1. Assessed yield: 72 koku, 2 to, 9 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　Noiri village
-1. Assessed yield: 82 koku, 7 to, 3 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　Natsuyake village
-1. Assessed yield: 129 koku, 9 to, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Inahashi village
-1. Assessed yield: 110 koku, 8 to, 6 go　　　　　　　　　　　　　　　　　　　　　　　　　Nakaate village

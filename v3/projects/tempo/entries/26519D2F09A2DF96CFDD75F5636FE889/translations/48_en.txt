@@ -1,8 +1,0 @@
-《Location: Tsuzuki-gun》
-1. Rice yield: 6,560 koku, 2 go　　　　　《Location: Yawata》
-1. Rice yield: 591 koku, 3 to, 5 sho, 2 go　　《Location: Totsu Village》
-1. Rice yield: 321 koku, 2 sho, 2 go　　　　《Location: Kami-Nara Village》
-1. Rice yield: 1,781 koku, 3 to, 2 sho, 3 go　《Location: Uchisato Village》
-1. Rice yield: 165 koku, 3 to, 3 sho, 3 go　　《Location: Nojiri Village》
-1. Rice yield: 1,138 koku, 9 to, 4 sho, 4 go　　《Location: Iwata Village》
-1. Rice yield: 831 koku, 5 to, 3 sho, 2 go　　《Location: Matsui Village》

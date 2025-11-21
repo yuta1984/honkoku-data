@@ -1,8 +1,0 @@
-One, assessed yield 3,229 koku 5 to 1 shō 8 gō 2 yū 6 sai　《Location: Yaba Village》
-One, assessed yield 1,667 koku 2 to 2 shō 1 gō 5 yū　　　　《Location: Dai-no-gō》
-One, assessed yield 1,457 koku 1 to 4 shō 2 gō　　　　　　《Location: Higashi-Nagaoka Village》
-One, assessed yield 251 koku 2 to 5 shō 5 gō　　　　　　　《Location: Yasuragaoka Village》
-One, assessed yield 430 koku 1 shō 9 gō　　　　　　　　　《Location: Kami-Kobayashi Village》
-One, assessed yield 508 koku 4 shō 5 gō　　　　　　　　　《Location: Ōmachi Village》
-One, assessed yield 943 koku 9 to 4 gō　　　　　　　　　《Location: Uekino Village》
-One, assessed yield 371 koku 1 to 6 shō 3 gō　　　　　　《Location: Tomita Village》

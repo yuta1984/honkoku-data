@@ -1,7 +1,0 @@
-One: Assessed rice yield 445 koku 3 to 9 sho 1 go 7 shaku 6 sai　《Location: Chiyomaru Village》
-One: Assessed rice yield 652 koku 2 to 2 sho 6 go　　　　　《Location: Ushiki Village》
-One: Assessed rice yield 516 koku 4 go　　　　　　　　　　《Location: Bodaiji Village》
-One: Assessed rice yield 1,131 koku 6 to 8 sho 7 go 8 shaku　　　《Location: Mochimaru Village》
-One: Assessed rice yield 395 koku 2 to 5 sho 9 go 1 shaku 7 sai　《Location: Ōtsuka Village》
-　Subtotal: Assessed rice yield 40,238 koku 9 to 1 sho 2 go 1 shaku 3 sai
-　　　　　　　　　　　　　《Location: Yasu District》　56 villages

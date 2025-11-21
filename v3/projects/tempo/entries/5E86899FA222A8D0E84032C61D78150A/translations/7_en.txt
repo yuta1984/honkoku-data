@@ -1,8 +1,0 @@
-One, assessed yield: 719 koku, 3 sho　　　　　　《Location: Shimobabushi Village》
-One, assessed yield: 771 koku, 3 sho, 5 go　　　《Location: Moroguchi Village》
-One, assessed yield: 906 koku, 5 to　　　　　　　《Location: Imazu Village》
-One, assessed yield: 553 koku, 4 to, 1 sho, 7 go　《Location: Yokozutsumi Village》
-One, assessed yield: 438 koku, 8 to, 5 sho, 2 go　《Location: Kadoma Ichiban Shimo Village》
-One, assessed yield: 479 koku, 6 to, 5 sho, 2 go　《Location: Kita Terakata Village》
-One, assessed yield: 604 koku, 6 to, 2 sho　　　　《Location: Minami Terakata Village》
-One, assessed yield: 566 koku, 7 go　　　　　　　《Location: Kōri Village》

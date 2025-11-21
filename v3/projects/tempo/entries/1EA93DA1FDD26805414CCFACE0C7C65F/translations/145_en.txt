@@ -1,8 +1,0 @@
-Item 1: Assessment 100 koku, 3 to　　　　　　　《Location: Imanishi Village》
-Item 1: Assessment 148 koku, 8 to, 2 sho　《Location: Kitaasaba Village》
-Item 1: Assessment 69 koku, 8 to, 5 sho　　《Location: Takenouchi Village》
-Item 1: Assessment 58 koku, 3 sho, 4 go　　　《Location: Koyama Village》
-Item 1: Assessment 124 koku　　　　　　《Location: Nagaoka Village》
-Item 1: Assessment 83 koku　　　　　　　《Location: Nigabayashi Village》
-Item 1: Assessment 219 koku, 5 to　　　　《Location: Koyō Village》
-Item 1: Assessment 337 koku, 6 sho, 5 go　《Location: Nishido Village》

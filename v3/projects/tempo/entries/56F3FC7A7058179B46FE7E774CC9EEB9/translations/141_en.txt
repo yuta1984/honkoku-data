@@ -1,8 +1,0 @@
-Item: Assessed yield of 592 koku, 3 to, 7 sho　　　　　《Location: Katashiro Village》
-Item: Assessed yield of 945 koku, 3 to, 1 go　　　　　　《Location: Dainichi Village》
-Item: Assessed yield of 652 koku, 6 to, 5 sho, 3 go　　《Location: Naruse Village》
-Item: Assessed yield of 1,178 koku, 4 to, 1 go　　　　　《Location: Rokkaku Higashi-gō》
-Item: Assessed yield of 1,568 koku, 9 to, 4 sho, 4 go　《Location: Rokkaku Naka-gō》
-Item: Assessed yield of 1,482 koku, 8 to, 1 sho, 6 go　《Location: Rokkaku Nishi-gō》
-Item: Assessed yield of 765 koku, 2 to, 5 sho, 7 go　　《Location: Ajiro Village》
-Item: Assessed yield of 571 koku, 6 sho, 8 go　　　　　　《Location: Tada Village》

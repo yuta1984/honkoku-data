@@ -1,8 +1,0 @@
-1. Rice yield: 124 koku, 2 to, 3 sho, 1 go, 6 shaku　《Location: Minami-Okodo Village》
-1. Rice yield: 104 koku, 6 to, 1 sho, 7 go　　　　　《Location: Tatara Village》
-1. Rice yield: 349 koku, 7 to, 6 go　　　　《Location: Kami Village》
-1. Rice yield: 228 koku, 5 to, 3 sho, 8 go　　《Location: Mizutori Village》
-1. Rice yield: 932 koku, 6 sho, 8 go　　　　《Location: Tenno Village》
-1. Rice yield: 142 koku, 1 to, 5 sho, 8 go　　《Location: Takafune Village》
-1. Rice yield: 468 koku, 8 sho, 1 go　　　　《Location: Uchida Village》
-1. Rice yield: 622 koku, 7 sho, 4 go　　　　《Location: Ezu Village》

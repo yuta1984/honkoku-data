@@ -1,8 +1,0 @@
-One, assessed yield: 437 koku, 5 to, 8 sho, 3 go　《Location: Higashisaka Village》
-One, assessed yield: 1,000 koku, 4 to, 9 sho, 1 go　《Location: Sabi Village》
-One, assessed yield: 342 koku, 3 to, 3 sho　　　　《Location: Ryusen Village》
-One, assessed yield: 1,209 koku, 1 to, 4 sho　　　《Location: Nakamura Village》
-One, assessed yield: 253 koku, 3 to, 9 sho　　　　《Location: Kobuki Village》
-One, assessed yield: 222 koku, 5 to, 1 sho, 2 go　《Location: Nakatsuhara Village》
-One, assessed yield: 101 koku, 8 to　　　　　　　《Location: Chihaya Village》
-One, assessed yield: 44 koku, 7 to, 6 sho, 9 go　 《Location: Yoshitoshi Village》

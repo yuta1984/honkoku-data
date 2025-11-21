@@ -1,8 +1,0 @@
-Item: Assessed yield of 450 koku, 4 sho, 6 go　　　　　《Location: Imaizumi Village》
-Item: Assessed yield of 502 koku, 4 to, 3 sho　　　　　《Location: Maki Village》
-Item: Assessed yield of 342 koku, 3 sho, 3 go　　　　　《Location: Takada Village》
-Item: Assessed yield of 657 koku, 7 sho, 9 go　　　　　《Location: Ejima Village》
-Item: Assessed yield of 256 koku, 9 to, 7 sho, 9 go　　《Location: Fudoshima Village》
-Item: Assessed yield of 505 koku, 3 to, 1 sho　　　　　《Location: Tadeshima Village》
-Item: Assessed yield of 757 koku, 2 to, 4 sho, 9 go　　《Location: Shimono Village》
-Item: Assessed yield of 1,088 koku, 1 to, 9 go, 1 go　《Location: Todoroki-machi》

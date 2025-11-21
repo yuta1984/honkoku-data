@@ -1,8 +1,0 @@
-Item 1: Assessed yield 374 koku 2 to 5 sho 2 go 7 shaku　《Location: Shinyama Village》
-Item 1: Assessed yield 450 koku 5 to 5 sho 2 go　　　　《Location: Kashio Village》
-Item 1: Assessed yield 58 koku 3 to 3 sho 9 go　　　　　《Location: Ura Village》
-Item 1: Assessed yield 445 koku 7 to 9 sho 5 go 1 shaku　《Location: Ichinose Village》
-Item 1: Assessed yield 309 koku 8 sho 5 go 7 shaku　　　　　《Location: Kurokochi Village》
-Item 1: Assessed yield 378 koku 5 to 5 sho 8 go 7 shaku　《Location: Mizoguchi Village》
-Item 1: Assessed yield 377 koku 2 to 5 sho 1 go 3 shaku　《Location: Katsuma Village》
-Item 1: Assessed yield 518 koku 4 to 1 sho 5 go 6 shaku　　《Location: Himochi Village》

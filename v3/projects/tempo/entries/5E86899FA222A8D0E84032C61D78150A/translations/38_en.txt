@@ -1,8 +1,0 @@
-One, assessed yield: 531 koku, 9 to, 5 sho, 2 go　　　　　《Location: Ikaga Village》
-One, assessed yield: 533 koku, 4 to　　　　　　　　　《Location: Yagara Village》
-One, assessed yield: 272 koku, 7 to, 4 sho, 4 go　《Note: Branch village of 《Location: Yagara Village》》《Location: Kishidado Village》
-One, assessed yield: 887 koku, 8 to, 6 sho, 3 go　　　　　《Location: Shijo Village》
-One, assessed yield: 82 koku, 6 to, 2 sho, 2 go　　　　　　　《Location: Inui Village》
-One, assessed yield: 2,505 koku, 8 to, 6 sho, 9 go, 3 shaku　　　《Location: Shogakuji Village》
-One, assessed yield: 1,311 koku, 7 to, 5 sho, 4 go　　　　　《Location: Kuratsukuri Village》
-One, assessed yield: 471 koku, 4 to, 5 sho, 7 go　《Note: Branch village of 《Location: Kuratsukuri Village》》《Location: Shinka Village》

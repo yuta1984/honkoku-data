@@ -1,9 +1,0 @@
-Item: Assessed yield of 651 koku, 2 to, 2 sho, 9 go　　　《Location: Honmachi Village》
-Item: Assessed yield of 508 koku, 3 to, 3 sho, 6 go　　　《Location: Fukamachi Village》
-Item: Assessed yield of 409 koku, 7 to, 3 sho, 9 go　　　《Location: Kitashima Village》
-《Annotation: Formerly Kami-Kagase Village》
-Item: Assessed yield of 721 koku, 6 to, 2 sho　　　　　　《Location: Kami-Kagase Town》
-Item: Assessed yield of 1,857 koku, 8 to, 3 sho, 9 go　　《Location: Shimo-Kagase Village》
-Item: Assessed yield of 1,340 koku, 3 to　　　　　　　　《Location: Suetsugu Village》
-Item: Assessed yield of 401 koku, 8 to, 2 go　　　　　　《Location: Mitsuana Village》
-Item: Assessed yield of 1,592 koku, 3 to, 6 sho, 3 go　　《Location: Kanoko Village》

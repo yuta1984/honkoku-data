@@ -1,8 +1,0 @@
-One: Assessed rice yield 544 koku 5 to 8 sho 2 go 9 shaku　《Location: Uehara Village》
-One: Assessed rice yield 1,084 koku 1 to 6 sho 6 go　　　　《Location: Tokunaga Village》
-One: Assessed rice yield 1,514 koku 2 to 2 sho 5 go　　　《Location: Higashi Village》
-One: Assessed rice yield 1,789 koku 7 sho　　　　　　《Location: Hon Village》
-One: Assessed rice yield 483 koku 5 to 8 go 8 shaku　　　《Location: Tomi Village》
-One: Assessed rice yield 508 koku 5 to 4 go 5 shaku　　　　　《Location: Arita Village》
-One: Assessed rice yield 210 koku 5 to 5 sho 5 go　　　　　《Location: Hirabaru Village》
-One: Assessed rice yield 469 koku 8 to 1 sho 3 go　　　《Location: Kuramochi Village》

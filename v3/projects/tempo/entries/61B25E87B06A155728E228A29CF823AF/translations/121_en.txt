@@ -1,8 +1,0 @@
-1. Assessed yield: 98 koku, 6 sho, 5 go　　　　　　　　　　　　　　　Shigehiro village
-1. Assessed yield: 197 koku, 1 to, 5 sho, 8 go　　　　　　　　　　　Kawakami village
-1. Assessed yield: 136 koku, 1 to, 3 sho, 5 go　　　　　　　　　　　Ushikura village
-1. Assessed yield: 77 koku, 3 to, 9 sho, 6 go　　　　　　　　　　　 Maguni village
-1. Assessed yield: 34 koku, 3 sho, 1 go　　　　　　　　　　　　　　　Kuroguchi village
-1. Assessed yield: 46 koku, 1 to, 3 sho, 4 go　　　　　　　　　　　 Tsunenobu village
-1. Assessed yield: 199 koku, 8 to, 6 sho, 5 go　　　　　　　　　　　Omiya village
-1. Assessed yield: 230 koku, 9 to, 3 sho, 4 go　　　　　　　　　　　Takehiro village

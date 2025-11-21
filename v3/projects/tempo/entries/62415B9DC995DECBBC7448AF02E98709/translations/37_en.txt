@@ -1,8 +1,0 @@
-One, assessed yield: 549 koku, 9 to, 8 shō, 3 gō　《Location: Tagoe Village》
-One, assessed yield: 249 koku, 8 to, 6 shō, 7 gō　《Location: Takamatsu Village》
-One, assessed yield: 571 koku, 5 to, 6 shō, 5 gō　《Location: Kanaichi Village》
-One, assessed yield: 235 koku, 5 to, 7 shō, 2 gō　《Location: Kami-Ise Village》
-One, assessed yield: 436 koku, 8 to, 3 shō, 6 gō　《Location: Shimo-Ise Village》
-One, assessed yield: 433 koku, 4 to, 4 shō, 5 gō　《Location: Nakao Village》
-One, assessed yield: 578 koku, 7 to, 5 shō, 5 gō　《Location: Ōtsuka Village》
-One, assessed yield: 636 koku, 3 to, 5 shō, 6 gō　《Location: Tokuman Village》

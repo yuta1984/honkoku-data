@@ -1,8 +1,0 @@
-1. Rice yield: 178 koku, 7 sho, 5 go　　　《Location: Higashi-Kawachi Village》
-1. Rice yield: 198 koku, 8 to, 1 sho　　　《Location: Nishi-Kawachi Village》
-1. Rice yield: 167 koku, 1 to, 7 sho, 4 go　《Location: Naka Village》
-1. Rice yield: 239 koku, 9 to, 2 sho　　《Location: Koshihata Village》
-1. Rice yield: 196 koku, 4 to, 7 sho, 1 go　《Location: Hara Village》
-1. Rice yield: 110 koku, 9 to, 8 sho, 9 go, 8 shaku　《Location: Mizuo Village》
-1. Rice yield: 4 koku, 9 to, 8 sho　　　　　　《Location: Sanjo-Shinhata》
-　Subtotal: Rice yield 35,446 koku, 9 to, 9 sho, 9 go, 1 sai

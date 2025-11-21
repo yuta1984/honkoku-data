@@ -1,8 +1,0 @@
-One　Assessed yield: 458 koku, 7 to, 9 sho, 7 go　　Branch village of Nagamine Village　Ushikata Village
-One　Assessed yield: 337 koku, 6 to, 1 sho, 4 go　　　　　Ariyasu Village
-One　Assessed yield: 583 koku, 4 to, 5 sho, 6 go　　　　　Kurosaki Village
-One　Assessed yield: 423 koku, 4 to, 8 sho, 7 go　　Branch village of Kurosaki Village　Komaki Village
-　Subtotal　Assessed yield: 15,165 koku, 6 sho, 6 go
-　　　　　　　　　Ishida District　27 villages
-Grand total assessed yield: 32,742 koku, 9 to, 2 sho, 1 go
-　　　　　　　　　　　Total number of villages: 50 villages

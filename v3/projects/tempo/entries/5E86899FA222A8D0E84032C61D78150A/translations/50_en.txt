@@ -1,8 +1,0 @@
-One, assessed yield: 11 koku, 2 to, 5 sho　　　　　　《Split notation: 《Location: Shiba》｜《Location: Yuga mi》》village runoff cultivation
-One, assessed yield: 281 koku, 3 to, 4 sho, 9 go　《Location: Nishi-Otsuka Village》
-One, assessed yield: 2,361 koku, 9 to, 4 sho　《Location: Matsubara Village》
-One, assessed yield: 166 koku, 4 sho, 4 go　　　　《Location: Takami Village》
-One, assessed yield: 163 koku, 9 to, 2 sho　　　　《Location: Saraike Village》
-One, assessed yield: 312 koku, 8 to, 7 sho, 5 go　　《Location: Takagi Village》
-One, assessed yield: 318 koku, 8 to, 4 sho, 8 go　　《Location: Yugami Village》
-One, assessed yield: 152 koku, 5 to, 3 sho, 6 go　　《Location: Minami-Kareki Village》

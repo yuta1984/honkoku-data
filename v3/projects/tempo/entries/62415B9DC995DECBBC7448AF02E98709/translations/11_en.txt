@@ -1,8 +1,0 @@
-One, assessed yield: 84 koku, 1 to, 1 gō　　　　《Location: Shimohata Village》
-One, assessed yield: 98 koku, 2 to, 5 shō, 9 gō　　《Location: Ōtani Village》
-One, assessed yield: 27 koku, 2 to, 5 shō, 1 gō　　《Location: Shimotashiro Village》
-One, assessed yield: 11 koku, 3 to, 1 shō, 7 gō　　　《Location: Kamitashiro Village》
-One, assessed yield: 148 koku, 9 to, 1 shō, 4 gō　《Location: Mori Village》
-One, assessed yield: 116 koku, 6 to, 4 shō, 2 gō　　《Location: Kamata Village》
-One, assessed yield: 120 koku, 4 to, 7 shō, 7 gō　　《Location: Yoshio Village》
-One, assessed yield: 154 koku, 2 to, 3 shō, 7 gō　《Location: Shimotani Village》

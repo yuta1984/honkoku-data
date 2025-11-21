@@ -1,9 +1,0 @@
-Item: Assessed yield of 365 koku, 2 to, 5 sho, 1 go, 5 seki　《Location: Mimuro Village》
-Item: Assessed yield of 1,266 koku, 9 to, 2 sho, 2 go, 5 seki
-　　　　　　　　　　　　　　　　　　　　　　　　　　《Location: Moriyama Village》
-Item: Assessed yield of 1,619 koku, 7 to, 6 sho, 5 go　　　《Location: Yamada Village》
-Item: Assessed yield of 440 koku, 2 to, 2 sho, 2 go, 5 seki　《Location: Noi Village》
-Item: Assessed yield of 592 koku, 2 to, 8 sho, 7 go, 5 seki　《Location: Aitsu Village》
-Item: Assessed yield of 1,821 koku, 6 to, 5 sho, 8 go　　　《Location: Chijiwa Village》
-Item: Assessed yield of 1,269 koku, 3 to, 8 sho, 1 go　　　《Location: Obama Village》
-Item: Assessed yield of 1,132 koku, 6 to, 2 sho, 9 go, 5 seki《Location: Kitakushiyama Village》

@@ -1,8 +1,0 @@
-1. Rice yield: 671 koku, 2 to, 2 go　　　《Location: Oharano Village》
-1. Rice yield: 66 koku, 6 to, 6 sho, 3 go　　　《Location: Nagamine Village》
-1. Rice yield: 283 koku, 7 to, 4 sho, 7 go　《Location: Sakamoto Village》
-1. Rice yield: 1 koku, 8 to, 3 go　　　　　　　《Location: Ushigase Village - Distant Cultivation》
-1. Rice yield: 139 koku, 9 sho, 9 go　　　　《Location: Haitani Village》
-1. Rice yield: 356 koku, 6 to, 7 sho　　　《Location: Oshio Village》
-1. Rice yield: 29 koku, 6 to, 6 sho　　　　　《Location: Dehai Village》
-1. Rice yield: 158 koku, 7 to, 8 go　　　　《Location: Sotohata Village》

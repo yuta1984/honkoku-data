@@ -1,8 +1,0 @@
-One village with a kokudaka of 289 koku, 6 to, 7 sho: Iwaya Village
-One village with a kokudaka of 37 koku, 7 to: Kitakuzuo Village
-One village with a kokudaka of 101 koku, 8 to, 1 sho: Uyama Village
-One village with a kokudaka of 190 koku, 2 to, 6 sho: Katahira Village
-One village with a kokudaka of 379 koku, 2 to, 4 sho: Sugao Village
-One village with a kokudaka of 420 koku, 5 to, 6 sho, 6 go, 2 shaku, 1 sai: Kamitsukawauchi Village
-One village with a kokudaka of 155 koku, 9 to, 4 sho, 3 go, 7 shaku, 9 sai: Shimotzukawauchi Village (a branch village of Kamitsukawauchi Village)
-One village with a kokudaka of 178 koku, 5 to, 4 sho: Onishi Village

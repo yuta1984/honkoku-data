@@ -1,8 +1,0 @@
-1. Assessed yield: 102 koku　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Komatsubara village
-1. Assessed yield: 391 koku, 8 to, 2 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　　　Kojima village
-1. Assessed yield: 862 koku, 1 to, 4 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　Kami-Hosoya village
-1. Assessed yield: 614 koku, 9 to, 7 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　Shimo-Hosoya village
-　Subtotal　Assessed yield: 65,615 koku, 1 to, 1 sho, 7 go, 5 shaku, 4 sai
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Atsumi District　95 villages
-Grand total　Assessed yield: 466,080 koku, 7 to, 4 sho, 6 go, 8 shaku
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Number of villages　1,292 villages

@@ -1,8 +1,0 @@
-One, assessed yield: 60 koku, 1 to, 9 shō　　　　　《Location: Hitokihara Village》
-One, assessed yield: 139 koku, 4 shō, 8 gō　　　《Location: Miyata Village》
-One, assessed yield: 167 koku, 7 shō, 8 gō　　　《Location: Shiratani Village》
-One, assessed yield: 145 koku, 3 to, 7 shō, 9 gō　《Location: Musaka Village》
-One, assessed yield: 63 koku, 9 to, 4 shō, 3 gō　　《Location: Tateishi Village》
-One, assessed yield: 76 koku, 8 to, 4 shō, 9 gō　　《Location: Tsukahara Village》
-One, assessed yield: 947 koku, 8 to, 6 shō　　《Location: Shimoisami Village》
-One, assessed yield: 76 koku, 3 to, 8 shō, 8 gō　　《Location: Ohara Village》

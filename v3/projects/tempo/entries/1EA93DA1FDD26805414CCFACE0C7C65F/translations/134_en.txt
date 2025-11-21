@@ -1,8 +1,0 @@
-Item 1: Assessment 191 koku, 3 to, 2 sho, 5 go　　　　《Location: Suna Village》
-Item 1: Assessment 358 koku, 8 sho, 4 go　　　　《Location: Suna Shinden》
-Item 1: Assessment 5 koku, 2 to, 7 sho　　　　　　　《Location: Kami-Shinkawagishi》
-Item 1: Assessment 55 koku, 8 sho　　　　　　　《Location: Shimo-Shinkawagishi》
-Item 1: Assessment 405 koku, 8 to, 1 sho　　　　　　《Location: Shinjuku Village》
-Item 1: Assessment 331 koku, 8 to, 1 sho　　　　　《Location: Noda Shinden》
-Item 1: Assessment 366 koku, 7 to, 2 sho, 2 go　　《Location: Noda Village》
-Item 1: Assessment 470 koku, 2 to, 7 sho, 3 go　　　《Location: Wakita Village》

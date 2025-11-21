@@ -1,8 +1,0 @@
-One village with a kokudaka of 91 koku, 4 to: Tateno Village
-One village with a kokudaka of 396 koku, 2 sho: Shiga Village
-One village with a kokudaka of 190 koku, 1 to, 5 sho, 6 go: Higashi-Chimata Village
-One village with a kokudaka of 142 koku, 8 to, 8 sho, 8 go: Nishi-Chimata Village
-One village with a kokudaka of 64 koku, 4 to, 7 sho, 6 go: Takinohata Village
-One village with a kokudaka of 641 koku, 1 to, 4 sho, 3 go: Nakamasu Village
-One village with a kokudaka of 280 koku, 4 to, 7 sho: Nishimasu Village (formerly Nishimashi Village)
-One village with a kokudaka of 307 koku, 3 to, 2 go: Kamiichi Village

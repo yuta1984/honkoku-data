@@ -1,8 +1,0 @@
-One village with a kokudaka of 726 koku, 6 to, 2 sho, 2 go, 2 shaku: Shimohimaki Village
-One village with a kokudaka of 367 koku, 7 to, 4 sho, 3 go: Nagamine Village
-One village with a kokudaka of 320 koku: Nukui Village
-One village with a kokudaka of 305 koku, 2 to, 5 sho, 8 go: Akase Village
-One village with a kokudaka of 275 koku, 1 to, 3 sho, 5 go: Fukuchi Village
-One village with a kokudaka of 195 koku, 4 to, 2 sho: Kaiba Village
-One village with a kokudaka of 135 koku, 5 to, 5 sho, 6 go, 8 shaku: Yamabe Village
-One village with a kokudaka of 300 koku: Yamabe-naka Village (within Yamabe Village)

@@ -1,8 +1,0 @@
-《Location: Koma District》
-Item 1: Assessment 404 koku, 7 to, 6 sho　　　　　　　《Location: Shimo-Kosaka Village》
-Item 1: Assessment 273 koku, 8 to, 2 sho　　　　　　《Location: Hiratsuka Village》
-Item 1: Assessment 60 koku, 5 sho　　　　　　　　　　《Location: Hiratsuka Shinden》
-Item 1: Assessment 1,186 koku, 8 sho, 9 go　　　　　　《Location: Kujira-i Village》
-Item 1: Assessment 125 koku, 5 sho　　　　　　　　《Location: Kami-Yahata Village》
-Item 1: Assessment 214 koku, 6 to, 1 sho, 7 go　　　　　《Location: Kotsuzumi Village》
-Item 1: Assessment 285 koku, 9 sho, 5 go, 5 shaku, 5 sai　《Location: Kami-Hirotani Village》

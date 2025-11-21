@@ -1,8 +1,0 @@
-One: Assessed rice yield 676 koku 1 to 8 sho 6 shaku　　　　　《Location: Uchino Village》
-One: Assessed rice yield 306 koku 6 to 2 sho 8 go　　　　　　　《Location: Yamaguchi Village》
-One: Assessed rice yield 797 koku 7 to 9 sho 3 go 9 shaku 7 sai　《Location: Ikawa Village》
-One: Assessed rice yield 386 koku 6 to 3 sho 5 go　　　　　　　《Location: Katashima Village》
-One: Assessed rice yield 639 koku 2 to 9 sho 7 go 6 shaku　　　《Location: Jumyō Village》
-One: Assessed rice yield 202 koku 6 to 7 sho 8 go 4 shaku　《Note: Branch village of 《Location: Jumyō Village》》《Location: Seto Village》
-One: Assessed rice yield 530 koku 1 to 8 sho 4 go　　　　　　　《Location: Yokota Village》
-One: Assessed rice yield 499 koku 1 to 4 sho 2 go 6 shaku　　　《Location: Benbun Village》

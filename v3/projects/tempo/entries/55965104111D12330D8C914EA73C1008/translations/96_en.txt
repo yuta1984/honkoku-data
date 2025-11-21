@@ -1,9 +1,0 @@
-1. Assessed yield: 70 koku, 4 to, 3 sho, 3 go - Enpei-bo Village
-1. Assessed yield: 262 koku, 9 sho, 1 go - Ma-ogiira Village
-1. Assessed yield: 169 koku, 9 to, 1 go - Sukawa Village
-1. Assessed yield: 32 koku, 1 to, 3 sho, 7 go - Shinanozaka Village
-1. Assessed yield: 68 koku, 8 to, 1 sho, 5 go - Nihongi Village
-1. Assessed yield: 123 koku, 3 to, 5 sho, 5 go - Kami-Funakura Village
-　　　　　　　　　　　　　　　　　　　　(Branch village of Kami-Funakura Village)
-1. Assessed yield: 162 koku, 4 to, 7 sho, 8 go - Shimo-Funakura Village
-1. Assessed yield: 78 koku, 3 to, 2 sho, 3 go - Takasawa Village

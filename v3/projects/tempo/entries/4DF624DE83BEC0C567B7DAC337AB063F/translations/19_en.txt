@@ -1,8 +1,0 @@
-Item 1: Assessed yield 150 koku 3 to 5 sho 6 go　　　　《Location: Yagoori Village》
-Item 1: Assessed yield 496 koku 6 to 4 sho 3 go　　　　《Location: Kamihata Village》
-Item 1: Assessed yield 180 koku 3 to 8 sho 7 go　　　　《Location: Nakahata Village》
-Item 1: Assessed yield 278 koku 2 to 5 sho 6 go　　　　《Location: Shimohata Village》
-Item 1: Assessed yield 66 koku 8 to 6 sho 9 go　　　　　《Location: Ookubo Village》
-Item 1: Assessed yield 590 koku 6 sho 7 go　　　　　　　《Location: Kamimura Village》
-Item 1: Assessed yield 1,129 koku 8 to 5 sho　　　　　　《Location: Takanomachi Village》
-Item 1: Assessed yield 200 koku 9 to 4 sho 1 go　　　　　《Location: Shukuiwa Village》

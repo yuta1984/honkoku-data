@@ -1,8 +1,0 @@
-Item: Assessed yield of 226 koku, 6 to, 8 go　　　《Location: Sangenji Village》
-Item: Assessed yield of 66 koku, 2 to, 2 sho, 4 go　　　《Location: Matsuo Village》
-Item: Assessed yield of 248 koku, 6 to, 4 sho, 7 go　　　《Location: Sunada-ga-sato Village》
-Item: Assessed yield of 184 koku, 8 sho, 1 go　　　　《Location: Hatakeda-ga-sato Village》
-Item: Assessed yield of 339 koku, 8 to, 9 sho　　　《Location: Tobita-ga-sato Village》
-Item: Assessed yield of 721 koku, 3 to, 9 sho, 8 go　　　《Location: Hisa□-ga-sato Village》
-Item: Assessed yield of 641 koku, 5 to, 8 sho, 1 go　　　《Location: Takayanagi-ga-sato Village》
-Item: Assessed yield of 680 koku, 1 to, 8 sho, 5 go　　　《Location: Ōe-ga-sato Village》

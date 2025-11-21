@@ -1,8 +1,0 @@
-One, assessed yield: 235 koku, 3 to, 3 shō, 7 gō　《Location: Urushihara Village》
-One, assessed yield: 442 koku, 5 to, 3 gō　　　《Location: Hōji Village》
-One, assessed yield: 191 koku, 5 to, 1 shō, 6 gō　　《Location: Shiraishi Village》
-One, assessed yield: 261 koku, 5 to, 2 shō, 7 gō　《Location: Nogata Village》
-One, assessed yield: 577 koku, 2 to, 2 shō, 9 gō　《Location: Fujitsu Village》
-One, assessed yield: 125 koku, 1 to, 9 shō, 4 gō　　《Location: Miyauchi Village》
-One, assessed yield: 62 koku, 2 to, 1 shō, 6 gō　　　《Location: Matsuzaki Town》
-One, assessed yield: 383 koku, 6 to, 8 shō, 7 gō　《Location: Chūkōji Village》

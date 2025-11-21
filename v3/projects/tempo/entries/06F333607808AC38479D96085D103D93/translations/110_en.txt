@@ -1,8 +1,0 @@
-- Assessed rice yield: 9 koku 3 to 9 shō 7 gō - Location: Higashi-tashiro Village
-- Assessed rice yield: 33 koku 8 to 1 shō 9 gō - Location: Suganuma Village
-- Assessed rice yield: 45 koku 7 to 3 shō 4 gō - Location: Tsukiji Village
-- Assessed rice yield: 70 koku 9 to 9 gō - Location: Shimotaira Village
-- Assessed rice yield: 44 koku 6 to 1 shō 4 gō - Location: Sugagawa Village
-- Assessed rice yield: 133 koku 7 to 5 gō - Location: Gozairi Village
-- Assessed rice yield: 247 koku 7 to 8 gō - Location: Hanasaki Village
-- Assessed rice yield: 28 koku 7 to 2 shō 9 gō - Location: Hariyama Shinden

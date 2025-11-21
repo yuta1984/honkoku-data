@@ -1,8 +1,0 @@
-1. Assessed yield: 687 koku, 8 to, 6 shō, 9 gō　　　　《Location: Kami-Gyōbu Village》
-1. Assessed yield: 1,145 koku, 3 shō, 5 gō, 7 shaku, 9 sai　《Location: Iwata Village》
-1. Assessed yield: 193 koku, 9 to, 4 shō, 1 gō, 9 sai　　《Location: Ishioka Village》
-1. Assessed yield: 266 koku, 8 to, 9 shō, 6 gō　　　　《Location: Seto Village》
-1. Assessed yield: 761 koku, 9 to, 3 shō, 7 gō　　　　《Location: Shimo-Tsuta Village》
-1. Assessed yield: 834 koku, 1 to, 3 shō　　　　　　　《Location: Kami-Tsuta Village》
-1. Assessed yield: 137 koku, 9 to, 2 gō　　　　　　　《Location: Washizawa Village》
-1. Assessed yield: 72 koku, 2 to, 9 gō　　　　　　　　《Location: Mitake Village》

@@ -1,8 +1,0 @@
-1. Rice yield: 1,811 koku, 9 sho, 3 go, 6 shaku　　　　　《Location: Osumi Village》
-1. Rice yield: 367 koku, 9 to, 9 sho, 3 go　　　　　《Location: Mizunushi Village》
-1. Rice yield: 839 koku, 2 to, 2 sho, 3 go　　　　　《Location: Takigi Village》
-1. Rice yield: 1,079 koku, 5 sho, 2 go　　　　　　　　《Location: Tanabe Village》
-1. Rice yield: 356 koku, 8 to, 6 sho, 9 go　《Notation: Branch village of 《Location: Tanabe Village》》《Location: Kawahara Village》
-1. Rice yield: 105 koku, 5 go　　　　　　　　《Notation: Branch village of 《Location: Tanabe Village》》《Location: Tanabe Shinden Village》
-1. Rice yield: 194 koku　　　　　　　　　　　　《Location: Minami-Tanabe Village》
-1. Rice yield: 491 koku, 3 to, 3 go　　　　　　　　《Location: Kita-Okodo Village》

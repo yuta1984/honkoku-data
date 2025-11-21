@@ -1,8 +1,0 @@
-1. Assessed yield: 1,369 koku, 5 to, 9 sho, 9 go　　　　　　　　Oki village
-1. Assessed yield: 168 koku, 6 sho, 1 go　　　　　　　　　　　　Matsubara village
-1. Assessed yield: 402 koku, 2 to, 9 sho, 1 go　　　　　　　　　Ukaijima village
-1. Assessed yield: 320 koku, 3 to, 8 go　　　　　　　　　　　　　E village
-1. Assessed yield: 693 koku, 5 to, 4 sho　　　　　　　　　　　　Higashikami village
-1. Assessed yield: 6 koku, 2 to, 2 sho, 5 go　Branch village of Matsubara　Kitaoka Shinden village
-1. Assessed yield: 485 koku, 4 to, 7 sho, 9 go　　　　　　　　　Nagayama village
-1. Assessed yield: 475 koku, 1 to, 5 sho, 3 go　　　　　　　　　Ashiyamada village

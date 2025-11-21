@@ -1,8 +1,0 @@
-One village with a kokudaka of 40 koku, 9 to, 3 sho, 3 go, 8 shaku: Hanzaka Village (a branch village of Kamihongo Village)
-One village with a kokudaka of 108 koku, 3 to, 1 sho, 8 go, 2 shaku: Uregawara Village
-One village with a kokudaka of 85 koku, 6 sho, 2 go, 8 shaku: Matorikaki Village
-One village with a kokudaka of 324 koku, 6 to, 2 sho, 9 go, 7 shaku: Asoda Village
-One village with a kokudaka of 106 koku, 5 to, 8 sho, 9 go, 5 shaku: Shibao Village
-One village with a kokudaka of 328 koku, 1 to, 1 sho, 6 go: Nishiyama Village
-One village with a kokudaka of 177 koku, 5 to, 1 sho, 9 go, 2 shaku: Sakoma Village
-One village with a kokudaka of 333 koku, 1 to, 5 sho, 9 go, 3 shaku: Kuroki Village

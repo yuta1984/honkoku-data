@@ -1,8 +1,0 @@
-《Location: Kasuya District》
-One: Assessed rice yield 3,251 koku 5 to 3 sho 4 go 9 shaku 5 sai　《Location: Hakozaki Village》
-One: Assessed rice yield 42 koku 6 to 2 sho 7 go　　　　　《Branch village of Hakozaki Village》《Location: Harada Village》
-One: Assessed rice yield 530 koku 7 to 9 sho 4 go　　　　　　　　《Location: Uchihashi Village》
-One: Assessed rice yield 1,276 koku 2 to 7 sho 8 go　　　　　　《Location: Nakahara Village》
-One: Assessed rice yield 1,490 koku 9 to 8 sho 3 go　　　《Branch village of Nakahara Village》《Location: Kaminakahara Village》
-One: Assessed rice yield 458 koku 4 to 6 sho　　　　　《Branch village of Nakahara Village》《Location: Ae Village》
-One: Assessed rice yield 140 koku 6 to 9 sho 1 go　　　　　《Branch village of Nakahara Village》《Location: Haramachi Village》

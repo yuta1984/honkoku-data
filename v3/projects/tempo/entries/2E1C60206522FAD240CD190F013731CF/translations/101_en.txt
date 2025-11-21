@@ -1,8 +1,0 @@
-One village with a kokudaka of 702 koku, 7 to, 7 sho, 5 go: Nakamura Village
-One village with a kokudaka of 703 koku, 7 to, 6 sho: Fuedo Village
-One village with a kokudaka of 824 koku, 8 to, 4 sho: Sone Village
-One village with a kokudaka of 269 koku, 4 to, 8 sho: Onishi Village
-One village with a kokudaka of 169 koku, 8 to, 3 sho, 5 go: Katsume Village
-One village with a kokudaka of 522 koku, 4 to, 5 sho, 5 go (formerly Tai Village): Tanaka Village
-One village with a kokudaka of 526 koku, 2 to, 6 sho, 7 go: Imazato Village
-Subtotal: 42,911 koku, 7 to, 9 sho, 5 go

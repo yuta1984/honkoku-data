@@ -1,8 +1,0 @@
-One: Assessed rice yield 1,035 koku 1 to 5 sho 6 go　　　　　　《Location: Ryūtoku Village》
-One: Assessed rice yield 1,184 koku 2 to 9 sho 7 go　　　　　《Location: Miyata Village》
-One: Assessed rice yield 370 koku 9 to 8 sho 2 go　　《Annotation: Branch village of Miyata Village》《Location: Wakino Village》
-One: Assessed rice yield 1,544 koku 9 to 9 sho 3 go 8 shaku　　《Location: Tonno Village》
-One: Assessed rice yield 391 koku 9 sho 6 go　　　《Annotation: Branch village of Tonno Village》《Location: Kawakita Village》
-One: Assessed rice yield 984 koku 6 to 7 sho 1 go　《Annotation: Branch village of Tonno Village》《Location: Kawaminami Village》
-One: Assessed rice yield 529 koku 9 to 8 sho 3 go 6 shaku　　　《Location: Naraotsu Village》
-One: Assessed rice yield 1,993 koku 4 to 7 sho 1 go　　　　《Location: Katsuno Village》

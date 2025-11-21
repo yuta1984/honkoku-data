@@ -1,8 +1,0 @@
-One: Assessed yield of 770 koku, 2 to - Kawakami Village
-One: Assessed yield of 1,391 koku, 5 to, 4 sho, 1 go - Horen Village
-One: Assessed yield of 221 koku, 3 to - Takaamachi Village
-One: Assessed yield of 521 koku, 5 to, 7 sho, 1 go - Shibatsuji Village
-One: Assessed yield of 533 koku, 3 to, 4 sho, 2 go - Aburazaka Village
-One: Assessed yield of 877 koku, 3 to, 7 sho - Sanjo Village
-One: Assessed yield of 129 koku, 4 to, 7 sho, 7 go, 6 shaku - Sugigamachi Village
-One: Assessed yield of 483 koku, 5 sho, 8 go - Kido Village

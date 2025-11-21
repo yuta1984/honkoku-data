@@ -1,8 +1,0 @@
-One: Assessed rice yield 515 koku 9 to 7 sho 7 go 4 shaku　　《Location: Hiramatsu Village》
-One: Assessed rice yield 360 koku 2 to 4 sho 4 go　　　　《Location: Tanaka Village》
-One: Assessed rice yield 269 koku 8 to 1 sho 8 go 8 shaku　《Location: Kamidera Village》
-One: Assessed rice yield 60 koku 3 sho 3 go　　　《Note: Branch village of Kamidera Village》《Location: Tajiri Village》
-One: Assessed rice yield 689 koku 6 to 1 sho 5 shaku　　　《Location: Tadatsure Village》
-One: Assessed rice yield 1,299 koku 7 to 7 go 4 shaku　　《Location: Furuke Village》
-One: Assessed rice yield 1,404 koku 3 sho 8 go 2 shaku　　　　《Location: Sukawa Village》
-One: Assessed rice yield 1,070 koku 9 to 3 sho 2 go　　　　　《Location: Kukimiya Village》

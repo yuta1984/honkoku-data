@@ -1,8 +1,0 @@
-One village with a kokudaka of 10 koku: Oritatе Village
-One village with a kokudaka of 8 koku: Takataki Village
-One village with a kokudaka of 9 koku: Ogawa Village
-One village with a kokudaka of 17 koku: Kami-Katsukawa Village
-One village with a kokudaka of 11 koku: Naka Village
-One village with a kokudaka of 8 koku: Shimo-Katsukawa Village
-One village with a kokudaka of 7 koku: Kamiyama Village
-One village with a kokudaka of 7 koku, 5 to: Tamaigawa Village

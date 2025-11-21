@@ -1,8 +1,0 @@
-[Right Page]
-[Blank]
-[Left Page]
-[Label in the upper left corner with classification numbers arranged vertically]
-[Upper section]
-353 [Arabic numerals]
-[Lower section]
-10 [Arabic numerals]

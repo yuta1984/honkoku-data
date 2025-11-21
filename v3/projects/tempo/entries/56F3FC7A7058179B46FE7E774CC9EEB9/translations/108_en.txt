@@ -1,9 +1,0 @@
-Formerly《Marginal note: 《Location: Uragawachi Village》　《Location: Namehae Village》｜《Location: Imafuku Village》　　《Location: Kiba Village》　》Four villages
-Item: Assessed yield of 1,642 koku, 3 to, 3 sho　　　　《Location: Imafuku Village》
-Item: Assessed yield of 459 koku, 8 to, 3 sho, 5 go　　《Location: Fukushima Village》
-Item: Assessed yield of 447 koku, 2 to, 4 sho, 1 go　　《Location: Sato Village》
-Item: Assessed yield of 161 koku, 8 to, 9 sho, 6 go　　《Location: Hirano Village》
-Item: Assessed yield of 711 koku, 3 to, 9 sho, 8 go　　《Location: Takashima Village》
-Item: Assessed yield of 364 koku, 3 to, 5 sho, 6 go　　《Location: Kanzaki Village》
-Item: Assessed yield of 213 koku, 1 to, 9 sho, 4 go　　《Location: Ao Village》
-Item: Assessed yield of 512 koku, 4 sho, 2 go　　　　　《Location: Sanri Village》

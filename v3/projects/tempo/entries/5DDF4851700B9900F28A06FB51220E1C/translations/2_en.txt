@@ -1,9 +1,0 @@
-One, Rice yield assessment: 3,310 koku, 7 to, 1 sho, 4 go, 8 shaku, 3 sai　　　　　　　　《Location: Hirara Magiri》
-One, Rice yield assessment: 1,557 koku, 4 to, 1 sho, 7 go, 9 shaku, 1 sai　　　　　　　《Location: Karimata Magiri》
-One, Rice yield assessment: 254 koku, 7 to, 8 sho, 7 go, 6 shaku, 2 sai　《Sub-entry: Within《Location: Miyako Island》《Location: Erabu Island》》《Location: Kugai Village》
-One, Rice yield assessment: 338 koku, 5 to, 9 sho, 5 shaku, 4 sai　　　　　　《Sub-entry: Within《Location: Miyako Island》》《Location: Tarama Island》
-　Subtotal　Rice yield assessment: 12,458 koku, 7 to, 9 sho, 2 go, 4 shaku, 2 sai
-　　　　　　　　　　　　　　　　　　　　　《Location: Miyako Island》　Six villages
-
-　　　《Location: Yaeyama Island》
-One, Rice yield assessment: 242 koku, 4 to, 5 sho, 8 go, 3 shaku, 7 sai　　　　《Sub-entry: Within Ishigaki Island》《Location: Kabira Magiri》

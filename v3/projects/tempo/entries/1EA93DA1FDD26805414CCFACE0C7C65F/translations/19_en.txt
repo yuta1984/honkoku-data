@@ -1,8 +1,0 @@
-Item 1: Assessment 253 koku, 5 to, 9 sho, 3 go, 3 shaku　　《Location: Shimo-Meguro Village》
-Item 1: Assessment 245 koku, 1 to, 9 sho, 4 go, 5 shaku　　《Location: Naka-Meguro Village》
-Item 1: Assessment 1,251 koku, 1 to, 6 sho, 5 go, 7 shaku　《Location: Kami-Meguro Village》
-Item 1: Assessment 112 koku, 4 to, 8 go　　　　　　　　　《Location: Ikezawa Village》
-Item 1: Assessment 137 koku, 4 to, 2 sho, 9 go　　　　　　《Location: Nozawa Village》
-Item 1: Assessment 656 koku, 4 to, 4 sho, 4 go, 4 shaku　　《Location: Umahikizawa Village》
-Item 1: Assessment 38 koku, 5 to　　　　　　　　　　《Location: Taishido Village》
-Item 1: Assessment 90 koku, 9 to, 5 sho, 7 go　　　　　　　　《Location: Sanjuku Village》

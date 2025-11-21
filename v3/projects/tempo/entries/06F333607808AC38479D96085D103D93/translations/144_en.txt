@@ -1,8 +1,0 @@
-- Assessed rice yield: 394 koku 7 to 6 shō 1 gō　　　　　Location: Oniishi Village
-- Assessed rice yield: 296 koku 4 to 1 shō 5 gō　　　　　Location: Sanabagawa Village
-　Subtotal: 31,484 koku 9 to 5 shō 6 seki 2 sai
-　　　　　　　　　　Location: Midorino County　45 villages
-　　　　Location: Kanra County
-- Assessed rice yield: 1,118 koku 3 to 8 shō 5 gō 8 seki　Location: Iwasaki Village
-- Assessed rice yield: 1,216 koku 8 to 3 shō 1 gō 5 sai　Location: Okudaira Village
-- Assessed rice yield: 340 koku 1 to 1 shō 9 gō 6 seki 7 sai　Location: Sakaguchi Village

@@ -1,8 +1,0 @@
-- Assessed rice yield: 2,642 koku 8 to 8 yū　　　　Location: Takase Village
-- Assessed rice yield: 150 koku 5 to 5 shō 1 gō　　　Location: Ōshima Village
-- Assessed rice yield: 1,054 koku 7 to 2 shō 9 gō　　Location: Goka Village
-- Assessed rice yield: 170 koku 8 yū　　　　　　　　Location: Iwazome Village
-- Assessed rice yield: 248 koku 2 to 7 shō 1 gō　　　Location: Akihata Village
-- Assessed rice yield: 1,146 koku 8 to 7 shō　　　　　Location: Nogami Village
-- Assessed rice yield: 2,026 koku 5 to 8 shō　　　　　Location: Umayama Village
-- Assessed rice yield: 318 koku 2 to 4 shō 4 gō　　　Location: Yoshizaki Village

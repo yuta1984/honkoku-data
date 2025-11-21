@@ -1,8 +1,0 @@
-Item: Assessed yield of 2,492 koku, 1 sho, 6 go　　　　《Location: Hide Village》
-Item: Assessed yield of 2,153 koku, 1 to, 1 sho, 9 go　《Location: □kiri Village》
-Item: Assessed yield of 1,189 koku, 6 to, 3 sho, 9 go　《Location: Yokote Village》
-Item: Assessed yield of 182 koku, 4 to, 9 sho, 6 go　　《Location: Masaki Village》
-Item: Assessed yield of 588 koku, 5 to, 7 go　　　　　　《Location: Sakata Village》
-Item: Assessed yield of 898 koku, 3 to, 4 sho　　　　　《Location: Tanoue Village》
-Item: Assessed yield of 434 koku, 3 to, 3 sho　　　　　《Location: Shimazu Village》
-Item: Assessed yield of 1,011 koku, 4 to, 5 sho, 2 go　《Location: Henta Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 329 koku, 7 to, 5 sho, 1 go - Higashino Village
-1. Assessed yield: 108 koku, 1 to, 1 sho, 7 go - Iritsu Village
-1. Assessed yield: 331 koku, 9 to, 3 sho, 6 go - Kōma Village
-1. Assessed yield: 353 koku, 2 to, 8 go - Nakaho Village
-1. Assessed yield: 31 koku, 5 to, 3 sho - Kumaishi Village (branch village of Nakaho Village)
-1. Assessed yield: 196 koku, 3 to - Onidani Village (branch village of Nakaho Village)
-1. Assessed yield: 57 koku, 6 to, 3 sho, 3 go - Koitaya Shinden
-1. Assessed yield: 99 koku, 3 to, 8 sho, 2 go - Yūdani Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 771 koku, 7 to, 2 sho, 4 go, 2 shaku - Takeori Village
-1. Assessed yield: 666 koku, 5 to, 3 go, 1 shaku, 8 sai - Noi Village
-1. Assessed yield: 823 koku, 1 to, 4 sho, 6 shaku, 5 sai - Sasaragi Village
-1. Assessed yield: 147 koku, 2 to, 2 sho, 2 go, 8 shaku, 4 sai - Mukumi Village
-1. Assessed yield: 1,340 koku, 8 to, 8 sho, 3 shaku, 3 sai - Iihama Village
-1. Assessed yield: 1,133 koku, 5 to, 2 sho, 2 go, 9 shaku - Iwamura
-1. Assessed yield: 1,662 koku, 7 sho, 3 go, 6 shaku, 9 sai - Babayamada Village
-1. Assessed yield: 32 koku, 1 to, 5 sho, 9 go - Mineyama Village

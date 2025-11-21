@@ -1,8 +1,0 @@
-1. Assessed yield: 300 koku, 1 to, 2 sho, 4 go　　　　　　　Yoshihara village (branch village of Hanazono village)
-1. Assessed yield: 248 koku, 6 to, 7 sho　　　　　　　　　　Otsuo village
-1. Assessed yield: 822 koku, 9 to, 4 sho, 1 go　　　　　　　Wakabayashi village
-1. Assessed yield: 105 koku, 7 to, 9 sho, 3 go　　　　　　　Nakane village (branch village of Hanazono village)
-1. Assessed yield: 442 koku, 4 to, 2 sho, 8 go　　　　　　　Hanazono village
-1. Assessed yield: 787 koku, 6 to, 4 sho, 7 go　　　　　　　Komaba village
-1. Assessed yield: 2,402 koku, 2 to, 6 sho, 5 go, 4 shaku　　Tsutsumi village
-1. Assessed yield: 1,024 koku, 4 sho, 8 go　　　　　　　　　Higashisakai village

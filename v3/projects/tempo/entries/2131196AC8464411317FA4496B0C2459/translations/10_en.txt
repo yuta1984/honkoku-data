@@ -1,8 +1,0 @@
-1. Assessed yield: 52 koku, 8 to, 9 shō, 4 gō, 6 shaku　《Location: Sagara Town》
-1. Assessed yield: 198 koku, 3 shō, 2 gō　　　　《Location: Toku Village》
-1. Assessed yield: 101 koku, 9 shō, 1 gō　　　　　　《Location: Horinouchi Village》
-1. Assessed yield: 89 koku, 6 shō, 7 gō　　　　　《Location: Seizanji Village》
-1. Assessed yield: 332 koku, 9 to, 9 shō, 1 gō　《Location: Sono Village》
-1. Assessed yield: 28 koku, 5 to, 9 shō, 3 gō　　《Location: Fukuoka Town》
-1. Assessed yield: 323 koku, 2 to, 5 shō, 4 gō　《Location: Hatsu Village》
-1. Assessed yield: 185 koku, 7 to, 6 shō, 3 gō　　《Location: Ochii Village》

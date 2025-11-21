@@ -1,8 +1,0 @@
-1. Assessed yield: 254 koku, 8 to, 9 sho, 6 go, 6 shaku, 7 sai　　Aokiba Village
-1. Assessed yield: 483 koku, 7 to, 6 sho　　　　　　　　　　　　Yokogawa Village
-1. Assessed yield: 899 koku, 5 to, 9 go, 3 shaku, 9 sai　　　　　Takatama Village
-1. Assessed yield: 412 koku, 7 to, 4 sho　　　　　　　　　　　　Ishimushiro Village
-1. Assessed yield: 244 koku, 6 to, 8 sho　　　　　　　　　　　　Nakayama Village
-1. Assessed yield: 2,711 koku, 3 to, 2 sho, 3 go, 6 shaku, 7 sai　Ōdaira Village
-1. Assessed yield: 1,785 koku, 4 to, 3 sho, 2 go, 7 shaku, 6 sai　Hiraishi Village
-1. Assessed yield: 423 koku, 6 to, 8 sho, 8 go　　　　　　　　　　Nishi-Arai Village

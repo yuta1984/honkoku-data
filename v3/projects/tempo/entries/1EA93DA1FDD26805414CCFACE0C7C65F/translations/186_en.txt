@@ -1,8 +1,0 @@
-Item 1: Assessment 480 koku, 5 to, 8 sho, 4 go, 3 sai　　　　《Location: Kojima Village》
-Item 1: Assessment 503 koku, 1 to, 3 sho, 6 go, 6 shaku, 7 sai　　　《Location: Hirose Village》
-Item 1: Assessment 1,962 koku, 8 to, 9 sho, 3 go　　　　《Location: Ishihara Village》
-Item 1: Assessment 728 koku, 5 to, 6 go, 6 yu, 1 sai　　　　《Location: Dai Village》
-Item 1: Assessment 605 koku, 3 to, 8 sho, 2 go　　　　　　　《Location: Harashima Village》
-Item 1: Assessment 975 koku, 2 to, 9 sho, 1 go　　　　　《Location: Koezuka Village》
-Item 1: Assessment 103 koku, 5 to, 8 go　　　　　　　　　《Location: Hara-Shinden Village》
-Item 1: Assessment 150 koku, 7 sho, 4 go　　　　　　　《Location: Hiratsuka-Shinden Village》

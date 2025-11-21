@@ -1,8 +1,0 @@
-Item: Assessed yield of 334 koku, 3 to, 2 sho, 8 go　　《Location: Tanisho Village》
-Item: Assessed yield of 284 koku, 9 go　　　　　　　　《Location: Asaura Village》
-Item: Assessed yield of 809 koku, 4 sho　　　　　　　　《Location: Gochoda Village》
-Item: Assessed yield of 1,213 koku, 9 to, 4 sho, 8 go　《Location: Fukuro Village》
-Item: Assessed yield of 113 koku, 4 to, 4 sho, 9 go　　《Location: Nabeno Village》
-Item: Assessed yield of 95 koku, 9 to, 4 sho, 9 go　　　《Location: Shiobuki Village》
-Item: Assessed yield of 668 koku, 5 to, 4 sho, 7 go　　《Location: [?]no Village》
-Item: Assessed yield of 598 koku, 3 to, 6 sho, 7 go　　《Location: Shimokuma Village》

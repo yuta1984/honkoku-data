@@ -1,8 +1,0 @@
-One, assessed yield: 219 koku, 6 to　　　　　　　《Location: Ureshi Village》
-One, assessed yield: 154 koku, 8 to, 1 sho　　　　　《Location: Kawaideravillage》
-One, assessed yield: 1,054 koku, 1 to, 2 sho, 2 go　　　《Location: Takamuko Village》
-One, assessed yield: 197 koku, 9 to, 2 sho, 9 go　　　《Location: Ueda Village》
-One, assessed yield: 248 koku, 4 to, 4 sho, 4 go　　　《Location: Kita Village》
-One, assessed yield: 1,285 koku, 9 to, 2 sho, 1 go　　《Location: Oyamada Village》
-One, assessed yield: 342 koku, 4 to, 7 sho, 2 go　　　《Location: Mikkaichi Village》
-One, assessed yield: 61 koku, 6 to, 3 go　　　　　　　《Location: Yokoyama Village》

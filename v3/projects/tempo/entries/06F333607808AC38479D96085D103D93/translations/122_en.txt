@@ -1,8 +1,0 @@
-- Assessed rice yield: 150 koku 6 to 4 shō 1 gō - Location: Imai Village
-- Assessed rice yield: 63 koku 7 shō 4 gō - Location: Akahane Village
-- Assessed rice yield: 42 koku 1 to 2 shō - Location: Nakai Village
-- Assessed rice yield: 51 koku 4 shō 8 gō - Location: Nishikubo Village
-- Assessed rice yield: 157 koku 8 to 4 shō 8 gō - Location: Ōmae Village
-- Assessed rice yield: 216 koku 7 to 6 gō - Location: Ōsasa Village
-- Assessed rice yield: 31 koku 3 to 1 shō 6 gō - Location: Tashiro Village
-- Assessed rice yield: 193 koku 9 to 9 shō 6 gō - Location: Hoshimata Village

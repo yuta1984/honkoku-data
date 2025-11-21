@@ -1,8 +1,0 @@
-One: Assessed rice yield 631 koku 9 to 6 sho 5 go 6 shaku　　《Location: Anou Village》
-One: Assessed rice yield 118 koku 1 to 9 sho 9 go　　《Annotation: Branch village of 《Location: Anou Village》》《Location: Jinbaru Village》
-One: Assessed rice yield 860 koku 3 to 3 sho 4 go　《Annotation: Branch village of 《Location: Anou Village》》《Location: Seita Village》
-One: Assessed rice yield 788 koku 7 to 2 sho　　　　　　《Location: Hikino Village》
-One: Assessed rice yield 453 koku 2 to 9 sho 5 go 9 shaku　　《Location: Babayama Village》
-One: Assessed rice yield 699 koku 9 to 9 sho 5 go　　　　《Location: Norimatsu Village》
-One: Assessed rice yield 1,055 koku 7 to 1 sho 3 go　　　　　《Location: Kami-Katsuki Village》
-One: Assessed rice yield 665 koku 2 to 4 sho　　　　　　《Location: Shimo-Katsuki Village》

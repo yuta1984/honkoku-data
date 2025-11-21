@@ -1,8 +1,0 @@
-- Assessed rice yield: 273 koku 7 to 9 shō 3 gō - Location: Shimo-Hotchi Village
-- Assessed rice yield: 262 koku 9 shō 6 gō - Location: Hotchi Shinden
-- Assessed rice yield: 121 koku 4 shō 1 gō - Location: Kami-Sayama Village
-- Assessed rice yield: 186 koku 8 to 7 gō - Location: Shimo-Sayama Village
-- Assessed rice yield: 16 koku 3 to 7 gō - Location: Ōnuma Village
-- Assessed rice yield: 356 koku 5 to 1 shō - Location: Kami-Maki Village
-- Assessed rice yield: 288 koku 4 to 2 shō - Location: Shimo-Maki Village
-- Assessed rice yield: 480 koku 4 to 8 shō 2 gō - Location: Ogawa Village

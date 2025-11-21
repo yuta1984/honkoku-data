@@ -1,8 +1,0 @@
-One village with a kokudaka of 195 koku, 7 sho, 1 go: Tada Village (formerly Oida Village)
-One village with a kokudaka of 143 koku, 8 to, 5 sho, 9 go: Shimochaya Village
-One village with a kokudaka of 295 koku, 2 to, 9 sho: Nagara Village
-One village with a kokudaka of 440 koku, 1 to, 8 sho, 1 go: Masu Village (formerly Mashi Village)
-One village with a kokudaka of 126 koku, 6 to, 9 sho, 6 go: Sekiya Village (branch village of Masu Village)
-One village with a kokudaka of 144 koku, 9 to, 4 sho, 2 go: Sada Village
-One village with a kokudaka of 215 koku, 8 to, 5 sho, 6 go: Ido Village (branch village of Masu and Sada Villages)
-One village with a kokudaka of 222 koku, 4 to, 6 sho, 5 go: Kodono Village

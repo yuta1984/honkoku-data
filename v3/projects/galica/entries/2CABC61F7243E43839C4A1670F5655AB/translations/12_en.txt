@@ -1,9 +1,0 @@
-[Spine]
-JAPANESE: Supplement
-
-[Administrative tags]
-4
-Oriental Department
-M
-4
-BIS

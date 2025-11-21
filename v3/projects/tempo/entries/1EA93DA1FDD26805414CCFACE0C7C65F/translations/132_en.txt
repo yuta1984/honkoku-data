@@ -1,8 +1,0 @@
-Item 1: Assessment 327 koku, 9 to, 3 sho, 5 go　《Location: Kami-Akasaka Village》
-Item 1: Assessment 339 koku, 3 to, 2 go　　　《Location: Shimo-Akasaka Village》
-Item 1: Assessment 138 koku, 9 to, 8 sho　　　　《Location: Kami-Matsubara Village》
-Item 1: Assessment 261 koku, 9 to, 4 sho, 1 go　《Location: Shimo-Matsubara Village》
-Item 1: Assessment 475 koku, 1 to, 8 sho　　　　《Location: Fujima Village》
-Item 1: Assessment 847 koku, 8 to, 2 sho, 2 go　　《Location: Kamekubo Village》
-Item 1: Assessment 166 koku, 8 sho, 5 go　　　　《Location: Tsurugaoka Village》
-Item 1: Assessment 367 koku, 3 sho, 3 go　　　　《Location: Terao Village》

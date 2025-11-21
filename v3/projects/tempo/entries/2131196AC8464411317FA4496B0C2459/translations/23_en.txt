@@ -1,8 +1,0 @@
-1. Assessed yield: 1,366 koku, 8 shō, 4 gō　　　《Location: Higashi-Ōsaka Village》
-1. Assessed yield: 1,485 koku, 4 to, 3 shō, 2 gō　《Location: Nishi-Ōsaka Village》
-1. Assessed yield: 577 koku, 9 to, 7 shō, 7 gō　　《Location: Kaito Village》
-1. Assessed yield: 670 koku, 9 to, 8 shō, 6 gō　　　《Location: Kumon Village》
-1. Assessed yield: 567 koku, 6 to, 1 shō, 5 gō　　《Location: Shimokata Village》
-1. Assessed yield: 479 koku, 3 to, 3 shō, 5 gō　　《Location: Ōishi Village》
-1. Assessed yield: 688 koku, 4 to, 8 shō, 4 gō　　《Location: Kemori Village》
-1. Assessed yield: 419 koku, 3 to, 8 shō, 6 gō　　　《Location: Nishinotani Village》

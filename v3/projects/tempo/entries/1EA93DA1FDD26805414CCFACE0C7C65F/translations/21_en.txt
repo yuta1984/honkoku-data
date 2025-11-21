@@ -1,8 +1,0 @@
-Item 1: Assessment 469 koku, 7 to, 9 go　　　《Location: Setagaya Village》
-Item 1: Assessment 143 koku, 4 to, 1 sho, 1 go　　　《Location: Tsurumaki Village》
-Item 1: Assessment 171 koku, 1 to, 5 sho, 4 go　　　《Location: Yoga Village》
-Item 1: Assessment 354 koku, 6 to, 6 sho　　　　《Location: Seta Village》
-Item 1: Assessment 78 koku, 6 sho, 7 go　　　　　《Location: Norata Village》
-Item 1: Assessment 55 koku, 5 sho, 2 go　　　　　《Location: Kaminoge Village》
-Item 1: Assessment 185 koku, 1 to, 4 sho, 5 go　　《Location: Shimonoge Village》
-Item 1: Assessment 568 koku, 9 to, 1 sho, 2 go　《Location: Todoroki Village》

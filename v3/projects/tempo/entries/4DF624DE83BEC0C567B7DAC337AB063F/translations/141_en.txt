@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 464 koku, 8 sho, 5 go　　　　《Location: Ogura Village》
-Item 1: Assessed yield of 558 koku, 2 to, 6 sho, 7 go, 3 shaku　《Location: Tadai Village》
-Item 1: Assessed yield of 171 koku, 2 to, 2 sho, 7 go, 1 shaku　《Location: Iwahara Village》
-Item 1: Assessed yield of 443 koku, 6 to, 7 sho, 6 shaku　　《Location: Tajiri Village》
-Item 1: Assessed yield of 656 koku, 6 to, 7 sho, 9 go, 5 shaku　《Location: Kami-Horigane Village》
-Item 1: Assessed yield of 546 koku, 6 to, 2 sho, 5 go, 3 shaku　《Location: Shimo-Horigane Village》
-Item 1: Assessed yield of 139 koku, 1 to, 9 sho, 3 go　　　《Location: Nakahori Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Nakahori Shinden Village]》
-Item 1: Assessed yield of 163 koku, 4 to, 2 sho, 1 go, 6 shaku　《Location: Ko-Tadai Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Ko-Tadai Shinden Village]》

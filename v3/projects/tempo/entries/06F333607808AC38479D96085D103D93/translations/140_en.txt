@@ -1,8 +1,0 @@
-- Assessed rice yield: 793 koku 6 to 2 shō 5 gō 4 shaku 5 sai　Location: Yamana Village
-- Assessed rice yield: 532 koku 8 to 8 shō 1 shaku　　　　　　Location: Kami-ochiai Village
-- Assessed rice yield: 512 koku 6 to 5 shō 9 gō　　　　　　　Location: Hondōdō Village
-- Assessed rice yield: 913 koku 1 to 1 shō 4 shaku 5 sai　　　Location: Kami-ōtsuka Village
-- Assessed rice yield: 1,060 koku 9 to 4 gō　　　　　　　　　Location: Naka-ōtsuka Village
-- Assessed rice yield: 545 koku 2 to 5 shō 5 gō　　　　　　　Location: Shimo-ōtsuka Village
-- Assessed rice yield: 481 koku 8 to 2 shō 4 gō　　　　　　　Location: Shinozuka Village
-- Assessed rice yield: 323 koku 2 to 4 shō　　　　　　　　　　Location: Kami-kurisu Village

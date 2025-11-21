@@ -1,8 +1,0 @@
-Item 1: Assessment 272 koku, 3 to, 8 sho, 3 go　　《Location: Kami-Fuda Village》
-Item 1: Assessment 832 koku, 1 to, 5 sho, 4 shaku　　《Location: Shimo-Fuda Village》
-Item 1: Assessment 513 koku, 4 to, 7 sho, 5 go　　　　《Location: Kokuryō-juku》
-Item 1: Assessment 197 koku, 8 to, 7 sho, 8 go　　　　《Location: Kami-kyū Village》
-Item 1: Assessment 328 koku, 4 to, 3 sho, 7 go　《Location: Kami-Tobitakyū Village》
-Item 1: Assessment 184 koku, 6 to, 2 sho　　　　《Location: Shimo-Tobitakyū Village》
-Item 1: Assessment 420 koku, 7 to, 9 sho, 7 go　　　　《Location: Ōsawa Village》
-Item 1: Assessment 318 koku, 1 to, 5 sho, 1 go　　　《Location: Kami-Someya Village》

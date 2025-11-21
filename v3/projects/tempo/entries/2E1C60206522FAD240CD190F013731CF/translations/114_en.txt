@@ -1,8 +1,0 @@
-One village with a kokudaka of 147 koku, 3 to, 5 sho: Hata Village
-One village with a kokudaka of 190 koku, 2 to, 2 go: Iritani Village
-One village with a kokudaka of 189 koku, 3 to, 5 sho, 7 go: Kayamori Village
-One village with a kokudaka of 145 koku, 9 to: Daikon-da Village
-One village with a kokudaka of 250 koku, 6 to: Abeyama Village
-One village with a kokudaka of 273 koku, 1 to, 8 go: Tosa Village
-One village with a kokudaka of 23 koku, 6 to, 8 sho, 3 go: Tosa-machi Village
-One village with a kokudaka of 685 koku, 4 to, 5 sho, 8 go: Kangakuji Village

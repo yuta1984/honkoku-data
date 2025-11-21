@@ -1,8 +1,0 @@
-- Assessed rice yield: 888 koku 7 to 7 shō 4 gō - Location: Naka-Satomi Village
-- Assessed rice yield: 726 koku 4 to 3 shō 6 gō - Location: Shimo-Satomi Village
-- Assessed rice yield: 1,358 koku 1 shō 6 gō - Location: Kami-Akima Village
-- Assessed rice yield: 469 koku - Location: Naka-Akima Village
-- Assessed rice yield: 827 koku 4 to 5 shō 5 gō - Location: Shimo-Akima Village
-- Assessed rice yield: 246 koku 6 to 7 shō 6 gō - Location: Mizunuma Village
-- Assessed rice yield: 169 koku 5 to 8 shō 4 gō - Location: Iwamizu Village
-- Assessed rice yield: 519 koku 6 to 9 shō 5 gō - Location: Kawaura Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 2,575 koku, 9 to, 9 sho, 8 go　　　Yuzawa Town
-1. Assessed yield: 1,005 koku, 8 to, 6 sho, 3 go　　　Sekiguchi Village
-1. Assessed yield: 592 koku, 4 to, 5 sho, 9 go　　　　Kurauchi Village
-1. Assessed yield: 671 koku, 9 sho　　　　　　　　　　Kanaya Village
-1. Assessed yield: 679 koku, 1 sho, 1 go　　　　　　　Mori Village
-1. Assessed yield: 777 koku, 7 to, 3 sho, 4 go　　　　Hachiman Village
-1. Assessed yield: 373 koku, 9 sho, 5 go　　　　　　　Yanagida Village
-1. Assessed yield: 1,381 koku, 2 to, 5 sho, 3 go　　　Fukahori Village

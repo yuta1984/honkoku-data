@@ -1,8 +1,0 @@
-One village with a kokudaka of 458 koku, 1 to, 3 sho, 4 go, 7 shaku: Yataki Village
-One village with a kokudaka of 121 koku, 2 sho, 8 go, 5 shaku: Okami Village
-One village with a kokudaka of 271 koku, 4 to, 1 sho, 8 go, 9 shaku: Matsui Village
-One village with a kokudaka of 190 koku, 4 to, 9 sho, 8 go: Komagaeri Village
-One village with a kokudaka of 418 koku, 6 to, 8 sho, 2 go, 5 shaku: Sakura Village
-One village with a kokudaka of 854 koku, 1 to, 6 sho, 6 go, 2 shaku: Ugashi Village
-One village with a kokudaka of 409 koku, 4 to, 1 sho, 2 go, 2 shaku: Kamiyoshino Village
-One village with a kokudaka of 309 koku, 5 sho, 1 go, 6 shaku: Shimoyoshino Village

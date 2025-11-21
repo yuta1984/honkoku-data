@@ -1,8 +1,0 @@
-1. Assessed yield: 189 koku, 3 to, 8 sho, 1 go　　　　　　　　　　　　Yamanokami village
-1. Assessed yield: 517 koku, 4 to, 6 sho, 5 go　　　　　　　　　　　　Omma village
-1. Assessed yield: 371 koku, 9 to, 3 sho　　　　　　　　　　　　　　　Nishikata village
-1. Assessed yield: 272 koku, 3 to, 1 sho, 7 go　　　　　　　　　　　　Ukino village
-1. Assessed yield: 223 koku, 6 sho, 4 go　　　　　　　　　　　　　　　Okusa village
-1. Assessed yield: 446 koku, 6 to, 7 sho, 4 go　　　　　　　　　　　　Akane village
-1. Assessed yield: 883 koku, 2 sho, 9 go　　　　　　　　　　　　　　　Otsuka village
-1. Assessed yield: 972 koku, 1 to, 6 sho, 6 go, 9 shaku, 3 sai　　　　Mitani village

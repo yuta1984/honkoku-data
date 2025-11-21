@@ -1,8 +1,0 @@
-Atsumi District
-1. Assessed yield: 1,240 koku, 4 to, 9 sho, 4 go - Takakuwa Village
-1. Assessed yield: 1,283 koku, 3 to, 4 sho, 3 go - Hikinoe Village
-1. Assessed yield: 711 koku, 5 to, 4 sho, 9 go - Ochaya Shinden Village (branch village of Hikinoe Village)
-1. Assessed yield: 278 koku, 4 to, 8 go - Takagawara Village
-1. Assessed yield: 431 koku, 1 to, 1 sho, 7 go - Tsugi Village
-1. Assessed yield: 2,651 koku, 5 to, 8 sho, 5 go - Sawa Village
-1. Assessed yield: 2,862 koku, 9 to, 7 sho, 6 go - Uzura Village

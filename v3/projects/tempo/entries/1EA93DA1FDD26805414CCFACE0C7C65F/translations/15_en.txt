@@ -1,8 +1,0 @@
-Item 1: Assessment 149 koku, 8 to, 9 sho, 7 go　　　　　　《Location: Nakamura》
-Item 1: Assessment 2,652 koku, 1 to, 1 sho, 8 go　《Location: Kami-Nerima Village》
-Item 1: Assessment 1,337 koku, 4 to, 8 sho, 3 go　　《Location: Doshida Village》
-Item 1: Assessment 861 koku, 9 to, 7 sho, 7 go　　　　《Location: Tanihara Village》
-Item 1: Assessment 539 koku, 2 to, 8 sho, 4 go　　　　《Location: Tanaka Village》
-Item 1: Assessment 1,160 koku, 6 to, 1 sho, 4 go　　　《Location: Shimo-Shakujii Village》
-Item 1: Assessment 1,358 koku, 9 to, 7 sho, 3 go　《Location: Kami-Shakujii Village》
-Item 1: Assessment 531 koku, 4 sho, 2 go　　　　　　　《Location: Seki Village》

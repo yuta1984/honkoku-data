@@ -1,8 +1,0 @@
-1. Assessed yield: 456 koku, 6 to, 7 sho, 5 go　　　　　　Hosoike village
-1. Assessed yield: 290 koku, 1 to, 3 sho, 7 go　　　　　　Saito village
-1. Assessed yield: 266 koku, 2 to, 6 sho, 6 go　　　　　　Kawaguchi village
-1. Assessed yield: 391 koku, 3 to, 3 sho　　　　　　　　　Atsuike village
-1. Assessed yield: 841 koku, 2 to, 2 sho, 2 go, 9 shaku　　Ichiko village
-1. Assessed yield: 335 koku, 4 to, 6 sho, 3 go　　　　　　Kami-Domeki village
-1. Assessed yield: 231 koku, 3 to, 7 sho, 9 go　　　　　　Shimo-Domeki village
-1. Assessed yield: 199 koku, 9 to, 2 sho, 7 go　　　　　　Yatsugashiri village

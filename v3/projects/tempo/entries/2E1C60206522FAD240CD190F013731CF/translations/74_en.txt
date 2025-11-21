@@ -1,8 +1,0 @@
-One village with a kokudaka of 917 koku, 9 to, 8 sho, 8 go: Miyako Village
-One village with a kokudaka of 934 koku, 1 sho, 9 go: Iwami Village
-One village with a kokudaka of 1,184 koku, 7 go: Yao Village
-One village with a kokudaka of 327 koku, 6 to, 6 go: Shinmachi Village (branch village of Yao Village)
-One village with a kokudaka of 125 koku, 3 to, 9 sho: Imazato Village
-One village with a kokudaka of 398 koku, 5 sho, 3 go: Nishishiro Village
-One village with a kokudaka of 1,178 koku, 7 to, 3 go: Sakate Village
-One village with a kokudaka of 1,372 koku, 8 to, 4 sho, 3 go: Hokiji Village

@@ -1,8 +1,0 @@
-Item: Assessed yield of 906 koku, 4 to, 3 sho, 1 go　　　《Location: Yamaguchi Village》
-Item: Assessed yield of 944 koku, 9 to, 4 sho, 1 go　　　《Location: Motoyama Village》
-Item: Assessed yield of 233 koku, 8 to, 9 sho, 9 go　　　《Location: Yatsunokubo Village》
-Item: Assessed yield of 647 koku, 3 to, 7 sho, 2 go　　　《Location: Ogawachi Village》
-Item: Assessed yield of 1,687 koku, 4 to, 4 sho, 9 go　　《Location: Minase Village》
-Item: Assessed yield of 688 koku, 4 sho　　　　　　　　　《Location: Harabun Village》
-Item: Assessed yield of 192 koku, 7 to, 3 sho, 5 go　　　《Location: Chiken-ji Temple》
-Item: Assessed yield of 443 koku, 5 to, 4 sho, 2 go　　　《Location: Ono Village》

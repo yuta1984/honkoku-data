@@ -1,8 +1,0 @@
-1. Assessed yield: 345 koku, 9 to, 6 gō　　　　　　　　　《Location: Tsunetake Village》
-1. Assessed yield: 337 koku, 3 to, 7 shō, 2 gō　　　　　　《Location: Hatori Village》
-1. Assessed yield: 256 koku, 1 to, 2 shō, 4 gō　　　　　　《Location: Ishihara Village》
-1. Assessed yield: 60 koku, 2 to, 6 shō, 3 gō, 3 shaku　　《Note: Branch village of Zenji Village》《Location: Naka-Zenji Village》
-1. Assessed yield: 34 koku, 4 to, 6 shō, 5 gō, 2 shaku, 8 sai　《Note: Branch village of Zenji Village》《Location: Kami-Zenji Village》
-1. Assessed yield: 71 koku, 7 to, 9 shō, 2 gō, 9 sai　　　　《Location: Zenji Village》
-1. Assessed yield: 31 koku, 2 to, 4 shō, 7 gō, 3 shaku, 3 sai　《Note: Branch village of Zenji Village》《Location: Sueshima Village》
-1. Assessed yield: 536 koku, 2 to, 5 shō, 5 gō　　　　　　　《Location: Nakase Village》

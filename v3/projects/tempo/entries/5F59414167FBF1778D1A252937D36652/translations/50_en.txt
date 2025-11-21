@@ -1,8 +1,0 @@
-1. Assessed yield: 639 koku, 7 to, 3 sho, 4 go, 3 shaku, 3 sai　　　Ōtomo Village
-1. Assessed yield: 909 koku, 8 to, 1 sho, 7 go　　　　　　　　　　Kanazawa Village
-1. Assessed yield: 681 koku, 4 to, 3 sho, 3 go, 3 shaku, 3 sai　　　Ogawa Village
-1. Assessed yield: 384 koku, 5 to, 7 sho, 4 go, 3 shaku, 3 sai　　　Teshirogi Village
-1. Assessed yield: 454 koku, 7 to, 1 sho, 8 go, 9 shaku, 9 sai　　　Ōhira Village
-1. Assessed yield: 460 koku, 6 sho, 2 go, 6 shaku, 6 sai　　　　　　Kamakura Village
-1. Assessed yield: 255 koku, 6 to, 3 sho, 1 go, 6 shaku, 6 sai　　　Arai Village
-1. Assessed yield: 984 koku, 1 to, 5 sho, 9 go, 6 shaku, 7 sai　　　Shiraiwa Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 166 koku, 2 to, 1 go　Kobe village
-1. Assessed yield: 142 koku, 8 to, 7 go　Kuriki village
-1. Assessed yield: 481 koku, 2 to, 2 sho, 4 go　Tainashi village
-1. Assessed yield: 153 koku, 6 to, 5 sho, 4 go　Yomogi village
-1. Assessed yield: 129 koku, 3 to, 5 sho, 5 go　Sakuraiji village
-1. Assessed yield: 68 koku, 5 to, 2 sho　Terano village
-1. Assessed yield: 672 koku, 3 to, 2 sho, 2 go　Kashinoyama village
-1. Assessed yield: 185 koku, 1 to, 3 sho, 1 go　Onizawa village

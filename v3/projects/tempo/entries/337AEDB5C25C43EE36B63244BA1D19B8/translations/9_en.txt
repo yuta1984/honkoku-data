@@ -1,8 +1,0 @@
-One: Assessed rice yield 716 koku 8 to 1 sho 4 go　　　　　　《Location: Yasuka Village》
-One: Assessed rice yield 1,237 koku 7 to 8 sho 8 go　　　　《Location: Tobata Village》
-One: Assessed rice yield 409 koku 7 to 4 sho 3 go　　　　　　　《Location: Haze Village》
-One: Assessed rice yield 597 koku 1 to 7 sho 2 go　　　　　《Location: Koga Village》
-One: Assessed rice yield 532 koku 2 to　　　　　　　　　《Location: Futa Village》
-One: Assessed rice yield 484 koku 8 to　　　　　《Note: Branch village of Futa Village》《Location: Shimofuta Village》
-One: Assessed rice yield 531 koku 1 to 4 sho 8 go　《Note: Branch village of Futa Village》《Location: Isaza Village》
-One: Assessed rice yield 606 koku 6 to 7 sho 1 go　　　　　　　《Location: Hisue Village》

@@ -1,9 +1,0 @@
-Item: Assessed yield of 1,208 koku, 5 to, 3 sho, 4 go　　　《Location: Shimotogawa Village》
-　Subtotal: Assessed yield of 52,409 koku, 6 to, 8 sho, 8 go
-　　　　　　　　　　《Location: Ogi County》　144 villages
-
-
-　　　《Location: Matsuura County》
-Item: Assessed yield of 2,096 koku, 4 sho　　　　　　　《Location: Karatsu Village》
-Item: Assessed yield of 76 koku, 7 to, 3 sho, 3 go　　　　　《Location: Ōshima Village》
-Item: Assessed yield of 1,466 koku, 5 sho, 6 go　　　　《Location: Sashi Village》

@@ -1,8 +1,0 @@
-Item 1: Assessed yield 98 koku 7 to 4 go 7 shaku　　　　　《Location: Kurosawa Village》
-Item 1: Assessed yield 148 koku 2 to 3 sho 3 shaku　　　　《Location: Miroku Village》
-Item 1: Assessed yield 83 koku 7 to 6 sho 7 shaku　　　　　《Location: Matoba Village》
-Item 1: Assessed yield 343 koku 4 to 4 go 7 shaku　　　《Location: Hokomochi Village》
-Item 1: Assessed yield 148 koku 3 to 1 sho 7 go 6 shaku　　《Location: Ashizawa Village》
-Item 1: Assessed yield 675 koku 1 to 1 sho 8 go　　　《Location: Ōshima Village》《Marginal note: 【Kyūkō Kyūryō Tori-shirabechō = Only Takato Domain portion】》
-Item 1: Assessed yield 443 koku 4 to 7 sho 5 go 7 shaku　《Location: Kawate Village》
-Item 1: Assessed yield 63 koku 1 to 4 sho 5 go 7 shaku　　　《Location: Aoshima Village》

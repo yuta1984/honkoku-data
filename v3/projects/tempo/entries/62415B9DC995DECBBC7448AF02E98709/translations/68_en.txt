@@ -1,8 +1,0 @@
-One, assessed yield: 283 koku, 2 to, 2 shō, 1 gō　《Location: Komatsu Village》
-One, assessed yield: 133 koku, 8 to, 2 shō, 1 gō　　《Location: Ikeno Village》
-One, assessed yield: 333 koku, 9 to, 4 shō, 5 gō　《Location: Onaiya Village》
-One, assessed yield: 240 koku, 9 to, 1 shō　　　　《Location: Inoue Village》
-One, assessed yield: 495 koku, 1 to, 6 shō, 1 gō　《Location: Ōtani Village》
-One, assessed yield: 283 koku, 3 to, 9 shō, 3 gō　《Location: Asai Village》
-One, assessed yield: 286 koku, 5 to, 4 shō, 6 gō　《Location: Miyamae Village》
-One, assessed yield: 483 koku, 3 to　　　　　《Location: Ichiba Village》

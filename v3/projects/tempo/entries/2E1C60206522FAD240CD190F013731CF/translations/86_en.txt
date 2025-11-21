@@ -1,8 +1,0 @@
-One village with a kokudaka of 649 koku, 5 to, 7 sho: Kurahashi Village
-One village with a kokudaka of 230 koku, 2 to, 5 sho, 6 go: Shimo Village
-One village with a kokudaka of 808 koku, 2 to, 4 sho: Awahara Village
-One village with a kokudaka of 170 koku, 9 to: Sagerio Village
-One village with a kokudaka of 127 koku, 2 to, 1 sho: Minami-Otowa Village
-One village with a kokudaka of 79 koku, 7 to, 8 sho, 8 go: Kita-Otowa Village
-One village with a kokudaka of 127 koku, 9 to, 9 sho, 8 go: Hyakuichi Village
-One village with a kokudaka of 76 koku, 5 to: Harimichi Village

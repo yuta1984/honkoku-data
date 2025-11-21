@@ -1,8 +1,0 @@
-Item 1: Assessed yield 393 koku 5 to 2 sho 8 go 4 shaku《Location: Shimadate-machi Village》
-Item 1: Assessed yield 418 koku 8 to 8 sho 2 go　　　《Location: Shimoshin Village》
-Item 1: Assessed yield 590 koku 1 to 8 sho 9 go 5 shaku　《Location: Kitashin Village》
-Item 1: Assessed yield 364 koku 7 to 3 sho 6 go 6 shaku《Location: Kamishin Village》
-Item 1: Assessed yield 633 koku 6 sho 4 go　　　　《Location: Minamishin Village》
-Item 1: Assessed yield 310 koku 6 to 4 sho 6 go　　　　《Location: Higashishin Village》
-Item 1: Assessed yield 196 koku 8 to 3 sho 6 go　　　《Location: Nagata Village》
-Item 1: Assessed yield 208 koku 4 to 3 sho 2 go　　　　《Location: Nakamura Village》《Note: [Kyūkō Kyūryō Torishirabe-chō = Matsumoto Domain territory only]》

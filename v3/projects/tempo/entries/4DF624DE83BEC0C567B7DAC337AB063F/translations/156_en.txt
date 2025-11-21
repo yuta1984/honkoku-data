@@ -1,9 +1,0 @@
-Item 1: Assessed yield of 100 koku, 1 to, 5 sho, 4 go, 2 shaku, 5 sai　　　　《Location: Kizaki Village》
-Item 1: Assessed yield of 34 koku, 5 to, 8 sho, 9 go, 4 shaku　　《Location: Mori Village》
-Item 1: Assessed yield of 80 koku, 1 to, 9 sho, 2 go, 4 shaku　　　《Location: Inao Village》
-Item 1: Assessed yield of 66 koku, 4 sho, 5 go　　　　　　《Location: Shingyō-Shinden Village》
-Item 1: Assessed yield of 167 koku, 7 to, 9 sho, 3 go, 7 shaku　《Location: Nijū Village》
-　　　　　　　　　　　　　　　《Marginal note: 《Location: Ōshio Village》branch village》
-Item 1: Assessed yield of 17 koku, 8 to, 6 sho, 3 go　　　　　《Location: Kiriake Village》
-Item 1: Assessed yield of 160 koku, 4 to, 4 sho, 4 go, 3 shaku　　《Location: Ōshio Village》
-Item 1: Assessed yield of 14 koku, 7 to, 7 sho, 2 go, 3 shaku　　　《Location: Yaridaira Village》《Marginal note: [Old yield/old domain survey record = Yaridaira-Shinden Village]》

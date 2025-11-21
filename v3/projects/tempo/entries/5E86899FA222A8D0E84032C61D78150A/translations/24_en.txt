@@ -1,8 +1,0 @@
-One, assessed yield: 408 koku, 3 sho, 3 go　　　　　《Location: Matsubara Village》
-One, assessed yield: 1,020 koku, 7 to, 4 sho　　　　　《Location: Mizuhashiri Village》
-One, assessed yield: 386 koku, 4 to, 5 sho　　　《Location: Kawanaka Shinden》
-One, assessed yield: 689 koku, 4 to, 2 sho, 4 go　《Location: Shijo Village》
-One, assessed yield: 323 koku, 2 to, 7 sho　　　《Location: Gojo Village》
-One, assessed yield: 426 koku, 9 sho, 4 go　　　《Location: Zenkonji Village》
-One, assessed yield: 722 koku, 6 to, 1 sho, 2 go　《Location: Yokokoji Village》
-One, assessed yield: 921 koku, 1 to, 3 sho, 7 go　《Location: Ichiba Village》

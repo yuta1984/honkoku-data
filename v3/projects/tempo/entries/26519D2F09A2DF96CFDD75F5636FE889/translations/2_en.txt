@@ -1,8 +1,0 @@
-1. Rice yield: 510 koku, 3 to, 5 sho, 8 go, 4 shaku, 5 sai　　《Location: Juraku-cho》
-1. Rice yield: 139 koku, 5 to, 3 sho, 1 go, 6 shaku　　　《Location: Nijo Imperial Castle vicinity》
-1. Rice yield: 1,250 koku, 2 to, 4 sho, 2 go, 4 shaku　　《Location: Mibu Village》
-1. Rice yield: 881 koku, 2 to, 3 sho, 6 go　　　　《Location: Chudoji Village》
-1. Rice yield: 741 koku, 8 to, 6 go　　　　　　《Location: Hachijo Village》
-1. Rice yield: 179 koku, 5 to, 5 sho, 1 go　《Note: including Raigodo vicinity》《Location: Higashishiokoji Village》
-1. Rice yield: 1,323 koku, 1 to, 2 sho, 7 go, 3 shaku　《Location: Nishikujo Village》
-1. Rice yield: 16 koku, 1 to, 8 sho, 2 go　　　　　　《Location: Toji Temple vicinity》

@@ -1,9 +1,0 @@
-Item: Assessed yield of 1,343 koku, 9 to, 1 sho, 4 go, 5 seki
-　　　　　　　　　　　　　　　　　　　　　　　　　　《Location: Minamikushiyama Village》
-Item: Assessed yield of 3,161 koku, 8 to, 6 sho, 6 go　　　《Location: Katsusa Village》
-Item: Assessed yield of 579 koku, 7 to, 9 sho, 1 go, 2 seki　《Location: Kuchinotsu Village》
-Item: Assessed yield of 3,080 koku, 7 to, 2 sho, 5 seki　　　《Location: Minami-Arima Village》
-Item: Assessed yield of 2,802 koku, 2 to, 2 sho, 9 go, 5 seki《Location: Kita-Arima Village》
-Item: Assessed yield of 1,888 koku, 9 to, 4 sho, 1 go　　　　《Location: Kumata Village》
-Item: Assessed yield of 1,506 koku, 7 to, 4 sho, 4 go, 5 seki《Location: Arie-machi Village》
-Item: Assessed yield of 1,735 koku, 1 to, 7 sho, 1 go　　　　《Location: Arita Village》

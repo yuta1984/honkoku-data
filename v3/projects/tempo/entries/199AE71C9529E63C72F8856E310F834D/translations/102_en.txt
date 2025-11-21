@@ -1,8 +1,0 @@
-1. Assessed yield: 335 koku, 7 to, 1 sho, 5 go - Ijira, Fujikura Village
-1. Assessed yield: 387 koku, 7 to, 3 sho, 1 go - Ijira, Omori Village
-1. Assessed yield: 74 koku, 4 to, 6 sho, 2 go - Ijira, Yokkaichiba Village
-1. Assessed yield: 626 koku, 6 to, 4 sho, 3 go - Ijira, Ogura Village
-1. Assessed yield: 376 koku, 4 to, 9 sho, 5 go - Ijira, Horada Village
-1. Assessed yield: 379 koku, 2 to, 7 sho, 4 go - Ijira, Matsuo Village
-1. Assessed yield: 292 koku, 8 to, 7 sho, 9 go - Ijira, Kake Village
-1. Assessed yield: 218 koku, 5 to, 2 sho, 4 go - Ijira, Nagataki Village

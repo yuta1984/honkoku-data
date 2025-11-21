@@ -1,8 +1,0 @@
-Item: Assessed yield of 389 koku, 1 sho, 7 go　　　　　《Location: Higashi-yamada Village》
-Item: Assessed yield of 571 koku, 4 to, 4 go　　　　　《Location: Imayama Village》
-Item: Assessed yield of 130 koku, 4 to, 2 sho, 8 go　　《Location: Imakoga Village》
-Item: Assessed yield of 88 koku, 9 to, 8 sho, 4 go　　 《Location: Ekumano Village》
-Item: Assessed yield of 285 koku, 2 to, 2 sho, 6 go　　《Location: Kawakami Village》
-Item: Assessed yield of 408 koku, 7 to, 6 go　　　　　　《Location: Kubota Village》
-Item: Assessed yield of 206 koku, 1 to, 2 sho, 5 go　　《Location: Fukusho Village》
-Item: Assessed yield of 561 koku, 4 to, 5 sho, 8 go　　《Location: Shinkai Village》

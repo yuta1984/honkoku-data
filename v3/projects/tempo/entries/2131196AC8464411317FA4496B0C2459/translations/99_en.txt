@@ -1,8 +1,0 @@
-1. Assessed yield: 42 koku, 8 to, 4 shō, 6 gō　　《Location: Yonezawa Village》
-1. Assessed yield: 42 koku, 9 to, 2 shō, 5 gō　　《Location: Nichimyō Village》
-1. Assessed yield: 102 koku, 8 to, 9 shō, 9 gō　　《Location: Nakamura Village》
-1. Assessed yield: 203 koku, 7 to, 5 shō, 7 gō　　《Location: Aoya Village》
-1. Assessed yield: 57 koku, 8 to, 1 shō, 5 gō　　《Location: Sebayashi Village》
-1. Assessed yield: 177 koku, 7 to　　　　　　　　《Location: Ueno Village》
-1. Assessed yield: 151 koku, 8 to, 9 gō　　　　　《Location: Ishigami Village》
-1. Assessed yield: 157 koku, 9 to, 1 gō, 5 shaku　《Location: Nagasawa Village》

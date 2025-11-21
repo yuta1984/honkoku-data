@@ -1,8 +1,0 @@
-1. Rice yield: 17 koku, 5 to, 5 sho, 9 go　　　　　　《Location: Nakashima Village》
-1. Rice yield: 4 koku, 5 to, 5 sho, 5 go　　　　　　　《Location: Ichise Village》
-1. Rice yield: 18 koku, 6 to, 6 sho, 7 go　　　　　　　《Location: Hiroshiba Village》
-1. Rice yield: 221 koku, 5 to, 7 sho, 7 go　　　　《Location: Narutaki Village》
-1. Rice yield: 238 koku, 5 to, 1 sho, 5 go　　　　《Location: Fukuoji Village》
-1. Rice yield: 285 koku, 6 to, 7 sho, 2 go　　　　《Location: Ryoanji Temple Gate Area》
-1. Rice yield: 112 koku, 3 to, 1 sho, 1 go　　　　　《Location: Tojiin Temple Gate Area》
-1. Rice yield: 436 koku, 6 sho, 7 go, 5 shaku, 8 sai　《Location: Hirano Village》

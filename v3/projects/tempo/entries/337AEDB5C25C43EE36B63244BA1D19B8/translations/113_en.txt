@@ -1,6 +1,0 @@
-One: Assessed rice yield 225 koku 2 to 9 sho 3 go　　　《Location: Higashi-Kaizuka Village》
-One: Assessed rice yield 286 koku 3 to 2 sho 8 go 8 shaku　《Location: Nishi-Kaizuka Village》
-One: Assessed rice yield 422 koku 4 to 2 sho 1 go 6 shaku　《Location: Hagiura Village》
-One: Assessed rice yield 39 koku 6 to 5 sho 9 go　　　　　《Location: Genkaijima Village》
-　Subtotal: Assessed rice yield 48,084 koku 3 to 4 sho 1 go 6 shaku 4 sai
-　　　　　　　　　　　《Location: Shima District》　51 villages

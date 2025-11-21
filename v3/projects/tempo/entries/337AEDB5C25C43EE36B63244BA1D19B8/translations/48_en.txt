@@ -1,8 +1,0 @@
-One: Assessed rice yield 40 koku 3 to 7 sho 2 go　　《Note: Branch village of Izumikawachi Village》《Location: Kurino Village》
-One: Assessed rice yield 17 koku 7 to 2 sho　　　　《Note: Branch village of Izumikawachi Village》《Location: Takahata Village》
-One: Assessed rice yield 28 koku 4 sho　　　　　《Note: Branch village of Izumikawachi Village》《Location: Kashibata Village》
-One: Assessed rice yield 28 koku 4 to 8 sho 9 go　《Note: Branch village of Izumikawachi Village》《Location: Sebata Village》
-One: Assessed rice yield 1,000 koku 3 to 6 sho 7 go　　　　　　　　《Location: Tairiki Village》
-One: Assessed rice yield 196 koku 6 to 4 sho 6 go　《Note: Branch village of Tairiki Village》《Location: Higashibata Village》
-One: Assessed rice yield 1,416 koku 7 to 1 sho 8 shaku　　　　《Location: Saida Village》
-One: Assessed rice yield 418 koku 8 to 2 sho 9 go　《Note: Branch village of Saida Village》《Location: Kurohara Village》

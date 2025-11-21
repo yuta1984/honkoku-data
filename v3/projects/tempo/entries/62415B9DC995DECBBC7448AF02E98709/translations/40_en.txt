@@ -1,8 +1,0 @@
-One, assessed yield: 132 koku, 3 to, 2 shō, 9 gō　　《Location: Imaji Village》
-One, assessed yield: 110 koku, 5 to, 3 shō, 2 gō　　　　《Location: Takagi Village》
-One, assessed yield: 135 koku, 4 to, 6 shō　　　　《Location: Ōkuma Village》
-One, assessed yield: 184 koku, 4 to, 1 shō, 5 gō　　《Location: Kunisane Village》
-One, assessed yield: 115 koku, 1 to, 5 gō　　　　　《Location: Ōchi Village》
-One, assessed yield: 179 koku, 1 to, 4 shō, 1 gō　　《Location: Yamakawa Village》
-One, assessed yield: 333 koku, 3 to, 1 shō, 2 gō　《Location: Nakamura Village》
-One, assessed yield: 275 koku, 9 to, 8 shō, 2 gō　《Location: Taichigaki Village》

@@ -1,8 +1,0 @@
-One village with a kokudaka of 412 koku, 3 to, 8 sho, 4 go: Zenshiro Village
-One village with a kokudaka of 564 koku, 4 to, 3 sho, 7 go: Tochihara Village
-One village with a kokudaka of 523 koku, 6 to, 3 sho, 1 go: Hirohashi Village
-One village with a kokudaka of 126 koku, 3 to, 9 sho, 8 go: Tochimoto Village
-One village with a kokudaka of 107 koku, 5 to, 9 sho: Shiihara Village
-One village with a kokudaka of 158 koku, 7 to, 6 sho, 5 go: Nashiko Village
-One village with a kokudaka of 74 koku, 1 sho: Ishidodani Village
-One village with a kokudaka of 227 koku, 9 to, 3 sho, 3 go: Hirahara Village

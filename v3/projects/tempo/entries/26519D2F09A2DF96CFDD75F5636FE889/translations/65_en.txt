@@ -1,8 +1,0 @@
-1. Rice yield: 313 koku, 6 to, 8 sho　　　　　　《Location: Higashihata Village》
-1. Rice yield: 728 koku, 2 to, 8 sho　　　　　《Location: Kita-Inayama Village》
-1. Rice yield: 276 koku, 5 to, 9 sho, 6 go　《Administrative division: Shimokoma》《Location: Tani Village》
-1. Rice yield: 636 koku, 4 go　　　　　《Administrative division: Shimokoma》《Location: Sobō Village》
-1. Rice yield: 743 koku, 5 to, 3 go　　　《Administrative division: Shimokoma》《Location: Sato Village》
-1. Rice yield: 124 koku, 1 to, 8 sho, 7 go　　《Administrative division: Shimokoma》《Location: Sendō Village》
-1. Rice yield: 1,435 koku, 6 to　　　　　　《Location: Hōsono Village》
-1. Rice yield: 859 koku, 6 to, 9 sho　　　　　《Location: Hishida Village》

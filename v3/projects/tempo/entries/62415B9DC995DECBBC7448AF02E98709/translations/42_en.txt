@@ -1,8 +1,0 @@
-One, assessed yield: 139 koku, 7 to, 6 shō, 4 gō　　《Location: Owari Village》
-One, assessed yield: 583 koku, 1 to, 4 shō, 3 gō　《Location: Hadai Village》
-One, assessed yield: 487 koku, 7 to, 2 shō, 8 gō　《Location: Tsukatsumi Village》
-One, assessed yield: 439 koku, 1 to, 7 shō, 3 gō　《Location: Yae Village》
-One, assessed yield: 235 koku, 6 to, 3 shō, 8 gō　《Location: Higuchi Village》
-One, assessed yield: 197 koku, 5 to, 2 shō　　　　《Location: Ishiigaki Village》
-One, assessed yield: 27 koku, 6 to, 7 shō, 1 gō　　　《Location: Taikyūji Village》
-One, assessed yield: 310 koku, 7 to, 5 gō　　　　　《Location: Goshōin Village》

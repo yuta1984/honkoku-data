@@ -1,9 +1,0 @@
-Item 1: Assessment 74 koku, 2 sho, 9 go　　　　　　《Location: Horikiri Village》
-Item 1: Assessment 409 koku, 9 to, 9 sho, 4 go　　　《Location: Kurotani Village》
-Item 1: Assessment 314 koku, 2 to, 8 sho, 3 go　　　《Location: Tochitani Village》
-　　　　　　　　　　　　　　《Marginal note: Formerly《Location: Jogan Village》》
-Item 1: Assessment 180 koku, 9 to, 7 sho, 9 go　　　《Location: Sadamine Village》
-Item 1: Assessment 708 koku, 7 to　　　　　　　　《Location: Yamada Village》
-Item 1: Assessment 1,392 koku, 9 go　　　　　　《Location: Yokoze Village》
-Item 1: Assessment 2,046 koku, 1 to, 3 sho, 7 go　　《Location: Omiya Town》
-Item 1: Assessment 480 koku, 6 to, 2 sho, 9 go　　《Location: Onohara Village》

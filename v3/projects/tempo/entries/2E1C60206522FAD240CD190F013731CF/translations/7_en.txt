@@ -1,8 +1,0 @@
-One: Assessed yield of 246 koku, 8 to, 8 sho, 1 go, 3 shaku, 6 sai - Kubo-no-shō Village
-One: Assessed yield of 399 koku, 7 to, 6 go - Tanaka Village
-One: Assessed yield of 648 koku, 7 to, 6 sho, 3 go - Idono Village
-One: Assessed yield of 282 koku, 1 to - Ōe Village
-One: Assessed yield of 507 koku, 6 sho - Wakatsuki Village
-One: Assessed yield of 354 koku, 7 to, 7 sho - Nakashiro Village
-One: Assessed yield of 563 koku, 9 to, 2 sho - Hasshiin Village
-One: Assessed yield of 156 koku, 8 to, 6 sho - Tanaka Village (formerly Banjōtanaka Village)

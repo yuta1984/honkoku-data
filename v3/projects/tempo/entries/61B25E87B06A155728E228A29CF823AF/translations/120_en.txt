@@ -1,8 +1,0 @@
-1. Assessed yield: 216 koku, 5 to, 7 sho, 5 go　　　　　　　　　　　Higashi-Yabe village
-1. Assessed yield: 67 koku, 9 to, 6 sho, 8 go　　　　　　　　　　　 Natsume village
-1. Assessed yield: 159 koku, 3 sho, 4 go　　　　　　　　　　　　　　Monzen village
-1. Assessed yield: 105 koku, 7 to, 7 sho, 5 go　　　　　　　　　　　Shitara village
-1. Assessed yield: 302 koku, 2 sho, 5 go　　　　　　　　　　　　　　Kawaji village
-1. Assessed yield: 233 koku, 8 to, 2 go　　　　　　　　　　　　　　 Iwahiro village
-1. Assessed yield: 49 koku, 5 to, 8 sho, 5 go　　　　　　　　　　　 Otsubo village
-1. Assessed yield: 123 koku, 5 to, 9 sho, 6 go　　　　　　　　　　　Kusabe village

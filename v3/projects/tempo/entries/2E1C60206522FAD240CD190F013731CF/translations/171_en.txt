@@ -1,8 +1,0 @@
-One village with a kokudaka of 2 koku, 8 to, 5 sho: Takioka Village (branch village of Suginose Village)
-One village with a kokudaka of 1 koku, 5 sho: Koi Village (branch village of Suginose Village)
-One village with a kokudaka of 9 to, 9 sho: Yokokake Village (branch village of Suginose Village)
-One village with a kokudaka of 3 koku, 1 to, 3 sho: Unetani Village (branch village of Suginose Village)
-One village with a kokudaka of 1 koku, 7 to, 8 sho: Minamimata Village (branch village of Suginose Village)
-One village with a kokudaka of 12 koku, 6 to, 3 sho, 5 go, 7 shaku: Kawazu Village
-One village with a kokudaka of 5 koku, 5 to, 3 sho, 7 go, 1 shaku: Tsukoshino Village (branch village of Kawazu Village)
-One village with a kokudaka of 6 koku, 5 to, 8 go, 9 shaku: Yanohara Village (branch village of Kawazu Village)

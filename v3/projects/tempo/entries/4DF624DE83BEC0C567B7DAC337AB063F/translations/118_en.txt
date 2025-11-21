@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 869 koku, 2 to, 2 sho, 5 go　　《Location: Tōgō》
-Item 1: Assessed yield of 674 koku, 4 to, 8 sho, 9 go　　《Location: Muramatsu-gō》
-Item 1: Assessed yield of 1,111 koku, 3 to, 1 sho, 6 go　《Location: Tazawa Village》
-Item 1: Assessed yield of 613 koku, 3 to, 1 sho, 5 go　　《Location: Naramoto Village》
-Item 1: Assessed yield of 189 koku, 2 to, 9 sho, 2 go　　《Location: Kutsukake Village》
-Item 1: Assessed yield of 569 koku, 7 to, 2 sho, 8 go　　《Location: Fukami Village》
-Item 1: Assessed yield of 284 koku, 5 to, 1 go　　　　　《Location: Tonodo Village》
-Item 1: Assessed yield of 351 koku, 1 to, 8 sho, 7 go　　《Location: Koshido Village》

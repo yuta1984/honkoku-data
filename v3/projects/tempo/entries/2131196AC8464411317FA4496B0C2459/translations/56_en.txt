@@ -1,8 +1,0 @@
-1. Assessed yield: 229 koku, 8 to, 1 shō　　　　　　　《Location: Higashiyama Village》
-1. Assessed yield: 1,312 koku, 3 to, 2 shō, 2 gō　　　　《Location: Matsubara Village》
-1. Assessed yield: 399 koku, 2 shō　　　　　　　　　　《Location: Hatsukoshi Village》
-1. Assessed yield: 448 koku, 6 to, 5 shō, 3 shaku　　　　《Location: Nishigasaki Village》
-1. Assessed yield: 594 koku, 2 to, 4 shō, 9 gō, 3 shaku, 3 sai　《Location: Nakano Village》
-1. Assessed yield: 15 koku, 4 to, 6 shō　　　　　　　　《Location: Miike Shinden》
-1. Assessed yield: 21 koku, 6 to, 7 shō, 5 gō　　　　　《Location: Ninoike Shinden》
-1. Assessed yield: 2 koku, 7 to　　　　　　　　　　　《Location: Shikengawa Shinden》

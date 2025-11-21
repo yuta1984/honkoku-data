@@ -1,8 +1,0 @@
-Item 1: Assessment 284 koku, 4 to, 5 sho, 8 go　　《Location: Koigakubo Village》
-Item 1: Assessment 1,484 koku, 6 to, 4 sho, 4 go　　《Location: Tanashi Village》
-Item 1: Assessment 215 koku, 2 to, 2 sho, 9 go　　　《Location: Ochiai Village》
-Item 1: Assessment 252 koku, 2 to, 3 sho, 1 go　　　《Location: Kamiyama Village》
-Item 1: Assessment 483 koku, 3 to, 1 sho, 3 go　　　《Location: Minamisawa Village》
-Item 1: Assessment 167 koku　　　　　　　　　　《Location: Monzen Village》
-Item 1: Assessment 320 koku, 9 to, 6 sho, 8 go　　　《Location: Maezawa Village》
-Item 1: Assessment 102 koku, 8 to, 4 sho, 5 go　　　《Location: Yanagikubo Village》

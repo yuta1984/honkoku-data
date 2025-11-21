@@ -1,8 +1,0 @@
-《Location: Joza County》
-One: Assessed rice yield 651 koku 1 to 9 sho 6 shaku　　　　　　　　《Location: Ishinari Village》
-One: Assessed rice yield 1,460 koku 5 to 9 sho 5 go 4 shaku　　　　　　《Location: Oba Village》
-One: Assessed rice yield 1,394 koku 6 to 2 sho 8 go 9 shaku　《Note: Branch village of Oba Village》《Location: Shimo-Oba Village》
-One: Assessed rice yield 727 koku 2 to 3 go 9 shaku　　　　　　　　《Location: Nagafuchi Village》
-One: Assessed rice yield 2,084 koku 3 to 5 sho 5 go 4 shaku　　　　　　《Location: Nyuchi Village》
-One: Assessed rice yield 1,056 koku 7 to 7 sho 3 go　　　　　　　　《Location: Miyano Village》
-One: Assessed rice yield 390 koku 1 to 8 sho 7 go　　　　　　　　《Location: Karashuin Village》

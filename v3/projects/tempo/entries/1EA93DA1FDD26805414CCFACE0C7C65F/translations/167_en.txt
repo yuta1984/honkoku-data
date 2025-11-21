@@ -1,8 +1,0 @@
-Item 1: Assessment 144 koku, 1 to, 5 sho, 6 go　　　　《Location: Okuzawa Village》
-Item 1: Assessment 367 koku, 9 to, 1 sho, 2 bu, 8 shaku　《Location: Mido Village》
-Item 1: Assessment 197 koku, 3 to, 3 sho, 7 go　　　　《Location: Minatani Village》
-Item 1: Assessment 95 koku, 9 to, 4 go　　　　　　　《Location: Shiraishi Village》
-Item 1: Assessment 298 koku, 3 to, 1 sho, 8 go　　　《Location: Sakamoto Village》
-Item 1: Assessment 206 koku, 9 sho, 5 go　　　　　　《Location: Ouchi-zawa Village》
-Item 1: Assessment 95 koku, 5 to, 6 sho, 1 go　　　　《Location: Funo Village》
-Item 1: Assessment 128 koku, 4 to, 1 go　　　　　　　《Location: Kanao Village》

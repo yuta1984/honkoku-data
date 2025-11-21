@@ -1,9 +1,0 @@
-Item: Assessed yield of 647 koku, 4 to, 7 sho, 4 go　　　《Location: Kiura Mountain》
-Item: Assessed yield of 486 koku, 6 sho, 1 go　　　　　《Location: Nibu Mountain》
-Item: Assessed yield of 669 koku, 8 to, 5 sho, 9 go　　　《Location: Shiraki Mountain》
-Item: Assessed yield of 648 koku, 5 to, 7 sho, 6 go　　　《Location: Fujikawa Mountain》
-Item: Assessed yield of 487 koku, 1 to, 7 sho, 4 go　　　《Location: Magawa Mountain》
-Item: Assessed yield of 262 koku, 5 to, 8 sho, 1 go　　　《Location: Arakawa Mountain》
-Item: Assessed yield of 305 koku, 4 sho, 2 go　　　　　　《Location: Hirano Mountain》
-《Marginal note: Within Hirano Mountain》
-Item: Assessed yield of 60 koku, 6 to, 1 sho, 3 go　　　　《Location: Torigoe》

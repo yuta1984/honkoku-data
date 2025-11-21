@@ -1,8 +1,0 @@
-1. Rice yield: 2,035 koku, 6 to, 7 sho, 9 go　《Location: Saraku Village》
-1. Rice yield: 297 koku, 3 to, 6 sho, 5 go　《Location: Zakuro Village》
-1. Rice yield: 486 koku, 8 to, 7 sho, 6 go　《Location: Inuidani Village》
-1. Rice yield: 527 koku, 3 to, 9 sho, 6 go　《Location: Yamada Village》
-1. Rice yield: 726 koku, 3 sho, 3 go　　　《Location: Haze Village》
-1. Rice yield: 422 koku, 4 to, 2 sho　　　《Location: Sugai Village》
-1. Rice yield: 355 koku, 3 to, 9 sho, 9 go　《Location: Ueda Village》
-1. Rice yield: 859 koku, 1 to, 2 sho, 8 go　《Location: Minami-Inayazuma Village》

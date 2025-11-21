@@ -1,8 +1,0 @@
-Item 1: Assessment 437 koku, 6 to, 5 sho, 6 shaku　　　　　　《Location: Hisamoto Village》
-Item 1: Assessment 339 koku, 7 sho, 1 go　　　　　　　　　《Location: Taira Village》
-Item 1: Assessment 3 koku, 1 to, 5 sho, 4 go　　　　　　　　　《Location: Fujie Shinden》
-Item 1: Assessment 407 koku, 5 to, 3 sho, 4 go　　　　　　　《Location: Shimo-Sugao Village》
-Item 1: Assessment 137 koku, 3 sho, 7 go　　　　　　　　　《Location: Dobashi Village》
-Item 1: Assessment 526 koku, 2 to, 2 sho, 2 go, 3 shaku, 4 sai　　《Location: Makynu Village》
-Item 1: Assessment 471 koku, 2 to, 3 sho, 2 go, 4 shaku, 4 sai　　《Location: Arima Village》【Arima Village?】
-Item 1: Assessment 244 koku, 1 to, 1 sho, 3 go　　　　　　《Location: Kajigaya Village》

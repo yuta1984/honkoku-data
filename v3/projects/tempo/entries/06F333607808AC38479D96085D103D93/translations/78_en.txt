@@ -1,8 +1,0 @@
-One, assessed yield 77 koku 3 to 5 shō 6 gō　　　　《Location: Hitoichi Village》
-One, assessed yield 102 koku 9 to 9 shō 4 gō　　　　《Location: Mae-Minato Village》
-One, assessed yield 529 koku 3 to 5 shō 6 gō　　《Location: Higashi-Tanishi Village》
-One, assessed yield 141 koku 9 shō 3 gō　　　　　《Location: Nishi-Tanishi Village》
-One, assessed yield 1,134 koku 7 to 2 shō 5 gō　　《Location: Onnabuchi Village》
-One, assessed yield 458 koku 3 shō 8 gō 8 seki 5 sai《Location: Komi-Minato Village》
-One, assessed yield 353 koku 1 to 2 shō 2 gō　　《Location: Araya Village》
-One, assessed yield 331 koku 9 to 1 shō 2 gō　　《Location: Shimo-Ōya Village》

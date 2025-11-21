@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 1,389 koku, 4 to, 8 sho　　　《Location: Mori Village》
-Item 1: Assessed yield of 862 koku, 8 sho　　　　　　《Location: Kurashina Village》
-Item 1: Assessed yield of 1,033 koku, 2 to, 8 sho　　　　　《Location: Seino Village》
-Item 1: Assessed yield of 171 koku, 1 to, 4 sho　　　　　《Location: Kamiya-machi》《Notation: [Kyūkō Kyūryō Torishirabe-chō = Matsushiro-machi]》
-Item 1: Assessed yield of 1,404 koku, 4 to, 2 sho　　　　　《Location: Nishijō Village》
-Item 1: Assessed yield of 277 koku, 6 to, 3 sho, 5 go　　《Location: Hirabayashi Village》
-Item 1: Assessed yield of 354 koku, 3 to　　　　　　《Location: Sekiya Village》
-Item 1: Assessed yield of 147 koku, 6 to, 7 sho, 2 go　　《Location: Kuwanei Village》

@@ -1,9 +1,0 @@
-1. Assessed yield: 442 koku, 3 to, 8 sho, 2 go 《Location: Nakano Village》
-1. Assessed yield: 691 koku, 8 to, 5 sho, 9 go, 4 saku 《Location: Ueno Village》
-1. Assessed yield: 141 koku, 6 to, 5 sho, 5 go, 2 saku 《Location: Imaizumi Village》
-1. Assessed yield: 545 koku, 8 to, 2 sho, 2 go 《Location: Iwase Village》
-
-1. Assessed yield: 294 koku, 4 to, 9 sho, 5 go, 4 saku 《Location: Katsura Village》
-1. Assessed yield: 473 koku, 3 to, 7 sho, 2 go 《Location: Koden Village》
-1. Assessed yield: 816 koku, 8 to, 4 sho, 6 saku 《Location: Kasama Village》
-1. Assessed yield: 83 koku, 5 to 《Location: Nagaodai Village》

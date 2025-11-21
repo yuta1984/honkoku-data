@@ -1,8 +1,0 @@
-One village with a kokudaka of 60 koku, 8 to, 7 sho, 7 go: Nakagishi Village (Funanokawa)
-One village with a kokudaka of 49 koku, 8 to, 1 sho, 9 go: Nakai Bōji Village (Funanokawa)
-One village with a kokudaka of 72 koku, 7 to, 3 sho, 6 go: Sōtani Village (Funanokawa)
-One village with a kokudaka of 68 koku, 7 to, 5 sho, 1 go: Shinohara Village (Funanokawa)
-One village with a kokudaka of 116 koku, 4 to, 6 sho: Nagase Village
-One village with a kokudaka of 79 koku, 9 to, 9 sho, 2 go: Katsurahara Village
-One village with a kokudaka of 170 koku, 3 sho, 7 go: Kasagi Village
-One village with a kokudaka of 64 koku, 3 to, 7 go: Oyoshino Village

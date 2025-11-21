@@ -1,8 +1,0 @@
-One: Assessed yield of 1,597 koku, 7 to, 3 sho - Koizumi Village
-One: Assessed yield of 553 koku, 2 to, 2 sho, 5 go - Manganji Village
-One: Assessed yield of 694 koku, 6 to, 5 sho, 4 go - Kominami Village
-One: Assessed yield of 215 koku, 4 to, 2 sho, 3 go - Toyoura Village
-One: Assessed yield of 764 koku, 5 to, 2 sho, 8 go - Araki Village
-One: Assessed yield of 843 koku, 9 to, 9 sho - Tanaka Village
-One: Assessed yield of 672 koku, 9 to, 6 sho - Takada Village
-One: Assessed yield of 298 koku, 2 to, 5 sho - Nogaiuchi Village

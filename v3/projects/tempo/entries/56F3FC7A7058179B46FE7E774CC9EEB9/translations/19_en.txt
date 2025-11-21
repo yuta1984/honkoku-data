@@ -1,8 +1,0 @@
-Item: Assessed yield of 932 koku, 5 to, 6 go　　　　《Location: Motohori Village》
-Item: Assessed yield of 682 koku, 5 to, 2 sho, 6 go　《Location: Nomegasato Village》
-Item: Assessed yield of 923 koku, 9 to, 5 sho, 8 go　《Location: Kami-naotori Village》
-Item: Assessed yield of 751 koku, 4 go　　　　　　　《Location: Shimo-naotori Village》
-Item: Assessed yield of 396 koku, 2 sho, 4 go　　　　《Location: Motoyoshimuta Village》
-Item: Assessed yield of 639 koku, 6 to, 1 sho, 4 go　《Location: Kanzaki Town》
-Item: Assessed yield of 453 koku, 1 to, 2 sho, 3 go　《Location: Ōishi Village》
-Item: Assessed yield of 443 koku, 6 to, 2 sho, 9 go　《Location: Nagauta Village》

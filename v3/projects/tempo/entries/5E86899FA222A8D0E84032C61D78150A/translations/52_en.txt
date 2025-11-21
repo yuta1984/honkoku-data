@@ -1,8 +1,0 @@
-One, assessed yield: 199 koku, 3 to, 5 go　　　　《Location: Higashishiro Village》
-One, assessed yield: 1,340 koku, 1 to, 6 sho, 8 go　《Location: Nagahara Village》
-One, assessed yield: 626 koku, 1 to, 3 sho　　　《Location: Kawabe Village》
-One, assessed yield: 446 koku, 2 to, 2 sho, 2 go　《Location: Ohori Village》
-One, assessed yield: 401 koku, 6 to, 3 sho, 1 go　《Location: Wakabayashi Village》
-One, assessed yield: 467 koku, 5 to, 6 sho, 4 go　《Location: Ogawa Village》
-One, assessed yield: 366 koku, 6 to, 8 sho, 5 go　《Location: Shimaizumi Village》
-One, assessed yield: 369 koku, 8 to, 1 sho, 4 go　《Location: Higashi-Otsuka Village》

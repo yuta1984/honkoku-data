@@ -1,9 +1,0 @@
-Oshimi District
-
-One village with a kokudaka of 705 koku, 1 to, 3 sho, 2 go: Yanagihara Village
-One village with a kokudaka of 124 koku, 5 to, 6 sho, 6 go: Imaki Village (branch village of Yanagihara Village)
-One village with a kokudaka of 420 koku, 3 sho, 2 go: Shin Village (branch village of Yanagihara Village)
-One village with a kokudaka of 82 koku, 3 to, 5 sho, 5 go: Deyashiki Village (branch village of Yanagihara Village)
-One village with a kokudaka of 345 koku, 6 to, 4 sho, 5 go: Kitajusan Village
-One village with a kokudaka of 268 koku, 9 to, 9 sho: Higashitsuji Village
-One village with a kokudaka of 421 koku, 7 to, 9 sho, 7 go: Haji Village

@@ -1,8 +1,0 @@
-- Assessed rice yield: 338 koku 5 to 9 shō 6 gō - Location: Takabettō Village
-- Assessed rice yield: 300 koku 1 to 3 shō 4 gō - Location: Furuya Village
-- Assessed rice yield: 308 koku 3 to 6 shō 2 gō - Location: Omata Village
-- Assessed rice yield: 856 koku 9 to 8 shō 9 gō - Location: Haraichi Village
-- Assessed rice yield: 173 koku 2 to 3 shō 6 gō - Location: Yanase Village
-- Assessed rice yield: 1,005 koku 5 to 2 shō 7 gō - Location: Shimo-Isobe Village
-- Assessed rice yield: 1,443 koku 2 to 3 shō 5 gō - Location: Saginomiya Village
-- Assessed rice yield: 736 koku 1 to 6 shō 4 gō - Location: Nakanoya Village

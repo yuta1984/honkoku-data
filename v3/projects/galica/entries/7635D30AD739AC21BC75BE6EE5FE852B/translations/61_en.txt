@@ -1,5 +1,0 @@
-Exit/Go out (Ashin | Itasu)　Enter (Afun | Iru)　Store/Put in (Womare | Iru)　Ascend (Yanke | Noboru) [Rikishi]　Descend (Ranke | Kutaru) [Atsura]
-Drink (Igu | Nomu)　Eat (Ibe | Kuu) [Makurafu]　See (Nukaru | Miru)　Listen (Nuu | Kiku)　Say (Itaku | Ifu)
-[Not say (Shi-yomo itaku | Ihazu)]　[Do not say (Iteki itaku | Ifu koto naki)]　Exist/Have (Anu | Aru) [An]　[Not exist (Ishi-yama | Naki)]　[Not (Shi-yomo | Saru zu)]
-Raise (Yange | Age)　Lower (Ama | Orosu)　Stand (Itarashi | Tatsu)　Be/Stay (Wokai | Woru)　Sit (Urun-guru | Suwaru)
-Kneel (Kiriyauseri | Hisamatsuku)　Advance (Ramushima | Susumu)　Retreat (Homokano | Shirisoku) [Hamaka]　Flee (Kira | Nigeru)　Chase (Noshipa | Ou)

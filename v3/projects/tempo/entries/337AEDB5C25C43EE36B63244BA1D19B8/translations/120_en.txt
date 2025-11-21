@@ -1,8 +1,0 @@
-One: Assessed rice yield 437 koku 7 to 7 sho 3 go　　《Location: Kaburi Village》
-One: Assessed rice yield 720 koku 2 to 7 sho 9 go　　　《Location: Tanaka Village》
-One: Assessed rice yield 532 koku 2 to 2 sho 8 go　　《Location: Hamakubo Village》
-One: Assessed rice yield 735 koku 1 to 5 sho 6 go　　《Location: Matsusue Village》
-One: Assessed rice yield 661 koku 4 to 8 sho 2 go　　《Location: Katayama Village》
-One: Assessed rice yield 2,173 koku 3 sho 1 go 1 shaku　《Location: Fukae Village》
-One: Assessed rice yield 725 koku 1 to 3 sho 9 go　　《Location: Kawahara Village》
-One: Assessed rice yield 751 koku 9 sho 2 go　　　　《Location: Yodogawa Village》

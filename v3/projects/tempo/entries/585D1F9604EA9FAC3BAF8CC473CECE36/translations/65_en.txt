@@ -1,8 +1,0 @@
-1. Assessed yield: 396 koku, 1 to, 7 sho, 7 go, 4 shaku - Sakaikoya Village
-1. Assessed yield: 305 koku, 5 sho, 6 go, 4 shaku - Kitasakai Village
-1. Assessed yield: 365 koku, 5 to, 1 sho, 7 go, 9 shaku - Terauchi Village
-1. Assessed yield: 1,275 koku, 2 to, 3 sho, 8 go, 1 shaku - Ōishi Village
-1. Assessed yield: 473 koku, 6 to, 8 sho, 4 go, 9 shaku - Kanaisawa Village
-1. Assessed yield: 29 koku, 4 to, 2 sho, 1 go, 5 shaku - Minamikoya Village
-1. Assessed yield: 835 koku, 5 to, 3 sho, 7 shaku - Yokoshiro Village
-1. Assessed yield: 867 koku, 7 sho, 9 go - Tekurata Village

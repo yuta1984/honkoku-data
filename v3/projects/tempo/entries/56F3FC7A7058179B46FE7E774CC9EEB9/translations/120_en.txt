@@ -1,8 +1,0 @@
-Item: Assessed yield of 26 koku, 3 to, 4 sho, 6 go, 8 seki, 6 sai　　《Location: Arakawa Village》
-Item: Assessed yield of 20 koku, 7 to, 8 sho, 5 go, 4 seki, 5 sai　　《Location: Mikano-ura Village》
-Item: Assessed yield of 107 koku, 9 to, 7 sho　　　　　　　　　　　　《Location: Imasato Village》
-Item: Assessed yield of 5 koku, 7 to, 1 sho, 2 go　　　　　　　　　　《Location: Mitsudoi Village》
-Item: Assessed yield of 46 koku, 4 to, 2 sho, 6 go　　　　　　　　　　《Location: Tsuzukiura Village》
-Item: Assessed yield of 75 koku, 9 to, 2 sho, 4 go　　　　　　　　　　《Location: Rokushima》
-Item: Assessed yield of 80 koku, 8 to, 4 sho, 5 go　　　　　　　　　　《Location: Nozakishima》
-Item: Assessed yield of 107 koku, 7 to, 8 go　　　　　　　　　　　　　《Location: Oshima》

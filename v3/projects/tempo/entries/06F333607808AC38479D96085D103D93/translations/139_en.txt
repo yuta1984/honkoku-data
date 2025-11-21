@@ -1,8 +1,0 @@
-- Assessed rice yield: 181 koku 5 to 9 shō　　　　　Location: Tateishi-shinden
-- Assessed rice yield: 286 koku 9 to 7 shō 3 gō　　Location: Nakajima Village
-- Assessed rice yield: 727 koku 3 to 8 gō　　　　　Location: Mori Village
-- Assessed rice yield: 1,072 koku 3 to 2 shō 4 gō　　Location: Naka Village
-- Assessed rice yield: 648 koku 9 to 3 shō 9 gō　　Location: Mori-shinden Village
-- Assessed rice yield: 1,376 koku 3 gō 5 shaku　　　Location: Akutsu Village
-- Assessed rice yield: 606 koku 4 to 2 shō 3 gō　　Location: Negoya Village
-- Assessed rice yield: 1,125 koku 4 to 9 shō 4 gō 5 shaku　Location: Kibe Village

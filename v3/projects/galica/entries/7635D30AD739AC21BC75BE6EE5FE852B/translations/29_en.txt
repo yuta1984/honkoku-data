@@ -1,5 +1,0 @@
-Village (Ta・Mura) Tree shade (Nikuri・Kokage) Temporary hut (Kutchiya・Kariya) Soil (Toi・Tsuchi) Stone (Shuma・Ishi)
-Sand (Ota・Suna) Water (Wakka・Mizu) Tide (Chiu・Shio) Ice (Rubushi・Koori)(Konru) Earthquake (Buyara・Furuu ugoku)
-East (Menashi・Higashi) West (Horefuni・Nishi) South (Hikata・Minami) North (Beshikanbe・Kita) Northeast (Chikaine)
-Southeast (Ikamenashi) Northwest (Taba・Ame) Southwest (Otabeka・Tsuchi) Spring (Baikaru・Haru) Summer (Shaku・Natsu)
-Autumn (Tsuku・Aki) Winter (Mata・Fuyu) Cold (Mean・Samusa) Warm (Shirubotsuke・Atataka) Daytime (Tonoshike・Hiru)

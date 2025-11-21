@@ -1,8 +1,0 @@
-One village with a kokudaka of 117 koku, 4 to, 6 sho, 9 go, 5 shaku: Deyashiki Village
-One village with a kokudaka of 202 koku, 6 to, 8 sho: Koyama Village
-One village with a kokudaka of 357 koku, 3 to, 5 sho: Okuyama Village
-One village with a kokudaka of 43 koku, 1 to, 1 sho, 7 go: Yatsuri Village
-One village with a kokudaka of 226 koku, 8 sho, 7 go: Ikazuchi Village
-One village with a kokudaka of 435 koku, 1 to, 2 sho, 9 go: Asuka Village
-One village with a kokudaka of 66 koku, 5 to, 9 sho: Higashiyama Village (branch village of Asuka Village)
-One village with a kokudaka of 353 koku, 5 to, 3 sho, 9 go, 6 shaku: Kawahara Village and Koyamada Village (formerly Kawahara Village, two villages)

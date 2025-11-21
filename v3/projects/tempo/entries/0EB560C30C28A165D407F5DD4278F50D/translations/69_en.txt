@@ -1,9 +1,0 @@
-1. Assessed yield: 326 koku, 9 sho, 2 go　　　　　　　　《Location: Zenba Village》
-1. Assessed yield: 1,212 koku, 6 to, 6 sho, 8 go, 5 shaku　　　　《Location: Ochihata Village》
-1. Assessed yield: 686 koku, 6 to, 1 sho, 9 go, 6 shaku　　　《Location: Kita-Yana Village》
-1. Assessed yield: 921 koku, 3 to, 3 sho, 5 go, 2 shaku, 8 sai　《Location: Minami-Yana Village》
-1. Assessed yield: 402 koku, 1 to, 3 sho, 8 go　　　　　　　《Location: Nagoki Village》
-1. Assessed yield: 664 koku, 5 to, 3 sho, 6 go, 3 shaku　　　　《Location: Terayama Village》
-1. Assessed yield: 341 koku, 9 to, 7 sho, 6 go　　　　　　　《Location: Ochiai Village》
-1. Assessed yield: 1,677 koku, 4 to, 6 sho, 3 go, 6 shaku　　　《Location: Soya Village》
-[In the Old Assessment and Domain Records Database, Soya Village is written as Sōya Village.]

@@ -1,8 +1,0 @@
-One: Assessed rice yield 280 koku 7 to 9 go　　　　　　《Location: Noma Village》
-One: Assessed rice yield 166 koku 4 to 7 go　　　　　　《Location: Kamihata Village》
-One: Assessed rice yield 786 koku 7 to 3 sho 2 shaku　　　《Location: Yamada Village》
-One: Assessed rice yield 466 koku 5 to 1 sho 7 go 8 shaku　《Location: Tokiri Village》
-One: Assessed rice yield 672 koku 3 to 5 sho 7 go　　　《Location: Edamitsu Village》
-One: Assessed rice yield 812 koku 2 to 1 sho 9 go　　　　《Location: Okura Village》
-One: Assessed rice yield 330 koku 2 to 9 sho 9 shaku　　　　《Location: Nakahara Village》
-One: Assessed rice yield 554 koku 6 to 6 sho 5 go　　　《Location: Kotake Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 84 koku, 8 to, 2 shō, 1 gō　　　　　　《Location: Akura Village》
-1. Assessed yield: 122 koku, 2 to, 5 shō　　　　　　　　　《Location: Ōhira Village》
-1. Assessed yield: 52 koku, 4 gō　　　　　　　　　　　　　《Location: Iwamuro Village》
-1. Assessed yield: 37 koku, 6 to, 7 shō, 6 gō　　　　　　　《Location: Mushiō Village》
-1. Assessed yield: 24 koku, 4 to, 1 shō, 5 gō　　　　　　　《Location: Manze Village》
-1. Assessed yield: 71 koku, 9 to, 6 shō, 1 gō　　　　　　　《Location: Tadaki Village》
-1. Assessed yield: 496 koku, 5 to, 8 shō, 1 gō　　　　　　　《Location: Santō Village》
-1. Assessed yield: 531 koku, 8 to, 4 shō, 2 gō, 3 shaku　　　《Location: Funaaki Village》

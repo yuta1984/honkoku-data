@@ -1,8 +1,0 @@
-One village with a kokudaka of 920 koku, 3 to: Anagura Village
-One village with a kokudaka of 746 koku, 5 to, 2 sho, 5 go: Kawai Village
-One village with a kokudaka of 614 koku, 4 to: Choraku Village
-One village with a kokudaka of 250 koku, 8 to, 7 sho, 5 go: Ikebe Village
-One village with a kokudaka of 260 koku, 9 to, 5 sho, 1 go: Yamanobou Village
-One village with a kokudaka of 662 koku, 4 to, 1 sho: Sawa Village
-One village with a kokudaka of 758 koku, 8 sho, 8 go: Hashio-Kayano Village
-One village with a kokudaka of 265 koku, 5 to, 7 sho (Hashio): Minami Village

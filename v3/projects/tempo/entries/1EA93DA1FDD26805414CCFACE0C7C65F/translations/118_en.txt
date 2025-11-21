@@ -1,8 +1,0 @@
-Item 1: Assessment 1,483 koku, 3 to, 7 sho, 3 go　　　　《Location: Kogure Village》
-Item 1: Assessment 772 koku, 9 sho, 7 go　　　　　　《Location: Shimohoya Village》
-Item 1: Assessment 92 koku, 4 to, 3 sho, 6 go　　　　　《Location: Shimohoya Shinden》
-Item 1: Assessment 1,339 koku, 2 to, 8 sho, 4 go　　　《Location: Kamihoya Village》
-Item 1: Assessment 183 koku, 4 to, 1 sho, 3 go　　　　《Location: Kamihoya Shinden》
-Item 1: Assessment 3 to, 4 sho, 8 go　　　　　　　　　《Location: Hirosawahara Shinden》
-　Subtotal　Assessment 14,248 koku, 7 to, 5 sho, 9 go, 1 shaku, 2 sai
-　　　　　　　　　　　　　　　《Location: Niiza District》　37 villages

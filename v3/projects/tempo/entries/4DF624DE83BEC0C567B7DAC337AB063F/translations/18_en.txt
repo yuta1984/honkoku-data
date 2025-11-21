@@ -1,8 +1,0 @@
-Item 1: Assessed yield 27 koku 8 go　　　　　　　　《Location: Gokamura Shinden》
-Item 1: Assessed yield 126 koku 9 to 1 sho 6 go　　　《Location: Yanaike Village》
-Item 1: Assessed yield 84 koku 3 to 5 go　　　　　　《Location: Kagikake Village》
-Item 1: Assessed yield 53 koku 5 to 2 go　　　　　　《Location: Umanagare Village》
-Item 1: Assessed yield 48 koku 4 to 7 sho 7 go　　　　《Location: Honmagawa Village》
-Item 1: Assessed yield 18 koku 6 to 5 sho 9 go　　　　《Location: Miyanoshita Village》
-Item 1: Assessed yield 83 koku 6 to 9 sho 8 go　　　　《Location: Honma Village》
-Item 1: Assessed yield 61 koku 9 to 3 sho 4 go　　　　《Location: Umakoshi Village》

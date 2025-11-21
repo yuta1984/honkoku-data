@@ -1,8 +1,0 @@
-1. Assessed yield: 81 koku, 8 to, 1 sho, 6 go　　　　　　　　　　　　Yanagida village
-1. Assessed yield: 184 koku, 6 to, 9 go　　　　　　　　　　　　　　　Shimoshimo village
-1. Assessed yield: 62 koku, 4 to, 3 sho, 2 go, 3 shaku　　　　　　　Seida village
-1. Assessed yield: 275 koku, 3 to, 5 sho, 2 go, 7 shaku　　　　　　　Ariumi village
-1. Assessed yield: 217 koku, 4 to, 5 sho, 8 go　　　　　　　　　　　　Oumi village
-1. Assessed yield: 111 koku, 3 to, 7 sho, 3 go　　　　　　　　　　　　Miyawaki village
-1. Assessed yield: 91 koku, 1 to, 4 sho, 2 go　　　　　　　　　　　　 Nakouda village
-1. Assessed yield: 73 koku, 2 to, 1 sho, 5 go　　　　　　　　　　　　 Morinaga village

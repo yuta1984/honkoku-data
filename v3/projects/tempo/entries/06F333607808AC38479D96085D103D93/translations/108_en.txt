@@ -1,8 +1,0 @@
-- Assessed rice yield: 36 koku 6 to 8 shō 6 gō - Location: Anogawa Village
-- Assessed rice yield: 27 koku 9 to 2 shō 5 gō - Location: Tanigawa Village
-- Assessed rice yield: 15 koku 8 gō - Location: Kanosawa Village
-- Assessed rice yield: 3 koku 6 to 3 shō 4 gō - Location: Yoshimoto Village
-- Assessed rice yield: 36 koku 2 to 3 shō 6 gō - Location: Ōana Village
-- Assessed rice yield: 11 koku 8 to 2 shō 2 gō - Location: Kōchi Village
-- Assessed rice yield: 9 koku 2 to 7 shō 9 gō - Location: Yubiso Village
-- Assessed rice yield: 30 koku 7 to 1 shō 9 gō - Location: Tsunako Village

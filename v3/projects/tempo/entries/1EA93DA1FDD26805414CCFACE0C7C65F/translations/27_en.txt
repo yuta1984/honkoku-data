@@ -1,9 +1,0 @@
-Item 1: Assessment 627 koku, 1 to, 3 sho, 7 go　　《Location: Higashi-Omori Village》
-Item 1: Assessment 463 koku, 7 to, 4 sho　　　　《Location: Kita-Omori Village》
-Item 1: Assessment 302 koku, 5 to　　　　　　　　　《Location: Shimobukuro Village》
-Item 1: Assessment 683 koku, 1 to, 7 sho, 3 go　　　《Location: Kojiya Village》
-　　　　　　　　　　　　　《Marginal note: 《Location: Kamata Shinjuku Village》branch village｜》
-Item 1: Assessment 43 koku, 5 to, 9 sho, 1 go　　　　　《Location: Hamatake Village》
-Item 1: Assessment 87 koku, 5 to, 9 go　　　　　《Location: Haneda Ryōshi Village》
-Item 1: Assessment 458 koku, 8 to, 8 sho, 1 go　　　《Location: Haneda Village》
-Item 1: Assessment 133 koku, 3 to, 6 sho, 7 go　　　《Location: Suzuki Shinden》

@@ -1,8 +1,0 @@
-Item 1: Assessed yield 1,036 koku 4 to 9 sho 8 go　　　《Location: Mochizuki Village》
-Item 1: Assessed yield 146 koku 1 to 7 sho 8 go　　　《Location: Mochizuki Shinmachi》《Marginal note: 【According to the Old Assessment Old Domain Survey Records = Mochizuki Shinden】》
-Item 1: Assessed yield 681 koku 3 to 4 sho 6 go　　　《Location: Yomogida Village》
-Item 1: Assessed yield 491 koku 1 to 9 sho 3 go　　　《Location: Hachiman Village》《Marginal note: 【According to the Old Assessment Old Domain Survey Records = Yawata Village only】》
-Item 1: Assessed yield 377 koku 4 go　　　　　　《Location: Kuwayama Village》
-Item 1: Assessed yield 614 koku 6 sho 7 go　　　　　　《Location: Umayose Village》
-Item 1: Assessed yield 708 koku 2 to 7 sho　　　　　　《Location: Yamaura Village》
-Item 1: Assessed yield 491 koku 7 to 5 sho 5 go　　　《Location: Moriyama Village》

@@ -1,8 +1,0 @@
-One: Assessed rice yield 48 koku 9 sho 7 go　　　　　《Marginal note: Branch village of 《Location: Maebaru Village》》《Location: Ogashira Village》
-One: Assessed rice yield 1,264 koku 3 to 3 sho 2 go　　　　《Location: Shito Village》
-One: Assessed rice yield 2,361 koku 8 to 2 sho 9 go 1 shaku　《Location: Tomari Village》
-One: Assessed rice yield 616 koku 7 sho 5 go　　　　　　　　《Location: Baba Village》
-One: Assessed rice yield 710 koku 5 to 3 sho 5 go 4 shaku　《Marginal note: Branch village of 《Location: Baba Village》》《Location: Matsukuma Village》
-One: Assessed rice yield 522 koku 2 to 3 sho 3 go　　　　　《Location: Yubi Village》
-One: Assessed rice yield 949 koku 2 to 7 sho 8 go　《Marginal note: Branch village of 《Location: Yubi Village》》《Location: Shinden Village》
-One: Assessed rice yield 362 koku 9 to 8 sho 4 go 1 shaku　　　《Location: Tsuwazaki Village》

@@ -1,8 +1,0 @@
-One: Assessed yield of 245 koku, 9 to, 5 sho - Minami-Yagyu Village
-One: Assessed yield of 591 koku, 9 to, 1 sho - Rokujo Village
-One: Assessed yield of 384 koku, 2 sho, 1 go - Aramaki Village
-One: Assessed yield of 466 koku, 9 to, 7 sho - Inaba Village
-One: Assessed yield of 374 koku, 6 to, 5 sho - Aiba Village
-One: Assessed yield of 402 koku, 6 to - Yoshida Village
-One: Assessed yield of 321 koku, 2 to, 6 sho, 9 go - Bizen Village
-One: Assessed yield of 999 koku, 8 to, 1 sho, 3 go - Higashi-Idodo Village

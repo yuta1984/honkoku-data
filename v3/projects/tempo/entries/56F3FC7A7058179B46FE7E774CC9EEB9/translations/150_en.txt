@@ -1,8 +1,0 @@
-Item: Assessed yield of 1,491 koku, 3 to, 8 sho, 1 go　《Location: Tsunehiro Village》
-Item: Assessed yield of 1,589 koku, 2 to, 9 sho, 5 go　《Location: Idekata Village》
-Item: Assessed yield of 688 koku, 8 sho　　　　　　　《Location: Doimaru Village》
-Item: Assessed yield of 959 koku, 8 to, 5 go　　　　《Location: Mori Village》
-Item: Assessed yield of 456 koku, 3 to, 5 go　　　　《Location: Omuta Village》
-Item: Assessed yield of 1,625 koku, 3 to, 1 sho, 7 go　《Location: Naka Village》
-Item: Assessed yield of 28 koku, 1 to, 5 sho, 6 go　　《Location: Kashima Village》
-Item: Assessed yield of 892 koku, 6 to, 6 sho, 8 go　《Location: Nakamuta Village》

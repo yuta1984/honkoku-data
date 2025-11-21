@@ -1,8 +1,0 @@
-Item 1: Assessed yield 1,604 koku 8 to 4 sho 7 go 9 shaku　　《Location: Shonai Village》
-Item 1: Assessed yield 269 koku 1 to 7 sho 6 go 4 shaku　《Location: Shiraita Village》
-Item 1: Assessed yield 626 koku 9 to 2 sho 8 go　　　《Location: Matsumoto-bun》
-Item 1: Assessed yield 681 koku 3 sho 6 go　　　　　《Location: Arigasaki Village》
-Item 1: Assessed yield 349 koku 9 to 2 sho 8 go　　　《Location: Miyabuchi Village》
-Item 1: Assessed yield 385 koku 4 to 5 sho 4 go　　　《Location: Arai Village》
-Item 1: Assessed yield 483 koku 9 go　　　　　　　《Location: Horigome Village》
-Item 1: Assessed yield 176 koku 1 to 5 sho 5 go　　　　《Location: Koshiba Village》

@@ -1,8 +1,0 @@
-Item: Assessed yield of 360 koku, 9 go　　　　　　　　《Location: Hakogawa Village》
-Item: Assessed yield of 859 koku, 9 to, 4 sho, 7 go　　《Location: Kami-fujigari Village》
-Item: Assessed yield of 907 koku, 5 to, 6 sho, 2 go　　《Location: Kurato Village》
-Item: Assessed yield of 935 koku, 1 to, 3 sho, 5 go　　《Location: Takashi Village》
-Item: Assessed yield of 817 koku, 9 to, 5 sho, 5 go　　《Location: Higashino-gari Village》
-Item: Assessed yield of 1,023 koku, 6 to, 2 sho, 4 go　《Location: Nishino-gari Village》
-Item: Assessed yield of 198 koku, 2 to, 3 sho, 7 go　　《Location: Biwano Village》
-Item: Assessed yield of 645 koku, 3 to, 2 sho, 3 go　　《Location: [illegible characters]da Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 664 koku, 5 to, 6 sho, 8 go　　　　　　　　　Bakuba village
-1. Assessed yield: 323 koku, 4 to, 1 sho, 1 go　　　　　　　　　Miyasako village
-1. Assessed yield: 150 koku, 3 to, 8 sho, 7 shaku　　　　　　　　Sakagawa village
-1. Assessed yield: 284 koku, 3 to, 4 go　　　　　　　　　　　　Kiriyama village
-1. Assessed yield: 342 koku, 4 to, 3 sho, 6 go　　　　　　　　　Sumi village
-1. Assessed yield: 218 koku, 4 to, 2 sho, 6 go　　　　　　　　　Kami-Mutsuguri village
-1. Assessed yield: 633 koku, 3 to, 6 sho　　　　　　　　　　　Shimo-Mutsuguri village
-1. Assessed yield: 826 koku, 4 sho, 2 go　　　　　　　　　　　Noba village

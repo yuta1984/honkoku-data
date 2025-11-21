@@ -1,8 +1,0 @@
-1. Assessed yield: 482 koku, 4 to, 2 sho, 5 go　Fujikawa-juku
-1. Assessed yield: 300 koku, 8 to, 3 sho, 5 go　Ikegane village
-1. Assessed yield: 234 koku, 5 to, 1 sho, 3 go　Namahira village
-1. Assessed yield: 256 koku, 4 sho, 8 go, 8 shaku, 2 sai　Hobo village
-1. Assessed yield: 518 koku, 3 to, 5 sho, 9 go　Ikuta village
-1. Assessed yield: 891 koku, 4 to, 9 sho, 1 go　Oka village
-1. Assessed yield: 135 koku, 3 to, 2 sho, 8 go　Minogawa village
-1. Assessed yield: 87 koku, 6 to, 7 sho, 2 go　Ojiri village

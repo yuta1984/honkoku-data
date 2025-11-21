@@ -1,8 +1,0 @@
-- Assessed rice yield: 499 koku 1 to 6 shō 9 gō　　Location: Moroto Village
-- Assessed rice yield: 156 koku 4 to 8 shō 4 gō　　Location: Yukisawa Village
-- Assessed rice yield: 229 koku 6 to 1 shō　　　　Location: Nakazato Village
-- Assessed rice yield: 528 koku 3 to 2 shō 8 gō　　Location: Yashiro Village
-- Assessed rice yield: 183 koku 4 to 7 shō　　　　Location: Ōdaira Village
-- Assessed rice yield: 185 koku 5 to 8 shō 8 gō　　Location: Dake Village
-- Assessed rice yield: 75 koku　　　　　　　　　Location: Gyōda Village
-- Assessed rice yield: 575 koku 7 to 5 shō 6 gō　　Location: Kanai Village

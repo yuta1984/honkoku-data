@@ -1,8 +1,0 @@
-One　Assessed yield: 540 koku, 8 to, 6 sho, 2 go　　　　　Hatsuyama Village
-One　Assessed yield: 17 koku, 6 sho, 6 go　　　　Branch village of Hatsuyama Village　Wakamatsu Village
-One　Assessed yield: 10 koku, 2 to, 4 sho, 6 go　　　Branch village of Hatsuyama Village　Yufune Village
-One　Assessed yield: 211 koku, 3 to, 2 sho, 8 go　　　　　Tsubo Village
-One　Assessed yield: 547 koku, 8 to, 8 sho, 6 go　　　　Buomizu Village
-One　Assessed yield: 673 koku, 7 sho, 3 go　　Branch village of Buomizu Village　Katahara Village
-One　Assessed yield: 552 koku, 3 sho, 3 go　　Branch village of Buomizu Village　Sho Village
-One　Assessed yield: 1,178 koku, 7 to, 9 sho　　　　　　Wataura Village

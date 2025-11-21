@@ -1,8 +1,0 @@
-1. Assessed yield: 127 koku, 1 to, 5 sho, 3 go　　　　　　Yorichika village
-1. Assessed yield: 233 koku, 5 to, 3 sho, 7 go　　　　　　Koyakeno village
-1. Assessed yield: 222 koku, 6 sho, 7 go　　　　　　　　　Takunoshima village
-1. Assessed yield: 498 koku, 6 to, 4 sho, 6 go　　　　　　Ugaike village
-1. Assessed yield: 417 koku, 4 to, 1 sho, 6 go　　　　　　Kamatani village
-1. Assessed yield: 167 koku, 2 to, 7 sho, 2 go　　　　　　Tentake village
-1. Assessed yield: 126 koku, 1 to, 3 sho, 3 go　　　　　　Jūrōjima village
-1. Assessed yield: 294 koku, 6 to, 6 sho, 6 go　　　　　　Suwaki village

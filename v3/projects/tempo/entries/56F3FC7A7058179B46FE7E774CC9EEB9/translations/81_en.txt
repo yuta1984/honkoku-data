@@ -1,9 +1,0 @@
-Item: Assessed yield of 119 koku, 6 to, 9 sho, 3 go　　　　《Location: Takeari Village》
-Item: Assessed yield of 2,036 koku, 9 to, 5 sho, 1 go　　《Location: Ōkawano Village》
-《Marginal note: ｜Within 《Location: Ōkawano Village》》
-Item: Assessed yield of 573 koku, 4 to, 4 sho　　　　《Location: Kawanishi Village》
-Item: Assessed yield of 235 koku, 5 to, 5 sho, 8 go　　《Location: Kawahara Village》
-Item: Assessed yield of 266 koku, 8 sho, 4 go　　　　《Location: Yamaguchi Village》
-Item: Assessed yield of 259 koku, 8 to, 2 go　　　　《Location: Tachikawa Village》
-Item: Assessed yield of 364 koku, 1 to, 2 sho, 7 go　　《Location: Komanaki Village》
-Item: Assessed yield of 444 koku, 7 to, 9 sho　　　　《Location: Ideno Village》

@@ -1,8 +1,0 @@
-Item: Assessed yield of 493 koku, 4 to, 2 sho, 1 go　《Location: Yamanaka Village》
-Item: Assessed yield of 272 koku, 4 to, 2 sho, 5 go　《Location: Yokoo Village》
-Item: Assessed yield of 324 koku, 3 to, 9 sho, 9 go　《Location: Ko-sasebo Village》
-Item: Assessed yield of 1,247 koku, 7 to, 6 sho, 5 go《Location: Hiu Village》
-Item: Assessed yield of 146 koku, 5 sho, 4 go　　　　《Location: Iori-no-ura Village》
-Item: Assessed yield of 606 koku, 2 to, 1 sho, 8 go　　《Location: Fukuishi Village》
-Item: Assessed yield of 40 koku, 6 to, 3 sho, 1 go　　《Location: Ohno Village》
-Item: Assessed yield of 1,246 koku, 3 to, 3 sho, 3 go《Location: Hayaki Village》

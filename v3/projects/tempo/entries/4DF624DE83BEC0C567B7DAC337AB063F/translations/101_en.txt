@@ -1,8 +1,0 @@
-Item 1: Assessed yield 480 koku 7 to 8 sho 1 go 5 shaku 7 sai《Location: Shirakawa Village》
-Item 1: Assessed yield 370 koku 8 to 3 sho 3 go 4 shaku　《Location: Koike Village》
-Item 1: Assessed yield 883 koku 3 to 1 sho 1 go 7 shaku《Location: Kita-Uchida Village》
-Item 1: Assessed yield 653 koku 9 to 6 go 5 shaku　　《Location: Minami-Uchida Village》
-Item 1: Assessed yield 309 koku 2 to 3 go 1 shaku　　　　《Location: Shimo-Akagi Village》《Marginal note: 【Old assessed yield and domain survey record = Akagi Village】》
-Item 1: Assessed yield 122 koku 9 to 2 sho 4 go　　　《Location: Kami-Akagi Village》《Marginal note: 【Old assessed yield and domain survey record = Akagi Village】》
-Item 1: Assessed yield 550 koku 8 to 4 sho 8 go　　　《Location: Kita-Kumai Village》
-Item 1: Assessed yield 355 koku 1 to 4 go 1 shaku　　《Location: Minami-Kumai Village》

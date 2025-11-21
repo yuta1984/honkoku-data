@@ -1,8 +1,0 @@
-1. Assessed yield: 797 koku, 3 to, 2 sho, 3 go, 9 shaku　Hosokawa village
-1. Assessed yield: 128 koku, 1 to, 3 sho　Kuwahara village
-1. Assessed yield: 500 koku, 6 to, 1 sho, 6 go　Okudono village
-1. Assessed yield: 112 koku, 8 to, 9 sho, 7 go　Okuyamada village
-1. Assessed yield: 296 koku, 3 to, 9 sho, 8 go　Eda village
-1. Assessed yield: 408 koku, 1 to, 8 sho, 2 go, 5 shaku　Shinpukuji village
-1. Assessed yield: 116 koku, 7 to, 7 go　Tansaka village
-1. Assessed yield: 194 koku, 4 to, 5 go　Miyaishi village

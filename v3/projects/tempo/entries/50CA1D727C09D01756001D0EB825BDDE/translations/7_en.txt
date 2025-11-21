@@ -1,8 +1,0 @@
-1. Assessed rice yield: 128 koku, 4 to, 2 sho, 5 go　　《Location: Motoya Village》
-1. Assessed rice yield: 24 koku, 1 to, 2 sho, 5 go　　　《Location: Iimi Village》
-1. Assessed rice yield: 48 koku, 7 to, 7 sho, 8 go　　　《Location: Fuse Village》
-1. Assessed rice yield: 40 koku, 9 to, 4 sho, 5 go　　　《Location: Ushiki Village》
-1. Assessed rice yield: 190 koku, 8 to, 8 sho, 2 go　　　《Location: Ōku Village》
-1. Assessed rice yield: 68 koku, 4 to, 7 sho, 7 go　　　《Location: Kama Village》
-1. Assessed rice yield: 158 koku, 1 to, 1 go　　　　　《Location: Inuki Village》
-1. Assessed rice yield: 73 koku, 2 to, 7 sho, 5 go　　　《Location: Tsui Village》

@@ -1,8 +1,0 @@
-Item: Assessed yield of 377 koku, 7 to, 2 sho, 2 go　　《Location: Koeda Village》
-Item: Assessed yield of 87 koku　　　　　　　　　　《Location: Tsutsuguchi Village》
-Item: Assessed yield of 192 koku, 6 to, 7 sho, 7 go　　《Location: Nakao Village》
-Item: Assessed yield of 771 koku, 2 to, 1 sho, 2 go　　《Location: Nishimuta Village》
-Item: Assessed yield of 282 koku, 8 to, 9 sho　　　　《Location: Fusehara Village》
-Item: Assessed yield of 280 koku, 7 to, 6 sho, 8 go　　《Location: Ishigaki Village》
-Item: Assessed yield of 252 koku, 7 to, 6 sho, 6 go　　《Location: Shimowarawa Village》
-Item: Assessed yield of 1,217 koku, 7 to, 8 sho, 4 go　《Location: Torisaka Village》

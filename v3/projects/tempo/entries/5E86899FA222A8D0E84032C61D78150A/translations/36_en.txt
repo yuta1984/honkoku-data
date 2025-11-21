@@ -1,8 +1,0 @@
-One, assessed yield: 481 koku, 7 to, 2 sho, 9 go　《Location: Okubo Village》
-One, assessed yield: 251 koku, 5 to, 6 sho, 2 go　《Location: Chizuka Village》
-One, assessed yield: 305 koku, 7 to, 9 sho, 9 go　　《Location: Mizukoshi Village》
-One, assessed yield: 156 koku, 4 to, 5 sho, 8 go　　《Location: Kandachi Village》
-One, assessed yield: 539 koku, 4 to, 5 sho, 1 go　《Location: Otake Village》
-One, assessed yield: 411 koku, 8 to, 4 sho, 2 go　　《Location: Rakuonji Village》
-One, assessed yield: 775 koku, 9 to, 5 sho, 3 go　《Location: Manganji Village》
-　Subtotal: assessed yield 5,983 koku, 5 to, 9 sho, 4 go

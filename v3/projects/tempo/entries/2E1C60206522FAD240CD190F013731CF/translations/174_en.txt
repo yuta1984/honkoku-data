@@ -1,8 +1,0 @@
-One village with a kokudaka of 7 koku: Ono Village (branch village of Musashi Village)
-One village with a kokudaka of 10 koku, 4 to: Imanishi Village
-One village with a kokudaka of 9 to: Masagase Village (branch village of Imanishi Village)
-One village with a kokudaka of 10 koku, 5 sho: Naka Village
-One village with a kokudaka of 3 koku, 3 to, 5 sho: Otani Village (branch village of Naka Village)
-One village with a kokudaka of 9 koku, 8 to: Nagai Village
-One village with a kokudaka of 9 koku, 8 to: Tamagakiuchi Village (branch village of Nagai Village)
-One village with a kokudaka of 11 koku, 1 to, 5 sho: Tarahara Village

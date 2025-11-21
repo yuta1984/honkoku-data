@@ -1,9 +1,0 @@
-1. Assessed rice yield: 2,122 koku, 3 to, 1 shō, 9 gō 《Location: Tsunetomi Village》
-1. Assessed rice yield: 2,920 koku, 7 to, 2 shō, 3 gō 《Location: Yoshida Village》
-1. Assessed rice yield: 3,095 koku, 3 to, 8 shō, 1 gō 《Location: Yata Village》
-1. Assessed rice yield: 1,391 koku, 2 to, 7 gō 《Location: Mihori Village》
-
-1. Assessed rice yield: 3,198 koku, 5 to, 7 shō, 5 gō 《Location: Kosaba Village》
-1. Assessed rice yield: 314 koku, 9 to, 6 shō, 2 gō 《Location: Utsugihata Village》
-1. Assessed rice yield: 3,760 koku, 3 to, 4 shō, 8 gō 《Location: Kogimo Village》
-1. Assessed rice yield: 708 koku, 7 to, 3 shō 《Location: Ōkai Village》

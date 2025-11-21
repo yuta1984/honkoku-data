@@ -1,8 +1,0 @@
-1. Assessed yield: 4 koku, 2 to, 2 sho, 3 go - Jintoku Village (branch village of Kamado Kumonkakiuchi Village)
-1. Assessed yield: 105 koku - Shuku Village (Kamado area)
-1. Assessed yield: 3 koku, 8 to, 7 sho, 3 go - Ashimata Village (branch village of Shuku Village)
-1. Assessed yield: 197 koku, 8 to, 5 sho - Oshima Village (Kamado area)
-1. Assessed yield: 105 koku, 3 to, 2 sho - Kamitaira Village (Kamado area)
-1. Assessed yield: 20 koku, 2 to, 9 sho, 3 go - Ronkunugi Village (Kamado area)
-1. Assessed yield: 159 koku, 5 to, 9 sho - Ogishima Village (Kamado area)
-1. Assessed yield: 6 koku, 3 to, 7 sho, 3 go - Hosoyama Village (branch village of Kamado Ogishima Village)

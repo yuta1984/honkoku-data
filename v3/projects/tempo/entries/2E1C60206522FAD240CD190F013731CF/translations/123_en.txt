@@ -1,8 +1,0 @@
-One village with a kokudaka of 385 koku, 6 to, 2 sho, 3 go: Inajuku Village
-One village with a kokudaka of 640 koku, 7 to, 2 sho: Toge Village
-One village with a kokudaka of 122 koku, 5 to, 6 sho, 4 go: Hino Village
-One village with a kokudaka of 529 koku, 9 sho, 1 go: Furuse Village
-One village with a kokudaka of 350 koku: Asamachi Village
-One village with a kokudaka of 174 koku, 8 to, 8 sho: Kurisaka Village
-One village with a kokudaka of 364 koku, 7 to, 4 sho, 8 go: Terada Village
-One village with a kokudaka of 312 koku, 5 to, 2 sho: Toyoda Village

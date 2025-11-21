@@ -1,8 +1,0 @@
-1. Assessed yield: 219 koku, 2 go　Sumomo village
-1. Assessed yield: 247 koku, 7 to, 3 sho, 6 go　Ichiba village
-1. Assessed yield: 139 koku, 1 to, 3 sho, 4 go　Shinohira village
-1. Assessed yield: 68 koku, 1 sho, 7 go　Osaka village
-1. Assessed yield: 167 koku, 9 to, 1 sho, 2 go　Okusa village
-1. Assessed yield: 123 koku, 6 to, 5 go　Kawashimo village
-1. Assessed yield: 393 koku, 9 sho, 4 go　Hitomo village
-1. Assessed yield: 81 koku, 4 to, 9 sho, 7 go　Yanahira village

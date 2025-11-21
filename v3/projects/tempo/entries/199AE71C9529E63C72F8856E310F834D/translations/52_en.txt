@@ -1,8 +1,0 @@
-1. Assessed yield: 123 koku, 6 to, 8 sho, 7 go - Mikura Village
-1. Assessed yield: 56 koku, 9 to, 8 sho, 2 go - Hiroo Village
-1. Assessed yield: 422 koku, 3 to, 3 sho, 3 go - Ueno Village
-1. Assessed yield: 577 koku, 6 to, 6 sho, 6 go - Shirakashi Village
-1. Assessed yield: 580 koku, 9 to, 9 sho, 2 go - Ichiba Village
-1. Assessed yield: 53 koku, 4 to, 1 sho, 1 go - Shizuhara Village
-1. Assessed yield: 63 koku, 3 to, 9 sho - Ikeda Village
-1. Assessed yield: 152 koku, 3 to, 9 sho - Toiri Village

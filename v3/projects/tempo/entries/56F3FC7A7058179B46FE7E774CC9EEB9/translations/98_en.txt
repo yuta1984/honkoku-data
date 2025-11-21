@@ -1,9 +1,0 @@
-Item: Assessed yield of 99 koku, 5 to, 2 sho, 4 go　　　《Location: Hirokawa Mountain》
-　　　　　Formerly《Marginal note: Hoshiryo Mountain, Yamase Village》two villages
-Item: Assessed yield of 101 koku, 9 sho, 9 go　　　　　《Location: Hoshiryo Mountain》
-Item: Assessed yield of 99 koku, 7 to, 7 sho　　　　　　《Location: Torisu Mountain》
-Item: Assessed yield of 297 koku, 8 to, 8 sho, 5 go　　《Location: Amagawa Village》
-Item: Assessed yield of 372 koku, 6 to, 3 sho, 3 go　　《Location: Wakita Village》
-Item: Assessed yield of 18 koku, 6 to, 4 sho, 9 go　　　《Location: Wakatachi Village》
-Item: Assessed yield of 414 koku, 5 to, 3 sho, 4 go　　《Location: Imari Town》
-Item: Assessed yield of 115 koku, 4 to, 8 sho　　　　　《Location: Rokusenji Village》

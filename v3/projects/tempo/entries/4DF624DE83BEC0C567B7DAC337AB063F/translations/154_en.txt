@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 241 koku, 1 to, 5 sho, 5 go, 7 shaku《Location: Uruga Village》
-Item 1: Assessed yield of 435 koku, 2 to, 3 sho, 4 go, 6 shaku《Location: Kitayama Village》
-Item 1: Assessed yield of 540 koku, 7 to, 4 sho, 8 go, 3 shaku　《Location: Miyamoto Village》
-Item 1: Assessed yield of 175 koku, 6 to, 6 go, 2 shaku　　　《Location: Sonehara Village》《Marginal note: [Old yield/old domain survey record = Sonehara Village]》
-Item 1: Assessed yield of 237 koku, 3 sho, 1 go, 5 shaku　　《Location: Uruda Village》
-Item 1: Assessed yield of 69 koku, 4 to, 7 sho, 9 go, 3 shaku　　《Location: Niūko Village》
-Item 1: Assessed yield of 22 koku, 1 sho, 2 shaku　　　　　　《Location: Aikawa Village》《Marginal note: [Old yield/old domain survey record = Aikawa-Shinden Village]》
-Item 1: Assessed yield of 67 koku, 4 to, 7 go, 4 shaku　　　　《Location: Kifune Village》

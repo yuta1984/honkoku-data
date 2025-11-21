@@ -1,8 +1,0 @@
-Item 1: Assessment 293 koku, 7 to, 3 go　　　　　　《Location: Narahara Village》
-Item 1: Assessment 424 koku, 8 to, 7 sho, 8 go　　　　《Location: Inume Village》
-Item 1: Assessment 249 koku, 9 to, 5 sho, 5 go　　　　《Location: Tobuki Village》
-Item 1: Assessment 243 koku, 7 to, 6 sho, 7 go　　　　《Location: Miyashita Village》
-Item 1: Assessment 155 koku　　　　　　　　　　　《Location: Tomedokoro Village》
-Item 1: Assessment 284 koku, 7 to, 5 sho, 8 shaku　　　　《Location: Takatsuki Village》
-Item 1: Assessment 501 koku, 9 to, 5 sho, 7 go, 6 shaku, 8 sai　　《Location: Ogawa Village》
-Item 1: Assessment 1,126 koku, 5 to, 9 shaku　　　　　《Location: Ninomiya Village》

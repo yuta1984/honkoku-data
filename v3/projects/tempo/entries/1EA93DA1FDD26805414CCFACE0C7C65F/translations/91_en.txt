@@ -1,8 +1,0 @@
-Item 1: Assessment 118 koku, 2 to, 2 sho, 7 go, 1 sai　　　　　　　　《Location: Miya Village》
-Item 1: Assessment 193 koku, 3 to　　　　　　　　　　　　《Location: Takahata Village》
-Item 1: Assessment 50 koku, 2 to, 3 sho, 5 go　　　　　　　　　《Location: Hodokubo Village》
-Item 1: Assessment 146 koku, 8 to, 1 sho, 2 go　　　　　　　　《Location: Ueda Village》
-Item 1: Assessment 345 koku, 9 to, 9 go　　　　　　　　　　《Location: Taira Village》
-Item 1: Assessment 204 koku, 7 to, 6 sho, 5 go　　　　　　《Location: Kawabe Horinouchi Village》
-Item 1: Assessment 369 koku, 1 to, 7 sho, 4 go　　　　　　　《Location: Toyoda Village》
-Item 1: Assessment 482 koku, 8 to, 7 sho, 1 go, 8 shaku, 9 sai　　　《Location: Hirayama Village》

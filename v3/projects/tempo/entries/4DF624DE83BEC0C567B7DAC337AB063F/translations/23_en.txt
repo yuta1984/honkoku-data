@@ -1,8 +1,0 @@
-Item 1: Assessed yield 115 koku 3 to 6 sho 3 go　　　　《Location: Shikibu Shinden Village》《Marginal note: [Kyūdaka Kyūryō Torishirabe-chō = Shikibu Village]》
-Item 1: Assessed yield 83 koku 8 to 4 sho 8 go　　　　《Location: Nukui Village》
-Item 1: Assessed yield 77 koku 9 sho 3 go　　　　　　　《Location: Nakai Village》
-Item 1: Assessed yield 100 koku 3 to 5 sho 9 go　　　　《Location: Kutsuzawa Shinden Village》
-Item 1: Assessed yield 604 koku 8 to 8 go　　　　　　　《Location: Kutsuzawa Village》
-Item 1: Assessed yield 281 koku 7 to 4 sho 6 go　　　　《Location: Nukao Village》《Marginal note: [Kyūdaka Kyūryō Torishirabe-chō = Tōo Village]》
-Item 1: Assessed yield 272 koku 1 to 2 sho 6 go　　　　《Location: Takeda Village》
-Item 1: Assessed yield 364 koku 7 sho 6 go　　　　　　　《Location: Hirai Village》

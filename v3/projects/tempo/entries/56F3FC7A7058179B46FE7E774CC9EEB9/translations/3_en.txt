@@ -1,8 +1,0 @@
-Item: Assessed yield of 340 koku, 1 to, 4 sho, 6 go　　　《Location: Sonezaki Village》
-Item: Assessed yield of 911 koku, 6 to, 4 sho, 2 go　　　《Location: Kanbe Village》
-Item: Assessed yield of 304 koku, 8 to, 1 sho, 2 go　　　《Location: Kayakata Village》
-Item: Assessed yield of 243 koku, 7 to, 8 sho, 8 go　　　《Location: Koga Village》
-Item: Assessed yield of 120 koku, 3 to, 9 go　　　　　　　《Location: Kawachi Village》
-Item: Assessed yield of 535 koku, 8 to, 5 sho　　　　　　《Location: Tashiro Village》
-Item: Assessed yield of 381 koku, 4 to, 2 sho, 9 go　　　《Location: Hatasaki Village》
-Item: Assessed yield of 495 koku, 3 to, 6 sho, 4 go　　　《Location: Himekata Village》

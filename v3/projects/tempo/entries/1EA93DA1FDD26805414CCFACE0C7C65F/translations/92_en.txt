@@ -1,8 +1,0 @@
-Item 1: Assessment 211 koku, 8 to, 8 sho, 9 go　　　《Location: Naganuma Village》
-Item 1: Assessment 384 koku, 5 to, 6 sho, 4 go　　《Location: Nakano Village》
-Item 1: Assessment 144 koku, 5 to, 8 sho　　　　　《Location: Horiuchi Village》
-Item 1: Assessment 193 koku, 5 to, 9 sho, 8 go　　　《Location: Koshino Village》
-Item 1: Assessment 297 koku, 8 to, 5 sho, 3 go　　《Location: Uchikoshi Village》
-Item 1: Assessment 205 koku, 5 to, 5 sho, 1 go　　　　《Location: Nakayama Village》
-Item 1: Assessment 423 koku, 5 to, 2 sho, 4 go　　《Location: Yarimizu Village》
-Item 1: Assessment 412 koku, 8 to, 3 sho, 9 go　　《Location: Kamiyunoki Village》

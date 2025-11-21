@@ -1,8 +1,0 @@
-Item 1: Assessed yield 639 koku 3 to 3 sho　　　　《Location: Nei Hongo Village》
-Item 1: Assessed yield 412 koku 5 to 7 sho 5 go　　　《Location: Sarukubo Village》
-Item 1: Assessed yield 261 koku 1 to 2 sho　　　　《Location: Yokowa Village》
-Item 1: Assessed yield 760 koku 4 to 7 sho 3 go 8 shaku　《Location: Iwao Village》
-Item 1: Assessed yield 262 koku 3 to 1 sho 9 go　　《Location: Imai Village》
-Item 1: Assessed yield 195 koku 2 to 5 sho 2 go　　　《Location: Mikawada Shinden Village》
-Item 1: Assessed yield 160 koku 8 to 6 sho 6 go　　　　《Location: Hiraga Shinmachi Village》
-Item 1: Assessed yield 1,701 koku 5 to 2 sho 1 go　　　《Location: Shimonakagomi Village》

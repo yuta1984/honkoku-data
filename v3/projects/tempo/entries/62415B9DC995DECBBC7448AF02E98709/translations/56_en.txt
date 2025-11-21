@@ -1,8 +1,0 @@
-One, assessed yield: 263 koku, 1 to, 9 shō, 3 gō　　　　　《Location: Kishimoto Village》
-One, assessed yield: 374 koku, 6 to, 3 shō, 3 gō　《Note: Formerly 《Location: Hosomi Village》》《Location: Yoshisada Village》
-One, assessed yield: 281 koku, 4 to, 2 shō, 8 gō　《Note: 《Location: Yoshisada Village》 branch village》《Location: Kami-Hosomi Village》
-One, assessed yield: 520 koku, 7 to, 8 shō, 4 gō　　　　　　《Location: Kawaoka Village》
-One, assessed yield: 1,153 koku, 2 shō, 4 gō　　　　　　　《Location: Akaite Village》
-One, assessed yield: 768 koku, 1 to, 7 shō, 2 gō　　　　　　《Location: Kami-Shinjirushi Village》
-One, assessed yield: 442 koku, 6 shō, 4 gō　　　　　　　《Location: Ichibu Village》
-One, assessed yield: 214 koku, 5 to, 3 shō, 3 gō　　　　　　《Location: Takada Village》

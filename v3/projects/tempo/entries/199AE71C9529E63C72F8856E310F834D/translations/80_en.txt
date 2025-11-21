@@ -1,8 +1,0 @@
-1. Assessed yield: 93 koku, 1 sho, 6 go - Nagashima Village
-1. Assessed yield: 103 koku, 6 to, 5 sho, 6 go - Kurotsu Village
-1. Assesssed yield: 118 koku, 3 to, 9 sho, 9 go - Koshinami Village
-1. Assessed yield: 81 koku, 4 to, 3 sho - Kami-Osu Village
-1. Assessed yield: 173 koku, 9 to, 2 sho, 6 go - Shimo-Osu Village
-1. Assessed yield: 138 koku, 3 to, 4 sho, 3 go - Akuta Village
-1. Assessed yield: 65 koku, 3 to, 9 sho, 5 go - Higashi-Kojika Village
-1. Assessed yield: 74 koku, 8 to, 9 go - Nishi-Kojika Village

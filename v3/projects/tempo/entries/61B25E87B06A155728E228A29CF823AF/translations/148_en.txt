@@ -1,8 +1,0 @@
-1. Assessed yield: 247 koku, 4 to, 2 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Inunoko village
-1. Assessed yield: 261 koku, 5 to, 2 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Horinouchi village
-1. Assessed yield: 481 koku, 6 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Takai village
-1. Assessed yield: 562 koku, 3 to, 7 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　Wada village
-1. Assessed yield: 396 koku, 2 to, 2 sho, 4 go　　　　　　　　　　　　　　　　　　　　　　　　　Chōraku village
-1. Assessed yield: 692 koku, 6 to, 6 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　Suzan village
-1. Assessed yield: 256 koku, 5 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　Tsukigaya village
-1. Assessed yield: 237 koku, 3 to, 5 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　Umagoe village

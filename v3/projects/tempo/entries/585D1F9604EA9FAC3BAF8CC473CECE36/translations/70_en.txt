@@ -1,8 +1,0 @@
-1. Assessed yield: 359 koku, 1 to, 2 sho, 4 go - Shimohoshikawa Village
-1. Assessed yield: 59 koku, 9 to, 1 sho, 6 go - Mitsuhashi Village
-1. Assessed yield: 237 koku, 6 to, 5 sho, 3 go - Okubo Village
-1. Assessed yield: 101 koku, 5 to, 9 sho, 1 go, 7 shaku - Kariya Village
-1. Assessed yield: 165 koku, 7 to, 6 sho, 9 go, 7 shaku - Tatenouchi Village
-1. Assessed yield: 81 koku, 3 to, 9 sho, 8 go, 6 shaku - Myojoji Village
-1. Assessed yield: 162 koku, 7 to, 8 sho, 7 go, 8 shaku - Nakagawa Village
-1. Assessed yield: 126 koku, 2 to, 3 sho, 6 go - Jakuoji Village

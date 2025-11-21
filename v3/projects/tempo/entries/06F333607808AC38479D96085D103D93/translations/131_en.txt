@@ -1,8 +1,0 @@
-- Assessed rice yield: 251 koku 4 to 6 shō - Location: Kokuya Village
-- Assessed rice yield: 1,004 koku 7 to 1 shō 1 gō - Location: Gōbara Village
-- Assessed rice yield: 1,039 koku 1 gō - Location: Hitomi Village
-- Assessed rice yield: 709 koku 4 to 5 shō 7 gō - Location: Niken-Zaike Village
-- Assessed rice yield: 142 koku 4 to - Location: Toritome Village
-- Assessed rice yield: 488 koku 6 to 1 shō 8 gō - Location: Matsuida Village
-- Assessed rice yield: 692 koku 7 to 6 shō 8 gō - Location: Niibori Village
-- Assessed rice yield: 464 koku - Location: Takanashi Village

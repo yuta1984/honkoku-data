@@ -1,8 +1,0 @@
-1. Assessed yield: 1,256 koku, 9 to, 8 sho, 2 go　　　　　　　　Shimo-Goi village
-1. Assessed yield: 418 koku, 2 to, 1 sho, 9 go　　　　　　　　　Yokosuka village
-1. Assessed yield: 1,142 koku, 9 sho, 3 go　　　　　　　　　　　Shimoji village
-1. Assessed yield: 2,127 koku, 2 to, 8 sho, 8 go　　　　　　　　Ōmura village
-1. Assessed yield: 233 koku, 2 to, 4 sho, 9 go　　　　　　　　　Ōkari village
-1. Assessed yield: 297 koku, 8 to, 5 sho, 6 go　　　　　　　　　Nagase village
-1. Assessed yield: 712 koku, 8 to, 3 sho, 1 go　　　　　　　　　Gyōmei village
-1. Assessed yield: 292 koku, 6 to, 1 sho　　　　　　　　　　　　Kōji village

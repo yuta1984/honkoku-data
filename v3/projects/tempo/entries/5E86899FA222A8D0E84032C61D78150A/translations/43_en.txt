@@ -1,8 +1,0 @@
-One, assessed yield: 276 koku, 4 to, 7 sho, 3 go　《Location: Takaida village》
-One, assessed yield: 407 koku, 7 to, 2 sho, 4 go　《Location: Aotani village》
-One, assessed yield: 74 koku, 3 to, 4 sho, 4 go　　《Location: Hondo village》
-One, assessed yield: 102 koku, 9 to, 9 go　　　　　《Location: Toge village》
-One, assessed yield: 633 koku, 7 to, 2 sho, 7 go　《Location: Karitaobata village》
-One, assessed yield: 292 koku, 8 to, 6 sho, 4 go　《Location: Minamihata village》
-One, assessed yield: 471 koku, 1 sho, 1 go　　　　《Location: Kitahata village》
-　Subtotal　assessed yield: 4,717 koku, 1 to, 2 go

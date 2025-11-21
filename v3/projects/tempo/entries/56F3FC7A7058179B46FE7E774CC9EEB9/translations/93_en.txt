@@ -1,8 +1,0 @@
-Item: Assessed yield of 174 koku, 1 to, 1 sho, 1 go　　《Location: Iwaya Village》
-Item: Assessed yield of 48 koku, 7 sho, 7 go　　　　　《Location: Makiki Village》
-Item: Assessed yield of 225 koku, 1 to, 4 sho, 5 go　《Location: Namese Village》
-Item: Assessed yield of 26 koku, 2 to, 8 sho, 5 go　　　《Location: Setokiba Village》
-Item: Assessed yield of 696 koku, 8 to, 7 go　　　《Location: Ōno Village》
-Item: Assessed yield of 446 koku, 9 to, 8 sho, 7 go　《Location: Kuroiwa Village》
-Item: Assessed yield of 1,555 koku, 9 to, 9 sho, 8 go《Location: Ikisa Village》
-Item: Assessed yield of 443 koku, 5 to, 2 sho, 5 go　《Location: Sōsui Village》

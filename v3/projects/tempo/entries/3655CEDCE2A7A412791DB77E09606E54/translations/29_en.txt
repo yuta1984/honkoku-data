@@ -1,8 +1,0 @@
-1. Assessed yield: 123 koku, 2 to, 7 shō, 2 gō, 9 shaku - Arahira Village
-1. Assessed yield: 237 koku, 2 shō, 6 gō, 5 shaku - Otōō Village
-1. Assessed yield: 212 koku, 9 to, 1 shō, 7 gō, 3 shaku - Kamogawa Village
-1. Assessed yield: 131 koku, 8 to, 6 shō, 9 gō, 7 shaku - Sako Village
-1. Assessed yield: 170 koku, 3 to, 6 shō, 7 gō, 4 shaku - Yamasako Village
-1. Assessed yield: 157 koku, 8 to, 4 shō, 2 gō, 5 shaku - Babao Village
-1. Assessed yield: 178 koku, 6 shō, 7 gō, 3 shaku - Goda Village
-1. Assessed yield: 221 koku, 1 to, 1 shō, 8 gō, 2 shaku - Gūji Village

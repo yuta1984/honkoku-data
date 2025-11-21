@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 1,142 koku, 6 to, 3 sho, 1 go　《Location: Akanuma Village》
-Item 1: Assessed yield of 619 koku, 3 to, 5 sho　　　　　《Location: Sansai Village》
-Item 1: Assessed yield of 421 koku, 1 to　　　　　　　　 《Location: Shimo-Komazawa Village》
-Item 1: Assessed yield of 355 koku, 3 to, 3 sho, 7 go　　《Location: Kanebako Village》
-Item 1: Assessed yield of 538 koku, 5 to, 7 sho, 5 go　　《Location: Kami-Komazawa Village》
-Item 1: Assessed yield of 233 koku, 2 to, 3 go　　　　　 《Location: Kami-Inazumi Village》
-Item 1: Assessed yield of 123 koku, 6 to, 9 sho, 8 go　　《Location: Shimo-Inazumi Village》
-Item 1: Assessed yield of 409 koku, 2 to, 6 sho　　　　　《Location: Danda Village》

@@ -1,8 +1,0 @@
-Item 1: Assessment 766 koku, 1 to, 9 sho, 9 go, 8 shaku　《Location: Terao Village》
-Item 1: Assessment 194 koku, 3 to, 8 sho　　　　　　《Location: Shinazawa Village》
-Item 1: Assessment 143 koku, 3 to, 2 sho, 5 go　　　《Location: Ikoda Village》
-Item 1: Assessment 588 koku, 8 to, 1 sho　　　　　　《Location: Ota Village》
-Item 1: Assessment 285 koku, 9 to, 5 sho, 5 go　　　《Location: Hisanaga Village》
-Item 1: Assessment 236 koku, 9 sho, 5 go　　　　　　《Location: Akuma Village》
-Item 1: Assessment 779 koku, 8 to, 4 sho　　　　　《Location: Kami-Yoshida Village》
-Item 1: Assessment 1,468 koku, 6 to, 4 sho, 7 go　　《Location: Shimo-Yoshida Village》

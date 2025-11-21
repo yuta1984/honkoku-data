@@ -1,8 +1,0 @@
-1. Assessed yield: 143 koku, 5 to, 6 sho, 6 go, 6 shaku - Takahashi Village
-1. Assessed yield: 106 koku, 1 to, 9 sho, 3 shaku - Urushihara Village
-1. Assessed yield: 287 koku, 3 to, 6 sho, 3 shaku - Kami-nakashima Village
-1. Assessed yield: 275 koku, 3 to, 6 sho, 7 go - Shimo-nakashima Village
-1. Assessed yield: 171 koku, 5 to, 8 sho, 7 go, 5 shaku - Orihashi Village
-1. Assessed yield: 415 koku, 4 to, 4 sho, 9 go, 9 shaku - Komagi Village
-1. Assessed yield: 252 koku, 4 to, 2 sho, 4 go, 9 shaku - Shimo-tojima Village
-1. Assessed yield: 1,056 koku, 7 to, 9 sho, 5 go, 1 shaku - Tamita Village

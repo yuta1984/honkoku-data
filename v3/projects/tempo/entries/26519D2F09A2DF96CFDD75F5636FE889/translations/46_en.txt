@@ -1,8 +1,0 @@
-1. Rice yield: 189 koku, 6 to, 1 sho, 9 go　　　　《Location: Mimaki-kuginuki Village》
-1. Rice yield: 355 koku, 7 to, 9 sho, 5 go　　　　《Location: Mimaki-nakajima Village》
-1. Rice yield: 509 koku, 7 go　　　　　　　　　　《Location: Mimaki-boike Village》
-1. Rice yield: 478 koku, 3 to, 8 sho, 5 go　　　　《Location: Mimaki-aijima Village》
-1. Rice yield: 320 koku, 9 to, 5 sho, 2 go, 5 shaku, 6 sai　《Location: Mimaki-mori Village》
-1. Rice yield: 487 koku, 5 to, 1 sho　　　　　　　《Location: Mimaki-no Village》
-1. Rice yield: 1,173 koku, 8 to, 8 sho, 8 go　　　《Location: Ogura Village》
-1. Rice yield: 3,128 koku, 2 to, 6 sho, 9 go　　　《Location: Makishima Village》

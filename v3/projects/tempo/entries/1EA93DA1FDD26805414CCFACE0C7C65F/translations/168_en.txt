@@ -1,8 +1,0 @@
-Item 1: Assessment 183 koku, 5 to, 4 sho　　　　《Location: Yanase Village》
-Item 1: Assessment 445 koku, 1 to, 3 sho　　　《Location: Nogami Shimogo》
-Item 1: Assessment 211 koku, 3 to, 2 sho, 7 go　《Location: Iwata Village》
-Item 1: Assessment 195 koku, 9 to, 5 go　　　　《Location: Nakanokami Village》
-Item 1: Assessment 389 koku, 9 to, 2 sho, 1 go　《Location: Moto-nogami Village》
-Item 1: Assessment 217 koku, 3 to, 9 sho, 3 go　《Location: Ido Village》
-Item 1: Assessment 318 koku, 1 to, 3 sho, 8 go　《Location: Fujitanibuchi Village》
-Item 1: Assessment 205 koku, 2 to, 6 sho, 6 go　《Location: Shimotano Village》

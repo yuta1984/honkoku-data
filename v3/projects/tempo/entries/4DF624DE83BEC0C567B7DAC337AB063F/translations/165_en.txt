@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 493 koku, 3 to, 2 sho　　《Location: Umeki Village》
-Item 1: Assessed yield of 602 koku, 1 to, 2 sho, 2 go　　《Location: Chikyōhara Village》
-Item 1: Assessed yield of 385 koku, 6 to, 8 sho　　《Location: Narai Village》
-Item 1: Assessed yield of 499 koku, 9 to, 7 sho　　《Location: Iori Village》
-Item 1: Assessed yield of 197 koku, 1 to, 2 sho　　　《Location: Wasao Village》
-Item 1: Assessed yield of 1,316 koku, 5 to, 5 sho　　《Location: Takeo Village》
-Item 1: Assessed yield of 780 koku, 4 to, 1 sho, 5 go　《Location: Setogawa Village》
-Item 1: Assessed yield of 301 koku, 7 to, 8 sho　　　　《Location: Tsubakimine Village》

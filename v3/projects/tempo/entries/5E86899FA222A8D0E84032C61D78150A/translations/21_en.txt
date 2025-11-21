@@ -1,8 +1,0 @@
-One, assessed yield: 325 koku, 8 to, 7 sho, 9 go　　《Location: Shimotahara Village》
-One, assessed yield: 389 koku, 5 to　　　　　　《Location: Goryō Village》
-One, assessed yield: 231 koku, 2 to, 6 sho　　　　《Location: Taishida Village》
-One, assessed yield: 36 koku, 9 to, 5 sho, 1 go　　　　《Location: Yokoyama Shinden》
-One, assessed yield: 55 koku, 2 sho, 3 go　　　　　　《Location: Nakamura Shinden》
-One, assessed yield: 316 koku, 4 to, 6 sho, 5 go　　　《Location: Amagasaki Shinden》
-One, assessed yield: 74 koku, 5 to, 9 sho, 6 go　　　　《Location: Amagasaki Shinshin-den》
-One, assessed yield: 71 koku, 9 to, 7 sho　　　　　　《Location: Kayashima Shinden》

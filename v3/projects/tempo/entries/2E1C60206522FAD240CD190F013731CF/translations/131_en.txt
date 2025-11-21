@@ -1,8 +1,0 @@
-One village with a kokudaka of 298 koku, 7 to, 2 sho, 6 go: Iden Village
-One village with a kokudaka of 506 koku, 7 to, 3 sho, 8 go: Kinai Village
-One village with a kokudaka of 234 koku, 6 to, 3 sho, 8 go: Deyashiki Village (branch village of Iden Village and Kinai Village)
-One village with a kokudaka of 492 koku, 5 to: Kowa Village
-One village with a kokudaka of 389 koku, 8 to, 8 sho, 3 go: Higashi-Kuruno Village
-One village with a kokudaka of 55 koku, 9 sho, 2 go: Nishi-Kuruno Village
-One village with a kokudaka of 151 koku, 9 to, 1 sho, 2 go: Kitayama Village
-One village with a kokudaka of 363 koku, 6 to, 8 sho, 5 go: Osawa Village

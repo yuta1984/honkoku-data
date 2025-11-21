@@ -1,8 +1,0 @@
-1. Assessed yield: 576 koku, 2 to, 6 sho　　　　　　　　Nanakusagi Village
-1. Assessed yield: 260 koku, 2 to, 5 sho, 6 go, 5 shaku　Sekimoto Village
-1. Assessed yield: 576 koku, 3 to, 1 sho　　　　　　　　Waisegawa Village
-1. Assessed yield: 412 koku, 4 to, 2 sho, 6 go　　　　　Horita Village
-1. Assessed yield: 328 koku, 7 to, 6 sho, 5 go　　　　　Kohiyama Village
-1. Assessed yield: 1,370 koku, 2 to, 5 sho, 5 go　　　　Iwaizawa Village
-1. Assessed yield: 987 koku, 1 to, 3 sho, 6 go　　　　　Yamane Village
-1. Assessed yield: 1,686 koku, 1 to, 3 sho, 6 go　　　　Komichi Village

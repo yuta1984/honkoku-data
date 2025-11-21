@@ -1,8 +1,0 @@
-One village with a kokudaka of 431 koku, 7 to, 6 sho, 3 go: Ikenouchi Village
-One village with a kokudaka of 428 koku, 5 to, 9 sho, 2 go: Minamiyama Village
-One village with a kokudaka of 260 koku, 4 sho, 6 go, 5 shaku: Ikejiri Village (branch village of Minamiyama Village)
-One village with a kokudaka of 258 koku, 9 to, 7 go, 5 shaku: Hashimoto Village (within Ikejiri Village)
-One village with a kokudaka of 724 koku, 9 to, 3 sho: Yamada Village
-One village with a kokudaka of 644 koku, 9 to, 6 sho, 8 go: Takaya Village
-One village with a kokudaka of 143 koku, 9 to, 5 sho, 5 go, 5 shaku: Kitayama Village
-One village with a kokudaka of 360 koku, 2 to, 4 sho: Hagita Village

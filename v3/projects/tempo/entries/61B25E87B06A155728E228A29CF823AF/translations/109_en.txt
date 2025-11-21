@@ -1,8 +1,0 @@
-1. Assessed yield: 336 koku, 2 to, 3 sho, 1 go, 2 shaku, 5 sai　　　　Kami-Senryo village
-1. Assessed yield: 406 koku, 9 to, 5 sho, 1 go, 2 shaku, 5 sai　　　　Shimo-Senryo village
-1. Assessed yield: 398 koku, 5 to, 4 sho　　　　　　　　　　　　　　Nishihara village
-1. Assessed yield: 282 koku, 6 to, 2 sho, 1 go　　　　　　　　　　　Shinoda village
-1. Assessed yield: 100 koku, 2 to, 8 sho, 8 go　　　　　　　　　　　Tarui village
-1. Assessed yield: 211 koku, 1 to, 1 go　　　　　　　　　　　　　　Nagakusa village
-1. Assessed yield: 163 koku, 2 to, 8 sho, 9 go　　　　　　　　　　　Zaigaji village
-1. Assessed yield: 1,256 koku, 7 to, 6 sho, 7 go　　　　　　　　　　Hagi village

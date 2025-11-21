@@ -1,7 +1,0 @@
-One: Assessed rice yield 551 koku 6 to 4 sho 3 go　　《Location: Kogasaki Village》
-One: Assessed rice yield 335 koku 7 to 4 go　　　　《Location: Shiihara Village》
-One: Assessed rice yield 25 koku 7 to 7 go　　《Side note: Branch village of 《Location: Shiihara Village》》《Location: Aratani Village》
-One: Assessed rice yield 84 koku 6 to 3 sho 3 go　　　　《Location: Itaya Village》
-One: Assessed rice yield 1,089 koku 1 to 5 go 2 shaku 2 sai　《Location: Arita Village》
-　Subtotal assessed yield: 46,321 koku 3 to 1 sho 7 go 7 shaku
-　　　　　　　　　　《Location: Sawara District》　52 villages

@@ -1,8 +1,0 @@
-1. Assessed yield: 175 koku, 8 to, 1 sho, 4 go　Minamisuyama village
-1. Assessed yield: 211 koku, 1 to, 3 sho, 2 go　Kakidaira village
-1. Assessed yield: 28 koku, 2 to, 8 go　Inokuchi village
-1. Assessed yield: 88 koku, 6 to, 7 sho　Teradaira village
-1. Assessed yield: 90 koku, 4 to, 9 sho　Katayose village
-1. Assessed yield: 75 koku, 8 to, 8 sho, 6 go　Awabuchi village
-1. Assessed yield: 241 koku, 1 to, 9 go, 3 shaku　Hirabari village
-1. Assessed yield: 129 koku, 1 to, 9 sho, 4 go, 8 shaku　Senmancho village

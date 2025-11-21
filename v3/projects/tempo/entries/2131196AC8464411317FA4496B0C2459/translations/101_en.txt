@@ -1,8 +1,0 @@
-1. Assessed yield: 100 koku, 8 to, 8 shō, 1 gō　　　　　《Location: Mine-Kanzawa Village》
-1. Assessed yield: 43 koku, 3 to, 7 shō, 5 gō　　　　　《Location: Kami-Kanzawa Village》
-1. Assessed yield: 255 koku, 9 to, 8 gō, 5 shaku　　　　《Location: Kuma Village》
-1. Assessed yield: 8 koku, 8 to, 6 gō　　　　　　　　　《Location: Tedariya-shiki》
-1. Assessed yield: 517 koku, 3 to, 4 shō　　　　　　　　《Location: Urakawa Village》
-1. Assessed yield: 160 koku, 1 to, 3 shō, 8 gō, 6 shaku　《Location: Kawai Village》
-1. Assessed yield: 167 koku, 9 shō　　　　　　　　　　　《Location: Nakabu Village》
-1. Assessed yield: 128 koku, 6 to, 6 shō, 5 gō, 5 shaku　《Location: Hanba Village》

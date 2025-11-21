@@ -1,8 +1,0 @@
-1. Rice yield: 46 koku, 7 to　　　　　　　　　　　　　　　《Location: Kurama-guchi Village》
-1. Rice yield: 1,514 koku, 2 to, 5 sho, 5 go, 2 shaku, 8 sai　　　　　《Location: Omiya Village》
-1. Rice yield: 322 koku, 8 to, 5 sho, 2 go　　　　　　　　　《Location: Shichiku Daimon Village》
-1. Rice yield: 76 koku, 6 to, 2 sho, 4 go　　　　　　　　　　《Location: Rendaino Village》
-1. Rice yield: 22 koku, 2 sho, 2 go　　　　　　　　　　　　《Location: Zuinenji South》
-1. Rice yield: 1,331 koku, 6 to, 9 go, 5 shaku, 2 sai　　　　　《Location: Nishi-Kamo Village》
-1. Rice yield: 1,923 koku, 6 sho, 5 go, 8 shaku　《Note: Formerly Kami-Kamo Village (two villages) and Hibarahara Shinden Village》《Location: Kami-Kamo Village》
-1. Rice yield: 715 koku, 9 to, 7 sho, 1 go　　　　　　　　　　《Location: Hataeda Village》

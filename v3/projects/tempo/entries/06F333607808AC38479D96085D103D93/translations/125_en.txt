@@ -1,8 +1,0 @@
-- Assessed rice yield: 250 koku - Location: Kanaibuchi Village
-- Assessed rice yield: 238 koku 8 to 5 shō 1 gō - Location: Machiya Village
-- Assessed rice yield: 1,238 koku 3 to 2 shō 6 gō 4 yū - Location: Yahata Village
-- Assessed rice yield: 1,378 koku 1 to 5 shō - Location: Itahana Post Station
-- Assessed rice yield: 601 koku 4 to 4 shō - Location: Iwata Village
-- Assessed rice yield: 278 koku 5 to 5 gō - Location: Kami-Ōshima Village
-- Assessed rice yield: 364 koku 2 to 2 shō 2 gō - Location: Shimo-Ōshima Village
-- Assessed rice yield: 1,172 koku 1 to 3 shō 9 gō - Location: Kami-Satomi Village

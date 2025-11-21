@@ -1,9 +1,0 @@
-1. Assessed yield: 561 koku, 6 sho, 3 go 《Location: Kami-Kurata Village》
-1. Assessed yield: 508 koku, 3 to, 6 sho, 1 go 《Location: Shimo-Kurata Village》
-1. Assessed yield: 1,333 koku, 4 to, 9 sho, 4 go 《Location: Totsuka-juku》
-1. Assessed yield: 278 koku, 1 to, 5 sho, 8 go, 2 saku, 1 sai 《Location: Kumisawa Village》
-
-1. Assessed yield: 750 koku, 8 to, 4 sho, 1 go 《Location: Fukaya Village》
-1. Assessed yield: 281 koku 《Location: Kami-Matano Village》
-1. Assessed yield: 281 koku, 3 to, 1 go, 8 saku 《Location: Higashi-Matano Village》
-1. Assessed yield: 129 koku, 8 to, 9 sho, 2 go, 3 saku 《Location: Harajuku Village》

@@ -1,9 +1,0 @@
-1. Assessed yield: 901 koku, 7 to, 2 sho, 6 go　　　　　《Location: Tajima Village》【Tajima Village】
-1. Assessed yield: 41 koku, 4 to, 5 go　　　　　《Location: Sakawa Blacksmith District》
-【In the Old Assessed Yield and Domain Investigation Record Database, the Sakawa Blacksmith District does not exist as a separate entry and is included within Sakawa Village. According to the Kadokawa Dictionary of Japanese Place Names, under the entry for Sakawa Blacksmith District (early modern period) in Odawara City, Kanagawa Prefecture: "In the 'Tempo Village Registry' 41+ koku... In the 'Old Assessed Yield and Domain Investigation Record' it is part of Sakawa Village's 1,481+ koku."】
-1. Assessed yield: 1,440 koku, 4 to, 3 sho, 1 go　　　《Location: Sakawa Village》
-1. Assessed yield: 406 koku, 2 to, 1 sho, 1 go　　　　《Location: Ko-hachiman Village》
-1. Assessed yield: 1,248 koku, 5 to, 6 sho, 6 go　《Location: Kozu Village》
-1. Assessed yield: 638 koku, 9 to, 1 sho, 9 go　　　《Location: Maekawa Village》
-1. Assessed yield: 166 koku, 2 to, 5 sho, 5 go　　　《Location: Haneo Village》
-1. Assessed yield: 359 koku, 3 to, 6 sho, 1 go　　　《Location: Nakamura-hara》

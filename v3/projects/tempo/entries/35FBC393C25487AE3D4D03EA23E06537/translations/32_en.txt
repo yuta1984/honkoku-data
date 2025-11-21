@@ -1,8 +1,0 @@
-One, assessed yield 68 koku 1 sho 2 go　　　　　　　　　　Ezumi Village
-One, assessed yield 76 koku 3 to 9 sho 3 go　　　　　　　　Tanoura Village
-One, assessed yield 66 koku 8 to 9 sho 3 go　　　　　　　　Kinagashi Village
-One, assessed yield 12 koku 4 to 4 sho 1 go　　　　　　　　Ikenodaira Village
-One, assessed yield 107 koku 9 to 5 sho　　　　　　　　　　Oura Village
-One, assessed yield 48 koku 4 to 8 sho 2 go 9 shaku　　　　Itsubo Village
-One, assessed yield 73 koku 6 to 3 sho 5 go　　　　　　　　Dogama Village
-One, assessed yield 75 koku 6 to 1 sho 9 go　　　　　　　　Kamewaki Village

@@ -1,8 +1,0 @@
-One, assessed yield: 207 koku, 6 to, 9 sho, 7 go　　　《Location: Higashi-Yuge Village》
-One, assessed yield: 725 koku, 7 to, 5 sho, 9 go　《Location: Honjo Village》
-One, assessed yield: 1,215 koku, 3 to, 2 sho, 3 go　《Location: Mikuriya Village》
-One, assessed yield: 150 koku, 6 to, 6 sho, 9 go　　　《Location: Minowa Village》
-One, assessed yield: 118 koku, 1 to, 3 sho, 5 go　　　《Location: Minowa Shinden》
-One, assessed yield: 577 koku, 8 to, 4 go　　　《Location: Yokomakura Village》
-One, assessed yield: 1,351 koku, 2 go　　　　《Location: Kayafuri Village》
-One, assessed yield: 338 koku, 1 sho, 9 go　　　《Location: Shinya Village》

@@ -1,8 +1,0 @@
-One, assessed yield: 93 koku, 8 to, 1 shō, 4 gō　　　　《Location: Furukawasawa Village》
-One, assessed yield: 431 koku, 4 to, 4 shō, 2 gō　　《Location: Shimofurukawa Village》
-One, assessed yield: 468 koku, 5 to, 5 shō, 2 gō　　《Location: Shinden Village》
-One, assessed yield: 804 koku, 1 to, 8 shō, 5 gō　　　　《Location: Nakae Village》
-One, assessed yield: 443 koku, 4 to, 1 shō, 1 gō　　《Location: Ōtsuka Village》
-One, assessed yield: 1,561 koku, 7 to, 1 shō, 2 gō　《Location: Kōhoku Village》
-One, assessed yield: 641 koku, 7 to, 1 shō, 7 gō　　《Location: Anakubo Village》
-One, assessed yield: 794 koku, 7 to, 7 shō, 4 gō　　《Location: Kunisaka Village》

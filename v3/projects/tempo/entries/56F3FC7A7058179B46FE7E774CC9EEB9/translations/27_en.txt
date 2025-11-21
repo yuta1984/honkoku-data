@@ -1,8 +1,0 @@
-Item: Assessed yield of 324 koku, 3 to, 6 sho, 3 go　　《Location: Nishishikajiyama Village》
-Item: Assessed yield of 165 koku, 5 to, 6 go　　　　　《Location: Naoyama Village》
-Item: Assessed yield of 165 koku, 5 sho, 3 go　　　　　《Location: Tobainyama Village》
-Item: Assessed yield of 103 koku, 2 to, 8 sho, 4 go　　《Location: Hiramatsuyama Village》
-Item: Assessed yield of 100 koku, 2 sho, 2 go　　　　　《Location: Matsuo Village》
-Item: Assessed yield of 266 koku, 5 to, 9 sho, 1 go　　《Location: Shimoeyama Village》
-Item: Assessed yield of 76 koku, 6 to, 7 sho, 7 go　　《Location: Ideno Village》
-Item: Assessed yield of 189 koku, 4 to, 3 sho, 3 go　　《Location: Kamifujiwarayama Village》

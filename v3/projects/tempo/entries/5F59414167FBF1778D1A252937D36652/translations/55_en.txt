@@ -1,8 +1,0 @@
-1. Assessed yield: 176 koku, 8 to, 9 sho, 1 go, 8 shaku, 4 sai　　　Nesaki-machi
-1. Assessed yield: 376 koku, 2 to, 1 sho, 3 go, 4 shaku, 4 sai　　Takeda-machi
-1. Assessed yield: 332 koku, 6 to, 3 sho, 3 go, 8 shaku, 2 sai　　Kameya-machi
-1. Assessed yield: 612 koku, 5 to, 2 go　　　　　　　　　　　　Honmachi
-1. Assessed yield: 195 koku, 3 to, 3 sho, 8 go　　　　　　　　Matsuoka-machi
-1. Assessed yield: 307 koku, 2 to, 2 sho, 9 go, 8 shaku, 4 sai　Wakamiya-machi
-1. Assessed yield: 1,356 koku, 8 sho, 3 go　　　　　　　　　　Takakoshi Village
-1. Assessed yield: 587 koku, 1 to, 8 sho　　　　　　　　　　　Tateno Village

@@ -1,8 +1,0 @@
-1. Assessed yield: 515 koku, 7 to, 3 sho　　　　　　　　　　　Nagai village
-1. Assessed yield: 940 koku, 7 to, 6 sho, 6 go　　　　　　　　Hazumi village
-1. Assessed yield: 563 koku, 9 to, 3 sho, 4 go, 8 shaku　　　　Komaba village
-1. Assessed yield: 865 koku, 6 to, 1 go　　　　　　　　　　　Iemu village
-1. Assessed yield: 519 koku, 6 to, 2 sho, 8 go　　　　　　　　Hirahara village
-1. Assessed yield: 368 koku, 4 to, 6 sho, 1 go　　　　　　　　Zenmyō village
-1. Assessed yield: 900 koku, 8 to, 7 sho, 6 go　　　　　　　　Muro village
-1. Assessed yield: 491 koku, 4 to, 2 go, 5 shaku　　　　　　　Kaibuki village

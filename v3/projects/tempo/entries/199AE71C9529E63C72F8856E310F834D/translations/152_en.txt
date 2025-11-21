@@ -1,8 +1,0 @@
-1. Assessed yield: 847 koku, 9 to, 4 sho, 5 go - Nakanobane Village
-1. Assessed yield: 409 koku, 4 sho, 7 go, 6 shaku - Tochii Village (branch village of Nakanobane Village)
-1. Assessed yield: 646 koku, 6 to, 6 sho, 2 go - Kamikawabe Village
-1. Assessed yield: 585 koku, 9 to - Ishigami Village
-1. Assessed yield: 303 koku, 6 to, 9 sho - Shimoaso Village
-1. Assessed yield: 105 koku, 3 to, 7 sho, 6 go - Kashiwabara Village (Kamiyoshida)
-1. Assessed yield: 23 koku, 5 to, 2 sho, 7 go - Yuzuriha Village (Kamiyoshida)
-1. Assessed yield: 57 koku, 3 to, 8 sho, 1 go - Take Village (Kamiyoshida)

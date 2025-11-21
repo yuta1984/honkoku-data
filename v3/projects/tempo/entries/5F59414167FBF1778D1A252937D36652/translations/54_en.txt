@@ -1,8 +1,0 @@
-1. Assessed yield: 1,796 koku, 5 to, 7 go, 3 shaku, 4 sai　　　　Shimokawasaki Village
-1. Assessed yield: 1,968 koku, 6 to, 5 sho, 9 go, 5 shaku　　　　Kamikawasaki Village
-1. Assessed yield: 673 koku, 1 to, 9 sho, 6 go, 3 shaku, 4 sai　　Ozawa Village
-1. Assessed yield: 1,870 koku, 5 sho, 5 go, 3 shaku, 3 sai　　　　Shibukawa Village
-1. Assessed yield: 3,274 koku, 6 to, 9 sho, 4 go, 6 shaku, 9 sai　Yui Village
-1. Assessed yield: 1,881 koku, 1 to, 7 sho, 3 go, 2 shaku, 9 sai　Shiozawa Village
-1. Assessed yield: 1,198 koku, 9 to, 9 sho, 9 go, 2 shaku　　　　Kami-Narita Village
-1. Assessed yield: 1,306 koku, 2 to, 3 sho, 6 go, 3 shaku, 8 sai　Shimo-Narita Village

@@ -1,8 +1,0 @@
-One: Assessed yield of 2,177 koku, 2 to, 9 sho - Yokota Village
-One: Assessed yield of 128 koku, 9 to, 5 sho - Kita-Yagyū Village
-One: Assessed yield of 478 koku, 1 to, 1 sho, 5 go - Wani Village
-One: Assessed yield of 77 koku, 9 to, 8 sho, 5 go - Kokūzō Village
-One: Assessed yield of 521 koku, 6 to, 4 sho, 3 go - Takatoi Village
-One: Assessed yield of 326 koku, 4 sho, 5 go - Kita-Tsubakio Village
-One: Assessed yield of 64 koku, 7 go - Minami-Tsubakio Village
-One: Assessed yield of 121 koku, 6 sho, 3 go - Kōryūji Village

@@ -1,8 +1,0 @@
-Item 1: Assessed yield of 556 koku, 3 to, 1 sho, 2 go　《Location: Kanai Village》
-Item 1: Assessed yield of 229 koku, 8 to, 5 sho, 9 go　《Location: Ippongi Village》
-Item 1: Assessed yield of 728 koku, 7 to, 9 sho　　　《Location: Takehara Village》
-Item 1: Assessed yield of 569 koku, 4 to, 7 sho, 4 go　《Location: Togari Village》
-Item 1: Assessed yield of 234 koku, 3 to, 8 sho, 3 go　《Location: Matsukawa Village》
-Item 1: Assessed yield of 1,050 koku, 3 sho, 9 go　　　　　《Location: Nakano Village》
-Item 1: Assessed yield of 605 koku, 3 sho, 7 go　　　　　《Location: Odanaka Village》
-Item 1: Assessed yield of 558 koku, 9 to, 7 sho, 7 go　《Location: Sarashina Village》

@@ -1,8 +1,0 @@
-1. Assessed yield: 64 koku, 4 to, 1 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　Tsutsui village
-1. Assessed yield: 49 koku, 4 to, 2 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Oritachi village
-1. Assessed yield: 47 koku, 6 to, 7 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Kurishima village
-1. Assessed yield: 72 koku, 8 to, 1 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　Kuwadaira-shinden
-1. Assessed yield: 62 koku, 3 to, 4 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　Matsudo village
-1. Assessed yield: 19 koku, 7 to, 1 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Ure village
-1. Assessed yield: 40 koku, 2 to, 3 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　Onakura village
-1. Assessed yield: 121 koku, 6 to, 7 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Kawamukai village

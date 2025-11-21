@@ -1,8 +1,0 @@
-One, assessed yield: 472 koku, 8 to, 3 shō, 6 gō　　　　　《Location: Matano Village》
-One, assessed yield: 5 koku, 6 to, 6 shō, 7 gō　　　　　《Annotation: 《Location: Matano Village Shinden》》《Location: Fukutani Village》
-One, assessed yield: 31 koku, 7 to, 3 shō, 1 gō　　　　　　　《Location: Sukesawa Village》
-One, assessed yield: 7 koku, 1 shō, 7 gō　　　　　　　　　　　《Location: Shimokaya Village》
-One, assessed yield: 227 koku, 6 to, 5 shō, 2 shaku, 6 sai　　　《Location: Ontsukue Village》
-One, assessed yield: 248 koku, 1 to, 9 shō, 3 gō, 5 shaku, 1 sai　《Location: Ōkawara Village》
-One, assessed yield: 135 koku, 1 to, 3 shō, 9 gō　　　　　　　《Location: Muyō Village》
-One, assessed yield: 28 koku, 2 to, 5 shō, 8 gō　　　　　　　《Location: Kurio Village》

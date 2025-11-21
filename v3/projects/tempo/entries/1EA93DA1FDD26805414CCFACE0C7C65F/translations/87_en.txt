@@ -1,8 +1,0 @@
-Item 1: Assessment 571 koku, 1 to, 5 go　　　　《Location: Okura Village》
-Item 1: Assessment 268 koku, 7 to, 8 sho, 5 go　《Location: Nogaya Village》
-Item 1: Assessment 604 koku, 2 to, 5 sho, 4 go　　　　《Location: Miwa Village》
-Item 1: Assessment 323 koku, 1 to, 4 sho, 3 go　　《Location: Okanoue Village》
-Item 1: Assessment 320 koku, 8 to, 8 sho, 3 go, 5 shaku　《Location: Kanai Village》
-Item 1: Assessment 132 koku, 1 to, 3 sho, 1 go　　　《Location: Otani Village》
-Item 1: Assessment 329 koku, 8 to, 8 sho, 4 go　《Location: Takagasaka Village》
-Item 1: Assessment 716 koku, 7 to, 6 sho, 6 go　　　《Location: Naruse Village》

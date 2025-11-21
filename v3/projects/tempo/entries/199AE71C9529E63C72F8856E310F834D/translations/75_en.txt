@@ -1,8 +1,0 @@
-1. Assessed yield: 927 koku, 2 to, 1 sho, 6 go - Kogaki Village
-1. Assessed yield: 632 koku, 5 to, 2 sho, 9 go - Baba Village
-1. Assessed yield: 1,141 koku, 9 to, 6 sho, 7 go - Takaya Village
-1. Assessed yield: 1,515 koku, 6 to, 3 go, 8 shaku - Kitagata Village
-1. Assessed yield: 452 koku, 2 to, 2 sho, 7 go - Hashiramoto Village (branch village of Kitagata Village)
-1. Assessed yield: 1,823 koku, 4 to, 5 sho, 5 go - Kamimakuwa Village
-1. Assessed yield: 1,479 koku, 2 to, 3 sho, 6 go - Shimomakuwa Village
-1. Assessed yield: 267 koku, 2 to, 5 sho, 9 go - Kodanjō Village

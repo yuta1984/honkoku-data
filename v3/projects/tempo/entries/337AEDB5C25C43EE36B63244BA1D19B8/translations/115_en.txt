@@ -1,8 +1,0 @@
-One: Assessed rice yield 1,476 koku 8 to 1 sho 1 go　　《Location: Mikumo Village》
-One: Assessed rice yield 634 koku 5 to 2 sho 9 go 8 shaku　《Location: Daimon Village》
-One: Assessed rice yield 686 koku 4 to 8 sho 6 go　　　《Location: Ida Village》
-One: Assessed rice yield 450 koku 9 to 5 sho 7 go　　　　《Location: Omaru Village》
-One: Assessed rice yield 338 koku 5 to 8 sho 9 go　　　《Location: Korai-ji Village》
-One: Assessed rice yield 427 koku 1 to 1 sho 9 go 1 shaku　《Location: Utagawahara Village》
-One: Assessed rice yield 1,226 koku 9 to 8 sho 3 go　　《Location: Misaka Village》
-One: Assessed rice yield 429 koku 2 to 4 go　　　　　《Location: Raizan Village》

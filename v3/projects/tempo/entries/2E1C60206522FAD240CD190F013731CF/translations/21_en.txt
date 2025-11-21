@@ -1,8 +1,0 @@
-One: Assessed yield of 855 koku, 1 to, 8 sho - Akishino Village
-One: Assessed yield of 666 koku, 5 to, 3 sho, 8 go - Nakayama Village
-One: Assessed yield of 798 koku, 8 to, 5 sho - Oshikuma Village
-One: Assessed yield of 685 koku, 1 to, 5 sho, 9 go - Chōshōji Village
-One: Assessed yield of 494 koku, 2 to, 7 sho, 1 go - Branch village of Chōshōji Village - Sanryō Village
-One: Assessed yield of 627 koku, 3 to, 7 sho, 5 go - Branch village of Chōshōji Village - Yokoryō Village
-One: Assessed yield of 208 koku, 5 to, 5 go - Branch village of Chōshōji Village - Mongai Village
-One: Assessed yield of 274 koku, 7 to, 7 go - Formerly Nishihata Village - Ko-Chōshōji Village

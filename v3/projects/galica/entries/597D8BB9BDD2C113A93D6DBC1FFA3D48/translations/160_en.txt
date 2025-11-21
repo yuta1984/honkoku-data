@@ -1,9 +1,0 @@
-One　Discharge gate　　　No guards are normally stationed at this location
-One　East town entrance main gate　2 regular guards　One set of three tools
-One　West town entrance main gate　Same as above　　Same as above
-　　　　Above [concludes the gate guard section]
-　　　　Record
-One　Sailors and boat captains together　　　31 people
-One　Among 22 boats in total
-　　　　From 16 tan to 5 tan　13 boats
-　　　　Cargo boat 18 tan　　　　　1 boat

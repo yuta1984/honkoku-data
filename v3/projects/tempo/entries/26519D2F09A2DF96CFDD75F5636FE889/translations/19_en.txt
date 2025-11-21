@@ -1,8 +1,0 @@
-1. Rice yield: 1,116 koku, 7 to, 1 sho　　　　《Location: Shirakawa Village》
-1. Rice yield: 775 koku, 5 to, 6 sho, 2 go　　《Location: Yoshida Village》
-1. Rice yield: 47 koku, 3 to, 2 sho, 1 go　　　《Location: Harachi Shinden》
-1. Rice yield: 6 koku, 1 to, 9 sho　　　　　　《Location: Higashigawara》
-1. Rice yield: 14 koku, 6 to, 3 sho, 9 go, 3 shaku　《Location: Kojinguchi-machi》
-1. Rice yield: 2 to　　　　　　　　　　　　　《Location: Imadegawa Masugata》
-1. Rice yield: 4 koku, 5 to, 4 sho, 4 go　　　《Location: Shinshosu-machi》
-1. Rice yield: 12 koku, 6 to, 8 sho, 5 go　　　《Location: Nijo-gawara-dai》

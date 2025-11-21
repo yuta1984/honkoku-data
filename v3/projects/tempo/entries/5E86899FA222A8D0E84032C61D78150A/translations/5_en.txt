@@ -1,8 +1,0 @@
-One, assessed yield: 436 koku, 3 to, 8 sho, 4 go　《Location: Nishihashiba Village》
-One, assessed yield: 270 koku, 5 to, 1 sho, 3 go　　《Location: Yasuda Village》
-One, assessed yield: 336 koku, 2 to, 6 sho　　　《Location: Shimo Village》
-One, assessed yield: 499 koku, 3 to, 9 sho　　　《Location: Kitajima Village》
-One, assessed yield: 384 koku, 6 to, 5 sho, 9 go　《Location: Uchikoshi Village》
-One, assessed yield: 464 koku, 1 to, 8 sho, 3 go　《Location: Yokochi Village》
-One, assessed yield: 695 koku, 7 to, 9 sho, 4 go　《Location: Noguchi Village》
-One, assessed yield: 26 koku, 5 to, 7 sho, 8 go　　《Location: Jōshōji Village》

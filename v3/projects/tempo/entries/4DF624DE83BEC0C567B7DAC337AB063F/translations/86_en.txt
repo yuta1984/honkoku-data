@@ -1,8 +1,0 @@
-Item 1: Assessed yield 133 koku 9 to 4 sho　　　　　　《Location: Yakyu Village》
-Item 1: Assessed yield 257 koku 2 to 8 sho 6 go 2 shaku　《Location: Hofukuji-machi Village》《Side note: [Kyūdaka Kyūryō Torishirabe-chō = Hofukuji Village]》
-Item 1: Assessed yield 8 koku 3 to 1 sho　　　　　　　　《Location: Kanayama-machi Village》
-Item 1: Assessed yield 213 koku 6 to 6 sho 2 go　　　　《Location: Tononoiri Village》
-Item 1: Assessed yield 287 koku 9 to 2 sho 4 go 3 shaku　《Location: Mitsusaiyama Village》
-Item 1: Assessed yield 268 koku　　　　　　　　　《Location: Akanuta Village》
-Item 1: Assessed yield 271 koku 5 to 2 sho 8 go　　　　《Location: Nanaarashi Village》
-Item 1: Assessed yield 361 koku 2 to 7 sho 5 go　　　　《Location: Kariyahara Village》《Side note: [Kyūdaka Kyūryō Torishirabe-chō = Kariyahara-machi Village]》

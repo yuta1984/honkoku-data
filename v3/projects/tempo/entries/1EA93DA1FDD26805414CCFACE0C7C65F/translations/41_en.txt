@@ -1,8 +1,0 @@
-Item 1: Assessment 309 koku, 9 to, 2 sho, 2 go, 2 shaku, 4 sai　《Location: Shishigaya Village》
-Item 1: Assessment 608 koku, 9 to, 7 sho, 5 go, 2 shaku　　　　　《Location: Komaoka Village》
-Item 1: Assessment 13 koku, 5 to, 3 sho, 2 go　　　　　　　《Location: Fujita Shinden》
-Item 1: Assessment 332 koku, 7 go　　　　　　　　　《Location: Morooka Village》
-Item 1: Assessment 384 koku, 5 sho, 6 go　　　　　　　　《Location: Taru Village》
-Item 1: Assessment 251 koku, 7 to, 3 sho, 9 go　　　　《Location: Osone Village》
-Item 1: Assessment 600 koku, 1 sho, 1 shaku　　　　　　　　　　《Location: Oo Village》
-Item 1: Assessment 365 koku, 5 to, 5 sho, 5 go, 1 shaku　　《Location: Mamedo Village》

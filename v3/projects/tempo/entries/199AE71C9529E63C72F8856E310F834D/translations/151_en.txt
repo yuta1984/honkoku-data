@@ -1,8 +1,0 @@
-1. Assessed yield: 42 koku, 7 to, 2 sho, 4 go - Habata Village (Yamanoue)
-1. Assessed yield: 35 koku, 9 to, 1 sho, 6 go - Nojihara Village (Yamanoue)
-1. Assessed yield: 189 koku, 8 to, 2 go - Minamisaka Village (Yamanoue)
-1. Assessed yield: 181 koku, 3 to, 2 sho, 3 go - Nishihora Village (Yamanoue)
-1. Assessed yield: 244 koku, 4 to, 2 sho, 9 go - Honji Village (Yamanoue)
-1. Assessed yield: 352 koku, 9 to, 1 sho, 4 go - Saguchi Village (Yamanoue)
-1. Assessed yield: 501 koku, 3 to - Shimokawabe Village
-1. Assessed yield: 194 koku, 2 to, 2 sho - Tochii Village (branch village of Shimokawabe Village)
