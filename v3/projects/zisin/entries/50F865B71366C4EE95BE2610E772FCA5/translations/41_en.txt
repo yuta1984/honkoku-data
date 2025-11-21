@@ -1,0 +1,14 @@
+Cost: 5 monme silver        Note: 2 monme 5 bu silver per piece
+Item: Cedar boards 10 pieces, length 6 shaku, width 1 shaku    Bridge guard house
+                              thickness 4 bu                    roof boards
+    Cost: 6 monme silver        Note: 6 bu silver per board
+Item: Cedar 1 piece, length 6 shaku, 2 sun square    Same, ridge beam
+    Cost: 1 monme 5 bu silver
+Item: Pine 2 pieces, length 2 ken, size 2 sun square    Lantern stand frame
+    Cost: 1 monme 6 bu silver    Note: 8 bu silver per piece
+Item: Pine boards 5 pieces, length 6 shaku, width 1 shaku    Attachment for same location
+                              thickness 4 bu
+    Cost: 3 monme silver        Note: 6 bu silver per board
+Item: Chestnut 3.5 pieces, length 2 ken, size 4 sun square    Board fence foundation
+    Cost: 17 monme 5 bu silver    Note: 5 monme silver per piece
+Item: Cedar 2.5 pieces, length 2 ken, size 4 sun square    Same, pillars

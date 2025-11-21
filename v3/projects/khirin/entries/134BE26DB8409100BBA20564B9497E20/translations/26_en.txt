@@ -1,0 +1,17 @@
+Number of oil shops throughout our domain is as follows:
+
+1. Eight shops　　　　　　　　　　　Myōdō District
+1. Twelve shops　　　　　　　　　　Myōzai District  
+1. Fifty-six shops　　　　　　　　　Itano District
+　　Of which twenty-four shops　in coastal villages
+1. Six shops　　　　　　　　　　　　Katsuura District
+1. Twenty-four shops　　　　　　　　Awa District
+1. Twelve shops　　　　　　　　　　Oe District
+1. Twenty-two shops　　　　　　　　Mima District
+1. Twenty-two shops　　　　　　　　Miyoshi District
+1. Seventeen shops　　　　　　　　　Naka District
+1. None　　　　　　　　　　　　　　Kaifu District
+
+Total: One hundred eighty-four shops
+
+Snake year, 10th month, 28th day [October 28, 1833]

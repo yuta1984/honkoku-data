@@ -1,0 +1,52 @@
+2. Financial Settlement
+
+　　　Revenue Section
+Fiscal Year　　　　Regular Section　　　　　　　　　　　　　　　　　　　　　Extraordinary Section　　Total Revenue
+　　　　　　　Admission Fees　　　Funds from Operating Entity　　Total　　　　　　(National Subsidies)
+　　　　　　　　　　Yen　　　　　　　　Yen　　　　　　　Yen　　　Extra 15,568.76　　　　Yen
+Showa 10　　　　1,071.80　　　3,104.96　　　4,176.76　　Regular 1,022.81　20,768.33
+Showa 11　　　11,365.25　　　4,313.08　　　15,678.33　　　1,437.26　17,115.59
+Showa 12　　　10,218.27　　　8,782.86　　　19,001.13　　　2,927.61　21,928.74
+
+　　　Expenditure Section
+Fiscal Year　　　　Regular Section　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Extraordinary Section　　Total Expenditure
+　　　　　　　Salaries　　　　Misc. Pay　　　　Supply Costs　　　Patient Costs　　　Repair Costs　　　Total　　　　　(Including construction and initial equipment costs)
+　　　　　　　　　Yen　　　　　Yen　　　　　　Yen　　　　　　　Yen　　　Yen　　　　　　　Yen　　　　　　Yen　　　　　　　Yen
+Showa 10　　　2,594.54　　361.50　　623.10　　1,592.63　27.80　　5,199.57　66,435.55　71,635.12
+Showa 11　　　4,872.53　1,549.98　2,993.91　　7,602.77　96.40　17,115.59　　　―　　17,115.59
+Showa 12　　　6,537.53　2,144.35　2,975.84　10,183.40　87.62　21,928.74　　　―　　21,928.74
+
+　　　　　　　3. Daily Cost per Patient
+Fiscal Year　　　　Operating Costs　　　　　　　　　　　Patient Costs
+　　　　　　　　　　　　　　　　　　　　　　Food Costs　　　　　　　Medical Costs　　　　　　Clothing & Bedding Costs　　　Others　　　　　Total
+　　　　　　Total　　　　Per Patient Daily　Total　　　　Per Patient Daily　Total　　　　Per Patient Daily　Total　　　　Per Patient Daily　Total　Per Patient Daily　Total　　　　Per Patient Daily
+　　　　　　　Yen　　　Yen　　　　　　Yen　　Yen　　　　　　Yen　　Yen　　　　　　　　　　　　　　　　　　　　　　　　Yen　　Yen
+Showa 10　　5,163.07　3.599　　430.50　0.300　　255.23　0.080　　　―　　―　　　　　―　　　685.73　0.478
+Showa 11　17,115.00　1.192　4,297.00　0.300　3,229.00　0.225　　48.00　0.003　　　　　―　　7,574.00　0.528
+Showa 12　21,928.74　1.236　6,198.66　0.350　4,039.14　0.227　344.70　0.020　　　　　―　10,582.50　0.597
+Note: Clothing and bedding costs for Showa 10 were paid from extraordinary maintenance funds and therefore not included in the regular section.
+
+　　　　5. Various Tables
+　　　　　　　1. Patient Admission and Discharge Movement Table
+Classification　　　　　　　　　　　Those ordered to be　Those admitted by　Those entrusted by other　Total
+　　　　　　　　　　　　　　　　　hospitalized by　　　their own wish　　　public entities
+　　　　　　　　　　　　　　　　　prefectural governor
+　　　　　　　　　　　　　　　　　Free　Paid　　　　　Free　Paid　　　　Free　Paid　　　　　Free　Paid
+Accommodated Patients　Carried over from previous year　Male　―　　―　　　　　18　　11　　　　　―　　―　　　　　18　　11
+　　　　　　　　　　　　　　　　　　　　　　　　　Female　―　　―　　　　　2　　7　　　　　　―　　―　　　　　2　　7
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　―　　―　　　　　20　　18　　　　　―　　―　　　　　20　　18
+　　　　　Admitted during current year　　　　　　　　Male　―　　―　　　　　22　　37　　　　　―　　―　　　　　22　　37
+　　　　　　　　　　　　　　　　　　　　　　　　　Female　―　　―　　　　　15　　18　　　　　―　　―　　　　　15　　18
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　―　　―　　　　　37　　55　　　　　―　　―　　　　　37　　55
+　　　　　Total　　　　　　　　　　　　　　　　　　Male　―　　―　　　　　40　　48　　　　　―　　―　　　　　40　　48
+　　　　　　　　　　　　　　　　　　　　　　　　　Female　―　　―　　　　　17　　25　　　　　―　　―　　　　　17　　25
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　―　　―　　　　　57　　73　　　　　―　　―　　　　　57　　73
+Discharged Patients　　　　　　　　　　　　　　　　Male　―　　―　　　　　19　　31　　　　　―　　―　　　　　19　　31
+　　　　　　　　　　　　　　　　　　　　　　　　　Female　―　　―　　　　　11　　15　　　　　―　　―　　　　　11　　15
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　―　　―　　　　　30　　46　　　　　―　　―　　　　　30　　46
+Patients at end of fiscal year　　　　　　　　　　　Male　―　　―　　　　　20　　18　　　　　―　　―　　　　　20　　18
+　　　　　　　　　　　　　　　　　　　　　　　　　Female　―　　―　　　　　6　　10　　　　　―　　―　　　　　6　　10
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　―　　―　　　　　26　　28　　　　　―　　―　　　　　26　　28
+Accommodation capacity at end of fiscal year　　　　Male
+　　　　　　　　　　　　　　　　　　　　　　　　　Female
+　　　　　　　　　　　　　　　　　　　　　　　　　Total　　　　　　　　　　　　　　　　　　　　　　　　　　　　40　　40

@@ -1,0 +1,32 @@
+[Which District] [Which Town]
+　　　　　　　　　　　　　　　　　　　[Which Village]
+　　　　　　　　　　　　　　　　　　　　　[Which Temple]
+　　　　　　　　　　　　　　　　　　　　　　Mountain name
+　　　　　　　　　　　　　　　　　　　　　　Temple title
+1. Sect: which sect, head temple: which temple in which province
+　　However, the detailed history of the main and branch temple relationship should be recorded. If there is no history, write "no history"
+　　1. If converted from the original sect, record what the previous sect was and from what year it changed to the current sect
+1. What is the enshrined principal deity, who was the founder and in what year was it established
+　　However, if relocated from the original temple grounds, record where the previous temple grounds were
+1. Detailed history of temple rank　　Including matters such as imperial edicts and purple robe privileges
+1. Temple grounds area and buildings　　Main hall: how many ken by how many ken, reception hall likewise, kitchen quarters likewise, verandas follow the same format
+　　　　　　　　　　Presence or absence of large bell and bell tower
+1. How many sub-temples　Temple names
+　　However, if there are currently no buildings, record the reason
+1. Halls and other buildings under the temple's jurisdiction outside the temple grounds, as well as secondary residences, retirement quarters, or sites of abandoned temples
+　Ground area, presence or absence of current buildings
+　　However, the reason for jurisdiction from what year
+1. Origin of shogunal seal lands, tax-exempt lands, etc.
+1. Origin of temple holdings, mountain holdings, etc.
+1. Shogunal donations of stipend rice and their origin
+1. Origin of possession of curtains with the Tokugawa hollyhock crest and similar donated items
+1. If there are prohibition notices, their origin
+1. Number of years of the current head priest's tenure
+　　However, for temples without resident priests: from what year vacant, who is the current caretaker
+1. Parishioner registry
+　　　　　　　　　　[Which District] [Which Town] [Name]
+　　　　　　　　　　　　　　Same
+　　　　　　　　　　[Which District] [Which Village] [Name]
+　　　　　　　　　　　　　　Same
+　　However, it is not necessary to record members of the lord's retainer band
+　The above written report is submitted regarding this inspection. End

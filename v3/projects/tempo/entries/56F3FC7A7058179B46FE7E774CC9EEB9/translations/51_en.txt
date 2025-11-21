@@ -1,0 +1,8 @@
+《Location: Ogi District》
+Item: Assessed yield of 419 koku, 6 to, 7 sho, 1 go　《Location: Tatemono-ga-sato Village》
+Item: Assessed yield of 483 koku, 8 to, 1 sho, 5 go《Location: Ashida-ga-sato Village》
+Item: Assessed yield of 236 koku, 0 to, 8 sho, 9 go　　《Location: Kishimamizo-ga-sato Village》
+Item: Assessed yield of 732 koku, 5 to, 6 sho, 4 go《Location: Takada Village》
+Item: Assessed yield of 366 koku, 7 to, 5 sho, 9 go《Location: Yashiro-ga-sato Village》
+Item: Assessed yield of 358 koku, 3 to, 7 sho, 5 go《Location: Eguchi-ga-sato Village》
+Item: Assessed yield of 382 koku, 1 to, 7 sho, 4 go《Location: Gojo-ga-sato Village》

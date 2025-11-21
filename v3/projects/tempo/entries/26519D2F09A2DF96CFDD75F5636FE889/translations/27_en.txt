@@ -1,0 +1,8 @@
+1. Rice yield: 336 koku, 3 to, 7 sho, 3 go, 3 shaku　《Gokasho》《Location: Okamoto Village》
+1. Rice yield: 164 koku, 3 to, 4 sho　　　　　　《Gokasho》《Location: Kami Village》
+1. Rice yield: 237 koku, 7 go, 6 shaku　　　　　《Gokasho》《Location: Tani Village》
+1. Rice yield: 383 koku, 4 sho, 9 go　　　　　《Gokasho》《Location: Okaya Village》
+1. Rice yield: 185 koku, 9 to, 8 sho, 7 go　　　　《Gokasho》《Location: Owada Village》
+1. Rice yield: 50 koku, 4 sho, 7 go　　　　　　　　《Gokasho》《Location: Hatadera Village》
+1. Rice yield: 64 koku, 8 to, 3 go　　　　　　　《Gokasho》《Location: Shinide Village》
+1. Rice yield: 500 koku　　　　　　　　　　　　　　　《Location: Daihoji Village》

@@ -1,0 +1,8 @@
+One, Rice yield assessment: 270 koku, 9 to, 2 sho, 5 go, 8 shaku, 8 sai　　《Sub-entry: Within《Location: Ishigaki Island》》《Location: Miyara Magiri》
+One, Rice yield assessment: 1,044 koku, 1 to, 6 go, 5 shaku, 2 sai　　　　《Sub-entry: Within《Location: Ishigaki Island》》《Location: Ohama Magiri》
+One, Rice yield assessment: 980 koku, 5 to, 8 sho, 8 go, 7 shaku, 4 sai　　《Sub-entry: Within《Location: Ishigaki Island》》《Location: Ishigaki Magiri》
+One, Rice yield assessment: 52 koku, 2 to, 9 sho, 9 go　　　　　　　《Sub-entry: Within《Location: Yaeyama Island》》《Location: Taketomi Island》
+One, Rice yield assessment: 286 koku, 7 to, 4 sho, 6 go, 6 shaku, 4 sai　《Sub-entry: Within《Location: Yaeyama Island》》《Location: Kuroshima Island》
+One, Rice yield assessment: 427 koku, 4 to, 7 shaku, 3 sai　　　　　《Sub-entry: Within《Location: Yaeyama Island》》《Location: Hateruma Island》
+One, Rice yield assessment: 274 koku　　　　　　　　　　　《Sub-entry: Within《Location: Iriomote Island》》《Location: Kohama Island》
+One, Rice yield assessment: 1,722 koku, 1 to, 7 sho, 5 shaku, 5 sai　　《Sub-entry: Within《Location: Iriomote Island》》《Location: Komi Magiri》

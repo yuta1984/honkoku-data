@@ -1,0 +1,8 @@
+Item 1: Assessment 709 koku, 1 to, 6 sho, 6 go　　　　《Location: Nakasone Village》
+Item 1: Assessment 103 koku, 7 to, 2 sho, 9 go　　　　　　《Location: Wada Village》
+Item 1: Assessment 352 koku, 8 to　　　　　　《Location: Shimo-Onda Village》
+Item 1: Assessment 299 koku, 5 to, 7 go　　　　《Location: Naka-Onda Village》
+Item 1: Assessment 156 koku, 5 to, 3 go　　　　　《Location: Kami-Onda Village》
+Item 1: Assessment 562 koku, 5 to, 5 sho, 6 go　　　《Location: Muraoka Village》
+Item 1: Assessment 830 koku, 6 sho, 5 go　　　　　　《Location: Mankichi Village》
+Item 1: Assessment 377 koku, 6 to, 2 sho, 2 go　《Location: Osho-Shinden Village》

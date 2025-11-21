@@ -1,0 +1,13 @@
+(Formerly Ishizuka Shinden Village)
+1. Assessed yield: 143 koku, 4 to, 2 sho, 5 go　　　　Ishizuka Village
+　　　　　　　　　　　　　　　　　　　　　　　　(Formerly Kaizawa Shinden Village)
+1. Assessed yield: 1,239 koku, 3 to, 1 sho, 3 go　　　Kaizawa Village
+　　　　　　　　　　　　　　　　　　　　　　　　(Formerly Sugi-no-miya Village)
+1. Assessed yield: 787 koku, 2 to, 5 sho, 2 go　　　　Sugimiya Village
+　　　　　　　　　　　　　　　　　　　　　　　　(Formerly Nishimonai Village)
+1. Assessed yield: 1,475 koku, 4 to, 4 sho, 9 go　　　Nishimonai Maego Village
+　　　　　　　　　　　　　　　　　　　　　　　　(Formerly Horimawari Shinden Village)
+1. Assessed yield: 1,525 koku, 3 to, 2 sho, 4 go　　　Nishimonai Horimawari Village
+1. Assessed yield: 660 koku, 5 to, 6 sho　　　　　　　Kami-sendo Village
+1. Assessed yield: 693 koku, 2 to, 1 sho, 5 go　　　　Naka-sendo Village
+1. Assessed yield: 638 koku, 6 to, 6 sho, 7 go　　　　Shimo-sendo Village

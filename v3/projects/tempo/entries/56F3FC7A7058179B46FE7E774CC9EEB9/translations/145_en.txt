@@ -1,0 +1,5 @@
+Item: Assessed yield of 290 koku, 5 to, 1 sho, 9 go　　《Location: Muroshima Village》
+Item: Assessed yield of 107 koku, 2 to, 7 sho　　　　　《Location: Fukaura Village》
+Item: Assessed yield of 37 koku, 2 to, 4 sho, 7 go　　《Location: Gyumata Village》
+　Subtotal assessed yield: 85,436 koku, 3 to, 6 sho, 1 go
+　　　　　　　　　　　《Location: Kishima District》　114 villages

@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 904 koku, 6 to, 4 go　　　　　　《Location: Obuse Village》
+Item 1: Assessed yield of 516 koku, 3 to, 9 sho, 2 go　　　《Location: Iida Village》
+Item 1: Assessed yield of 255 koku, 4 sho, 1 go　　　　《Location: Kitaoka Village》
+Item 1: Assessed yield of 960 koku, 5 to, 4 sho, 9 go, 1 shaku　《Location: Oshikiri Village》
+Item 1: Assessed yield of 508 koku, 2 to, 3 sho, 8 go　　　　《Location: Sannoujima Village》
+Item 1: Assessed yield of 263 koku, 3 to, 5 sho　　　　《Location: Haba Village》
+Item 1: Assessed yield of 135 koku, 9 to, 8 sho, 5 go　　　《Location: Shimizu Village》
+Item 1: Assessed yield of 505 koku, 9 to, 1 sho, 9 go　　　　《Location: Sakurazawa Village》

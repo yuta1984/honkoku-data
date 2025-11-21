@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 231 koku, 2 to, 8 go　　　《Location: Komaba Village》【Old Land Registry = Komaba Village】
+Item 1: Assessed yield of 689 koku, 1 to, 2 sho, 6 go　《Location: Karita Village》【Old Land Registry = Karita Village】
+Item 1: Assessed yield of 176 koku, 8 to, 1 sho　　　　《Location: Matsumura Shinden Village》
+Item 1: Assessed yield of 306 koku, 5 to, 6 sho, 5 go　　　《Location: Nakajo Village》
+Item 1: Assessed yield of 142 koku, 8 to, 3 sho, 3 go　　《Location: Nakakozuka Village》
+Item 1: Assessed yield of 1,057 koku, 9 to, 9 sho, 6 go　　《Location: Rokugawa Village》
+Item 1: Assessed yield of 109 koku, 7 to, 8 sho, 1 go　　　　《Location: Fukuhara Shinden Village》
+Item 1: Assessed yield of 903 koku, 5 to, 1 sho, 7 go　　　《Location: Oshima Village》

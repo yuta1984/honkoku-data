@@ -1,0 +1,8 @@
+Item 1: Assessment 256 koku, 1 to, 6 sho, 5 go　　《Location: Nobe Village》
+Item 1: Assessment 386 koku, 1 to, 7 sho　　　　《Location: Hirasawa Village》
+Item 1: Assessment 236 koku, 4 to, 2 sho, 9 go　《Location: Kami-Kusabana Village》
+Item 1: Assessment 386 koku, 6 to, 4 sho, 6 go　《Location: Shimo-Kusabana Village》
+Item 1: Assessment 141 koku, 4 to, 8 sho, 6 go　　《Location: Hara-Komiya Village》
+Item 1: Assessment 310 koku, 9 to, 6 sho, 4 go　　《Location: Setooka Village》
+Item 1: Assessment 495 koku, 8 sho, 4 go　　　　《Location: Amema Village》
+Item 1: Assessment 150 koku　　　　　　　　　　《Location: Ushinuma Village》

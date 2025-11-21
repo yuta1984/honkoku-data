@@ -1,0 +1,8 @@
+One　Assessed yield: 58 koku, 6 to, 9 sho　　　　　　　　　Oshima
+One　Assessed yield: 36 koku, 8 to, 8 go　　　　　Branch island of Oshima　Harushima
+One　Assessed yield: 23 koku, 8 to, 7 sho, 1 go　　　Branch island of Oshima　Nagashima
+One　Assessed yield: 1,089 koku, 3 to, 3 sho, 3 go　　　　　　Monobe Village
+One　Assessed yield: 547 koku, 6 to, 2 sho, 3 go　　Branch village of Monobe Village　Kita Village
+One　Assessed yield: 637 koku, 1 to, 5 sho, 5 go　　　　　Nagamine Village
+One　Assessed yield: 448 koku, 7 sho　　　　　Branch village of Nagamine Village　Oura Village
+One　Assessed yield: 394 koku, 5 to, 4 sho, 5 go　　Branch village of Nagamine Village　Hanjo Village

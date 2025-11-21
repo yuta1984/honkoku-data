@@ -1,0 +1,11 @@
+Item 1: Assessment 331 koku, 3 to, 6 sho, 8 go, 5 shaku　　　　　　《Location: Imazato Village》
+Item 1: Assessment 442 koku, 2 to, 6 sho, 7 go, 9 shaku　　　　　　《Location: Shirokane Village》
+Item 1: Assessment 98 koku, 8 to, 2 sho, 3 go　　　　　　　　　《Location: Shirokanedai Town》
+　　　　　　　　　　　　　　　　《Note: Formerly《Note: 《Location: Kami-Osaki Village》｜《Location: Nagamine Rokken-chaya Town》》2 villages｜》
+Item 1: Assessment 439 koku, 8 to, 1 go, 1 shaku　　　　　　　《Location: Kami-Osaki Village》
+Item 1: Assessment 312 koku, 3 to, 6 sho, 9 go, 1 shaku, 7 sai　　　　《Location: Shimo-Osaki Village》
+　　　　　　　　　　　　　　　　《Note: Formerly《Note: 《Location: Kita-Shinagawa Town》｜《Location: Dai Town》｜《Location: Miki Village》》3 villages｜》
+Item 1: Assessment 450 koku, 6 to, 3 sho, 4 go　　　　　　　　《Location: Kita-Shinagawa Post Station》
+　　　　　　　　　　　　　　　　《Note: Formerly《Note: 《Location: Minami-Shinagawa Town》｜《Location: Ryoshi Town》》2 towns｜》
+Item 1: Assessment 559 koku, 2 to, 2 go　　　　　　　　　《Location: Minami-Shinagawa Post Station》
+Item 1: Assessment 101 koku, 4 to, 3 sho, 1 go　　　　　　　　《Location: Futsuka-Itsuka Market Village》

@@ -1,0 +1,8 @@
+One village with a kokudaka of 8 koku, 1 to, 7 sho, 5 go: Yamate Village
+One village with a kokudaka of 4 koku, 3 to, 1 sho, 6 go, 4 shaku: Kashihara Village
+One village with a kokudaka of 7 koku, 4 to, 2 sho, 2 go, 9 shaku: Kakihira Village
+One village with a kokudaka of 2 koku, 9 to, 4 sho, 4 go, 7 shaku: Kominoue Village
+One village with a kokudaka of 4 koku, 6 to, 7 sho, 6 go, 1 shaku: Sarukai Village
+One village with a kokudaka of 6 koku, 1 to, 1 sho, 4 go, 9 shaku: Kakiuchi Village
+One village with a kokudaka of 5 koku, 2 to, 3 sho, 2 go: Kuwabata Village
+One village with a kokudaka of 3 koku, 5 to: Yamatetani Village

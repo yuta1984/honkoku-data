@@ -1,0 +1,29 @@
+124　　　　　　　　　　　Cholera Vaccination
+――――――――――――――――――――――――――――――――――
+In the first five days following the initial injection, the sanitary conditions appeared as follows:
+　　Among 210 unvaccinated: cholera patients 7 (3.33%), deaths 5 (2.38%)
+　　Among 212 vaccinated: cholera patients 5 (2.36%), deaths 4 (1.89%)
+Therefore, both the attack rate and mortality rate were remarkably similar in both groups during the first five days. A second injection was administered. In the next five days, the situation changed as follows:
+　　Among 192 unvaccinated: cholera patients 4 (2.09%), deaths 1
+　　Among 201 vaccinated: patients 0, deaths 0
+Although the numbers were obtained from small populations, these figures speak eloquently. What diminishes the favorable impression derived from this is the fact that the mortality rate increases similarly among both the vaccinated and unvaccinated. In other words, those among the vaccinated who were infected with cholera received no benefit from their injections: that is, the vaccinated were just as severely affected as the unvaccinated.
+In any case, this confirmation first noted by Haffkine provided the skeptics with a weapon; this fact cast doubt among the supporters.
+During his stay in India, Haffkine vaccinated over 40,000 people. The results were not always as good as those at Gaïa prison, but the general circumstances showed extremely favorable results for this method.
+　　　　　　　　　　＊　　＊　　＊
+Following Pfeiffer's research on the bactericidal capacity of serum and reports on immunity, Kolle discovered that the serum of people vaccinated against cholera contains large amounts of bacteriolysin. Since this bacteriolysin appears in almost equally abundant quantities whether the injected vibrios are live or dead bacteria, Kolle recommended the use of heated bacteria. Regarding this, he said that heated bacteria were safer than the cultures used by Haffkine in India.
+In 1902, during an epidemic that occurred in Japan (Hyogo), heated vaccine was used on a large scale for the first time.
+　　Among 825,287 unvaccinated: patients 0.13%, deaths 0.10%
+　　Among 77,907 vaccinated: patients 0.06%, deaths 0.02%
+
+　　　　　　　　　　Cholera Vaccination　　　　　　　　　125
+――――――――――――――――――――――――――――――――――
+Similar results were obtained by Zlatogoroff in Persia in 1904, and later by Zabolotny in Russia.
+Undoubtedly, these figures, which express complete approval of cholera vaccination, were not, however, conclusively proven. Let me explain the reasons here. When dealing with widespread populations, it is extremely necessary to obtain accurate information regarding the occupation, resistance, age, etc., of those vaccinated. Therefore, people who are not equally exposed to infection based on their residential areas and occupations should not be grouped in the same statistics.
+Despite all these statistics, one reason for the persistence of inaccuracy in assessing vaccine effectiveness lies here.
+The figures published by Arnaud in 1914 are not subject to this criticism. His statistics were taken from the military and dealt with people living under the same conditions. These statistics were conducted regarding an epidemic that occurred in the Greek army during the Second Balkan War.
+Among 108,000 troops working in cholera epidemic zones, 5.75% cholera patients were observed among the unvaccinated: whereas the percentage of cholera infection among those who received one injection was 3.12%. Those who received two injections had an infection rate of only 0.41%.
+　　　　　　　　　　＊　　＊　　＊
+The conditions used by Cantacuzène were useful to us in the large-scale implementation in Romania, and he provided us with valuable epidemiological reference materials beyond dispute.
+This implementation was carried out twice: in 1913, during the Bulgarian war epidemic, and in 1916, at the beginning of Romania's war when it declared war on Germany.
+This implementation extended to over 1,500,000 people.
+We shall borrow from Cantacuzène's important research report some relationships of local epidemics and briefly summarize them here. When these epidemics are compared to laboratory experiments, they seem almost unreal. This implementation in animals

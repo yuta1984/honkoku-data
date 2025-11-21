@@ -1,0 +1,8 @@
+Item 1: Assessment 1,898 koku, 5 to, 9 sho, 8 go　　《Location: Kawagoe Town》
+Item 1: Assessment 1,317 koku, 2 to, 3 sho, 9 go　　　　《Location: Matsusato》
+Item 1: Assessment 843 koku, 2 to, 3 sho, 4 go　　《Location: Dai-Senba Village》
+Item 1: Assessment 214 koku, 3 to, 6 sho, 2 go　　《Location: Dai-Senba Shinden》
+Item 1: Assessment 230 koku, 8 to, 3 sho, 1 go　　　　　《Location: Kishi Village》
+Item 1: Assessment 14 koku, 7 to, 5 sho　　　　　　　　《Location: Ogi-Kawagishi》
+Item 1: Assessment 644 koku, 1 to, 6 sho, 1 go　　《Location: Minami-Tajima Village》
+Item 1: Assessment 435 koku, 4 to, 7 sho, 9 go　　　《Location: Namiki Village》

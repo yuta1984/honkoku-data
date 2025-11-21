@@ -1,0 +1,8 @@
+Item 1: Assessment 413 koku, 7 to, 9 sho, 6 go, 1 shaku, 5 sai　《Location: Shimoyunoki Village》
+Item 1: Assessment 382 koku, 5 to, 8 sho, 7 go　　　　　《Location: Osawa Village》
+Item 1: Assessment 748 koku, 8 to, 9 go, 7 shaku　　　　　《Location: Koyama Village》
+Item 1: Assessment 230 koku, 5 sho　　　　　　　　　《Location: Kami-Aihara Village》
+Item 1: Assessment 268 koku, 2 to, 4 sho　　　　　　《Location: Naka-Aihara Village》
+Item 1: Assessment 325 koku, 3 go　　　　　　　　《Location: Shimo-Aihara Village》
+Item 1: Assessment 156 koku, 1 to, 4 sho, 4 go　　　　　　《Location: Terada Village》
+Item 1: Assessment 483 koku, 7 to, 1 sho, 7 go, 6 shaku　　　　《Location: Tachi Village》

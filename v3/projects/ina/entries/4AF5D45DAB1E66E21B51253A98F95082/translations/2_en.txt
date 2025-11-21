@@ -1,0 +1,36 @@
+[Right page transcribed in previous frame]
+[Left page]
+Horse    Dog      Boar     Rat
+9th day  13th day 14th day 15th day
+
+Dragon   Snake    Horse    Dog
+19th day 20th day 21st day 25th day
+
+Boar     Rat
+26th day 27th day
+
+Fifth Month:
+Dragon   Snake    Horse    Dog      Boar
+2nd day  3rd day  4th day  8th day  9th day
+
+Rat      Dragon   Snake    Horse
+10th day 14th day 15th day 16th day
+
+Dog      Boar     Rat      Dragon
+20th day 21st day 22nd day 26th day
+
+Snake    Horse
+27th day 28th day
+
+Sixth Month:
+Dog      Boar     Rat      Dragon   Snake
+3rd day  4th day  5th day  9th day  10th day
+
+Horse    Dog      Boar     Rat
+11th day 15th day 16th day 17th day
+
+Dragon   Snake    Horse    Dog
+21st day 22nd day 23rd day 27th day
+
+Boar     Rat
+28th day 29th day

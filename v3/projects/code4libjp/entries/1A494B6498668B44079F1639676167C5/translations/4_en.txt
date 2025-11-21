@@ -1,0 +1,10 @@
+[Map]
+[Bottom right]
+Legend
+Commercial facilities
+Industrial areas
+Residential areas
+Undesignated areas
+《Note: Areas excluded from regional area calculations》
+City/county boundaries
+Urban planning streets

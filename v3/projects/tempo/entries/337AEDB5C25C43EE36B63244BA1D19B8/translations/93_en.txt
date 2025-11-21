@@ -1,0 +1,8 @@
+One: Assessed rice yield 735 koku 4 sho 1 go 4 shaku 6 sai　　《Location: Shimoshirouzu Village》
+One: Assessed rice yield 54 koku 6 to 6 sho 1 go　《Marginal note: Branch village of Shimoshirouzu Village》《Location: Hise Village》
+One: Assessed rice yield 491 koku 8 to 8 sho 2 go　　　　《Location: Kamihisa Village》
+One: Assessed rice yield 625 koku 7 sho 3 go 6 shaku 8 sai　　《Location: Shimohisa Village》
+One: Assessed rice yield 561 koku 1 to 2 go 2 shaku　　　　《Location: Yanaga Village》
+One: Assessed rice yield 435 koku 7 to 8 sho 1 go 3 shaku　　《Location: Kamikego Village》
+One: Assessed rice yield 383 koku 8 to 3 sho 2 shaku　　　　《Location: Shimokego Village》
+One: Assessed rice yield 211 koku 5 to 1 go　　　　　　　《Location: Higashie Village》

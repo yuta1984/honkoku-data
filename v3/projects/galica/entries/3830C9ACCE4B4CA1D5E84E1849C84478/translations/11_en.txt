@@ -1,0 +1,32 @@
+51 Very well, I shall do as you wish.
+52 Won't you have another drink?
+53 No, I have drunk enough.
+54 Won't you have supper?
+55 No, I am obliged to you, the sake makes me hot.
+56 Can you not sup after drinking?
+57 I never sup after having drunk much.
+58 That is not good for the stomach.
+59 I believe that is true: I am going.
+60 I am very delighted to have conversed with you 
+for so long today.
+61 I am obliged to you for your good reception.
+62 Please be so kind as to be at my house early tomorrow
+with N.
+63 Good, I wish you a good night.
+64 The same to you, take care of yourself.
+
+Fourth Dialogue
+With a Friend One Has Not Seen for
+A Long Time
+
+1 I come to see you.
+2 Ha! Welcome, my good friend.
+3 How are you?
+4 I am always well.
+5 That is very fortunate.
+6 Why have you not come to see me for
+so long?
+7 I have been ill for a long time.
+8 Is that true?
+9 Yes, truly.
+10 No one told me anything about it, which is why I did not know.

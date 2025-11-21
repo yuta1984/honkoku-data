@@ -1,0 +1,35 @@
+【ページ番号】34
+926  Ce n'est pas possible.
+927  De quoi parlez vous?
+928 Assayez vous.
+929 Levez vous.
+930 Que  vous faut il?
+931 Il est sorti.
+932 Il est dehors.
+933 Est il revenu?
+934 N'est il pas revenu encore?
+935  Quel age a t'il?
+936  J'ai quelque chose a faire.
+937 J'en suis fache.
+938  J'en suis bien aise.
+939 N'allez pas si tot.
+940 Connaissez vous ce Monsieur?
+941 Je le connais de vue.
+942  Faites mes complimens【compliments】 a la  mere.
+943  Je n'y manquerai pas.
+944  Cela ne vient pas de sa tete.
+945 Le soleil se leve.
+946 Le soleil est leve.
+947 Le soleil se couche.
+948 La lune se  leve.
+949 La lune s'est levee.
+950 le voici.
+951 le voila.
+952 La voila.
+953 Les voila.
+954 Me voici.
+ 955 Qui est la?
+956 Combien cela  vaut-il?
+957  Un sous.【sou: スー(サンチーム)昔の貨幣単位、複数形で金・コインの意】
+958 Deux sous.
+

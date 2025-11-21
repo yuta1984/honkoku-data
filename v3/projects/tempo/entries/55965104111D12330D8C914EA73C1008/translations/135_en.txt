@@ -1,0 +1,13 @@
+1. Assessed yield: 245 koku, 9 to, 6 sho, 8 go - Iwate Village
+　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Iwate Village)
+1. Assessed yield: 119 koku, 3 to, 5 sho, 2 go - Shimohaiwa Shinden
+　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Iwate Village)
+1. Assessed yield: 114 koku, 4 to, 6 sho, 7 go - Takahata Village
+1. Assessed yield: 345 koku, 4 to, 6 sho, 1 go - Beisanji Village
+1. Assessed yield: 131 koku, 7 to, 6 sho, 5 go - Iwano Village
+1. Assessed yield: 135 koku, 4 to, 4 sho, 3 go - Kamionu Village
+1. Assessed yield: 417 koku, 4 to, 6 sho, 3 go - Shimoono Village
+1. Assessed yield: 79 koku, 9 to, 5 sho, 6 go - Hatsuda Village
+
+[In the National Museum of Japanese History's database, there are 2 locations for Iwate Village. The combined assessed yield of these 2 locations matches the assessed yield for Iwate Village recorded here.]
+[In the National Museum of Japanese History's database, there are 3 locations for Beisanji Village. The combined assessed yield of these 3 locations matches exactly the assessed yield for Beisanji Village recorded here.]

@@ -1,0 +1,10 @@
+1. Assessed yield: 1,060 koku, 8 to, 1 sho, 5 shaku - Koseki Village
+1. Assessed yield: 318 koku, 2 to, 4 sho, 7 go, 7 shaku - Senbonsugi Village
+1. Assessed yield: 268 koku, 9 to, 3 sho, 1 go, 9 shaku - Nakajima Village
+1. Assessed yield: 102 koku, 4 to, 9 sho, 6 go, 4 shaku - Yoshida Village
+1. Assessed yield: 399 koku, 1 to, 7 go - Sorimachi Village
+1. Assessed yield: 95 koku, 1 to, 8 sho, 1 go, 9 shaku - Mitsuguchi Village
+1. Assessed yield: 142 koku, 8 to, 7 sho, 5 go, 7 shaku - Aratame Village
+1. Assessed yield: 259 koku, 3 to, 1 sho, 7 go, 1 shaku - Hon-Onogata Village
+
+[According to the National Museum of Japanese History's database of assessed yields and domains, "Aratame Village" does not exist in "Tagawa District," but there is "Niitame Village (Aratame-mura)" with an assessed yield of over 143 koku. There is an "Aratame Village" in "Akumi District"]

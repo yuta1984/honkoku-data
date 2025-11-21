@@ -1,0 +1,36 @@
+However, when there is a leap month, if it is before the 15th day of the 13th division(?), it is granted from that month; if after the 16th day, it is granted from the following month.
+
+1. When those who receive rice allowances (kirimai) die: If death occurs on or after the 1st day of the 11th month, that year's full rice allowance is granted; if up to the last day of the 10th month, it is granted on a monthly pro-rated basis.
+　　However, when there is an heir, monthly pro-rating is not necessary. When rice allowances are reduced, that year's portion is distributed according to the reduced amount.
+
+1. When those receiving rice allowances are granted new stipends (shinchi): Regardless of when this occurs, that year's rice allowance is deducted in full from the rice yield.
+　　However, stipend allowances (fuchikata) and assistance silver (gōryokugin) are not deducted.
+
+1. Stipend allowances are granted from the day they are decreed and stopped from the day they are ordered to cease.
+　　However, for heirs who have been receiving their parent's stipend allowance, whenever they are appointed, the son's stipend allowance is granted continuously from the day after the parent's death.
+
+1. When the heir to a new grant is given a rice allowance: regardless of when this occurs, that year's full rice allowance is granted. When converted to a stipend allowance, the portion from New Year's Day is granted.
+　　However, when a parent dies in the 10th month and that year's rice yield has been granted, the heir son's stipend rice allowance is granted from the following year.
+
+1. For role payments (yakuryō): In cases of role changes or death, they are granted on a monthly pro-rated basis. For that month's portion: if decreed before the 15th day, the successor receives it; if decreed after the 16th day, the predecessor receives it.
+
+　　　　　　Above
+
+1. Record of the number of bales for rice allowances and stipend allowances - Rice amounts distributed during 80% borrowed rice periods
+
+1. 30 koku　　　　5-person stipend《Rice allowance: 48 bales, 4 to, 2 shō, 5 gō｜Stipend allowance: 19 bales, 1 to, 8 shō, 6 gō》　　　Total: 68 bales, 1 to, 5 shō, 5 gō
+1. 25 koku　　　　5-person stipend《Same: 40 bales, 3 to, 5 shō, 5 gō｜Same: same as above》　　　　Total: 60 bales, 8 shō, 5 gō
+1. 25 koku　　　　3-person stipend《Same: same as above｜Same: 11 bales, 2 to, 9 shō, 4 gō》　　　　Total: 52 bales, 9 shō, 4 gō
+1. 23 koku　　　　5-person stipend《Same: 37 bales, 2 to, 3 shō, 5 gō｜Same: 19 bales, 1 to, 8 shō, 6 gō》　　　Total: 56 bales, 4 to, 2 shō, 1 gō
+1. 23 koku　　　　4-person stipend《Same: same as above｜Same: 15 bales, 2 to, 4 shō》　　　　　Total: 53 bales, 2 to, 1 shō, 9 gō
+1. 22 koku　　　　4-person stipend《Same: 35 bales, 4 to, 3 gō｜Same: same as above》　　　　Total: 51 bales, 1 to, 8 shō, 7 gō
+1. 20 koku 6 to 5 shō　5-person stipend《Same: 33 bales, 3 to, 1 shō, 1 gō｜Same: 19 bales, 1 to, 8 shō, 6 gō》　　　Total: 53 bales, 4 shō, 1 gō
+1. 20 koku　　　　　5-person stipend《Same: 32 bales, 2 to, 8 shō, 4 gō｜Same: same as above》　　　Total: 52 bales, 1 shō, 4 gō
+1. 20 koku　　　　　4-person stipend《Same: same as above｜Same: 15 bales, 2 to, 4 shō》　　　　　Total: 48 bales, 6 shō, 8 gō
+1. 20 koku　　　　　3-person stipend《Same: same as above｜Same: 11 bales, 2 to, 9 shō, 4 gō》　　　　Total: 44 bales, 1 to, 2 shō, 2 gō
+1. 18 koku　　　　　5-person stipend《Same: 30 bales, 4 to, 8 gō｜Same: 19 bales, 1 to, 8 shō, 6 gō》　　　　Total: 50 bales, 1 to, 3 shō, 8 gō
+1. 18 koku　　　　　4-person stipend《Same: same as above｜Same: 15 bales, 2 to, 4 shō》　　　　　Total: 46 bales, 1 to, 9 shō, 2 gō
+1. 18 koku　　　　　3-person stipend《Same: same as above｜Same: 11 bales, 2 to, 9 shō, 4 gō》　　　　Total: 42 bales, 2 to, 4 shō, 6 gō
+1. 17 koku　　　　　4-person stipend《Same: 29 bales, 8 shō, 2 gō｜Same: 15 bales, 2 to, 4 shō》　　　　Total: 44 bales, 3 to, 2 shō, 2 gō
+1. 17 koku　　　　　3-person stipend《Same: same as above｜Same: 11 bales, 2 to, 9 shō, 4 gō》　　　　Total: 40 bales, 3 to, 7 shō, 6 gō
+1. 15 koku　　　　　4-person stipend《Same: 25 bales, 3 to, 4 shō｜Same: 15 bales, 2 to, 4 shō》　　　　Total: 41 bales, 1 to, 2 shō, 4 gō

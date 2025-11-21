@@ -1,0 +1,8 @@
+1. Rice yield: 751 koku, 9 to, 4 go　　　　　《Location: Ichihara Village》
+1. Rice yield: 60 koku, 4 to, 7 sho　　　　　　　　《Location: Nonaka Village》
+1. Rice yield: 9 koku, 4 to, 2 go, 6 shaku　　　　　　　《Location: Kibune Village》
+1. Rice yield: 35 koku, 6 to, 5 sho, 1 go, 3 shaku, 3 sai　《Location: Ninose Village》
+1. Rice yield: 36 koku, 2 to, 7 sho, 8 go　　《Note: Kumogahata》《Location: Nakatsugawa Village》
+1. Rice yield: 44 koku, 1 to, 9 sho, 7 go　　《Note: Kumogahata》《Location: Nakahata Village》
+1. Rice yield: 18 koku, 6 to, 4 sho, 6 go　　　《Note: Kumogahata》《Location: Detani Village》
+1. Rice yield: 216 koku, 7 to, 5 sho, 7 go　　　　《Location: Kurama-ji Temple Gate Front》

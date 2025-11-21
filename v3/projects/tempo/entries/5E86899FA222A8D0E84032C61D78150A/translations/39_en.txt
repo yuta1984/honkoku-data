@@ -1,0 +1,8 @@
+One, assessed yield: 767 koku, 3 to, 4 sho, 3 go　　《Location: Takebuchi Village》
+One, assessed yield: 1,228 koku, 7 to, 8 sho　　　《Location: Kamei Village》
+One, assessed yield: 1,113 koku, 8 sho, 9 go　　　　　《Location: Kinusuri Village》
+One, assessed yield: 760 koku, 1 to, 1 sho, 9 go　　　《Location: Kashiwada Village》
+One, assessed yield: 1,216 koku, 2 sho, 1 go　　　　《Location: Kita-Hebikusa Village》
+One, assessed yield: 242 koku, 9 to, 8 sho, 3 go　　《Location: Minami-Hebikusa Village》
+One, assessed yield: 1,482 koku, 7 to, 8 sho, 5 go　《Location: Arakawa Village》
+One, assessed yield: 568 koku, 5 to, 7 sho, 9 go　　《Location: Higashi-Ashiro Village》

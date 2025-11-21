@@ -1,0 +1,8 @@
+Item: Assessed yield of 220 koku, 3 to, 1 sho, 8 go　　《Location: Fukagawa-ga-sato Village》
+Item: Assessed yield of 255 koku, 8 to, 5 sho, 3 go　　《Location: Akashi-ga-sato Village》
+Item: Assessed yield of 271 koku, 2 to, 6 sho, 4 go　　《Location: Shijō-ga-sato Village》
+Item: Assessed yield of 292 koku, 4 to, 9 sho, 2 go　　《Location: □-ga-sato Village》
+Item: Assessed yield of 165 koku, 1 to, 2 sho, 7 go　　《Location: Okamoto-ga-sato Village》
+Item: Assessed yield of 368 koku, 9 to, 4 sho, 4 go　　《Location: Takahara-ga-sato Village》
+Item: Assessed yield of 856 koku, 5 to, 3 sho, 1 go　　《Location: Tateishi-ga-sato Village》
+Item: Assessed yield of 579 koku, 4 to, 8 go　　　　　《Location: Era-ga-sato Village》

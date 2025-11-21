@@ -1,0 +1,46 @@
+60　　　　　　　　　　　　　Typhus Bacterial Endotoxins　　　　　　　　　　　　
+――――――――――――――――――――――――――――――――――
+bacteria, and is useful in producing bacterial endotoxins.
+
+Agar cultures that have passed 16-48 hours are diluted in physiological saline at a 0.75% ratio, heated at 60° for 1 hour, and then dried in vacuum.
+
+A fixed amount (1 gram) of dried bacteria is mixed with dried salt (0.30-0.45g), then ground in an agate mortar to form a fine powder. This operation takes about 1 hour.
+
+Without releasing the pestle, 1-2 ml of distilled water is added drop by drop into the mortar. This rapidly dissolves the salt: this creates a bacterial paste infiltrated with concentrated salt solution. Most of the bacteria undergo a type of agglutination. When this suspension is transferred to a test tube and water is added to reach physiological saline concentration, it was confirmed that instead of creating a uniform emulsion, the bacteria tend to aggregate at the bottom of the test tube.
+
+After shaking the mixture several times, the bacteria are left until the next day.
+
+After standing for 10-12 hours, a liquid layer containing no solid suspended matter forms above the bacterial precipitate. This liquid is transparent and milky white in appearance, containing liquid bacterial endotoxins.
+
+When stored in a refrigerator or at room temperature, the typhus bacterial endotoxin obtained by this method often produces cloud-like flocculent matter in suspension that can be mistaken for bacteria. When examined under a microscope, it takes stain poorly and is nothing other than organic debris that should be called serous precipitate. When heated to 100°, typhus bacterial endotoxin becomes completely transparent; the same occurs when heated to 60° for 1-2 hours.
+
+The plague bacterial endotoxin, which will be discussed later, becomes turbid at 65°, but typhus bacterial endotoxin becomes increasingly transparent the higher the temperature, reaching maximum transparency after being placed in a 120° autoclave for 30 minutes.
+
+When bacterial endotoxin is placed in a 65° double boiler, it does not reduce its toxicity but rather seems to confer toxicity. This must clearly be attributed to the problematic dusty substance that redissolves at high temperature.
+
+Typhus bacterial endotoxin is heat-resistant; we can heat it to 100° for more than 1 hour, or to 120° for 30 minutes, without removing any of its toxicity.
+
+This endotoxin is active in horses, rabbits, guinea pigs, rats, and mice, as our experiments show.
+
+　　　　　　　　　　　　　Dysentery Bacterial Endotoxins　　　　　　　　　61
+――――――――――――――――――――――――――――――――――
+It is extremely active with intraperitoneal or intravenous injection, and less active with subcutaneous injection.
+
+Starting from 1g of dried bacteria, using 0.30g of NaCl and 30cc of H₂O, a liquid is obtained whose toxicity varies from 1/8 to 1/4 cc for a 250g guinea pig depending on the preparation; injecting 1cc of this liquid intraperitoneally can kill a guinea pig in 3 hours.
+
+An 1,800g rabbit dies with doses of 1-1.5cc when injected intraperitoneally or intravenously.
+
+To kill a 50g rat, 1/8cc had to be injected intraperitoneally, which is almost the same amount needed to kill a 250g guinea pig.
+
+While mice are generally extremely sensitive to bacterial endotoxins, they tolerate typhus bacterial endotoxin relatively well, with a lethal dose of about 0.05cc.
+
+A particular characteristic of typhus bacterial endotoxin that shows its specificity is that it becomes inactive when in contact with serum, namely anti-bacterial endotoxin; we will discuss this again.
+
+　　　　　　　　　　　　　Dysentery Bacterial Endotoxins
+　　　　　　　　　　　Endotoxine Dysentérique
+
+The manufacturing method is identical to that of typhus bacterial endotoxin. The proportions we adopted are: 0.4g of Shiga bacilli; 0.15g of NaCl; 20cc of H₂O.
+
+In appearance, dysentery bacterial endotoxin resembles that of typhus bacteria: like the latter, the former appears egg-white colored when in thin layers and clearly turbid when in thick layers; even with prolonged centrifugation, it does not become transparent. The turbidity is, of course, due to the aggregation of small granules composed of bacterial fragments.
+
+In terms of heat resistance, dysentery bacterial endotoxin occupies an intermediate position between typhus bacterial endotoxin and plague bacterial endotoxin: heating at 75-77° for 30 minutes cannot render it harmless; however, at temperatures of 78.5-80°, it can be completely inactivated.

@@ -1,0 +1,8 @@
+1. Assessed yield: 827 koku, 4 to, 6 sho, 8 go　　　　　　Moto-kariya village
+1. Assessed yield: 812 koku, 6 to, 9 sho, 8 go　　　　　　Kariya town
+1. Assessed yield: 509 koku, 6 to, 8 sho, 1 go　　　　　　Kuma village
+1. Assessed yield: 564 koku, 7 to, 3 sho, 6 go　　　　　　Takatsunami village
+1. Assessed yield: 884 koku, 2 to, 6 sho, 9 go　　　　　　Koyama village
+1. Assessed yield: 322 koku, 6 to, 8 sho, 2 go　　　　　　Tsukiji village
+1. Assessed yield: 717 koku, 4 to, 2 sho, 8 go　　　　　　Hitotsugi village
+1. Assessed yield: 2,086 koku, 8 to, 4 sho, 2 go　　　　　Izumida village

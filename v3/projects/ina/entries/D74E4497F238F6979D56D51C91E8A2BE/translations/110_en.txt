@@ -1,0 +1,49 @@
+【Right Page】
+　　《Location: Kojō (Old Castle)》
+　　　Grass mountain: 3 se 10 bu　　　　　　《Names: Hikobē｜Shichirōemon》
+　　《Location: Kojō (Old Castle)》　　　　　　　　　《Village: Suganuma Village》
+Back　　Grass mountain: 6 tan 6 se 20 bu　　　　Tokozaemon
+　　《Location: Nesuta》
+Front　　Grass mountain: 1 tan 3 se 10 bu　　　　Matazaemon
+　　《Location: Ito-iri》
+　　　Grass mountain: 5 tan bu　　　　　　　《Names: Hansaburō｜Rokusuke》　
+　　《Location: Same place》
+　　　Mixed woodland: 1 tan 6 se 20 bu　　　《Names: Hansaburō｜Magoshirō｜Moemon》　
+　　《Location: Hatata》　
+　　　Grass mountain: 4 chō 6 tan 6 se 20 bu《Names: Chōsaburō・Jūbē｜Rihē・Rokuzō｜Shōsaburō・Mohē》　　　
+　　《Location: Nishi-koyama Hikage》
+　　　Grass mountain: 5 chō 3 tan 3 se 10 bu《Names: Gentarō・Kiheiji｜Chōshirō・Dennosuke》
+　　《Location: Hosokubo》
+　　　Grass mountain: 7 chō 1 tan 6 se 20 bu　　Gensaburō
+　　《Location: Taifuki》
+　　　Mixed woodland: 3 se 15 bu　　　　Jūbē
+　　《Location: Hamatsuba》
+　　　Mixed woodland: 4 se 20 bu　　　　　Chōsaburō
+　　《Location: Tennō》
+　　　Mixed woodland: 1 tan bu　　　　　　Kiheiji
+
+【Left Page】
+1　Bamboo grove: 8 se 9 bu　　　　　　　Peasant holdings
+　　　Annual rice tax: 2 shō 4 gō 9 shaku《Note: 3 shō per 1 tan》　
+　　　　　Breakdown:
+　　《Location: Kosō-gaito》　
+　　　15 bu　　　　　　　　　Shirōemon
+　　《Location: Totomeki》
+　　　12 bu　　　　　　　　　《Names: Jirōbē｜Sakubē》
+　　《Location: Saiko》
+　　　2 bu　　　　　　　　　　Kyūshirō
+　　《Location: Yashiki-soe (House lot addition)》
+　　　15 bu　　　　　　　　　Kyūnosuke
+　　《Location: Yashiro (Shrine)》
+　　　2 se 10 bu　　　　　　　　Kisaburō
+　　《Location: Saiko》
+　　　3 se 10 bu　　　　　　　　《Names: Hyōemon｜Magosuke》
+　　《Location: Nankai》
+　　　20 bu　　　　　　　　　Chūsuke
+　　《Location: Ochiai》
+　　　15 bu　　　　　　　　　Zen'nai
+
+1　Grass mountain
+　　This is steep and precipitous high mountain, therefore not subject to official land survey
+　　　Mountain rice tax: 1 tō
+　　　　　　　　　　　28 [written in red]

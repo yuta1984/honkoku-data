@@ -1,0 +1,8 @@
+Item 1: Assessment 236 koku, 4 to, 2 sho　　　　　《Location: Negishi Village》
+Item 1: Assessment 481 koku, 7 sho, 6 go　　　　　《Location: Noda Village》
+Item 1: Assessment 799 koku, 4 to, 1 sho, 9 go, 4 shaku　《Location: Sasai Village》
+Item 1: Assessment 414 koku, 1 to, 5 sho, 9 go, 5 shaku　　《Location: Iwasawa Village》
+Item 1: Assessment 239 koku, 7 to, 9 sho, 6 go　　　《Location: Busshi Village》
+Item 1: Assessment 153 koku, 6 to, 6 sho, 3 go　　　　《Location: Asu Village》
+Item 1: Assessment 154 koku, 5 to, 9 sho　　　　　　《Location: Ochiai Village》
+Item 1: Assessment 273 koku, 6 to, 5 sho　　　　　　《Location: Iwabuchi Village》

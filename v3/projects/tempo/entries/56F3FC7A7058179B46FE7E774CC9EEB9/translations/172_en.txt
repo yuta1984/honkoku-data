@@ -1,0 +1,8 @@
+Item: Assessed yield of 184 koku, 6 to, 5 sho　　　　　《Location: Moriyama Village》
+Item: Assessed yield of 25 koku, 1 to, 7 sho　　　　　　《Location: Sugitani Village》
+Item: Assessed yield of 417 koku, 5 to, 8 sho, 2 go　　　《Location: Inentata Village》
+Item: Assessed yield of 718 koku, 9 to, 5 go　　　　　《Location: Ono Village》
+Item: Assessed yield of 416 koku, 3 to, 5 sho, 6 go　　　《Location: Munakata Village》
+Item: Assessed yield of 259 koku, 8 to, 7 sho, 5 go　　　《Location: Kawachimachi Village》
+Item: Assessed yield of 922 koku, 2 to, 2 sho, 9 go　　　《Location: Nagano Village》
+Item: Assessed yield of 697 koku, 3 to, 4 sho, 1 go　　　《Location: Funakoshi Village》

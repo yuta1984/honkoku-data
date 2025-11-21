@@ -1,0 +1,8 @@
+1. Assessed yield: 1,401 koku, 6 to, 8 sho, 5 go　　　　Hiranouchi Village
+1. Assessed yield: 1,043 koku, 7 to, 8 sho, 6 go　　　　Kami-Matsumoto Village
+1. Assessed yield: 528 koku, 6 sho, 6 go　　　　　　　　Shimo-Matsumoto Village
+1. Assessed yield: 204 koku, 8 to, 9 sho, 8 go　　　　　Kami-Konaka Village
+1. Assessed yield: 441 koku, 8 sho, 9 go　　　　　　　　Shimo-Konaka Village
+1. Assessed yield: 989 koku, 3 to, 6 sho　　　　　　　　Shirako Village
+1. Assessed yield: 1,525 koku, 5 to, 1 sho, 1 go　　　　Hokozuki Village
+1. Assessed yield: 1,042 koku, 8 to, 5 sho, 9 go　　　　Yatano Village

@@ -1,0 +1,33 @@
+893 Come quickly.
+894 What are you waiting for?
+895 It's time to go.
+896 I must depart.
+897 Where is it?
+898 Is it far from here?
+899 It's very close.
+900 What is he doing?
+901 He is eating and drinking.
+902 Where does he live?
+903 Where does she live?
+904 Where is he?
+905 Where are they?
+906 Is he in town?
+907 When will he be home?
+908 I don't know.
+909 What news do you have?
+910 I know nothing extraordinary.
+911 They say that [sentence incomplete]
+912 I have heard it said.
+913 That's good.
+914 It's not bad.
+915 Wait a little, or stay a little.
+916 Stay there.
+917 Be quiet.
+918 You are mistaken.
+919 You are right.
+920 Forgive me.
+921 You are in error.
+922 I beg your pardon.
+923 It's true.
+924 It's false.
+925 He is lying.

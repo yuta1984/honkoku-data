@@ -1,0 +1,11 @@
+Figure 3
+(1) Esophagus
+(2) Stomach
+(3) Small intestine
+(4) Cecum
+(5) Large intestine
+(6) Rectum
+(7) Anus
+(8) Liver
+(9) Spleen
+(10) Pancreas

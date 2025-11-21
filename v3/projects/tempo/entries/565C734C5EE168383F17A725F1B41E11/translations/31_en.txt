@@ -1,0 +1,14 @@
+(formerly Tsurida Shinden Village)
+1. Assessed yield: 51 koku, 3 to, 8 sho　　　　　Tsurida Village
+1. Assessed yield: 1,061 koku, 3 to, 9 sho, 7 go　Shakanai Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Nagahashiri Shinden Village)
+1. Assessed yield: 29 koku, 8 to, 1 sho, 1 go　　　Nagahashiri Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Yukisawa Shinden Village)
+1. Assessed yield: 104 koku, 3 to, 8 sho, 2 go　　Yukisawa Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Domeki Shinden Village)
+1. Assessed yield: 76 koku, 1 to, 8 sho, 6 go　　　Domeki Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Omonai Shinden Village)
+1. Assessed yield: 132 koku, 9 to, 6 sho, 3 go　　Omonai Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Kotatebana Shinden Village)
+1. Assessed yield: 126 koku, 2 to, 1 go　　　　　　Kotatebana Village
+1. Assessed yield: 110 koku, 6 to, 6 sho, 3 go　　　Karuizawa Village

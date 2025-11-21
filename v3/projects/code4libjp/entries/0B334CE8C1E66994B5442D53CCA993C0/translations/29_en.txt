@@ -1,0 +1,48 @@
+【Title】
+Simplified Map of the Five Eastern Counties
+
+
+【Lower Left・Legend】
+　North
+West　East
+　South
+
+・Railway
+・National border
+・County boundaries
+・Towns and villages
+・Famous sites
+・Rivers
+
+
+【Place Names in Map】
+Mino Province
+
+Shinano Province
+
+Tōtōmi Province　　Tenryu River　Lake Hamana
+
+
+Higashi-Kamo County　Asuke River
+
+Nukata County　　Okazaki　Yahagi River
+
+Hazu County
+
+Kita-Shitara County　●Tsugu　●Inahashi　●Taguchi　●Hongo
+　　　　　▲Dando Horse Breeding Ground　▲Kawai Stone Bridge
+
+Minami-Shitara County　●Ebi　●Omi　●Shinshiro
+　　　　　▲Horaiji Temple　▲Nagakute
+
+Hoi County　　●Gamagori　●Goyu　●Toyokawa　●Ushikubo　●Maeshiba
+　　　　　▲Bentenjima Island　▲Miyajiyama　▲Honguyama　▲Sanmeiji Temple　
+　　　　　Toyokawa River
+
+Yana County　　●Ono　●Tomioka
+　　　　　▲Atera Seven Falls　▲Ishimakiyama
+
+Atsumi County　　Toyohashi　●Futagawa　●Muro　●Tahara　●Iragozaki
+　　　　　▲Takashigahara　▲Iwaya Kannon　▲Oumugaiwa Rock　▲Nakayama Artillery Range　▲Hideishi Gate
+
+Enshū-nada　Pacific Ocean　Kinugatō Bay

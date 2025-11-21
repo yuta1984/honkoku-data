@@ -1,0 +1,34 @@
+222　　　　　　Role of Mordants in Infection and Immunity
+――――――――――――――――――――――――――――――――――
+are absorbed, and the animal then becomes resistant to the certainly lethal dose of virus injected intravenously.
+
+Therefore, we discovered here the existence of a harmless and rapid vaccination method—experiments that would have taken us a long time to reach proved this—the existence of a method that should be likened to the immunity seen in humans afflicted with typhoid-paratyphoid infection.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+What is the mechanism of this vaccination method by oral route? This is of course not based on antigens passing through the intestinal wall and forming antibodies in the blood. Even if, in some cases, antibodies appear in the blood at the beginning of vaccination, the antibodies gradually disappear as vaccination progresses; it is rather often the case that no antibodies are found when immunity reaches its maximum strength. Therefore, no relationship exists between the antibody content degree of serum and the immunity degree of the organism.
+
+In our opinion, the mechanism of vaccination is identical to the mechanism of infection: in both cases, bile sensitizes the mucosa and promotes intimate contact between bacteria and intestinal receptor cells. The receptor cells exist in the deep layers of the intestinal wall, are exposed by the action of bile, and combine with virus or vaccine: whereby, as the case may be, once the affinity of receptor cells involved in infection or vaccination is saturated, they no longer combine with or adsorb virus. Furthermore, when the organism is subsequently exposed to infection similar to what it has already received, those receptor cells remain indifferent; that is, they become unable to react because their affinity has been extinguished, and the cells hardly participate in infection anymore. In other words, once receptor cells have their sensitization broken by anti-virus adsorption, there is no longer any danger: thus intestinal immunity is identified with systemic immunity of the organism. This is what we had already seen in guinea pigs vaccinated against anthrax bacilli: skin cells, once desensitized by Pasteur vaccine, no longer act even when virulent anthrax bacilli are present; thus skin immunity is simultaneously the guinea pig's systemic immunity against anthrax bacilli.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+　　　　　　　　　Role of Mordants in Infection and Immunity　　　　223
+――――――――――――――――――――――――――――――――――
+
+Cholera is extremely similar to typhoid.
+
+Laboratory animals have absolutely no susceptibility to ingestion of cholera vibrios. It must also be expected that after ingesting large amounts of cholera vibrios, they cannot acquire any immunity to injection of vibrios; this is indeed what experiments show.
+
+However, this can occur when the intestine is previously sensitized with ox bile.
+
+We have already shown that pre-treatment with bile and subsequent administration of vibrios causes severe disturbances; this is true in both rabbits and guinea pigs. The degree of this disturbance varies according to the amount of virus ingested: after an incubation period of 2-3 days, the first symptoms appear; loss of appetite, diarrhea, emaciation; these symptoms either recover or result in death due to cachexia, depending on the animal.
+
+Experiments show that animals surviving the disease resist lethal doses of vibrios inoculated into the blood; the immunity thus obtained is unrelated to antibodies. Actually, according to Masaki's observations, immunity against cholera is established only when preceded by somewhat strong cholera infection. Since this is never seen in animals not treated with bile, it is believed that pure and simple ingestion of cholera vibrios without adding bile cannot produce anti-cholera immunity.
+
+This conclusion similarly led first to Glotoff's studies, then recently on one hand to Horowitz-Wlassowa and Pirojnikowa's studies in guinea pigs, and on the other hand to Klukhine and Wygodchikoff's studies in rabbits.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+Horowitz-Wlassowa and Pirojnikowa made guinea pigs sensitized with bile ingest dead cholera bacteria. Several days later, these guinea pigs as well as control animals were tested orally. The controls died from cholera infection; the treated guinea pigs survived. Search for antibodies in the serum of vaccinated guinea pigs showed no positive results.
+
+Klukhine and Wygodchikoff experimented on guinea pigs. They sensitized rabbits using dysentery bacilli, this method being applied to the intestinal wall by Nedrigaïloff and Linnikowa instead of bile. Having determined the sensitizing dose of Shiga bacilli, they applied oral vaccination method to rabbits. The experiment was performed on numerous animals; one for cholera

@@ -1,0 +1,5 @@
+[Right Page]
+[Completely black]
+[Left Page]
+[Large characters in lower right]
+End

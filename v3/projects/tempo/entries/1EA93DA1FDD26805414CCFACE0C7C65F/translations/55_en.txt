@@ -1,0 +1,8 @@
+Item 1: Assessment 84 koku, 1 to, 6 sho, 3 go　　　　　　《Location: Nariai Village》
+Item 1: Assessment 279 koku, 7 to, 6 sho, 2 go, 1 shaku　　《Location: Kami-tetsu Village》
+Item 1: Assessment 87 koku, 3 to, 3 sho, 3 go　　　　　　《Location: Shimo-tetsu Village》
+Item 1: Assessment 210 koku, 4 to, 3 sho, 2 go　　　　　　《Location: Oba Village》
+Item 1: Assessment 1,147 koku, 8 to, 2 sho　　　　　　《Location: Eda Village》
+Item 1: Assessment 459 koku, 2 sho, 1 go　　　　　《Location: Ichigao Village》
+Item 1: Assessment 578 koku, 3 to, 6 sho, 8 go, 7 shaku　　《Location: Kawawa Village》
+Item 1: Assessment 1,103 koku, 7 to, 6 sho, 8 go, 8 shaku, 7 sai　　《Location: Yamada Village》

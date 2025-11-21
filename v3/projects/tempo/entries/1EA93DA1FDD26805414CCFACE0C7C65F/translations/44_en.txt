@@ -1,0 +1,8 @@
+Item 1: Assessment 80 koku, 9 to, 1 sho, 3 go　　　　　　《Location: Sakamoto Village》
+Item 1: Assessment 359 koku, 9 to, 5 sho, 2 go　　　《Location: Butsumukai Village》
+Item 1: Assessment 400 koku, 4 go　　　　　　　　　《Location: Shimohoshikawa Village》
+Item 1: Assessment 715 koku, 9 to, 8 sho, 1 go　　　　《Location: Katabira Town》
+Item 1: Assessment 299 koku, 6 to, 2 go　　　　　《Location: Godo Town》
+Item 1: Assessment 513 koku, 7 to, 7 sho, 4 go　　《Location: Hodogaya Town》
+Item 1: Assessment 595 koku, 9 sho, 2 go　　　　　《Location: Iwama Town》
+Item 1: Assessment 27 koku, 3 to, 7 sho, 1 go　　　《Location: Tenshinji Shinden》

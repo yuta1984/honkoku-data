@@ -1,0 +1,8 @@
+One: Assessed rice yield 1,267 koku 9 to 9 sho 4 go　　　　　　　《Location: Kami-Sokoino Village》
+One: Assessed rice yield 1,146 koku 7 sho 9 go 6 shaku　　　　　　《Location: Naka-Sokoino Village》
+One: Assessed rice yield 1,025 koku 9 to 9 sho 6 go 5 shaku　　　　《Location: Shimo-Sokoino Village》
+One: Assessed rice yield 987 koku 9 to 7 sho 9 go 8 shaku　《Note: Branch village of Shimo-Sokoino Village》《Location: Kimori Village》
+One: Assessed rice yield 540 koku 7 to 2 sho　　　　　　　　　　　《Location: Fujiki Village》
+One: Assessed rice yield 1,412 koku 9 to 9 sho 9 go　　　　　　　　《Location: Habu Village》
+One: Assessed rice yield 274 koku 3 sho 9 go　　　　　　　　　　　《Location: Hatake Village》
+One: Assessed rice yield 1,813 koku 7 to 3 sho　　　　　　　　　　《Location: Nakama Village》

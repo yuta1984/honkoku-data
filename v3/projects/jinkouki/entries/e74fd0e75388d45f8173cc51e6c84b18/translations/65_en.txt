@@ -1,0 +1,21 @@
+Place 2 next to 10 in the quotient. Then triple the 10 from below to make 30. Move down one position and multiply the 30 below by the 10 from the quotient using the method. Place 1×3=30 in the method. Next to this 30, multiply the 30 below by the 2 from the quotient. Place 2×3=6. Count up ten from the 30 in the method and multiply the 30 in the method by only 1 from the quotient. Place 2×3=600. Count up ten from the 6 in the method and multiply the 6 in the method by 2 from the quotient. When placing 1×6=120, it becomes 730. Subtract this from the actual number → 8 tsubo remain. This remainder is subtracted as a square. First, in the method, place 2 from the quotient as 2 in the method as well. Then multiply 2 in the method by 2 from the quotient to get 2×2=4, place in the method. Multiply this by 2 squared from the quotient to get 2×4=8 tsubo. This is subtracted and cleared from the actual number.
+
+3×3=9　　　3×9=27
+
+4×4=16　　4×6=24
+　　　　　　1×4=4
+
+5×5=25　　5×5=25
+　　　　　　2×5=10
+
+6×6=36　　6×6=36
+　　　　　　3×6=18
+
+7×7=49　　7×9=63
+　　　　　　4×7=28
+
+8×8=64　　4×8=32
+　　　　　　6×8=48
+
+9×9=81　　1×9=9
+　　　　　　8×9=72

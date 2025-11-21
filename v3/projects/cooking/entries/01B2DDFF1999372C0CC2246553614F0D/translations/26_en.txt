@@ -1,0 +1,5 @@
+[Diagram of a fleet of boats casting nets on whales and shooting harpoons]
+Parent boat (command vessel)
+Third harpoon
+First harpoon
+Second harpoon

@@ -1,0 +1,20 @@
+Square-form Direct Product (hōko chokuсeki) - 1 problem
+Same Tenyuan Technique
+Chestnut Stone Volume Product (kuriishi jūseki) - 1 problem
+Vertical-Horizontal Middle Diamond (shūō chūhishi) - 1 problem
+Square Sum Product (heihō waseki) - 2 problems
+Pythagorean Void Resolution (kōko kekū) - 1 problem
+
+[Forty-seven] Pythagorean Sum and Difference (kōko wasa) - 3 problems
+[Forty-eight] Pythagorean Hypotenuse Transformation Diagram (kōko ken henka zukai)
+[Forty-nine] Planar Circle Void Resolution Performance Formula (heien kekū endan no shiki)
+
+《Title: Sanpō Juhōki Volume 2》
+《Title: Chapter 1 - Cube Root Extraction Method (kairitsu hō)》
+
+▲There is a cubic area of 1,728 tsubo. When made into a four-sided six-faced [cube], how much is it?
+[Answer] 12 ken on all four sides and six faces.
+
+When looking at the position where the product is placed, it is in the tens place. Setting aside to the side, placing ten ken on the left and right makes 1 × 100 tsubo. If you multiply this by a height of ten ken, it becomes 1,000 tsubo. Subtract this amount from the given area product, and place the quotient 100 ken above it. The remaining product is 728 tsubo. This is recorded in the next diagram.
+
+Multiply the standing quotient above to get 1 × 100 tsubo. If you multiply this by three directions, it becomes 300 tsubo. Using this as the divisor, multiply by the remaining tsubo and divide by one digit, then next to the quotient of ten ken, now place 2 ken, and there remains a product of 1,208 tsubo. This is recorded in the next diagram.

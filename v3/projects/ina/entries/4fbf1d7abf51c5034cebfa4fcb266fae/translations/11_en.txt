@@ -1,0 +1,31 @@
+[Right page]
+One: This person is from Kaisiri Village, Saku District, Shinano Province
+　　Regular lodging house: Yasaburo
+　　　　Principal: Heiroku [seal]
+　　　　Guarantor: Tsurushichi [seal]
+
+One: This person is from Shirano Village, Koma District, Kai Province
+　　Regular lodging house: Genzaemon
+　　　　Principal: Shinjuro [seal]
+　　　　Guarantor: Shinzo [seal]
+
+One: This person is from Kaisiri Village, Saku District, Shinano Province
+　　Regular lodging house: Sanzaemon
+　　　　Principal: Unoshichi [seal]
+　　　　Guarantor: Hisauchi [seal]
+
+One: This person is from Mameda Village, Koma District, Kai Province
+　　Regular lodging house: Yahei
+　　　　Principal: Denbei [seal]
+　　　　Guarantor: Masuzaemon [seal]
+
+[Left page]
+One: This person is from Kaisiri Village, Saku District, Shinano Province
+　　Regular lodging house: Sanzaemon
+　　　　《Interlinear note: also known as Kaneya》
+　　　　Principal: Hisaju [seal]
+　　　　Guarantor: Shinzo [seal]
+
+One: This person is from Iwamizu Village, Saku District, Shinano Province
+　　Regular lodging house: Goemon
+　　　　Principal: Genta [seal]

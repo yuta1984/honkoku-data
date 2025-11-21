@@ -1,0 +1,8 @@
+One village with a kokudaka of 111 koku, 3 to, 6 sho, 1 go: Tachikawa Watari Village
+One village with a kokudaka of 86 koku, 5 to, 3 sho, 5 go: Nagatani Village (branch village of Tachikawa Watari Village)
+One village with a kokudaka of 99 koku, 6 to, 2 sho, 1 go: Hontani Village
+One village with a kokudaka of 303 koku, 2 to, 7 sho, 2 go: Nasubara Village
+One village with a kokudaka of 195 koku, 1 sho, 2 go: Kawamata Village
+One village with a kokudaka of 270 koku, 5 to, 7 sho, 6 go: Hirao Village
+One village with a kokudaka of 95 koku, 5 to, 5 sho, 9 go: Hiura Village
+One village with a kokudaka of 105 koku, 8 to, 8 sho, 7 go: Sako Village (branch village of Hiura Village)

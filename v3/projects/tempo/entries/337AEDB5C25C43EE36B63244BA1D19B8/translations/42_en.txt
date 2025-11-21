@@ -1,0 +1,8 @@
+One: Assessed rice yield 494 koku 7 to 4 sho　　　　　　　《Location: Sadatsuki Village》
+One: Assessed rice yield 409 koku 3 to 3 sho 4 go　　　　　　　《Location: Kamishimo Village》
+One: Assessed rice yield 1,017 koku 2 to 1 sho 6 go 4 shaku　《Note: Branch village of Kamishimo Village》《Location: Ushikuma Village》
+One: Assessed rice yield 631 koku 3 to 6 sho 2 go　　　　　《Location: Kumahata Village》
+One: Assessed rice yield 716 koku 5 to 7 sho 1 go　　　　　　《Location: Kamiyamada Village》
+One: Assessed rice yield 1,109 koku 2 to 7 sho 6 go　　　　　　　《Location: Shimoyamada Village》
+One: Assessed rice yield 783 koku 2 to 8 sho 3 go　　　　　《Location: Hira Village》
+One: Assessed rice yield 79 koku 8 to 1 go　　　　　《Note: Branch village of Hira Village》《Location: Saida Village》

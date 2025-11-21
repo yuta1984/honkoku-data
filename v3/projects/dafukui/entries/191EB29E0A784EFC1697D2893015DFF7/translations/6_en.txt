@@ -1,0 +1,30 @@
+Item　Cattle and horses: 26 animals, of which　　　　　18 horses
+　　　　　　　　　　　　　　　　　8 cattle
+Item　Temples: 1 temple　　Tax-exempt village land　　　Saio-ji Temple
+　　This is a branch temple of Bukkoji Temple in Shirukitani, Kyoto, of the Jodo Shinshu sect
+Item　Tutelary deity: 1 location　　Tax-exempt village land　　　Hakusan Gongen
+Mana River system
+Item　Horikane irrigation weirs　Repairs　　　　　　3 locations
+　　　Of which
+　　1 location: length 50 ken, width 2 ken　　　　5-village cooperative
+　　　　　　　　　　height 1 ken
+　　　　　　　　　　horse path 1 ken　
+　　Kanamori Izumo-no-kami-sama's domain　　　　　Hirasawa Ryoke Village
+　　Kanamori Sakyo-sama's domain　　　　　　Hirasawa Jito Village
+　　Kuboshima Sakuemon-sama's deputy territory　　　　Nonaka Village
+
+　　Same　　　　　　deputy territory　　　　Nishiyama Village
+　　Our current domain　　　　　　　　　　　　Imai Village
+　　This water is drawn again from within Sakai Village of Doi Kai-no-kami-sama's domain
+　　However, eel weirs or 50 sets have been constructed with support provided by Kifuji stipend office from previous expenses
+　　1 location: length 121 ken, width 3 ken　　　5-village cooperative
+　　　　　　　　　　　　height 1 ken
+　　　　　　　　　　　　horse path 1 ken
+　　　　Same cooperative villages as above
+　　This water is drawn from within Gojo-kata Village of Doi Kai-no-kami-sama's domain
+　　However, eel weirs or 121 sets, same as above
+　　1 location: length 150 ken, width 6 ken　　　3-village cooperative
+　　　　　　　　　　　height 1.5 ken
+　　　　　　　　　　　horse path 4 ken　Connection to Shimoe irrigation channel
+　　Kanamori Izumo-no-kami-sama's domain　　　　　Hirasawa Ryoke Village
+　　Kuboshima Sakuemon-sama's domain　　　　　Nonaka Village

@@ -1,0 +1,8 @@
+Item 1: Assessment 611 koku, 2 to, 6 sho　　　　　《Location: Shimo-Ongata Village》
+Item 1: Assessment 1,281 koku, 5 to, 7 sho, 8 go　　《Location: Kawaguchi Village》
+Item 1: Assessment 311 koku, 2 sho, 8 go, 3 shaku　　　　《Location: Yamairi Village》
+Item 1: Assessment 68 koku, 9 to, 6 sho, 9 go　　　　　《Location: Kozu Village》
+Item 1: Assessment 303 koku, 5 to, 3 sho, 5 go　　　　《Location: Nibunkata Village》
+Item 1: Assessment 196 koku, 8 to　　　　　　《Location: Kami-Ichibunkata Village》
+Item 1: Assessment 404 koku, 5 to, 6 sho, 8 go　　　《Location: Shimo-Ichibunman Village》
+Item 1: Assessment 218 koku, 9 to, 4 sho, 9 go　　　《Location: Dairakuji Village》

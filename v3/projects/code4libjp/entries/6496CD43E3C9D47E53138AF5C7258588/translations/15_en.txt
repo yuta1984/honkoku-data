@@ -1,0 +1,43 @@
+Fourteen servants total
+　Three hundred fifty koku　　　　　　One riding horse
+　Ninety-person stipend　　　　　　Disbursement money 25 ryō
+　Three hundred fifty hyō　　　　　　Two pack animals
+　　　　　　　　　　　　Twelve tsubo barracks
+
+One: Senior magistrate, head of pages, personal attendant - If their assessment is less than this level, provide according to this level
+　　　　　　　　　　　　Fifteen servants total
+　Four hundred koku　　　　　　One riding horse
+　One hundred-person stipend　　　　　　Disbursement money 28 ryō
+　Four hundred hyō　　　　　　Two pack animals
+　　　　　　　　　　　　Twelve tsubo barracks
+
+One: Middle elder - If their assessment is less than this level, provide according to this level
+　　　　　　　　　　　　Eighteen servants total
+　　　　　　　　　　　　One riding horse
+　Five hundred koku　　　　　　Disbursement money 35 ryō
+　　　　　　　　　　　　Three pack animals
+　　　　　　　　　　　　Fifteen tsubo barracks
+
+　　　　　　　　　　　　Nineteen servants total
+　Six hundred koku　　　　　　Two riding horses
+　　　　　　　　　　　　Disbursement money 40 ryō　　　　　　　　　　　　　　　　　　　　　　　Seventeen tsubo barracks
+
+　　　　　　　　　　　　Twenty-two servants total
+　　　　　　　　　　　　Two riding horses
+　Seven hundred koku　　　　　　Disbursement money 45 ryō
+　　　　　　　　　　　　Four pack animals
+　　　　　　　　　　　　Twenty tsubo barracks
+
+　　　　　　　　　　　　Twenty-five servants total
+　　　　　　　　　　　　Two riding horses
+　Eight hundred koku　　　　　　Disbursement money 47 ryō
+　　　　　　　　　　　　Four pack animals
+　　　　　　　　　　　　Twenty-one tsubo barracks
+
+　　　　　　　　　　　　Thirty-one servants total
+　Nine hundred koku　　　　　　Two riding horses
+　One thousand koku　　　　　　Disbursement money 49 ryō
+　　　　　　　　　　　　Five pack animals
+　　　　　　　　　　　　Twenty-five tsubo barracks
+
+One: Unit commander - If their assessment is less than this level, provide according to this level

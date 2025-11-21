@@ -1,0 +1,14 @@
+[Right page]
+Item: Cap stones, width 9 sun, thickness 6 sun 5 bu
+　　　Quantity: 26 pieces
+　　　Distance: 20 ken
+　　　Per piece: 5.5 workers estimated
+　　　Labor cost
+　　　　　Total: 143 workers
+
+[Left page]
+Item: 1 foundation stone
+　　　Length: 5 shaku
+　　　Width: 8 sun
+　　　Thickness: 6 sun
+　　Labor total: 15 workers

@@ -1,0 +1,8 @@
+Item 1: Assessment 857 koku, 4 to, 5 sho, 2 go, 8 shaku　　　　《Location: Toshima Village》
+Item 1: Assessment 1,199 koku, 7 to, 9 sho, 8 go　　　　　　《Location: Jūjō Village》
+Item 1: Assessment 2,062 koku, 6 sho, 8 go, 1 shaku, 6 sai　　　《Location: Kamiya Village》
+Item 1: Assessment 735 koku, 9 to, 6 sho, 8 go, 8 shaku, 6 sai　　　《Location: Shimo Village》
+Item 1: Assessment 106 koku, 9 to, 6 sho, 3 go　　　　　　　　《Location: Hachiman Shinden》
+Item 1: Assessment 478 koku, 7 to, 4 sho, 6 go　　　　　　《Location: Inatsuki Village》
+Item 1: Assessment 408 koku, 2 to, 8 go　　　　　　　　　《Location: Iwabuchi Honjuku》
+Item 1: Assessment 431 koku, 6 to, 3 sho, 6 go, 5 shaku　　　《Location: Akabane Village》

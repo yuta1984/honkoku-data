@@ -1,0 +1,8 @@
+One: Assessed rice yield 516 koku 9 to 6 sho 4 go 2 shaku　　《Location: Hakucho Village》
+One: Assessed rice yield 82 koku 1 to 9 sho 4 go　　　　　《Location: Shiriki Village》
+One: Assessed rice yield 197 koku 4 to 6 sho 2 go 3 shaku　　《Location: Naka Village》
+One: Assessed rice yield 180 koku 7 to 3 sho 1 go　　　　　《Location: Yanotake Village》
+One: Assessed rice yield 370 koku 9 to 9 sho 2 go　　　　《Location: Tokufuchi Village》
+One: Assessed rice yield 322 koku 8 to 3 sho 9 go 5 shaku　《Location: Yoshisue Village》
+One: Assessed rice yield 701 koku 4 sho 6 go　　　　　　　《Location: Nakashimada Village》
+One: Assessed rice yield 182 koku 2 sho 3 go　　　　　　　《Location: Nakasōzu Village》

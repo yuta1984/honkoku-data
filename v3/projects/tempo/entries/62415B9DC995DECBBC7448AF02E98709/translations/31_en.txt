@@ -1,0 +1,8 @@
+One, assessed yield: 404 koku, 4 to, 4 shō, 1 gō　　　　　　《Location: Shimotane Village》
+One, assessed yield: 30 koku, 6 to, 3 shō, 5 gō　　《Note: 《Location: Shimotane Village Shinden》》《Location: Iwatsubo Village》
+One, assessed yield: 655 koku, 2 to, 6 shō, 4 gō　　　　《Location: Kametani Village》
+One, assessed yield: 710 koku, 2 to, 6 shō, 3 gō　　　　　　《Location: Shima Village》
+One, assessed yield: 311 koku, 2 to, 8 shō, 5 gō　《Note: 《Location: Shima Village Shinden》》《Location: Honami Village》
+One, assessed yield: 706 koku, 7 shō　　　　　　　　　　《Location: Hara Village》
+One, assessed yield: 644 koku, 5 to, 8 shō, 9 gō　　　　《Location: Seto Village》
+One, assessed yield: 608 koku, 6 to, 2 shō, 6 gō　　　　　　《Location: Rokuo Village》

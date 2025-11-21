@@ -1,0 +1,8 @@
+1. Rice yield: 644 koku, 2 sho, 4 go, 9 shaku　　　《Location: Najima Village》
+1. Rice yield: 404 koku, 6 to, 8 sho, 4 go　　　　　《Location: Ichibe Village》
+1. Rice yield: 1,013 koku, 9 sho, 8 go　　　　　　　《Location: Taga Village》
+1. Rice yield: 8 koku, 9 to, 6 sho, 2 go　《Branch village of Taga Village》《Location: Okuyama Shinden》
+1. Rice yield: 1,182 koku, 7 to, 7 sho, 2 go　　　《Location: Ide Village》
+1. Rice yield: 413 koku, 2 to, 5 sho, 7 go　　　　《Location: Mizunashi Village》
+1. Rice yield: 157 koku, 8 to, 1 sho, 3 go　　　　《Location: Minoyama Shinkai》
+1. Rice yield: 218 koku, 9 to, 5 sho, 6 go　　　　《Location: Na Village》

@@ -1,0 +1,10 @@
+Item: Assessed yield of 314 koku, 3 to, 9 sho　　　　《Location: Hatatsu Village》
+Item: Assessed yield of 329 koku, 4 to, 5 sho, 4 go　《Location: Tsuji Village》
+《Marginal note: Within Tsuji Village》
+Item: Assessed yield of 499 koku, 5 to, 9 sho, 2 go　《Location: Magakigata Shinden》
+Item: Assessed yield of 239 koku, 2 to, 5 sho, 9 go　《Location: Ko-kurokawa Village》
+Item: Assessed yield of 281 koku, 5 to, 5 sho, 2 go　《Location: Kurokawa Village》
+《Marginal note: Within Kurokawa Village》
+Item: Assessed yield of 78 koku, 2 to, 3 sho, 7 go　　　《Location: Shioya Village》
+Item: Assessed yield of 209 koku, 4 to, 4 sho, 8 go　　　《Location: [?]ya Village》
+Item: Assessed yield of 114 koku, 9 to, 8 sho, 8 go　　　《Location: Fukuda Village》

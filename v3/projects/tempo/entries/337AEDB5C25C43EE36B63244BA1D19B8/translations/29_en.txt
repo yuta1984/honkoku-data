@@ -1,0 +1,8 @@
+One: Assessed rice yield 151 koku 7 to 2 sho 7 go　　　《Annotation: Branch village of Katsuno Village》《Location: Kusaba Village》
+One: Assessed rice yield 620 koku 1 to 8 sho 5 go 2 shaku　　　　　《Location: Kanamaru Village》
+One: Assessed rice yield 1,596 koku 3 sho 6 go 7 shaku　　　　　《Location: Shinkita Village》
+One: Assessed rice yield 490 koku 6 to 8 sho 8 go 4 shaku　《Annotation: Branch village of Shinkita Village》《Location: Nagatani Village》
+One: Assessed rice yield 999 koku 3 to 5 sho 7 go 5 shaku　　　　《Location: Yahiro Village》
+One: Assessed rice yield 1,477 koku 4 to 2 sho 7 go　　　　　《Location: Nakayama Village》
+One: Assessed rice yield 388 koku 1 to 3 sho 7 go　　　　　　《Location: Muroki Village》
+One: Assessed rice yield 1,540 koku 3 to 2 sho　　　　　　　　《Location: Nozura Village》

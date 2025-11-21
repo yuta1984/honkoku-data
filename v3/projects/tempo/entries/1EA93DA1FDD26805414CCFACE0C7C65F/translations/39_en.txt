@@ -1,0 +1,8 @@
+Item 1: Assessment 122 koku, 1 to, 4 sho, 2 go　　　　　　《Location: Shimoshinden Village》
+Item 1: Assessment 845 koku, 4 to, 8 sho, 6 go　　　　　　《Location: Watada Village》
+Item 1: Assessment 851 koku, 3 to, 4 sho, 5 shaku　　　　　　《Location: Shioda Village》
+Item 1: Assessment 211 koku, 7 to, 2 sho, 9 go　　　　　　　《Location: Sugasawa Village》
+Item 1: Assessment 724 koku, 1 to, 3 sho, 2 go, 4 shaku, 1 sai　　《Location: Ichiba Village》
+Item 1: Assessment 655 koku, 4 to, 3 sho, 1 go, 5 shaku　　　　《Location: Tsurumi Village》
+Item 1: Assessment 548 koku, 3 to, 1 sho, 1 go, 4 shaku　　　《Location: Kamimatsukichi Village》
+Item 1: Assessment 364 koku, 8 to, 2 sho, 2 go　　　　　《Location: Shimomatsukichi Village》

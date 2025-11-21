@@ -1,0 +1,33 @@
+[Right Page]
+　　Brushwood Mountain at Maruyamasawa (facing Nakanogi): 2 chō - Seiuemon
+　　Facing Forest: Grassland 5 tan - Kuuemon | Shōbei
+　　Kitazawa Forest: Mixed woodland 1 tan 10 bu - Seiuemon
+　　Same location: Mixed woodland 2 tan - Sannosuke | Kyūtarō
+　　Above the Shrine: Grassland 5 tan - Kahēji | Monkurō
+　　Arai Kaito: Brushwood mountain 1 tan 10 bu - Kichizaemon | Kyūtarō
+
+Item: Bamboo grove 1 tan 7 tan 25 bu - Held by farmers
+　　Annual rice tax: 5 shō 3 gō 5 shaku (rate: 3 shō per tan)
+　　　Breakdown:
+　　Kōmyōji Temple: 8 tan 10 bu - Izaemon
+　　Village residential land: 5 tan - Hanjūrō | Shōbei | Sakubei
+
+[Left Page]
+　　Hiyama-dono: 2 tan 10 bu - Katsuuemon | Shōbei | Kuuemon
+　　Kitazawa Forest: 1 tan 5 bu - Seiuemon
+　　Same location: 1 tan - Kichizaemon | Kyūtarō
+
+　　　　　Tax-exempt land
+Item: Shrine land 2 tan - Hiyama Daimyōjin (Shinto priest: Dainitayū)
+　　　　　　　　　　　　　　Shrine building present
+Item: Shrine land 1 tan - Itatori Daimyōjin (Shinto priest: same person)
+　　　　　　　　　　　　　Shrine building present
+Item: Shrine land 2 tan 20 bu - Hachioōji (Shinto priest: same person)
+　　　　　　　　　　　　　No shrine building
+Item: Shrine land 6 bu - Tateno Gongen (Shinto priest: same person)
+　　　　　　　　　　　　　No shrine building
+Item: Temple land 15 bu - Taishi (Maintained by Denuemon)
+　　　　　　　　　　　　　Temple building present
+Item: Shrine land 4 bu - Kōtsuyatengu (Shinto priest: Dainitayū)
+　　　　　　　　　　　　　Shrine building present
+　　　　　　　　Page 12 [written in red]

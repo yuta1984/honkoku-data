@@ -1,0 +1,8 @@
+Item 1: Assessment 17 koku, 4 to, 4 sho, 9 go　　　　《Location: Kakenoue Village》
+Item 1: Assessment 60 koku, 6 sho, 1 go　　　　　　《Location: Jōganji Village》
+Item 1: Assessment 198 koku, 2 to, 3 sho, 1 go　　　《Location: Ōtsuka Village》
+Item 1: Assessment 89 koku, 6 to, 6 go　　　　　　　《Location: Mine Village》
+Item 1: Assessment 376 koku, 1 to, 8 sho, 5 go　　《Location: Ichiba Village》
+Item 1: Assessment 130 koku, 3 sho, 5 go, 2 shaku　　　《Location: Zen'nōji Village》
+Item 1: Assessment 160 koku　　　　　　　　　　《Location: Horikomi Village》
+Item 1: Assessment 399 koku, 9 to, 3 sho, 9 go　　《Location: Shinbori Village》

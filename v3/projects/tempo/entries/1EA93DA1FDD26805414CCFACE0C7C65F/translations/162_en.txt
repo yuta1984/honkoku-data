@@ -1,0 +1,8 @@
+Item 1: Assessment 128 koku, 2 to, 1 sho, 6 go　　《Location: Yaoroshi Village》
+Item 1: Assessment 210 koku, 1 sho, 4 go　　　　　《Location: Shimohata Village》
+Item 1: Assessment 124 koku, 8 to, 3 sho, 3 go　《Location: Okawahara Village》
+Item 1: Assessment 78 koku, 1 to, 5 sho　　　　《Location: Kusumi Village》
+Item 1: Assessment 145 koku, 6 to, 9 sho, 9 go　《Location: Koseto Village》
+Item 1: Assessment 50 koku, 8 to, 5 sho, 6 go　　　　《Location: Magatake Village》
+Item 1: Assessment 207 koku, 8 to, 8 sho, 6 go　　《Location: Koiwai Village》
+Item 1: Assessment 58 koku, 5 to, 4 sho, 9 go　　　《Location: Karyu Village》

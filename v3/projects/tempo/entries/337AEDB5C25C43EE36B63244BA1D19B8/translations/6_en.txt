@@ -1,0 +1,8 @@
+One: Assessed rice yield 659 koku 7 to 6 sho 7 go 4 shaku　《Location: Ariuge Village》
+One: Assessed rice yield 415 koku 1 to 5 sho 6 go　　　　《Location: Otomaru Village》
+One: Assessed rice yield 280 koku 8 to 6 sho 3 go　　　　《Location: Otorii Village》
+One: Assessed rice yield 167 koku 8 to 7 go 5 shaku　　　　《Location: Takasu Village》
+One: Assessed rice yield 741 koku 2 to 1 sho 2 go 5 shaku　《Location: Amazumi Village》
+One: Assessed rice yield 514 koku 2 sho 9 go　　《Note: Branch village of Amazumi Village》《Location: Haraigawa Village》
+One: Assessed rice yield 362 koku 5 to 7 sho 7 go　　　《Location: Okura Village》
+One: Assessed rice yield 46 koku 1 sho 9 go　　　《Note: Branch village of Okura Village》《Location: Tashiro Village》

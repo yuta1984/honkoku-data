@@ -1,0 +1,8 @@
+Item: Assessed yield of 766 koku, 2 go　　　　　　　　　《Location: Kamitaki Village》
+Item: Assessed yield of 596 koku, 7 to, 7 sho, 6 go　　《Location: Onohara Village》
+Item: Assessed yield of 653 koku, 3 sho, 5 go　　　　　　《Location: Ueno Village》
+Item: Assessed yield of 873 koku, 4 to, 8 sho, 3 go　　　《Location: Momokawa Village》
+Item: Assessed yield of 591 koku, 1 to, 6 go　　　　　　　《Location: Mateno Village》
+Item: Assessed yield of 77 koku, 4 to, 2 sho　　　　　　　《Location: Mawatari-bun Village》
+Item: Assessed yield of 101 koku, 9 to, 9 sho, 9 go　　　《Location: Shimo-[?] Village》
+Item: Assessed yield of 252 koku, 3 to, 3 sho, 5 go　　　《Location: Yunokihara Village》

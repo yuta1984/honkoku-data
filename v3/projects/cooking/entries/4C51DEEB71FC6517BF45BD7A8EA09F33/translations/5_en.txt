@@ -1,0 +1,19 @@
+[Right page]
+No. 8     Summer    One soup, three dishes    Page 19
+No. 9     Same      One soup, five dishes    From page 20
+No. 10    Same      One soup, five dishes    From page 22
+No. 11    Same      One soup, main dish with five items    From page 24
+No. 12    Same      Two-tray service (two soups, pickled vegetables, seven dishes)    From page 26
+No. 13    Same      Two-tray service (two soups, main dish with seven items)    From page 29
+No. 14    Autumn    One soup, three dishes    Page 33
+No. 15    Same      One soup, main dish with five items    From page 34
+
+[Left page]
+No. 16    Same      One soup, main dish with five items    From page 36
+No. 17    Same      Two-tray service (two soups, pickled vegetables, seven dishes)    From page 38
+No. 18    Same      Two-tray service (two soups, pickled vegetables, seven dishes)    From page 41
+No. 19    Winter    One soup, three dishes    Page 44
+No. 20    Same      One soup, pickled vegetables, five dishes    From page 45
+No. 21    Same      One soup, main dish with five items    From page 47
+No. 22    Same      Two-tray service (two soups, main dish with five items)    From page 49
+No. 23    Same      Two-tray service (two soups, main dish with five items)    From page 52

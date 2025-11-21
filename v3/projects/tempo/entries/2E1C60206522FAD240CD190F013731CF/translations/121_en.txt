@@ -1,0 +1,8 @@
+One village with a kokudaka of 1,492 koku, 3 to, 4 sho, 8 go: Gose Town
+One village with a kokudaka of 968 koku, 3 to, 2 sho, 7 go: Matsumoto Village
+One village with a kokudaka of 656 koku, 8 to, 1 sho, 5 go: Jagaana Village
+One village with a kokudaka of 736 koku, 6 to, 8 sho: Mimuro Village
+One village with a kokudaka of 2,068 koku, 6 to, 3 sho, 3 go: Kushira Village
+One village with a kokudaka of 305 koku, 3 to, 6 sho, 7 go: Kobayashi Village (branch village of Kushira Village)
+One village with a kokudaka of 1,064 koku, 7 to, 4 sho, 5 go: Narahara Village
+One village with a kokudaka of 369 koku, 9 to, 3 sho, 3 go: Kamata Village (branch village of Narahara Village)

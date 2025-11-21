@@ -1,0 +1,33 @@
+110　　　　　　　　　　　Experimental Basis of Typhoid Vaccination
+――――――――――――――――――――――――――――――――――
+prepared from autolysates.
+
+Among killed bacterial vaccines, the most commonly considered ones are those represented by sensitized bacteria in guinea pigs, so we inoculated two young chimpanzees using this method.
+
+The first one received killed sensitized bacterial vaccine subcutaneously twice repeatedly. Twelve days after the first injection, this chimpanzee and a control chimpanzee were given orally a mixture of typhoid bacterial culture and typhoid material. After a 6-day incubation period, both contracted typhoid. Although the fever elevation shown by the chimpanzee injected with sensitized bacteria was mild in any case (38°6-38°2), we were able to isolate typhoid bacteria from its blood.
+
+The second trial of inoculation with killed sensitized bacteria was not effective, similar to the first. Using a chimpanzee, after three subcutaneous inoculations of killed sensitized bacterial vaccine, seven days after swallowing the test material (typhoid culture and typhoid material), it showed the most typical typhoid disease and Eberth's bacilli were demonstrated in the blood.
+
+Having thus failed in preventive inoculation with killed sensitized bacteria, we used autolysates of typhoid bacteria by Vincent's method.
+
+Here is one of these experiments. One chimpanzee received 1cc of autolysate subcutaneously three times repeatedly. Fourteen days after the first inoculation, like one control chimpanzee, it was given orally a mixture of human typhoid bacteria and typhoid material. Nine days after swallowing this test material, both apes showed temperature elevation. In the control, body temperature declined the next day and subsequently rose twice more but in an extremely mild state. Blood agglutinated up to 1:400-1:800, but was always sterile. In the ape injected with autolysate, it was completely different. Contrary to the control, it had extremely high fever (reaching 40°8) continuing for 2 weeks, and the animal finally died. Blood agglutinated at 1:400, and typhoid bacteria were present in large quantities. This was the most severe typhoid we observed in the chimpanzees we used.
+
+Comparing the reactions in the two chimpanzees, we clearly get the impression that three injections of autolysate did not provide prevention, but rather made the animal susceptible and made
+
+　　　　　　　　　　Experimental Basis of Typhoid Vaccination　　　　　　　　　111
+――――――――――――――――――――――――――――――――――
+its disease more severe.
+
+Two types of vaccines—heat-sensitized bacteria and autolysates of live bacteria—show that they are not effective in chimpanzees. Experiments tried on guinea pigs on the same day showed that they could protect against several times the lethal dose of typhoid bacteria injected intraperitoneally.
+
+　　　　　　　　　　＊　　＊　　＊
+
+Intestinal typhoid disease in chimpanzees and typhoid peritonitis in guinea pigs therefore cannot be considered as the same single disease. Consequently, there is no authority to establish methods of preventive inoculation against intestinal typhoid disease based on results obtained in guinea pigs.
+
+Another fact shown by vaccination trials in humans is that the manifestation of bactericidal or lysin capacity in their serum is relatively rare. It has been repeatedly stated that the manifestation of this capacity means it is necessary for acquiring anti-typhoid immunity. There is no need to go into the details of this problem, but even in Germany, which formerly placed primary importance on the properties of this fluid, this theory has been abandoned and little consideration is now paid to it.
+
+After repeated failures, we thought that it was difficult or even impossible to artificially induce immunity against intestinal typhoid disease in animals. But experiments came to provide us with counter-evidence.
+
+During our research on intestinal typhoid, one of the problems assigned to Metchnikoff and our colleagues was to determine whether subcutaneous inoculation of typhoid bacteria could cause the same disease in chimpanzees as giving them orally. We therefore subcutaneously inoculated anthropoid apes with one-tenth of live typhoid bacteria from agar culture [(Note) The entire amount of agar slant culture made into a 10cc saline suspension, one-tenth of which] suspended in 1cc of fluid. Almost immediately, severe local and systemic reactions occurred, continuing for 13 days. We observed no symptoms specific to bacterial ingestion.
+
+Some time later, we had the idea of using this chimpanzee. We administered typhoid bacteria orally to the ape, and simultaneously to another that would serve as a control. What surprised us was that the former showed no symptoms

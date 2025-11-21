@@ -1,0 +1,8 @@
+Item: Assessed yield of 2,045 koku, 5 to, 9 sho, 4 go　　《Location: Hirota Village》
+Item: Assessed yield of 1,186 koku, 6 to, 5 sho, 5 go　　《Location: Orioseno Village》
+Item: Assessed yield of 550 koku, 5 to, 6 go　　　　　《Location: Imafuku Village》
+Item: Assessed yield of 159 koku, 1 to, 5 sho, 8 go　　《Location: Yoshifuku Village》
+Item: Assessed yield of 281 koku, 7 to, 7 sho, 5 go　　《Location: Yokote Village》
+Item: Assessed yield of 648 koku, 4 to, 2 sho, 5 go　　《Location: Hario Village》
+Item: Assessed yield of 297 koku, 7 to, 7 sho　　　　《Location: Egami Village》
+Item: Assessed yield of 1,150 koku, 8 to, 8 sho, 2 go　　《Location: Sashikata Village》

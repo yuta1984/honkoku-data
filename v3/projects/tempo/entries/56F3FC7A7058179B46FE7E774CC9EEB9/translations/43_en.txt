@@ -1,0 +1,8 @@
+Item: Assessed yield of 448 koku, 9 to, 9 sho, 9 go　　《Location: Daigan-ji Village》
+Item: Assessed yield of 162 koku, 3 to, 9 sho, 1 go　　《Location: Okubo Village》
+Item: Assessed yield of 217 koku, 8 to, 4 go　　　　　　《Location: Saho Village》
+Item: Assessed yield of 426 koku, 2 to, 8 go　　　　　　《Location: Narata Village》
+Item: Assessed yield of 364 koku, 6 to, 8 sho, 7 go　　《Location: Nishi-yamada Village》
+Item: Assessed yield of 50 koku, 6 to, 6 sho, 7 go　　　《Location: Mizukami Village》
+Item: Assessed yield of 532 koku, 1 to, 5 sho, 1 go　　《Location: Kuruma Village》
+Item: Assessed yield of 641 koku, 9 to, 3 sho, 5 go　　《Location: Hirano Village》

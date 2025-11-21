@@ -1,0 +1,8 @@
+Item 1: Assessment 398 koku, 2 to, 4 sho, 9 go　　　《Location: Shimo-Someya Village》
+Item 1: Assessment 47 koku, 1 to, 6 sho, 9 go　　　《Location: Shimo-Someya Village Shinden》
+Item 1: Assessment 38 koku, 1 to　　　　　　　　　　《Location: Hitomi Village》
+Item 1: Assessment 265 koku, 6 to, 4 sho, 3 go　　《Location: Kami-Koganei Village》
+Item 1: Assessment 578 koku, 4 to, 2 go　　　　《Location: Shimo-Koganei Village》
+Item 1: Assessment 299 koku, 9 to, 1 sho, 8 go　《Location: Shimo-Koganei Shinden》
+Item 1: Assessment 462 koku, 6 to, 2 go　　　　　　《Location: Nukui Village》
+Item 1: Assessment 469 koku, 3 to, 7 sho, 8 go　　　《Location: Kokubunji Village》

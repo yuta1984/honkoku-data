@@ -1,0 +1,8 @@
+Item: Assessed yield of 1,183 koku, 7 to, 8 sho, 4 go　《Location: Nerigasato Village》
+Item: Assessed yield of 377 koku, 4 to, 2 sho, 9 go　《Location: Nakamizogasato Village》
+Item: Assessed yield of 475 koku, 7 to, 3 go　　　《Location: Shingae Village》
+Item: Assessed yield of 1,049 koku, 2 to, 8 sho, 8 go　　《Location: Higashishimokoga Village》
+Item: Assessed yield of 328 koku, 1 to, 3 go　　　《Location: Tonerigasato Village》
+Item: Assessed yield of 358 koku, 4 to, 3 sho, 1 go　《Location: Sadaharigasato Village》
+Item: Assessed yield of 519 koku, 5 to, 8 sho, 8 go　　《Location: Gyuogasato Village》
+Item: Assessed yield of 677 koku, 6 to, 1 go　　　《Location: Hamanakagasato Village》

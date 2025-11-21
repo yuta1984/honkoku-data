@@ -1,0 +1,8 @@
+One: Assessed rice yield 219 koku 2 to 2 go 6 shaku　　　　　　　《Location: Suita Village》
+One: Assessed rice yield 49 koku 1 to 9 sho 5 go 8 shaku　《Note: Branch village of 《Location: Suita Village》》《Location: Maki Village》
+One: Assessed rice yield 2,211 koku 7 to 4 sho 1 go 2 shaku　　　《Location: Amagi Village》
+One: Assessed rice yield 1,127 koku 7 to 8 sho 3 go　　　　　　《Location: Higashi-Oda Village》
+One: Assessed rice yield 489 koku 2 to 9 sho 2 go　《Note: Branch village of 《Location: Higashi-Oda Village》》《Location: Fukushima Village》
+One: Assessed rice yield 293 koku 2 to 4 sho 3 go　　　　　　《Location: Chōjamachi Village》
+One: Assessed rice yield 562 koku 8 to 7 go　　　　　　　　《Location: Matsunobu Village》
+One: Assessed rice yield 886 koku 4 to 6 sho 9 go 1 shaku　　　　《Location: Togami Village》

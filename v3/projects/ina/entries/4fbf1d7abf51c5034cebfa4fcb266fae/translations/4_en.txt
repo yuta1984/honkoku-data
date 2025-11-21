@@ -1,0 +1,29 @@
+Regular lodging house: Seigoro
+　　　　Principal: Choemon [seal]
+　　　　Guarantor: Orizo [seal]
+
+One: This person is from Makihara Village, Koma District, Kai Province
+　　Regular lodging house: Rihei
+　　　　Principal: Seihachi [seal]
+　　　　Guarantor: Bunemon [seal]
+
+[Left page]
+One: This person is from Kami-Fukuzawa Village, Koma District, Kai Province
+　　Regular lodging house: Mohei
+　　　　Principal: Banzo [seal]
+　　　　Guarantor: Umezo [seal]
+
+One: This person is from Renjaku-cho, Kofu, Kai Province
+　　Regular lodging house: Risuke
+　　　　Principal: Zenju [seal]
+　　　　Guarantor: Shinshichi [seal]
+
+One: This person is from Hachiman-kita Village, Yamanashi District, Kai Province
+　　Regular lodging house: Rokuzaemon
+　　　　Principal: Tatshichi [seal]
+　　　　Guarantor: Masuzo [seal]
+
+One: This person is from Kamezawa Village, Koma District, Kai Province
+　　Regular lodging house: Katsuzaemon
+　　　　Principal: Shigeya [seal]
+　　　　Guarantor: Tokuemon [seal]

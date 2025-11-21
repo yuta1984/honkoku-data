@@ -1,0 +1,25 @@
+Same: 2.5 ken
+Item: 5-sun square cross-section　　　　2 pieces
+　　　Step count: 50 steps
+
+Item: 4-sun square cross-section　　　　2 pieces
+　　　Step count: 32 steps
+
+Item: 8-sun square cross-section　　　　2 pieces
+　　　Step count: 128 steps
+
+　　Number of timber pieces: 6 pieces
+Total　Step count: 210 steps
+　　　　　Converted to 2-ken steps: 262 steps 5 bu
+
+　　Same: 3 ken
+
+Item: 7-sun square cross-section　　　　1 piece
+　　　Step count: 49 steps
+
+Total　Number of timber pieces: 1 piece
+　　　Converted to 2-ken steps: 73 steps 5 bu
+
+
+　　Number of timber pieces: 98 pieces
+Grand total　Step count: 4,392 steps

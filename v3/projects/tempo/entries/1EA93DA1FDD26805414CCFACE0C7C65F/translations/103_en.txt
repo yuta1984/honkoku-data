@@ -1,0 +1,8 @@
+Item 1: Assessment 69 koku, 9 to, 5 sho, 8 go　　　　　　　《Location: Gonoshin Village》
+Item 1: Assessment 1,028 koku, 6 to, 2 sho, 6 go, 3 shaku　　　　　　《Location: Hamura》
+Item 1: Assessment 549 koku, 5 sho, 4 go　　　　　　　　《Location: Kawabe Village》
+Item 1: Assessment 331 koku, 6 sho, 3 go　　　　　　　　《Location: Imadera Village》
+Item 1: Assessment 362 koku, 3 to, 1 sho, 6 go, 9 shaku, 8 sai　　《Location: Fujibashi Village》
+Item 1: Assessment 783 koku, 3 sho, 1 go　　　　　　　　《Location: Imai Village》
+Item 1: Assessment 195 koku, 5 to, 4 sho, 9 go　　　　　　　《Location: Tomioka Village》
+Item 1: Assessment 367 koku, 6 to, 4 sho, 6 go　　　　《Location: Minami-Kosogi Village》

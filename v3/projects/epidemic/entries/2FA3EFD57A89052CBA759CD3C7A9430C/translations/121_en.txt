@@ -1,0 +1,33 @@
+218　　　　　　Role of Mordants in Infection and Immunity
+――――――――――――――――――――――――――――――――――
+Confirmatory experiments on the significance of bile in food hypersensitivity were later reported by Arloing and his co-authors.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+Dietrich's research on tetanus toxin conducted under Wassermann's guidance belongs to the same category. The author made mice ingest ox bile, then 2 hours later administered tetanus toxin (0.4cc) orally. Control mice not sensitized with bile ingested the same amount of toxin per os. The latter did not become ill, but the former became infected with tetanus.
+
+Similar experiments conducted on guinea pigs and rabbits were recently described by Ramon and Grasset. Exactly like mice, these animals had no difficulty swallowing pure and simple tetanus toxin. When small amounts of ox bile (2-3cc) were ingested together with tetanus toxin, the authors were able to cause generalized tetanus that rapidly caused death in mature rabbits. In guinea pigs too, when tetanus toxin was administered following bile ingestion, the course was similar.
+
+The sensitizing capability of bile extends equally to antitoxins, as is clear from Grasset's experiments. The author made rabbits swallow 3cc of ox bile while fasting, then made them swallow anti-tetanus serum. For 24 hours after administration, blood was repeatedly collected. Grasset confirmed that serum obtained by operative bloodletting 1-4 hours after antitoxin administration could neutralize 10 times the lethal dose of toxin with 1cc. Thereafter, serum obtained by bloodletting performed 7-24 hours after antitoxin administration could neutralize up to 100 times the lethal dose of toxin. Similar results were obtained in rabbits that ingested anti-diphtheria serum under the same conditions.
+
+In contrast, in animals not sensitized with bile, the results are completely different. In 2 rabbits, Grasset made them ingest 6cc of purified anti-tetanus serum, i.e., 1,500 units of antitoxin, while fasting; after serum administration he bled the rabbits at intervals of 1, 4, 7, and 24 hours. This time, none of the sera obtained by various bleedings contained any trace of antitoxin. The same results were obtained with anti-diphtheria serum: namely, when administered orally without prior sensitization, this serum
+
+　　　　　　　　　Role of Mordants in Infection and Immunity　　　　219
+――――――――――――――――――――――――――――――――――
+passes through the intestinal tract without migrating into the blood at all.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+Therefore, in the case of passive immunity as in active immunity, prior sensitization of the intestinal wall is absolutely necessary.
+
+It goes without saying that the essential mechanisms of immunity are not identical in both cases: in passive immunity, antitoxin migrates through the intestinal wall to the systemic circulation, whereas in active immunity, the pathogen-vaccine is retained at the site of the intestinal wall. However, in either case, bile actually cleanses that region and promotes direct contact with the intestinal wall.
+
+Following our initial research, a certain number of scholars conducted research to use other substances that confer similar properties in place of bile. Some proposed using alcohol (Zabolotny), sodium sulfate, sodium benzoate (Reiter), Chatel-Guyon water (Goehlinger), and finally, killed cultures of dysentery bacilli (Nedrigaïloff).
+
+Attempting to sensitize the intestine with any of these substances is a second important problem. It may be possible in the future to discover mordants that are completely harmless and perhaps even more effective than ox bile. What is important is that the same principle as sensitization can overcome intestinal impermeability at little cost.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+Even if oral vaccination has not progressed until recently, it is because it lacks a solid scientific foundation. The prevailing doctrine wanted all immune manifestation to be attributed to antibodies, and easily explained why the oral route was unsuitable for ensuring immunity because of damage received from vaccines in the intestine.
+
+Today, such explanations must not be accepted. The history of anti-anthrax immunity has taught us that immunity does not require the action of antibodies. What is true for anthrax should be equally true for other diseases. If oral immunization has failed until today, this is rather due to defects in appropriate technique than to defects in antibodies

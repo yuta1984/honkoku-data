@@ -1,0 +1,32 @@
+104 Fourteen days ago, fourteen days have passed, since 14 days.
+105 Since one hour ago
+106 Since two hours ago
+107 Since three hours ago
+108 Since four hours ago
+109 Since five hours ago
+110 Since six hours ago
+111 Since three weeks ago
+112 Since one month ago
+113 Since two months ago
+114 Since three months ago
+115 Since four months ago
+116 Since five months ago
+117 Since six months ago
+118 What will be done tomorrow?
+119 A scale at Doorn/a warehouse/
+120 A scale for tin
+121 A scale for lead
+122 Two scales for sugar
+123 Two scales for soapwood
+124 How many workers will be needed tomorrow?
+125 Eighty is too many, sixty will suffice.
+126 The more there are, the lazier they become.
+127 They finish too early.
+128 Beware of theft
+129 All these workers are thieves.
+130 I will have them keep good watch.
+131 How many freight boats will be needed?
+132 Four freight boats are needed for tomorrow.
+133 I will have the beams and oars delivered to them.
+134 Tomorrow two freight barges will suffice
+135 One for the company's goods

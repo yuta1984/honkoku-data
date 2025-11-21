@@ -1,0 +1,8 @@
+Item 1: Assessment 41 koku, 7 to, 7 sho, 4 go　　　　　　　《Location: Ikejiri Village》
+Item 1: Assessment 187 koku, 7 to, 5 sho, 9 go, 5 shaku, 8 sai　　《Location: Wakabayashi Village》
+Item 1: Assessment 317 koku, 9 to, 6 sho, 8 go, 1 shaku　　　《Location: Shimo-Kitazawa Village》
+Item 1: Assessment 533 koku, 7 to, 3 sho, 8 go　　　　　《Location: Daita Village》
+Item 1: Assessment 347 koku, 7 to, 8 sho, 7 go　　　　　《Location: Matsubara Village》
+Item 1: Assessment 230 koku, 3 to, 2 sho, 5 go　　　　　　《Location: Akatsutsumi Village》
+Item 1: Assessment 432 koku, 2 to, 4 sho, 1 go　　　　《Location: Kami-Kitazawa Village》
+Item 1: Assessment 305 koku, 6 to, 4 sho, 5 go　　　　　《Location: Kyodo Zaike Village》

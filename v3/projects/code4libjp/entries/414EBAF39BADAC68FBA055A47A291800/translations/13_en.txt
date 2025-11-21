@@ -1,0 +1,75 @@
+10 months or more　Male　　　　　1　　　　　　　　　　　　　　1
+　　　　　　　　 Female　　　　―　　　　　　　　　　　　　　―
+　　　　　　　　 Total　　　　1　　　　　　　　　　　　　　1
+11 months or more　Male　　　　　2　　2　　　　　　　　1　　5
+　　　　　　　　 Female　　　　1　　1　　　　　　　　―　　2
+　　　　　　　　 Total　　　　3　　3　　　　　　　　1　　7
+1 year or more　　 Male　1　　2　　　　　　　　　　　1　　4
+　　　　　　　　 Female　―　　―　　　　　　　　　　　―　　―
+　　　　　　　　 Total　1　　2　　　　　　　　　　　1　　4
+2 years or more　　Male　　　　　　　　　　　　　　　1　　1
+　　　　　　　　 Female　　　　　　　　　　　　　　　―　　―
+　　　　　　　　 Total　　　　　　　　　　　　　　　1　　1
+Total　　　　　　 Male　1　12　　7　13　　　　17　50
+　　　　　　　　 Female　1　　3　　3　　3　　　　16　26
+　　　　　　　　 Total　2　15　10　16　　　　33　76
+
+5. Patients by Age Group
+　　　　　　　　　　　　1-5　6-10　11-15　16-20　21-25　26-30　31-35　36-40　41-50　51-60　61 and over　Total
+1937 fiscal year　Admitted　Male　　　　　　　　　　　　　1　　　12　　　21　　　12　　　　7　　　　4　　　　1　　　　1　　　―　　59
+　　　　　　　 patients　Female　　　　　　　　　　　　2　　　　4　　　10　　　　8　　　　5　　　　2　　　　1　　　―　　　1　　33
+　　　　　　　　　　　　Total　　　　　　　　　　　　3　　　16　　　31　　　20　　　12　　　　6　　　　2　　　　1　　　1　　92
+　　　　　　　 Deceased　Male　　　　　　　　　　　　　―　　　　3　　　　4　　　　4　　　　2　　　　2　　　　2　　　―　　　―　　17
+　　　　　　　 patients　Female　　　　　　　　　　　　2　　　　4　　　　3　　　　1　　　　3　　　　1　　　　1　　　―　　　1　　16
+　　　　　　　　　　　　Total　　　　　　　　　　　　2　　　　7　　　　7　　　　5　　　　5　　　　3　　　　3　　　―　　　1　　33
+Total since opening　Admitted　Male　　　　　　　　　　　3　　　30　　　52　　　27　　　13　　　　8　　　　7　　　　2　　　2　 144
+　　　　　　　　patients　Female　　　　　　　　　　　8　　　15　　　20　　　19　　　　7　　　　2　　　　6　　　　1　　　1　　79
+　　　　　　　　　　　　Total　　　　　　　　　　 11　　　45　　　72　　　46　　　20　　　10　　　13　　　　3　　　3　 223
+　　　　　　　　Deceased　Male　　　　　　　　　　　　―　　　　6　　　　8　　　　9　　　　6　　　　5　　　　4　　　―　　　2　　40
+　　　　　　　　patients　Female　　　　　　　　　　　5　　　　7　　　　8　　　　8　　　　4　　　　2　　　　2　　　―　　　1　　37
+　　　　　　　　　　　　Total　　　　　　　　　　　5　　　13　　　16　　　17　　　10　　　　7　　　　6　　　―　　　3　　77
+
+6. Inpatients by Occupation
+[Upper section]
+　　　　　　　　1937 fiscal year　　Since opening
+　　　　　　　　Male　Female　Total　Male　Female　Total
+Agriculture　　　　　　　5　　5　10　　10　　8　18
+Sericulture　　　　　　　―　　―　　―　　―　　3　　3
+Poultry farming　　　　　1　　1　　2　　1　　1　　2
+Cocoon silk industry　　―　　―　　―　　2　　―　　2
+Silk reprocessing　　　　―　　―　　―　　1　　1　　2
+Printing　　　　　　　　1　　―　　1　　1　　―　　1
+Antique dealer　　　　　1　　―　　1　　1　　―　　1
+Kimono merchant　　　　―　　1　　1　　―　　1　　1
+Footwear, Western goods
+and sundries sales　　　3　　1　　4　　3　　2　　5
+Stationery and
+paper sales　　　　　　―　　―　　―　　2　　―　　2
+Ceramics and glassware sales　2　　―　　2　　2　　―　　2
+Tobacco and sundries sales　1　　―　　1　　1　　―　　1
+Confectionery sales　　　1　　―　　1　　1　　1　　2
+Sake and soy sauce sales　―　　―　　―　　―　　1　　1
+Vegetable and fruit sales　―　　―　　―　　1　　―　　1
+Confectionery manufacturing　―　　―　　―　　1　　―　　1
+Tofu manufacturing and sales　―　　―　　―　　1　　―　　1
+
+[Lower section]
+　　　　　　　　1937 fiscal year　　Since opening
+　　　　　　　　Male　Female　Total　Male　Female　Total
+Watch repair and metal sales　1　　―　　1　　1　　―　　1
+Bicycle sales and repair　　―　　―　　―　　1　　―　　1
+Laundry business　　　　　―　　―　　―　　1　　―　　1
+Day laborer　　　　　　　―　　―　　―　　―　　1　　1
+Construction worker　　　―　　―　　―　　1　　―　　1
+Plating craftsman　　　　―　　―　　―　　1　　―　　1
+Machine worker　　　　　1　　―　　1　　1　　―　　1
+Worker of unknown affiliation　1　　―　　1　　7　　―　　7
+Automobile driver　　　　3　　―　　3　　7　　―　　7
+Tatami craftsman　　　　―　　―　　―　　1　　―　　1
+Gardener　　　　　　　　―　　―　　―　　1　　―　　1
+Tabi (sock) craftsman　　―　　―　　―　　1　　―　　1
+Confectionery craftsman　　2　　―　　2　　2　　―　　2
+Basket craftsman　　　　1　　―　　1　　1　　―　　1
+Western clothing tailor　　1　　―　　1　　3　　―　　3
+Lacquer craftsman　　　　1　　―　　1　　1　　―　　1
+Barber　　　　　　　　　―　　―　　―　　2　　―　　2

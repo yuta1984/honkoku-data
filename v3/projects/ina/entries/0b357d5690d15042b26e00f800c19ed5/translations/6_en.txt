@@ -1,0 +1,18 @@
+Item: Construction laborers, 60 people
+     Their wage: 120 monme silver
+
+Item: Iron rust [prevention coating], 12 sheets
+     This cost: 6 monme, at 5 bu per sheet
+
+Item: Same chikiri [iron clamps], 27 pieces, length 4 sun, center 1 sun
+     This cost: 40 monme 5 bu, thickness 1 sun 2 bu
+                                Both ends 2 sun
+                                Per piece:
+                                    1 monme 5 bu each
+
+Laborer wages: Total silver 461 monme 6 bu
+
+Stonemason wages: Total same 2 kan 324 monme 4 bu
+
+Iron wedges: Total silver 46 monme 5 bu
+chikiri

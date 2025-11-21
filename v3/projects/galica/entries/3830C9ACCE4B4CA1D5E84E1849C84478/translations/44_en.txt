@@ -1,0 +1,34 @@
+【Page Number】20
+1 It is a favorable wind for ships.
+2 This boat is waiting for a good wind.
+3 He is a good man.
+
+5 He is always very obliging.
+6 He is very studious.
+7 He is always very affable.
+8 He is an intelligent man.
+9 He is a diligent man.
+10 He is a virtuous man.
+11 He is a good-natured man.
+12 He is a wicked man.
+13 He is a brute.
+14 He is a liar.
+15 He is a depraved man.
+16 He is a scoundrel.
+17 He is a bad boy.
+18 He makes himself hated by everyone.
+19 He speaks ill of everyone.
+20 He is always quarreling.
+21 He is always looking for a fight.
+22 He knows it, but doesn't want to say it.
+23 This watch works very well.
+24 This watch has stopped.
+25 This watch runs too fast.
+
+27 This watch is too slow.
+28 I don't have any watch that works well.
+29 I only have two watches of my own.
+30 I gave a watch to the Governor.
+31 I cannot part with this one.
+32 I need it myself.
+33 I would gladly give it to you.

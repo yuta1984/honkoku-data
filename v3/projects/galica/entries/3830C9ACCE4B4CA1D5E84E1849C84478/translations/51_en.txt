@@ -1,0 +1,32 @@
+234 Cover the table.
+235 Bring dinner.
+236 Clear away/serve.
+237 Give something to drink.
+238 Bring water for us to wash.
+239 Give a clean towel.
+240 Today the weather is superb.
+241 Today's weather is rainy.
+242 Open the sliding door.
+244 Make the bed.
+245 Tomorrow I want to go to town.
+246 I want to bathe this afternoon.
+247 Bring my shoes.
+248 Clean the buckles.
+249 Give me clean linen every day.
+250 Clean the apartment.
+251 I have a headache.
+252 It's too hot here.
+253 How old are you?
+254 How many years have you been there?
+255 a married woman
+256 a young girl
+257 a marriageable girl
+258 an old woman
+259 a playful girl
+260 She is always cheerful.
+261 Allow me to drink a cup of sake with you.
+262 Please.
+263 Where have you been for so long?
+264 At my mother's.
+265 Do you have brothers and sisters?
+266 I desire a lark that sings.

@@ -1,0 +1,11 @@
+Branch village of Magawa Village
+1. Assessed yield: 136 koku, 2 to, 1 go - Kowada Village
+1. Assessed yield: 365 koku, 7 to, 7 sho, 1 go - Magawa Village
+1. Assessed yield: 69 koku, 6 to, 7 sho, 7 go - Hanegasawa Village
+1. Assessed yield: 585 koku, 4 to, 1 sho, 3 go - Fukuda Village
+1. Assessed yield: 682 koku, 1 to, 8 sho, 1 go, 8 shaku - Funagata Village
+                                        Branch village of Funagata Village
+1. Assessed yield: 248 koku, 4 to, 1 sho, 3 go - Ichinooka Village
+1. Assessed yield: 1,453 koku, 7 to, 2 sho, 1 go - Saruhane Village
+                                        Branch village of Saruhane Village
+1. Assessed yield: 204 koku, 5 to, 6 sho, 3 go - Chojahara Village

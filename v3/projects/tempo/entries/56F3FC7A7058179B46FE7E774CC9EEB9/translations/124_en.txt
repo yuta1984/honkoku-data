@@ -1,0 +1,12 @@
+Item: Assessed yield of 20 koku　　　　　　　　　　　　　　　　　　《Location: Shimayama Village》
+Item: Assessed yield of 33 koku, 3 to, 2 sho　　　　　　　　　　　　《Location: Ushinoura Village》
+Item: Assessed yield of 27 koku, 2 to, 7 go　　　　　　　　　　　　　《Location: Kashiwa Village》
+《Marginal note: ｜Formerly《Location: Akashima》》
+Item: Assessed yield of 32 koku, 6 to, 6 sho, 3 go, 5 seki　　　　　《Location: Akashima Village》
+《Marginal note: ｜Formerly《Location: Hiroshima》》
+Item: Assessed yield of 115 koku, 5 to, 7 sho, 9 go, 3 seki　　　　　《Location: Kishima Village》
+《Marginal note: ｜Formerly《Location: Sagashima》》
+Item: Assessed yield of 92 koku, 6 to, 1 sho, 6 go, 2 seki　　　　　　《Location: Sagashima Village》
+《Marginal note: ｜Formerly《Location: Kugashima Village》》
+Item: Assessed yield of 473 koku　　　　　　　　　　　　　　　　　　《Location: Kuga Village》
+Item: Assessed yield of 65 koku, 4 to, 4 sho　　　　　　　　　　　　《Location: Warabi Village》

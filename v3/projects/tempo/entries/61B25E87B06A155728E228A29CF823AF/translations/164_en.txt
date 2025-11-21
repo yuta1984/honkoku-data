@@ -1,0 +1,8 @@
+1. Assessed yield: 880 koku, 1 to, 5 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　Waji village
+1. Assessed yield: 268 koku, 5 to, 9 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Koshido village
+1. Assessed yield: 1,126 koku, 2 to, 7 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　Wakami village
+1. Assessed yield: 1,600 koku, 1 to, 5 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　Akabane village
+1. Assessed yield: 1,600 koku, 1 to, 4 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　Takamatsu village
+1. Assessed yield: 723 koku, 7 to, 7 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Okusa village
+1. Assessed yield: 666 koku, 4 to, 5 sho, 4 go　　　　　　　　　　　　　　　　　　　　　　　　　Dodo village
+1. Assessed yield: 275 koku, 2 to, 1 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　Hamada village

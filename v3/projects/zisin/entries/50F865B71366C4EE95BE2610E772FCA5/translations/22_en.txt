@@ -1,0 +1,17 @@
+Item: Large 5 sun nails 2,250 pieces
+　Cost: 45 monme 5 bu of silver　Note: 2 monme 5 bu of silver per 100 pieces
+　　These are for floor board buried wood boards, 15 nails per board for 150 boards
+Item: Wrapped iron fitting 1 piece　length 6 shaku 2 sun　{{marginal note: width 2 sun | thickness 2 bu}}　26 rivet holes
+　Cost: 20 monme 7 bu 6 rin of silver
+Item: 3 old wrapped iron fittings re-forged
+　Cost: 13 monme 2 bu 3 rin of silver
+Item: 3 sun long flat rivets 104 pieces
+　Cost: 5 monme 4 bu 2 rin of silver　Note: 5 monme 2 bu 1 rin of silver per 100 pieces
+　　These are for wrapped iron fittings, 26 rivets per fitting for 4 fittings
+Nails and iron fittings
+　Total: 144 monme 4 bu 1 rin of silver
+Item: Carpenters 69 people
+　Cost: 345 monme of silver　Note: 5 monme of silver per person
+　Breakdown:
+　　4 people　　For pile buried wood, 2 people per pile for 2 piles
+　　2 people　　For attaching wrapped iron fittings

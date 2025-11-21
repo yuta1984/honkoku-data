@@ -1,0 +1,8 @@
+1. Assessed yield: 401 koku, 4 to, 7 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Ichiba village
+1. Assessed yield: 408 koku, 4 to, 6 go, 4 shaku　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Urushida village
+1. Assessed yield: 746 koku, 1 to, 2 sho, 3 go, 6 shaku　　　　　　　　　　　　　　　　　　　　　　Kanbe　Aotsu village
+1. Assessed yield: 397 koku, 4 to, 4 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Akamatsu village
+1. Assessed yield: 187 koku, 2 to, 8 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Shida village
+1. Assessed yield: 225 koku, 4 to, 8 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Niimi village
+1. Assessed yield: 381 koku, 6 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kanbe　Taninokuchi village
+1. Assessed yield: 259 koku, 8 to, 3 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　Branch village of Taninokuchi　Higashigaya village

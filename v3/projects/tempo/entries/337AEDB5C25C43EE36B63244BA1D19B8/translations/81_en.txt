@@ -1,0 +1,8 @@
+One: Assessed rice yield 1,148 koku 8 to 3 sho 6 go　　　《Location: Sasaguri Village》
+One: Assessed rice yield 337 koku 7 to 6 sho 8 go　　　《Location: Kanade Village》
+One: Assessed rice yield 269 koku 6 to 8 sho 2 go 8 shaku　《Location: Takada Village》
+One: Assessed rice yield 138 koku 1 sho 5 go　　　　　　《Location: Hagio Village》
+One: Assessed rice yield 309 koku 6 to 6 sho 3 go　　　　　《Location: Tanaka Village》
+One: Assessed rice yield 391 koku 3 to 9 sho 9 go　　　《Location: Tsunamiguro Village》
+One: Assessed rice yield 708 koku 9 to 3 sho 5 shaku　　　　　《Location: Wada Village》
+One: Assessed rice yield 1,238 koku 5 to 7 sho 1 go　　《Location: Ōkuma Village》

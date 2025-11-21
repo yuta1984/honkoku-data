@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 792 koku, 2 sho, 8 go　　《Location: Kazumi Village》
+Item 1: Assessed yield of 489 koku, 7 to, 8 go　　《Location: Ichiwari Village》【Note in Kyūkō Kyūryō Torishirabe-chō = Ichi-no-wari Village】
+Item 1: Assessed yield of 92 koku, 5 to, 1 go　　　　《Location: Kano Shinden Village》
+Item 1: Assessed yield of 185 koku, 1 to, 5 sho, 8 go　《Location: Hirasawa Village》
+Item 1: Assessed yield of 180 koku, 3 to, 2 sho, 7 go　　《Location: Mamagari Village》
+Item 1: Assessed yield of 249 koku, 4 to, 5 sho　　《Location: Uchiyama Village》
+Item 1: Assessed yield of 120 koku, 2 to, 6 sho, 1 go　　《Location: Takaishi Village》
+Item 1: Assessed yield of 332 koku, 3 to, 2 sho　　《Location: Minamikamogahara Village》

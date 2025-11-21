@@ -1,0 +1,8 @@
+1. Rice yield: 1,003 koku　　　　　　　　　　　　《Location: Keikanei Village》
+1. Rice yield: 1,272 koku, 9 to, 5 sho, 7 go, 5 shaku　《Location: Kamiueno Village》
+1. Rice yield: 408 koku, 8 to, 3 sho, 8 go　　　　　　《Location: Baba Village》
+1. Rice yield: 523 koku, 3 sho, 7 go　　　　　　《Location: Furuichi Village》
+1. Rice yield: 962 koku, 1 to, 7 sho　　　　　　《Location: Koutari Village》
+1. Rice yield: 1,075 koku, 8 to, 7 sho, 5 go　　　　《Location: Shoryuji Village》
+1. Rice yield: 713 koku, 1 to, 3 sho, 4 go　　　　　《Location: Shimoueno Village》
+1. Rice yield: 660 koku, 7 to, 2 sho, 2 go, 2 shaku　《Location: Oyamazaki》

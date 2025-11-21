@@ -1,0 +1,23 @@
+70　　　　　　　　　Fungal Endotoxins　　　　　　　　　　　　
+――――――――――――――――――――――――――――――――――
+Mary Leach, Charles Marshall, Louis Gelston, and Walter Vaughan conducted systematic research on the contents of various bacterial bodies (Micrococccus prodigiosus, sarcina lutea, bacilles diphtériques, bacille du charbon, colibacille, etc...).
+They worked with large amounts of bacteria (up to 50 grams) that were dried and finely ground. In this research, they recognized the following interesting facts: namely, that the toxicity of bacteria becomes greater as the bacteria become increasingly fine powder, and furthermore that completely non-pathogenic bacteria such as Sarcina lutea and Micrococcus prodigiosus have far superior endotoxic capabilities than those of anthrax bacilli.
+　This fact relates to the concept discussed at the beginning of this chapter regarding the generality of bacterial endotoxins.
+
+　　　　　　　　　Fungal Endotoxins
+　　　　　　　Endotoxine des Champignons
+
+　H. Roger proved that heat-sterilized cultures of Endomyces albicans are toxic to rabbits when injected subcutaneously and intraperitoneally. He observed that this toxicity is related to the bacterial body and not to the liquid portion of the culture. With a similar concept, Concetti ground the protoplasm of Endomyces and obtained two layers after centrifugal precipitation; the upper layer was toxic and composed of protoplasmic proteins and lipids, while the lower layer was non-toxic and composed of cell membrane fragments.
+　Attempts to extract Aspergillus fumigatus endotoxin gave apparently opposite results. Therefore, H. Roger observed that grinding and centrifugally precipitating cultures of this fungus formed two layers: namely, the upper layer completely lost toxicity against rabbits; the lower layer caused lower body paralysis disorders in rabbits. The cause of this opposite phenomenon probably lies in the fact that Aspergillus diffuses its bacterial endotoxin almost entirely into the surrounding medium.
+　Penicillium glaucum probably also contains active bacterial endotoxin, as shown by H. Roger's research.
+
+　　　　　　　　　　Fungal Endotoxins　　　　　　　　　　　　71
+――――――――――――――――――――――――――――――――――
+　The bacterial endotoxin of Sporotrichum beurmanni was described by Gougerot et Blanchetière. Actually, this relates more to ether, chloroform, alcohol, and other extracts rather than to bacterial endotoxin.
+　The preparation previously obtained by Auclair from tubercle bacilli is similar. All these substances, which differ from each other depending on the solvent used, are more or less artificially leached from bacterial protoplasm. Speaking thus, all these extracts are identical to partial bacterial endotoxins; while they deserve a certain position, they cannot be placed on the same level as true bacterial endotoxins such as those of plague, dysentery, and whooping cough; the latter determine symptoms and lesions in animals similar to those produced by the bacteria themselves.
+　　　　　　　　　　＊　　＊　　＊
+　In the descriptions mentioned above, when enumerating the properties of bacterial endotoxins, we particularly noted their special characteristics. This property makes evident the fact that some bacterial endotoxins are only neutralized by specific sera, namely anti-bacterial endotoxin sera.
+　What is this serum?
+　When discussing certain bacterial endotoxins, for example, toxins obtained from plague bacilli or whooping cough bacilli, we noted as remarkable the fact that animals that resisted large amounts of bacterial endotoxin showed no evidence of being immunized against this same bacterial endotoxin, even when using only lethal doses.
+　The impossibility of immunity against bacterial endotoxins long made experimenters feel that the property of not forming antibodies should be added to the very definition of bacterial endotoxin. Therefore, let us discuss here how it is appropriate to define bacterial endotoxin and distinguish it from so-called intrinsic toxins. Namely: toxins cause the formation of antibodies, but bacterial endotoxins cannot produce them regardless of the injection method: when injected into animals, they generate nothing in the serum other than bacteriolysins.
+　This distinction was believed by Wolff-Eisner, a former student of R. Pfeiffer. His opinion on this matter gained weight in proportion to attributing to his teacher the achievement that gave rise to the concept of bacterial endotoxin, as we know. Wolff-Eisner, regarding human

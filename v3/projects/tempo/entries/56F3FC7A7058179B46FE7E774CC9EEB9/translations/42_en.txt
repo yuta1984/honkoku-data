@@ -1,0 +1,8 @@
+Item: Assessed yield of 194 koku, 5 to, 6 sho, 9 go　　　《Location: Nao-yama Village》
+Item: Assessed yield of 107 koku, 4 to, 9 sho, 2 go　　　　《Location: Yunoki-yama Village》
+Item: Assessed yield of 102 koku, 1 to, 4 sho　　　　　　　《Location: Hatase-yama Village》
+Item: Assessed yield of 190 koku, 4 sho, 8 go　　　　　　　《Location: Shobu-yama Village》
+Item: Assessed yield of 81 koku, 4 go　　　　　　　　　　　《Location: Hiji-yama Village》
+Item: Assessed yield of 808 koku, 1 to, 4 sho, 3 go　　　　《Location: Toda Village》
+Item: Assessed yield of 663 koku, 9 to, 1 sho, 3 go　　　　《Location: Ikegami Village》
+Item: Assessed yield of 351 koku, 3 to, 1 sho, 7 go　　　　《Location: Oho Village》

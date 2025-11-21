@@ -1,0 +1,19 @@
+1. This person is from Nitta Village, Azumi District, Shinano Province
+   Lodging house: Kumejiro
+   Principal: Tomizo (seal)
+   Guarantor: Magoemon (seal)
+
+1. This person is from Yui Kitada, Suruga Province
+   Lodging house: Genbei
+   Principal: Denju (seal)
+   Guarantor: Yotaro (seal)
+
+1. This person is from Wakamiko Village, Koma District, Kai Province
+   Lodging house: Gengoemon
+   Principal: Shinzaemon (seal)
+   Guarantor: Rokuzaemon (seal)
+
+1. This person is from Ohata Village, Tsuru District, Kai Province
+   Lodging house: Kichizaemon
+   Principal: Zentaro (seal)
+   Guarantor: Shigeharu (seal)

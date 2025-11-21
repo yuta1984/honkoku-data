@@ -1,0 +1,8 @@
+Item: Assessed yield of 20 koku　　　　　　　　　　　　　　　　　　《Location: Doinoura Village》
+Item: Assessed yield of 23 koku, 8 to, 7 sho, 3 go　　　　　　　　　　《Location: Hinoshima Village》
+Item: Assessed yield of 30 koku　　　　　　　　　　　　　　　　　　　《Location: Tainoura Village》
+Item: Assessed yield of 23 koku, 2 to, 8 sho, 5 go　　　　　　　　　　《Location: Takanoura Village》
+Item: Assessed yield of 396 koku, 2 to, 8 sho, 2 go, 5 seki　　　　　　《Location: Arikawa Village》
+Item: Assessed yield of 31 koku, 7 to, 2 sho, 2 go　　　　　　　　　　《Location: Ogawahara Village》
+Item: Assessed yield of 78 koku, 3 to, 3 sho, 2 go, 5 seki　　　　　　　《Location: Akao Village》
+Item: Assessed yield of 25 koku, 8 to, 5 sho, 9 go, 5 seki　　　　　　　《Location: Tomozumi Village》

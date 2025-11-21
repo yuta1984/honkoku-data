@@ -1,0 +1,8 @@
+1. Assessed yield: 647 koku, 8 to, 4 sho　　　　　　　　　　　Tomokuni village
+1. Assessed yield: 170 koku, 8 to, 5 sho, 2 go　　　　　　　　　Nakamura village
+1. Assessed yield: 280 koku, 1 to, 4 sho, 3 go　　　　　　　　　Kamihata village
+1. Assessed yield: 116 koku, 8 to, 8 sho, 6 go　　　　　　　　　Hikota village
+1. Assessed yield: 241 koku, 8 to, 9 sho, 3 go　　　　　　　　　Yamaguchi village
+1. Assessed yield: 134 koku, 8 to, 7 sho, 1 go　　　　　　　　　Shikagawa village
+1. Assessed yield: 180 koku, 5 to, 5 sho, 5 go　　　　　　　　　Tani village
+1. Assessed yield: 235 koku, 4 to, 2 sho, 8 go　　　　　　　　　Onotani village

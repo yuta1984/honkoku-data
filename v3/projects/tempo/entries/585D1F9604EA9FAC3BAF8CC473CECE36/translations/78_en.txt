@@ -1,0 +1,10 @@
+1. Assessed yield: 66 koku, 2 to, 5 sho, 6 go, 2 shaku - Takada-Shinden Village
+1. Assessed yield: 289 koku, 5 to, 2 sho, 5 go, 1 shaku - Yamadera Village
+1. Assessed yield: 165 koku, 5 to, 8 sho, 5 go, 9 shaku - Watariba Village
+1. Assessed yield: 222 koku, 1 to, 3 sho, 2 go, 9 shaku - Matsuyama Town
+1. Assessed yield: 831 koku, 3 to, 1 go, 5 shaku - Takeda Village
+1. Assessed yield: 682 koku, 2 to, 6 sho, 6 go, 5 shaku - Tsuchibuchi Village
+1. Assessed yield: 283 koku, 3 to, 6 sho, 4 go - Kami-Myogasawa Village
+1. Assessed yield: 262 koku, 5 to, 9 sho, 7 go, 6 shaku - Shimo-Myogasawa Village
+
+[Note: In the National Museum of Japanese History's database of old assessed yields and domains, "Tsuchibuchi Village" is recorded as "Tsuchiuchi Village"]

@@ -1,0 +1,22 @@
+Same, major damage: 8          Mukai-machi
+Same, damaged: 5              Collapsed houses: 5
+Board storehouse major damage: 1   Half-collapsed: 5
+Storage shed collapsed: 4      Major damage: 18
+Damaged storage: 12           Storehouse roof major damage: 10 buildings
+Roof damage: 23 houses        Back houses collapsed: 5
+                              Same, major damage: 6
+
+Izumi-machi
+Roof major damage: 29 houses        Narayamachi
+House construction collapse: 2       House construction complete collapse: 1
+Storehouse roof major damage: 19 buildings | Storage roof major damage: 4 houses    Roof major damage: 4
+House construction half-collapsed: 2  House construction collapsed: 2
+House construction complete collapse: 2  Storehouse roof major damage: 2 buildings
+Storage complete collapse: 4
+Board fence collapsed: 5 locations
+
+Last day of month - Clear from morning, cold. At 5th hour, light clouds, then immediately cleared
+
+[In red ink]
+Four districts total survey    Collapsed houses: over 5,300
+                             Deaths: over 30 people

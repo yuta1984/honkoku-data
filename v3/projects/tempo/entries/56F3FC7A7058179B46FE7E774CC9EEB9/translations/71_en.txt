@@ -1,0 +1,8 @@
+Item: Assessed yield of 122 koku, 6 to, 9 sho, 8 go　　　《Location: Edagenki Village》
+Item: Assessed yield of 117 koku, 1 to, 5 sho　　　　　　《Location: Ishihara Village》
+Item: Assessed yield of 38 koku, 1 to, 2 sho　　　　　　《Location: Heirashōtsu Village》
+Item: Assessed yield of 41 koku, 4 to, 3 sho　　　　　　《Location: Ōkubo Village》
+Item: Assessed yield of 170 koku, 5 to, 9 sho, 7 go　　　《Location: Babe Village》
+Item: Assessed yield of 83 koku, 2 to, 5 sho　　　　　　《Location: Nabakoshi Village》
+Item: Assessed yield of 77 koku, 1 to, 7 sho, 2 go　　　《Location: Nakao Village》
+Item: Assessed yield of 200 koku, 7 to, 4 sho, 2 go　　　《Location: Gokōchi Village》

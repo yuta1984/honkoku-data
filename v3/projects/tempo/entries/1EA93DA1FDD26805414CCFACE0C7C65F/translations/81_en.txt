@@ -1,0 +1,8 @@
+Item 1: Assessment 546 koku, 7 sho　　　　　　　　《Location: Miyazawa Village》
+Item 1: Assessment 475 koku, 5 to, 7 sho, 1 go　　　《Location: Nakagami Village》
+Item 1: Assessment 115 koku, 5 to, 6 sho, 8 go　　　《Location: Tsuiji Village》【Tsukiji Village?】
+Item 1: Assessment 442 koku, 7 to, 1 go　　　　　　《Location: Fukushima Village》
+Item 1: Assessment 278 koku, 1 to, 3 sho, 3 go　　　《Location: Gochi Village》
+Item 1: Assessment 1,139 koku, 3 to, 3 sho, 9 go　　《Location: Shibasaki Village》
+Item 1: Assessment 2,345 koku, 2 to, 2 sho, 1 go　　《Location: Hino Hongō》
+Item 1: Assessment 23 koku, 7 to, 3 sho, 7 go　　　　《Location: Hino Shinden》

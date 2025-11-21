@@ -1,0 +1,8 @@
+1. Assessed yield: 260 koku, 3 sho, 6 go　　　　　　　　　　　　　　Shimmachi village
+1. Assessed yield: 60 koku, 4 sho, 7 go　　　　　　　　　　　　　　 Munetaka village
+1. Assessed yield: 431 koku, 3 to, 5 sho, 2 go　　　　　　　　　　　Shimohirai village
+1. Assessed yield: 412 koku, 2 to, 8 sho, 2 go　　　　　　　　　　　Kamihirai village
+1. Assessed yield: 324 koku, 1 to, 6 sho, 7 go　　　　　　　　　　　Tokusada village
+1. Assessed yield: 319 koku, 1 to, 2 sho, 7 go　　　　　　　　　　　Yamamura
+1. Assessed yield: 190 koku, 3 to, 4 sho, 4 go　　　　　　　　　　　Usuko village
+1. Assessed yield: 238 koku, 5 to, 1 sho, 9 go　　　　　　　　　　　Nishi-Yabe village

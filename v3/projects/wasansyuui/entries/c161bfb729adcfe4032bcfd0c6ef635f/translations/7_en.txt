@@ -1,0 +1,18 @@
+Multiply the quotient by the cube 2 ken to get 1×2 = 4 tsubo. Subtract this and place it on the left. Again subtract and place the quotient 10 ken. Multiply this by 3 sides to get 30 ken. Add the cube quotient 2 ken to this to get 32 ken. Multiply this by the 4 tsubo on the left to get 128 tsubo. Divide this and subtract the remaining tsubo to find that the quotient is 12.
+
+1: Place the quotient above the 1st digit
+2, 3, 4, 5: Place the quotient above the 2nd digit  
+6, 7, 8, 9: Place the quotient above the 3rd digit
+
+Although there are methods to perform square root extraction (kaiheihō) and cube root extraction (kairitsuhō) by separating quotient, dividend, divisor,廉 (ren), and 隅 (sumi) from the right, since beginners find it difficult to master such methods, I record this diagram method here. However, this is not the orthodox method. Now I also set up quotient, dividend, divisor, 廉 (ren), and 隅 (sumi) on the left for those who wish to learn this.
+
+《Chapter 4: The Process of Square Root Extraction Method》
+▲There is a square area of 196 bu. When made into a square, how many ken per side does it become? [Answer] 14 ken per side.
+
+Place 196 bu as the dividend.
+Borrow 1 counter and place it as 廉 (ren).
+First, when examining the place values, advancing one position at a time as 1, 10, 100, there is no hundreds place, so it is the tens place. Considering it as 10 ken per side, place 10 ken as the quotient.
+《Note: Now 廉 (ren) becomes 1 place. 廉 (ren) advances 2 positions at a time. The divisor advances 1 position at a time. Descending follows the same pattern.》
+Record this in the next diagram.
+
+Comparing this quotient with 廉 (ren), using the multiplication table, add 1×1 to the divisor to make the divisor 1. Comparing this direction □ with the quotient, using the multiplication table 1×1 gives 100 bu, subtract from the dividend, and the remainder of the dividend, again this in the next diagram □ next

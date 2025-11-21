@@ -1,0 +1,8 @@
+One, assessed yield: 520 koku, 5 to, 3 sho, 3 go　　　《Location: Hino Village》
+One, assessed yield: 192 koku, 5 to, 3 sho, 2 go　　　《Location: Onizumi Village》
+One, assessed yield: 124 koku, 6 to　　　　　　　　　《Location: Nagaretani Village》
+One, assessed yield: 111 koku, 2 to, 6 sho, 7 go　　　《Location: Teramoto Village》
+One, assessed yield: 427 koku, 3 to, 7 sho　　　　　　《Location: Nishidai Village》
+One, assessed yield: 215 koku, 8 to, 1 sho, 1 go, 5 shaku　《Location: Nagano Village》
+One, assessed yield: 202 koku, 4 to, 2 sho, 9 go　　　《Location: Niinoya Village》
+One, assessed yield: 831 koku, 5 to, 2 sho, 4 go　　　《Location: Koda Village》

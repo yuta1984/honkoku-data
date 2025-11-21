@@ -1,0 +1,8 @@
+One, assessed yield: 147 koku, 3 shō, 9 gō　　　　　　　　《Location: Neuibara Village》
+One, assessed yield: 92 koku, 1 to, 6 shō, 6 gō　　　　　　《Location: Shiramizu Village》
+One, assessed yield: 216 koku, 2 shō, 3 gō　　　　　　　　《Location: Ōsaka Village》
+One, assessed yield: 142 koku, 5 to, 6 shō, 6 gō, 3 shaku　　《Location: Tochihara Village》
+One, assessed yield: 91 koku, 7 to, 3 shō, 5 gō, 2 shaku, 7 sai　《Location: Ōtaki Village》
+One, assessed yield: 293 koku, 6 to, 6 shō, 9 gō, 1 shaku, 1 sai　《Location: Koyanagi Village》
+One, assessed yield: 29 koku, 1 to, 5 shō, 2 gō　　　　　　《Location: Suekama Village》
+One, assessed yield: 148 koku, 3 to, 1 shō, 5 gō, 6 shaku, 1 sai　《Location: Ōuchi Village》

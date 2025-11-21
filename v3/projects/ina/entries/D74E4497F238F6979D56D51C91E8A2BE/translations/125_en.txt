@@ -1,0 +1,22 @@
+[Right Page]
+　　Grassland 8 tan (Yokomichi)　　　　　　　　Tokuemon, Sakuemon, Chōbei
+　　Grassland 5 tan 1 se (Nakahokudaira)　　　　Same as above
+　　Grassland 16 chō (Hihedawacchibā)　　Chōbei, Sakuemon
+　　Grassland 9 chō 1 tan 6 se 20 bu (Sukesawa)　Magoemon, Chōbei, Sakuemon
+　　Grassland 2 chō 5 tan (Same location)　　　　　Heijirō, Jinzaemon, Magoemon
+　　Grassland 6 tan 6 se 20 bu (Takahozuki)　　Chōbei, Sakuemon, Gorobei
+　　Small pine forest 3 se 8 bu (Mitonokubo)　　　Yaemon
+　　Grassland 2 se 24 bu (Same location)
+　　Small pine forest 1 se 26 bu (Sorakubo)　　　Jinzaemon
+
+[Left Page]
+　　Pine forest 6 se 20 bu (Same location)　　　　　Jinsuke, Shichibei
+　　Grassland 2 chō 7 tan 3 se 21 bu (Naka-no-iri)　Magoemon, Sakuemon, Chōbei, Genshirō
+　　Grassland 10 chō 7 tan 6 se 20 bu (Onasawa)　Tarōbei, Genshirō
+　　Grassland 9 chō 6 tan 3 se 10 bu (Furumichi)　　Shichibei, Tarōbei
+　　Grassland 8 chō 8 tan 6 se 20 bu (Tarasoe)　Shichibei
+　　Grassland 4 chō 4 tan 3 se 10 bu (Shoyodasawa)　Gorobei
+　　Grassland 4 chō 4 tan 3 se 10 bu (Fukasawa)　　Chōbei, Sakuemon
+　　Grassland 1 chō 8 tan 3 se 10 bu (Takasawa)　　Shichibei, Gorobei
+　　Grassland 3 tan 5 se (Miyanohora-guchi)　　　Gorobei
+　　　　　　　　　　Forty-three

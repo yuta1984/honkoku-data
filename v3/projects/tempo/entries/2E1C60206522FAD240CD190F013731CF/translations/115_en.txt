@@ -1,0 +1,8 @@
+One village with a kokudaka of 314 koku, 6 to, 7 sho: Satsuma Village
+One village with a kokudaka of 553 koku, 3 to, 5 sho, 8 go: Hyogo Village
+One village with a kokudaka of 194 koku, 9 to: Taino-sho Village
+One village with a kokudaka of 493 koku, 4 to, 3 sho, 5 go: Matsuyama Village
+One village with a kokudaka of 148 koku, 2 to, 5 sho: Mori Village
+One village with a kokudaka of 125 koku, 8 to: Kibi Village
+One village with a kokudaka of 208 koku, 6 to, 4 sho, 8 go: Kojima Village
+One village with a kokudaka of 195 koku, 4 to, 8 sho, 8 go (branch village of Kojima Village): Shimo-kojima Village

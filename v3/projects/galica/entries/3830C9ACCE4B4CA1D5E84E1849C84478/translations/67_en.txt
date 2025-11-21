@@ -1,0 +1,33 @@
+775 Give me in writing what each person told you.
+776 I don't care about her bad mood.
+777 I want to speak Japanese as well as you speak Dutch.
+778 From the opposite side, one can see everything here.
+779 Drop the trunk.
+780 You are superbly coiffed today.
+781 Your hair is very carelessly arranged today.
+782 Why don't you help him?
+783 Have you taken my knife?
+784 I have been looking for it for a long time.
+785 I cannot find it.
+786 Give it back to me.
+787 Take everything away from here.
+788 It's a waste of effort (speaking to a servant)
+789 It's a waste of effort (in discourse)
+790 It's a waste of effort (speaking of something)
+791 Haven't you left yet?
+792 Have this removed.
+793 Have this cleaned.
+794 Fan me.
+795 I want to fan you.
+796 Be on your guard.
+797 The road is too muddy.
+798 Wait until afternoon.
+799 Wait until tomorrow.
+800 You sleep too long.
+801 That is unhealthy.
+802 Be cheerful.
+803 I find you charming.
+804 Leave that alone.
+805 When I go to bed, go to bed likewise.
+806 You prevent me from sleeping.
+807 Don't make so much noise.

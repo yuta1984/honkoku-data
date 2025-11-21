@@ -1,0 +1,8 @@
+One village with a kokudaka of 108 koku, 9 to, 1 go: Uchitani Village
+One village with a kokudaka of 255 koku, 6 to, 3 sho, 6 go: Hayashi Village
+One village with a kokudaka of 99 koku, 3 to, 1 sho, 8 go: Toriido Village (branch village of Hayashi Village)
+One village with a kokudaka of 335 koku, 6 to, 5 sho: Asazuma Village (branch village of Hayashi Village)
+One village with a kokudaka of 294 koku, 3 to, 4 sho, 9 go: Ioka Village (branch village of Hayashi Village)
+One village with a kokudaka of 172 koku, 2 to, 8 sho, 4 go: Sodo Village (branch village of Ioka Village)
+One village with a kokudaka of 126 koku, 1 to, 2 sho, 8 go: Funamichi Village (branch village of Ioka Village)
+Subtotal: 24,562 koku, 2 to, 2 sho, 2 go

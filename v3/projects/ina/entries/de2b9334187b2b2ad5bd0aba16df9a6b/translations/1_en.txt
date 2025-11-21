@@ -1,0 +1,11 @@
+Stone fence total length: 19 ken (approximately 34.5 meters), top-polished finish
+Item: 107 stone pillars, 4 sun 5 bu square
+　　　　　　　　　　　Length 4 shaku 1 sun: 30 pillars
+　　　　　　　　　　　Same dimensions 4 sun 5 bu square
+　　　　　　　　　　　Length 3 shaku 2 sun: 77 pillars
+　　　　　　　　　　　Stone material cost: 3 bu per pillar
+　　　　　　　　　　　Stonemason wages: 3 workers per pillar
+　　Labor wages
+　　　Total: 32 monme
+　　Craftsman wages
+　　　Total: 642 monme

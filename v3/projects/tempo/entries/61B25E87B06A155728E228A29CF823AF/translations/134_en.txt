@@ -1,0 +1,8 @@
+1. Assessed yield: 242 koku, 4 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　Shimoda village
+1. Assessed yield: 120 koku, 4 to, 6 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　Nishi-Sonome village
+1. Assessed yield: 107 koku, 5 to, 7 sho　　　　　　　　　　　　　　　　　　　　　　　　Higashi-Sonome village
+1. Assessed yield: 283 koku, 8 to, 6 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Ashikomi village
+1. Assessed yield: 136 koku, 5 to, 7 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　Misono village
+1. Assessed yield: 79 koku, 7 to, 7 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　Ukashima village
+1. Assessed yield: 304 koku, 6 to, 1 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Furuto village
+1. Assessed yield: 252 koku, 2 to, 9 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　Awashiro village

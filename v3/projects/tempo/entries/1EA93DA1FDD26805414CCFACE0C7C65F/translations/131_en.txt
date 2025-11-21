@@ -1,0 +1,8 @@
+Item 1: Assessment 619 koku, 9 to, 1 sho　　　　《Location: Otsuka Village》
+Item 1: Assessment 230 koku, 3 to, 1 sho　　　《Location: Otsuka Shinden》
+Item 1: Assessment 813 koku, 4 to, 3 sho, 5 go　　《Location: Imafuku Village》
+Item 1: Assessment 203 koku, 6 sho, 6 go　　　　《Location: Sunakubo Village》
+Item 1: Assessment 20 koku, 9 sho, 3 go　　　　　《Location: Nakafuku Village》
+Item 1: Assessment 195 koku, 4 to, 3 sho, 7 go　　《Location: Nakashinden》
+Item 1: Assessment 1,330 koku, 7 to, 4 sho　　　《Location: Horigane Village》
+Item 1: Assessment 679 koku, 8 to, 5 sho　　　《Location: Mizuno Village》

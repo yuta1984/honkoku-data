@@ -1,0 +1,13 @@
+{
+  "id": "karuta",
+  "title": "翻刻deかるたLOD",
+  "description": "古典籍に含まれる「かるた」を翻刻するプロジェクトです。翻刻したデータをもとにLOD（Linked Open Data）を作成し、公開します。",
+  "projectType": "official",
+  "url": "https://www.dl.ndl.go.jp/",
+  "totalEntryCount": 105,
+  "completedEntryCount": 103,
+  "totalImageCount": 333,
+  "completedImageCount": 313,
+  "charCount": 120082,
+  "createdAt": null
+}

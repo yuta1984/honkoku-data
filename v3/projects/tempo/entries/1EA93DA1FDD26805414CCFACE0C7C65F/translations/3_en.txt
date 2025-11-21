@@ -1,0 +1,11 @@
+Item 1: Assessment 23 koku, 3 sho, 1 go　　　　　《Location: Shibuya Miyamae-machi》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Azabu》｜》
+Item 1: Assessment 64 koku, 6 to, 1 sho, 4 go　　　　　《Location: Sakurada-machi》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Imai》｜》
+Item 1: Assessment 6 koku, 9 to, 4 sho, 8 go　　　　　　《Location: Ichibei-machi》
+Item 1: Assessment 60 koku, 5 to, 4 sho, 4 go, 9 shaku, 3 sai　《Location: Hitotsugi Village》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Imai》｜》
+Item 1: Assessment 11 koku, 4 sho, 3 go　　　　　　　　　《Location: Tani-machi》
+Item 1: Assessment 65 koku, 3 to, 7 sho, 7 go, 3 shaku　　　《Location: Imai Village》
+Item 1: Assessment 258 koku, 6 to, 6 go, 7 shaku, 4 sai　《Location: Harajuku Village》
+Item 1: Assessment 28 koku, 9 to, 5 sho, 3 go　　　　　《Location: Ryudo-machi》

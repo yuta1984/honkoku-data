@@ -1,0 +1,8 @@
+One, assessed yield: 278 koku, 9 to, 1 shō, 1 gō　《Location: Higashizono Village》
+One, assessed yield: 698 koku, 9 to, 3 shō, 3 gō　《Location: Nishizono Village》
+One, assessed yield: 136 koku, 9 to, 9 gō　　　　《Location: Bessho Village》
+One, assessed yield: 695 koku, 4 to, 7 shō, 5 gō　《Location: Yura Village》
+One, assessed yield: 652 koku, 5 shō　　　　　《Location: Tsumanami Village》
+One, assessed yield: 659 koku, 2 to, 4 shō, 8 gō　《Location: Ōtani Village》
+One, assessed yield: 701 koku, 8 to, 5 shō, 2 gō　　《Location: Tsukishita Village》
+One, assessed yield: 189 koku, 9 to, 5 shō, 5 gō　　《Location: Kanaya Village》

@@ -1,0 +1,9 @@
+1. Assessed yield: 1,051 koku, 2 to, 9 sho, 1 go　　　　Wada Village
+1. Assessed yield: 1,308 koku, 5 to, 1 sho, 3 go　　　　Hamao Village
+1. Assessed yield: 718 koku, 8 to, 8 sho, 5 go　　　　　Nakajuku Village
+1. Assessed yield: 645 koku, 9 to, 6 go　　　　　　　　　Shimojuku Village
+1. Assessed yield: 2,458 koku, 7 to, 1 sho, 9 go　　　　Sukagawa Village
+1. Assessed yield: 549 koku, 5 to, 1 sho, 5 go　　　　　Takakuda Village
+1. Assessed yield: 766 koku, 2 to, 9 go　　　　　　　　　Kagaminuma Village
+　　　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Kagaminuma Village)
+1. Assessed yield: 181 koku, 3 to, 3 sho　　　　　　　　Niida Village

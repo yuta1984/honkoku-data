@@ -1,0 +1,10 @@
+When gathering numbers of things in a meeting or gathering, if you don't have an abacus available, you can use a brush to write and calculate as follows. There are ten methods of calculation by brush within this school.
+
+《Title: Square Root Estimation Method》
+　　▲Square Root Method Estimation
+Sun-bu: 272 bu 2 fun 5 rin
+　　Finding the square root - asking what amount this becomes
+　Square shaku: 1 shaku 6 sun 5 fun
+
+The method: Place 272 bu 2 fun 5 rin as the base number, examine the place value, and establish the standard that 1 shaku square equals 100 bu. Taking one advance of one advance, subtract 100 bu to get 1 shaku, leaving 172 bu 5 rin.
+When adding from the base 1 shaku to two directions, use this principle and set 1, 2 as the estimation guide. Using this estimation of 2, divide the remaining 172 bu 2 fun 5 rin by 2, and dividing as 5, 2 advances of one advance gives 6 sun. Adding 60 bu to each direction and subtracting 120 bu for both directions leaves 52 bu 2 fun 5 rin.

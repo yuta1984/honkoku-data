@@ -1,0 +1,8 @@
+One: Assessed rice yield 1,534 koku 3 sho 3 go 4 shaku　　　　《Location: Temitsu Village》
+One: Assessed rice yield 2,139 koku 8 to 8 sho 5 go 2 shaku　　《Location: Kami-Saigo Village》
+One: Assessed rice yield 2,063 koku 6 to 5 sho　　　　　　　《Location: Shimo-Saigo Village》
+One: Assessed rice yield 633 koku 2 to 9 sho 9 go 6 shaku 2 sai　《Location: Miyaji Village》
+One: Assessed rice yield 398 koku 7 to 1 sho 9 go　　　　　《Location: Watari Village》
+One: Assessed rice yield 768 koku 8 to 9 sho 6 go 6 shaku　　　《Location: Tsuyazaki Village》
+One: Assessed rice yield 912 koku 4 to 5 sho 2 go 1 shaku 4 sai　　《Location: Zaiji Village》
+One: Assessed rice yield 322 koku 9 to 6 sho 3 go 6 shaku　　　《Location: Oishi Village》

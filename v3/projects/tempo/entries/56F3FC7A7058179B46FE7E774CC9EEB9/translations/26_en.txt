@@ -1,0 +1,9 @@
+Item: Assessed yield of 35 koku, 1 to, 2 sho, 2 go　　《Location: Shiraki Village》
+Item: Assessed yield of 117 koku, 6 to, 9 go　　　　　《Location: Kurataniyama Village》
+Item: Assessed yield of 317 koku, 3 to, 8 sho　　　　　《Location: Hirotakiyama Village》
+Item: Assessed yield of 176 koku, 4 to, 1 go　　　　　《Location: Kuboyama Village》
+Item: Assessed yield of 168 koku, 5 to, 7 sho, 1 go　　《Location: Ichibanagaseyama Village》
+Item: Assessed yield of 27 koku, 6 to, 1 sho　　　　　《Location: Kashirano Village》
+　　　　　　　　　Formerly《Location: Haramakiyama Village》
+Item: Assessed yield of 111 koku, 9 to, 3 sho, 3 go　　《Location: Haramaki Village》
+Item: Assessed yield of 65 koku, 3 to, 1 sho, 7 go　　《Location: Higashishikajiyama Village》

@@ -1,0 +1,21 @@
+32　　　　　　　　Is There One or Multiple Types of Streptococci?
+――――――――――――――――――――――――――――――――――
+but declared that his serum obtained with only one highly virulent strain protected mice not only against this strain alone, but also against different streptococci such as those of Aronson or Marmorek.
+　Thus, both scholars who operated on different animals used different immunization methods and reached the same conclusion that Marmorek had consistently obtained, namely that monovalent serum acts against all human streptococci, and therefore streptococci are monotypic.
+　This is the final word on this problem as seen from recent achievements.
+　　　　　　　　　　＊　　＊　　＊
+　Should this problem actually be considered solved in this way? In our opinion, neither Aronson's experiments nor Neufeld's experiments prove the monotypic nature of streptococci. Let us explain below.
+　Let us begin with Aronson's case first.
+　He immunized horses with streptococci that had been made extremely virulent by passage from mouse to mouse. He obtained serum with extremely high activity not only against the streptococci used for immunization, but also, according to him, against other streptococci from different sources. Thus he was able to confirm that scarlet fever streptococci acted against this serum with the same titer as their own specific streptococci.
+　We know that strains isolated directly from humans are generally non-pathogenic to mice. To make them toxic, Aronson had to passage them through mice several times. This led him to see that serum was always active regardless of the original source of the streptococci. From this we know the conclusion cited by the author. However, we can confirm that this conclusion is erroneous.
+　From the standpoint of enhancing bacterial virulence, by passing streptococci from different sources through the living bodies of mice, Aronson obliterated the individuality of the bacteria. He transformed all bacteria into one type, namely the type pathogenic to mice.
+
+　　　　　　　Is There One or Multiple Types of Streptococci?　　　　　　　　　　　33
+――――――――――――――――――――――――――――――――――
+　Even if Aronson's monovalent serum was active against all streptococci tested, this was not because their origins were from the same species, but because Aronson had artificially made them uniform by continuous passage from mouse to mouse. Therefore, it is not at all strange that his serum prepared with one streptococcus that had been passed through mice several times showed activity against these uniformized strains of Aronson.
+　When this experimenter once targets a streptococcus pathogenic to mice, it is quite natural that this serum lacks therapeutic efficacy, as in the case of adenoid bacteria. However, what appears surprising on the surface is that when the same bacterium has its virulence enhanced by several passages through mice to a degree the original bacterium never possessed, the same serum becomes active from inactive.
+　Here is a fact that appears contradictory: serum that has no effect against streptococci that are not very toxic becomes active as soon as these streptococci increase their virulence.
+　However, the explanation for this is extremely simple. Adenoid streptococci encountered in nature differ from those of Aronson and do not act on Aronson's serum. But when these same adenoid streptococci lose their individuality and change into special streptococci through mouse passage - which we particularly call passage streptococci - they become adapted to serum made with similar streptococci, namely passage streptococci.
+　Therefore, all the serum tests that Aronson performed on streptococci from scarlet fever, angina, etc., were actually performed on only one streptococcus, namely the mouse streptococcus, the so-called passage streptococcus.
+　Whether this monovalent serum is effective when scarlet fever streptococci and other human streptococci are present remains a problem to be solved in the future.
+　Aronson himself had to acknowledge this as well. Because to immunize his horses, he had to use other virulent streptococci that had not undergone animal passage.

@@ -1,0 +1,7 @@
+One: Assessed rice yield 473 koku 5 to 8 sho 4 go　　　　《Location: Orio Village》
+One: Assessed rice yield 202 koku 1 to 7 sho 4 go　　《Annotation: Branch village of 《Location: Orio Village》》《Location: Nagasaki Village》
+One: Assessed rice yield 1,267 koku 5 to 9 sho 4 go 2 shaku　《Location: Honjo Village》
+One: Assessed rice yield 798 koku 9 to 1 sho 9 go　　　　《Location: Eiinumaru Village》
+One: Assessed rice yield 160 koku 6 sho　　　　　《Annotation: Branch village of 《Location: Eiinumaru Village》》《Location: Satonaka Village》
+　Subtotal assessed rice yield: 60,146 koku 8 to 5 sho 6 go 3 shaku 8 sai
+　　　　　　　　　　　《Location: Onga District》　95 villages

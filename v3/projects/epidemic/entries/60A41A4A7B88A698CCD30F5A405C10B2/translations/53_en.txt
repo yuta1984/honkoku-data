@@ -1,0 +1,47 @@
+82
+
+When [a person] moves to another jurisdiction during the period specified in Article 3, Paragraph 2 of these guidelines, this should be reported to the county governor or police station chief having jurisdiction over the destination. The county governor or police station chief who receives such notification as mentioned in the previous paragraph should take necessary measures in accordance with Articles 1 through 6 of these guidelines. The same applies when there is notification of patient transfer under Article 9 of the Infectious Disease Prevention Law Implementation Rules.
+
+(Attachment)
+──────────────────────────────────────
+│　　　Home Treatment Instructions for Dysentery and Typhoid Fever Patients　　│
+│─────────────────────────────────────│
+│Onset Date　　　│　　　　　　　　　　　　│Patient│Fukushima Prefecture　County　Town│
+│────────────────────│Address│　City　Village　District　　　　│
+│Diagnosis Date│Meiji　Year　Month　Day AM/PM│Name  │　Street No. Head of Household　│
+│and Time　　　│　　　　　　　　　　　Hour│Age   │　　　　（Relationship to Head） │
+│Report Date　 │Meiji　Year　Month　Day AM/PM│Head of│　　　Patient Name　　　　　　　│
+│and Time　　　│　　　　　　　　　　　Hour│House-│　　　　　　Age　　　　　　　　│
+│Outcome and　 │　　　　　　　　　　　　　│hold's │　　　　　　　　　　　　　　　│
+│Transfer Status│　　　　　　　　　　　　　│Relation│　　　　　　　　　　　　　　　│
+
+│────────────────────│　　　│　　　　　　　　　　　　　　│
+│Same as Above │Meiji　Year　Month　Day AM　│　　　│　　　　　　　　　　　　　　│
+│Date and Time │　　　　　　　　　　PM　　│　　　│　　　　　　　　　　　　　　│
+│────────────────────│　　　│　　　　　　　　　　　　　　│
+│Reporting     │Doctor　　　　　　　　　　│　　　│　　　　　　　　　　　　　　│
+│Doctor's Name │　　　　　　　　　　　　　│　　　│　　　　　　　　　　　　　　│
+│────────────────────│─────│─────────────│
+│Receipt of    │Meiji　Year　Month　Day AM │Infectious│　　　　　　　　　　　　　　│
+│Outbreak Report│　　　　　　　　　　PM　　│Disease   │　　　　　　　　　　　　　　│
+│────────────────────│Trans-    │　　　　　　　　　　　　　　│
+│Disinfection  │Meiji　Year　Month　Day AM │mission   │　　　　　　　　　　　　　　│
+│Date and Time │　　　　　　　　　　PM　　│Route     │　　　　　　　　　　　　　　│
+│────────────────────│Summary   │　　　　　　　　　　　　　　│
+│Outcome Report│Meiji　Year　Month　Day　　│　　　　　│　　　　　　　　　　　　　　│
+│and Receipt   │　　　　Month　Day　　　　│　　　　　│　　　　　　　　　　　　　　│
+│────────────────────│　　　　　│　　　　　　　　　　　　　　│
+│Disinfection  │Meiji　Year　Month　Day AM │　　　　　│　　　　　　　　　　　　　　│
+│Date and Time │　　　　　　　　　　PM　　│　　　　　│　　　　　　　　　　　　　　│
+│─────────────────────────────────────│
+│　　　Instructions　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+│　The head of household or family head of a house with patients should comply  │
+│　with each item listed below and strive to implement prevention and treatment │
+│　measures. If they fail to follow these instructions and the directions of   │
+│　relevant officials, and are deemed inappropriate for prevention and treatment│
+│　purposes, they may be ordered to be accommodated in an infectious disease   │
+│　hospital, isolation ward, or hospital with appropriate facilities.          │
+│　　1. No one except doctors, caregivers, or nurses should enter the patient's│
+│　　　 room, and caregivers should preferably hire trained nurses.           │
+
+83

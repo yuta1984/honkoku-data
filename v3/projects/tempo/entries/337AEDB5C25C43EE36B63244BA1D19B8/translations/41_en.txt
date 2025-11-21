@@ -1,0 +1,8 @@
+《Location: Kama District》
+One: Assessed rice yield 491 koku 9 to 6 sho 5 go　　　　　　　《Location: Miyayoshi Village》
+One: Assessed rice yield 836 koku 4 to 4 go　　　　　　　　　《Location: Kami Village》
+One: Assessed rice yield 620 koku 8 to 6 sho 9 go　　　　　　　《Location: Okuma Village》
+One: Assessed rice yield 162 koku 9 to 6 go　　　　　　《Note: Branch village of Okuma Village》《Location: Okuma Town》
+One: Assessed rice yield 582 koku 3 to 4 go　　　　　　　　　《Location: Nakaeki Village》
+One: Assessed rice yield 558 koku 5 to 4 sho 9 go 1 shaku　《Note: Branch village of Nakaeki Village》《Location: Shimonakaeki Village》
+One: Assessed rice yield 756 koku 1 to 5 sho 7 go　　　　　　　《Location: Shimoeki Village》

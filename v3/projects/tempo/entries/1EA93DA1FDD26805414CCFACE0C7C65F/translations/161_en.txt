@@ -1,0 +1,8 @@
+Item 1: Assessment 271 koku, 4 to, 1 sho, 9 go　《Location: Koma Hongo》
+Item 1: Assessment 123 koku, 9 to, 8 sho, 5 go　　　《Location: Umehara Village》
+Item 1: Assessment 98 koku, 5 sho, 6 go　　　　　　《Location: Takaoka Village》
+Item 1: Assessment 56 koku, 7 to, 8 sho, 3 go　　　　《Location: Seiryu Village》
+Item 1: Assessment 125 koku, 9 to, 7 sho, 3 go　　　《Location: Nagata Village》
+Item 1: Assessment 362 koku, 1 to, 1 sho, 6 go　　《Location: Hanno Village》
+Item 1: Assessment 218 koku, 4 to, 3 sho, 7 go　　《Location: Kugeshimo-bun Village》
+Item 1: Assessment 146 koku, 3 sho, 1 go　　　　　《Location: Kamihata Village》

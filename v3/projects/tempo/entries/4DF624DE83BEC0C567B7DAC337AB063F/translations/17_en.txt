@@ -1,0 +1,8 @@
+Item 1: Assessed yield 20 koku 9 to 1 sho 5 go　　　　　《Location: Hirasawa Village》
+Item 1: Assessed yield 45 koku 7 to 5 sho 4 go　　　　《Location: Itabashi Village》
+Item 1: Assessed yield 75 koku 1 to 9 sho 4 go　　　　《Location: Hirose Village》
+Item 1: Assessed yield 101 koku 1 to 5 sho 3 go　　　　《Location: Kaiguchi Village》
+Item 1: Assessed yield 102 koku 5 to 6 sho 8 go　　　　《Location: Kaijiri Village》
+Item 1: Assessed yield 23 koku 3 to 9 sho 7 go　　　　《Location: Inago Shinden Village》
+Item 1: Assessed yield 80 koku 9 to 7 sho 5 go　　　　《Location: Inago Village》
+Item 1: Assessed yield 30 koku　　　　　　　　　　　《Location: Matsubara Village》

@@ -1,0 +1,50 @@
+【Right Page】
+　　《Location: Kami-teikado-tōshi》　
+　　　Grass mountain: 1 tan 2 se bu　　　　　Chōemon
+　　《Location: Same place》　
+　　　Pine forest: 5 se bu　　　　　　　Sukekurō
+　　《Location: Same place》　
+　　　Grass mountain: 3 se 10 bu　　　　　　Rokuemon
+　　《Location: Same place》　
+　　　Grass mountain: 2 tan 3 se 10 bu　　　　《Names: Kanzaemon｜Yozaemon｜Ninzō》　　　　　
+　　《Location: Same place》
+　　　Grass mountain: 4 tan bu　　　　　　　《Names: Sajibē｜Jinbē｜Rokusuke》　
+    　　《Location: Netsumi-da》　
+　　　Grass mountain: 6 tan 6 se 20 bu　　　　Seisaburō
+　　《Location: Aoki-daira》
+　　　Grass mountain: 1 tan 3 se 10 bu　　　　Same person
+　　《Location: Kami-sakadaira》
+　　　Miscanthus mountain: 5 chō 3 tan 10 bu　《Villages: Takami Village｜Motsosōkura Village》3-village commons
+　　　　　　　　　　　　《Villages: Nakasōkura Village, Lower Village section》
+　　《Location: Tohemeki》
+　　　Mixed woodland: 2 tan 6 se 20 bu　　　Tōshichirō
+　　《Location: Same place》
+　　　Grass mountain: 2 tan 6 se 20 bu　　　　Jirōbē
+　　《Location: Ōtate-hō》　　　　　《Villages: Nakasōkura Village section》　
+　　　Grass mountain: 1 chō 6 tan bu　《Villages: Ōtsudo｜Ōsōkura Village｜Takami Village》3-village commons
+　　
+【Left Page】
+　　《Location: Nakatani》
+　　　Pine forest: 6 se 20 bu　　　　《Names: Sakubē｜Jirōbē》
+　　《Location: Saiko》
+　　　Grass mountain: 2 tan 3 se 10 bu　　　Kyūshirō
+　　《Location: Same place》
+　　　Grass mountain: 1 se 20 bu　　　　Same person
+　　《Location: Kado-ya-horae》
+　　　Grass mountain: 5 tan bu　　　　　　Jirōemon
+　　《Location: Saishi》
+　　　Grass mountain: 5 se 10 bu　　　　　Hisayuki
+　　《Location: Miya-hora》
+　　　Mixed woodland: 6 se 20 bu　　　　Hyōemon
+　　《Location: Ōmatō》
+　　　Mixed woodland: 4 chō 8 tan bu　《Villages: Takami Village｜Motsosōkura Village》《3-village commons》
+　　　　　　　　　　　　《Villages: Nakasōkura Village, Lower Village section》
+　　《Location: Ochiai-iri》
+　　　Mixed woodland: 2 chō 4 tan bu《Villages: Takami Village｜Motsosōkura Village｜Nakasōkura Village section｜Ōtsudo》《3-village commons》
+　　《Location: Hayashi-ga-michi》
+　　　Grass mountain: 1 chō 8 tan bu　　　　Shōkurō
+　　《Location: Ōtsubo》
+　　　Mixed woodland: 1 tan 2 se 20 bu　　Chōbē
+　　《Location: Kosashi》
+　　　Grass mountain: 2 tan bu　　　　　　Hyōemon
+　　　　　　　　　　26 [written in red]

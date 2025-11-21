@@ -1,0 +1,8 @@
+1. Rice yield: 496 koku, 6 to, 9 sho, 9 go, 5 shaku　《Location: Shimoyamada Village》
+1. Rice yield: 421 koku, 8 to, 4 sho, 1 go　　　《Location: Tani Village》
+1. Rice yield: 309 koku, 6 to, 1 sho, 9 go, 8 shaku　　　《Location: Matsumuro Village》
+1. Rice yield: 602 koku, 1 to, 5 sho, 7 go　　　　　《Location: Kamiyamada Village》
+1. Rice yield: 528 koku, 8 to　　　　　　　《Location: Chiyohara Village》
+1. Rice yield: 849 koku, 6 to, 7 sho, 4 go　　　《Location: Kamikatsura Village》
+1. Rice yield: 214 koku, 4 to, 7 sho, 9 go　　　　《Location: Ueno Village》
+1. Rice yield: 802 koku, 6 sho, 9 go　　　　　　　《Location: Kori Village》

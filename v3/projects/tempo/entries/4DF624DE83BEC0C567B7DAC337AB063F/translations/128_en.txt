@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 175 koku, 1 to, 1 sho, 3 go　　　《Location: Makiuchi Village》
+Item 1: Assessed yield of 1,131 koku, 2 to, 3 sho　　　　《Location: Tōjō Village》
+Item 1: Assessed yield of 142 koku, 9 to, 6 sho　　　　　《Location: Kagai Village》
+Item 1: Assessed yield of 473 koku, 3 to, 5 sho　　　　《Location: Tanaka Village》
+Item 1: Assessed yield of 850 koku, 1 to, 9 sho, 1 go, 8 shaku　《Location: Higashiterao Village》
+Item 1: Assessed yield of 233 koku, 5 to, 5 sho　　　　《Location: Shiba Village》
+Subtotal: Assessed yield of 23,641 koku, 6 to, 4 sho, 9 go, 3 shaku
+　　　　　　　　《Location: Hanishina District》37 villages

@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 145 koku, 4 to, 6 sho, 7 go　　　　《Location: Tochikura Village》
+Item 1: Assessed yield of 621 koku, 3 to, 8 sho　　　　　《Location: Hatchō Village》
+Item 1: Assessed yield of 1,305 koku, 1 to, 5 sho, 4 go　　　　《Location: Inoue Village》
+Item 1: Assessed yield of 235 koku, 5 to, 2 sho, 9 go　　　《Location: Kōtaka Village》
+Item 1: Assessed yield of 162 koku, 2 to, 5 sho, 9 go　　　　《Location: Kutanda Village》
+Item 1: Assessed yield of 3,073 koku, 4 to, 3 sho, 3 go, 4 shaku　《Location: Watauchi Village》
+Item 1: Assessed yield of 1,317 koku, 6 to, 3 sho　　　　　《Location: Fukushima Village》
+Item 1: Assessed yield of 445 koku, 9 sho, 5 go　　　　　《Location: Nakajima Village》

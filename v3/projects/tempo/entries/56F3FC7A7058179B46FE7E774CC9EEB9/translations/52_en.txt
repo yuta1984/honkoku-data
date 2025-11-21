@@ -1,0 +1,8 @@
+Item: Assessed yield of 335 koku, 5 to, 4 sho, 1 go《Location: Fukamachi-ga-sato Village》
+Item: Assessed yield of 417 koku, 7 to, 4 sho, 1 go　《Location: Michinobe-ga-sato Village》
+Item: Assessed yield of 505 koku, 5 to, 2 sho, 1 go　　《Location: Nagakanda-ga-sato Village》
+Item: Assessed yield of 402 koku, 6 to, 4 sho, 2 go　　《Location: Kaneda-ga-sato Village》
+Item: Assessed yield of 294 koku, 6 to, 8 sho, 4 go《Location: Horie Village》
+Item: Assessed yield of 404 koku, 7 to, 9 sho, 3 go　　《Location: Higuchi-ga-sato Village》
+Item: Assessed yield of 280 koku, 8 to, 5 sho　　　《Location: Takada-ga-sato Village》
+Item: Assessed yield of 431 koku, 2 to, 2 sho, 5 go《Location: Tsuchinoe-ga-sato Village》

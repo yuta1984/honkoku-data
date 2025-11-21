@@ -1,0 +1,8 @@
+One, assessed yield: 456 koku, 6 to, 5 shō, 6 gō　　　　　《Location: Tomiumi Village》
+One, assessed yield: 473 koku, 5 to, 9 shō, 8 gō　　　　　《Location: Shimotanaka Village》
+One, assessed yield: 358 koku, 1 gō　　　　　　　　　　　《Location: Tauchi Village》
+One, assessed yield: 157 koku, 3 to, 9 gō　　　　　　　　《Location: Sanmyōji Village》
+One, assessed yield: 316 koku, 3 to, 7 shō, 7 gō　　　　　《Location: Okada Village》
+One, assessed yield: 262 koku, 7 to, 6 shō, 7 gō　《Side note: Branch village of Okada Village》《Location: Fukuoka Village》
+One, assessed yield: 225 koku, 9 to, 7 shō　　　《Side note: Branch village of Okada Village》《Location: Shugobun Village》
+One, assessed yield: 354 koku, 7 to, 1 shō, 5 gō　《Side note: Formerly Shikakubi Village》《Location: Ikuta Village》

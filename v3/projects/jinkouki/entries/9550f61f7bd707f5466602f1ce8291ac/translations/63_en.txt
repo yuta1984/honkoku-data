@@ -1,0 +1,10 @@
+Place twenty next to one hundred in the quotient, lower the divisor by one digit, multiply one hundred by one to make two hundred. Place twenty below this again, and multiply the divisor two hundred by the quotient twenty according to the method. Two times two makes four thousand, two times two makes four hundred. Subtract this four thousand four hundred from the dividend.
+Seven hundred twenty-nine tsubo remain in the dividend.
+
+Place three next to twenty in the quotient, lower the divisor by one digit, multiply twenty by one to make forty. Place three below this again, and multiply the divisor by the quotient three according to the method. Two times three makes six hundred, three times four makes one hundred twenty, three times three makes nine. When placed, there are seven hundred twenty-nine tsubo in the method. Subtract this from the dividend.
+Looking at the quotient:
+It becomes one hundred twenty-three ken square.
+
+Chapter Twenty: The Method of Square Root for Circles
+For one sun square tsubo, or seven hundred eleven, using the square root method for circles, how much is the diameter? The diameter is three shaku.
+In the method, first place seven hundred eleven tsubo on the right. Divided by the circular method of seven-nine, it becomes nine hundred tsubo. Using square root to divide this, the diameter is known to be three shaku.

@@ -1,0 +1,10 @@
+Item 1: Assessed yield 605 koku 3 to 8 sho 6 go　　　　　《Location: Tō-no-hara Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Tōhara Village]》
+Item 1: Assessed yield 550 koku 6 to 7 sho 9 go 5 shaku　　《Location: Hikari Village》
+Item 1: Assessed yield 542 koku 6 to 9 sho　　　　　《Location: Tazawa Village》
+　　　　　　　　　　　　　　　　《Marginal note: 《Location: Branch village of Ikari Village》》
+Item 1: Assessed yield 88 koku 1 to 9 sho 9 go　　　　　《Location: Shitsuda Hikari Village》
+Item 1: Assessed yield 283 koku 3 to 7 sho 2 go 5 shaku　《Location: Ikari Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Ikari Village]》
+　　　　　　　　　　　　　　　　《Marginal note: 《Location: Branch village of Aida-machi Village》》
+Item 1: Assessed yield 69 koku 5 go　　　　　　　　　《Location: Kitayama Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Kitayama Village Shinden]》
+Item 1: Assessed yield 55 koku 6 to 5 sho 9 go　　　　　《Location: Ochi-no-mizu Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Ochimizu Village]》
+Item 1: Assessed yield 191 koku 8 to 1 sho 2 go 4 shaku　《Location: Nishi-no-miya Village》《Marginal note: [Kyūdaka kyūryō torishirabe-chō = Nishimiya Village]》

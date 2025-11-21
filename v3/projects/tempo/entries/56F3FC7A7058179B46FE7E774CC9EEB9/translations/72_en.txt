@@ -1,0 +1,8 @@
+Item: Assessed yield of 51 koku, 7 to, 6 sho, 5 go　《Location: Kojīkuwasu Village》
+Item: Assessed yield of 98 koku, 8 sho, 2 go　　　《Location: Nashikōchi Village》
+Item: Assessed yield of 62 koku, 6 to, 2 sho, 3 go　《Location: Tarō Village》
+Item: Assessed yield of 41 koku, 4 to, 8 sho, 4 go　《Location: Metsuke Sahara Village》
+Item: Assessed yield of 38 koku, 6 sho, 9 go　　　《Location: Yahiromine Village》
+Item: Assessed yield of 89 koku, 1 to, 3 sho, 7 go　《Location: Fujihira Village》
+Item: Assessed yield of 180 koku, 9 go　　　　　　《Location: Tashiro Village》
+Item: Assessed yield of 128 koku, 1 sho　　　　　　《Location: Nakazato Village》

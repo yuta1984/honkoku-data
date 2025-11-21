@@ -1,0 +1,37 @@
+【Right page】
+　　《Location: Idezawa》
+　　　Brushwood mountain 1 se bu　　　　　《Owners: Shōzaburō, Sanjūrō, Kisaburō, Yaemon, Seiemon, Yagorō》
+　　《Location: Same place》
+　　　Grass mountain 6 chō 6 tan 6 se 20 bu　Village common land
+　　《Location: Hohekuri》
+　　　Grass mountain 2 chō bu　　《Kamishima Village, Ima Village》Common use by two villages
+　　《Location: Ōtsurune》
+　　　Mixed woodland 2 chō bu　　　　　《Owners: Gorōshichi, Kyūemon, Chūemon, Shōbei, Gorōemon, Gonzaemon》
+　　《Location: Ōsare》
+　　　Grass mountain 6 chō 6 tan 6 se 20 bu《Kamishima Village, Ima Village》Common use by two villages
+　　《Location: Sotenara》
+　　　Grass mountain 5 chō bu　　　　　Village common land
+
+【Left page】
+　　《Location: Aoki-daira》
+　　　Grass mountain 3 chō 3 tan 3 se 10 bu　Same as above
+　　《Location: Kuramatō》
+　　　Grass mountain 5 chō bu　　　　　Same as above
+　　《Location: Same place》
+　　　Mixed woodland 5 chō bu　　　　　《Owners: Yoshinojō, Chōjirō》
+
+　　　　　Tax-exempt land
+
+　　　　　　　　　　　　　《Shinto priests: Sōdayū, Ōkura》
+One: Shrine land 1 tan 3 se 10 bu　　　　Daimyōjin
+　　　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　　　《Same as above》
+One: Shrine land 1 tan 3 se 10 bu　　　　Wakamiya
+　　　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　　　《Same as above》
+One: Shrine land 2 se bu　　　　　　　Kumano Sansha Gongen
+　　　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　　　《Same as above》
+One: Shrine land 3 se 10 bu　　　　　　Benzaiten
+　　　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　Thirty【Written in red ink】

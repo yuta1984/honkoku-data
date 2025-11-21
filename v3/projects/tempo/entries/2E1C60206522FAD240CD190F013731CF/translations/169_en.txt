@@ -1,0 +1,8 @@
+One village with a kokudaka of 39 koku, 2 to, 2 sho: Hayashi Village
+One village with a kokudaka of 57 koku, 3 to, 3 sho: Takatsu Village
+One village with a kokudaka of 17 koku, 5 to: Ogawa Village
+One village with a kokudaka of 15 koku, 3 to, 3 sho: Nakatani Village (branch village of Ogawa Village)
+One village with a kokudaka of 10 koku, 9 to, 2 sho: Sako Village (branch village of Ogawa Village)
+One village with a kokudaka of 12 koku, 7 to, 5 sho: Numutahara Village
+One village with a kokudaka of 11 koku: Nosemi Village (branch village of Numutahara Village)
+One village with a kokudaka of 21 koku, 4 to, 5 sho: Yamate Village

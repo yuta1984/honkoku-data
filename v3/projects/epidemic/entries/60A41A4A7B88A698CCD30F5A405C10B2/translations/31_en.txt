@@ -1,0 +1,25 @@
+42
+
+[The patient should] be accommodated in a hospital or isolation ward as a general principle, the same as in cases of typhoid fever, dysentery, etc.
+
+4. For disinfection methods after hospitalizing or housing patients, refer to "Degree of Disinfection by Disease Type" listed later.
+
+5. When a patient occurs, investigate whether there were previously scarlet fever patients or suspected scarlet fever patients in that household, or whether there was recent contact with scarlet fever patients, or contact with items used by such patients, etc., in order to clarify the transmission lineage.
+
+6. To understand the degree of pathogen spread after patient occurrence and to implement appropriate preventive measures, it is necessary to investigate at least the following items:
+
+(A) What is the health condition of family members after patient occurrence?
+
+(B) After the patient's onset, did the patient and family members visit other houses, or did anyone come to the patient's house from elsewhere?
+
+(C) How were items that contacted the patient (clothing, utensils, etc.) or spittoons handled, and did anyone use rivers, moats, wells, etc. contaminated by such items?
+
+7. After patient discovery, it is advisable to conduct health observation or health examination of the patient's household for at least one week, and of the surrounding area for a certain period.
+
+8. It is advisable to prohibit the patient child from attending school for six weeks after recovery.
+
+Disinfection Methods
+
+Disinfection refers to killing contaminated infectious pathogens. Disinfection methods are divided into five types: sunlight exposure, incineration, boiling disinfection, steam disinfection, and chemical disinfection.
+
+43

@@ -1,0 +1,8 @@
+Item 1: Assessed yield 303 koku 8 sho 5 go　　　　　　《Location: Shimodaira Village》
+Item 1: Assessed yield 550 koku 1 to 9 sho 6 go　　　《Location: Komiyama Village》
+Item 1: Assessed yield 660 koku 2 sho 2 go　　　　　　《Location: Maeyama Village》
+Item 1: Assessed yield 163 koku 4 to 5 go　　　　　　《Location: Naka Village》
+Item 1: Assessed yield 198 koku 3 to 3 sho 9 go　　　《Location: Shimo Village》
+Item 1: Assessed yield 86 koku 5 to 1 sho 2 go　　　　《Location: Maeyama Shinden Village》
+Item 1: Assessed yield 9 koku 6 to 1 sho 6 go　　　　《Location: Ikeda Shinden》
+Item 1: Assessed yield 11 koku 6 to 2 sho 7 go　　　　《Location: Namiki Shinden》

@@ -1,0 +1,8 @@
+One village with a kokudaka of 165 koku, 3 to, 5 sho, 1 go, 3 shaku: Miyaoku Village
+One village with a kokudaka of 180 koku, 3 to, 3 sho, 2 shaku: Higashinosho Village
+One village with a kokudaka of 153 koku, 1 to, 4 sho, 1 shaku: Okura Village
+One village with a kokudaka of 103 koku, 9 to, 1 sho, 1 go: Nakanosho Village
+One village with a kokudaka of 283 koku, 8 to, 4 sho, 4 go, 5 shaku: Iwamuro Village
+One village with a kokudaka of 613 koku, 3 to, 8 sho, 5 go, 5 shaku: Kotsuke Village
+One village with a kokudaka of 444 koku, 2 to, 1 sho, 1 go, 2 shaku: Imai Village
+One village with a kokudaka of 263 koku, 6 to, 3 go, 6 shaku: Amashi Village

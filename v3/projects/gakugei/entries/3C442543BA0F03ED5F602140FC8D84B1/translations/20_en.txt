@@ -1,0 +1,57 @@
+【Right Page, Upper Section】
+Quick calculation method for coin exchange rates【enclosed in double lines】
+For example, when the exchange rate is 9 monme 2 bu 5 rin
+Question: How much coin for 1 monme of silver?
+　　Answer: 107 mon 5 bu
+Calculation method: Set 20 monme as the standard, and subtract
+the exchange rate of 9 monme 2 bu 5 rin, leaving
+10 monme 7 bu 5 rin, which represents
+the remainder per 1 monme, seen as 107 mon 5 bu
+This method works without error for any
+exchange rate up to 10 monme
+
+Division calculation method using a carpenter's square【enclosed in double lines】
+For example, cotton fabric priced at
+7 monme 8 bu of silver
+per tan, when purchasing
+1 jō 5 shaku,
+what is the cost?
+　Answer: 4 monme 5 bu
+
+【Left Page, Upper Section】
+The calculation method is as follows:
+Even on soil,
+if you simply
+draw straight lines,
+you can perform
+division without
+using an abacus
+
+【In the carpenter's square spanning both pages】
+1 shaku 5 sun　　Consider this as the length
+　　　　　　　　of fabric being purchased
+4 sun 5 bu
+Consider these 4 sun 5 bu as
+the cost of the fabric
+being purchased
+【Below the long side of the square】
+Stock: 2 shaku 6 sun - Length of one tan
+【Beside the short side of the square】
+Hook: 7 sun 8 bu - Cost of one tan
+
+【Left Page, Upper Section Center】
+Using the carpenter's square with the stock side at 2 shaku 6 sun《annotation: this is the number for one tan's length》
+and the hook side at 7 sun 8 bu《annotation: this is the number for one tan's cost》,
+draw a diagonal line, then place the ruler at 1 shaku 5 sun
+《annotation: this is the number for the length of cotton being purchased》on the stock side and measure to where the diagonal passes,
+which gives 4 sun 5 bu.
+This indicates that the cost of the cotton
+being purchased is 4 monme 5 bu of silver.
+For any other calculations involving exchange rates,
+follow the same method as described above.
+Simply mark the measurements on the ruler scale for any calculations.
+
+【Right Page, Lower Section】
+Wholesale merchants
+　Prosperity
+　　Diagram

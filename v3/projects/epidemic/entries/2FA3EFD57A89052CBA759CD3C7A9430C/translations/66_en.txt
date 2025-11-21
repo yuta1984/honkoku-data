@@ -1,0 +1,37 @@
+108　　　　　　　　　　　Experimental Basis of Typhoid Vaccination
+――――――――――――――――――――――――――――――――――
+Until now, all known vaccines have been subjected to control studies in rabbits or guinea pigs. In these animals, many vaccines show some degree of efficacy. Some vaccines confer immunity more rapidly and more persistently than other vaccines. However, almost all, if not all, protect guinea pigs against one to several times the lethal dose of typhoid bacilli introduced into the guinea pig's peritoneal cavity.
+
+Certainly, among the classes of vaccines, there are some that differ from the experimenters' monistic way of thinking. These are live bacterial vaccines. Although it could not be determined whether other vaccines act with certainty on humans as well as on guinea pigs, the difference is not really remarkable.
+
+However, this certainty unfortunately still has its deficiencies.
+
+We do not intentionally wish to object to the principle that allows extrapolation from guinea pigs to humans. However, for this to be valid, the same disease must be able to occur in both guinea pigs and humans. For this, the action of the same bacterium alone is not sufficient; furthermore, anatomical and clinical findings must be as identical as possible.
+
+To confirm this way of thinking, let us cite a concrete example. Cholera vibrios in small rabbits cause either peritonitis or intestinal cholera depending on whether they are introduced intraperitoneally or administered orally. However, while prevention against cholera peritonitis is extremely easy, there is complete defenselessness against intestinal cholera. Therefore, regarding inoculation material, it is important to carefully examine not only the bacteria but also the organs where the bacteria should localize.
+
+Let us return again to typhoid bacilli. Between guinea pig peritonitis or typhoid septicemia that develops within at least 24 hours, and human typhoid fever which requires a long period for its onset, there is no commonality other than the bacteria. From anatomical and clinical standpoints, the difference between both diseases is at least as profound as that between peritonitis caused by cholera bacilli and intestinal cholera. Regarding the nature of bacteria that appear following injection of bacteria or bacterial products, its significance is hardly sufficient to prove this. Individuals injected subcutaneously with bacterial bodies or bacterial autolysates merely produce agglutinins, complement-binding
+
+　　　　　　　　　　Experimental Basis of Typhoid Vaccination　　　　　　　　　109
+――――――――――――――――――――――――――――――――――
+substances, or lysins. To conclude, only the manifestation of true typhoid immunity does not seem to be coincidental.
+
+Now, how can we conclude that because a vaccination method is effective in cases of peritonitis caused by typhoid in guinea pigs, it must necessarily succeed in human intestinal typhoid!
+
+　　　　　　　　　　＊　　＊　　＊
+
+True experimental control methods had not been developed until recently. Today this has become possible since Metchnikoff showed that there is one animal, namely anthropoid apes, that can contract a disease very similar to human intestinal typhoid and completely different from guinea pig typhoid infection.
+
+When typhoid bacilli are introduced orally to anthropoid apes, they do not become ill on the same day or the next day. With variation according to each case, 5, 6, or 8 days pass before the first signs of illness appear. This incubation period becomes even longer the less severe the infection.
+
+The onset is recognized by temperature elevation on the evening of the 6th, 7th, or 8th day. Body temperature continues to rise the next day, reaching 40° or higher. For 4 to 8 days, the temperature shows slight decline in the morning but never returns to normal. After this period passes, body temperature gradually declines. On average, normal temperature is restored at the beginning of the third day.
+
+During the peak fever period, typhoid bacilli are consistently demonstrated in the blood. Serum agglutinates up to 1/50-1/400. Feces often appear diarrheal.
+
+In many cases, chimpanzees recover. Intestinal typhoid, if compared, resembles that of children. When apes die, typhoid bacilli are found in pure culture in the liver, spleen, and lymph nodes. Peyer's patches are severely enlarged and congested, especially in the vicinity of the ileocecal valve.
+
+　　　　　　　　　　＊　　＊　　＊
+
+As is clear from what was stated earlier, the most suitable experimental animal for judging the efficacy of typhoid preventive vaccines in humans is the chimpanzee.
+
+Starting from this concept, Metchnikoff and our colleagues began testing the most commonly used vaccines. That is, on one hand with killed bacteria, and on the other hand with live bacteria

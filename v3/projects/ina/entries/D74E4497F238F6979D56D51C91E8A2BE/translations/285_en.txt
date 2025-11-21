@@ -1,0 +1,38 @@
+【Right Page】
+　　Yamado (Mountain Path)
+　　　Small pine forest: 7 tan　　　　　　Gobei, Izaemon
+　　Same location
+　　　Small pine forest: 1 tan 2 se　　　　□saku, Sohachiro
+　　Same location
+　　　Small pine forest: 1 cho 1 tan 6 se 20 bu　Hyoemon
+　　Same location
+　　　Small pine forest: 1 tan 6 se 20 bu　　Gonsuke
+　　Kunoki Forest
+　　　Mixed forest: 1 tan 2 se　　　　Moemon
+　　Kaito
+　　　Brushwood mountain: 14 cho 4 tan　　Same person (Moemon)
+　　Adjacent to residence
+　　　Mixed forest: 1 tan 6 se　　Chuusaburo, Saisaburo, Sanshiro, Tarosuke, Hyoemon, Kichibei
+　　Miyashita
+　　　Brushwood mountain: 3 tan 6 se 20 bu　　Tarosuke
+　　Hasosaki
+　　　Pine forest: 3 cho 4 tan 6 se 20 bu　Sukemon
+
+【Left Page】
+　　Yanagihara
+　　　Willow forest: 9 se 10 bu　　　　　　Gobei, Rihei
+　　Hasosaki
+　　　Pine forest: 6 se 20 bu　　　　　Izaemon
+　　Same location
+　　　Pine forest: 8 tan 1 se 20 bu　　　Sukemon
+　　Shimobayashi
+　　　Small pine forest: 2 se 4 tan　　　　Sukemon
+　　Ochiai
+　　　Mixed forest: 3 se 10 bu　　　　　Goemon
+　　Shimohara
+　　　Small pine forest: 14 cho 4 tan　Monjuro, Goemon, Matabei, Monemon, Izaemon, Kichiemon, Gobei, Kichiemon, Matahachi, Sukehachi
+　　Same location
+　　　Pine forest: 9 cho 5 tan　　　　　Moemon
+　　Kaido (Highway)
+　　　Small pine forest: 2 tan 3 se 10 bu　Rihei, Izaemon, Kichiemon, Kichibei
+　　　　　　　　　　　　　　　Thirty

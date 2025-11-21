@@ -1,0 +1,8 @@
+One village with a kokudaka of 632 koku, 6 to, 9 sho, 2 go, 6 shaku: Iwashimizu Village
+One village with a kokudaka of 176 koku, 6 to, 2 sho, 1 go: Kasuga Village
+One village with a kokudaka of 125 koku, 6 to, 1 sho, 6 go, 4 shaku: Fukunishi Village
+One village with a kokudaka of 509 koku, 3 sho, 2 go, 3 shaku: Hirao Village
+One village with a kokudaka of 762 koku, 7 to, 1 sho, 9 go, 5 shaku: Hagiwara Village
+One village with a kokudaka of 405 koku, 3 to, 4 sho, 8 go: Nishitoge Village
+One village with a kokudaka of 253 koku, 5 sho, 2 go: Ogano Village (a branch village of Nishitoge Village)
+One village with a kokudaka of 665 koku, 4 sho, 7 go, 2 shaku: Kamiitaru Village

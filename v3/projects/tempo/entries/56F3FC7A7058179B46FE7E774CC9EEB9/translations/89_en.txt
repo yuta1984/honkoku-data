@@ -1,0 +1,8 @@
+Item: Assessed yield of 93 koku, 9 to, 5 sho, 5 go　　　　《Location: Akasaka Village》
+Item: Assessed yield of 153 koku, 2 sho, 7 go　　　　　《Location: Nakaura Village》
+Item: Assessed yield of 305 koku, 9 to, 7 sho, 2 go　　　　《Location: Oura Village》
+Item: Assessed yield of 71 koku, 2 to, 9 sho, 3 go　　　　《Location: Mankoshi Village》
+Item: Assessed yield of 265 koku, 3 to, 1 sho　　　　《Location: Tsumagasaka Village》
+Item: Assessed yield of 78 koku, 4 to, 6 sho, 4 go　　　　《Location: Kamikura Village》
+Item: Assessed yield of 199 koku, 4 to, 3 go　　　　　《Location: Magawa Village》
+Item: Assessed yield of 84 koku, 7 to, 9 sho, 3 go　　　　《Location: Yunoo Village》

@@ -1,0 +1,8 @@
+One: Assessed rice yield 581 koku 3 to 5 sho 6 go　《Branch village of Sue Village》《Location: Kami-Sue Village》
+One: Assessed rice yield 397 koku 5 to 5 sho 2 go　　　　　　　《Location: Tabiishi Village》
+One: Assessed rice yield 913 koku 1 to 9 sho 4 go　　　　　　　　《Location: Ueki Village》
+One: Assessed rice yield 392 koku 4 to 6 sho 4 go 3 shaku　《Branch village of Ueki Village》《Location: Hongō Village》
+One: Assessed rice yield 1,244 koku 8 sho 7 go　　　　　　　　《Location: Sakadono Village》
+One: Assessed rice yield 570 koku 5 to 1 sho 2 go 6 shaku　　　　　　《Location: Otsuinu Village》
+One: Assessed rice yield 1,429 koku 9 to 7 go 4 shaku　　　　　　《Location: Onaka Village》
+One: Assessed rice yield 292 koku 3 to 8 sho 7 go　　　　　　　《Location: Wakasugi Village》

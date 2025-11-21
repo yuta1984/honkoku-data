@@ -1,0 +1,8 @@
+Item: Assessed yield of 154 koku, 2 to, 4 sho, 4 go　　　　《Location: Kuroshio Village》
+Item: Assessed yield of 75 koku, 8 to, 6 sho　　　　　　　《Location: Tsubakihara Village》
+Item: Assessed yield of 48 koku, 3 to, 7 sho, 7 go　　　　　《Location: Shimizu Village》
+Item: Assessed yield of 71 koku, 4 to, 9 sho, 7 go　　　　　《Location: Yokono Village》
+Item: Assessed yield of 43 koku, 1 to, 4 sho　　　　　　　《Location: Tatsume Village》
+Item: Assessed yield of 53 koku, 4 to, 6 sho, 4 go　　　　　《Location: Muta Village》
+Item: Assessed yield of 1,626 koku, 4 to, 5 sho, 3 go　　《Location: Kanda Village》
+Item: Assessed yield of 335 koku, 8 to, 7 sho, 7 go　　　《Location: Kiriki Village》

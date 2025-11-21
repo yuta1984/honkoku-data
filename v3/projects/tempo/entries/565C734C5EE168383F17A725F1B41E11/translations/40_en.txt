@@ -1,0 +1,9 @@
+(Part of Sakura Village)
+1. Assessed yield: 113 koku, 9 to, 2 sho, 7 go　　　　　Ōto Village
+1. Assessed yield: 369 koku, 9 sho, 4 go　　　　　　　　Samukawa Village
+1. Assessed yield: 223 koku, 1 to, 4 sho, 5 go　　　　　Takarakawa Village
+1. Assessed yield: 243 koku, 2 to, 6 sho, 8 go　　　　　Tōrizawa Village
+1. Assessed yield: 131 koku, 8 to, 5 sho, 2 go　　　　　Yanagitate Village
+1. Assessed yield: 85 koku, 1 to, 3 sho, 7 go　　　　　　Kurokawa Village
+1. Assessed yield: 267 koku, 9 to, 6 go　　　　　　　　　Ōyamada Village
+1. Assessed yield: 358 koku, 7 to, 3 sho, 3 go　　　　　Saruda Village

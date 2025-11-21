@@ -1,0 +1,13 @@
+{
+  "id": "galica",
+  "title": "Gallicaの日本資料を翻刻！",
+  "description": "フランス国立図書館（Bibliothèque nationale de France; BnF）のデジタルライブラリーGallicaで公開されている日本資料の翻刻プロジェクトです。",
+  "projectType": "official",
+  "url": "https://gallica.bnf.fr/",
+  "totalEntryCount": 294,
+  "completedEntryCount": 119,
+  "totalImageCount": 26685,
+  "completedImageCount": 14302,
+  "charCount": 4549671,
+  "createdAt": null
+}

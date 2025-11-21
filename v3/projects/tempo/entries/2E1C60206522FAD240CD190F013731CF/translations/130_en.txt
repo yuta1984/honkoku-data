@@ -1,0 +1,8 @@
+One village with a kokudaka of 113 koku, 9 to, 7 sho, 6 go: Rokukura Village
+One village with a kokudaka of 532 koku, 4 to, 1 sho: Maki Village
+One village with a kokudaka of 199 koku, 7 to, 1 sho, 4 go, 5 shaku: Kojima Village
+One village with a kokudaka of 176 koku, 6 to, 3 sho, 2 go: Uno Village
+One village with a kokudaka of 265 koku, 2 sho, 8 go: Nishi-Kawauchi Village
+One village with a kokudaka of 360 koku, 9 to, 3 sho: Mizai Village
+One village with a kokudaka of 403 koku, 4 to, 7 sho: Sumikawa Village
+One village with a kokudaka of 97 koku, 1 to, 2 sho: Koyama Village (branch village of Sumikawa Village)

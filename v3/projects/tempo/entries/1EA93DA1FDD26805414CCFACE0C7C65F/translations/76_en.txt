@@ -1,0 +1,8 @@
+Item 1: Assessment 130 koku, 3 to, 4 sho, 9 go　　　《Location: Yanagikubo Shinden》
+Item 1: Assessment 501 koku, 1 to, 5 sho　　　　　　《Location: Shimosato Village》
+Item 1: Assessment 380 koku, 9 to, 4 sho, 9 go　　　《Location: Koyama Village》
+Item 1: Assessment 203 koku, 2 to, 8 sho, 7 go　　　《Location: Kamikiyoto Village》
+Item 1: Assessment 375 koku, 4 to, 5 sho, 4 go　　　《Location: Shimokiyoto Village》
+Item 1: Assessment 397 koku, 1 to, 7 sho, 3 go　　　《Location: Nakakiyoto Village》
+Item 1: Assessment 189 koku, 7 to, 8 sho, 5 shaku　　《Location: Kiyoto Shimojuku》
+Item 1: Assessment 211 koku　　　　　　　　　　　《Location: Nakazato Village》

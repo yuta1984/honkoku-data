@@ -1,0 +1,34 @@
+299 Here I feel a very strong pain.
+300 I feel much better now.
+301 I will soon be recovered.
+302 I am always in good health.
+303 How are you feeling?
+304 You look very healthy.
+305 Have you always been in good health?
+306 You are getting quite fat.
+306 He is growing a lot.
+307 He is getting quite thin.
+308 I have no appetite at all.
+311 Nothing pleases my taste.
+312 I am delighted to see you again.
+313 What do you fear?
+314 I will do you no harm.
+315 Come closer.
+316 Sit down.
+317 I very much desire to see you.
+318 I have often desired to see you.
+319 What use is this to you?
+320 Show me how it should be done.
+321 I want to test it.
+322 I feel sleepy.
+323 I will go to bed early.
+324 I will get up very early in the morning.
+325 You must wake me up.
+326 At what time?
+327 What time is it?
+328 Tomorrow at noon.
+330 This evening.
+331 I wish you a good night.
+332 You must teach me good Japanese.
+333 At Dejima they speak very poorly.
+334 The ships being in sight, one must come here.

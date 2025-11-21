@@ -1,0 +1,13 @@
+Item 1: Assessment 117 koku, 2 to, 2 go　　　　《Location: Ryusenji Village》
+Item 1: Assessment 60 koku, 4 to, 7 go　　　　《Location: Shitaya-dori Shinmachi》
+　　　　　　　　　　　《Annotation: Formerly《Annotation: 《Location: Monzenmachi》｜《Location: Hanakawado-machi》｜《Location: Yamayado》》《Annotation: 《Location: Imado Village》｜《Location: Hashiba-machi》》within five villages｜》
+Item 1: Assessment 16 koku, 9 to, 2 sho, 3 go　　　《Location: Yamanoyado-machi》
+　　　　　　　　　　　　《Annotation: Formerly within the same group｜》
+Item 1: Assessment 128 koku, 8 to, 6 sho, 9 go　　《Location: Imado-machi》
+　　　　　　　　　　　　《Annotation: Formerly within the same group｜》
+Item 1: Assessment 610 koku, 9 to, 8 sho, 2 go　　　《Location: Hashiba-machi》
+　　　　　　　　　　　　《Annotation: Formerly within the same group｜》
+Item 1: Assessment 500 koku　　　　　　　　　　《Location: Senzoku Village》
+Item 1: Assessment 89 koku, 1 to, 8 sho, 6 go　　《Location: Shin-Torigoe-machi》
+　　　　　　　　　　　　　《Annotation: Formerly Sanya Village｜》
+Item 1: Assessment 53 koku, 1 to, 2 sho, 5 go　　　《Location: Sanya-machi》

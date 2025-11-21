@@ -1,0 +1,8 @@
+1. Assessed yield: 236 koku, 7 sho, 4 go　　　　　　　　　　　　　Furujuku village
+1. Assessed yield: 764 koku, 5 to, 7 sho, 1 go, 7 shaku　　　　　Toyokawa village
+1. Assessed yield: 201 koku, 5 to, 5 sho, 5 go　　　　　　　　　　Tanigawa village
+1. Assessed yield: 742 koku, 3 to, 2 sho, 2 go　　　　　　　　　　Asoda village
+1. Assessed yield: 68 koku, 1 to, 5 sho　　　　　　　　　　　　　　Kusunoki village
+1. Assessed yield: 84 koku, 7 to, 6 sho, 2 go　　　　　　　　　　　Rakutsu village
+1. Assessed yield: 144 koku, 4 to, 1 sho, 8 go　　　　　　　　　　Mukaikawara village
+1. Assessed yield: 578 koku, 4 to, 4 sho, 8 go　　　　　　　　　　Ichinomiya village

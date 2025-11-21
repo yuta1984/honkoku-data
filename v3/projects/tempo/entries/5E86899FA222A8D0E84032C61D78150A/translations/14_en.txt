@@ -1,0 +1,8 @@
+One, assessed yield: 1,406 koku, 6 to, 5 sho, 2 go　　　　　　《Location: Nagisa Village》
+One, assessed yield: 544 koku, 5 to, 4 sho, 1 go　　　　　《Location: Saka Village》
+One, assessed yield: 209 koku, 4 to, 5 sho, 6 go　　　　　　《Location: Ogura Village》
+One, assessed yield: 586 koku, 6 to, 8 sho, 3 go　　　　　《Location: Kaida Village》
+One, assessed yield: 219 koku, 5 to, 6 sho　　　　　　　　《Location: Katahoko Village》
+One, assessed yield: 1,087 koku, 4 to, 7 sho, 1 go　　　　　《Location: Kuraji Village》
+One, assessed yield: 1,085 koku, 1 to, 3 sho, 9 go　　　　　《Location: Tsuda Village》
+One, assessed yield: 248 koku, 7 to, 6 sho, 7 go　《Marginal note: Branch village of 《Location: Tsuda Village》》《Location: Nagao Village》

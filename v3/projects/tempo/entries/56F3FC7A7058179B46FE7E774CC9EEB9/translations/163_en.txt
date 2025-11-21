@@ -1,0 +1,11 @@
+Item: Assessed yield of 133 koku, 8 to, 4 go, 9 seki　　　《Location: Yukiura Village》
+Item: Assessed yield of 232 koku, 5 to, 9 sho, 8 go, 7 seki, 4 sai
+　　　　　　　　　　　　　　　　《Location: Seto Village》
+Item: Assessed yield of 253 koku, 7 to, 1 sho, 5 go, 3 seki, 3 sai
+　　　　　　　　　　　　　　　　《Location: Taira Village》
+Item: Assessed yield of 106 koku, 1 to, 7 sho, 4 seki, 6 sai　《Location: Nakaura Village》
+Item: Assessed yield of 177 koku, 2 to, 8 sho, 6 go, 6 seki, 6 sai
+　　　　　　　　　　　　　　　　《Location: Otawa Village》
+Item: Assessed yield of 187 koku, 6 to, 3 sho　　　　　《Location: Amakubo Village》
+Item: Assessed yield of 49 koku, 3 to, 9 sho, 5 go, 5 seki　《Location: Omotaka Village》
+Item: Assessed yield of 111 koku, 4 to, 3 sho, 3 go, 3 seki, 3 sai《Location: Yokoseura Village》

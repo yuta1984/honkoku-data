@@ -1,0 +1,15 @@
+Item 1: Assessed yield 111 koku 6 to 1 sho 5 go　　　　《Location: Mizushiro Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 259 koku 2 to 9 sho 1 go　　《Location: Shimowada Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 314 koku 3 to 6 sho 3 go　　　《Location: Naka Village》《Note: [Kyūkō Kyūryō Torishirabe-chō = Wada Naka Village]》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 154 koku 7 to 4 sho　　　　　《Location: Sakai Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 561 koku 9 to 8 sho　　　　《Location: Minamiwada Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 407 koku 2 to 7 sho 4 go　　　　《Location: Tono Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 521 koku 7 to 7 sho 6 go　　《Location: Wada-machi Village》
+　　　　　　　　　　　　　　　《Note: 《Location: Wada》》
+Item 1: Assessed yield 399 koku 2 to 8 sho 4 go　　《Location: Arai Village》

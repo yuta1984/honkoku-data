@@ -1,0 +1,8 @@
+One village with a kokudaka of 386 koku, 9 to, 8 sho, 1 go (branch village of Kamisato Village): Taka Village
+One village with a kokudaka of 495 koku, 7 go (branch village of Kamisato Village): Imaichi Village
+One village with a kokudaka of 581 koku, 8 to, 1 sho, 5 go (branch village of Kamisato Village): Imaizumi Village
+One village with a kokudaka of 428 koku, 3 to, 1 sho, 3 go: Hirano Village
+One village with a kokudaka of 154 koku, 9 to, 1 sho, 6 go: Sekiya Village
+One village with a kokudaka of 59 koku, 3 to, 1 sho, 3 go (branch village of Sekiya Village): Tajiri Village
+One village with a kokudaka of 596 koku, 6 to, 8 sho, 8 go: Anamushi Village
+One village with a kokudaka of 550 koku: Osaka Village

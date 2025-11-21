@@ -1,0 +1,12 @@
+1. Assessed yield: 232 koku, 9 to, 8 sho, 8 go - Funatsu Village
+1. Assessed yield: 714 koku, 6 to, 6 sho, 3 go - Shimada Shinden Village
+1. Assessed yield: 218 koku, 8 sho, 9 go - Matsuhashi Village
+1. Assessed yield: 268 koku, 8 to, 4 sho, 5 go - Chihara Village Shinden
+1. Assessed yield: 128 koku, 7 to, 4 go - Nakajima Shinden
+1. Assessed yield: 334 koku, 2 sho, 5 go - Yotsuya Shinden
+1. Assessed yield: 882 koku, 6 to, 8 sho, 5 go - Enoi Village
+1. Assessed yield: 835 koku, 8 to, 4 sho, 9 go - Ichimura Shinden
+[The National Museum of Japanese History's database of old assessed yields and domains does not have Chihara Village Shinden by this name, but there are three places named Chihara Village. Among these, one place in Ise domain has an assessed yield that matches the yield for Chihara Village Shinden recorded here.]
+[The National Museum of Japanese History's database has two places named Nakajima Shinden. Among these, one place with municipal code 15543 has an assessed yield that matches the Nakajima Shinden recorded here.]
+[The National Museum of Japanese History's database has two places named Enoi Village, and the combined assessed yield of these two places matches the yield for Enoi Village recorded here.]
+[The National Museum of Japanese History's database has two places named Ichimura Shinden, and the combined assessed yield of these two places matches the yield for Ichimura Shinden recorded here.]

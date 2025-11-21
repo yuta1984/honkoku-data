@@ -1,0 +1,8 @@
+One, assessed yield: 275 koku, 7 to, 5 sho　　　　　　　　　《Location: Nozaki Village》
+One, assessed yield: 282 koku, 5 go　　　　　　　《Annotation: Branch village of Nozaki Village》《Location: Teragawa Village》
+One, assessed yield: 391 koku, 3 to, 1 sho, 7 go　《Annotation: Formerly two villages, Haizuka Village | Mishima Shinden》《Location: Haizuka Village》
+One, assessed yield: 1,027 koku, 7 to, 6 sho, 5 go　　　　　　　　《Location: Kida Village》
+One, assessed yield: 1,278 koku, 8 sho, 7 go　　　　　　　　《Location: Nakano Village》
+One, assessed yield: 328 koku, 3 to, 3 sho　　　　　　　　　《Location: Shitomiya Village》
+One, assessed yield: 840 koku, 4 to, 7 sho　　　　　　　　　《Location: Hōjō Village》
+One, assessed yield: 667 koku, 3 sho, 4 go　　　　　　　　　《Location: Takamiya Village》

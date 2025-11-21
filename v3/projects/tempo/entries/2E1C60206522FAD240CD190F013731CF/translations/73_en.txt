@@ -1,0 +1,8 @@
+One village with a kokudaka of 1,015 koku, 5 to, 2 sho, 1 go: Byobu Village
+One village with a kokudaka of 380 koku, 3 to, 6 sho, 9 go: Yuzaki Ichiba Village
+One village with a kokudaka of 906 koku, 1 to, 7 sho, 6 go: Yuzaki Naka Village
+One village with a kokudaka of 578 koku, 9 to, 1 go: Yuzaki Ido Village
+One village with a kokudaka of 641 koku, 5 sho, 6 go: Yuzaki Tsuji Village
+One village with a kokudaka of 284 koku, 7 to, 1 sho, 1 go: Yuzaki Umedo Village
+One village with a kokudaka of 1,376 koku, 9 to, 5 sho, 1 go: Shimonaga Village
+One village with a kokudaka of 596 koku, 3 sho, 5 go: Kuroda Village

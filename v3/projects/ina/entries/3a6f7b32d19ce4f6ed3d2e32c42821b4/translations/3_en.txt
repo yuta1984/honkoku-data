@@ -1,0 +1,19 @@
+Item 1: This person is from Goshohira in Saku District
+　Designated inn: Jōzaburō
+　　　　Principal: Yasaburō (seal)
+　　　　Guarantor: Ushimigisaburō (seal)
+
+Item 2: This person is from Hara post-town in Fuji District, Sunshū
+　Designated inn: Yasumigisaburō
+　　　　Principal: Bunjirō (seal)
+　　　　Guarantor: Sanzaemon (seal)
+
+Item 3: This person is from Shimakawara Village in Saku District
+　Inn: Tajirōemon
+　　　　Principal: Hachiya (seal)
+　　　　Guarantor: Shichizaemon (seal)
+
+Item 4: This person is from Ashida post-town in Saku District
+　Designated inn: Denzaemon
+　　　　Principal: Tatsusaburō (seal)
+　　　　Guarantor: Naokichi (seal)

@@ -1,0 +1,8 @@
+One village with a kokudaka of 6 koku, 9 to, 9 sho, 6 go: Nohirose Village (branch village of Kawazu Village)
+One village with a kokudaka of 4 koku, 9 to, 8 sho, 9 go: Maruse Village (branch village of Kawazu Village)
+One village with a kokudaka of 36 koku, 6 to, 6 sho, 6 go, 7 shaku: Kazaya Village
+One village with a kokudaka of 22 koku, 1 shaku: Takigawa Village
+One village with a kokudaka of 14 koku, 6 to, 6 sho, 6 go, 5 shaku: Uchihara Village
+One village with a kokudaka of 15 koku: Nojiri Village
+One village with a kokudaka of 7 koku, 5 to: Kohara Village (branch village of Nojiri Village)
+One village with a kokudaka of 7 koku, 5 to: Iwa Village (branch village of Nojiri Village)

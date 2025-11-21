@@ -1,0 +1,8 @@
+One: Assessed rice yield 1,205 koku 5 to 1 go　　　　　　　《Location: Asamachi Village》
+One: Assessed rice yield 1,234 koku 1 to 5 sho 6 go　　　《Location: Mitsuoka Village》
+One: Assessed rice yield 580 koku 6 go　　　　　　　　　《Location: Kuhara Village》
+One: Assessed rice yield 1,658 koku 7 to 4 go 3 shaku 6 sai　《Location: Magari Village》
+One: Assessed rice yield 683 koku 8 sho 6 go　　　　　　《Location: Nagori Village》
+One: Assessed rice yield 749 koku 9 to 9 sho 5 go 2 shaku　　《Location: Tokushige Village》
+One: Assessed rice yield 1,259 koku 6 to 6 sho 3 go 7 shaku　《Location: Fujiwara Village》
+One: Assessed rice yield 1,677 koku 6 to 9 sho 6 go　　　《Location: Yoshitome Village》

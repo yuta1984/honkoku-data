@@ -1,0 +1,11 @@
+【Toyohashi Urban Planning Street Network Map】
+Toyohashi Urban Planning Street Network Map
+
+Legend
+【Black】Public squares
+【Orange lines】First-class main roads, third category《Notes: Width｜twelve ken｜or more》
+【Red lines】Second-class main roads, first category《Notes: Same｜eleven ken》
+【Yellow lines】Same, second category《Notes: Same｜eight ken》
+【Purple lines】First phase new construction and expansion routes
+【Blue lines】Second phase new construction and expansion routes
+【Gray】Urban planning district boundaries

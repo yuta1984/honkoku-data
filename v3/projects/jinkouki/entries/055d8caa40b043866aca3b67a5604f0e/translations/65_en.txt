@@ -1,0 +1,21 @@
+Place 2 next to the 10 in the quotient, triple the 10 in the lower position to make 30, and move it down one place. Then using the divisor, multiply the 30 in the lower position by the 10 in the quotient. Place 1×3=30. Next to this 30, multiply the 30 in the lower position by the 2 in the quotient. Place 2×3=6. Count up from the 30 in the divisor by 10, then multiply the 30 in the divisor by only the 2 in the quotient. Place 2×3=60. Count up from the 6 in the divisor by 1, then multiply the 6 in the divisor by the 2 in the quotient. When you place 2×6=12, it becomes 730. When you subtract this from the actual number, there remain 8 tsubo. To find the cube root of this, first place 2 in both the quotient and divisor. When you multiply the 2 in the divisor by the 2 in the quotient, place 2×2=4 in the divisor. When you multiply this by the 2 in the quotient twice more, it becomes 2×4=8 tsubo. Subtract this from the actual number and you're done. This requires careful consideration.
+
+3×3=9　　　3×9=27
+
+4×4=16　　4×6=24
+　　　　　1×4=4
+
+5×5=25　　5×5=25
+　　　　　2×5=10
+
+6×6=36　　6×6=36
+　　　　　3×6=18
+
+7×7=49　　7×9=63
+　　　　　4×7=28
+
+8×8=64　　4×8=32
+　　　　　6×8=48
+
+9×9=81　　1×9=9
+　　　　　8×9=72

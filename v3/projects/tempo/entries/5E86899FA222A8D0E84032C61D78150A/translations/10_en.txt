@@ -1,0 +1,8 @@
+One, assessed yield: 239 koku, 9 to, 8 sho, 6 go　　　《Location: Mitsui Village》
+One, assessed yield: 724 koku, 2 to, 1 sho, 7 go　　　《Location: Kanda Village》
+One, assessed yield: 466 koku, 5 to, 6 sho, 4 go　　　《Location: Kaji Village》
+One, assessed yield: 327 koku, 7 to, 1 sho, 2 go　　　《Location: Akai Village》
+One, assessed yield: 37 koku, 1 to, 1 sho, 7 go　　　　　《Location: Makigata Village》【Hirakata Village】
+One, assessed yield: 104 koku, 7 to, 5 sho, 5 go　　　　《Subdivision note: 《Location: Makigata》》《Location: Okashinmachi Village》
+One, assessed yield: 241 koku, 6 to, 8 sho, 3 go　《Subdivision note: 《Location: Makigata》》《Location: Oka Village》
+One, assessed yield: 249 koku, 1 to, 9 sho, 2 go　《Subdivision note: 《Location: Makigata》》《Location: Mitsuya Village》

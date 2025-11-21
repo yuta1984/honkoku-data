@@ -1,0 +1,8 @@
+One: Assessed rice yield 414 koku 3 to 8 sho 5 go 1 shaku　　　《Location: Kōbukuro Village》
+One: Assessed rice yield 354 koku 2 to 7 sho 4 go　　　　　《Location: Tsushima Village》
+One: Assessed rice yield 1,044 koku 3 to 6 sho 6 go　　　　　《Location: Tsuhara Village》
+One: Assessed rice yield 274 koku 1 sho 8 go 7 shaku　《Note: Branch village of Tsuhara Village》《Location: Kuboshiro Village》
+One: Assessed rice yield 141 koku 6 to 2 sho 1 go　　　　　《Location: Wakana Village》
+One: Assessed rice yield 653 koku 5 to 6 sho 9 shaku 1 sai　　《Location: Meo Village》
+One: Assessed rice yield 537 koku 7 to 5 sho 8 go　　　　　《Location: Tsubaki Village》
+One: Assessed rice yield 284 koku 9 sho 3 go　　　　　　　《Location: Hanase Village》

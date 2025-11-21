@@ -1,0 +1,33 @@
+959 Two liards.
+960 Ten sous.
+961 That's too much.
+962 That's too expensive.
+963 That's cheap.
+964 How much do you ask for that?
+965 How much do you want to give?
+966 You're joking.
+967 Come to dinner.
+968 Have you finished?
+969 Set the table.
+970 Take away the dishes.
+971 Where are the knives?
+972 Where is the girl?
+973 She has gone out.
+974 She is outside.
+975 Where has she gone?
+976 I don't know.
+977 I will come to see you.
+978 Come tomorrow afternoon.
+979 I cannot.
+980 When then?
+981 I have been out of town.
+982 Where.
+983 At Magome.
+984 Next week.
+985 Last week.
+986 That's good.
+987 That's well made.
+988 That's well done.
+989 That's good.
+990 Go to the fish market.
+991 Do you know of any apartment to rent.

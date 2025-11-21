@@ -1,0 +1,8 @@
+1. Assessed yield: 192 koku, 6 to, 8 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　Kumihara village
+1. Assessed yield: 151 koku, 5 to, 8 sho, 9 go, 5 shaku　　　　　　　　　　　　　　　　　　　　　　Jōka village
+1. Assessed yield: 356 koku, 4 to, 5 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　Akazawa village
+1. Assessed yield: 92 koku, 9 to, 5 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Nishi Ikobe village
+1. Assessed yield: 122 koku, 2 to, 6 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　Higashi Ikobe village
+1. Assessed yield: 340 koku, 4 to, 8 sho, 9 go, 4 sai　　　　　　　　　　　　　　　　　　　　　　　Takatsuka village
+1. Assessed yield: 858 koku, 9 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　　　　　　Nanane village
+1. Assessed yield: 177 koku, 5 to, 4 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Terasawa village

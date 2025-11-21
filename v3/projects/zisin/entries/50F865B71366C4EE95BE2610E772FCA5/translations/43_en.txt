@@ -1,0 +1,14 @@
+Item: Persimmon tannin and ink coating, complete set
+    Cost: 3 monme silver
+Total: 204 monme 1 bu silver
+    This amount in gold: 3 ryō 1 bu 9 monme 1 bu silver
+
+    Road construction specifications for east-west terrain at the same location
+Eastern side:
+Item: Road construction 46 tsubo plus    From the bridge to Saga-machi highway boundary, length 7 ken
+    Note: 2 shaku extension additional earth per tsubo    4 ken width at the横bridge area
+        15 tsubo 3 gō 3 shaku    10 ken turning around toward Saga-machi
+Western side:
+Item: Same type 119 tsubo    From bridge area westward, length 34 ken  
+    Note: 1 shaku extension additional earth per tsubo    Width 4 ken at the same location, 3 ken on the western side
+        19 tsubo 8 gō 3 shaku

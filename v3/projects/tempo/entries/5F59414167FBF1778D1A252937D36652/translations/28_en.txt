@@ -1,0 +1,10 @@
+1. Assessed yield: 645 koku, 2 sho, 5 go　　　　　　　　Iwabuchi Village
+1. Assessed yield: 1,310 koku, 2 to, 3 go　　　　　　　　Hodohara Village
+1. Assessed yield: 952 koku, 2 to, 9 sho, 9 go　　　　　Kukuishi Village
+1. Assessed yield: 601 koku, 2 to, 1 sho, 8 go　　　　　Takabayashi Village
+　　　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Takabayashi Village)
+1. Assessed yield: 861 koku, 7 to, 9 sho, 8 go　　　　　Kakinouchi Village
+　　　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Takabayashi Village)
+1. Assessed yield: 372 koku, 7 sho, 5 go　　　　　　　　Ogawa Village
+1. Assessed yield: 779 koku, 5 to, 6 sho, 9 go　　　　　Kami-Osato Village
+1. Assessed yield: 887 koku, 2 to, 9 sho, 4 go　　　　　Shimo-Osato Village

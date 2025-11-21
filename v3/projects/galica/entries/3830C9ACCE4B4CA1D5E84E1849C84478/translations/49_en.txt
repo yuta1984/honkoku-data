@@ -1,0 +1,33 @@
+168 This morning
+169 Before noon
+170 Afternoon
+171 This evening
+172 In a moment
+173 After an hour
+174 This week
+175 After a fortnight
+176 A month ago.
+177 Where have you been?
+178 At home, at the exchange, at the theater
+179 At my place
+180 At his place
+181 At her place
+182 At my father's place
+183 How is he/she doing?
+184 How are they doing?
+185 What is his/her name?
+186 What is he doing?
+187 What is he saying?
+188 What does he want?
+189 Where is he?
+190 What is he bringing?
+191 Where does he come from?
+192 Where is he going?
+193 He has a monkey.
+194 He says.
+195 He does.
+196 He wants.
+197 He must return soon.
+198 He can.
+199 He will have to.
+200 He sees.

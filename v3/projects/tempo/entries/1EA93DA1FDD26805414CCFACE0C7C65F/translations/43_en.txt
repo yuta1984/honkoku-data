@@ -1,0 +1,8 @@
+Item 1: Assessment 261 koku, 3 to, 5 sho, 8 go　　　　《Location: Hazawa Village》
+Item 1: Assessment 525 koku, 4 to, 5 sho, 3 go, 1 shaku　　《Location: Toriyama Village》
+Item 1: Assessment 1,009 koku, 5 to, 4 sho, 5 go, 4 shaku　　　　　《Location: Kozukue Village》
+Item 1: Assessment 497 koku, 1 sho, 1 go, 5 shaku　　　《Location: Shimosugeta Village》
+Item 1: Assessment 845 koku, 4 sho, 6 go　　　　　《Location: Kanagawa Post Station》
+Item 1: Assessment 913 koku, 9 to, 8 sho, 5 go　　　　　《Location: Aoki Town》
+Item 1: Assessment 157 koku, 1 to, 5 sho, 9 go　　　　　《Location: Shibafu Village》
+Item 1: Assessment 112 koku, 2 to, 8 sho, 9 go　　　　　《Location: Wada Village》

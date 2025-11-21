@@ -1,0 +1,8 @@
+《Location: Ina District》
+Item 1: Assessed yield 1,045 koku 3 go　　　　　　　《Location: Ono Village》
+Item 1: Assessed yield 552 koku 5 to 3 sho 7 go　　《Location: Tatsuno Village》
+Item 1: Assessed yield 17 koku 6 to 2 sho 9 go　　　　　《Location: Amazawa Village》
+Item 1: Assessed yield 378 koku 2 to 9 go 2 shaku　　《Location: Yokogawa Village》
+Item 1: Assessed yield 284 koku 5 to 9 go 3 shaku　　《Location: Kamishima Village》
+Item 1: Assessed yield 139 koku 6 sho 1 go 7 shaku　　　《Location: Imamura》
+Item 1: Assessed yield 219 koku 8 to 5 sho 2 go 3 shaku　《Location: Miyasho Village》

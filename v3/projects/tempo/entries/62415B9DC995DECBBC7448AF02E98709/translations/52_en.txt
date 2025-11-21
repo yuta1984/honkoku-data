@@ -1,0 +1,8 @@
+One, assessed yield: 204 koku, 3 to, 2 shō, 6 gō　　　　　　　《Location: Tsuruta Village》
+One, assessed yield: 121 koku, 9 to, 2 shō　　　　　　　　　　《Location: Hirata Village》
+One, assessed yield: 408 koku, 8 to, 4 gō　　　　　　　　　　　《Location: Imazu Village》
+One, assessed yield: 1,130 koku, 6 to, 8 shō, 2 gō　　　　　　　《Location: Yodoe Village》
+One, assessed yield: 239 koku, 3 to, 2 shō, 9 gō　《Note: Formerly《Location: Tai Village》》《Location: Fukui Village》
+One, assessed yield: 150 koku, 4 to, 3 shō, 1 gō　　　　　　　　《Location: Kitao Village》
+One, assessed yield: 1,026 koku, 7 to, 2 shō, 6 gō　　　　　　　《Location: Terauchi Village》
+One, assessed yield: 857 koku, 8 to, 6 shō, 5 gō　　　　　　　　《Location: Inayoshi Village》

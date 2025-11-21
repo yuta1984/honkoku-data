@@ -1,0 +1,33 @@
+1025 C'est midi.
+【1026 ヌケ】
+1027  C'est bientot neuf heures.
+1028  Neuf heures vont sonner.
+1029 Voila qu'il  sonne dix heures.
+1030 C'est passe neuf heures.
+1031 C'est neuf heures et un quart.
+1032 C'est a peu pres neuf heures  et demie. 
+1033  Quel age avez vous?
+1034 N'en parlez  pas.
+1035 C'est fini.
+1036 Il y a un an.
+1037 Depuis longtems.
+1038  Il vient quelu'un.
+1039 Il y a deux personnes qui vous demandent.
+1040 Il n'y a personne.
+1041 On frappe a la porte.
+1042 On frappe.
+ 1043 Cela ne vaut rien.
+1044 Il y a du danger a cela.
+1045 La chaleur est  passe.
+ 1046  Le vent a tourne.
+1047  Le tems s'eclaireir.
+1048 Que【?】  pensez vous?
+1049 Je   crains  qu'il pluevra.
+1050 C'est un tems  superbe pour se promener.
+1051 C'est clair de lune.
+1052 Allons.
+1053 Le tems est passe.
+1054 Le  tems est expire. 
+1055 Commet se porte t'elle.
+1056 Elle m'a dit qu' elle se portait bien.
+1057 Qu'a t'elle dit? 

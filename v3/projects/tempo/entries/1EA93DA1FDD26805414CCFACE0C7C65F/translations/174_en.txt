@@ -1,0 +1,8 @@
+Item 1: Assessment 13 koku, 1 to, 1 sho, 5 go　　　　　《Location: Nakatsugawa Village》
+Item 1: Assessment 265 koku, 5 to, 7 sho, 5 go　　《Location: Kawarasawa Village》
+Item 1: Assessment 230 koku, 2 to, 5 sho, 9 go　　　　《Location: Miyama Village》
+Item 1: Assessment 556 koku, 3 to, 9 sho, 8 go　　　《Location: Komori Village》
+Item 1: Assessment 137 koku, 7 to, 5 sho, 5 go　　　《Location: Izusawa Village》
+Item 1: Assessment 805 koku, 4 to, 5 sho, 7 go　　　《Location: Shimo-Ogano Village》
+Item 1: Assessment 621 koku, 4 to, 1 sho, 7 go　《Location: Kami-Ogano Village》
+Item 1: Assessment 1121 koku, 7 to, 5 sho, 2 go　　　　《Location: Susuki Village》

@@ -1,0 +1,19 @@
+[Lord's dialogue]
+Ho ho, get this cleared up, you lot.
+
+Since they're clustering to one corner as they pass, hey there, cart puller, there's no need to move aside.
+
+[Cart puller's dialogue]
+Uh, come on, over there! His lordship is passing through. Let's lift the cart up onto the roof.
+
+[Main text]
+Moreover, people's hearts naturally became more honest, and on the highways they began yielding to each other, giving way on the roads. As a result, people got stuck in the middle of their journeys, and the roads became completely impassable.
+
+[Man pushing a cart's dialogue]
+Uh, pull!
+
+[Passing woman's dialogue]
+Well, you go first then. Thank y... eh.
+
+[Man carrying a shoulder pole's dialogue]
+No, no, please, please, you go ahead.

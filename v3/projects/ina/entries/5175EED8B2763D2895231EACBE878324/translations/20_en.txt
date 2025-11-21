@@ -1,0 +1,19 @@
+Step count: 20 steps
+
+Item: 5-sun square cross-section　　　　　　15 pieces
+　　　Step count: 375 steps
+
+Item: 6-sun square cross-section　　　　　　15 pieces
+　　　Step count: 540 steps
+
+Item: 5×6 rectangular cross-section　　　　　2 pieces
+　　　Step count: 60 steps
+
+Item: 5×7 rectangular cross-section　　　　　1 piece
+　　　Step count: 35 steps
+
+Item: 6×7 rectangular cross-section　　　　　1 piece
+　　　Step count: 42 steps
+
+Item: 7-sun square cross-section　　　　　　4 pieces
+　　　Step count: 196 steps

@@ -1,0 +1,11 @@
+1. Assessed yield: 119 koku, 9 to, 2 sho, 3 go, 5 shaku - Gobuichi Village
+1. Assessed yield: 413 koku, 3 to, 6 sho, 5 go, 1 shaku - Omiyata Village
+1. Assessed yield: 324 koku, 2 to, 6 sho, 5 go - Kami-Gumishima Village
+1. Assessed yield: 295 koku, 3 to, 4 sho, 9 go, 1 shaku - Shimo-Gumishima Village
+1. Assessed yield: 526 koku, 7 to, 3 sho, 8 go, 4 shaku - Kami-Onaimenome Village
+1. Assessed yield: 410 koku, 7 to, 2 sho, 9 go, 1 shaku - Shimo-Onaimenome Village
+1. Assessed yield: 240 koku, 3 to, 3 sho, 5 go - Mikawa Village
+1. Assessed yield: 390 koku, 1 to, 3 sho, 1 go - Ishitsuji Village
+
+[Kami-Gumishima Village (pronounced: Kami-gumishima-mura)]
+[Shimo-Gumishima Village (pronounced: Shimo-gumishima-mura)]

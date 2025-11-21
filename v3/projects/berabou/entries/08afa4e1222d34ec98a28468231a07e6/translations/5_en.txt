@@ -1,0 +1,20 @@
+[Mother's dialogue]
+If you act selfishly, I'll have the officials tie you up!
+
+[Child's dialogue]
+Mother, please give me some food.
+
+[Villager's dialogue]
+Even with just the fallen grain from the rice paddy ridges, we have plenty for a farmer's livelihood.
+
+[Official's dialogue]
+It won't be difficult to conduct inspections little by little - there's no need for a formal crop assessment.
+
+[Villager's dialogue]
+Would you call this an eight-tenths harvest, or a full ten-tenths yield? This year we have such an abundant harvest that even eight-tenths or ten-tenths cannot capture it.
+
+[Villager's dialogue]
+Let us increase our tax payments even more. We should even pay next year's taxes in advance.
+
+[Main text]
+A benevolent ruler has appeared, and Heaven itself seems to have responded in kind. Thus the five grains have become abundant, with women having surplus cloth and men having surplus millet - such is the nature of these times.

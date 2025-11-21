@@ -1,0 +1,8 @@
+Item: Assessed yield of 624 koku, 3 sho, 3 go　　　《Location: Imatake Village》
+Item: Assessed yield of 250 koku, 7 to, 2 sho, 8 go　　《Location: Nakanohara Village》
+Item: Assessed yield of 178 koku, 1 to, 7 sho, 7 go　　《Location: Hirao Village》
+Item: Assessed yield of 564 koku, 3 to, 7 sho　　　《Location: Okawachi Village》
+Item: Assessed yield of 355 koku, 2 to, 4 sho, 2 go　《Location: Yamakata Village》
+Item: Assessed yield of 177 koku, 9 to, 7 sho, 3 go　　《Location: Sotoo Village》
+Item: Assessed yield of 44 koku, 9 to, 7 go　　　　　《Location: Iwaya-kawachi Village》
+Item: Assessed yield of 13 koku, 3 to, 7 sho　　　　　《Location: Minamikawahara Village》

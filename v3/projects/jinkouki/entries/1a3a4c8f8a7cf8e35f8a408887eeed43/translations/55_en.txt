@@ -1,0 +1,22 @@
+▲A six-panel folding screen with height of 6 shaku and width of 2 shaku 1 sun. When placing 3-sun gold leaf entirely within the borders, how many pieces of leaf are needed?
+《Marginal note: 3-sun leaf》The answer is 752 pieces, 8 bu 8 rin.
+
+[Figure begins_Screen illustration]
+[Upper frame] 2 shaku 1 sun
+[Oze] Height 5 shaku 6 sun
+[Figure ends]
+
+First, multiply 2 shaku 1 sun by 6 to get 1 jō 2 shaku 6 sun. From this, subtract 5 sun for the vertical frames on both sides, leaving 1 jō 2 shaku 1 sun.
+Multiply by the height of 5 shaku 6 sun to get 6,776 tsubo. Divide this by 9 tsubo (the area of one 3-sun leaf) to get 752 pieces, 8 bu 8 rin.
+
+
+Shinpen Jinkōki Volume Middle - Table of Contents
+　Commercial calculation methods　　Square root method
+　Cube root method　　　　　　　　　Square root with bands
+　Circular square root method　　　　Circular cube root method
+　Basket cutting division　　　　　　Decorative land surveying
+　Lacquerware land surveying　　　　Construction division
+　Same volume measuring methods　　　Barrel and cask volume
+　Small and large buckets　　　　　　Timber division
+　Small pulling division　　　　　　　Roofing board volume
+　Hinoki cotton circulation　　　　　Bamboo circulation

@@ -1,0 +1,15 @@
+39 Please have a cup of tea.
+40 This tea is delicious and has an excellent flavor.
+41 I received it from a friend.
+42 If you would like some of it, please tell me, and I will supply you with it.
+43 I beg you to procure four or five catties (one catty equals 1¼ pounds).
+44 Very well, I will not neglect it - I will procure it for you.
+45 I am obliged to you.
+46 At your service.
+47 I believe you will soon prepare yourself for the voyage to Edo.
+48 Yes, it is true. Don't hesitate to tell me if you would like to make contracts for any goods at Osaka, Miyako, or Edo.
+49 I thank you for your kindness. I will give you a commission then.
+50 What goods do you desire?
+51 Really, I scarcely dare mention it to you, however I earnestly beg you to buy such and such goods for me at Osaka, and I will not fail to pay you upon your return.
+52 I will not forget it.
+53 I am very much obliged to you.

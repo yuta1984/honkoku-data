@@ -1,0 +1,8 @@
+One: Assessed rice yield 1,194 koku 8 to 5 sho 4 go 8 shaku 3 sai　《Location: Katae Village》
+One: Assessed rice yield 224 koku 4 to 5 sho 5 go　　　　　《Location: Nishi-Aburayama Village》
+One: Assessed rice yield 690 koku 3 to 2 sho 1 go　　　　　　《Location: Arae Village》
+One: Assessed rice yield 867 koku 4 to 3 sho 5 go 3 shaku　　　《Location: Yoshitake Village》
+One: Assessed rice yield 393 koku 5 to 1 sho 2 go 5 shaku　　　《Location: Ishigama Village》
+One: Assessed rice yield 1,292 koku 7 to 9 sho 8 go 1 shaku　　《Location: Nishi Village》
+One: Assessed rice yield 152 koku 3 to 9 sho 8 go 9 shaku　　　　《Location: Magabuchi Village》
+One: Assessed rice yield 1,114 koku 7 sho 4 go 9 shaku　　　　　　《Location: Uchino Village》

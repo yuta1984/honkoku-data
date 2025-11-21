@@ -1,0 +1,8 @@
+Item 1: Assessment 151 koku, 4 to, 8 sho, 8 go　　　《Location: Nakazato Shinden》
+Item 1: Assessment 149 koku, 7 to, 1 sho, 6 go　　　《Location: Noshio Village》
+Item 1: Assessment 33 koku　　　　　　　　　　　　《Location: Hibita Village》
+Item 1: Assessment 345 koku, 2 to, 3 sho, 9 go　　　《Location: Minami-Akitsu Village》
+Item 1: Assessment 42 koku, 9 to, 9 sho, 1 go　　　　《Location: Minami-Akitsu Shinden》
+Item 1: Assessment 702 koku, 8 to, 1 sho, 1 go　　　　《Location: Kumegawa Village》
+Item 1: Assessment 778 koku, 1 to, 6 sho, 5 go　　　　《Location: Noguchi Village》
+Item 1: Assessment 129 koku, 7 to, 4 sho, 4 go　　　　《Location: Noguchi Shinden》

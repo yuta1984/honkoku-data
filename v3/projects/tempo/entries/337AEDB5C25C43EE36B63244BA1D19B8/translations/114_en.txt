@@ -1,0 +1,8 @@
+《Location: Ito District》
+One: Assessed rice yield 3,022 koku 9 sho 7 go 5 shaku　　　　　　《Location: Ihara Village》
+One: Assessed rice yield 185 koku 7 to 6 sho 4 go　　　　　　　《Location: Zuibai-ji Village》
+One: Assessed rice yield 296 koku 1 to 6 sho 8 go　《Side note: Branch settlement of Zuibai-ji Village》《Location: Iharasan Village》
+One: Assessed rice yield 1,008 koku 2 sho 6 go 4 shaku　　　　　　　　　《Location: Saido Village》
+One: Assessed rice yield 220 koku 9 to 7 go　　　　　《Side note: Branch village of Saido Village》《Location: Kawahara Village》
+One: Assessed rice yield 645 koku 2 to 3 sho 5 go　　　　　　《Location: Senri Village》
+One: Assessed rice yield 1,480 koku 7 to 1 sho 2 go　　　　　　《Location: Takasu Village》

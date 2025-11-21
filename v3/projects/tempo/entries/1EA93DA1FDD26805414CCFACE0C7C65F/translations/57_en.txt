@@ -1,0 +1,8 @@
+Item 1: Assessment 511 koku, 1 to, 4 sho, 8 go, 8 shaku　　　　　《Location: Orimoto Village》
+Item 1: Assessment 498 koku, 1 to, 9 sho, 4 go, 5 shaku　　　　《Location: Higashikata Village》
+Item 1: Assessment 328 koku, 4 to, 5 go, 3 shaku　　　　　　《Location: Kawamukai Village》
+Item 1: Assessment 1,150 koku, 1 sho, 6 go, 6 shaku, 6 sai　　　　　《Location: Ikebe Village》
+Item 1: Assessment 545 koku, 8 to, 9 sho, 4 go, 3 shaku, 1 sai　《Location: Saedo Village》
+Item 1: Assessment 486 koku, 9 to, 4 sho, 6 go, 9 shaku　　　《Location: Kita-Hassaku Village》
+Item 1: Assessment 400 koku, 7 to, 5 go　　　　　　　　　　《Location: Kami-Yamoto Village》
+Item 1: Assessment 459 koku, 1 to, 8 sho, 6 go　　　　　《Location: Shimo-Tanimoto Village》
