@@ -1,0 +1,28 @@
+Principal: Unoshichi [seal]
+　　　　Guarantor: Hisauchi [seal]
+
+One: This person is from Mameda Village, Koma District, Kai Province
+　　Regular lodging house: Yahei
+　　　　Principal: Denbei [seal]
+　　　　Guarantor: Masuzaemon [seal]
+
+[Left page]
+One: This person is from Kaisiri Village, Saku District, Shinano Province
+　　Regular lodging house: Sanzaemon
+　　　　Principal: Hisaju [seal]
+　　　　Guarantor: Shinzo [seal]
+
+One: This person is from Iwamizu Village, Saku District, Shinano Province
+　　Regular lodging house: Goemon
+　　　　Principal: Genta [seal]
+　　　　Guarantor: Sakuzaemon [seal]
+
+One: This person is from Hachiman-kita Village, Yamanashi District, Shinano Province
+　　Regular lodging house: Rokuzaemon
+　　　　Principal: Kiemon [seal]
+　　　　Guarantor: Hyoshige [seal]
+
+One: This person is from Tsukagawa Village, Koma District, Kai Province
+　　Regular lodging house: Takezaemon
+　　　　Principal: Kitaro [seal]
+　　　　Guarantor: Kiuchi [seal]

@@ -1,0 +1,19 @@
+One: This person is from Wakamiko Village, Koma District, Kai Province
+　　　　　　Lodging house: Gengozaemon
+　　　　　　Principal: Yoshizaemon (seal)
+　　　　　　Guarantor: Kinbei (seal)
+
+One: This person is from Shimakami-jo Village, Koma District, Kai Province
+　　　　　　Lodging house: Shinbei
+　　　　　　Principal: Choshiro (seal)
+　　　　　　Guarantor: Saburoemon (seal)
+
+One: This person is from Kokufu Village, Yamanashi District, Kai Province
+　　　　　　Lodging house: Kichizo
+　　　　　　Principal: Torazo (seal)
+　　　　　　Guarantor: Genhachi (seal)
+
+One: This person is from Wakamiko Village, Koma District, Kai Province
+　　　　　　Lodging house: Gengozaemon
+　　　　　　Principal: Hikota (seal)
+　　　　　　Guarantor: Kinbei (seal)

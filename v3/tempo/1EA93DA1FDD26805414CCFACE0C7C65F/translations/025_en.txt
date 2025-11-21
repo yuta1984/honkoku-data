@@ -1,0 +1,8 @@
+Item 1: Assessment 335 koku, 3 sho, 7 go　　　《Location: Unoki Village》
+Item 1: Assessment 254 koku, 8 sho, 9 go　　　《Location: Shimomaruko Village》
+Item 1: Assessment 436 koku, 4 to, 5 sho, 8 go　　《Location: Yaguchi Village》
+Item 1: Assessment 233 koku, 4 sho, 7 go, 5 shaku　　《Location: Imaizumi Village》
+Item 1: Assessment 319 koku, 4 to, 4 sho, 9 go　　《Location: Furuichiba Village》
+Item 1: Assessment 253 koku, 3 to, 8 sho, 5 go　　　《Location: Hara Village》
+Item 1: Assessment 222 koku, 5 to, 3 sho, 4 go　　《Location: Yasukata Village》
+Item 1: Assessment 162 koku, 4 to　　　　　　《Location: Ichinokura Village》

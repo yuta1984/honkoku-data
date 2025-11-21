@@ -1,0 +1,12 @@
+One assessed yield: 362 koku 8 to　　　　　　　　　　Ichiīda Village
+One assessed yield: 59 koku 7 sho 5 go　　　　　　　　Kanbōda Village
+One assessed yield: 376 koku 7 to 3 sho　　　　　　　　Kanezawa Village
+One assessed yield: 739 koku　　　　　　　　　　　　　Hori Village
+One assessed yield: 428 koku 2 to 7 sho 7 go　　　　　　Taguchi Village
+One assessed yield: 141 koku 9 to 5 sho 2 go　　　　　　Narahara Village
+One assessed yield: 169 koku 7 to　　　　　　　　　　　Sugata Village
+One assessed yield: 932 koku 2 to 5 sho　　　　　　　　Higashino Village
+
+[Note from the National Museum of Japanese History's Database of Former Yields and Domains: "Kambōda Village" is recorded as "Kanbōda Village" (上保田村)]
+[Note from the National Museum of Japanese History's Database of Former Yields and Domains: "Narahara Village" is recorded as "Narahara Village" (楢原村)]
+[Note from the National Museum of Japanese History's Database of Former Yields and Domains: "Higashi-no Village" is not recorded. This may refer to "Takehara Higashino Village" (竹原東野村) with an assessed yield of over 905 koku]

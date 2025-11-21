@@ -1,0 +1,8 @@
+One village with a kokudaka of 432 koku, 8 to, 4 sho, 1 go, 3 shaku: Igami Village
+One village with a kokudaka of 399 koku, 3 to, 8 sho, 9 go, 8 shaku: Taroji Village
+One village with a kokudaka of 270 koku, 8 to, 2 sho, 9 go, 6 shaku: Shioi Village
+One village with a kokudaka of 506 koku, 6 to, 7 sho, 8 go, 2 shaku: Tsuchiyahara Village
+One village with a kokudaka of 700 koku, 9 to, 3 sho, 2 go, 3 shaku: Sugano Village
+One village with a kokudaka of 1,062 koku, 9 to, 1 sho, 1 go, 7 shaku: Kamisue Village
+One village with a kokudaka of 112 koku, 5 to, 7 sho: Shimomiyaoku Village
+One village with a kokudaka of 94 koku, 1 to, 3 sho: Kamimiyaoku Village (a branch village of Shimomiyaoku Village)

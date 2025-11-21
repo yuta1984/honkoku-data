@@ -1,0 +1,8 @@
+Item 1: Assessment 160 koku, 6 to, 5 sho, 4 go　　　　　　　　　　《Location: Shio Village》
+Item 1: Assessment 218 koku, 8 to, 1 sho, 3 shaku, 4 sai　　　　　　《Location: Itai Village》
+Item 1: Assessment 106 koku, 2 to, 8 sho, 1 go　　　　　　　　　　　《Location: Shiba Village》
+Item 1: Assessment 164 koku, 2 sho, 8 go　　　　　　　　　　《Location: Chiyo Village》
+Item 1: Assessment 303 koku, 9 to, 8 sho, 8 go　　　　　　　《Location: Honda Shinden Village》
+Item 1: Assessment 1,270 koku, 8 to, 6 sho, 5 go, 8 shaku, 2 sai　　　《Location: Honda Village》
+Item 1: Assessment 124 koku, 7 to, 9 sho, 9 go, 7 sai　　　　　《Location: Nishi-Kosato Village》
+Item 1: Assessment 159 koku, 8 to, 4 sho, 8 go　　　　　　　《Location: Takanasu Village》

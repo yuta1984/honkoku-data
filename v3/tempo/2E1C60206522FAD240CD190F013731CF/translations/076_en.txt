@@ -1,0 +1,8 @@
+One village with a kokudaka of 429 koku, 6 to, 5 sho, 2 go: Kosaka Village
+One village with a kokudaka of 469 koku, 3 to, 1 sho, 3 go: Kagi Village
+One village with a kokudaka of 714 koku, 7 to, 8 sho, 7 go: Karako Village
+One village with a kokudaka of 985 koku, 5 to, 1 sho, 7 go: Hatta Village
+One village with a kokudaka of 579 koku, 9 to, 8 sho, 5 go: Daianji Village
+One village with a kokudaka of 181 koku, 5 to, 8 sho, 6 go: Hirata Village
+One village with a kokudaka of 356 koku, 7 to, 8 sho, 3 go: Higashi-Inoue Village
+One village with a kokudaka of 368 koku, 8 to, 5 sho, 5 go: Nishi-Inoue Village (branch village of Higashi-Inoue Village)

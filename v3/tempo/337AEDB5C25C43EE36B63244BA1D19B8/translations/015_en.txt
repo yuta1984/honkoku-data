@@ -1,0 +1,8 @@
+《Location: Munakata District》
+One: Assessed rice yield 194 koku 3 sho　　　　　　　　《Location: Sharizo Village》
+One: Assessed rice yield 1,780 koku 7 to 5 sho 7 go 2 sai　《Location: Motoki Village》
+One: Assessed rice yield 330 koku 9 to 4 sho 6 go　　　　《Location: Unemachi Village》
+One: Assessed rice yield 1,022 koku 3 to 7 sho 5 go　　　　《Location: Uchitono Village》
+One: Assessed rice yield 678 koku 9 to 1 sho 2 go　　　《Location: Torisu Village》
+One: Assessed rice yield 371 koku 8 to 5 shaku　　　　　《Location: Hisasue Village》
+One: Assessed rice yield 1,029 koku 3 sho 6 go 4 shaku　　　　《Location: Tsumaru Village》

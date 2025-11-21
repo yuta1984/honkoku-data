@@ -1,0 +1,39 @@
+82　　　　　　　　　　　Chapter One　　　　　　　　　　　　
+――――――――――――――――――――――――――――――――――
+prophylactic vaccination methods can become dangerous. According to Dopter, when used on patients or carriers during the incubation period of dysentery, this prophylactic vaccination merely promotes dysentery infection.
+
+In summary, prophylactic vaccination of laboratory animals with dead bacteria encounters the dangers of local and systemic symptoms; this method causes fatal toxic symptoms in half the cases; immunity appears on the 12th-15th day; during the incubation period, prophylactically vaccinated animals enter a state of reduced resistance, and finally, immunity lasts only 4-6 weeks.
+
+Facts similar in all respects were confirmed by Dopter during prophylactic vaccination with bacterial autolytic products. Therefore, none of these methods should be implemented in humans, especially during epidemics. For this reason, Dopter conceived the idea of attempting a prophylactic vaccination method using sensitized viruses.
+
+Here are a few techniques: dysentery bacteria are mixed with dysentery prophylactic serum. The mixture is left at laboratory temperature for 12 hours. After several hours, the bacteria aggregate and become sensitized, settling to the bottom of the test tube. The supernatant is decanted; the bacterial precipitate is washed several times with physiological saline, and then the sensitized bacteria are suspended in physiological saline.
+
+Experiments show that dysentery prophylactic vaccine thus prepared is completely harmless: "mice" that withstood amounts equivalent to a hundred times the usual lethal dose of bacteria showed no weight loss and exhibited no recognizable minimal harm.
+
+Regarding prophylactic vaccination efficacy, we know nothing better than stating Dopter's conclusions:
+
+"1° Vaccines from sensitized bacteria have no toxicity at all; they also cause no local or systemic reactions;
+
+2° 'Mice' prophylactically vaccinated with sensitized bacteria acquire anti-dysentery immunity on the 4th day in most cases; however, some do not appear until the 5th day;
+
+3° During the immune formation period, these animals are not more susceptible to lethal dose measurement tests than controls;
+
+4° The acquired immunity continues for at least 4 and a half months."
+
+We again recognize in dysentery prophylactic vaccines the characteristic
+
+　　　　　　　　　　Chapter One　　　　　　　　　　　　　　83
+――――――――――――――――――――――――――――――――――
+4 properties of sensitized vaccines: namely, lack of toxicity, and reliable, rapid, and persistent immunity.
+
+Dopter states: "In all respects this new method appears decidedly superior to all previously offered methods... there is no negative phase... If this method is used in human group life in the future, and further used during epidemics, this point is the most important consideration from a practical implementation standpoint."
+
+　　　　　　　　　　＊　　＊　　＊
+
+Until now we have dealt with sensitized vaccines prepared with viable or dead bacteria in tangible form; what remains for us to describe is vaccines made with "diphtheria" toxin.
+
+The preparation method was that generally used for sensitized vaccines. It began by creating a mixture of "diphtheria" toxin and anti-"diphtheria" serum. Since it is almost impossible to centrifuge this mixture and remove excess serum, care must be taken to add exactly the strictly necessary amount of serum to neutralize the toxin. After allowing this mixture to contact for several hours as in the case of solid bacteria, prophylactic vaccination was performed. Toxin permeated with antitoxin should be regarded as a type of "diphtheria" prophylactic sensitized vaccine.
+
+It was Theobald Smith who held this last idea. In preparing it, there is no doubt that initially he considered nothing other than realizing a true sensitized "vaccine."
+
+In mixing definite amounts of toxin and antitoxin, based on the doctrine of avoiding the minimal excess of serum that we indicated, Th. Smith obtained a substance that was not only absolutely harmless but also had remarkable prophylactic efficacy. The difficult point is reaching precise sensitization of the toxin: that is, one must add serum that is neither too much nor too little. If too much serum is added, immunity is short in duration, as when excess anti-"typhus" serum cannot be removed from "typhus" prophylactic "vaccine." If too little serum is added, the mixture causes local symptoms, often extremely severe ones. Therefore, there is a strict need for anti-"diphtheria" serum

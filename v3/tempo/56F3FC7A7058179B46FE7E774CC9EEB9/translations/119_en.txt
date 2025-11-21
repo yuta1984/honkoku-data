@@ -1,0 +1,8 @@
+Item: Assessed yield of 124 koku, 1 to, 1 sho, 9 go　　　《Location: Tsutsumi Village》
+Item: Assessed yield of 430 koku, 4 to, 9 sho, 9 go　　　《Location: Oshima Village》
+Item: Assessed yield of 338 koku, 1 to, 6 sho, 6 go　　　《Location: Nishi-Uto Village》
+Item: Assessed yield of 450 koku, 2 to, 7 sho　　　　　　《Location: Daikon-zaka Village》
+Item: Assessed yield of 453 koku, 3 to, 9 sho, 1 go　　　《Location: Tana Village》
+Item: Assessed yield of 291 koku, 1 to, 7 sho, 7 go　　　《Location: Takushima》
+Item: Assessed yield of 636 koku, 4 to, 2 go　　　　　　　《Location: Ikizoku Village》
+Item: Assessed yield of 1,317 koku, 3 to, 6 sho, 6 go　　《Location: Yamada Village》

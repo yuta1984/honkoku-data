@@ -1,0 +1,8 @@
+One, assessed yield: 1,966 koku, 7 to, 3 shō　　　　《Location: Otaka Village》
+One, assessed yield: 35 koku, 4 to, 5 shō, 3 gō　《Note: 《Location: Otaka Village Shinden》》《Location: Fukutomi Village》
+One, assessed yield: 202 koku, 4 to, 2 shō, 4 gō　《Note: 《Location: Otaka Village Shinden》》《Location: Izumi Village》
+One, assessed yield: 215 koku, 7 shō, 2 gō　　　　　　《Location: Okanari Village》
+One, assessed yield: 1,151 koku, 2 to, 5 shō, 5 gō　　　《Location: Kusaka Village》
+One, assessed yield: 418 koku, 9 to, 7 shō, 3 gō　　　　《Location: Fukuman Village》
+One, assessed yield: 73 koku, 7 to, 4 shō, 9 gō　《Note: 《Location: Fukuman Village Shinden》》《Location: Fukuoka Village》
+One, assessed yield: 360 koku, 9 to, 1 shō, 1 gō　　　　《Location: Ishishufu Village》

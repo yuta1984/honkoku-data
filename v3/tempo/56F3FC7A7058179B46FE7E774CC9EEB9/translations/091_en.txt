@@ -1,0 +1,9 @@
+Item: Assessed yield of 53 koku, 9 to, 1 sho, 8 go　　　《Location: Nitanoo Village》
+Item: Assessed yield of 108 koku, 5 to, 4 go　　　　　　《Location: Zakouchi Village》
+《Note: ｜Formerly《Location: Saotabe Village》》
+Item: Assessed yield of 822 koku, 6 to, 3 sho　　　《Location: Mutabe Village》
+Item: Assessed yield of 217 koku, 6 to, 5 sho　　　　《Location: Kubo Village》
+Item: Assessed yield of 689 koku, 3 to, 7 sho, 6 go　《Location: Sari Village》
+Item: Assessed yield of 349 koku, 7 to, 9 sho, 7 go　《Location: Nakayama Village》
+Item: Assessed yield of 163 koku, 7 to, 7 sho, 7 go　　《Location: Yokomakura Village》
+Item: Assessed yield of 210 koku, 8 to, 1 sho, 6 go　　　《Location: Senzuka Village》

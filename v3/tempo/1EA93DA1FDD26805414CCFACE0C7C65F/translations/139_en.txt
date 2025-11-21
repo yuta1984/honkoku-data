@@ -1,0 +1,8 @@
+Item 1: Assessment 167 koku, 1 sho, 5 go　　　　《Location: Tōmyōji Village》
+Item 1: Assessment 118 koku, 5 to, 5 sho　　　　《Location: Kokubo Village》
+Item 1: Assessment 896 koku, 3 to, 3 sho, 4 go　　《Location: Imanari Village》
+Item 1: Assessment 402 koku, 7 to, 4 sho, 3 go　　《Location: Komuro Village》
+Item 1: Assessment 723 koku, 5 to, 4 sho, 2 go　　《Location: Kogaya Village》
+Item 1: Assessment 535 koku, 2 to, 8 sho　　　《Location: Kamiterayama Village》
+Item 1: Assessment 334 koku, 9 to, 2 sho　　　《Location: Nakaterayama Village》
+Item 1: Assessment 310 koku, 2 to, 6 sho　　　《Location: Shimoterayama Village》

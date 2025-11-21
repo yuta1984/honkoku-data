@@ -1,0 +1,8 @@
+1. Assessed rice yield: 103 koku, 4 to, 4 sho, 9 go　　　　《Location: Toyoda Village》
+1. Assessed rice yield: 237 koku, 7 to, 4 go　　　　　　　《Location: Chichii Village》
+1. Assessed rice yield: 82 koku, 1 sho, 5 go　　　　　　　《Location: Tai Village》
+1. Assessed rice yield: 236 koku, 1 to, 6 sho, 8 go　　　《Location: Fuse Village》
+1. Assessed rice yield: 336 koku, 9 to, 5 sho, 4 go　　　《Location: Saki Village》
+1. Assessed rice yield: 247 koku, 6 sho, 1 go　　　　　　《Location: Fukui Village》
+　Subtotal: Assessed rice yield 2,465 koku, 5 to, 1 sho, 5 go
+　　　　　　　　　　《Location: Ama District》　8 villages

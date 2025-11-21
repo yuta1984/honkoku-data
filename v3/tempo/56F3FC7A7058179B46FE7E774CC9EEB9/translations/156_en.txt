@@ -1,0 +1,8 @@
+Item: Assessed yield of 282 koku, 9 to, 3 sho, 9 go　　《Location: Nakakuma Village》
+Item: Assessed yield of 124 koku, 5 to, 6 sho, 5 go　　《Location: Shioda Town》
+Item: Assessed yield of 636 koku, 9 to, 4 sho, 6 go　　《Location: Babashita Village》
+Item: Assessed yield of 797 koku, 1 to, 7 sho, 4 go　　《Location: Kamikuma Village》
+Item: Assessed yield of 238 koku, 3 to, 1 sho, 6 go　　《Location: Shida Village》
+Item: Assessed yield of 371 koku, 6 to, 5 go　　　　　《Location: Minami-Okusano Village》
+Item: Assessed yield of 377 koku, 2 to, 6 sho, 3 go　　《Location: Kita-Okusano Village》
+Item: Assessed yield of 236 koku, 2 to, 5 sho, 8 go　　《Location: Fuyuno Village》

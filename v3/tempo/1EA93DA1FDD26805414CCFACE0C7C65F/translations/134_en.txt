@@ -1,0 +1,8 @@
+Item 1: Assessment 110 koku, 3 to, 9 go　　　　　　　《Location: Kawasaki Village》
+Item 1: Assessment 836 koku, 7 to, 9 sho, 7 go　　《Location: Fukuoka Village》
+Item 1: Assessment 182 koku, 3 to, 1 sho, 8 go　　《Location: Fukuoka Shinden》
+Item 1: Assessment 434 koku, 3 to, 1 sho, 4 go　　《Location: Shibui Village》
+Item 1: Assessment 453 koku, 6 to, 4 sho, 4 go　《Location: Furuichiba Village》
+Item 1: Assessment 315 koku, 5 to, 8 sho　　　　《Location: Kinome Village》
+Item 1: Assessment 282 koku, 3 to, 6 sho　　　　《Location: Imaizumi Village》
+Item 1: Assessment 131 koku, 5 to, 8 go　　　　　《Location: Ushiko Village》

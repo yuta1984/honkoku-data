@@ -1,0 +1,14 @@
+see it. People under the tropic lines see the sun directly overhead once a year. People living in the temperate and frigid zones always see the sun obliquely and never see it directly overhead. People under both poles see the sun continuously on the horizon for half a year, and do not see it at all for the other half year.
+
+The cold and warmth of each of the five zones differs between the climate of heaven ("Luftstreken") and the climate of earth ("Landstreken"), and the climate of earth shall not be discussed for now.
+
+Longitude Table
+Between the ecliptic and both poles there are nine longitude circles each.
+
+As one approaches the poles, their length gradually decreases. However, since all are divided into 360 degrees, the length of each degree is also necessarily different. Now, I have created a small table to know the length of longitude according to latitude, shown on the left.
+
+(Ecliptic) One degree of longitude: 15 ri by German road measurement
+(10th degree of latitude) One degree of longitude: 14 ri 7 bu 7 rin 8
+(20th degree of latitude) One degree of longitude: 13 ri 1 bu 1 rin
+(30th degree of latitude) One degree of longitude: 12 ri 9 bu 8 rin 32
+(40th degree of latitude) One degree of longitude: 11 ri 9 bu 6 rin 14

@@ -1,0 +1,30 @@
+51 C'est bon, je ferai comme vous desirez.
+52 Ne voulez vous  pas encore boire un coup?
+53 Non, j'ai bu assez.
+54 Ne voulez vous pas souper?
+55 Non, je vous suis oblige, le Saki m' echauffe.
+56 Ne pouvez vous pas souper apres boire?
+ 57 Je ne soupe jamais apres avoir bu beaucoup.
+58 Ce n'est pas bon, pour  l'estomac
+59 Je crois que c'est vrai: je m'en vais.
+60 Je suis tres charme d'avoir cause  aujourdhui
+si longtems avec vous.
+61 Je vous suis oblige de votre bon  acceuil.
+62 Ayez la bonte d'etre demain de bonne heure
+chez moi avec N.
+63 Bon, je vous souhaite une  bonne nuit.
+64 Moi de meme,  portez vous bien.
+  　　Quatrieme Dialogue
+ 　Avec un Ami qu'on n'a pas vu depuis
+　　　　　　longtems.
+1 je viens vous voir.
+2  Ha! soyez le bienvenue mon bon ami.
+3 Comment vous  va t'il?
+4 Je me trouve toujours bien.
+5 C'est bien heureux. 
+6 Pourquoi n'etes vous pas venu me voir depuis 
+si longtems.
+7 J'ai ete malade depuis longtems.
+8 Est ce vrai?
+9 Oui, vraiment.
+10 Ou ne m'en a  rien dit, c'est  pourquoi je ne le savais pas.

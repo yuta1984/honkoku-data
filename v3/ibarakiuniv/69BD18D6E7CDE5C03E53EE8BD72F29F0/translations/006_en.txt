@@ -1,0 +1,23 @@
+12th Day: Clear skies from morning, overcast sky after the fourth hour (around 10 AM)
+[Note: 32 degrees]
+
+13th Day: Snow fell from evening, snow stopped from the fourth hour (around 10 PM), snow fell again after nightfall
+[Note: 34 degrees]
+
+14th Day: Snow fell from evening, stopped from the ninth hour (around 12 PM), snow fell again after nightfall
+[Note: 35 degrees]
+
+15th Day: Cloudy from morning, light snow fell at night
+[Note: 35 degrees]
+
+Edo first ledger initial market prices:
+- Old-new: 3 tan 8 bu 5 rin / Old-new: 3 tan 4 bu
+- Reform: 4 tan 2 bu / Reform: 3 tan 9 bu
+- Mamei: 5 tan 1 bu / Mei: 4 tan 7 bu 5 rin
+- Tsukuri: 5 tan 7 bu / Tsukuri: 5 tan 2 bu
+- Fifth class: 4 tan 3 bu / Famous white fifth class: 3 tan 9 bu
+- Suzuka: 4 tan 6 bu / Suzuka: 4 tan 2 bu
+- Narawa: 4 tan 7 bu / Narawa: 4 tan 3 bu
+- Kumoi: 4 tan 7 bu 5 rin / Kumoi: 4 tan 4 bu
+Note: Upper [price] 3 bu higher
+Bottom 2 bu 5 rin higher / Commission: 1, 5 bu premium

@@ -1,0 +1,8 @@
+One, assessed yield: 275 koku, 1 to, 9 sho, 4 go　　　　　《Location: Yoshihara Village》
+One, assessed yield: 249 koku, 6 to, 6 sho, 4 go　《Note: Formerly《Location: Kirikawa Village》》《Location: Kirikawa Village》
+One, assessed yield: 5 koku　　　　　　　　　　　　　　　《Location: Kuragari Pass Tea House》
+One, assessed yield: 558 koku, 6 to, 6 sho, 7 go　　　　　《Location: Shiba Village》
+One, assessed yield: 169 koku, 2 to, 6 go　　　　　　　　《Location: Kaminami Village》
+One, assessed yield: 273 koku, 7 to, 6 sho, 9 go　《Note:《Location: Kaminami Village》within》《Location: Shiba-Kaminami Village》
+One, assessed yield: 1,042 koku, 4 to, 7 sho, 9 go　　　　　《Location: Nukada Village》
+One, assessed yield: 280 koku, 9 to, 1 sho, 5 go　　　　　《Location: Imakome Village》

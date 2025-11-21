@@ -1,0 +1,8 @@
+Item 1: Assessment 229 koku, 9 to, 4 sho, 9 go　　　　　《Location: Hasunuma Village》
+Item 1: Assessment 341 koku, 5 to, 3 sho, 6 go　　　　　《Location: Tokumochi Village》
+Item 1: Assessment 425 koku, 6 to, 1 go　　　　　　　《Location: Tsutsumigata Village》
+Item 1: Assessment 1,657 koku, 6 to, 8 sho, 2 go, 4 shaku　　《Location: Oi Village》
+Item 1: Assessment 576 koku, 1 to, 7 sho, 4 go　　　　《Location: Fuirito Village》
+Item 1: Assessment 936 koku, 7 to, 9 go, 3 shaku　　　　《Location: Araijuku Village》
+Item 1: Assessment 426 koku, 1 to, 9 sho, 8 go　　　　《Location: Nishi-Omori Village》
+Item 1: Assessment 198 koku, 4 to, 6 sho, 8 go　　　　　　《Location: Onnazuka Village》

@@ -1,0 +1,14 @@
+1. Assessed yield: 97 koku, 2 to, 8 sho, 7 go - Nakayama Village
+1. Assessed yield: 344 koku, 4 to, 1 sho, 3 go - Kawata Village
+　　　　　　　　　　　　　　　(Formerly Yamaya Village)
+1. Assessed yield: 297 koku, 9 to, 8 sho, 2 go - Yamaya Village
+1. Assessed yield: 297 koku, 4 to, 2 sho, 4 go - Ogitani Village
+1. Assessed yield: 139 koku, 7 to, 8 sho, 4 go - Yanagigasaki Village
+1. Assessed yield: 253 koku, 9 to, 9 sho, 2 go - Takadera Village
+1. Assessed yield: 188 koku, 9 sho - Amidase Village
+　　　　　　　　　　　　　　　(Formerly Kanaya Village)
+1. Assessed yield: 203 koku, 8 to, 2 sho, 1 go - Kanaya Village
+
+[In the National Museum of Japanese History's database, there is no Nakayama Village, but there are Kami-Nakayama Village and Shimo-Nakayama Village. Among these, the assessed yield of Shimo-Nakayama Village matches the assessed yield for Nakayama Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Kawata Village. The combined assessed yield of these 2 locations matches the assessed yield for Kawata Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Yamaya Village. The combined assessed yield of these 2 locations matches the assessed yield for Yamaya Village recorded here.]

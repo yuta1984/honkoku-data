@@ -1,0 +1,38 @@
+[Right page]
+　　《Shimo-haha》
+　　　Pine and mixed forest 1 tan 6 se　《Gonkurō & Shōtarō, Shichinonjō & Chōzō, Shōhachi & Rokubē, Shichibē & Rokuzaemon, Kyūnonjō & Yoshirō, Gonzaburō & Kisaburō, Anbē & Shōsuke, Yogoemon & Chōbē》
+
+　　《Miya-no-ue》
+　　　Pine forest 1 tan　　　　　Saburōbē
+
+　　《Mura-no-ue》
+　　　Grassland mountain 4 tan　　　《Kaemon, Kyūzaemon, Iemon》
+
+　　《Kure-oke-haha》
+　　　Mixed forest 6 se　　　　　《Yogoemon, Heizaburō, Gonnosuke》
+
+　　　　　　Tax-exempt land
+
+　　　　　　　　　　《Under jurisdiction of Iyo-no-kami》
+One shrine land 1 tan 2 se 24 bu　　　Kumano Gongen
+　　　　　　　　　　　　　　　　　Shrine building exists
+
+[Left page]
+　　　　　　　　　　《Maintained by the village》
+One temple land 1 tan 20 bu　　　　　Yakushi Nyorai
+　　　　　　　　　　　　　　　　　Temple building exists
+　　　　　　　　　　《Under jurisdiction of Iyo-no-kami》
+One shrine land 7 tan 12 bu　　　　　Suwa Daimyōjin
+　　　　　　　　　　　　　　　　　Shrine building exists
+
+One wasteland 1 tan 16 bu　　　　　　Village-owned
+
+One scattered land 3 tan 7 se 26 bu
+　　　Breakdown:
+　　《Miyamae》
+　　　6 bu　　　　　　　　　Saburōbē
+　　《Same location》
+　　　1 se 10 bu　　　　　　Izaemon
+　　《Same location》
+　　　6 bu　　　　　　　　　Yajiemon
+　　　　　　　　　　17 [written in red]

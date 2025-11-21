@@ -1,0 +1,8 @@
+One: Assessed rice yield 901 koku 2 to 1 sho 4 go 6 shaku 2 sai　　　　《Location: Shiinoki Village》
+One: Assessed rice yield 1,563 koku 8 to 3 sho 5 shaku 3 sai　　　《Location: Saigo Village》
+One: Assessed rice yield 1,210 koku　　　　　　　　　《Note: Branch village of Saigo Village》《Location: Kamisaigo Village》
+One: Assessed rice yield 230 koku　　　　　　　　　《Note: Branch village of Saigo Village》《Location: Mitsuyo Village》
+One: Assessed rice yield 1,469 koku 8 to 6 sho 3 go 4 shaku 7 sai　《Location: Kamiusui Village》
+One: Assessed rice yield 130 koku　　　　　　　　　《Note: Branch village of Kamiusui Village》《Location: Hirahara Village》
+One: Assessed rice yield 1,231 koku 2 to 6 sho 7 shaku　　　　　《Location: Hirayama Village》
+One: Assessed rice yield 551 koku 8 to 6 go 6 shaku　　　　　　《Location: Izumikawachi Village》

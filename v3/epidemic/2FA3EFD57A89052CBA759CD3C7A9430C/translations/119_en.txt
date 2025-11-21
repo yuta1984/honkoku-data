@@ -1,0 +1,29 @@
+212　　　　　　Role of Mordants in Infection and Immunity
+――――――――――――――――――――――――――――――――――
+defense systems can be reduced to zero. The flash of a razor, moist bandages that cause epithelial swelling, vigorous rubbing create a receptive state for viruses that had maintained silence until that moment. Similar results can be caused by products that can act on intestinal epithelium or by swallowing harmless bacteria. When natural immunity is damaged, cells of the skin or digestive tract are then easily invaded; sometimes adjacent bacteria attack them, and sometimes bacteria from the external environment become the cause of infection. Local lesions occur, followed by systemic infection.
+
+It is well known that tetanus bacilli and gas gangrene bacilli exist frequently in the external environment and, therefore, also in our intestinal tract. As long as skin or mucous membranes are healthy, they can do nothing. However, if there are even slight lacerations or contusions, crushed cells become an extremely favorable culture medium for these bacteria, and there is doubt that the most serious disasters will occur.
+
+Sudden cold, burns, or corrosion by chemicals, when accompanied by bacteria, become factors that weaken the natural resistance of cells. We recall Metchnikoff's old experiments on the significance of bacteria that promote cholera, as well as recent experiments on infections caused by accompanying anaerobic bacteria.
+
+Organic defects, physiological deprivation, intoxication, anesthetics, analgesics, nervous impulses—in short, extremely various causes can place cells in an inferior state and open extremely large gates to infection. In some cases, toxins secreted locally provide a fuse to bacteria and promote general infection. Many people tend to believe that in nature, there is no infection that is not preceded by physical or chemical alterations. Moreover, when we wish to cause infection experimentally, it is entirely natural to ask whether we should use mordants to imitate nature.
+
+Starting from this idea, in experiments on intestinal infections we used bile, and for those concerning skin we attempted to sensitize (alter) the skin by rubbing or hair removal.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+During research on experimental typhus infection, first in anthropoid apes, in collaboration with my teacher Metchnikoff, and later in rabbits, our attention was drawn to two facts:
+
+　　　　　Role of Mordants in Infection and Immunity　　　　　　　　　213
+――――――――――――――――――――――――――――――――――
+the main part of the lesions is located in the intestinal wall, and the selective distribution of the virus follows the intestinal bile ducts. From these findings, anthropoid apes and rabbits not only simply resemble each other but show true agreement anatomically and bacteriologically. Their difference, and absolute difference, is only in their susceptibility to orally ingested virus. Large apes, gibbons, or monkeys become ill after swallowing typhus bacilli; rabbits do not become ill at all with this inoculation method. How many times did we attempt to make rabbits, guinea pigs, and various lower monkeys ill by having them swallow large amounts of typhus material! This was futile. In these attempts, we could never obtain even the slightest symptoms of typhus infection.
+
+While laboratory animals are insusceptible by the oral route, they do not exclude susceptibility when administered by other routes, especially intravenously or intraperitoneally. Therefore, what we thought was that a barrier must exist in the gastrointestinal tract that prevents the virus from invading the host. This barrier should be represented, as we have said, by a mucous layer that covers the intestinal wall and comes to be inserted between the swallowed virus and the susceptible cells of the intestine. If this hypothesis is true, we must be able to remove this barrier and cause susceptibility to swallowed virus to appear in laboratory animals.
+
+Therefore, the problem to be solved is to find a substance that causes epithelial detachment in rabbits without causing significant changes in their physiological functions. Our choice, as is known, rests on ox bile. This substance alters the intestinal wall when swallowed in large amounts, but is completely harmless in small quantities. We also thought that bile administered a little before the virus creates a path for this virus and allows it to easily approach susceptible cells. The experiments confirmed our expectations.
+
+　　　　　　　　　　　＊　　＊　　＊
+
+Experiments show that in rabbits treated with bile, the infectious state resembles in all respects that once recognized in anthropoid apes.
+
+Therefore, for the entire organism to react and for its systemic immunity to succumb to the point where amounts of virus harmless to normal animals become lethal to sensitized animals,

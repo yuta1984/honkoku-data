@@ -1,0 +1,8 @@
+One village with a kokudaka of 131 koku, 4 to, 4 sho, 5 go: Togo Village
+One village with a kokudaka of 102 koku, 7 to, 5 sho, 4 go, 4 shaku: Iritani Village
+One village with a kokudaka of 621 koku, 2 to, 7 sho, 4 shaku: Uchimaki Village
+One village with a kokudaka of 102 koku, 8 to, 6 sho, 7 go, 7 shaku: Morokino Village
+One village with a kokudaka of 210 koku, 1 to, 1 sho, 3 go, 9 shaku: Kamiakahane Village
+One village with a kokudaka of 271 koku, 2 to, 9 sho, 8 go, 4 shaku: Shimoakahane Village (branch village of Kamiakahane Village)
+One village with a kokudaka of 343 koku, 4 to, 1 sho, 4 go, 1 shaku: Takai Village
+One village with a kokudaka of 353 koku, 6 to, 9 sho, 8 go, 5 shaku: Jimyo Village (branch village of Takai Village)

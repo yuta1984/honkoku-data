@@ -1,0 +1,8 @@
+1. Assessed yield: 119 koku, 2 to, 3 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Arao village
+1. Assessed yield: 39 koku, 5 to, 1 sho　　　　　　　　　　　　　　　　　　　　　　　　　Shiotsu village
+1. Assessed yield: 101 koku, 3 to, 6 sho, 2 go　　　　　　　　　　　　　　　　　　　　　　Nishimichi village
+1. Assessed yield: 94 koku, 7 to, 6 sho, 6 go　　　　　　　　　　　　　　　　　　　　　　Higashimichi village
+1. Assessed yield: 86 koku, 3 to, 4 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Hagidaira village
+1. Assessed yield: 80 koku, 3 to, 2 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Oshiro village
+1. Assessed yield: 43 koku, 9 to, 3 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　Oshiro village
+1. Assessed yield: 43 koku, 2 to, 5 go　Branch village of Oshiro village　　　　　　　　　Furutome village

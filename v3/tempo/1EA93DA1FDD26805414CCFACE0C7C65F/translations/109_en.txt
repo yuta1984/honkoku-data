@@ -1,0 +1,8 @@
+Item 1: Assessment 182 koku, 7 sho, 7 go　　　　　《Location: Tomihara Village》
+Item 1: Assessment 109 koku, 1 to, 9 sho, 8 go　　　《Location: Irino Village》
+Item 1: Assessment 312 koku, 4 to, 5 go　　　　《Location: Itsukaichi Village》
+Item 1: Assessment 107 koku, 8 to, 3 sho, 2 go　　　《Location: Kowada Village》
+Item 1: Assessment 84 koku, 1 to, 6 sho　　　　　《Location: Konakano Village》
+Item 1: Assessment 262 koku, 3 to, 7 sho, 8 go　　　《Location: Tokura Village》
+Item 1: Assessment 133 koku, 3 to, 8 sho, 8 go　　　《Location: Tokura Shinden》
+Item 1: Assessment 30 koku, 6 to　　　　　　　　《Location: Hitomi Shinden》

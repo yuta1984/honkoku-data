@@ -1,0 +1,25 @@
+【ページ番号】1
+　　　　Catalogue
+　　　des Livres Japonais
+　　　par rdre de matieres
+【棒線とアンダーライン省略】
+　　　　　　　　　　　　　　　　　　Pages
+1e　Religions. ----------------------------- 2
+2e　Histoire. ------------------------------ 3
+3e　Geographie. -------------------------- 6
+　　　　　　　　---- Mathematiques----16
+　　　　　　　　---- Chronologie ------ 16
+4e　Sciences --------- Art Militaire ------  17
+　　　　　　　　---- Agricultur --------- 18
+　　　　　　　　---- Medecine --------- 19
+【P16-19 Sciencesで一括り】
+5e　Arts. -------------------------------------- 20 
+　　　　　　　　 ---- Poesies --------------- 25
+　　　　　　　　 ---- Romans  -------------- 25
+　　　　　　　　 ---- Melanges litteraires---27
+6e　Litterature----- 
+　　　　　　　　---- Encyclopedies -------- 28
+　　　　　　　　---- Dictionnaires --------- 30
+　　　　　　　　---- Grammaires ---------- 33
+【P25-33 Litteratureで一括り】
+7e　Divers  ------------------------------------ 33

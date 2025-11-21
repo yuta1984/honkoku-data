@@ -1,0 +1,49 @@
+【Right Page】
+　　《Location: Tanno-iri》
+　　　Grass mountain: 1 tan 1 se 10 bu　　　　《Owners: Mohē｜Rokuzaemon》
+　　《Location: Makeshi-yama》
+　　　Grass mountain: 5 se bu　　　　　　　Chūemon
+　　《Location: Iwami-tō》
+　　　Grass mountain: 3 se 10 bu　　　《Owners: Sōemon Kiemon｜Chūemon Fuemon》
+　　《Location: Ketashi》
+　　　Grass mountain: 1 chō bu　　　　　　　《Owners: Den'bē｜Hachiemon》
+　　《Location: Kagobayashi》
+　　　Pine and miscellaneous forest: 3 tan 3 se 10 bu　　Iemon
+　　《Location: Kuzure-ishi》
+　　　Miscellaneous forest: 1 se 10 bu　　　　　　Same person
+　　《Location: Kami-sawa》
+　　　Grass mountain: 1 se 10 bu　　　　　　　Jiemon [marked "after" at line head]
+　　《Location: Hirabayashi》
+　　　Pine and miscellaneous forest: 5 se bu　　　　《Owners: Jiemon｜Denjūrō》[marked "before" at line head]
+　　《Location: Yaroku-bayashi》
+　　　Pine forest: 3 se 10 bu　　　　　　Sōemon
+　　《Location: Mukai-bayashi》
+　　　Miscellaneous forest: 1 tan bu　　　　　　Same person
+
+　　　Small pine forest: 1 se 10 bu　　　　　　Kakuemon
+　　《Location: Hachikuri-bayashi》
+　　　Small pine forest: 15 bu　　　　　　　Shōgorō
+
+【Left Page】
+　　《Location: Kune-bayashi》
+　　　Miscellaneous forest: 8 bu　　　　　　　Yajiemon
+　　《Location: Same place》
+　　　Miscellaneous forest: 10 bu　　　　　　　Kiemon
+　　《Location: Same place》
+　　　Miscellaneous forest: 21 bu　　　　　　　《Owners: Shōemon｜Kakuzaemon》
+　　《Location: Kama-fuchi-bayashi》
+　　　Miscellaneous forest: 10 bu　　　　　　　Hachiemon
+　　《Location: Nakayama》
+　　　Grass mountain: 1 tan bu　　　《Owners: Denjūrō Iemon｜Shōgorō Jiemon｜Mohē》
+　　《Location: Tate-no-bayashi》
+　　　Pine and miscellaneous forest: 5 se bu　　　《Owners: Jiemon｜Denjūrō》
+　　《Location: From Matō-yama to Koyoki-toki》
+　　　Grass mountain: 8 se 20 bu　　　　　　Sadaemon
+　　《Location: From Sukeza-yama to Tennō》
+　　　Grass mountain: 1 tan bu　　　　　　　Ninbē
+　　《Location: Matō-yama area》
+　　　Grass mountain: 5 se bu　　　　　　　《Owners: Jiemon｜Denjūrō｜Den'bē》
+　　《Location: Sen'nin-yama area》
+　　　Grass mountain: 1 se 20 bu　　　　　　《Owners: Shōemon｜Kakuzaemon》
+
+　　　　　　　　　　　　21 [written in red]

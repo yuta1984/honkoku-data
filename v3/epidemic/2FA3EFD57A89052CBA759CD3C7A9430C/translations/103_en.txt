@@ -1,0 +1,22 @@
+XI
+　　　　　　The Role of the Intestine in Dysentery,
+　　　　　　　　　Typhus, and Cholera (1)
+　　　　　　Role de l'Intestin Dans la Dysenterie,
+　　　　　　 la Fièvre Typhoïde et le Choléra(1)
+
+　When studying the mechanism of infection in anthrax, we confirmed the unexpected fact that guinea pigs are resistant to anthrax infection, but only their skin is susceptible to anthrax bacilli. As will be remembered, if guinea pig skin is dehaired and kept completely alive, or if the skin is peeled off while still alive and anthrax pathogen is injected, the guinea pig will be seen to be completely indifferent to the anthrax pathogen.
+　Therefore, when anthrax pathogen is introduced into the peritoneal cavity of a guinea pig with such care as is known to man, the anthrax bacilli are rapidly phagocytosed and then disappear. Their destruction is so complete that not even one appears in susceptible organs. Also, if the skin is placed outside of anthrax bacterial infection, the skin appears to be completely unaware of the inoculation being performed. In other words, the animal remains susceptible to anthrax after this inoculation just as before.
+　Anthrax infection, as we have seen, is so sensitive that it uniformly occurs within skin cells. Here, let us raise the main points by which we can similarly understand the mechanism of preventive vaccination with anthrax bacilli.
+　The case of anthrax is not uniform. Similar phenomena were observed in studies of vaccinia virus. When applied to shaved, depilated, or depilated skin, this pathogen produces skin eruptions known to man after an incubation period of 4-5 days.
+
+――――――――――――――――――――――――――――――――――
+　(1) Bulletin de l'Institut Pasteur, t, XVIII, 1920, p, 121,
+
+　　　　　The Role of the Intestine in Dysentery, Typhus and Cholera　　　　181
+――――――――――――――――――――――――――――――――――
+If, instead of applying lymph to shaved skin, it is injected intraperitoneally while being careful not to damage the skin, the result is not identical: the animal does not become infected. It is easy to provide evidence; not only do eruptions not occur, but furthermore the animal shows the same susceptibility to new infections as if it were naive. We therefore conclude as follows: namely, that vaccinia virus has no infectious capacity when placed in routes different from its naturally determined pathway.
+　Summary: Anthrax bacilli placed outside the skin do not infect. Also in this case, prevention cannot be achieved. This is the same with vaccinia virus. This is roughly the same in the case of staphylococci and streptococci. Therefore, an indisputable relationship exists between the route of infection and the route of immunity. Since they have mutual relative relationships, it is entirely rational to apply this doctrine to dysentery, typhus, and cholera, and to study vaccination methods against these diseases based on studies of infection mechanisms.
+　　　　　　　　　　　＊　　＊　　＊
+The pathogens of dysentery, typhus, and cholera appear, at least in laboratory animals, to have no selective affinity for specific organs initially. With appropriate amounts, these pathogens can kill whether administered intracerebrally, intraperitoneally, by intravisceral injection, or by intravenous injection.
+　Among all the routes that have become customary to use in the laboratory, the oral route appears to be least susceptible to causing disease. Large quantities of these pathogens can be given orally (per os) in most cases without causing even the slightest pathogenic results. However, as we shall see next, what governs the primary importance in the pathogenicity of these infections, whether in laboratory animals or humans, is the oral route. And when examining strictly with a microscope the facts occurring in various organs and fluids during the course of disease, it is not impossible to conclude that among all these infections, the most relevant organ should be the intestinal tract.
+　In natural conditions, laboratory animals are protected against oral infection by a series of deposits arranged along the digestive tract. To infect them orally

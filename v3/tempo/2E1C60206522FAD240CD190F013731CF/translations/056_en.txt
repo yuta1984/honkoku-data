@@ -1,0 +1,8 @@
+One village with a kokudaka of 345 koku, 4 to, 4 sho, 5 shaku: Kamimamichi Village
+One village with a kokudaka of 342 koku, 3 to, 2 sho, 2 go, 6 shaku: Shimomamichi Village (branch village of Kamimamichi Village)
+One village with a kokudaka of 84 koku, 1 to, 7 sho, 3 go, 9 shaku: Yamaguchi Village
+One village with a kokudaka of 200 koku, 2 to, 5 sho, 4 go, 7 shaku: Shiratorii Village
+One village with a kokudaka of 109 koku, 5 to, 1 sho, 9 shaku: Wada Village
+One village with a kokudaka of 691 koku, 7 to, 8 sho, 2 go, 2 shaku: Furuichiba Village
+One village with a kokudaka of 213 koku, 5 to, 1 sho, 9 go, 6 shaku: Iwasaki Village
+One village with a kokudaka of 209 koku, 9 to, 8 sho, 9 go, 2 shaku: Sanguji Village

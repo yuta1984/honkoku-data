@@ -1,0 +1,8 @@
+Item 1: Assessment 77 koku, 6 to, 3 go　　　　　　　　　　《Location: Komai Village》
+Item 1: Assessment 119 koku, 3 to, 2 sho　　　　　　　　　《Location: Iwato Village》
+Item 1: Assessment 67 koku, 1 to, 3 sho, 3 go　　　　　　　《Location: Inokata Village》
+Item 1: Assessment 341 koku, 7 to, 1 sho, 2 go, 2 sai　　　《Location: Izumi Village》
+Item 1: Assessment 58 koku, 4 sho, 9 go　　　　　　　　　《Location: Ueno Village》
+Item 1: Assessment 40 koku, 1 to, 1 sho, 2 go　　　　　　　《Location: Gakudo Village》
+Item 1: Assessment 342 koku, 8 to, 5 sho, 9 go, 1 shaku, 1 sai　《Location: Iruma Village》
+Item 1: Assessment 151 koku, 5 to, 7 go, 9 shaku, 5 sai　　《Location: Ko-Adachi Village》

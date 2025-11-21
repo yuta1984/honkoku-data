@@ -1,0 +1,6 @@
+Item: Assessed yield of 370 koku, 4 to, 9 sho, 8 go　　　　《Location: Hara Village》
+Item: Assessed yield of 469 koku, 5 sho, 4 go　　　　　　　《Location: Iida Village》
+Item: Assessed yield of 1,476 koku, 6 to, 3 sho, 1 go　　　《Location: Sakai Village》
+Item: Assessed yield of 291 koku, 9 sho, 1 go　　　　　　　《Location: Mizuya Village》
+　Subtotal: Assessed yield of 11,992 koku, 3 to, 7 sho, 5 go
+　　　　　　　　　　　《Location: Kii District》　22 villages

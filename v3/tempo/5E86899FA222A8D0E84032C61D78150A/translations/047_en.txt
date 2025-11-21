@@ -1,0 +1,8 @@
+One, assessed yield: 423 koku, 2 sho, 5 go　　　　《Location: Hayashi village》
+One, assessed yield: 69 koku, 5 to, 1 sho　　　　　《Location: Funabashi village》
+One, assessed yield: 1,175 koku, 2 to, 2 sho, 9 go　《Location: Kashiwabara village》
+One, assessed yield: 956 koku, 1 to, 6 sho, 8 go　　《Location: Minami-Kimoto village》
+One, assessed yield: 412 koku, 4 to, 8 sho　　　　　《Location: Minami-Oibara village》
+One, assessed yield: 243 koku, 6 to, 4 sho, 7 go　　《Location: Nishi-Oibara village》
+One, assessed yield: 847 koku, 3 to, 2 sho, 6 go　　《Location: Higashi-Oibara village》
+One, assessed yield: 197 koku, 9 to, 2 sho, 1 go, 6 shaku　《Location: Domyoji village》

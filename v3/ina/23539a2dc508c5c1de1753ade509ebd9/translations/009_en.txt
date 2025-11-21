@@ -1,0 +1,11 @@
+One: 3 kan 800 mon - Honmachi (Main Street)
+One: 5 kan 100 mon - Nakamachi (Middle Street)
+One: 5 kan 800 mon - Shimomachi (Lower Street)
+One: 3 kan 900 mon - Shinmachi (New Street)
+One: 3 kan 400 mon - Shimosato-machi
+One: 3 kan 648 mon - Hokomochi-machi
+One: 3 kan 400 mon - Yokomachi (Side Street)
+One: 2 kan 948 mon - Shimizu-machi
+One: 2 kan 548 mon - Fukuro-machi
+One: 2 kan 348 mon - Seiri-machi
+Total: 36 kan 900 mon

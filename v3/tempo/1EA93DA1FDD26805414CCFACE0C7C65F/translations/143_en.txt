@@ -1,0 +1,8 @@
+Item 1: Assessment 382 koku, 1 to, 7 sho, 5 go　　《Location: Sawaki Village》
+Item 1: Assessment 140 koku　　　　　　　　　　《Location: Kanada Village》
+Item 1: Assessment 327 koku, 6 sho, 3 go　　　　《Location: Toguchi Village》
+Item 1: Assessment 65 koku, 2 go, 6 shaku　　　　　　《Location: Nakazato Village》
+Item 1: Assessment 311 koku, 1 to　　　　　　　《Location: Tsukazaki Village》
+Item 1: Assessment 1,115 koku, 9 to, 6 sho, 4 go　　《Location: Sakado Village》
+Item 1: Assessment 423 koku, 7 to, 5 go, 4 shaku　《Location: Awaida Village》
+Item 1: Assessment 579 koku, 3 to, 3 sho, 7 go　《Location: Kamiasaba Village》

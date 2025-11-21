@@ -1,0 +1,8 @@
+One village with a kokudaka of 208 koku, 9 to, 6 sho: Tachibana Village
+One village with a kokudaka of 152 koku, 4 sho, 3 go: Shimanosho Village
+One village with a kokudaka of 483 koku, 1 to, 1 sho: Oka Village
+One village with a kokudaka of 96 koku, 6 sho, 3 go: Kohara Village
+One village with a kokudaka of 249 koku, 4 go: Hosokawa Village
+One village with a kokudaka of 188 koku, 6 to, 4 sho, 1 go, branch village of Hosokawa Village: Kamii Village
+One village with a kokudaka of 100 koku, 5 to, 4 sho, 6 go, branch village of Hosokawa Village: Kami Village
+One village with a kokudaka of 32 koku, 1 to, 5 sho: Fuyuno Village

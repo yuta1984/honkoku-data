@@ -1,0 +1,32 @@
+【ページ番号】6
+65 Oui, j'ai obtenu conge.
+66 Combien de tems serez vous en voyage?
+67 Deux ou trois mois.
+68 Ce tems me paraitra tres long.
+69 Voulez vous m'accompagner?
+70 Je le voudrais bien, mais je ne peux pas.
+71 Pourquoi pas?
+72 Vous savez que je ne peux pas.
+73 Mais dites le moi.
+74 Je n'ai pas d'argent.
+75   Irez vous avec agant de l'argent.
+76 Oui, volontier.
+77 Je vous en fournirai donc.
+78 Je vous remecie,  il fait tard.
+79 C'est vrai.
+80 Je vous souhaite un  heureux voyage.
+81 Je vous suis fort oblige, portez vous bien jusqu'a
+mon retour.
+　　Cinqieme Dialogue
+　Avec un ami, qui promit hier d'aller
+voir la Comedie.
+1 Ton maitre est il deja leve?
+2  Non, il dort encore.
+3 Ayez la  bonte de l'eveiller.
+4 C'est bon.
+5 Vous venez de si bonne heure.
+6 Oui, vous dormez si tard.
+7  Cela vient d' avoir bu beaucoup hier au soir.
+8 Avec qui avez vous tant  bu?
+9 Avec N.
+10 Je viens pour vous parler.

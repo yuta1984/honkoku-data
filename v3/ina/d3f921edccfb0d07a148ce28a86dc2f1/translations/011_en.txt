@@ -1,0 +1,17 @@
+One, deed price 6 yen, certificate stamp tax 5 sen　　　Ito Yosaburo
+One, same, 15 yen, same 7 sen 5 rin　　　　　　　　　Ikegami Jinzo
+One, same, 16 yen, same 8 sen　　　　　　　　　　　Kitahara Yonetaro
+One, same, 6 yen, same 5 sen　　　　　　　　　　　 Ito Yosaburo
+One, same, same amount, same amount　　　　　　　　　Ito Ginzo
+One, same, 8 yen, same 5 sen　　　　　　　　　　　 Ito Denshichi
+One, same, 17 yen, same 8 sen 5 rin　　　　　　　　 Ito Kyuzo
+One, same, 8 yen, same 5 sen　　　　　　　　　　　 Ito Yaohei
+
+One, same, 9 yen, same 5 sen　　　　　　　　　　　 Saito Genbei
+One, same, 8 yen, same amount　　　　　　　　　　　Komatsu Yuji
+One, same, 13 yen, same 6 sen 5 rin　　　　　　　　Ikegami Jusaburo
+One, same, 25 yen, same 12 sen 5 rin　　　　　　　 Okabe Zenhei
+One, same, 15 yen, same 7 sen 5 rin　　　　　　　　Saito Nobukuni
+One, same, 13 yen, same 6 sen 5 rin　　　　　　　　Nakayama Takeshichi
+One, same, 8 yen, same 5 sen　　　　　　　　　　　Ito Banzo
+One, same, same amount, same amount　　　　　　　　　Kenpuku-ji Temple

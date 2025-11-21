@@ -1,0 +1,31 @@
+[Right Page]
+　　　Grassland 3 tan 5 se (Kamahora) - Denkurō (mountain owner from Takami Village)
+　　　Grassland 6 tan (Arai Gaigai) - Kyūbei (Suganuma Village)
+　　　Mixed forest 4 tan 8 se (Funasawa) - Ichizaemon, Ichisaburō, Shinzaemon, Zenshirō, Sukezaemon
+　　　Small pine forest 18 bu (Minamitera-ke) - Tōgen'in Temple
+　　　Mixed forest 2 se 15 bu (same location) - same temple
+　　　Grassland 2 chō 5 tan (Hamaiwa) - Chūzaemon, Sukekurō
+　　　Grassland 19 chō 5 tan (Kobayashi) - Nizaemon, Hachiuemon, Jizaemon, Jinnosuke, Riuemon, Yoshizaemon, Fuzaemon
+　　　Grassland 3 chō 3 tan 3 se 10 bu (Torasu-sawa) - Tokozaemon, Ichizaemon
+　　　Grassland 1 tan (Matsuo) - Hachizaemon
+　　　Grassland 4 chō 8 tan (Miyazawa Hikage border) - Ichirōuemon, Jinnosuke (joint use with Ina Village)
+
+[Left Page]
+　　　Grassland 6 tan 9 se (Minakami-sawa) - Tokozaemon, Zenshirō
+　　　Grassland 5 chō (Rokurō-saku) - Sukezaemon, Ichisaburō, Ichizaemon, Sakubei, Chūsuke
+
+Tax-exempt Land
+
+One temple precinct 3 tan 4 se 26 bu - Tōgen'in Temple (Sōtō Zen sect)
+
+One shrine land 1 tan 3 se 10 bu - Daimyōjin Shrine (shrine priest: Zentayū from Suganuma Village)
+　　　　　　　　　　　　　　　　Shrine building exists
+
+One temple ground 18 bu - Kannon Temple (no head priest)
+　　　　　　　　　　　　　　　Shō-Kannon
+　　　　　　　　　　　　　　　Hall building exists
+
+One temple ground 6 bu - Jūō Temple (maintained by the village)
+　　　　　　　　　　　　　　　Hall building exists
+
+Thirty-eight

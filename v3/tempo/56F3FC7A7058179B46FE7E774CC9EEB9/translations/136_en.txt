@@ -1,0 +1,8 @@
+Item: Assessed yield of 147 koku, 9 sho, 3 go　　　　《Location: Tataara Village》
+Item: Assessed yield of 930 koku, 2 to, 7 sho, 9 go　　《Location: Umeno Village》
+Item: Assessed yield of 237 koku, 7 to, 7 sho, 9 go　　《Location: Shimokurokami Village》
+Item: Assessed yield of 440 koku, 9 to, 6 go　　　　　　《Location: Ono Village》
+Item: Assessed yield of 514 koku, 2 to, 7 sho　　　　　《Location: Miyano Village》
+Item: Assessed yield of 420 koku, 5 to　　　　　　　　　《Location: Tatenokawachi Village》
+Item: Assessed yield of 542 koku, 1 to, 6 sho, 4 go　　《Location: Funahara Village》
+Item: Assessed yield of 740 koku, 8 sho, 6 go　　　　　《Location: Sanmazaka Village》

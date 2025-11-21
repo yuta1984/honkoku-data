@@ -1,0 +1,17 @@
+▲Also, when calculating the 4,899,964,848 men and women using the "great vehicle" interpretation of oku (億) where man-man (10,000 × 10,000) equals oku, how many ri square would they occupy:
+　○ Length: 9 ri 9 chō 20 ken 1 shaku 3 sun 4 bu
+　○ Width: 9 ri 9 chō 20 ken 1 shaku 3 sun 4 bu
+Since there are two interpretations of the unit "oku," calculations are done in these two different ways.
+
+《Title: Chapter 39 - When 4 people share 3 horses on a 6-ri road》
+　　　How many ri does each person ride?
+　　○ Each person rides 4 ri and a half
+　　○ They ride 1 ri and a half each, then take turns riding in rotation
+
+Person 1: Rides a horse for 1.5 ri, then dismounts
+Person 2: Rides a horse for 3 ri, then dismounts  
+Person 3: Rides a horse for 4.5 ri, then dismounts
+Person 4: Walks the first 1.5 ri, then rides from the 1.5 ri mark to the end
+
+　The person who rode 1.5 ri and dismounted rides again from the 3 ri mark to the end
+　The person who rode 3 ri rides from the 4.5 ri mark to the end

@@ -1,0 +1,8 @@
+One: Assessed rice yield 272 koku 1 sho　　　　　《Note: Branch village of Fukui Village》《Location: Kami-Fukui Village》
+One: Assessed rice yield 266 koku 5 to 5 go　　　《Note: Branch village of Fukui Village》《Location: Akadani Village》
+One: Assessed rice yield 1,002 koku 1 to 4 sho 7 go　　　　　　　　《Location: Hōjuzan Village》
+One: Assessed rice yield 5 koku 5 to 6 sho 6 go　　　　《Note: Branch village of Hōjuzan Village》《Location: Gōraku Village》
+One: Assessed rice yield 440 koku 6 to 4 sho 5 go　《Note: Branch village of Hōjuzan Village》《Location: Tsuzumi Village》
+One: Assessed rice yield 482 koku 8 to 3 sho 1 go　　　　　《Location: Koishiwara Village》
+One: Assessed rice yield 710 koku 4 sho 8 go　　　　　　　　　《Location: Ikeda Village》
+　Subtotal assessed rice yield: 25,971 koku 1 to

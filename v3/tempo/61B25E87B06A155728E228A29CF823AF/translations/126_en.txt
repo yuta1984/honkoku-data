@@ -1,0 +1,8 @@
+1. Assessed yield: 29 koku, 4 to, 2 go　　　　　　　　　　　　　　　　　　　Tearaijo village
+1. Assessed yield: 74 koku, 7 to, 5 sho, 1 go　　　　　　　　　　　　　　　　Terabayashi village
+1. Assessed yield: 74 koku, 8 to, 4 sho, 7 go　　　　　　　　　　　　　　　　Aizuki village
+1. Assessed yield: 152 koku, 3 to　　　　　　　　　　　　　　　　　　　　　　Kawai village
+1. Assessed yield: 48 koku, 6 to, 9 sho, 8 go　　　　　　　　　　　　　　　　Kitahata village
+1. Assessed yield: 263 koku, 9 sho, 3 go　　　　　　　　　　　　　　　　　　Ichiba village
+1. Assessed yield: 176 koku, 2 to, 7 go　　　　　　　　　　　　　　　　　　　Suyama village
+1. Assessed yield: 83 koku, 1 to, 9 sho　　　　　　　　　　　　　　　　　　　Kusatani village

@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 217 koku, 7 to, 3 sho, 3 go　　《Location: Tatara Village》
+Item 1: Assessed yield of 127 koku, 8 to　　　　　　　　《Location: Mosuge Village》
+Item 1: Assessed yield of 636 koku, 6 to, 8 sho　　　　　《Location: Tsumashina Village》
+Item 1: Assessed yield of 288 koku, 1 to, 5 sho　　　　　《Location: Koshi Village》
+Item 1: Assessed yield of 250 koku　　　　　　　　　　　《Location: Nagano Village》
+Item 1: Assessed yield of 657 koku, 8 to, 9 sho　　　　　《Location: Nakanogosho Village》
+Item 1: Assessed yield of 188 koku, 2 to, 2 sho, 3 go　　《Location: Toigosho Village》
+Item 1: Assessed yield of 490 koku, 8 to, 2 sho, 6 go　　《Location: Ichi Village》

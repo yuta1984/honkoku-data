@@ -1,0 +1,8 @@
+Item: Assessed yield of 842 koku, 7 to, 6 sho, 3 go　　《Location: Isahaya Town》
+Item: Assessed yield of 85 koku, 9 to, 6 sho, 1 go　　　《Location: Kokagurakura Village》
+Item: Assessed yield of 560 koku, 5 to, 6 sho, 3 go　　　《Location: Nishinagata Village》
+Item: Assessed yield of 29 koku, 2 to, 6 sho, 7 go　　　《Location: Furubayama Village》
+Item: Assessed yield of 168 koku, 8 to, 2 sho, 5 go　　　《Location: Kozono Village》
+Item: Assessed yield of 793 koku, 7 to, 8 sho, 8 go　　　《Location: Fukuda Village》
+Item: Assessed yield of 271 koku, 9 sho, 6 go　　　　　《Location: Washizaki Village》
+Item: Assessed yield of 429 koku, 3 sho, 1 go　　　　　《Location: Kawadoko Village》

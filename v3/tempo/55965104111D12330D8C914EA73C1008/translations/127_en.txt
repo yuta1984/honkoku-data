@@ -1,0 +1,14 @@
+1. Assessed yield: 599 koku, 6 to - Kami-Sanbun'ichi Village
+　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Kami-Sanbun'ichi Village)
+1. Assessed yield: 685 koku, 3 to, 4 sho - Shimo-Sanbun'ichi Village
+1. Assessed yield: 90 koku, 6 sho, 6 go - Matsumoto Shinden Village
+1. Assessed yield: 217 koku, 7 to, 1 go - Ukijima Shinden
+1. Assessed yield: 526 koku, 4 to, 5 sho - Kamiyoshi Shinden Village
+　　　　　　　　　　　　　　　　　　　　　　　(Branch village of Kamiyoshi Shinden Village)
+1. Assessed yield: 398 koku, 4 to, 5 sho, 3 go - Shimoyoshi Shinden
+1. Assessed yield: 650 koku, 6 to, 5 sho, 5 go - Fukushima Village
+1. Assessed yield: 234 koku, 5 to, 7 sho, 3 go - Kuroi Village
+
+[The National Museum of Japanese History's database has two places named Shimo-Sanbun'ichi Village, and the combined assessed yield of these two places matches the yield for Shimo-Sanbun'ichi Village recorded here.]
+[The National Museum of Japanese History's database has two places named Fukushima Village. Among these, one place with municipal code 15543 has an assessed yield that matches the Fukushima Village recorded here.]
+[The National Museum of Japanese History's database has three places named Kuroi Village, and the combined assessed yield of these three places (234.647) is close to the yield for Kuroi Village recorded here.]

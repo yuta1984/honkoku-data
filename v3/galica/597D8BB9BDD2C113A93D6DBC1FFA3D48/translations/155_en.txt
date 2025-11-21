@@ -1,0 +1,9 @@
+One: Main citadel tenshu-dai (keep foundation)　　　1 foundation
+　　　One: Same, two-story turret　　　1 turret
+　　　One: Same, turret platforms　　　3 platforms
+　　　One: Second citadel turrets　　　5 turrets　Breakdown: 2 single-story turrets
+　　　One: Same, turret platforms　　　1 platform
+　　　One: Third bailey arrow towers　　4 towers
+　　　One: Same, arrow storage platforms　　1 platform
+　　　One: Main citadel gates　　　3 gates
+　　　One: Second citadel gates, plus two left and right partition gates on the outside　　3 gates

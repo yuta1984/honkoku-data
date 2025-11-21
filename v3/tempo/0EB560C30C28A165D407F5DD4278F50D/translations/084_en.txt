@@ -1,0 +1,8 @@
+1. Assessed yield: 548 koku, 8 to, 2 sho, 4 go, 1 shaku, 6 sai　《Location: Kami-furusawa Village》
+1. Assessed yield: 250 koku, 5 to, 4 sho, 3 go　　　　　　《Location: Shimo-furusawa Village》
+1. Assessed yield: 712 koku, 3 to, 1 sho, 3 go　　　　　　《Location: Hayashi Village》
+1. Assessed yield: 1,222 koku, 9 to, 8 sho, 4 go　　　　《Location: Tsumada Village》
+1. Assessed yield: 643 koku, 1 to, 9 sho, 4 go, 9 shaku　　《Location: Kaneda Village》
+1. Assessed yield: 156 koku, 3 sho, 8 go, 6 shaku, 6 sai　　《Location: Shimo-echi Village》
+1. Assessed yield: 185 koku, 9 to, 1 sho, 4 go　　　　　《Location: Naka-echi Village》
+1. Assessed yield: 406 koku, 8 to, 2 go, 6 shaku, 9 sai　　《Location: Sekiguchi Village》

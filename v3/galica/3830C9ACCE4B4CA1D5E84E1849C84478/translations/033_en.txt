@@ -1,0 +1,21 @@
+17 With your permission, I will sit there then.
+18 Please make yourself comfortable.
+19 Please take the soup, if you will.
+20 I will first taste this sake, and then offer it to you.
+21 To your health.
+I will drink to your health.
+22 I am much obliged to you.
+23 Please drink a full cup, and then give it to my son and daughter, if you please.
+24 Excuse me, I will give it to them then.
+25 My son and daughter, offer it to the gentleman after drinking.
+26 I cannot drink so much.
+27 Drink one more cup, and nothing more.
+28 I cannot go anywhere if I drink it.
+29 It will not intoxicate you even if you drink one or two more cups.
+30 Look at me, how red I am becoming! This is a sign of intoxication.
+31 Do you not wish to drink anymore then?
+32 No, I thank you.
+33 I thank you for your hospitality.
+34 Forgive me for having received you so poorly, or do not take it badly that I have received you so poorly.
+35 You are too polite.
+36 I bid you farewell then.

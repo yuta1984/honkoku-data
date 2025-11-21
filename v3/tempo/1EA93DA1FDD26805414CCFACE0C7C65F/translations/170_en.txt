@@ -1,0 +1,8 @@
+Item 1: Assessment 442 koku, 2 to, 4 sho, 4 go　　《Location: Misawa Village》
+Item 1: Assessment 632 koku, 2 to, 1 sho, 7 go　　《Location: Minano Village》
+Item 1: Assessment 214 koku, 2 to, 7 sho　　　　　《Location: Kanasaki Village》
+Item 1: Assessment 145 koku, 7 to, 8 sho, 2 go　　《Location: Obuchi Village》
+Item 1: Assessment 311 koku, 8 to, 2 sho, 9 go　　《Location: Hinosawa Village》
+Item 1: Assessment 215 koku, 8 to, 8 sho　　　《Location: Kami-Hinosawa Village》
+Item 1: Assessment 154 koku, 7 to, 7 sho　　　　　《Location: Nomaki Village》
+Item 1: Assessment 172 koku, 5 to, 2 go　　　　　《Location: Kobashira Village》

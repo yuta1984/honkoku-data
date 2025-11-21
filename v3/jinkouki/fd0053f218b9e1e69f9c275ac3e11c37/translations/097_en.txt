@@ -1,0 +1,27 @@
+《Title: Chapter 26 - Square Root Methods for Circles》
+
+▲When there is a one-sun square area, or 711 tsubo, and you want to find the diameter using the circle opening method:
+　　　　The diameter is three shaku
+　　　　Method: First place 711 tsubo on the right, divide by the circle
+　　　　coefficient 79 to get 900 tsubo. Apply the square root method
+　　　　to find the diameter is three shaku
+
+▲About the number 79: When a circle has a diameter of one shaku, one sun of area contains 79 tsubo
+　　　　Dividing one shaku by two gives five sun, and dividing one bu by two
+　　　　gives five rin. Multiplying this by five sun gives twenty-five.
+　　　　Multiplying this by three shaku one sun six bu gives 79 tsubo, which is why
+　　　　we multiply by 79
+
+　　　▲When making a round shape from something that is one shaku three sun square,
+　　　　what will the diameter be?
+　　　　　The diameter becomes one shaku four sun six bu two rin five mō
+　　　Place 125 on the right, and multiply this by one shaku three sun
+　　　to get a diameter of one shaku four sun six bu two rin
+　　　five mō
+
+▲When making a square from round wood with a diameter of two shaku five sun,
+　　　　　　what dimensions will the corners be?
+　　　　　　　Each side measures one shaku seven sun six bu seven rin seven mō
+　　　　　　Place two shaku five sun on the right and the coefficient
+　　　　　　14142 on the left, then divide the two shaku five sun by this
+　　　　　　to get each face as one shaku seven sun six bu seven rin seven mō

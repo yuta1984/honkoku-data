@@ -1,0 +1,8 @@
+Item 1: Assessment 626 koku, 8 to, 5 sho, 5 go　　　　　《Location: Yagami Village》
+Item 1: Assessment 588 koku, 5 to, 6 sho, 7 go　　　　《Location: Gotanda Village》
+Item 1: Assessment 37 koku, 8 sho, 3 go　　　　　　《Location: Gotanda Village Shinden》
+Item 1: Assessment 707 koku, 4 to, 2 go　　　　　　　　《Location: Minamikase Village》
+Item 1: Assessment 778 koku, 7 to, 7 go　　　　　　　《Location: Ogura Village》
+Item 1: Assessment 171 koku, 7 to, 5 sho, 7 go　　　　　《Location: Egasaki Village》
+Item 1: Assessment 543 koku, 1 to, 2 sho, 1 go, 5 shaku　　　《Location: Yakou Village》
+Item 1: Assessment 234 koku, 7 to, 7 sho, 4 go　　　　　《Location: Tsukakoshi Village》

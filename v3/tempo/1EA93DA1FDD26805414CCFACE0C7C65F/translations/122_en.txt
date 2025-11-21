@@ -1,0 +1,8 @@
+Item 1: Assessment 692 koku, 2 to, 4 sho, 8 go　　《Location: Kita-Nagai Village》
+Item 1: Assessment 1,867 koku, 8 to, 8 sho, 6 go　　《Location: Kami-Tomi Village》
+Item 1: Assessment 862 koku, 5 to, 2 sho, 6 go　　　《Location: Naka-Tomi Village》
+Item 1: Assessment 883 koku, 7 to, 1 go　　　　　《Location: Shimo-Tomi Village》
+Item 1: Assessment 174 koku, 6 to, 6 sho　　　　　《Location: Kamegaya Village》
+Item 1: Assessment 126 koku, 6 to, 6 sho, 2 go　　　　《Location: Sakashita Village》
+Item 1: Assessment 69 koku, 4 to, 2 sho, 6 go　　　　　　《Location: Shiro Village》
+Item 1: Assessment 124 koku, 1 to, 7 sho, 2 go　　　　《Location: Hongo Village》

@@ -1,0 +1,9 @@
+《Annotation: 《Location: Senju-machi》group｜》
+Item 1: Assessment 81 koku, 4 to, 8 sho, 5 go　　　　　　　　《Location: Nakamura-machi》
+Item 1: Assessment 287 koku, 8 to, 6 sho, 6 go, 6 shaku　　　《Location: Kozukahara-machi》
+Item 1: Assessment 138 koku, 3 to, 3 sho, 3 go　　　　　　《Location: Minowa Village》
+Item 1: Assessment 944 koku, 1 sho, 9 go　　　　　　　《Location: Mikawashima Village》
+Item 1: Assessment 320 koku, 1 to, 8 sho, 6 go　　　　　　　《Location: Machiya Village》
+Item 1: Assessment 380 koku, 9 to, 4 sho, 1 go　　　　　　《Location: Shimo-Ogu Village》
+Item 1: Assessment 999 koku, 1 to, 6 sho, 6 go, 3 shaku, 3 sai　《Location: Kami-Ogu Village》
+Item 1: Assessment 356 koku, 1 to, 7 sho, 3 go　　　　　　《Location: Shinbori Village》

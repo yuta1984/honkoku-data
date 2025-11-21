@@ -1,0 +1,2 @@
+"Kaiheihō (Square Root Extraction Method)"
+When actually placing the product and first examining the place value, if it corresponds to the hundreds place, set 100 in the quotient, and again using the lower method, raise by 100 and set 100. Then, when multiplying the 100 in the lower method by the 100 in the quotient using the method, place it as [11] ten thousand tsubo and divide by the actual number.

@@ -1,0 +1,42 @@
+[Right page]
+　　　　　　　　《Margin note: Priest Jintayu》
+One: Shrine land 5 se 10 bu　　　　Hachiman Dai-Bosatsu
+　　　　　　　　　　　　Shrine building exists
+　　　　　　　　《Margin note: Same priest》
+One: Shrine land 7 tan bu　　　　Suwa Myōjin
+　　　　　　　　　　　　Shrine building exists
+　　　　　　　　《Margin note: Village maintains》
+One: Temple land 1 se bu　　　　Shakyamuni Nyorai
+　　　　　　　　　　　　Temple hall exists
+　　　　　　　　　《Margin note: Same as above》
+One: Shrine land 1 se 5 bu　　　　Mountain deity
+　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　《Margin note: Same as above》　
+One: Shrine land 3 se bu　　　　Mountain deity
+　　　　　　　　　　　　Shrine building exists
+　　　　　　　　《Margin note: Monzen village maintains》
+One: Shrine land 2 se 20 bu　　　Dai-Myōjin
+　　　　　　　　　　　　Shrine building exists
+　　　　　　　　《Margin note: Village maintains》
+One: Temple land 1 se bu　　　　Dainichi Nyorai
+　　　　　　　　　　　　Temple hall exists
+
+[Left page]
+　　　　　　　　　《Margin note: Same as above》
+One: Shrine land 2 se bu　　　　Kumano Gongen
+　　　　　　　　　　　　Shrine building exists
+
+One: Wasteland 18 chō 8 tan bu　　　Village
+《Margin note: Kawaharada, one location》
+One: River erosion 3 se 22 bu　　　Village
+　　　　　Above
+
+　　　　　　　　　　　Amezawa Village
+
+One: Mountain forest 11 chō 3 tan 2 se 1 bu　Farmer-owned mountain
+　　Mountain tax rice 1 to 1 shō 3 gō 2 shaku
+　　　　　　　　　　Note: 1 gō per 1 tan
+　　　　Within
+　　《Margin note: Irikakehidaira》
+　　　Mixed woodland 3 se 8 bu　　《Margin note: Denshirō | Chōshirō》
+　　　　　　　　　　34 [in red ink]

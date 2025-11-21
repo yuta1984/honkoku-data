@@ -1,0 +1,8 @@
+1. Assessed yield: 87 koku, 4 to, 5 sho, 3 go, 1 shaku, 3 sai - Naoyobi Village (Tara)
+1. Assessed yield: 84 koku, 4 to, 3 sho, 5 go, 5 shaku - Iwasu Village (Tara)
+1. Assessed yield: 71 koku, 1 to, 9 sho, 1 go - Tochitani Village (Tara)
+1. Assessed yield: 80 koku, 1 to, 4 sho, 3 go - Yashiki Village (Tara)
+1. Assessed yield: 76 koku, 2 to, 5 sho, 6 go - Nobusaka Village (Tara)
+1. Assessed yield: 68 koku, 2 to, 9 sho, 7 go, 3 shaku - Tokiyama Village (Toki)
+1. Assessed yield: 325 koku, 5 to, 1 sho, 2 go, 1 shaku, 3 sai - Kamimura Village (Toki)
+1. Assessed yield: 433 koku, 6 to, 8 sho, 9 go, 8 sai - Donoue Village (Toki)

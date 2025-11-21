@@ -1,0 +1,8 @@
+One, assessed yield: 204 koku, 5 shō, 4 gō　　　　　《Location: Yashita Village》
+One, assessed yield: 51 koku, 2 to, 9 shō　　　　　《Location: Nagafusa Village》
+One, assessed yield: 144 koku, 4 shō, 8 gō　　　　　《Location: Kofuchi Village》
+One, assessed yield: 376 koku, 3 to, 4 shō, 4 gō　《Location: Bessho Village》
+One, assessed yield: 63 koku, 5 to, 2 gō　　　　　《Location: Miyawaki Village》
+One, assessed yield: 260 koku, 6 to, 1 shō　　　　　《Location: Sanbon-sugi Village》
+One, assessed yield: 143 koku, 2 to, 9 shō, 7 gō　　《Location: Nakatsuhara Village》
+One, assessed yield: 65 koku, 8 shō, 6 gō　　　　　《Location: Noikura Village》

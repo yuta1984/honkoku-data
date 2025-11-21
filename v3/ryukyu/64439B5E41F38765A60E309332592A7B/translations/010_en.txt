@@ -1,0 +1,33 @@
+Izumo Province (Izumo no Kuni)
+
+Geographic Layout of Districts in Izumo Province:
+Western region: Kando District
+Northern region: Izumo District, Tatenui District, Aika District, Shimane District
+Central region: Matsue
+Southern region: Iishi District, Ōhara District, Ou District
+Eastern region: Nita District, Nōgi District
+Central area: Hirose, Mori
+Cardinal direction indicators (North, South, East, West)
+
+Detailed listing of villages and place names by district:
+
+Kando District: Oku-Tagi, Uryū, Taki, Yamaguchi, Oda, Kyūmura, Den, Imaichi, Yoshino, Jōrakuji, Myōken, Kanzaki, Otodachi, Wahyōmiya, Koshi, Hangantō, Enya, Shiraeda, Shohara, Kandoji, Hiehara, Imaichi, Ōtsu, Kandachi, Kannonji, Kitashima, Desai, Tomimura, Senke, Kamie
+
+Izumo District: Tomoshima, Iwashima, Uryūzaki, Boshima, Misakisha, Uryū, Tsuruyama, Ichinomiya, Washimiya, Minato, Taisha, Kitsuki, Shūno, Shinkōji, Araki, Tadane, Ushima, Oyama, Aebisu, Benkei-koseki, Asayama, Yano, Yōkan, Haji, Tenjin, Soga, Gakuenji, Nyūnan, Yoshita, Rainari-tennō, Takahama, Rinboku, Mi, Kawashimo, Ōtsuka, Kunimiya, Uka, Takeshi, Nishidai, Kami-Shikaya, Nakahara
+
+Tatenui/Aika/Shimane Districts/Matsue: Hirata, Nishie, Higashie, Kozu, Tahi, Ujifurui, Makibe, Jūrokushima, Kosui, Mitsu, Ozakai, Ichibataji, Rokukoji, Ino, Matsuura, Aika, Nagae, Shiotsu, Sadaguchi, Inoke, Sadasha, Koura, Sada, Mizuura, Ōashi, Matsue, Kaga, Taketo, Nishi-Kawazu, Mochida, Nishikiura, Nishio, Higashi-Kawazu, Nowatari, Asaku, Ōkai, Makuragiyama, Sezaki, Shinjō, Honjō, Senzaku, Tema, Kitaura, Chikaura, Katayama, Moriyama, Kumotsu, Mihoseki
+
+Nōgi District/Mori/Hirose: Tahara, Yamasaku, Hirose, Nishi-Hita, Nunobe, Higashi-Hita, Unami, Tomita, Jūnenhata, Nōgisha, Yoshida, Dōsojin, Imazu, Kotake, Ōtsuka, Arashima, Akaya, Ijiri, Akaguchi, Kamishime-ura, Mori, Uka, Yasuda, Unjuji, Ijiri-gawa, Kokubunji, Seisūji, Yasuki, Monyū, Yoshisa, Yasugi
+
+Ou District: Nakashima, Himuro, Naoe, Kyūki, Tatebe, Takase, Zaikō, Gakukō, Sasaichi, Kandō, Raishima, Yumachi, Tamatsukuri-yu, Fushina, Imbe, Sasaki-haka, Nogi, Yaegaki, Zenkōji, Sagusa, Machi, Kumano, Kami, Akae, Tsuda, Konken, I, Saku, Nishikiura, Iwasaka, Tsukuda, Kawa, Ōkusa, Hetsushiya, Izumosato, Hachiman, Itsuyazaka, Ankokuji, Iya, Itō, Ne, Dai
+
+Ōhara District: Sandai, Meigō, Taguchi, Sabu, Kamo, Kigi, Hongō, Hinobori, Kawayō, Hachiman, Daitō, Raiumi, Kawai, Kyūno, Gobō, Kami-Kyūno, Suwa, Kumano, Chōjahara
+
+Nita District: Kami-Kawai, Kamokura, Yu, Nunodatsu, Misawa, Sada, Ko-Torigi, Kamisei, Nagasehara, Tonouchi, Katada, Yashiro, Ōtani, Ōmaki, Kametaka, Yakawa, Yokota, Daichū, Takesaki
+
+Iishi District: Kakui, Kotohiki-yama, Hachimangū, Hachiman, Kumagai, Tsugisa, Ōtsu, Ōmiya, Nojiri, Hatamura, Tane, Akana, Kakeai, Raishima, Tone, Yurai, Iruma, Jōji, Kami-ishi, Tsuga, Kinzan-gongen, Miyauchi, Mineji, Ryūtō-no-taki, Enzūji, Sugito, Taku-kashiwa, Nakagō, Yoshida, Sankaya, Shimo-Kumagai, Kami-Kumagai, Mikawa-ka-yama
+
+Border Crossings with Adjacent Provinces:
+With Hōki Province: Yonago-de, Niiyama-de, Haramura-de, Kiri-tsukue-de, Shimo-Yasui-de
+With Bingo Province: Sakane-goe, Yuki-de, Ōtōge-goe, Morifuku-de, Yukawa-de, Kōno-de, Nishi-Kawauchi-de, Yokotani-de, Miyoshi-de
+With Iwami Province: Idotani-de, Sakatani-de, Kamiyama-de, Ikeda-de, Ōi-de, Shimazu-ya-de, Ōtsu-de

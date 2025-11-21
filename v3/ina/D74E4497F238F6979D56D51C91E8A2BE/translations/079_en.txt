@@ -1,0 +1,41 @@
+[Right Page]
+1. Mountain forest: 1 chō 7 tan 6 tan 6 bu　　Peasant-owned mountain
+　　Tax rice for this mountain: 8 shō 8 gō 1 shaku (Note: 5 gō per 1 tan)
+　　　　Breakdown:
+　　(Chiwautasuha)
+　　　Mixed woodland: 3 tan 10 bu　　　Sankurō
+　　(Ikune)
+　　　Mixed woodland: 2 tan 3 bu　　　Ichisaburō
+　　(Above the house)
+　　　Mixed woodland: 3 tan　　　　　　Mokunojō
+　　(Same location)
+　　　Mixed woodland: 1 tan 3 bu　　　Same person
+　　(Hyōshi slope)
+　　　Grassland mountain: 2 tan 6 bu　　Kyūemon
+　　(Same location)
+　　　Grassland mountain: 1 tan 11 bu　　Kyūemon
+　　(Suketa Seto)
+　　　Mixed woodland: 1 tan　　　　　　Same person
+
+[Left Page]
+　　(Hosokubo stream)
+　　　Mixed woodland: 2 tan 10 bu　　　Same person
+　　(Towards Akatsubo)
+　　　Grassland mountain: 1 tan 5 bu　　Same person
+　　(Ōkione)
+　　　Grassland mountain: 2 tan　　　　Chōzaemon
+　　(Same location)
+　　　Grassland mountain: 2 tan 12 bu　Jiemon
+　　(Tatsuo)
+　　　Grassland mountain: 8 tan　　　　Kurōbei
+　　(Miyatsurune)
+　　　Grassland mountain: 6 tan 20 bu　Monsaburō
+　　(Above the house)
+　　　Grassland mountain: 1 tan 20 bu　Rokunosuke
+　　(Yoke)
+　　　Grassland mountain: 1 tan　　　　Sanzaemon
+　　(North of the house)
+　　　Grassland mountain: 7 tan 15 bu　Sukemon
+　　(Within Chiwautasuha)
+　Later　Grassland mountain: 1 tan　　　Jibei
+　　　　　　　40 [in red ink]

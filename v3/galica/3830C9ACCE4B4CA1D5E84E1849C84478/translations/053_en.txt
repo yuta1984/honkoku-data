@@ -1,0 +1,33 @@
+267 Are there no peonies?
+268 There is too much wind.
+269 Bring some charcoal.
+270 This miso soup is delicious.
+271 I think you cook deliciously.
+272 Having nothing to do, time weighs heavy.
+273 I hope the ships will arrive soon.
+274 The cook makes the dishes too salty.
+274 The cook doesn't put enough salt in the dishes.
+275 There is too little salt in this.
+276 This is too sour.
+277 This is too greasy.
+278 Taste it.
+279 I want to taste it.
+280 I have tasted it.
+281 Have you tasted it?
+282 It's very good.
+283 It's too sweet.
+284 It's too bland.
+285 It's too bitter.
+286 It's too strong.
+287 It's not very nourishing.
+288 It has no taste.
+289 It tastes bad.
+290 This fish is well steamed.
+291 These beans are delicious.
+292 For us, salmon is the best fish.
+293 I have a stomachache.
+294 I am sick.
+295 I cannot sleep.
+296 I cannot walk.
+297 I cannot stay lying down.
+298 I cannot get up.

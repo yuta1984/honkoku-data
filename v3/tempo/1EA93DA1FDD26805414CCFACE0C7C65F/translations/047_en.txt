@@ -1,0 +1,15 @@
+Item 1: Assessment 375 koku, 6 to, 6 sho, 7 go　　　《Location: Idogaya Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Tataku》｜》
+Item 1: Assessment 144 koku, 1 to, 5 sho, 2 go　　　　　《Location: Gumyoji Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Tataku》｜》
+Item 1: Assessment 195 koku, 4 to, 7 sho, 5 go　　　　　　《Location: Nakazato Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Tataku》｜》
+Item 1: Assessment 253 koku, 3 to, 3 sho, 7 go, 7 bu, 3 sai　《Location: Bessho Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Tataku》｜》
+Item 1: Assessment 166 koku, 1 to, 5 go　　　　　　　　《Location: Saido Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Tataku》｜》
+Item 1: Assessment 219 koku, 9 to, 7 go　　　　　　　　《Location: Kubo Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Hino》｜》
+Item 1: Assessment 253 koku, 8 to, 8 sho, 7 go　　　　　《Location: Yoshihara Village》
+　　　　　　　　　　　　　　　　　《Side note: 《Location: Hino》｜》
+Item 1: Assessment 289 koku, 1 to, 6 sho, 3 go　　　　　《Location: Kanai Village》

@@ -1,0 +1,37 @@
+509 Qu'est ce qui te rend confuse?
+510 Il faut toujours etre gaie.
+511 Je n'aime pas  de voir des figures abattues.
+512 Demandez moi tout ce que vous desirez.
+513  Ordonnez a Faquia de t'apporter quelques belles robes.
+514  J'aime a te voir superieurement que tu travailles.
+515 Je ne veux pas souffrir que tu travailles.
+ 516 Venir chez soi.
+517 De retour a la maison
+518 Aites vous si longtems a vous coiffer?
+519  Vous vous coiffez toujours jolliment.
+520 Cette pomade a un  odeur delicieux.
+521 Je ne veux pas qu'il  aille la.
+522 Il n'agit pas bien en cela.
+523 Il se trompe.
+524 Il croit que je l'ignore.
+525 Il croit que je ne l' appercois pas.
+526 Il croit que je ne l'entends pas.
+527 Il croit que je ne le  comprends pas.
+528 Ce n'est pas ainsi.
+529 C'est la verite.
+530 S'il n'y a plus de thé, il faut en faire venir d■
+fournisseur.
+531  Je vous souhaite un bon appetit.
+532 Combien de tems y a t'il?
+533 Il y a six mois.
+534 Depuis longtems
+535 Depuis peu
+536 Dans peu de tems
+ 537 Attachez le.
+538 Detachez ce chien.
+539 Je vous demande pardon.
+ 540 Ne vous fachez pas.
+541 Je ne le ferai plus.
+542 Ne  vous mettez pas en colere.
+【単語の上に語順を示す数字あり：1,3,2の順】
+

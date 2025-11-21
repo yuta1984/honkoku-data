@@ -1,0 +1,15 @@
+1. Assessed yield: 458 koku, 6 to, 6 sho, 8 go - Nakajo Village
+1. Assessed yield: 219 koku, 6 to, 9 sho, 6 go - Konawashiro Village
+1. Assessed yield: 119 koku, 7 to, 3 sho, 7 go - Kawasaki Village
+1. Assessed yield: 252 koku, 7 to, 5 sho, 6 go - Tenrinji Village
+1. Assessed yield: 277 koku, 1 to, 1 sho, 4 go - Tsuchijiri Village
+1. Assessed yield: 447 koku, 1 to, 2 sho, 5 go - Akazawa Village
+1. Assessed yield: 310 koku, 3 sho, 1 go - Izumi Village
+1. Assessed yield: 126 koku, 8 to, 3 sho, 7 go - Izumitani Village
+
+[In the National Museum of Japanese History's database, there are 4 locations for Nakajo Village. Among these, the combined assessed yield of the 3 locations with municipal code 15544 exactly matches the assessed yield for Nakajo Village recorded here]
+[In the National Museum of Japanese History's database, there are 2 locations for Tenrinji Village, and the combined assessed yield of these 2 locations matches the assessed yield for Tenrinji Village recorded here]
+[In the National Museum of Japanese History's database, there are 2 locations for Tsuchijiri Village, and the combined assessed yield of these 2 locations matches the assessed yield for Tsuchijiri Village recorded here]
+[In the National Museum of Japanese History's database, there are 3 locations for Akazawa Village, and the combined assessed yield of these 3 locations exactly matches the assessed yield for Akazawa Village recorded here]
+[In the National Museum of Japanese History's database, there are 3 locations for Izumi Village. Among these, the combined assessed yield of the 2 locations with municipal code 15544 matches the assessed yield for Izumi Village recorded here]
+[In the National Museum of Japanese History's database, there are 2 locations for Izumitani Village, and the combined assessed yield of these 2 locations matches the assessed yield for Izumitani Village recorded here]

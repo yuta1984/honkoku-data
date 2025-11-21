@@ -1,0 +1,8 @@
+Item 1: Assessment 2 koku, 6 to, 8 sho　　　　　　　　　《Location: Hachimanyama Village》
+Item 1: Assessment 15 koku, 8 to, 9 sho, 2 go　　　　　　　《Location: Yokone Village》
+Item 1: Assessment 136 koku, 3 to, 5 sho, 8 go　　　　　《Location: Funabashi Village》
+Item 1: Assessment 81 koku, 9 to, 1 sho　　　　　　　　《Location: Kamata Village》
+Item 1: Assessment 191 koku, 6 to, 7 sho　　　　　　　《Location: Okamoto Village》
+Item 1: Assessment 273 koku, 8 to, 7 sho, 4 go　　　　《Location: Okura Village》
+Item 1: Assessment 169 koku, 8 to, 4 sho, 1 go　　　　《Location: Unane Village》
+Item 1: Assessment 774 koku, 7 to, 5 sho, 5 go, 8 shaku　《Location: Kitami Village》

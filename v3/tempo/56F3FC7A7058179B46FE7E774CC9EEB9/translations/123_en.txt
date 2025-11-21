@@ -1,0 +1,10 @@
+Item: Assessed yield of 1,308 koku, 7 to, 5 sho, 5 go, 8 seki　　　　《Location: Motoyama Village》
+Item: Assessed yield of 720 koku, 5 to, 2 sho, 7 go, 4 seki　　　　　《Location: Tsutsumi Village》
+Item: Assessed yield of 829 koku, 4 to, 6 sho, 2 go, 4　　　　　　　《Location: Nonokiri Village》
+Item: Assessed yield of 326 koku, 5 to, 2 sho, 5 go, 9 seki, 8 sai
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　《Location: Ohama Village》
+《Marginal note: | Formerly 《Location: Kishuku Village》》
+Item: Assessed yield of 748 koku, 7 to, 9 sho, 9 go, 3 seki　　　　　《Location: Kishuku Village》
+Item: Assessed yield of 588 koku, 2 to, 5 sho, 2 go　　　　　　　　　《Location: Ikuyama Village》
+Item: Assessed yield of 157 koku, 8 to, 2 sho, 8 go, 5 seki　　　　　《Location: Kawahara Village》
+Item: Assessed yield of 21 koku, 2 to, 4 sho, 9 go, 5 seki　　　　　　《Location: Karafune-no-ura Village》

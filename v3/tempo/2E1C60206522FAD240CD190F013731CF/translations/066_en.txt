@@ -1,0 +1,8 @@
+One village with a kokudaka of 350 koku, 8 to, 2 sho: Toyomae Village
+One village with a kokudaka of 539 koku, 1 to, 7 sho, 5 go: Higashida Village
+One village with a kokudaka of 353 koku, 9 to: Mamegoshi Village
+One village with a kokudaka of 1,203 koku, 5 to, 6 sho, 2 go: Yanagimoto Village
+One village with a kokudaka of 276 koku, 7 to, 5 sho, 7 go, 5 shaku: Shimonnagaoka Village (branch village of Yanagimoto Village)
+One village with a kokudaka of 374 koku, 3 to, 5 sho, 7 go, 5 shaku: Kaminagaoka Village (branch village of Yanagimoto Village)
+One village with a kokudaka of 269 koku, 6 to, 7 sho, 6 go: Kitabessho Village (branch village of Yanagimoto Village)
+One village with a kokudaka of 268 koku, 4 to, 6 sho: Minamibessho Village (branch village of Yanagimoto Village)

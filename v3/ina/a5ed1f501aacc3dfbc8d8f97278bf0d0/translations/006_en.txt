@@ -1,0 +1,24 @@
+Principal: Ichibee (seal)
+　　　　　Guarantor: Matasaburo (seal)
+　　　　　Lodging: Sadenji
+
+Item 1: One stonecutter
+This person is from Yoshida Village, Chiisagata District, this province
+　　　　　Principal: Kesajiro (seal)
+　　　　　Guarantor: Kurozaemon (seal)
+　　　　　Lodging: Heinai
+
+Item 1: One stonecutter
+This person is from Ya Village, Tsuru District, Kai Province
+　　　　　Principal: Yoshimatsu (seal)
+　　　　　Guarantor: Shirobee (seal)
+　　　　　Lodging: Gobee
+
+Item 1: One stonecutter
+This person is from Tenno Village, Yamada District, Joshu Province
+　　　　　Principal: Ushizo (seal)
+　　　　　Guarantor: Genemon (seal)
+　　　　　Lodging: Heinai
+
+Item 1: One stonecutter
+This person is from Miyosawa Village, Seta District, Joshu Province

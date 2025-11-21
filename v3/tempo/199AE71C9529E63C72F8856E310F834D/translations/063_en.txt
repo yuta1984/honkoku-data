@@ -1,0 +1,8 @@
+1. Assessed yield: 492 koku, 9 to, 1 go, 5 shaku - Oibi Village
+1. Assessed yield: 449 koku, 4 to, 6 sho, 9 go - Minamikata Village (branch village of Oibi Village)
+1. Assessed yield: 1,094 koku, 6 to - Gonosato Village
+1. Assessed yield: 256 koku, 2 to, 7 sho - Kitaryoke Village
+1. Assessed yield: 256 koku, 6 to, 5 sho - Minamiryoke Village
+1. Assessed yield: 1,862 koku, 1 to, 4 sho, 9 go, 2 shaku - Kugo Village
+1. Assessed yield: 359 koku, 9 to, 6 sho, 8 go - Yagi Village (branch village of Kugo Village)
+1. Assessed yield: 534 koku, 4 to, 1 sho, 8 go - Horai Village (branch village of Kugo Village)

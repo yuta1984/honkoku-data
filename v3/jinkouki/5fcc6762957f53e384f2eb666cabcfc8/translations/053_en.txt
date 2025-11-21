@@ -1,0 +1,12 @@
+○The meaning of "seven-nine" is that if a circle has a diameter of one shaku, there are seventy-nine sun-square tsubo.
+If one shaku is divided by two, there are five sun; if one bu is divided by two, it becomes five rin. Multiplying this by five sun gives twenty-five. Multiplying this by three shaku one sun six bu gives seventy-nine tsubo. Therefore, we multiply by seven-nine.
+
+○For an object that is one shaku three sun square, when made round, what is the diameter? ~One shaku four sun six bu two rin five mō. In the method, place one-two-five, and multiplying this by one shaku three sun gives a diameter of one shaku four sun six bu two rin five mō.
+
+"Chapter Twenty-One: Cube Root Method"
+○There are 1,728 tsubo in area
+When made into equal length, width, and height, what does it become?
+It becomes twelve ken on six sides.
+
+The method states: Place 1,728 tsubo as the dividend, and first examine the place values in the dividend. Counting up as one, ten, one-ten, one-ten like in the diagram, "ten" represents the tens place. First place ten in the quotient, and also in the lower section, count up one-ten and place ten. This is placed according to the ten in the quotient. Now, using the method, multiply the ten in the lower section by the ten in the quotient. One times one equals one hundred, place it. Also, counting up one-ten from the one hundred in the method, multiply the one hundred in the method by the ten in the quotient. One times one equals one thousand tsubo. Subtracting this from the dividend:
+~728 tsubo remain

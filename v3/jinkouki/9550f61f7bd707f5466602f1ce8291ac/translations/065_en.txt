@@ -1,0 +1,12 @@
+○The meaning of "79" is that when a circle has a diameter of 1 shaku, there are 79 square sun areas. 
+When 1 shaku is divided by 2, there are 5 sun. When 1 bu is divided by 2, it becomes 5 rin. When this is multiplied by 5 sun, it becomes 25. When this is multiplied by 3 shaku 1 sun 6 bu, it becomes 79 tsubo. Therefore, we multiply by 79.
+
+　　　　○When a square object of 1 shaku 3 sun per side is made circular, what is its diameter? 〽1 shaku 4 sun 6 bu 2 rin 5 mō. In the method, place 1125. When this is multiplied by 1 shaku 3 sun, the diameter becomes 1 shaku 4 sun 6 bu 2 rin 5 mō.
+
+Chapter 21: The Method of Cube Root Extraction
+○There are 1,728 tsubo in area
+　When this is made into equal length, width, and height, what does it become?
+　　　　　It becomes 12 ken on each of six sides
+
+The method states: Place 1,728 tsubo as the dividend, and first examine the place values in the dividend. Count up as ones, tens, hundreds, thousands like a diagram. The "ten" refers to the tens place. First place 10 in the quotient. Also, count up as 1, 10 from below and place 10. This is placed according to the 10 in the quotient. Then, using the method, multiply the 10 below by the 10 in the quotient. Place 1×1 = 100. Also, count up as 1, 10 from the hundreds in the method, and multiply the hundreds in the method by 10 in the quotient. This becomes 1×1 = 1,000 tsubo. When this is subtracted from the dividend:
+　　　　　　　〽728 tsubo remain

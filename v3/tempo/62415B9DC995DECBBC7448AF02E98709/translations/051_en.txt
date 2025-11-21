@@ -1,0 +1,8 @@
+One, assessed yield: 403 koku, 1 to, 4 shō, 2 gō　　　《Location: Hiraki Village》
+One, assessed yield: 665 koku, 3 to, 8 shō, 1 gō　　　《Location: Todoroko Village》
+One, assessed yield: 198 koku, 6 to, 7 shō, 4 gō　　　《Location: Ueno Village》
+One, assessed yield: 400 koku, 3 to, 4 shō　　　　　　《Location: Fukuo Village》
+One, assessed yield: 1,007 koku, 2 to, 6 shō, 7 gō　　《Location: Kuninobu Village》
+One, assessed yield: 241 koku, 9 to, 8 shō, 6 gō　　　《Location: Suenaga Village》
+One, assessed yield: 264 koku, 7 to, 2 shō, 5 gō　　　《Location: Sueyoshi Village》
+One, assessed yield: 531 koku, 9 shō, 1 gō　　　　　　《Location: Kamiman Village》

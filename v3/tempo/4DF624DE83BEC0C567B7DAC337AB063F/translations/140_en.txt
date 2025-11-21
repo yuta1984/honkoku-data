@@ -1,0 +1,14 @@
+Item 1: Assessed yield of 16 koku, 6 to　　　　　　　　　《Location: Onoda Village》
+Item 1: Assessed yield of 128 koku, 2 to, 9 sho, 4 go, 5 shaku　《Location: Yakeyama Village》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 363 koku, 6 to, 1 sho, 1 go　　《Location: Hanami Village》《Marginal note: 【Kyūkō Kyūryō Torishirabe-chō = Current Azusagawa Village portion. Current Ikeda Town portion is separate】》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 255 koku, 8 to, 5 sho, 9 go, 3 shaku　《Location: Jike Village》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 244 koku, 6 sho, 8 go　　　　《Location: Ōkubo Village》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 184 koku, 8 to, 4 sho, 3 shaku　　《Location: Nakamura》《Marginal note: 【Kyūkō Kyūryō Torishirabe-chō = Current Azusagawa Village portion. Current Akashina Town portion is separate】》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 234 koku, 8 to, 2 sho, 1 go　　《Location: Maruta Village》
+　　　　　　　　　　　　　　　《Marginal note: 《Location: Ueno》》
+Item 1: Assessed yield of 247 koku, 8 to, 8 sho, 9 go　　《Location: Taya Village》

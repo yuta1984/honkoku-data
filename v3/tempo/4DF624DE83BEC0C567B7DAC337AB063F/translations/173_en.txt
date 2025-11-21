@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 493 koku, 1 sho, 2 go　　　　　《Location: Kita-Owaribe Village》
+Item 1: Assessed yield of 402 koku, 3 to, 8 sho　　　　　《Location: Ishiwata Village》【According to the Kyūkō Kyūryō Torishirabe-chō = Ishiwata (Ishiwata) Village】
+Item 1: Assessed yield of 354 koku, 5 to　　　　　　　　　《Location: Minami-Hori Village》
+Item 1: Assessed yield of 730 koku, 4 to, 1 sho, 4 go　　《Location: Kojima Village》
+Item 1: Assessed yield of 652 koku, 6 sho, 9 go　　　　　《Location: Nakamata Village》
+Item 1: Assessed yield of 411 koku, 7 to　　　　　　　　　《Location: Nuno Village》
+Item 1: Assessed yield of 608 koku, 1 to, 2 sho　　　　　《Location: Murayama Village》
+Item 1: Assessed yield of 354 koku, 2 to, 4 sho　　　　　《Location: Kita-Hori Village》

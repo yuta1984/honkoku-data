@@ -1,0 +1,22 @@
+Item: Length 2 shaku, 6-sun square cross-section　　　　　1 piece
+　　　Step count: 120 steps
+
+Item: Length 2 shaku, 4-sun square cross-section　　　　　2 pieces
+　　　Step count: 160 steps
+
+Item: Length 2 shaku, 5-sun square cross-section　　　　　1 piece
+　　　Step count: 100 steps
+
+Item: Length 1 shaku 5 sun, 5-sun square cross-section　　2 pieces
+　　　Step count: 150 steps
+
+　　Number of timber pieces: 9
+Total　Step count: 706 steps
+　　　　　Converted to 2-ma steps: 353 steps
+
+
+　　Same, 9 shaku length
+
+
+Item: Length 2 shaku, 4-sun square cross-section　　　　　2 pieces
+　　　Step count: 160 steps

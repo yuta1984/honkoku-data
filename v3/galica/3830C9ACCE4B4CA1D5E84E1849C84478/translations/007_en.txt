@@ -1,0 +1,22 @@
+[Page Number] 2
+11 Have you been to Nagasaki often?
+12 No, I am coming here for the first time this year.
+13 Are you traveling alone?
+14 Yes, I have no one with me.
+15 Do you have children?
+16 Yes, I have two, one of whom is a daughter.
+17 Why then do you not bring your children with you?
+18 Because they are still too young.
+19 How old are they?
+20 The son is thirteen, the daughter is eleven years old.
+21 Have you seen everything?
+22 Yes, I have seen all the places and temples, especially the Dutch and Chinese quarters. I am quite pleased, since now I am in a position to give a detailed account of my experiences.
+23 Nagasaki has nothing particularly curious except that this year there are no Dutch ships nor Chinese junks.
+24 In what season do Dutch ships depart from Batavia for Japan?
+25 They leave there in the month of June and arrive here at the end of July or the beginning of August.
+26 In what month do they depart from here?
+27 In October.
+28 What articles do the ships carry to Batavia?
+29 They load principally copper and camphor, and several other articles in return.
+30 Where do the copper and camphor come from?
+31 The copper comes from Akita Province, and the camphor from Satsuma Province.

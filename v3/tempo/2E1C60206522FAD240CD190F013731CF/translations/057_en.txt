@@ -1,0 +1,8 @@
+One village with a kokudaka of 257 koku, 4 to, 1 sho, 5 go, 2 shaku: Fujii Village
+One village with a kokudaka of 235 koku, 2 to, 5 sho, 4 shaku: Mori Village
+One village with a kokudaka of 244 koku, 3 to, 7 sho, 1 go, 9 shaku: Ishida Village
+One village with a kokudaka of 278 koku, 3 to, 9 sho: Kuritani Village
+One village with a kokudaka of 217 koku, 9 to, 4 go: Yamaji Village
+One village with a kokudaka of 161 koku, 6 to, 5 sho, 9 shaku: Ogai Village
+One village with a kokudaka of 434 koku, 2 to, 8 sho, 2 go, 9 shaku: Sawa Village
+One village with a kokudaka of 212 koku, 6 sho, 1 go, 3 shaku: Kamihirai Village

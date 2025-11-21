@@ -1,0 +1,8 @@
+Matsuda-ya (shop name)
+Household of 4: Jiroemon, age 63
+　　　　　　　Wife, age 59
+　　　　　　　Kuri, age 19
+　　　　　　　Jōnosuke, age 9
+Household of 1: Masaemon, age 43
+
+Total number of people: 22

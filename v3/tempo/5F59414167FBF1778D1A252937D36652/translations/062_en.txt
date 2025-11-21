@@ -1,0 +1,8 @@
+1. Assessed yield: 895 koku, 5 sho, 4 go, 6 shaku, 7 sai　　　Higashi-Shinden Village
+1. Assessed yield: 1,275 koku, 4 to, 2 shaku　　　　　　　　Nishi-Shinden Village
+1. Assessed yield: 1,188 koku, 4 to, 3 sho　　　　　　　　　Sugisawa Village
+1. Assessed yield: 227 koku, 7 to, 2 sho　　　　　　　　　　Hatsumori Village
+1. Assessed yield: 719 koku, 8 to, 3 sho　　　　　　　　　　Matsuzawa Village
+1. Assessed yield: 1,543 koku, 8 to, 4 sho, 3 go　　　　　　Inazawa Village
+1. Assessed yield: 3,192 koku, 5 to, 7 go　　　　　　　　　　Shiraiwa Village
+1. Assessed yield: 1,149 koku, 8 to, 9 sho　　　　　　　　　Nagaya Village

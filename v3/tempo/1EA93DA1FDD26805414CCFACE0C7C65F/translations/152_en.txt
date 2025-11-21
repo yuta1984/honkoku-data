@@ -1,0 +1,8 @@
+Item 1: Assessment 114 koku, 3 to, 4 sho, 7 go　　　　《Location: Maegakkan Village》
+Item 1: Assessment 281 koku, 3 to, 6 sho, 4 go　　　《Location: Kawadera Village》
+Item 1: Assessment 194 koku, 3 to, 2 sho, 8 go　　　　《Location: Kasanui Village》
+Item 1: Assessment 445 koku, 6 to, 2 sho, 5 go　　　《Location: Namiyanagi Village》
+Item 1: Assessment 237 koku, 9 to, 7 sho, 7 go, 6 shaku　《Location: Kamiya Village》
+Item 1: Assessment 277 koku, 8 sho, 8 go　　　　　《Location: Kuroyama Village》
+Item 1: Assessment 100 koku　　　　　　　　　　　　《Location: Ryukoku Village》
+Item 1: Assessment 82 koku, 3 to, 9 sho, 4 go　　　　《Location: Tsukune Village》

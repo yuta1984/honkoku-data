@@ -1,0 +1,8 @@
+One, assessed yield: 150 koku, 6 to, 4 sho, 3 go　　　《Location: Hishiya-naka Shinden》
+One, assessed yield: 456 koku, 2 go　　　　　《Location: Hishiya-higashi Shinden》
+One, assessed yield: 231 koku, 6 to, 5 sho, 9 go　《Location: Mishima Shinden》
+One, assessed yield: 71 koku, 6 to, 8 sho, 3 go　　　《Location: Hashimoto Shinden》
+One, assessed yield: 47 koku, 5 to, 9 sho, 3 go　　　《Location: Daishinji Shinden》
+One, assessed yield: 1,706 koku, 8 to, 8 sho　　　　《Location: Shimaike Shinden》
+　Subtotal yield: 40,197 koku, 1 to, 3 sho, 7 go
+　　　　　　　　　　《Location: Wakae District》　61 villages

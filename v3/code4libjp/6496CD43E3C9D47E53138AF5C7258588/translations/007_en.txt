@@ -1,0 +1,56 @@
+Banner Assistant Administrator　1 person
+　Banner
+　Large Horse Standard　　　　　　Same unit banner bearer
+　Small Horse Standard　　　　　　　　Sub-leader
+　　　To this small horse standard, foot inspectors are assigned in rotation　recorded later
+
+　Long Spears　　　　　　　　Spear Administrator　1 person
+　　　　　　　　　　　　　Long spear bearers under same command
+　　　　　　　　　　　　　　Sub-leader
+
+　Long Spear Shaft
+　　　　　　　　　　　　Spear Assistant Administrator　1 person
+　　　　　　　　　　　　　Long spear bearers under same command
+　　　　　　　　　　　　　　Sub-leader
+　
+　First Unit　　　　　　　　Squad Leader　1 person
+　Firearms　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Second Unit　　　　　　　　Squad Leader　1 person
+　Firearms　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Third Unit　　　　　　　　Squad Leader　1 person
+　Archery　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Fourth Unit　　　　　　　　Squad Leader　1 person
+　Firearms　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Fifth Unit　　　　　　　　Small Unit Leader　1 person
+　Firearms　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Fifth Unit　　　　　　　　Small Unit Leader　1 person
+　Archery　　　　　　　　　　Same unit ashigaru
+　　　　　　　　　　　　　　Sub-leader
+
+　Posted Notice 2
+　Among the duty personnel, one or two persons also serve as inspectors
+
+　　　　　　　　　　　　　Messenger　1 person
+　Firearms　　　　　　　　　　　Ashigaru under same command
+
+　　　　　　　　　　　　　Messenger　1 person
+　Firearms　　　　　　　　　　　Ashigaru under same command
+
+　　　　　　　　　　　　　Messenger　1 person
+　Firearms　　　　　　　　　　　Ashigaru under same command
+
+　　　　　　　　　　　　　Messenger　1 person
+　Firearms　　　　　　　　　　　Ashigaru under same command
+
+　　　　　　　　　　　　　Messenger　1 person
+　Firearms　　　　　　　　　　　Ashigaru under same command

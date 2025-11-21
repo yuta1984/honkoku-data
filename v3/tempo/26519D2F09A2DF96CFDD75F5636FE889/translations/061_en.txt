@@ -1,0 +1,8 @@
+1. Rice yield: 168 koku, 1 to, 2 sho, 2 go　　　　　　《Location: Kita-Kasagi Village》
+1. Rice yield: 171 koku, 2 to, 4 sho, 4 go　　　　　　《Location: Shimo-Ariichi Village》
+1. Rice yield: 242 koku, 2 sho, 8 go　　　　　　　　　《Location: Kami-Ariichi Village》
+1. Rice yield: 691 koku, 4 sho, 2 go, 2 shaku　　　　　《Location: Kita-Okawara Village》
+1. Rice yield: 115 koku, 1 to, 6 sho, 4 go　　　　　　《Location: Nodono Village》
+1. Rice yield: 309 koku, 4 to, 3 sho, 6 go　　　　　　《Location: Minami-Okawara Village》
+1. Rice yield: 576 koku, 1 to, 7 sho, 1 go, 1 shaku, 2 sai　《Location: Tayama Village》
+1. Rice yield: 319 koku, 6 to, 7 sho, 7 go, 6 shaku　　　《Location: Takao Village》

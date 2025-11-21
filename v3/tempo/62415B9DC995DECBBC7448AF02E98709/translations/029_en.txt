@@ -1,0 +1,8 @@
+One, assessed yield: 438 koku, 7 to, 0 shō, 8 gō　　　《Location: Tai Village》
+One, assessed yield: 498 koku, 6 to, 5 shō, 7 gō　《Location: Yumihara Village》
+One, assessed yield: 767 koku, 5 to, 6 shō, 9 gō　《Location: Shimokami Village》
+One, assessed yield: 447 koku, 0 to, 2 shō, 9 gō　　　《Location: Matsukami Village》
+One, assessed yield: 588 koku, 2 to, 2 shō, 4 gō　《Location: Tsuchishita Village》
+One, assessed yield: 627 koku, 8 to, 0 shō, 1 gō　　　《Location: Shima Village》
+One, assessed yield: 335 koku, 6 to, 0 shō, 3 gō　　　《Location: Shimasawa Village》
+One, assessed yield: 395 koku, 0 to, 9 shō, 8 gō　　　《Location: Idehata Village》

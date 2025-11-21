@@ -1,0 +1,8 @@
+Item 1: Assessment 20 koku, 6 to, 4 sho, 3 go　　　　　　　　　《Location: Kaedai-machi》
+Item 1: Assessment 231 koku, 6 to, 1 sho, 8 go, 6 shaku, 5 sai　《Location: Koishikawa Village》
+Item 1: Assessment 154 koku, 3 to, 2 sho, 2 go, 3 shaku　　　　　《Location: Yanaka Village》
+Item 1: Assessment 293 koku, 7 to, 9 sho, 4 go　　　　　《Location: Yanaka Honmura》
+Item 1: Assessment 25 koku, 9 sho, 7 go　　　　　　　　　　《Location: Ueno-machi》
+Item 1: Assessment 13 koku, 6 to, 8 go　　　　　　　　　　　《Location: Shitaya-machi》
+Item 1: Assessment 287 koku, 1 to, 6 sho, 6 go　　　　　　《Location: Sakamoto Village》
+Item 1: Assessment 693 koku, 3 to, 3 sho, 7 go　　　　　　《Location: Kanasugi Village》

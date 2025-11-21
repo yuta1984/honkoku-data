@@ -1,0 +1,24 @@
+34　　　　　　　　Is There One or Multiple Types of Streptococci?
+――――――――――――――――――――――――――――――――――
+because he was adding other virulent streptococci that had not undergone animal passage.
+　　　　　　　＊　　＊　　＊
+　Regarding Neufeld's experiments, they certainly do not seem to permit the conclusion of streptococcal monotypy.
+　A concrete example better helps us understand our thinking.
+　He describes the history of a rabbit immunized by rapid method against the extremely virulent streptococcus F.
+　This rabbit's serum showed extremely high activity not only against this streptococcus F alone, but also against two other types of streptococci - namely, Aronson's isolated from scarlet fever and Marmorek's isolated from angina. From this, he concluded the advantage of monovalent serum.
+　Please examine this experiment carefully. What is this streptococcus F? According to what Neufeld tells us, it was isolated from phlegmon and kills rabbits within 36 hours at a dose of 0.00001cc. He says nothing more about it.
+　But what we want to know first and foremost is the detailed points regarding F's past.
+　Has this streptococcus passed through animals or not? All the important relationships of the experiment lie there.
+　As we have already recognized, streptococci isolated directly from humans are rarely pathogenic to animals. We firmly believe that streptococcus F is the same, and that this bacterium would not kill rabbits unless it had passed through rabbits or mice. If so, we can immediately understand why serum prepared with streptococcus F acts similarly against Aronson's streptococcus or Marmorek's streptococcus. These three types of streptococci are actually only one type - namely, although their ancestors were scarlet fever streptococci, angina streptococci, and phlegmon streptococci respectively, they are animal-passage streptococci. Through animal passage, the properties possessed by their ancestors disappear over time,
+
+　　　　　　　Is There One or Multiple Types of Streptococci?　　　　　　　　　　　35
+――――――――――――――――――――――――――――――――――
+and are replaced by newly acquired properties of mouse streptococci.
+　This rationality, of course, only applies under the condition that our hypothesis regarding F's origin is true; we naturally believe this more and more as streptococcus F becomes similar to those of Marmorek and Aronson also in terms of agglutination reactions.
+　The proof of streptococcal monotypy based on the preventive action of serum is thus completely summarized.
+　Was this never proven by this method? This is almost impossible, and the reason is that we currently do not possess animals to which human streptococci are uniformly pathogenic. Of course, sometimes we do isolate streptococci from humans that kill both rabbits and mice, but this is a rare exception.
+　　　　　　　＊　　＊　　＊
+　In summary, none of the methods used to date to solve the problem posed in the title of this chapter have brought decisive arguments.
+　Should we abandon it as completely unsolvable, or should we be content with immunizing horses with a little luck without knowing anything about the injection material?
+　We do not think so. There are still means that allow us to achieve two or three hopes. We want to discuss complement fixation reactions. This is something that frequently becomes a problem nowadays.
+　Its specificity is so well known that there is no need to describe it here. What we want to say in one word is that complement-fixing substances have shown remarkable specificity to date, whether for cells or bacteria. We have recognized this in almost all bactericidal sera. Anti-streptococcal serum is almost the only one in which complement-fixing substances have not been observed so far. However, under certain experimental conditions, it is easy to prove this. The complement-fixing substances of streptococci are specific, like all others. Some streptococci have their own unique complement-fixing substances, while others have one common complement-fixing substance. Thus we were able to classify streptococci obtained from various sources into three types based on common complement-fixing substances. That is, one of these streptococci

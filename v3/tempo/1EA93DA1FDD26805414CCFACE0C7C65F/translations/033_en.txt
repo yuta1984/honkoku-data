@@ -1,0 +1,8 @@
+Item 1: Assessment 537 koku, 2 to, 1 sho, 1 go　　　　　　《Location: Kaminogawa Village》
+Item 1: Assessment 302 koku, 3 to, 8 sho, 7 go　　　　　　　　《Location: Shimonogawa Village》
+Item 1: Assessment 410 koku, 7 to, 6 sho, 3 go, 7 shaku, 2 sai　　　　　《Location: Shinsaku Village》
+Item 1: Assessment 585 koku, 1 to, 5 sho, 8 go, 8 shaku, 3 sai　　　《Location: Suenaga Village》
+Item 1: Assessment 331 koku, 1 to, 8 sho, 1 go　　　　　　　《Location: Sakado Village》
+Item 1: Assessment 151 koku, 9 to, 9 sho　　　　　　　　《Location: Suwagawara Village》
+Item 1: Assessment 285 koku, 6 to, 1 sho, 4 go　　　　　　《Location: Kitamikata Village》
+Item 1: Assessment 582 koku, 6 sho, 5 go, 3 shaku　　　　　　　《Location: Miyauchi Village》

@@ -1,0 +1,8 @@
+One: Assessed rice yield 91 koku 5 to 1 go　　　　《Note: Branch village of 《Location: Kamitakaba Village》》《Location: Yamakuma Village》
+One: Assessed rice yield 114 koku 1 to 1 sho 4 go　　《Note: Branch village of 《Location: Kamitakaba Village》》《Location: Ōkubo Village》
+One: Assessed rice yield 1,375 koku 3 to 5 sho 2 go　　　　《Location: Shimotakaba Village》
+One: Assessed rice yield 1,403 koku 3 to 1 sho 4 go 6 shaku　　　　《Location: Takada Village》
+One: Assessed rice yield 2,468 koku 4 to 1 sho 6 go　　　《Location: Umada Village》
+One: Assessed rice yield 664 koku 2 to 7 sho 3 go 6 shaku 6 sai　《Location: Kamiura Village》
+One: Assessed rice yield 1,347 koku 1 to 9 sho 5 go 2 shaku　　《Location: Shimoura Village》
+One: Assessed rice yield 569 koku 2 to 9 sho 4 go　　　　　《Location: Kusami Village》

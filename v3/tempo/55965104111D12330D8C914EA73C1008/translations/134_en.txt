@@ -1,0 +1,15 @@
+1. Assessed yield: 312 koku, 6 to, 2 go - Tanaka Village
+1. Assessed yield: 471 koku, 7 to, 8 sho, 1 go - Yamanaohimi Village
+1. Assessed yield: 97 koku, 2 to, 2 go - Takasawairi Village
+1. Assessed yield: 229 koku, 1 to, 2 sho, 4 go - Okami Village
+1. Assessed yield: 193 koku, 4 to, 9 sho, 1 go - Tsubono Village
+1. Assessed yield: 142 koku, 5 to, 7 sho, 5 go - Tanukidaira Village
+1. Assessed yield: 248 koku, 1 to, 1 sho, 3 go - Yokoyama Village
+1. Assessed yield: 234 koku, 2 to, 6 sho, 7 go - Obagasawa Village
+
+[In the National Museum of Japanese History's database, there are 7 locations for Tanaka Village. Among these, one location with municipal code 15544 has an assessed yield of 310.656, which is close to the assessed yield for Tanaka Village recorded here.]
+[In the National Museum of Japanese History's database, there are 5 locations for Yamanaohimi Village. The combined assessed yield of these 5 locations matches exactly the assessed yield for Yamanaohimi Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Okami Village. The combined assessed yield of these 2 locations matches the assessed yield for Okami Village recorded here.]
+[In the National Museum of Japanese History's database, there are 4 locations for Tsubono Village. Among these, one location with municipal code 15544 has an assessed yield that matches the assessed yield for Tsubono Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Tanukidaira Village. The combined assessed yield of these 2 locations matches the assessed yield for Tanukidaira Village recorded here.]
+[In the National Museum of Japanese History's database, there are 5 locations for Yokoyama Village. Among these, one location with municipal code 15541 has an assessed yield that matches the assessed yield for Yokoyama Village recorded here.]

@@ -1,0 +1,8 @@
+Muro Street Plan View Diagram
+　Legend
+　　Tokaido Line
+　　Construction Boundary
+　　Gravel Road (Roadway｜Sidewalk)
+　　Side Road
+　　Roadway Pavement
+　　Sidewalk Pavement

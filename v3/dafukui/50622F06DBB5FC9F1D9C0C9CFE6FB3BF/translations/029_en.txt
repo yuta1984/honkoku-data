@@ -1,0 +1,13 @@
+Lower field　1 se 24 bu　　1 to 8 go　　　　Tozaemon
+Upper same　1 se 10 bu　　1 to 3 sho 4 go　　Togoro
+Middle field　1 se 6 bu　　9 sho 6 go　　　　Saburozaemon
+Lower same　2 se 12 bu　　1 to 9 sho　　　　Toshiro
+Same　　　　1 se 6 bu　　9 sho 6 go　　　　Chuemon
+Waste field　1 se 24 bu　　3 sho 7 go㊞　　　No owner
+
+Lower rice field　1 se 22 bu　2 to 4 sho 4 go　Chuemon
+Lower field　　　20 bu　　　4 sho　　　　　　Same person
+Waste rice field　7 se㊞　　9 to 8 sho　　　　Lost person
+Lower same　　　12 bu　　　5 sho 7 go　　　　Saburozaemon
+Same　　　　　　1 se　　　1 to 4 sho　　　　Same person
+Waste same　　　1 se㊞　　1 to 4 sho　　　　No owner

@@ -1,0 +1,8 @@
+Item 1: Assessed yield 302 koku 4 to 3 sho　　　　　　《Location: Ōba Village》
+Item 1: Assessed yield 192 koku 4 to 2 go　　　　　《Location: Sannomiya Village》
+Item 1: Assessed yield 620 koku 2 to 2 sho 1 go　　　《Location: Kitakuribayashi Village》
+Item 1: Assessed yield 731 koku 7 to 4 sho 8 go 3 shaku《Location: Minamikuribayashi Village》
+Item 1: Assessed yield 191 koku 9 to 5 sho 4 go　　　《Location: Kajikaito Village》《Note: [Kyūkō Kyūryō Torishirabe-chō = Matsumoto Domain territory only]》
+Item 1: Assessed yield 532 koku 2 sho 3 go　　　　《Location: Shimokanbayashi Village》
+Item 1: Assessed yield 1,057 koku 3 to 9 sho 3 go 6 shaku　《Location: Futago Village》
+Item 1: Assessed yield 1,504 koku 9 to 4 sho 2 go 4 shaku　《Location: Kamikanbayashi Village》

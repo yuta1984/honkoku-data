@@ -1,0 +1,16 @@
+(formerly Ishinasaka Shinden Village)
+1. Assessed yield: 80 koku, 5 to, 8 sho, 5 go　　　　Ishinasaka Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Hakusan Shinden Village)
+1. Assessed yield: 37 koku, 8 to, 7 sho, 1 go　　　　Hakusan Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Yugamata Shinden Village)
+1. Assessed yield: 66 koku, 8 to, 8 sho, 4 go　　　　Yumata Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Katada Shinden Village)
+1. Assessed yield: 541 koku, 6 to, 6 go　　　　　　Katada Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Nagaoka Shinden Village)
+1. Assessed yield: 364 koku, 6 to, 9 sho, 3 go　　　Nagaoka Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Niozaki Shinden Village)
+1. Assessed yield: 128 koku, 2 to, 6 sho, 6 go　　　Niozaki Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Koizumi Shinden Village)
+1. Assessed yield: 101 koku, 7 to, 6 sho, 6 go　　　Koizumi Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Urayama Shinden Village)
+1. Assessed yield: 157 koku, 6 to　　　　　　　　　Urayama Village

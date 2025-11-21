@@ -1,0 +1,37 @@
+336 You must inform me directly.
+337 Japanese women are more beautiful than in paintings.
+339 They have superb black hair.
+340 They have beautiful teeth.
+341 Don't tell anyone.
+342 Don't show it to anyone.
+343 Hide it well.
+344 I would like to drink tea.
+345 Would you like to drink tea?
+346 Snuff the candles.
+347 Light the candles.
+348 Light the lamp.
+349 Extinguish the candles.
+350 Cover the fire.
+351 Roll this.
+352 Try this.
+353 You love to sleep very much.
+354 It's too early.
+355 Give food to the birds.
+356 Give water to the birds.
+357 The birds have nothing to eat.
+358 The birds must be cared for.
+359 Give clean sand to the birds.
+360 Clean the cages.
+361 Hang them in the sun.
+362 Protect them from cats.
+363 I detest cats.
+364 Chase away the cats.
+365 Close the door.
+366 Leave the door open.
+367 Heat is more uncomfortable than cold.
+368 Give me a spoon.
+369 Give me a fork.
+370 Give me a knife.
+371 Pass me that dish.
+372 I will give you money.
+372 I will give you cloth for a suit.

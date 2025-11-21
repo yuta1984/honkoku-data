@@ -1,0 +1,10 @@
+Item: Assessed yield of 120 koku　　　　　　　　　　《Location: Kanomaru Village》
+Item: Assessed yield of 2,588 koku, 3 to, 9 sho, 8 go, 7 seki　　
+　　　　　　　　　　　　　　　　《Location: Sonogi Village》
+Item: Assessed yield of 1,841 koku, 9 sho, 8 go　　　《Location: Kawatana Village》
+Item: Assessed yield of 2,845 koku, 5 to, 9 sho, 5 go《Location: Hasami Village》
+Item: Assessed yield of 946 koku, 8 to, 7 sho, 1 go　　《Location: Miya-no Village》
+Item: Assessed yield of 1,555 koku, 3 to, 1 sho, 5 go, 3 seki　　　
+　　　　　　　　　　　　　　　　《Location: Suzuta Village》
+Item: Assessed yield of 1,061 koku, 8 to, 4 sho, 2 go, 8 seki　《Location: Miura Village》
+Item: Assessed yield of 276 koku, 9 to, 9 sho　　　　《Location: Ikiriki Village》

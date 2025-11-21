@@ -1,0 +1,19 @@
+Fifth position: 280 me of eirakusen　　　Sixth position: 287 momme 5 bu of eirakusen
+Seventh position: 295 momme　　　Eighth position: 302 momme 5 bu
+Ninth position: 320 me　　　Tenth position: 360 me
+Eleventh position: 400 me
+
+　　　　○The reduction in payments
+First position: each person pays 25 momme　　　Second position: each person pays 24 momme 1 bu 6 rin 6
+Third position: 23 momme 1 bu 2 rin 5 each　Fourth position: 21 momme 7 bu 8 rin 57 each
+Fifth position: 20 me each　　　　　　　Sixth position: 17 momme 5 bu each
+Seventh position: 13 momme 7 bu 5 rin each　　Eighth position: 7 momme 5 bu each
+Ninth position: no payment　　　　　　　Tenth position: no payment
+Eleventh position: no payment
+
+　　　　　○Working with interest-free money, each person's total payments from start to finish
+　　　　　　Similarly, the profit and loss of money received
+
+▲The first position recipient takes 250 me, paying 40 me annually until the end, totaling 400 me. Of this, 250 me is taken upfront, and the remaining 150 me is paid out of pocket, resulting in a loss▲Second position pays 25 momme upfront and 360 me afterward. For this second position recipient, the net balance results in a loss of 127 momme 5 bu▲Third position pays 49 momme 1 bu 6 rin upfront and 320 momme afterward. Similarly calculating the balance, this results in a loss of 104 momme 1 bu 6 rin 6▲Fourth position pays 72 momme 2 bu 9 rin 1 upfront and 280 momme afterward. Similarly calculating, this results in a loss of 79 momme 7 bu 9 rin 1▲Fifth position pays 94 momme 0 rin 67 upfront and 240 me afterward. Similarly calculating, this results in a loss of 54 momme 0 rin 67▲Sixth position pays 114 momme 0 rin 67 upfront and 200 me afterward. Among those who receive, the balance results in a loss of 26 momme 5 bu 7 rin 67▲Seventh position pays 131 momme 5 bu 7 rin 67 upfront and 160 me afterward. Among those who receive, the balance results in a profit of 3 momme 4 bu 2 rin 33▲Eighth position pays 145 momme 3 bu 2 rin 67 upfront and 120 momme afterward. Among those who receive, the balance results in a profit of 37 momme 1 bu 7 rin 33▲Ninth position pays 152 momme 8 bu 2 rin 67 upfront and 80 me afterward. Among those who receive, the balance results in a profit of 87 momme 1 bu 7 rin 33▲Tenth position pays 152 momme 8 bu 2 rin 67 upfront and 40 me afterward. Among those who receive, the balance results in a profit of 167 momme 1 bu 7 rin 33▲Eleventh position pays 152 momme 8 bu 2 rin 67 upfront. Among those who receive, the balance results in a profit of 247 momme 1 bu 7 rin
+
+　From the seventh through eleventh positions, there is profit. Given this, what percentage annual interest rate does the money paid upfront earn by the time it is received?

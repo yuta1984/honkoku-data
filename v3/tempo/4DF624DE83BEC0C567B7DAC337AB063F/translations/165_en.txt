@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 261 koku, 1 to, 1 sho　　　《Location: Gojuhira Village》
+Item 1: Assessed yield of 572 koku, 6 to, 7 sho, 5 go　《Location: Hashizume Village》
+Item 1: Assessed yield of 457 koku, 7 to, 9 sho　　　《Location: Iwakusa Village》
+Item 1: Assessed yield of 205 koku, 3 sho, 1 go　　　　　《Location: Gojuri Village》
+Item 1: Assessed yield of 817 koku, 8 sho, 1 go　　　　《Location: Nakajo Village》
+Item 1: Assessed yield of 477 koku, 5 to, 3 go　　　《Location: Aoki Village》
+Item 1: Assessed yield of 142 koku, 9 to, 8 go　　　　《Location: Hisaki Village》
+Item 1: Assessed yield of 519 koku, 3 to, 7 sho, 6 go　　《Location: Nenbutsuji Village》

@@ -1,0 +1,26 @@
+【Page Number】7
+31 Then please be so kind as to hurry as much as you can.
+32 Good, I'll be back in a moment.
+　　　With Another Friend
+33 Welcome, my good friend.
+34 I learned from N that you will go with him to the theater today.
+35 Yes, but it's not certain yet.
+36 For what reason?
+37 He's going to Dejima today.
+38 You're making fun of me.
+39 No, I'm telling you the truth.
+40 From whom did you learn this?
+41 He told me himself.
+42 Has he been to your place?
+43 Yes, just now.
+44 Has he already left for Dejima?
+45 No, he's presently at N's place, asking him to replace him.
+46 Will he come back?
+47 Yes, would you like to wait for his return?
+48 Yes, but I would accompany you if he doesn't go.
+49 Nevertheless, you could go with us, as I would like us to be three.
+50 Please do.
+51 Ah, you're back quickly. What did he tell you?
+52 He cannot do it.
+53 Why is that?
+54 He went there yesterday, and besides, he finds himself a bit unwell today.

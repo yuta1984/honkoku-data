@@ -1,0 +1,8 @@
+Item 1: Assessed yield 718 koku 4 to 2 sho 3 go 3 shaku　　　　　《Location: Kiribayashi Village》
+Item 1: Assessed yield 346 koku 3 sho 3 go　　　　　　　　《Location: Kamikawaji Village》
+Item 1: Assessed yield 1,230 koku 2 to 1 sho 5 go　　　　　　《Location: Shimokawaji Village》
+Item 1: Assessed yield 132 koku 6 to 6 sho 7 go　　　　　　　《Location: Shimose Village》
+Item 1: Assessed yield 525 koku 8 to 8 sho　　　　　　　　《Location: Tateishi Village》
+Item 1: Assessed yield 1,324 koku 3 to 9 sho 3 go 3 shaku 3 sai　《Location: Izuki Village》
+Item 1: Assessed yield 625 koku 7 sho 8 go　　　　　　　　《Location: Kume Village》
+Item 1: Assessed yield 1,081 koku 3 to 5 sho 7 go　　　　　　《Location: Nakamura》

@@ -1,0 +1,48 @@
+[Right page]
+Upper Omotegi Village
+
+1. Grassland: 9 tan 3 se 2 bu　　　　Farmers' holdings
+   Rice tax for this grassland: 1 to 8 sho 6 go 7 shaku (2 sho per tan)
+   Breakdown:
+   "Shrine area"
+     2 se 12 bu　　　　　　　Gorobei
+   "Same location"
+     2 se 24 bu　　　　　　　Matasuke
+   "Same location"
+     2 tan 12 bu　　　　　　 Gontaro, Matasuke
+   "Same location"
+     3 se 6 bu　　　　　　　 Matasuke
+   "Same location"
+     3 se 10 bu　　　　　　　Kosaburo
+   "Same location"
+     2 se 20 bu　　　　　　　Village common
+   "Northeast trees"
+     7 se 6 bu　　　　　　　 Shoemon
+   "North Akagi"
+     9 se　　　　　　　　　　Yahei
+
+[Left page]
+   "Rice drying ground"
+     5 se 10 bu　　　　　　　Saemon
+   "East"
+     1 tan 6 se 20 bu　　　　Izaemon
+   "Middle bridge"
+     6 se　　　　　　　　　　Same person
+   "Adjacent to Kubota residence"
+     2 se　　　　　　　　　　Ihei
+   "Lower Koide plain"
+     3 se　　　　　　　　　　Village common
+   "Same location"
+     2 se 4 bu　　　　　　　 Same
+   "Same location"
+     3 se 10 bu　　　　　　　Same
+   "Same location"
+     3 se 18 bu　　　　　　　Same
+
+1. Pine and miscellaneous tree domain forest: 8 se 20 bu　　1 location
+
+1. Mountain forest: 5 cho 7 tan 6 se 12 bu　　　Farmers' mountain holdings
+   Rice tax for this mountain: 1 koku 1 to 5 sho 2 go 8 shaku
+                               2 sho per tan
+   Breakdown:
+                               Ten [written in red]

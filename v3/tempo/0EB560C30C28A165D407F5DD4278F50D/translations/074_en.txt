@@ -1,0 +1,11 @@
+1. Assessed yield: 982 koku, 8 to, 6 sho, 8 go　　　　　　《Location: Takamori Village》
+1. Assessed yield: 903 koku, 2 to, 8 sho, 8 go　　　　　　　　《Location: Ishida Village》
+1. Assessed yield: 332 koku, 7 to　　　　　　　　　《Location: Mitsukejima Village》
+【In the Old Assessment and Domain Records Database, Mitsukejima Village is recorded as Mitsukejima Village.】
+1. Assessed yield: 1,961 koku, 4 to, 7 sho, 7 go, 3 shaku　　《Location: Shimo-Kasuya Village》
+【In the Old Assessment and Domain Records Database, Shimo-Kasuya Village is recorded as Shimo-Kasuya Village.】
+1. Assessed yield: 958 koku, 5 to, 4 sho, 4 go, 9 shaku, 2 sai　　《Location: Numame Village》
+　　　　　　　　　　　　　　　　　《Note: Branch village of Numame Village》
+1. Assessed yield: 611 koku, 5 to, 3 sho, 4 go, 6 shaku, 3 sai　　　《Location: Ikehata Village》
+1. Assessed yield: 389 koku, 3 sho, 1 go, 6 shaku　　　　　　《Location: Kamitani Village》
+1. Assessed yield: 889 koku, 8 to, 2 sho, 3 go　　　　　　《Location: Shimotani Village》

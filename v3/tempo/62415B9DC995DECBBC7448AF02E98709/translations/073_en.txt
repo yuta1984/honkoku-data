@@ -1,0 +1,8 @@
+One, assessed yield: 230 koku, 6 to, 3 shō, 6 gō　　《Location: Nishi Village》
+One, assessed yield: 62 koku, 8 to, 3 shō, 5 gō　　　《Location: Nabekura Village》
+One, assessed yield: 81 koku, 9 to, 3 shō, 6 gō　　　《Location: Yoichidani Village》
+One, assessed yield: 368 koku, 7 to, 4 shō, 5 gō　《Location: Kinuya Village》
+One, assessed yield: 324 koku, 6 to, 2 shō, 1 gō　《Location: Baba Village》
+One, assessed yield: 204 koku, 3 shō, 4 gō　　　　　《Location: Tokunaga Village》
+One, assessed yield: 148 koku, 2 to, 9 shō, 8 gō　　《Location: Takenobu Village》
+One, assessed yield: 88 koku, 1 to, 5 shō, 6 gō　　　《Location: Dōkawauchi Village》

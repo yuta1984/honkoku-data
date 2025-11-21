@@ -1,0 +1,8 @@
+Item 1: Assessment 30 koku, 2 to, 1 sho, 6 go　　　　《Location: Sugishita Village》
+Item 1: Assessment 320 koku, 3 to, 9 sho　　　《Location: Isanuma Village》
+Item 1: Assessment 1,209 koku, 5 to, 9 sho, 4 go　　《Location: Kamoda Village》
+Item 1: Assessment 515 koku, 6 to, 1 sho　　　《Location: Ishida Hongo》
+Item 1: Assessment 533 koku, 1 to, 6 sho　　《Location: Kitatajima Village》
+Item 1: Assessment 319 koku, 9 to, 3 sho, 5 go　　《Location: Yanaka Village》
+Item 1: Assessment 69 koku, 5 to, 6 sho, 9 go　　《Location: Terai Matsugō》
+Item 1: Assessment 196 koku, 4 to, 3 sho, 5 go　　《Location: Terai-juku》

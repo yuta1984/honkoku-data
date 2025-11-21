@@ -1,0 +1,8 @@
+Item 1: Assessed yield 625 koku 5 to 1 sho 1 go　　《Location: Kiyokawa Village》
+Item 1: Assessed yield 1,964 koku 1 sho 6 go　　　《Location: Tanoguchi Village》
+Item 1: Assessed yield 801 koku 1 to 1 sho 1 go　　　　《Location: Sanbun Village》
+Item 1: Assessed yield 541 koku 9 sho 7 go　　　　《Location: Shimokoshi Village》
+Item 1: Assessed yield 1,109 koku 2 to 7 sho 2 go　　　　《Location: Irisawa Village》
+Item 1: Assessed yield 334 koku 8 to 5 sho 4 go　　《Location: Hirabayashi Village》
+Item 1: Assessed yield 514 koku 5 sho 5 go　　　　　《Location: Kamiumise Village》
+Item 1: Assessed yield 177 koku 9 to 7 sho 7 go　　　《Location: Yochi Village》

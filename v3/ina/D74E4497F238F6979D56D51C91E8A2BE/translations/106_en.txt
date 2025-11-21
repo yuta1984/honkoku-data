@@ -1,0 +1,51 @@
+【Right Page】
+　　《Location: Kōjin》　
+　　Mixed woodland: 6 se bu　　　　　　《Names: Kobē｜Shinroku｜Jinzaburō》
+　　《Location: Inari》
+　　Grass mountain: 2 tan bu　　　　　　　《Names: Shinroku｜Kobē》
+　　《Location: Asaka》
+　　Mixed woodland: 4 se 24 bu　　　　Zensaemon　
+　　《Location: Same place》
+　　Grass mountain: 1 tan 6 se 20 bu　　　《Names: Kobē｜Jinzaburō》
+　　《Location: Kokuri-sawa》
+　　Grass mountain: 1 tan 8 se bu　　　　　Village communal
+　　　Within this mountain, above the side road is iriai with Hakotatami in Shioda village
+　　《Location: Yama-no-hata》
+　　Mixed woodland: 5 tan 3 se 10 bu　　　《Names: Ninbē｜Kihē》
+　　《Location: Kokuri-sawa》
+　　Brushwood mountain: 4 se 15 bu　　　　　Village communal
+　　《Location: Ōkuri-sawa》
+　　Brushwood mountain: 1 se bu　　　　　　　Kihē
+　　《Location: Same place》
+　　Grass mountain: 1 chō 5 tan bu　　　《Names: Gonjūrō　Sōbē｜Shōzaburō　Kihē｜Shichiemon　Ninbē》
+　　《Location: Toyako》
+　　Grass mountain: 4 tan bu　　　　　　　Gonjūrō
+　　《Location: Ōkuri-sawa》
+　　Grass mountain: 1 chō 5 tan bu　　　　　《Names: Shinroku｜Zensaemon｜Hansaburō｜Zentayū》
+　　《Location: Shimizu》
+　　Grass mountain: 1 chō 1 tan 6 se 20 bu　　Zensaemon
+
+【Left Page】
+　　《Location: Nijūhira》
+　　Grass mountain: 1 chō bu　　　　　　　Village communal
+
+　　　　Tax-exempt land
+　　　　　　　　　　　　《Buddhist sect: Zen》
+One　Temple precinct: 1 tan 6 se bu　　　　Zenpuku-ji Temple
+　　Pine forest: 4 tan bu　　　　　　Same temple
+　　　　　　　　　　　　《Shrine priest: Zentayū》
+One　Shrine land: 5 tan bu　　　　　　Hakoishi Daimyōjin
+　　　　　　　　　　　　　　　Shrine building exists　
+　　　　　　　　　　　　《Village communal maintains it》　
+One　Shrine land: 3 se 10 bu　　　　　Inari Daimyōjin
+　　　　　　　　　　　　　　　Shrine building exists　
+　　　　　　　　　　　　《Village communal maintains it》　
+One　Shrine land: 9 bu　　　　　　　Komagata Myōjin
+　　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　　《Village communal maintains it》　
+One　Shrine land: 1 se 18 bu　　　　Kōjin (deity)
+　　　　　　　　　　　　　　Shrine building exists
+　　　　　　　　　　　　《Kyūzaemon maintains it》
+One　Temple hall land: 8 se bu　　　　　　　Jūō (Ten Kings)　
+　　　　　　　　　　　　　　　Hall building exists
+　　　　　　　　　　　24 [written in red]

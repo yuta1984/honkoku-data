@@ -1,0 +1,8 @@
+1. Assessed yield: 132 koku, 1 to, 3 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　Shimizu village
+1. Assessed yield: 94 koku, 7 to, 3 sho, 4 go　　　　　　　　　　　　　　　　　　　　　　　Kawaguchi village
+1. Assessed yield: 69 koku, 7 to, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　Kaitsuda village
+1. Assessed yield: 45 koku, 8 to, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　Matsumoto village
+1. Assessed yield: 53 koku, 6 to, 7 sho　　　　　　　　　　　　　　　　　　　　　　　　　Yashirowaki village
+1. Assessed yield: 113 koku, 3 to, 1 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　Okubo village
+1. Assessed yield: 43 koku, 8 to, 6 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　Takare village
+1. Assessed yield: 49 koku, 2 to, 2 sho, 3 go　　　　　　　　　　　　　　　　　　　　　　　Inozawa village

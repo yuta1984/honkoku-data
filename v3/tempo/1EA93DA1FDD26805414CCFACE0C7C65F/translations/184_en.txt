@@ -1,0 +1,8 @@
+Item 1: Assessment 389 koku, 3 to, 7 sho, 1 go　　　　《Location: Numaguro Village》
+Item 1: Assessment 186 koku, 5 to, 5 sho, 6 go　　　　《Location: Yoshoshiki Village》
+Item 1: Assessment 2,024 koku, 1 to, 6 sho, 1 go　　　《Location: Sayada Village》
+Item 1: Assessment 2,234 koku, 3 sho, 7 go　　　　《Location: Kumagaya Town》
+Item 1: Assessment 377 koku, 3 to, 4 sho, 6 go　　　　《Location: Teshima Village》
+Item 1: Assessment 84 koku, 6 to, 2 sho, 9 go　　　《Location: Egawa Shimokuge Village》
+Item 1: Assessment 688 koku, 5 sho, 5 go　　　　　　《Location: Koizumi Village》
+Item 1: Assessment 218 koku, 4 to, 5 sho, 2 go　　　　　《Location: Kugeto Village》

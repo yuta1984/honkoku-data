@@ -1,0 +1,298 @@
+#1 [Below the street]
+[Shop] │◐Matsuya Bunshirō
+○Katano-suke
+　　Akeha (Bright Leaves)
+　　Kochō (Butterfly)
+○Kasumi no (Mist)
+　　Take no
+　　Haruka (Distant)
+○Futamachi (Two Towns)
+　　Matsu no
+○[Blank]
+○[Blank]
+△Mitsuura (Light Bay)
+　　Utaha (Song Leaves)
+△Ne no hi (Rat Day)
+　　Kinshi (Gold Child)
+
+△Nishiki no (Brocade)
+　　Kiyo no
+△Kayōji (Commuting Path)
+△Kashiwagi (Oak Tree)
+△Utaura (Song Bay)
+△[Blank]
+　Shirakiku (White Chrysanthemum)
+　Makikinu (Rolled Silk)
+　Misao (Fidelity)
+　Konoito (This Thread)
+　Shinonome (Dawn)
+　Utasono (Song Garden)
+　Hatsuito (First Thread)
+
+　Utakiku (Song Chrysanthemum)
+　Utahashi (Song Bridge)
+　Mitsuhashi (Light Bridge)
+　Kasumi no (Mist)
+　Matsukaze (Pine Wind)
+　Chitose (Thousand Years)
+　Yoshino
+
+　　　Geisha
+　　　　Chiyo
+　　Also available
+　　　　for outside calls
+
+　　　Yarite (madam)
+　　　　Matsu
+
+[Shop] ◐Nishimotoya Kozaemon
+○Tarishige (Sufficient Luxury)
+　　Shigeshi
+○[Blank]
+○Takegawa (Bamboo River)
+　　Koishi (Love Child)
+○Kumoi (Cloud Dwelling)
+　　Fushi no
+○Matahashi (Again Bridge)
+　　Midori (Green)
+○Nishikito (Brocade Door)
+△Makio (Rolled Tail)
+
+△Kinzan (Gold Mountain)
+△Sotekichi (Sleeve Lucky)
+△Ukigumo (Floating Cloud)
+△Sazanka (Camellia)
+△Naruse (Crying Rapids)
+　[Blank]
+　Orisaki (Weaving Point)
+　Hatsukiku (First Chrysanthemum)
+　Take no ko (Bamboo Shoot)
+　Yoshimaki (Good Roll)
+
+　Wakana (Young Greens)
+　Mikumo (Beautiful Cloud)
+　Kotofuki (Koto Happiness)
+　Hanaōgi (Flower Fan)
+　Konohana (This Flower)
+　Michikara (Road Strength)
+
+　　Yarite (madam)
+　　　Hatsu
+
+[Shop] ◐Ebiya Kyūemon
+○Kame no i (Turtle Well)
+　　Torashi
+○Orie (Weaving Bay)
+　　Matsu no
+○Kyōura (Capital Bay)
+　　Sakura no
+○Tanigawa (Valley River)
+　　Koshichi
+○Kotofuki (Koto Happiness)
+○[Blank]
+
+《Note: From here》
+△Toyoharu (Abundant Spring)
+△Nami no to (Wave Door)
+△Sayohime (Night Princess)
+△Harunami (Spring Wave)
+△Tomikawa (Wealth River)
+△Nishiki no (Brocade)
+△Muraaoi (Village Hollyhock)
+△Fujishino (Wisteria Purple)
+
+　Matsushima (Pine Island)
+　Someyama (Dye Mountain)
+　Kamekiku (Turtle Chrysanthemum)
+　Orishige (Weaving Luxury)
+　Urasato (Bay Village)
+　Karauta (Chinese Song)
+
+　　　Yarite (madam)
+　　　　Kura
+
+[Shop] │◐Okamotoya Chōbē
+○Hanachiyo (Flower Generation)
+　　Tayori (News)
+○Yoshimina
+　　Wakagi (Young Tree)
+○Maki no o (Roll Tail)
+　　Akashi
+○Ori□□
+　　Seo□
+　　Nashiyo
+○Hanatsuru (Flower Crane)
+　　□□□
+　　Sonome (Garden Woman)
+○Takamaki (High Roll)
+　　Tomishi
+○Iyoteru (Iyo Shine)
+　　Naniwa (Osaka)
+
+《Note: From here》
+△Chiyotsuru (Thousand Generation Crane)
+　　Himeka (Princess Fragrance)
+△Koisan (Love Mountain)
+　　Kureha (Crimson Leaves)
+△Hana no
+　　Kiyoshi
+△Ayakiri (Twill Paulownia)
+　　Isoshi
+△Hanatori (Flower Bird)
+　　Kochō (Butterfly)
+△Matsui (Pine Well)
+　　Matsu no
+△Namikinu (Wave Silk)
+　　Namishi
+△Murakaki (Village Fence)
+　　Mukashi (Past)
+△Wakasato (Young Village)
+　　Kiyosa
+△Sarasa no (Calico)
+△Someura (Dye Bay)
+
+△Minaso
+△Utahashi (Song Bridge)
+　Makishi
+　Somekiku (Dye Chrysanthemum)
+　Yoshisumi (Good Dwelling)
+　Waka no i (Young Well)
+　Katsuragi (Kudzu Castle)
+　Hana no ki (Flower Tree)
+　Moshio
+　Hatsukaze (First Wind)
+　Somekinu (Dye Silk)
+　Taki no o (Waterfall Tail)
+　Hanaseta (Flower Seta)
+　Harui no (Spring Well)
+　Orie (Weaving Bay)
+
+　　□□
+　　　Geisha
+　　　　Taki
+　　All together
+　　　Sei
+
+　　　Yarite (madam)
+　　　　Tatsu
+
+―――――――――
+[The center is crossed by Kadomachi Street]
+―――――――――
+#3 [Above the street]
+[Shop] ◐Ōmaruya Sōemon
+○Matsushima (Pine Island)
+　　Kenshi
+○Kiyotaki (Pure Waterfall)
+　　Daikichi
+○Shizuhata (Quiet Loom)
+　　Yoshiya
+○Chisato (Thousand Villages)
+　　Kashiku
+○Some no suke (Dye Assistant)
+○Sumakinu (Suma Silk)
+△Shirakiku (White Chrysanthemum)
+△Kikusono (Chrysanthemum Garden)
+△Hatsuume (First Plum)
+△Wakakusa (Young Grass)
+
+△Tamagawa (Jewel River)
+△[Blank]
+△[Blank]
+△Umekae (Plum Maple)
+△Kotoura (Koto Bay)
+△Tamashima (Jewel Island)
+　Kikusato (Chrysanthemum Village)
+　Chiyotsuru (Thousand Generation Crane)
+　Shigematsu (Luxuriant Pine)
+　Yaekiku (Double Chrysanthemum)
+　Someito (Dye Thread)
+　Mihosaki (Miho Point)
+　Hanaoka (Flower Hill)
+　Utagawa (Song River)
+　Kinzan (Gold Mountain)
+
+　Hanakichi (Flower Lucky)
+
+　　Yarite (madam)
+　　　Kura
+
+[Shop] ◐Kokuya Jūemon
+○Mitsuaya (Light Twill)
+　　Daikichi
+○Shige no to (Luxury Door)
+　　Shigemi
+○Wakaume (Young Plum)
+○Tamakiku (Jewel Chrysanthemum)
+○[Blank]
+○[Blank]
+○[Blank]
+○Miyomaki (Beautiful Generation Roll)
+○Yoshimura (Good Village)
+○Matsuura (Pine Bay)
+
+　Miyako no (Capital)
+　Umekae (Plum Maple)
+　Hanamachi (Flower Town)
+　Shigetsuru (Luxuriant Crane)
+　Hana no ka (Flower Fragrance)
+　Sumi no he (Ink Edge)
+　Chiyotsuru (Thousand Generation Crane)
+
+　　Performer
+Gidayū　Ine
+　Also available for outside calls
+
+　　Yarite (madam)
+　　　Kura
+
+[Shop] │◐Yamaguchiya Yohē
+○Isame (Admonish)
+　　Shinobu (Endure)
+　　Nanasuya
+○Kinzan (Gold Mountain)
+　　Daikichi
+　　Kichishi
+○Ōshū (Northern Province)
+　　Akeha (Bright Leaves)
+　　Kureha (Crimson Leaves)
+○Kikusono (Chrysanthemum Garden)
+　　Utaki
+　　Uta no
+○Kotofuki (Koto Happiness)
+　　Maki no
+○Yamabuki (Mountain Buttercup)
+　　Haru no
+　　Haruka (Distant)
+○[Blank]
+《Note: From here》
+△Wakamatsu (Young Pine)
+
+△Wakamakuchi (Young Mouth)
+△Hatsuume (First Plum)
+△Kiyomura (Pure Village)
+△Onosaki (Small Field Point)
+△Katsuyama (Victory Mountain)
+△[Blank]
+　Minahana (All Flowers)
+　Yamachi (Mountain Thousand)
+　Ayakinu (Twill Silk)
+　Wakaume (Young Plum)
+　Hana no to (Flower Door)
+　Sumi no e (Ink Bay)
+　Makikinu (Roll Silk)
+　Onomaki (Small Field Roll)
+　Isao (Merit)
+　Yama no e (Mountain Bay)
+
+　Someyama (Dye Mountain)
+　Henzan (Universal Mountain)
+　Aoba (Blue Leaves)
+　Kiku no he (Chrysanthemum Edge)
+　Ozasa (Small Bamboo Grass)
+　Ono he (Small Field Edge)
+　Isaraki (Merit Cliff)
+　Kametsuru (Turtle Crane)
+
+　　Yarite (madam)
+　　　Soyo

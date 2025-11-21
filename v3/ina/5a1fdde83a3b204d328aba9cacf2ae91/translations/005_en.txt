@@ -1,0 +1,29 @@
+[Right page]
+　　　　　　　Principal: Zenchi [Note attached: "This person became ill while traveling"]
+　　　　　　　Guarantor: Shinzaemon (seal)
+1. This person is lodging at the inn of Takeuemon in Tsukahara village, Koma county, Kai province
+　　　　　　　Principal: Ichibei (seal)
+　　　　　　　Guarantor: Shouemon (seal)
+1. This person is lodging at the inn of Seiuemon in Oyata village, Koma county, Kai province
+　　　　　　　Principal: Yauemon [Note attached: "This person became ill while traveling"]
+　　　　　　　Guarantor: Sadakura (seal)
+
+[Left page]
+1. This person is lodging at the inn of Seihei in Ueda Kaizenji, Chiisagata county, Shinano province
+　　　　　　　Principal: Kyuzaemon (seal)
+　　　　　　　Guarantor: Kyuuchi (seal)
+1. This person is lodging at the designated inn of Iuemon in Renjaku-cho, Kofu, Kai province
+　　　　　　　Principal: Washichi [Note attached: "This person became ill while traveling"]
+　　　　　　　Guarantor: Magouemon (seal)
+1. This person is lodging at the inn of Seihei in Ueda Kaizenji, Chiisagata county, Shinano province
+　　　　　　　Principal: Shobei (seal)
+　　　　　　　Guarantor: Bunshichi (seal)
+1. This person is lodging at the inn of Denzaemon in Ashida village, Saku county, Shinano province
+　　　　　　　Principal: Kauemon (seal)
+　　　　　　　Guarantor: Shichibei (seal)
+1. This person is lodging at the inn of Morikichi in Iwato village, Kanra county, Joshu province
+　　　　　　　Principal: Toyokura (seal)
+　　　　　　　Guarantor: Masuzaemon (seal)
+1. This person is lodging at the inn of Shinbei in Kami-Sekisuiji village, Yamanashi county, Kai province
+　　　　　　　Principal: Chobei [Note attached over seal: "This person became ill while traveling"]
+　　　　　　　Guarantor: Denbei (seal)

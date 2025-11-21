@@ -1,0 +1,8 @@
+【Title: Chapter 36 - About Something Called Yakushi-zan (Pharmacist's Calculation)】
+
+When arranged in four directions like this with eight pieces on each side, leave the eight pieces on one side as they are, break up the three sides and arrange them again in groups of eight - there will be a remainder of four. This method involves hearing only this remainder and stating the total number.
+The answer is "twenty-eight."
+
+In the method, treat each unit as groups of four to get sixteen, then add twelve to this to get twenty-eight. This twelve is always added. When there is "no remainder," there are twelve, making twenty. It can also be said there are one hundred twenty.
+
+This Jinkōki (Dust Kalpa Record) has been published many times, creating diagrams to show practical calculation methods for commerce, but because it is the work of my foolish design, it lacks thoroughness. Sometimes it is insufficient, sometimes too complicated, and I lament that it does not spread well in the world. Now I wish to separate the methods of second and third powers and transmit them to future generations. There are fifteen additional volumes besides this.

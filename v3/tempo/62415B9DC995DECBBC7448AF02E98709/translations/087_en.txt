@@ -1,0 +1,8 @@
+One, assessed yield: 145 koku, 2 to, 1 shō, 4 gō　　《Location: Higashi Village》
+One, assessed yield: 254 koku, 4 to, 2 shō, 6 gō　《Location: Kawakami Village》
+One, assessed yield: 380 koku, 7 to, 5 shō　　　　《Location: Hagiwara Village》
+One, assessed yield: 294 koku, 8 to, 2 shō, 1 gō　《Location: Kawamoto Village》
+One, assessed yield: 158 koku, 9 to, 7 shō, 6 gō　　《Location: Kamihagiyama Village》
+One, assessed yield: 217 koku, 9 to, 8 gō　　　　《Location: Tari-juku》
+One, assessed yield: 253 koku, 4 to, 1 shō, 7 gō　《Location: Shinya Village》
+One, assessed yield: 131 koku, 3 to, 5 shō, 2 gō　　《Location: Nakazono Village》

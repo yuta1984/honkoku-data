@@ -1,0 +1,33 @@
+238　　　　　　　 Immunity and Antivirus　　　　　　　　　　
+――――――――――――――――――――――――――――――――――
+As he states, "the organism behaves toward cells from heterologous animals exactly as it does toward bacteria; that is, injection of such cells promotes the appearance of specific antibodies that correspond very well to antibodies that correspond to and act similarly against bacteria." Therefore Bordet concludes, "by the same mechanism, the organism becomes immunized sometimes against bacteria, sometimes against non-infectious heterologous cells, red blood cells."
+
+This conclusion should be rigorously tested. Does the organism behave in exactly the same way according to the presence of infectious cells or red blood cells? Can it not be said that red blood cells differ from bacteria in that they do not proliferate and do not secrete toxins? Therefore, it is not very likely that red blood cells produce the same changes as bacteria within the organism.
+
+It is true that animals injected with heterologous cells become uncomfortable; however, they manage to eliminate them through a favorable balance. For example, this is not the same for animals inoculated with cholera bacilli; these animals suffer the agony of nearly dying from it. When they survive, they become in a protected state.
+
+From the viewpoint of the elements by which the organism acts in the two cases, there is one difference that must be known.
+
+What is common to red blood cells and bacteria is the nature of the proteins that constitute them, against which the organism acts to produce lytic or agglutinating antibodies.
+
+If immunity against bacteria were an exact copy of immunity demonstrated for red blood cells, that is, if immunity were governed by two substances - complement-fixing substances (sensitizers) and alexin (aggressive substances) - then antibacterial immunity without the corresponding antibodies should not be recognized. However, there are very often cases where complement-fixing substances and immunity do not proceed in step. We also believe that the two-substance theory, which generally explains very clearly the formation of hemolysins and cytolysins, should not be frankly and simply transplanted to the field of anti-infectious immunity.
+
+Research on anthrax bacilli, streptococci, staphylococci, and other bacteria has revealed to us facts that cannot be placed within the range of phenomena characteristic of cytolytic sera. We have often been able to achieve solid local and systemic immunity without seeing the expression of any known antibodies at any time.
+
+ 　　　　　　　　　　 Immunity and Antivirus　　　　　　　　　　239
+――――――――――――――――――――――――――――――――――
+Therefore, what we dare to conclude is that these antibodies are not indispensable, and thus we must seek other causes of immunity. Following research that we wish to summarize briefly, we came to question whether, in the struggle against infection, we might not achieve our purpose more easily by trying to strengthen the organism rather than seeking to act directly on the bacteria.
+
+Here let us state what our starting point is. We know how harmful anthrax bacilli are: a single anthrax bacillus is sufficient to kill mice, guinea pigs, and even rabbits. Upon autopsy, we are surprised to see numerous bacilli proliferating in the blood and other organs. Moreover, people have always considered anthrax disease as typical of septicemia.
+
+When we study this disease rigorously, the susceptibility of laboratory animals to anthrax, instead of appearing similarly in all organs, is strictly localized within the integumentary covering of skin and mucous membranes.
+
+We found that under certain experimental conditions, guinea pigs can tolerate 10, 100, 1000 times the amount in any tissue at once without adverse results, for which "there was nothing else but to perform inoculation so that the skin would not come into contact with the virus." Anthrax bacilli appear extremely harmful because whenever inoculation is performed, they pass through the skin and undoubtedly cause skin infection each time.
+
+If, in anthrax, the skin is the susceptible organ, then quite logically speaking, the place where preventive vaccination should be performed is the skin. Indeed, from the viewpoint of preventive vaccination, borrowing the cutaneous route, we achieved cutaneous immunity in guinea pigs, an immunity that becomes non-susceptible not only to the first and second vaccines but also to the virus itself.
+
+Thereafter, we could inject almost unlimited amounts of virus into guinea pigs intraperitoneally, intrapleurally, intrarenally, and intracerebrally, and the animals showed little or only slight reactions.
+
+Is this anthrax immunity obtained by cutaneous inoculation based on the presence of two substances in the serum?
+
+First of all, since only the cutaneous route, excluding all others, allows this immunity to be obtained in laboratory animals, the existence of two substances no longer seems likely.

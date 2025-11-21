@@ -1,0 +1,8 @@
+Item 1: Assessment 2,026 koku, 1 to, 4 sho, 1 go　　　　　　《Location: Nakano Village》
+Item 1: Assessment 256 koku, 3 to, 6 sho, 5 go, 7 shaku, 1 sai　　《Location: Hongo Village》
+Item 1: Assessment 608 koku, 8 to, 1 sho, 6 go, 7 shaku　　　　　《Location: Horinouchi Village》
+Item 1: Assessment 344 koku, 7 sho, 1 go　　　　　　　　《Location: Zoshiki Village》
+Item 1: Assessment 238 koku, 8 to, 5 sho, 3 go　　　　　　《Location: Wada Village》
+Item 1: Assessment 202 koku, 1 go　　　　　　　　　　　　《Location: Izumi Village》
+Item 1: Assessment 124 koku, 1 to, 6 sho, 9 shaku, 4 sai　　　《Location: Ekoda Shinden》
+Item 1: Assessment 178 koku, 1 to, 5 sho, 4 go　　　　　　《Location: Eifukuji Village》

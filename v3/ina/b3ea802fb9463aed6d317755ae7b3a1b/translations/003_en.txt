@@ -1,0 +1,25 @@
+43 ken　　Honmachi
+　　　　　　55 ken　　Yokomachi
+　　　　　　56 ken and more　Shimizu-machi
+　　　　　　　　Right main road　Shinmachi
+One, There are no highways within the town　　　　Seri-machi
+One, Our town is located on a main road　　　　Shimosato-machi
+　　　　　The above four towns are on the main road　Fukuro-machi
+　　　　　　To Suwa Takashima castle town in Shinshu　7 ri
+　　　　　　To Matsumoto castle town in the same province　　　13 ri
+　From the above town　To Iida castle town in the same province　　　12 ri
+　　　　　　To Iijima magistrate's office in the same province　　7 ri
+One, From our town, neighboring villages in all directions (east, west, south, north) are continuous with Hokoji village residences
+One, There are no rivers
+
+One, There are no temples or shrines with vermillion seals
+One, There are no temples
+One, Three small shrines
+　　Breakdown　Two Inari shrines
+　　　　　One Asama shrine
+One, There are no famous places
+One, There are no historical sites
+One, There are no local specialties
+One, There are no old castle ruins
+One, Distant mountain views
+　　　Mount Komagatake　Direction: westward, approximately 3 ri away

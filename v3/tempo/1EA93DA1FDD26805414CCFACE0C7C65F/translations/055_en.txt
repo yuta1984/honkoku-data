@@ -1,0 +1,8 @@
+Item 1: Assessment 322 koku, 5 to, 3 sho, 7 go, 8 shaku, 6 sai　《Location: Shimo-Asao Village》
+Item 1: Assessment 333 koku, 5 to, 3 sho, 8 go　　　　　《Location: Ozenji Village》
+Item 1: Assessment 70 koku, 1 sho, 1 go　　　　　　　　　　《Location: Kurosuda Village》
+Item 1: Assessment 255 koku, 5 to　　　　　　　　　　《Location: Hayano Village》
+Item 1: Assessment 224 koku, 6 to, 1 sho, 6 go, 9 shaku　　　　《Location: Jike Village》
+Item 1: Assessment 285 koku, 5 to, 3 sho, 2 go　　　　　《Location: Kamoshida Village》
+Item 1: Assessment 99 koku, 8 sho, 8 go　　　　　　　　　　《Location: Nakatetsu Village》
+Item 1: Assessment 921 koku, 9 to, 6 sho, 3 go　　　　　　《Location: Ishikawa Village》

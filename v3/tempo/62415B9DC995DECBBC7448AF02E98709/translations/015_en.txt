@@ -1,0 +1,8 @@
+One, assessed yield: 83 koku, 1 to, 6 shō, 8 gō　　　《Location: Kamikura Village》
+One, assessed yield: 87 koku, 3 to, 5 shō　　　　　《Location: Nakatsu Village》
+One, assessed yield: 12 koku, 6 to, 4 shō, 3 gō　　　　《Location: Tawarahara Village》
+One, assessed yield: 15 koku, 2 shō, 1 gō　　　　　　《Location: Monzen Village》
+One, assessed yield: 303 koku, 4 to, 3 shō, 1 gō　　　《Location: Sakamoto Village》
+One, assessed yield: 326 koku, 9 to, 6 shō, 3 gō　《Location: Katashiba Village》
+　Subtotal: assessed yield: 25,312 koku, 8 to, 9 shō
+　　　　　　　　　　《Location: Kawamura District》　104 villages

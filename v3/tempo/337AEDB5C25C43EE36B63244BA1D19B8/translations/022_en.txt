@@ -1,0 +1,8 @@
+One: Assessed rice yield 475 koku 6 to 8 sho 5 go　　　　　　《Location: Sue Village》
+One: Assessed rice yield 458 koku 6 sho 2 go　　　　　　　　《Location: Byōdōji Village》
+One: Assessed rice yield 741 koku 5 to 5 sho 5 go　　　　　　《Location: Yamada Village》
+One: Assessed rice yield 1,526 koku 8 to 2 sho 7 go 6 shaku 8 sai　《Location: Ikeda Village》
+One: Assessed rice yield 1,733 koku 8 to 2 sho 1 go　　　　　《Location: Tano Village》
+One: Assessed rice yield 1,270 koku 9 to 5 sho 4 go　　　　　《Location: Kamihachi Village》
+One: Assessed rice yield 85 koku 9 to 5 go 5 shaku　　　　　　《Location: Kanezaki Village》
+One: Assessed rice yield 181 koku 7 to 8 sho 5 go　　　　　　《Location: Chinoshima Village》

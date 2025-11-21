@@ -1,0 +1,8 @@
+One, assessed yield: 97 koku, 4 sho, 1 go, 4 shaku　　　《Location: Tsuhoji Village》
+One, assessed yield: 238 koku, 4 to, 9 sho, 4 go　《Location: Shinmachi Village》
+One, assessed yield: 348 koku, 4 sho　　　　　《Location: Daikoku Village》
+One, assessed yield: 420 koku　　　　　　　　《Location: Komagatani Village》
+One, assessed yield: 395 koku, 1 to, 2 go　　　《Location: Asuka Village》
+One, assessed yield: 588 koku, 4 to, 9 sho　　　《Location: Usui Village》
+One, assessed yield: 194 koku, 5 to, 6 sho, 7 go　　《Location: Higashisakata Village》
+One, assessed yield: 402 koku, 1 to, 1 sho, 2 go　　《Location: Kuranochi Village》

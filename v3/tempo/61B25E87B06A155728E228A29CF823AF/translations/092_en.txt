@@ -1,0 +1,8 @@
+1. Assessed yield: 378 koku, 8 to, 5 sho, 7 go　　　　　　Ikegashira village
+1. Assessed yield: 203 koku, 2 to, 3 sho, 5 go　　　　　　Nonomiya village
+1. Assessed yield: 412 koku, 4 to, 8 sho, 5 go　　　　　　Yokote village
+1. Assessed yield: 349 koku, 8 to, 2 sho, 1 go　　　　　　Hiraguchi village
+1. Assessed yield: 571 koku, 8 to, 5 sho, 2 go, 5 shaku, 7 sai　　Nakata village
+1. Assessed yield: 931 koku, 6 to, 1 sho, 2 go　　　　　　Tomiyoshi shinden
+1. Assessed yield: 116 koku, 1 to, 6 sho, 7 go　　　　　　Tomiyoshi-soto shinden
+1. Assessed yield: 1,133 koku, 5 to, 3 sho, 6 go　　　　　Ajihama village

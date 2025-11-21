@@ -1,0 +1,8 @@
+Item 1: Assessment 355 koku, 8 sho, 2 go　　　　《Location: Katakura Village》
+Item 1: Assessment 516 koku, 6 to, 1 sho, 4 go　　　《Location: Kobiki Village》
+Item 1: Assessment 232 koku, 5 to, 7 sho, 4 go　　《Location: Hongo Village》
+Item 1: Assessment 613 koku, 9 to, 1 sho, 2 go　　　《Location: Chirashida Village》
+Item 1: Assessment 15 koku　　　　　　　　　　　《Location: Yamada Village》
+Item 1: Assessment 105 koku, 5 sho, 9 go　　　　　　　　《Location: Kawa Village》
+Item 1: Assessment 226 koku, 5 to, 1 sho, 7 go　　《Location: Terakata Village》
+Item 1: Assessment 527 koku, 5 to, 4 sho, 5 go　《Location: Kami-Ongata Village》

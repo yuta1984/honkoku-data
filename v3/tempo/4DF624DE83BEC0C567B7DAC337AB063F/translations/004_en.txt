@@ -1,0 +1,8 @@
+Item 1: Assessed yield 516 koku 9 to 9 sho 9 go　　　　《Location: Kousaka Village》
+Item 1: Assessed yield 182 koku 6 to 3 sho　　　　　　《Location: Kousaka-shinden Village》
+Item 1: Assessed yield 1,315 koku 7 to 3 sho 6 go　　　《Location: Yasuhara Village》
+Item 1: Assessed yield 836 koku 1 to 7 sho 1 go 3 shaku　《Location: Shimohirao Village》
+Item 1: Assessed yield 652 koku 4 to 5 sho 2 go　　　《Location: Kamihirao Village》
+Item 1: Assessed yield 391 koku 7 to 4 sho 9 go　　　《Location: Yokone Village》
+Item 1: Assessed yield 136 koku 1 to 4 sho 9 go　　　　《Location: Omokae Village》
+Item 1: Assessed yield 286 koku 9 sho 9 go　　　　　《Location: Nashizawa Village》

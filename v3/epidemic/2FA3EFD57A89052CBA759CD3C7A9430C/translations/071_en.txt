@@ -1,0 +1,33 @@
+116　　　　　　　　　　　Cholera Vaccination
+――――――――――――――――――――――――――――――――――
+　　　　　　　　　　　　　I　Experimental Section
+　　　　　　　　　　　Partie Expérimentale
+
+The cholera bacillus was discovered in 1884. In 1885, Jaime Ferran announced that he had prepared a vaccine against cholera. Without engaging in laboratory experiments, and likely threatened by the epidemic that had broken out in Spain, Ferran proceeded directly to inoculation in humans. He inoculated many people and expressed satisfaction with the results. Signs that the epidemic might spread to neighboring countries worried the authorities. The French government sent a delegation of scholars to Ferran. Unfortunately, their investigation was conducted under poor conditions. The investigation team clashed over discrepancies in vaccine manufacturing methods. They provided poor assistance in the miserable cholera epidemic areas where they hoped to find elements for judgment, and made a bad report to France. In their report to the government, they declared: 'No proof has been established for the preventive value of cholera vaccination being carried out by Ferran.'
+
+This judgment weighed heavily on the vaccine's future. Some time later, it became known that Ferran's preparation consisted of live cholera bacteria isolated from patients.
+
+Five years had passed. Pasteur's ideas about virus-vaccines were gradually penetrating among biologists. W. Haffkine, a young technician at the Pasteur Institute, was determined to rekindle the vaccination problem. He proposed to apply to cholera what Pasteur had done for rabies and anthrax. He first endeavored to obtain a fixed virus, and from this starting point, worked to produce attenuated bacteria.
+
+Haffkine passed cholera bacilli from guinea pig to guinea pig. After a series of intraperitoneal inoculations, he obtained an exudate of invariable virulence. This is the "fixed virus." To obtain attenuated bacteria, inspired by the experiments of Roux and Yersin, he cultivated the fixed virus at 39° in a place with continuous ventilation. The bacteria became weakened, and at a certain period, the bacteria no longer caused gangrene under the skin of guinea pigs. Furthermore, when strong virulent bacteria were injected into these guinea pigs, they could prevent necrosis. Thus he was able to discover "attenuated bacteria."
+
+　　　　　　　　　　Cholera Vaccination　　　　　　　　　117
+――――――――――――――――――――――――――――――――――
+
+Haffkine simultaneously confirmed that the immunity produced using attenuated bacteria not only benefits local lesions, but that guinea pigs thus treated acquire the ability to resist one to several times the lethal dose of bacteria.
+
+When he had obtained the fixed virus and attenuated bacteria, he considered that his purpose was achieved, and only the implementation of inoculation in humans remained.
+
+In February 1893, he set sail for India, which was regarded as a cholera epidemic area. There he hoped to realize a great experiment that would undoubtedly provide a definitive solution to this problem. Unfortunately, unexpected obstacles arose from everywhere. That he succeeded in overcoming these difficulties and providing us with the first rigorous report on the efficacy of preventive vaccination in humans was solely due to his indomitable struggle. We shall reproduce it.
+
+　　　　　　　　　　＊　　＊　　＊
+
+Like Ferran, Haffkine used live cholera bacteria for preventive vaccination. In preparing the two types of vaccines, Haffkine employed perfect technique regarding their purity and virulence. Thus establishing the inoculation method according to Pasteur's doctrine, he believed he left nothing to chance.
+
+Now, this measurement of virulence, which Haffkine considers so important and which is practically entirely necessary for preventive vaccination against rabies and anthrax, is it indispensable in the case of cholera? Could the use of a single dead bacterium substitute for the two strains of living bacteria of strong and weak virulence? This was what the young Pasteurian Gamaléia questioned at the time.
+
+Gamaléia killed the bacilli by heating them to 120°. When he injected these into fresh guinea pigs, he confirmed that these guinea pigs could be protected against live cholera bacteria.
+
+This immunity was found to be even more solid in the experiments of Brieger, Kitasato, and Wassermann. These researchers, instead of heating cultures to 120°, used cholera bacteria killed by heating at 65° for 15 minutes. Following these studies, the history of cholera vaccination entered a new phase.
+
+Particularly in Germany, they came to engage in research on the properties of serum in inoculated animals

@@ -1,0 +1,16 @@
+Item: This person is from Shimakawara Village, Saku District
+　Designated lodging house Tajirōemon　Principal: Tokutarō (seal)
+　　　　　　　　　　　　　　　　　Guarantor: Sanzaemon (seal)
+
+Item: This person is from Tanimura, Tsuru District, Kōshū Province
+　Lodging house Genjirōemon　　Principal: Ichitarō (seal)
+　　　　　　　　　　　　　　Guarantor: Kozaemon (seal)
+
+Item: This person is from Shimakawara, Saku District
+　Lodging house Tajirōemon　　Principal: Kunitarō (seal)
+　　　　　　　　　　　　　　Guarantor: Sanzaemon (seal)
+
+Item: This person is from Kōshū Koma District
+　Henmi-Odagawa Village lodging　Principal: Yoshichitarō (seal)
+　house Uhyōe
+　　　　　　　　　　　　　　　Guarantor: Momotarō (seal)

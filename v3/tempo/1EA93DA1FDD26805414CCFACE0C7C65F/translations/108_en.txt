@@ -1,0 +1,8 @@
+Item 1: Assessment 163 koku, 3 to, 6 sho, 6 go　　《Location: Yamada Village》
+Item 1: Assessment 60 koku, 8 to, 8 sho, 1 go　　　《Location: Ajiro Village》
+Item 1: Assessment 662 koku, 8 to, 8 sho, 6 go　　《Location: Ina Village》
+Item 1: Assessment 62 koku, 7 to　　　　　　　《Location: Yokozawa Village》
+Item 1: Assessment 115 koku, 6 to, 8 go　　　　　《Location: Sannai Village》
+Item 1: Assessment 45 koku, 6 sho, 4 go　　　　　《Location: Fukazawa Village》
+Item 1: Assessment 56 koku, 4 to, 1 sho, 1 go　　　《Location: Tateyatsu Village》
+Item 1: Assessment 90 koku, 7 to, 2 sho, 4 go　　　《Location: Takao Village》

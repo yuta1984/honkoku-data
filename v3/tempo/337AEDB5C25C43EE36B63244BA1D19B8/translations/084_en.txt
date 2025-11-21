@@ -1,0 +1,8 @@
+One: Assessed rice yield 677 koku 9 to 2 sho 3 go 9 shaku　《Location: Doi Village》
+One: Assessed rice yield 437 koku 1 to 1 sho 9 go　　　　《Location: Hatta Village》
+One: Assessed rice yield 789 koku 2 to 5 sho 7 go 7 shaku　《Location: Tsuya Village》
+One: Assessed rice yield 1,004 koku 2 to 1 go 2 shaku　　　《Location: Tatara Village》
+One: Assessed rice yield 202 koku 5 sho 8 go　　《Note: Branch village of Tatara Village》《Location: Susaki Village》
+One: Assessed rice yield 613 koku 9 to 8 sho 8 go　　　　《Location: Matsuzaki Village》
+One: Assessed rice yield 180 koku 3 sho 6 go 3 shaku　　　《Location: Najima Village》
+One: Assessed rice yield 363 koku 7 sho 4 go　　　　　　　《Location: Hamao Village》

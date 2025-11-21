@@ -1,0 +1,23 @@
+【Right Page】
+Total rice yield: 411 koku, 1 to, 5 shō, 4 gō
+　　　Superior dry fields: 9 tan, 8 se, 5 bu　　　　　1.5 koku yield rate
+　　　Rice from this portion: 14 koku, 7 to, 2 shō, 5 gō
+　　　Medium dry fields: 2 chō, 2 tan, 8 se, 17 bu　　1.4 koku yield rate
+　　　Rice from this portion: 31 koku, 9 to, 9 shō, 9 gō
+　　　Inferior dry fields: 6 tan, 9 se, 28 bu　　　1.3 koku yield rate
+　　　Rice from this portion: 9 koku, 9 shō, 1 gō
+　　　Hemp fields: 3 tan, 8 se, 16 bu　　　　1.8 koku yield rate
+　　　Rice from this portion: 6 koku, 9 to, 3 shō, 6 gō
+　　　Residential lots: 4 tan, 1 se, 8 bu　　　　　1.7 koku yield rate
+　　　Rice from this portion: 7 koku, 1 shō, 5 gō
+
+【Left Page】
+Total rice yield: 69 koku, 7 to, 6 shō, 6 gō
+Combined rice yield from rice and dry fields: 480 koku, 9 to, 2 shō
+　　Of which 6 koku, 2 to, 5 shō, 6 gō　Rat year inspection deduction
+Remaining: 474 koku, 6 to, 6 shō, 4 gō　Taxable yield
+　　Tax collection from this: 111 koku, 5 to, 4 shō, 6 gō　23.5% tax rate
+Item: Assessed yield of 57 koku, 4 to, 1 shō, 3 gō　　　Same location newly developed fields
+　　Total area: 3 chō, 8 tan, 4 se, 9 bu
+　　Of which:
+　　Superior rice fields: 8 tan, 5 se, 13 bu　　　　　　　1.7 koku yield rate

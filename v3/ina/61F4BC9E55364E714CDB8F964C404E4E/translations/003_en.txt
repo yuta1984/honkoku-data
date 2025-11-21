@@ -1,0 +1,17 @@
+1. Higashikaze-maki　　1. Karukaya
+1. Otsukotsu　　　　　1. Nishi-otsukotsu
+1. Yoroi-iwa　　　　　1. Nishi-yoroi-iwa
+1. Akaiwa　　　　　　 1. Nishi-akaiwa
+1. Ido-sawa　　　　　 1. Omakari
+1. Kita-sawa　　　　　1. Minami-sawa
+1. Miko-fuchi　　　　 1. Kita-miko
+1. Eira　　　　　　　 1. Hikawa
+
+1. Sotowa-ishi　　　　1. Oguro-sawa
+1. Daikoku-sawa　　　 1. Nukukoya
+1. Ara-kawa　　　　　 1. Minami-sawa
+1. Kita-sawa　　　　　1. Ko-kuma-sawa
+1. Dai-kuma-sawa　　　1. Dai-yokogawa
+1. Ko-yokogawa　　　　1. Ao-ishi
+1. Ori-kawa
+Total: Forty-one locations

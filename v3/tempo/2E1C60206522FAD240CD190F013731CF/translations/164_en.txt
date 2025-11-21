@@ -1,0 +1,8 @@
+One village with a kokudaka of 12 koku, 8 to, 5 sho, 5 go: Taira Village
+One village with a kokudaka of 16 koku, 8 to, 3 sho, 6 go: Imanishi Village
+One village with a kokudaka of 11 koku, 5 to, 7 sho: Hinokimata Village
+One village with a kokudaka of 15 koku, 6 to, 4 go: Yumiharabara Village
+One village with a kokudaka of 332 koku, 4 to, 9 sho, 7 go: Higashikawa Village
+One village with a kokudaka of 105 koku, 2 to, 8 go: Nishikawa Village
+One territory with a kokudaka of 33 koku, 3 to, 1 sho: Otaki Territory
+One village with a kokudaka of 133 koku, 5 to, 2 sho, 1 go: Otaki Village

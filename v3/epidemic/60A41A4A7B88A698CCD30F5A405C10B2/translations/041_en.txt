@@ -1,0 +1,19 @@
+Toxic Chemical Quantity Calculation Table
+
+Calculation of Disinfectant Quantities for Wells and Latrines
+
+[This section continues the detailed calculation table showing the required amounts of water and quicklime according to the diameter and depth of wells and latrines]
+
+The table lists water quantities (in traditional Japanese units of koku, to, sho, go, shaku) and required amounts of quicklime for diameters ranging from 2 shaku to 4 shaku and depths from 4 shaku 5 sun to 1 jo (10 shaku).
+
+Notes:
+To disinfect well water, quicklime amounting to one-fiftieth of the water volume should be made into a milky solution, poured in, stirred well, and after twelve hours or more have passed, thorough dredging must be performed before use, as stipulated by Ministry of Home Affairs ordinance. Therefore, the water volume must first be measured and the quantity of disinfectant to be added must be determined.
+
+Wells have various structures - some are cylindrical, some rectangular, some gourd-shaped, some have different opening and bottom diameters, and others are irregularly shaped in various ways. Therefore, water volume measurement cannot always be calculated accurately, but they should be uniformly considered as cylindrical and measured according to the following formula. In practice, appropriate consideration should be given according to the actual structure of the well.
+
+Formula: Diameter × Diameter × Depth × 0.7854 × 15.26
+Example: 3 × 3 × 5 × 3 × 4.04, yielding a water volume of 5 koku 4 to 5 sho 4 go (or 5 koku 4 to 5 sho 2 go by the latter method)
+
+However, since the above method is somewhat complex, when calculated by a relatively simple method, the estimated quantity shows a slight increase over the actual quantity. This table provides water volumes and quantities of quicklime to be added for diameters from 2 shaku to 4 shaku and depths from 1 shaku to 1 jo, in order to save calculation effort. Although this table calculates at 5-sun intervals for depth, in practice intermediate values such as 1 sun, 2 sun, 3 sun, 4 sun, 6 sun, 7 sun, 8 sun, 9 sun, etc., may be obtained. In such cases, take one-tenth of the quicklime quantity in the 1-shaku depth column as the reference number: for 1 shaku 1 sun depth, add this reference number to the quicklime quantity listed in the 1-shaku column; for 2 shaku 2 sun, double this reference number and add it to the quicklime quantity in the 2-shaku column; for 3 shaku 6 sun, add the reference number to the quicklime quantity in the 3 shaku 5 sun column; for 4 shaku 7 sun, double the reference number and add it to the lime quantity in the 4 shaku 5 sun column.
+
+The amount of waste in waste pits should also be measured using the same method, and capacity should be calculated with reference to this table. Although waste pits usually do not have the same opening and bottom diameters and often gradually decrease in diameter toward the bottom, it is convenient to consider them as cylindrical for calculation purposes. In this case, the waste volume exceeds the actual amount, but it is safe if lime milk (10-fold dilution) is mixed at one-quarter or more of the corresponding amount and stirred thoroughly.

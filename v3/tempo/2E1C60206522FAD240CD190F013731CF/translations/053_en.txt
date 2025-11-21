@@ -1,0 +1,8 @@
+One village with a kokudaka of 215 koku, 2 to, 9 sho, 8 go, 9 shaku: Sasano Village
+One village with a kokudaka of 186 koku, 7 to, 7 sho, 8 shaku: Gokurakuji Village
+One village with a kokudaka of 447 koku, 6 to, 1 sho, 2 go, 1 shaku: Gotsu Village
+One village with a kokudaka of 654 koku, 8 to, 7 sho, 5 go, 7 shaku: Noyose Village
+One village with a kokudaka of 162 koku, 5 to, 5 sho, 8 go, 7 shaku: Uchihara Village
+One village with a kokudaka of 131 koku, 5 to, 6 sho, 2 go: Shimotake Village
+One village with a kokudaka of 451 koku, 1 to, 4 sho, 1 go, 4 shaku: Jusho Village
+One village with a kokudaka of 202 koku, 7 to, 9 go, 8 shaku: Sekido Village

@@ -1,0 +1,8 @@
+1. Assessed yield: 174 koku, 8 to, 7 sho, 5 go　　　　　　　　　　　　　　　　　　　　　　　　　Homi village
+1. Assessed yield: 614 koku, 1 to, 2 sho, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　Mukoyama village
+1. Assessed yield: 2,341 koku, 1 to, 8 sho, 9 go, 1 shaku　　　　　　　　　　　　　　　　　　　　Nakayama village
+1. Assessed yield: 313 koku, 8 to, 5 sho, 9 go　　　　　　　　　　　　　　　　　　　　　　　　　Kameyama village
+1. Assessed yield: 250 koku, 6 to, 1 go　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Irago village
+1. Assessed yield: 97 koku, 7 to, 3 sho, 7 go　　　　　　　　　　　　　　　　　　　　　　　　　Hinode village
+1. Assessed yield: 946 koku, 6 to, 2 go, 7 shaku　　　　　　　　　　　　　　　　　　　　　　　　Horikiri village
+1. Assessed yield: 364 koku, 9 to, 5 sho, 8 go　　　　　　　　　　　　　　　　　　　　　　　　　Koshiotsu village

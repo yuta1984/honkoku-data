@@ -1,0 +1,32 @@
+【Right Page Header】
+Yamashina
+Oiwake
+Yamaishi
+Mii-dera Temple
+Otsu
+Zeze
+
+【Left Page Header】
+Awazu
+Seta
+Yabase
+Oiwake
+Kusatsu
+
+【Right Page Main Text】
+　First-time Order Letter　　　　　　　　Page 9
+　Statement of Accounts Submission Letter　Page 11
+　Settlement Payment Letter　　　　　　　Page 13
+　Money Exchange Arrangement Letter　　　Page 16
+　Same, Reply　　　　　　　　　　　　　Page 17
+　Settlement Payment Demand Letter　　　Page 18
+　Settlement Payment Delay Notice　　　　Page 20
+
+【Left Page Main Text】
+　Money Loan Request Letter　　　　　　　Page 23
+　Same, Reply　　　　　　　　　　　　　Page 24
+　Price Discount Request Letter　　　　　Page 25
+　Shop Merchandise Inquiry Letter　　　　Page 28
+　Pottery Shipment Request Letter　　　　Page 29
+　Same, Reply　　　　　　　　　　　　　Page 30
+　Dyer's Order Letter　　　　　　　　　　Page 32

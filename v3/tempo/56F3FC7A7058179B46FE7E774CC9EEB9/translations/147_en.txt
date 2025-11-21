@@ -1,0 +1,8 @@
+《Location: Fujitsu District》
+Item: Assessed yield of 236 koku, 1 to, 7 sho, 4 go　《Location: Shikiha Village》
+Item: Assessed yield of 1,005 koku, 7 to, 9 sho, 6 go　　《Location: Shimo Village》
+Item: Assessed yield of 360 koku, 6 to, 1 sho, 7 go　　《Location: Yunoda Village》
+Item: Assessed yield of 507 koku, 7 to, 6 sho, 5 go　　《Location: Fudōzan Village》
+Item: Assessed yield of 274 koku, 6 to, 7 sho, 4 go　　《Location: Nyūgawa Village》
+Item: Assessed yield of 630 koku, 3 to, 4 sho, 2 go　　《Location: Wakaya-Kawachi Village》
+Item: Assessed yield of 313 koku, 9 to, 8 sho, 4 go　　《Location: Ide-Kawachi Village》

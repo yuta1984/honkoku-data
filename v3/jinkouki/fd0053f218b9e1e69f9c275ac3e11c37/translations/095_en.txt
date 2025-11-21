@@ -1,0 +1,7 @@
+【Diagram of the Square Root Method】
+Place the product (tsumori) in the dividend. Units of one, ten, hundred, thousand. In the thousand place of one, ten, hundred, thousand, the first quotient (shoshō)
+establishes 8,000, and also places 8,000 in the lower method. When multiplying the quotient by this method, it becomes 8 × 6 kei 4 chō. This is subtracted from the dividend.
+　The dividend has a remainder of 1 kei 2 chō 8 oku 2 man 5 sen 2 hyaku 25 tsubo
+
+Double the lower method's 8,000 to make 16,000. Lower it by one place. Using 7 for the next quotient, place 7 next in the lower method. Using 7 from the next quotient position, multiply it by the method
+with the lower method. 1×7 equals 7 chō. 6×7 equals 4 chō 2 sen oku. 7×4 oku 9 man. Remove this from the dividend.　The dividend has a remainder of 1 chō 1 oku 3 man 5 sen 2 hyaku 25 tsubo

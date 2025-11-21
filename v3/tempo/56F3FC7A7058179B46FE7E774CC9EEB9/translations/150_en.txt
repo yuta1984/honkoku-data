@@ -1,0 +1,8 @@
+Item: Assessed yield of 625 koku, 2 to, 3 sho, 8 go　　《Location: Minami-Tara Village》
+Item: Assessed yield of 429 koku, 6 to, 4 sho, 4 go　　《Location: Kita-Itoki Village》
+Item: Assessed yield of 573 koku, 5 to, 6 sho, 1 go　　《Location: Minami-Itoki Village》
+Item: Assessed yield of 59 koku, 9 to, 8 go　　　　　　《Location: Nakao Village》
+Item: Assessed yield of 344 koku, 8 to, 3 sho, 3 go　　《Location: Oura Village》
+Item: Assessed yield of 54 koku, 2 to, 8 sho, 8 go　　《Location: Takezaki Village》
+Item: Assessed yield of 511 koku, 7 to, 8 sho, 8 go　　《Location: Takori Village》
+Item: Assessed yield of 76 koku, 5 to, 5 sho　　　　　《Location: Kame-ura Village》

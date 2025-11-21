@@ -1,0 +1,8 @@
+Item 1: Assessed yield 177 koku 2 to 3 sho 8 go　　　　《Location: Miyamoto Village》
+Item 1: Assessed yield 261 koku 2 to 3 sho 1 go　　　《Location: Itaba Village》
+Item 1: Assessed yield 278 koku 9 to 1 sho 8 go 6 shaku　《Location: Sorimachi Village》
+Item 1: Assessed yield 314 koku 7 go 6 shaku　　　　　　《Location: Toridashi Village》
+Item 1: Assessed yield 174 koku 9 to 8 sho 8 go　　　　《Location: Fujiike Village》
+Item 1: Assessed yield 113 koku 8 to 9 sho 5 go 7 shaku　　　《Location: Nagakoshi Village》
+Item 1: Assessed yield 115 koku 3 to 7 sho 2 go　　　　　《Location: Anazawa Village》
+Item 1: Assessed yield 124 koku 3 to 6 sho 3 go 3 shaku　　　《Location: Meshida Village》

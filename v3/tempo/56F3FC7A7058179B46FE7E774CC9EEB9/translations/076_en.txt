@@ -1,0 +1,8 @@
+Item: Assessed yield of 562 koku, 9 to, 9 sho　　　　《Location: Ishimuro Village》
+Item: Assessed yield of 1,925 koku, 6 to, 2 sho, 2 go　《Location: Nagoya Village》
+Item: Assessed yield of 329 koku, 6 to, 5 sho, 2 go　　《Location: Kabeshima Island》
+Item: Assessed yield of 64 koku, 5 to, 3 sho, 2 go　　 《Location: Ogawashima Island》
+Item: Assessed yield of 66 koku, 4 to, 1 go　　　　　　《Location: Karashima Island》
+Item: Assessed yield of 105 koku, 5 to, 2 sho, 7 go　　《Location: Mawatarishima Island》
+Item: Assessed yield of 178 koku, 5 sho, 3 go　　　　　《Location: Hado Village》
+Item: Assessed yield of 89 koku, 7 sho, 7 go　　　　　 《Location: Kushi Village》

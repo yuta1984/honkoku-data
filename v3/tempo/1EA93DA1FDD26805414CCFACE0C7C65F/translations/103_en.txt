@@ -1,0 +1,8 @@
+Item 1: Assessment 156 koku, 4 to, 2 sho, 7 go　　《Location: Yuhira Village》
+Item 1: Assessment 383 koku, 4 to, 5 go　　　《Location: Daitsugi Village》
+Item 1: Assessment 145 koku, 2 to, 5 sho, 6 go　　《Location: Fuchigami Village》
+Item 1: Assessment 303 koku, 3 to, 2 sho, 1 go　　　《Location: Hikita Village》
+Item 1: Assessment 1,021 koku, 7 to, 6 sho, 6 go　　《Location: Hirai Village》
+Item 1: Assessment 168 koku, 7 to, 7 sho, 4 go　　《Location: Sugao Village》
+Item 1: Assessment 15 koku, 1 to, 6 sho, 9 go　　　　《Divided note: 《Location: Sugao Village》｜《Location: Upper and Lower Kusabana》｜《Location: Setooka Village》｜《Location: Hara-Komiya Village》》 Communally held new rice fields
+Item 1: Assessment 364 koku, 2 to, 9 sho, 8 go　《Location: Kawasaki Village》

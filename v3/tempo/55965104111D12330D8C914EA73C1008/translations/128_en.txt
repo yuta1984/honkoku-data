@@ -1,0 +1,24 @@
+(Formerly)　　Kami-Arahama Village　　　　Kami-Dozoko-hama Village
+Shimo-Arahama Village　　　　Naka-Dozoko-hama Village
+Yugōji-hama Village　　　　　Shimo-Dozoko-hama Village
+Ebisu-hama Village　　　　　　Yotsuya-hama Village
+Nishigakubo-hama Village　　　Kudo-hama Village
+Yukino-hama Village　　　　　 Ganko-hama Village
+Shibugaki-hama Village　　　　Jōge-hama Village
+Kami-Kofunatsu-hama Village　 Mitsuya-hama Village
+Shimo-Kofunatsu-hama Village　Naomi-hama Village　　　　(Eighteen villages)
+
+1. Assessed yield: 542 koku, 2 to, 3 sho, 7 go - Saihama-naka
+　　　　　　　　　　　　　　　　　　　　　　　(Among those formerly the same)
+1. Assessed yield: 32 koku, 1 to, 8 sho, 9 go - Shibugaki-hama Shinden
+　　　　　　　　　　　　　　　　　　　　　　　(Among those formerly the same)
+1. Assessed yield: 53 koku, 5 to, 6 sho, 4 go - Ebisu-hama Shinden
+　　　　　　　　　　　　　　　　　　　　　　　(Among those formerly the same)
+1. Assessed yield: 209 koku, 7 to, 9 sho, 3 go - Arahama Shinden
+　　　　　　　　　　　　　　　　　　　　　　　(Among those formerly the same)
+1. Assessed yield: 33 koku, 6 to, 2 sho, 8 go - Kami-Kofunato Shinden
+　　　　　　　　　　　　　　　　　　　　　　　(Among those formerly the same)
+1. Assessed yield: 88 koku, 6 to, 3 sho, 1 go - Shimo-Kofunato Shinden
+
+[The assessed yield for Saihama-naka in the National Museum of Japanese History's database is 543.793, which differs slightly from the yield recorded here.]
+[The assessed yield for Shibugaki-hama Shinden in the National Museum of Japanese History's database is 47.909, which differs slightly from the yield recorded here.]

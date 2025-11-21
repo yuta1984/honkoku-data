@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 130 koku, 2 to　　　　　　　　　　《Location: Araki Village》
+Item 1: Assessed yield of 406 koku, 1 to, 7 sho, 4 go　　　　《Location: Nanasegawara Village》
+Item 1: Assessed yield of 887 koku, 5 to, 5 sho, 7 go　　　　《Location: Kurita Village》
+Item 1: Assessed yield of 875 koku, 3 to, 9 sho, 4 go　　　　《Location: Senda Village》
+Item 1: Assessed yield of 690 koku, 9 to, 2 sho, 6 go　　　　《Location: Kazama Village》
+Item 1: Assessed yield of 316 koku, 5 to, 9 sho, 1 go　　　　《Location: Minamimata Village》
+Item 1: Assessed yield of 969 koku, 1 sho, 8 go　　　　　　　《Location: Minamitakada Village》
+Item 1: Assessed yield of 964 koku, 8 to, 5 sho　　　　　　　《Location: Kitatakada Village》

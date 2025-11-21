@@ -1,0 +1,8 @@
+1. Assessed yield: 178 koku, 2 to, 1 go　　　　　　　　　　　　　　　　　　　Chojadaira village
+1. Assessed yield: 140 koku, 6 to, 2 sho, 1 go　　　　　　　　　　　　　　　　Kawajiri village
+1. Assessed yield: 247 koku, 4 to, 4 sho, 8 go　　　　　　　　　　　　　　　　Kamogatani village
+1. Assessed yield: 104 koku, 7 to, 6 sho, 8 go　　　　　　　　　　　　　　　　Iwanami village
+1. Assessed yield: 63 koku, 3 sho, 8 go　　　　　　　　　　　　　　　　　　　Yumiki village
+1. Assessed yield: 102 koku, 3 go　　　　　　　　　　　　　　　　　　　　　　Owada village
+1. Assessed yield: 167 koku, 1 to, 7 sho　　　　　　　　　　　　　　　　　　　Shiose village
+1. Assessed yield: 90 koku, 4 sho, 8 go　　　　　　　　　　　　　　　　　　　Kiwada village

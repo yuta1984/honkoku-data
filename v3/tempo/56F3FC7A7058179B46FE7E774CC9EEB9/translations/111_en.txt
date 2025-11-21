@@ -1,0 +1,9 @@
+Item: Assessed yield of 858 koku, 4 to, 5 sho, 8 go　　《Location: Kaji Village》
+Item: Assessed yield of 123 koku, 4 sho, 3 go　　　　　《Location: Fune Village》
+Item: Assessed yield of 1,628 koku, 6 to, 8 sho　　　　《Location: Yoshida Village》
+Item: Assessed yield of 156 koku, 6 to, 6 sho, 9 go　　《Location: Hashikawachi Village》
+Item: Assessed yield of 144 koku, 9 to, 4 sho, 9 go　　《Location: Tateishi Village》
+Item: Assessed yield of 2,011 koku, 9 to, 7 sho, 7 go　《Location: Sasa Village》
+《Marginal note: ｜Formerly《Location: Ichinose Village》》
+Item: Assessed yield of 825 koku, 7 to, 7 sho, 2 go　　《Location: Ichise Village》
+Item: Assessed yield of 817 koku, 7 to, 7 sho, 5 go　　《Location: Kanda Village》

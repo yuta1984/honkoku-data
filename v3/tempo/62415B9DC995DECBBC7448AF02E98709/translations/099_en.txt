@@ -1,0 +1,8 @@
+One, assessed yield: 351 koku, 5 shō, 8 gō　　　《Location: Su Village》
+One, assessed yield: 437 koku, 8 to, 2 gō　　　《Location: Mano Village》
+One, assessed yield: 312 koku, 9 to, 5 shō, 1 gō　　《Location: Ōhara Village》
+One, assessed yield: 280 koku, 7 shō, 8 gō　　　　《Location: Banbara Village》
+One, assessed yield: 565 koku, 7 to, 4 shō, 1 gō　《Location: Hisako Village》
+One, assessed yield: 133 koku, 3 to, 2 shō, 8 gō　　《Location: Bessho Village》
+　Subtotal　assessed yield: 32,768 koku, 2 to, 3 shō, 9 gō, 2 shaku, 2 sai
+　　　　　　　　《Location: Hino District》　177 villages

@@ -1,0 +1,14 @@
+Item 1: Assessment 167 koku, 2 to, 7 sho, 9 go, 3 shaku　　《Location: Futamatakawa Village Shinden》
+　　　　　　　　　　　　　　　　　《Marginal note: 《Location: Futamatakawa Village》Branch village｜》
+Item 1: Assessment 9 koku, 8 to, 9 sho, 2 go　　　　　　　　　《Location: Sankyō Shinden》
+Item 1: Assessment 67 koku, 1 to, 9 sho, 7 go　　　　　　　《Location: Santanda Village》
+　　　　　　　　　　　　　　　　　《Marginal note: 《Location: Futamatakawa Village》Branch village｜》
+Item 1: Assessment 30 koku, 2 sho, 7 go　　　　　　　　　　《Location: Honjuku Shinden》
+Item 1: Assessment 175 koku, 6 to, 5 sho, 3 go, 9 shaku, 3 sai　　《Location: Kamisugeta Village》
+　　　　　　　　　　　　　　　　《Marginal note: 《Location: Imajuku Shinden Village》Branch village｜》
+Item 1: Assessment 6 koku, 7 to, 4 go　　　　　　　　　　《Location: Tsurugakishi Shinden》
+Item 1: Assessment 233 koku, 2 to, 1 sho, 6 go　　　　　《Location: Kamihoshikawa Village》
+Item 1: Assessment 430 koku, 4 to, 6 sho, 2 go, 4 shaku　　　　　《Location: Kawashima Village》
+
+[According to the National Museum of Japanese History's Old Assessment Old Territory Survey Database: "三経新田" is listed as "密経新田"]
+[According to the National Museum of Japanese History's Old Assessment Old Territory Survey Database: "鶴ヶ岸新田" is listed as "鶴ヶ峯新田". "鶴ヶ岸新田" may be a transcription error]

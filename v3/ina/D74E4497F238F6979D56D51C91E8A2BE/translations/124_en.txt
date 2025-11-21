@@ -1,0 +1,31 @@
+[Right Page]
+One wasteland 5 chō 4 tan 3 se 20 bu　　　　　Village common
+
+　　　Above
+
+　　　　　　　　　　　Nakayama Village
+
+One pine tree lord's forest 24 chō 2 tan 6 se 20 bu　　6 locations
+
+One lord's bamboo grove 3 se 10 bu　　　　　　　　1 location
+
+One mountain forest 30 chō 4 tan 1 se 10 bu　　　　Peasant-owned mountains
+　　Mountain tax rice 3 tō 4 gō 1 shaku, 1 gō per tan
+　　　　Details:
+　　　Small pine forest 1 chō 2 tan (Yanagikubo)　　Hyōemon, Sadenji
+　　　Mixed forest (Nakahara)　　　　　　　　　　Hyōemon
+
+[Left Page]
+　　　Mixed forest 3 chō 3 tan 3 se 10 bu (Mukōyama)　　Shirōbei, Rokuemon
+　　　Mixed forest 4 chō 8 tan (Saru-no-kido)　　　　　Sakubei, Gonzaburō, Kansaemon
+　　　Grassland 1 chō (Kerakuho)　　　　　　　　　　Kisaburō
+　　　Grassland 1 chō (Ishikantō)　　　　　　　　　　Nisaburō
+　　　Grassland 10 chō (Ōhinata)　　　　　　　　　　Shirōbei
+　　　Brushland 2 tan 5 se (Ōhinatakaratō)　　　　　Ichibei, Shirōbei
+　　　Brushland 2 tan 5 se (Ushirosawa)　　　　　　　Sōemon
+　　　Brushland 2 tan 3 se 10 bu (same location)　　　Shichibei, Sōemon
+　　　Brushland 5 se 10 bu (Tayame Kaidō)　　　　　　Kansaemon
+　　　Grassland 2 chō 8 tan (Takenosaire)　　　　　　Ichibei
+　　　Grassland 3 chō 3 tan 3 se 10 bu (Kamakapora)　　Densaburō, Shirōbei
+
+Forty-one

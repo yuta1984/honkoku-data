@@ -1,0 +1,8 @@
+Item 1: Assessed yield of 190 koku, 3 to, 8 sho, 4 go　　　　《Location: Shinden Village》
+Item 1: Assessed yield of 601 koku, 4 to, 9 sho, 9 go　　　　《Location: Kuise-shimo Village》
+Item 1: Assessed yield of 746 koku, 1 to, 5 go　　　　《Location: Awasa Village》
+Item 1: Assessed yield of 1,715 koku, 8 sho, 4 go　　　　《Location: Yashiro Village》
+Item 1: Assessed yield of 1,986 koku, 1 to, 3 sho　　　《Location: Amenomiya Village》
+Item 1: Assessed yield of 292 koku, 7 to, 6 sho　　　　《Location: Tsuchiguchi Village》
+Item 1: Assessed yield of 857 koku, 2 to, 1 sho　　　　《Location: Iwano Village》
+Item 1: Assessed yield of 432 koku, 4 to, 8 sho, 5 go　　《Location: Ikukaya Village》

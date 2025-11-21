@@ -1,0 +1,8 @@
+Item 1: Assessment 53 koku, 6 to, 5 sho, 4 go　　　　　《Location: Umetsubo Village》
+Item 1: Assessment 185 koku　　　　　　　　　　《Location: Takiyama Village》
+Item 1: Assessment 123 koku, 4 to, 9 go, 6 shaku, 7 sai　　　《Location: Taira Village》
+Item 1: Assessment 51 koku, 7 to, 9 sho, 1 go　　　　　《Location: Sakume Village》
+Item 1: Assessment 190 koku　　　　　　　　　　《Location: Hon-tanuki Village》
+Item 1: Assessment 150 koku　　　　　　　　　　《Location: Naka-tanuki Village》
+Item 1: Assessment 44 koku, 8 to, 2 sho, 3 go　　　　　《Location: Osawa Village》
+Item 1: Assessment 85 koku, 1 to, 4 sho, 8 go　　　　　《Location: Tanino Village》

@@ -1,0 +1,10 @@
+1. Assessed yield: 121 koku, 2 sho, 1 go - Mukaimiyata Village
+1. Assessed yield: 145 koku, 8 sho, 8 go - Shimomiyata Village
+1. Assessed yield: 322 koku, 6 to, 3 sho, 4 go, 9 shaku - Shimoechi Village
+1. Assessed yield: 276 koku, 8 to, 1 sho, 7 go - Kamiechi Village
+1. Assessed yield: 417 koku, 3 to, 3 sho, 3 go, 5 shaku - Miyata Village
+1. Assessed yield: 330 koku, 4 to, 5 sho, 7 go, 9 shaku - Tokaichimachi Village
+1. Assessed yield: 913 koku, 9 to, 8 sho - Yoshide Village
+1. Assessed yield: 718 koku, 7 sho, 8 go, 8 shaku - Kaminozawa Village
+
+[According to the National Museum of Japanese History's database of old assessed yields and domains, "Shimoechi Village" is recorded as "Shimoeji Village" and "Kamiechi Village" is recorded as "Kamieji Village"]

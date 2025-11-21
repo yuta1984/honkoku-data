@@ -1,0 +1,13 @@
+1. Assessed yield: 353 koku, 7 sho, 2 go - Kakutori Village
+1. Assessed yield: 393 koku, 8 go - Ochiai Village
+1. Assessed yield: 362 koku, 1 to, 9 sho - Kami-Kanehara Village
+　　　　　　　　　　　　　　　　　　　　　　　　Kami-Kanehara Village branch settlement
+1. Assessed yield: 98 koku, 8 to, 6 sho - Sakuramachi Shinden Village
+1. Assessed yield: 228 koku, 6 to, 3 sho, 3 go - Shimo-Kanehara Village
+1. Assessed yield: 688 koku, 2 sho - Momoki Village
+1. Assessed yield: 214 koku, 6 to, 2 sho, 3 go - Kitashiroishi Village
+1. Assessed yield: 217 koku, 9 to, 1 sho, 2 go - Kitashiroishi Shinden
+
+[In the National Museum of Japanese History's database, there are 2 locations for Momoki Village, and the combined assessed yield of these 2 locations matches the assessed yield for Momoki Village recorded here]
+[In the National Museum of Japanese History's database, there is no Kitashiroishi Village, but there are 3 locations for Shiroishi Village. Among these, the combined assessed yield of the Takada domain territory and the Jōjōji exempt land matches the assessed yield for Kitashiroishi Village recorded here]
+[In the National Museum of Japanese History's database, there is no Kitashiroishi Shinden, but there is Shiroishi Shinden. Its assessed yield is 205.860, and when adding the assessed yield of 3.764 from the Zenchōji exempt land in Shiroishi Village, it comes close to the assessed yield for Shiroishi Shinden here. The Kadokawa Dictionary of Place Names entry for Kitashiroishi Shinden (early modern period) in Yoshikawa Town, Niigata Prefecture states: "Both the 'Genroku Village Register' and 'Tenpō Village Register' record over 217 koku. Additionally, in the 'Tenna Assessment Register' it was treated as part of Kitashiroishi Village. Within the area, there is Zenchōji Temple of the Jōdo Shinshū Honganji sect (formerly known as Shingon sect Sankōji Temple) that existed before the shinden development."]

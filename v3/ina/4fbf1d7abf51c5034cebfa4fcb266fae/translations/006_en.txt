@@ -1,0 +1,30 @@
+[Right page]
+One: This person is from Iwamizu Village, Saku District, Kai Province
+　　Regular lodging house: Goemon
+　　　　Principal: Sakuya [seal]
+　　　　Guarantor: Sakuzaemon [seal]
+
+One: This person is from Renjaku-cho, Kofu, Kai Province
+　　Regular lodging house: Iemon
+　　　　Principal: Chuta [seal]
+　　　　Guarantor: Tsurushichi [seal]
+
+One: This person is from Shimokami Village, Koma District, Kai Province
+　　Regular lodging house: Shuzo
+　　　　Principal: Zenji [seal]
+　　　　Guarantor: Shinzaemon [seal]
+
+One: This person is from Tsukagawa Village, Koma District, Kai Province
+　　Regular lodging house: Buzaemon
+　　　　Principal: Ichibei [seal]
+　　　　Guarantor: Shoemon [seal]
+
+[Left page]
+One: This person is from Naka-shimojo Village, Koma District, Kai Province
+　　Regular lodging house: Gishichi
+　　　　Principal: Isematsu [seal]
+　　　　Guarantor: Juroemon [seal]
+
+One: This person is from Nitta Village, Azumi District, Shinano Province
+　　Regular lodging house: Kumejiro
+　　　　Principal: Tomiji [seal]

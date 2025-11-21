@@ -1,0 +1,8 @@
+Item 1: Assessment 213 koku, 5 to, 5 sho, 7 go　　　《Location: Naka-Kayama Village》
+Item 1: Assessment 136 koku, 2 to, 5 sho, 9 go　　　《Location: Shimo-Kayama Village》
+Item 1: Assessment 169 koku, 6 to, 1 sho, 8 go　　　　《Location: Kayama Village》
+Item 1: Assessment 229 koku, 4 to, 2 sho, 5 go　　　《Location: Takakura Village》
+Item 1: Assessment 514 koku, 6 to, 3 sho, 2 go　　《Location: Komadera-no Shinden》
+Item 1: Assessment 158 koku, 4 to, 8 sho, 4 go　　　《Location: Kami-Shinden Village》
+Item 1: Assessment 140 koku, 5 to, 9 sho, 1 go　　　　《Location: Naka-Shinden Village》
+Item 1: Assessment 176 koku, 5 to, 9 sho, 2 go　　　《Location: Shimo-Shinden Village》

@@ -1,0 +1,11 @@
+Item 1: Assessed yield of 929 koku, 3 to, 7 sho, 3 go　《Location: Kashio Village》
+　　　　　　　　　　　　　《Note: 《Location: Kashio Village》branch village》
+Item 1: Assessed yield of 69 koku, 8 sho, 7 go　　　　　《Location: Kitahara Shinden Village》
+Item 1: Assessed yield of 41 koku, 5 to, 5 sho, 6 go　　　《Location: Shinozawa Shinden Village》【Note】
+Item 1: Assessed yield of 263 koku, 1 go　　　　　《Location: Kambe Village》
+Item 1: Assessed yield of 435 koku, 5 to, 5 sho, 6 go　《Location: Kosuge Village》
+Item 1: Assessed yield of 102 koku, 8 to, 3 sho, 2 go　　　《Location: Harita Village》
+Item 1: Assessed yield of 160 koku, 6 to, 9 go　　　　　《Location: Maesaka Village》
+Item 1: Assessed yield of 730 koku, 8 to, 8 go　　　　　《Location: Nozawa Village》
+
+【Note　【No record of "Shinozawa Shinden Village" in the Kyūdaka Kyūryō Torishirabe-chō. Possibly "Sasazawa Village"】】

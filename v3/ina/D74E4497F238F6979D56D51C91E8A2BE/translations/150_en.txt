@@ -1,0 +1,53 @@
+【Right Page】
+　　　《Location: Shimobayashi》
+　　　　Deciduous forest 1 tan 9 se 6 bu　　　　　Kanemon
+　　　《Location: Same place》
+　　　　Deciduous forest 2 tan 5 se　　　　　　《Note: Heizaemon | Yashichirō》
+　　　《Location: Same place》
+　　　　Young pine forest 4 se 24 bu　　　　　Buzaemon
+　　　《Location: Nishibayashi》
+　　　　Deciduous forest 1 se 10 bu　　　　　Yashichirō
+　　　《Location: Same place》
+　　　　Deciduous forest 3 se 10 bu　　　　　Heijūrō
+　　　《Location: Same place》
+　　　　Deciduous forest 8 se 20 bu　　　　　Chōzaburō
+　　　《Location: Same place》
+　　　　Deciduous forest 2 se 18 bu　　　　　Shōtarō
+　　　《Location: Same place》
+　　　　Young pine forest 8 se 20 bu　　　　　Jiemon
+　　　《Location: Same place》
+　　　　Deciduous forest 1 tan 4 se 28 bu　　Zenbei
+　　　《Location: Hikage》
+　　　　Deciduous forest 1 tan 2 se 20 bu　　Yashichirō
+　　　《Location: Same place》
+　　　　Deciduous forest 1 tan 3 se 10 bu　　Jiemon
+　　　《Location: Hinata-ōkubo》
+　　　　Deciduous forest 1 chō　　　　　　　Village common land
+　　　《Location: Hirabayashi》
+　　　　Young pine forest 1 tan　　　　　《Location: Ōkubo》Same
+
+【Left Page】
+　　　《Location: Same place》
+　　　　Deciduous forest 1 tan 6 se　　　　　Same
+　　　《Location: Amidahara》
+　　　　Young pine forest 2 tan　　　　　　Sōemon
+　　　《Location: Same place》
+　　　　Pine forest 1 tan　　　　　　　　　Hanemon
+　　　《Location: Maehara》
+　　　　Deciduous forest 8 se 10 bu　　　　Buzaemon
+　　　《Location: Ōtagiri-kawahara-de-shinden》
+　　　　Young pine forest 8 se　　　　　　《Note: Shōemon | Heishirō | Denshirō》
+　　　《Location: Same place, facing haha-michi》
+　　　　Deciduous forest 4 tan 6 se 28 bu　Same
+
+　　　　　　　Tax-Exempt Land
+
+One item: Temple grounds 6 se 2 bu　　　　　《Note: Jōdo sect》Enjōji Temple
+　《Location: Hikage》
+　　Forest 1 chō 1 tan 3 se 10 bu　　　　　Same temple
+　　　　　　　　　　　　　　　　《Note: Under care of head priest Jindayū》
+One item: Shrine grounds 6 se 15 bu　　　　Suwa Daimyōjin
+　　　　　　　　　　　　　　　　　　　《Note: Shrine building exists》　　
+One item: Shrine grounds 2 se 20 bu　　　《Note: Under care of Anzaemon》Kumano Gongen
+　　　　　　　　　　　　　　　　　　　《Note: Shrine building exists》
+　　　　　　　　　　　　　Seventeen【Red ink】

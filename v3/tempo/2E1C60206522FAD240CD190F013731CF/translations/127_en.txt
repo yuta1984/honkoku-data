@@ -1,0 +1,8 @@
+One village with a kokudaka of 139 koku, 5 to, 1 sho, 3 go: Jinzuji Village
+One village with a kokudaka of 212 koku, 3 to, 3 sho, 7 go: Sakurai Village (branch village of Jinzuji Village)
+One village with a kokudaka of 330 koku, 4 sho, 8 go: Fukunishi Village (branch village of Jinzuji Village)
+One village with a kokudaka of 271 koku, 6 to, 5 sho, 2 go: Higashisami Village (branch village of Jinzuji Village)
+One village with a kokudaka of 311 koku, 8 to, 4 sho, 6 go: Minamisami Village (branch village of Jinzuji Village)
+One village with a kokudaka of 58 koku, 2 to, 1 sho, 7 go: Mizuno Village (branch village of Minamisami Village)
+One village with a kokudaka of 316 koku, 2 to, 2 sho, 5 go: Buzen Village
+One village with a kokudaka of 169 koku, 7 sho, 6 go: Shigesaka Village

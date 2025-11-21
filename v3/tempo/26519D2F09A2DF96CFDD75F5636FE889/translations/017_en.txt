@@ -1,0 +1,8 @@
+1. Rice yield: 134 koku, 9 to, 5 sho　　　　　　《Location: Omi Village》
+1. Rice yield: 30 koku, 1 to, 1 sho　　　　　　　　《Location: Momoi Village》
+1. Rice yield: 91 koku, 4 sho, 7 go, 2 shaku　　　　　《Location: Koideishi Village》
+1. Rice yield: 196 koku, 7 to, 4 go, 2 shaku　　　　《Location: Shorin'in Village》
+1. Rice yield: 113 koku, 3 to, 2 sho, 5 go, 5 shaku　　　《Location: Raigo'in Village》
+1. Rice yield: 51 koku, 5 to, 6 sho　　　　　　　《Location: Onagase Village》
+1. Rice yield: 241 koku, 2 to, 9 sho, 4 go, 9 shaku　《Location: Ueno Village》
+1. Rice yield: 130 koku, 2 to, 1 sho, 8 go, 6 shaku　　　《Location: Todera Village》

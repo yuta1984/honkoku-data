@@ -1,0 +1,11 @@
+This gives nine shaku five sun four bu six rin six mō. Divide this by two to get four shaku seven sun seven bu three rin three mō. Multiply this by four to get 190932. Place this on both sides and multiply, then multiply by 79, and then multiply by the depth to get eight koku six to four shō.
+
+　Regarding the above method of calculating bucket capacity: when making rough calculations, one proceeds as described above, but for any object that tapers from the circumference or tapers from all four sides, it is not good to add the bottom and top together and divide by two. The true calculation method is transmitted orally and is found in my writings.
+
+《Chapter 27: Cube Root Method》
+　　There is a volume of 9 gai 6 kyō 1 chō 5 oku 4 sen 8 hyaku man 3 tsubo
+　　　When applying the cube root method
+　　　to the above volume,
+　　　what does it become?
+　　Answer:
+　　　987 ken (square)

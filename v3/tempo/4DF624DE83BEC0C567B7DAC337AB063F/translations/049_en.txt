@@ -1,0 +1,8 @@
+Item 1: Assessed yield 510 koku 1 to 4 sho 8 go 6 shaku　　　《Location: Omotegi Village》
+Item 1: Assessed yield 176 koku 7 to 7 go 3 shaku　　　　《Location: Shimomaki Village》
+Item 1: Assessed yield 493 koku 4 to 8 sho 6 go 9 shaku　《Location: Nakakoshi Village》
+Item 1: Assessed yield 1,301 koku 7 to 5 sho 7 shaku　　　　《Location: Miyata Village》
+Item 1: Assessed yield 3,340 koku 9 to 8 sho 7 go　　《Location: Akasu Village》
+Item 1: Assessed yield 1,215 koku 6 to 4 sho 3 go　　　《Location: Kamiho Village》
+Item 1: Assessed yield 1,449 koku 7 to 2 sho 3 go　　《Location: Ishizone Village》
+Item 1: Assessed yield 1,242 koku 8 to 5 sho 6 go　　　《Location: Takiri Village》

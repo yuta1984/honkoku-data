@@ -1,0 +1,15 @@
+1. Assessed yield: 140 koku, 8 sho, 3 go - Hirasawa Village
+1. Assessed yield: 206 koku, 4 to, 1 go - Mizuno Village
+1. Assessed yield: 12 koku - Maki Village
+1. Assessed yield: 104 koku, 2 to, 6 sho - Kogaya Village
+1. Assessed yield: 138 koku, 5 to, 7 sho, 4 go - Ōdaira Village
+1. Assessed yield: 87 koku, 3 to, 1 sho, 9 go - Yoshio Village
+1. Assessed yield: 56 koku, 9 to, 7 sho, 6 go - Kosugi Village
+1. Assessed yield: 14 koku, 9 to, 1 sho, 4 go - Tochikubo Village
+
+[In the National Museum of Japanese History's database, there are 3 locations for Hirasawa Village. The combined assessed yield of these 3 locations matches exactly the assessed yield for Hirasawa Village recorded here.]
+[In the National Museum of Japanese History's database, there are 3 locations for Mizuno Village. The combined assessed yield of these 3 locations matches exactly the assessed yield for Mizuno Village recorded here.]
+[The assessed yield for Maki Village in the National Museum of Japanese History's database is 23.997, which differs from the assessed yield for Maki Village recorded here]
+[In the National Museum of Japanese History's database, there are 6 locations for Ōdaira Village. Among these, the assessed yield of one location with municipal code 15541 matches the assessed yield for Ōdaira Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Yoshio Village. The combined assessed yield of these 2 locations matches the assessed yield for Yoshio Village recorded here.]
+[In the National Museum of Japanese History's database, there are 2 locations for Kosugi Village. The combined assessed yield of these 2 locations matches the assessed yield for Kosugi Village recorded here.]

@@ -1,0 +1,33 @@
+【Page Number】6
+65 Yes, I have obtained leave.
+66 How long will you be traveling?
+67 Two or three months.
+68 That time will seem very long to me.
+69 Would you like to accompany me?
+70 I would very much like to, but I cannot.
+71 Why not?
+72 You know that I cannot.
+73 But tell me why.
+74 I have no money.
+75 Would you go if you had money?
+76 Yes, willingly.
+77 Then I will provide it for you.
+78 I thank you. It is getting late.
+79 That's true.
+80 I wish you a pleasant journey.
+81 I am much obliged to you. Take care until my return.
+
+Fifth Dialogue
+With a friend who promised yesterday to go
+see the Comedy.
+
+1 Is your master already awake?
+2 No, he is still sleeping.
+3 Please be so kind as to wake him.
+4 Very well.
+5 You come so early.
+6 Yes, you sleep so late.
+7 That comes from having drunk a lot last evening.
+8 With whom did you drink so much?
+9 With N.
+10 I come to speak with you.

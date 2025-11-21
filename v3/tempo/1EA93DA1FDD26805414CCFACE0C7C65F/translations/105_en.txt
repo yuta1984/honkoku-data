@@ -1,0 +1,8 @@
+Item 1: Assessment 465 koku, 4 to, 8 sho, 4 go　　《Location: Kami-Nariki Village》
+Item 1: Assessment 262 koku, 2 to, 7 sho, 4 go　　《Location: Shimo-Nariki Village》
+Item 1: Assessment 133 koku, 4 to, 8 sho, 9 go　　《Location: Kita-Kosogi Village》
+Item 1: Assessment 187 koku, 2 to, 7 sho, 7 go　　　　《Location: Kurosawa Village》
+Item 1: Assessment 115 koku, 1 to, 1 sho, 7 go　　　　　《Location: Shiofune Village》
+Item 1: Assessment 98 koku, 1 to, 6 sho, 3 go　　　　《Location: Kinoshita Village》
+Item 1: Assessment 48 koku, 2 to, 5 sho, 1 go　　　　　《Location: Yano Village》
+Item 1: Assessment 143 koku, 4 to, 7 sho, 8 go　　　　《Location: Fukiage Village》

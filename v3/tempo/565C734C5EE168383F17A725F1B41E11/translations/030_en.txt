@@ -1,0 +1,13 @@
+(formerly Kamanozawa Village)
+1. Assessed yield: 381 koku, 3 to, 3 go　　　　　Kamazawa Village
+1. Assessed yield: 53 koku, 5 to, 3 sho, 3 go　　　Matosawa Village
+1. Assessed yield: 628 koku, 4 to, 5 sho　　　　　Yonaizawa Village
+1. Assessed yield: 220 koku, 3 to, 9 sho, 8 go　　　Gomihori Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Shimosugi Shinden Village)
+1. Assessed yield: 278 koku, 8 to, 1 sho, 5 go　　　Shimosugi Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Hayama Shinden Village)
+1. Assessed yield: 137 koku, 4 to, 5 sho, 1 go　　　Haneyama Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Maeyama Shinden Village)
+1. Assessed yield: 85 koku, 2 to, 9 sho, 7 go　　　　Maeyama Village
+　　　　　　　　　　　　　　　　　　　　　　(formerly Takanosu Shinden Village)
+1. Assessed yield: 562 koku, 1 to, 7 sho, 7 go　　　Takanosu Village

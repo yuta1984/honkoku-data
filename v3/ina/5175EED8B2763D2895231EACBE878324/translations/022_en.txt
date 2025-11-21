@@ -1,0 +1,19 @@
+Item: 7×8 rectangular cross-section　　　　7 pieces
+　　　Step count: 392 steps
+
+Item: 8-sun square cross-section　　　　　3 pieces
+　　　Step count: 192 steps
+
+Item: 1 shaku 2 sun × 9 sun rectangular cross-section　　1 piece
+　　　Step count: 90 steps
+
+Item: 1 shaku 3 sun × 7 sun rectangular cross-section　　1 piece
+　　　Step count: 91 steps
+
+Item: 1 shaku 5 sun × 3 sun rectangular cross-section　　1 piece
+　　　Step count: 45 steps
+
+Item: 1 shaku 7 sun × 2 sun rectangular cross-section　　1 piece
+　　　Step count: 34 steps
+
+Item: 1 shaku 6 sun × 1 shaku 2 sun rectangular cross-section　　1 piece

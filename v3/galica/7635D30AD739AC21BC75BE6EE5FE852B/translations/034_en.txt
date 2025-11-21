@@ -1,0 +1,5 @@
+Friend (Chiutare | companion)　Retainer (Ushiutare | household servant)　Guest (Marafuto | visitor)　Bandit (Itsuka | thief)
+　　Limbs and Body　Physical Body
+Head (Shiyaba | head)　Face (Nanu | face)　Crown of head (Hakitai | top of head)　Forehead (Kitto | forehead)　Jaw (Notsukeu | jaw)
+Cheek (Notakamu | cheek)　Eye (Shiki | eye)　Ear (Kishiyara | ear)　Nose (Etsutsu | nose)　Mouth (Baru | mouth)
+Lip (Chiyaru | lip)　Tongue (Au | tongue)　Tooth (Imaki | tooth)　Throat (Seure | throat)　Neck (Rekuchi | neck)

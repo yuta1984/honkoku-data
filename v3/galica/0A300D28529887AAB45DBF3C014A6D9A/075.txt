@@ -1,0 +1,32 @@
+【ページ番号】43【①一~四列目②五列目】
+　　　　　188
+①　続唐宋八大家文読本　So-Tang-Soung-pa-ta-kia
+　　　　　　　　　　　wen-to-pen　Tome II
+　　　　　　　　　　　　　　Fascicules 5-8
+②　id
+　　　　　189
+①　続唐宋八大家文読本　So-Tang-Soung-pa-ta-kia-wen
+　　　　　　　　　　　to-pen　　Tome III
+　　　　　　　　　　　　　　Fascicules  9-12
+②　id
+　　　　　190
+①　絵本朝鮮征伐記　Hwei-pen-tchao sin tching
+　　　　　　　　　　　fa-ki (fasc. 1-5) Tome I
+　　　　　　　Histoire des Dynasties de la Coree
+②　id
+　　　　　191
+①　絵本朝鮮征伐記　Hwei-pen-tchao sin tching
+　　　　　　　　　　　fa-ki (fasc. 6-10) Tome II
+　　　　　　　Histoire des Dynasties de la Coree
+②　id
+　　　　　192
+①　天神記図会　Thien chin-ki-thou-seng
+(5 fasc.)
+　　　　　　Histoire des Esprits celestes, illustree
+②　id
+　　　　　193
+①　善光寺名所図会　Chen-kwang (Zen kwan)
+　　　　　　　　　　sse tao-ming-so thou
+　　　　　　　　　　　　　　　　seng
+②　id
+

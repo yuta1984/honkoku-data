@@ -1,0 +1,8 @@
+One village with a kokudaka of 30 koku: Yamasaki Village
+One village with a kokudaka of 20 koku: Ikeana Village
+One village with a kokudaka of 10 koku: Nakahara Village (branch village of Ikeana Village)
+One village with a kokudaka of 33 koku, 3 to, 3 sho, 4 go: Yunohara Village
+One village with a kokudaka of 16 koku, 6 to, 6 sho, 6 go: Koi Village (branch village of Yunohara Village)
+One village with a kokudaka of 19 koku, 8 to, 3 sho, 3 go: Kohara Village
+One village with a kokudaka of 9 koku, 9 to, 1 sho, 7 go: Komori Village (branch village of Kohara Village)
+One village with a kokudaka of 13 koku, 2 to, 5 sho: Musashi Village

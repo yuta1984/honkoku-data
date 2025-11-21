@@ -1,0 +1,7 @@
+There are [remaining] rin. When adding 6 sun each from two directions to the 1 shaku base, square the 6 sun: 6 × 6 = 36 bu, subtract this, leaving 16 bu 2 bu 5 rin.
+
+Using 2 in the square root extraction method for 6, add 12 (which is 6 × 2) to the provisional value to get 32. Divide the remaining 16 bu 2 bu 5 rin by 3, then by 30, treating it as 2 steps in a 6-step process to get 5 bu. Matching this 5 bu with the provisional 2 gives 2 × 5 = 10, subtract 1 bu, and when adding 5 bu to each of the two directions, square it: 5 × 5 = 25 plus 2 bu 5 rin, which cancels out.
+
+As shown in the diagram:
+
+The reason for using 2 in square root extraction is to add to two directions. If there are discrepancies in division, placement, or multiplication, then the eye [method]...

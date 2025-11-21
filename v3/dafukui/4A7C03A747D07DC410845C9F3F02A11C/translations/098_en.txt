@@ -1,0 +1,9 @@
+Kinchaku (Purse Seine) Net
+
+【Left: Net Diagram Notation】
+For Fish Catching
+First Net: 1, 2, 3, 4
+Wing Net: 5
+
+Second Net: 1, 2, 3, 4
+Wing Net

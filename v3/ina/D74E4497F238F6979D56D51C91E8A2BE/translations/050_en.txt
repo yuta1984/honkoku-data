@@ -1,0 +1,43 @@
+[Right page]
+1. Mountain forests: 30 chō 2 tan 4 se 20 bu - peasant-owned mountains
+   Mountain rice tax: 3 to 2 gō 5 shaku (rate: 1 gō per 1 tan)
+   Details:
+   (Rentai area)
+     Pine and mixed forest 2 tan 4 se - Matajirō
+   (Ashinoiri area)
+     Brushwood mountain 2 tan 6 se 20 bu - village common
+   (Government-use forest)
+     Mixed forest 3 chō 1 tan 2 se - (Kaemon, San-no-jō)
+   (Koyaha area)
+     Brushwood mountain 7 tan 5 se - village common
+   (Government-use forest)
+     Pine forest 1 chō 6 tan 20 bu - (Kyūbei, Kyūbei)
+   (Nagakubo area)
+     Brushwood mountain 1 chō 5 tan 1 se 20 bu - village common
+   (Shōfu-daira area)
+     Brushwood mountain 1 chō 8 tan 6 se 20 bu - same as above
+   (Koiwa area)
+     Brushwood mountain 9 tan - same as above
+
+[Left page]
+   (Hannoki-tate-daira area)
+     Brushwood mountain 2 chō 6 tan 6 se 20 bu - same as above
+   (Aonaki area)
+     Brushwood mountain 8 tan - same as above
+   (Shichirō-kiri-yama area)
+     Brushwood mountain 1 chō 1 tan 6 se 20 bu - same as above
+   (Kuraba-sama area)
+     Brushwood mountain 1 chō 6 tan - same as above
+   (Kokurumi area)
+     Brushwood mountain 2 chō - same as above
+   (Yamanokami-tsurune area)
+     Brushwood mountain 1 chō 3 tan 3 se 10 bu - same as above
+   (Sakasaka-tsurune area)
+     Brushwood mountain 1 chō 6 se 20 bu - same as above
+   (Yamanokami-tsurune excluding fields)
+     Brushwood mountain 5 se 10 bu - same as above
+   (Tochihora area)
+     Brushwood mountain 1 chō 2 tan - same as above
+   (Takizawa-hikage area)
+     Brushwood mountain 2 tan - same as above
+   Eleven [written in red]

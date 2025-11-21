@@ -1,0 +1,8 @@
+Item 1: Assessment 151 koku, 5 to, 9 sho, 5 go　　　《Location: Honda Shinden》
+Item 1: Assessment 7 koku, 6 go　　　　　　　　　　《Location: Hijikata Shinden》
+Item 1: Assessment 344 koku, 1 to, 4 sho, 1 go　　　《Location: Iguchi Shinden》
+Item 1: Assessment 202 koku, 2 to, 3 go　　　　　　《Location: Sekino Shinden》
+Item 1: Assessment 747 koku, 4 to, 5 sho, 2 go　　　《Location: Suzuki Shinden》
+Item 1: Assessment 196 koku, 9 to, 9 sho, 6 go　　　《Location: Kajino Shinden》
+Item 1: Assessment 320 koku, 8 to, 3 sho, 8 go　　　《Location: Onumata Shinden》
+Item 1: Assessment 119 koku, 3 to, 9 sho, 9 go　　　《Location: Naito Shinden》

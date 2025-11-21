@@ -1,0 +1,11 @@
+Item: Assessed yield of 334 koku, 7 sho, 2 go　　　　《Location: Urakami Nishi Village》
+Item: Assessed yield of 408 koku, 9 to, 1 sho, 6 go, 9 seki, 3 sai《Location: Tomachi Village》
+Item: Assessed yield of 584 koku, 5 to, 6 sho, 9 go, 2 seki, 6 sai
+　　　　　　　　　　　　　　　　《Location: Fukuda Village》
+Item: Assessed yield of 348 koku, 5 sho, 3 go　　　　《Location: Shikimi Village》
+Item: Assessed yield of 156 koku, 6 to, 6 sho, 3 go, 3 seki, 6 sai
+　　　　　　　　　　　　　　　　《Location: [□]karihira Village》
+Item: Assessed yield of 366 koku, 7 to, 2 sho, 5 seki, 3 sai《Location: Mie Village》
+Item: Assessed yield of 127 koku, 4 to, 3 sho, 4 go, 3 seki　《Location: Kurosaki Village》
+Item: Assessed yield of 290 koku, 3 to, 4 sho, 8 go, 9 seki, 7 sai
+　　　　　　　　　　　　　　　　《Location: Konoura Village》

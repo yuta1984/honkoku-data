@@ -1,0 +1,8 @@
+One: Assessed rice yield 632 koku 7 to 2 sho 2 go 9 shaku　　　《Location: Ino Village》
+One: Assessed rice yield 453 koku 3 to 3 sho 5 go 9 shaku　　　《Location: Sumiyaki Village》
+One: Assessed rice yield 37 koku 3 to 8 go 7 shaku　　　《Branch village of Sumiyaki Village》《Location: Shiōji Village》
+One: Assessed rice yield 1,644 koku 5 to 6 sho 7 go 1 shaku　　《Location: Umi Village》
+One: Assessed rice yield 533 koku 7 to 1 sho 6 shaku　《Branch village of Umi Village》《Location: Shōjidake Village》
+One: Assessed rice yield 102 koku 3 to 8 sho 5 go　　　　《Branch village of Umi Village》《Location: Shinbaru Village》
+One: Assessed rice yield 628 koku 4 to 2 sho 9 go　　　　　《Location: Satani Village》
+One: Assessed rice yield 711 koku 3 to 2 sho 1 go　　　　　　《Location: Sue Village》

@@ -1,0 +1,41 @@
+152　　　　　　　　　　Role of Skin in Infection and Immunity
+――――――――――――――――――――――――――――――――――
+The same kind of facts have recently been described by Meyer and Batchelder regarding cases of mouse Pasteurella that are extremely virulent to guinea pigs. Having confirmed that percutaneous injection of this pathogen causes death of guinea pigs within 1 to 2 days, the authors attempted to see whether vaccination could be performed by the same route, particularly using specific antivirus. They injected one group of guinea pigs intradermally with 0.3cc of antivirus, and injected another group with 0.3cc of ordinary bouillon used to prepare the antivirus. At various intervals, they subjected these animals to rigorous experiments, applying fragments of spleen rich in pathogenic bacteria to lightly scarified skin surfaces.
+
+All control animals died, while guinea pigs immunized percutaneously with antivirus survived. Immunity was already demonstrated after 18 hours; this continued for about three weeks. An interesting fact was that guinea pigs that had acquired immunity through skin inoculation showed the same susceptibility as controls when injection of test bacteria was performed subcutaneously instead of on the skin.
+
+It should be added that guinea pigs that had undergone percutaneous immunization showed no antibodies in their blood.
+
+　　　　　　　＊　　＊　　＊
+
+There is little difference in immune mechanism between performing vaccination subcutaneously using culture filtrate and using the intradermal route with wet bandaging methods. In all these cases, immunity is acquired regardless of antibodies: since this occurs within skin tissue, it is local immunity.
+
+What cells are involved? We do not know how to answer this precisely. Skin vaccination seems certainly to occur within fixed receptor cells of reticuloendothelial cells, which are the gateway of local phagocytic cells in the skin; migratory leukocytes participate only secondarily. It is the fixed cells that come into contact with virus and receive vaccination; it is the fixed cells that become accustomed to virus, lose susceptibility in themselves, that is, acquire immunity.
+
+When new infection occurs, receptor cells once accustomed to virus behave as if contaminating bacteria were present. Since no toxic substances capable of repelling leukocytes are released, phagocytic cells attack newly arriving pathogens with their innate voracity. After capturing them, phagocytic cells take on the destiny of storing all foreign substances that invade the living body.
+
+The immunity that appears following local vaccination is based, on one hand, on receptor cells or phagocytic cells becoming accustomed and insusceptible to virus, and on the other hand, on the involvement of leukocytes or migratory phagocytic cells.
+
+　　　　　　　Role of Skin in Infection and Immunity　　　　　　　　　153
+――――――――――――――――――――――――――――――――――
+
+We know that the immunity appearing following vaccine therapy follows the same mechanism. That is, according to Wright, it is antibodies that establish immunity, while according to us, it is healthy receptor cells directly adjacent to infected cells that are immunized by antivirus. Antivirus released from bacterial bodies within the animal body or arising from culture filtrate acts with dual significance: namely, it particularly makes healthy receptor cells insusceptible, prevents virus proliferation, and prevents receptor cells from being attacked by virus.
+
+Considered this way, since vaccine therapy depends on local phagocytic cells of the skin, it is a preventive measure, not a therapeutic one; the extension to all phases of the process from infection to immunity is attributed to the inherent nature of phagocytic cells.
+
+　　　　　　　　　　　――――
+　　　　　　　　　References Cited
+　Besredka, Annales de l'Institut Pasteur, t, XXXV,juillet 1921, p, 421,
+　Metchnikoff, L' immunité dans les maladies infectieuses,
+　Balteano, Annales de l'Institut Pasteur, t, XXXVI,1922, p, 805,
+　Brocq-Rousseu et Urbain, Rec, mèdec, vètérin,, t, XCIX, 1923, p, 482,
+　Vallée, Bullet, Société Centorale mèd, vétér,, t, XCIX, 1923, p,285,
+　Plotz Annales de l'Institut Pasteur, t, XXXVIII, 1924 p, 169,
+　Besredka, C, R, Soc, Bologie, t, LXXXVIII, 19 mai 1923, p, 1273; t, LXX-
+　　XIX, 2 juin 1923, p, 7,
+　Besredka et Usbain,C, R, Soc, Biologie, t, LXXXIX, p, 506,
+　Rivalier, Thèse de la Faculté de médec de  Paris, 1924,
+　Solovieff, Veterinarnoie Dielo, n 10, 1926,
+　Jeney, C, R, Soc, Biologie, t, XCII, 1925, p, 921,
+　Meyer et Batchelder, Proc, Soc, Exp, Biol, and Medic,, t, XXIII, 1926, p, 730,
+　Wright, Annales de l'Institut Pasteur, t, XXXVII, p, 107,

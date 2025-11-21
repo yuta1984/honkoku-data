@@ -1,0 +1,8 @@
+One, assessed yield: 179 koku, 9 to, 5 shō, 3 gō　　　　　　《Location: Nishitakada Village》
+One, assessed yield: 189 koku, 3 to, 2 shō, 4 gō　　　　　　《Location: Kamitakada Village》
+One, assessed yield: 421 koku, 8 to, 2 shō, 7 gō　　　　　　《Location: Gomyō Village》
+One, assessed yield: 228 koku, 9 to, 4 gō　　　　　　　　　　《Location: Hara Village》
+One, assessed yield: 243 koku, 1 to, 7 shō, 6 gō　　　　　　《Location: Bessho Village》
+One, assessed yield: 168 koku, 4 to, 2 shō, 8 gō　　　　　　《Location: Hata Village》
+One, assessed yield: 356 koku, 7 to, 1 shō, 3 gō, 6 shaku, 7 sai　《Location: Hanado Village》
+One, assessed yield: 192 koku, 8 to, 5 shō, 3 gō, 9 yū, 6 sai　《Location: Mae Village》

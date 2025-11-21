@@ -1,0 +1,11 @@
+Regarding long ruby text.
+Right-side ruby follows HTML specifications, and browsers handle it automatically, so without writing CSS frantically, when ruby becomes long, the next word moves away and doesn't overlap.
+Kannon (Avalokiteśvara) Bodhisattva (Śvara)
+
+However, left-side ruby won't work as intended unless you instruct the browser to display it this way. Currently, it's just "displaying ruby on the left side." When it's long, it overlaps with the next word's ruby, and when it's short, the spacing between characters becomes abnormally wide.
+
+Tokyo (Tōkyō) (Capital of Japan) Patent (Tokkyo) (Called patent) Permission Bureau (Kyokakyoku) (None)
+
+Accept (Uketamawaru) Accept (Uketamawaru)
+
+Firebird (Phoenix) (Hi)

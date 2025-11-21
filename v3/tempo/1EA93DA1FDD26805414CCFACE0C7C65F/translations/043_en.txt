@@ -1,0 +1,8 @@
+Item 1: Assessment 299 koku, 1 to, 8 sho, 8 go　　《Location: Kikuna Village》
+Item 1: Assessment 660 koku, 6 to, 4 sho, 3 go　　　《Location: Shinohara Village》
+Item 1: Assessment 169 koku, 4 to, 4 sho, 1 go　　　《Location: Kishine Village》
+Item 1: Assessment 223 koku, 9 to, 7 sho, 5 go　　《Location: Shirahata Village》【Shirahata Village?】
+Item 1: Assessment 162 koku, 7 to, 4 sho, 7 go　　《Location: Rokkakubashi Village》
+Item 1: Assessment 108 koku, 5 sho, 5 go　　　　　　《Location: Shintaiji Village》【Shindaiji Village?】
+Item 1: Assessment 95 koku, 8 to, 7 sho, 6 go　　　　《Location: Katakura Village》
+Item 1: Assessment 119 koku, 2 to, 4 sho, 3 go　　　《Location: Sanmaibashi Village》

@@ -1,0 +1,8 @@
+Item 1: Assessed yield 317 koku 1 to 7 sho 5 go　　　　《Location: Honshinmachi Village》
+Item 1: Assessed yield 625 koku 8 to 5 sho 1 go　　　　《Location: Toridashimachi Village》
+Item 1: Assessed yield 379 koku 1 to 5 sho 9 go　　　　《Location: Takayanagi Village》
+Item 1: Assessed yield 331 koku 9 to 6 sho 5 go　　　　《Location: Kajiya Village》
+Item 1: Assessed yield 499 koku 9 to 4 sho 4 go　　　　《Location: Hara Village》
+Item 1: Assessed yield 63 koku 5 to 7 sho 5 go　　　　　《Location: Sakurai Shinden》
+Item 1: Assessed yield 1,126 koku 4 to 7 sho 6 go　　　《Location: Nozawa Village》
+Item 1: Assessed yield 612 koku 5 to 5 sho 1 go　　　　《Location: Mitsuzuka Village》

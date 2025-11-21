@@ -1,0 +1,16 @@
+Calculation Table for Disinfectant Quantities for Wells and Latrines
+
+Water volume and required quicklime amounts by diameter and depth (units: koku, to, sho, go, shaku)
+
+[A detailed calculation table follows - listing water volumes and required quicklime amounts for various combinations of diameters from 2 shaku to 4 shaku and depths from 1 shaku to 5 shaku 5 sun]
+
+Notes
+To disinfect well water, quicklime equivalent to one-fiftieth of the water volume should be made into a milk-like solution, poured in, thoroughly stirred, and after twelve hours or more have passed, sufficient dredging must be performed. Wells have various structures - some are cylindrical, some rectangular, some gourd-shaped, and some have different mouth and bottom diameters. This table assumes cylindrical wells and measures according to the following formula. However, in actual practice, appropriate consideration must be given according to the structure of the well.
+
+Formula: Diameter × Diameter × Depth × Volume ratio
+
+Since actual calculations are somewhat complex, the amounts calculated using relatively simple methods show slight increases over actual quantities. This table covers diameters from 2 shaku to 4 shaku and depths from 1 shaku to 1 jo to save calculation effort.
+
+Intermediate measurements may include 1 sun, 2 sun, 3 sun, 4 sun, 6 sun, 7 sun, 8 sun, 9 sun, etc. In these cases, calculations should be made appropriately according to the depth, and the capacity should be calculated with reference to this table.
+
+However, waste pits usually do not have the same mouth and bottom diameters, and the amount of excrement at the bottom exceeds the actual amount, but it is safe if lime milk (10-fold dilution) of one-quarter or more is mixed with the corresponding amount and thoroughly stirred.

@@ -1,0 +1,8 @@
+Item 1: Assessment 231 koku, 8 to, 3 sho　　　　　《Location: Ikibashi Village》
+Item 1: Assessment 185 koku, 5 to, 2 sho, 3 go　　　　《Location: Kami-Hebikubo Village》
+Item 1: Assessment 277 koku, 8 to, 3 sho, 6 go　　　《Location: Shimo-Hebikubo Village》
+Item 1: Assessment 269 koku, 3 to, 3 go　　　　　　《Location: Koyama Village》
+Item 1: Assessment 928 koku, 6 to, 2 sho, 6 go　　　　《Location: Togoshi Village》
+Item 1: Assessment 304 koku, 5 to, 9 sho, 6 go, 4 shaku, 2 sai　《Location: Himonya Village》
+Item 1: Assessment 68 koku, 3 to, 4 sho, 1 go, 7 shaku　　　《Location: Kirigaya Village》
+Item 1: Assessment 110 koku, 3 to, 9 sho, 1 go　　　　　　　《Location: Taniyama Village》

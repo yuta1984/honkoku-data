@@ -1,0 +1,8 @@
+One, assessed yield: 109 koku, 1 sho, 1 go　　　　　　《Location: Kita-Kareki Village》
+One, assessed yield: 633 koku, 9 to, 9 sho, 4 go　《Location: Kinomoto Village》
+One, assessed yield: 494 koku, 5 to, 2 sho, 4 go　《Location: Ichitsuya Village》
+One, assessed yield: 523 koku, 6 to, 5 sho, 8 go　《Location: Bessho Village》
+One, assessed yield: 2,056 koku, 7 to, 7 sho, 9 go　《Location: Miyake Village》
+One, assessed yield: 280 koku, 9 to, 3 go　　　　《Location: Higashi-Abo Village》
+One, assessed yield: 723 koku, 1 sho, 9 go　　　《Location: Nishi-Abo Village》
+One, assessed yield: 974 koku, 4 to, 4 sho, 5 go　《Location: Sumimichi Village》

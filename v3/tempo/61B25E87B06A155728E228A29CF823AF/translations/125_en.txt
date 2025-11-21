@@ -1,0 +1,8 @@
+1. Assessed yield: 111 koku, 5 sho, 8 go, 5 shaku　　　　　　　　　　　Tashiro village
+1. Assessed yield: 83 koku, 3 to, 6 sho, 2 go　　　　　　　　　　　　　Sugihira village
+1. Assessed yield: 115 koku, 6 to, 6 sho, 2 go　　　　　　　　　　　　　Wada village
+1. Assessed yield: 100 koku, 5 to, 6 sho, 2 go　　　　　　　　　　　　　Mishiro village
+1. Assessed yield: 56 koku, 5 to, 1 sho, 6 go　Within Mishiro village　　　Totsuro village
+1. Assessed yield: 90 koku, 1 to, 7 sho, 2 go　　　　　　　　　　　　　　Nogo village
+1. Assessed yield: 55 koku, 5 to, 8 sho, 5 go　　　　　　　　　　　　　　Akahane village
+1. Assessed yield: 117 koku, 4 to, 4 sho, 9 go　　　　　　　　　　　　　Kobayashi village

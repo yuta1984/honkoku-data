@@ -1,0 +1,28 @@
+206　　　　　　Oral Immunization Against Dysentery, Typhus, and Cholera
+――――――――――――――――――――――――――――――――――
+numbered approximately 10,000 people.
+　Since the epidemic continued to claim victims, the health authorities proposed to immunize the population orally. From May 1, 1925 to September 7, under the supervision of the health bureau, 28,000 people were vaccinated using bile-added vaccine; furthermore, the same vaccine for 38,000 people was distributed to volunteers who requested it from the health bureau. Therefore, a total of 63,000 people were vaccinated orally.
+　From January 1 to October 31, 84 typhus cases were recorded by the health department of São Paulo. From this number, 14 cases occurred in those vaccinated over a year ago, 25 cases had incomplete vaccination, and finally 14 cases where it was impossible to determine the nature of the vaccine used or the date of vaccination must be excluded. Therefore, the remaining 31 typhus patients occurred within one year among the vaccinated individuals, and precise records were obtained for these cases.
+　Among these 31 individuals:
+　　20 people were inoculated subcutaneously.
+　　10 people were administered orally.
+　　1 person was inoculated by both methods.
+　Among the 20 people inoculated subcutaneously:
+　　4 people became infected within 30 days after vaccination.
+　　16 people became ill after 30 days.
+　Among the 10 people inoculated orally:
+　　7 people became ill within 30 days after vaccination.
+　　3 people became ill after 30 days.
+　The single individual inoculated by both methods became ill one and a half months after vaccination.
+　Estimating the number of people inoculated subcutaneously at 10,000 (approximate number) and calculating the reported patients after the 30-day incubation period (17 people), the morbidity percentage equals 0.17%.
+　Applying the same method to those orally immunized, if we target only the 28,000 people inoculated under health bureau supervision, we obtain a ratio of 0.01%, and if we also include in the calculation the 35,000 who requested bile-added vaccine, it becomes 0.006%.
+
+　　　　　Oral Immunization Against Dysentery, Typhus, and Cholera　　　　207
+――――――――――――――――――――――――――――――――――
+　Therefore, the oral vaccination method achieved significantly better results than the subcutaneous method.
+　To summarize: laboratory experiments and trials in humans indicate that the oral immunization method used for preventive and, when necessary, therapeutic purposes is effective against dysentery, typhus, and cholera.
+　　　　　　　　　　＊　　＊　　＊
+　It is far from our intention to cast doubt on the effectiveness of commonly used vaccination methods and to completely substitute the oral route for the subcutaneous route. The problem posed today is whether these two vaccination methods are based on the same mechanism and achieve the same immunity.
+　Oral vaccination, as far as we know today, occurs at sites in the intestinal wall; this method is accomplished without general reactions, without antibody formation, and is established in an extremely short time. On the other hand, we know that the subcutaneous vaccination method is accompanied by marked leukocyte reactions, formation of antibodies in the blood, and general reactions; this method furthermore requires a period of at least 5-6 days for its establishment.
+　Given these differences, we must first dismiss the idea that immunity obtained by subcutaneous inoculation of vaccines could be of a different nature from the immunity that follows oral ingestion of the same vaccines. Of course, we have been able to recognize that viruses injected subcutaneously can reappear in the intestines, and this already occurs between both vaccination methods. However, if the immune mechanism is identical in both cases, how could it be possible that antibodies, considered indispensable for immunity, exist in some cases and are absent in others? How can we explain that immunity appears so rapidly when vaccines are swallowed, but immune formation is so slow in the case of injection? It is concerning to accept as valid the possibility of two immunities that appear so different.
+　To clarify the problem, what both methods provide us is: antibody formation following vaccine ingestion, or rapid immunity without antibodies and without incubation period when vaccines are injected subcutaneously, simply put, what the oral vaccination method provides

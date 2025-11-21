@@ -1,0 +1,8 @@
+Item 1: Assessed yield 465 koku 4 to 5 sho 4 go　　　《Location: Inakura Village》
+Item 1: Assessed yield 536 koku 3 to 9 sho 3 go　　　《Location: Ibuka Village》
+Item 1: Assessed yield 200 koku 6 to 5 sho 7 go　　　　《Location: Hora Village》
+Item 1: Assessed yield 655 koku 2 to 6 sho 1 go 3 shaku　《Location: Okada-machi Village》
+Item 1: Assessed yield 647 koku 1 to 3 sho 7 go　　　　《Location: Shimo-Okada Village》
+Item 1: Assessed yield 409 koku 1 sho 6 go　　　　　　《Location: Matsuoka Village》
+Item 1: Assessed yield 216 koku 6 to 5 sho 3 go　　　　《Location: Hara Village》
+Item 1: Assessed yield 172 koku 3 to 9 go　　　　　　《Location: Mizukumi Village》
