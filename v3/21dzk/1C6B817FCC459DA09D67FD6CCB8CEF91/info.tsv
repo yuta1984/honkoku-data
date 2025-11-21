@@ -1,91 +1,91 @@
-filename	status	image	canvasId
-001.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000067/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/67
-002.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000068/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/68
-003.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000069/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/69
-004.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000070/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/70
-005.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000071/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/71
-006.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000072/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/72
-007.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000073/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/73
-008.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000074/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/74
-009.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000075/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/75
-010.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000076/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/76
-011.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000077/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/77
-012.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000078/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/78
-013.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000079/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/79
-014.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000080/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/80
-015.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000081/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/81
-016.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000082/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/82
-017.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000083/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/83
-018.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000084/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/84
-019.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000085/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/85
-020.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000086/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/86
-021.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000087/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/87
-022.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000088/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/88
-023.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000089/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/89
-024.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000090/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/90
-025.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000091/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/91
-026.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000092/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/92
-027.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000093/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/93
-028.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000094/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/94
-029.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000095/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/95
-030.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000096/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/96
-031.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000097/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/97
-032.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000098/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/98
-033.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000099/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/99
-034.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000100/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/100
-035.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000101/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/101
-036.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000102/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/102
-037.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000103/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/103
-038.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000104/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/104
-039.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000105/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/105
-040.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000106/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/106
-041.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000107/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/107
-042.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000108/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/108
-043.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000109/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/109
-044.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000110/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/110
-045.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000111/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/111
-046.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000112/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/112
-047.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000113/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/113
-048.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000114/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/114
-049.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000115/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/115
-050.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000116/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/116
-051.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000117/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/117
-052.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000118/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/118
-053.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000119/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/119
-054.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000120/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/120
-055.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000121/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/121
-056.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000122/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/122
-057.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000123/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/123
-058.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000124/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/124
-059.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000125/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/125
-060.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000126/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/126
-061.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000127/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/127
-062.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000128/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/128
-063.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000129/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/129
-064.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000130/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/130
-065.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000131/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/131
-066.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000132/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/132
-067.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000133/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/133
-068.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000134/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/134
-069.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000135/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/135
-070.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000136/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/136
-071.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000137/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/137
-072.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000138/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/138
-073.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000139/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/139
-074.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000140/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/140
-075.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000141/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/141
-076.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000142/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/142
-077.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000143/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/143
-078.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000144/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/144
-079.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000145/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/145
-080.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000146/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/146
-081.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000147/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/147
-082.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000148/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/148
-083.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000149/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/149
-084.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000150/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/150
-085.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000151/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/151
-086.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000152/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/152
-087.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000153/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/153
-088.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000154/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/154
-089.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000155/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/155
-090.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000156/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/156
+filename	status	image
+001.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000067/full/full/0/default.jpg
+002.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000068/full/full/0/default.jpg
+003.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000069/full/full/0/default.jpg
+004.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000070/full/full/0/default.jpg
+005.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000071/full/full/0/default.jpg
+006.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000072/full/full/0/default.jpg
+007.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000073/full/full/0/default.jpg
+008.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000074/full/full/0/default.jpg
+009.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000075/full/full/0/default.jpg
+010.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000076/full/full/0/default.jpg
+011.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000077/full/full/0/default.jpg
+012.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000078/full/full/0/default.jpg
+013.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000079/full/full/0/default.jpg
+014.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000080/full/full/0/default.jpg
+015.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000081/full/full/0/default.jpg
+016.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000082/full/full/0/default.jpg
+017.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000083/full/full/0/default.jpg
+018.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000084/full/full/0/default.jpg
+019.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000085/full/full/0/default.jpg
+020.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000086/full/full/0/default.jpg
+021.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000087/full/full/0/default.jpg
+022.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000088/full/full/0/default.jpg
+023.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000089/full/full/0/default.jpg
+024.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000090/full/full/0/default.jpg
+025.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000091/full/full/0/default.jpg
+026.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000092/full/full/0/default.jpg
+027.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000093/full/full/0/default.jpg
+028.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000094/full/full/0/default.jpg
+029.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000095/full/full/0/default.jpg
+030.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000096/full/full/0/default.jpg
+031.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000097/full/full/0/default.jpg
+032.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000098/full/full/0/default.jpg
+033.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000099/full/full/0/default.jpg
+034.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000100/full/full/0/default.jpg
+035.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000101/full/full/0/default.jpg
+036.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000102/full/full/0/default.jpg
+037.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000103/full/full/0/default.jpg
+038.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000104/full/full/0/default.jpg
+039.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000105/full/full/0/default.jpg
+040.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000106/full/full/0/default.jpg
+041.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000107/full/full/0/default.jpg
+042.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000108/full/full/0/default.jpg
+043.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000109/full/full/0/default.jpg
+044.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000110/full/full/0/default.jpg
+045.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000111/full/full/0/default.jpg
+046.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000112/full/full/0/default.jpg
+047.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000113/full/full/0/default.jpg
+048.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000114/full/full/0/default.jpg
+049.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000115/full/full/0/default.jpg
+050.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000116/full/full/0/default.jpg
+051.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000117/full/full/0/default.jpg
+052.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000118/full/full/0/default.jpg
+053.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000119/full/full/0/default.jpg
+054.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000120/full/full/0/default.jpg
+055.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000121/full/full/0/default.jpg
+056.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000122/full/full/0/default.jpg
+057.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000123/full/full/0/default.jpg
+058.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000124/full/full/0/default.jpg
+059.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000125/full/full/0/default.jpg
+060.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000126/full/full/0/default.jpg
+061.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000127/full/full/0/default.jpg
+062.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000128/full/full/0/default.jpg
+063.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000129/full/full/0/default.jpg
+064.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000130/full/full/0/default.jpg
+065.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000131/full/full/0/default.jpg
+066.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000132/full/full/0/default.jpg
+067.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000133/full/full/0/default.jpg
+068.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000134/full/full/0/default.jpg
+069.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000135/full/full/0/default.jpg
+070.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000136/full/full/0/default.jpg
+071.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000137/full/full/0/default.jpg
+072.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000138/full/full/0/default.jpg
+073.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000139/full/full/0/default.jpg
+074.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000140/full/full/0/default.jpg
+075.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000141/full/full/0/default.jpg
+076.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000142/full/full/0/default.jpg
+077.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000143/full/full/0/default.jpg
+078.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000144/full/full/0/default.jpg
+079.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000145/full/full/0/default.jpg
+080.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000146/full/full/0/default.jpg
+081.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000147/full/full/0/default.jpg
+082.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000148/full/full/0/default.jpg
+083.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000149/full/full/0/default.jpg
+084.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000150/full/full/0/default.jpg
+085.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000151/full/full/0/default.jpg
+086.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952809/R0000152/full/full/0/default.jpg
+087.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000153/full/full/0/default.jpg
+088.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000154/full/full/0/default.jpg
+089.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000155/full/full/0/default.jpg
+090.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000156/full/full/0/default.jpg

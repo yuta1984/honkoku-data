@@ -1,22 +1,22 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
-012.txt	default		
-013.txt	default		
-014.txt	default		
-015.txt	default		
-016.txt	default		
-017.txt	default		
-018.txt	default		
-019.txt	default		
-020.txt	default		
-021.txt	default		
+filename	status	image
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00000.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00001.tif/full/full/0/default.jpg
+003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00002.tif/full/full/0/default.jpg
+004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00003.tif/full/full/0/default.jpg
+005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00004.tif/full/full/0/default.jpg
+006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00005.tif/full/full/0/default.jpg
+007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00006.tif/full/full/0/default.jpg
+008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00007.tif/full/full/0/default.jpg
+009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00008.tif/full/full/0/default.jpg
+010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00009.tif/full/full/0/default.jpg
+011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00010.tif/full/full/0/default.jpg
+012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00011.tif/full/full/0/default.jpg
+013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00012.tif/full/full/0/default.jpg
+014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00013.tif/full/full/0/default.jpg
+015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00014.tif/full/full/0/default.jpg
+016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00015.tif/full/full/0/default.jpg
+017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00016.tif/full/full/0/default.jpg
+018.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00017.tif/full/full/0/default.jpg
+019.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00018.tif/full/full/0/default.jpg
+020.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00019.tif/full/full/0/default.jpg
+021.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300003876/v4/ADMC/ADMC-00692/ADMC-00692-00020.tif/full/full/0/default.jpg

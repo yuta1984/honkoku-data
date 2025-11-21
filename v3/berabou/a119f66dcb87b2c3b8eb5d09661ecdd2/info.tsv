@@ -1,29 +1,29 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
-012.txt	default		
-013.txt	default		
-014.txt	default		
-015.txt	default		
-016.txt	default		
-017.txt	default		
-018.txt	default		
-019.txt	default		
-020.txt	default		
-021.txt	default		
-022.txt	default		
-023.txt	default		
-024.txt	default		
-025.txt	default		
-026.txt	default		
-027.txt	default		
-028.txt	default		
+filename	status	image
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00000.tif/full/full/0/default.jpg
+002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00001.tif/full/full/0/default.jpg
+003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00002.tif/full/full/0/default.jpg
+004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00003.tif/full/full/0/default.jpg
+005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00004.tif/full/full/0/default.jpg
+006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00005.tif/full/full/0/default.jpg
+007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00006.tif/full/full/0/default.jpg
+008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00007.tif/full/full/0/default.jpg
+009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00008.tif/full/full/0/default.jpg
+010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00009.tif/full/full/0/default.jpg
+011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00010.tif/full/full/0/default.jpg
+012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00011.tif/full/full/0/default.jpg
+013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00012.tif/full/full/0/default.jpg
+014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00013.tif/full/full/0/default.jpg
+015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00014.tif/full/full/0/default.jpg
+016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00015.tif/full/full/0/default.jpg
+017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00016.tif/full/full/0/default.jpg
+018.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00017.tif/full/full/0/default.jpg
+019.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00018.tif/full/full/0/default.jpg
+020.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00019.tif/full/full/0/default.jpg
+021.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00020.tif/full/full/0/default.jpg
+022.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00021.tif/full/full/0/default.jpg
+023.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00022.tif/full/full/0/default.jpg
+024.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00023.tif/full/full/0/default.jpg
+025.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00024.tif/full/full/0/default.jpg
+026.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00025.tif/full/full/0/default.jpg
+027.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00026.tif/full/full/0/default.jpg
+028.txt	default	https://kokusho.nijl.ac.jp/api/iiif/300087396/v4/EDOM/EDOM-14395/EDOM-14395-00027.tif/full/full/0/default.jpg

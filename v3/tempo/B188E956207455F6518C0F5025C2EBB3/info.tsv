@@ -1,13 +1,13 @@
-filename	status	image	canvasId
-001.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-01.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page1
-002.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-02.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page2
-003.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-03.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page3
-004.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-04.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page4
-005.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-05.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page5
-006.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-06.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page6
-007.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-07.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page7
-008.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-08.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page8
-009.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-09.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page9
-010.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-10.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page10
-011.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-11.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page11
-012.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-12.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550034/page12
+filename	status	image
+001.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-01.tif/full/full/0/default.jpg
+002.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-02.tif/full/full/0/default.jpg
+003.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-03.tif/full/full/0/default.jpg
+004.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-04.tif/full/full/0/default.jpg
+005.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-05.tif/full/full/0/default.jpg
+006.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-06.tif/full/full/0/default.jpg
+007.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-07.tif/full/full/0/default.jpg
+008.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-08.tif/full/full/0/default.jpg
+009.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-09.tif/full/full/0/default.jpg
+010.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-10.tif/full/full/0/default.jpg
+011.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-11.tif/full/full/0/default.jpg
+012.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550034-12.tif/full/full/0/default.jpg

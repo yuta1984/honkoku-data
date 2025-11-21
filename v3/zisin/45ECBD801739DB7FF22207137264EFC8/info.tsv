@@ -1,18 +1,18 @@
-filename	status	image	canvasId
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00001.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/1
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00002.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/2
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00003.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/3
-004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00004.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/4
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00005.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/5
-006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00006.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/6
-007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00007.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/7
-008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00008.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/8
-009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00009.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/9
-010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00010.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/10
-011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00011.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/11
-012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00012.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/12
-013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00013.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/13
-014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00014.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/14
-015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00015.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/15
-016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00016.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/16
-017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00017.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200018611/canvas/17
+filename	status	image
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00001.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00002.tif/full/full/0/default.jpg
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00003.tif/full/full/0/default.jpg
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00004.tif/full/full/0/default.jpg
+005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00005.tif/full/full/0/default.jpg
+006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00006.tif/full/full/0/default.jpg
+007.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00007.tif/full/full/0/default.jpg
+008.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00008.tif/full/full/0/default.jpg
+009.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00009.tif/full/full/0/default.jpg
+010.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00010.tif/full/full/0/default.jpg
+011.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00011.tif/full/full/0/default.jpg
+012.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00012.tif/full/full/0/default.jpg
+013.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00013.tif/full/full/0/default.jpg
+014.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00014.tif/full/full/0/default.jpg
+015.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00015.tif/full/full/0/default.jpg
+016.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00016.tif/full/full/0/default.jpg
+017.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200018611/v4/NIAC/MIT-X00122-014/MIT-X00122-014-00017.tif/full/full/0/default.jpg

@@ -1,14 +1,14 @@
-filename	status	image	canvasId
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000001.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/1
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000002.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/2
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000003.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/3
-004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000004.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/4
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000005.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/5
-006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000006.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/6
-007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000007.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/7
-008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000008.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/8
-009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000009.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/9
-010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000010.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/10
-011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000011.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/11
-012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000012.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/12
-013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000013.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/200000472/canvas/13
+filename	status	image
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000001.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000002.tif/full/full/0/default.jpg
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000003.tif/full/full/0/default.jpg
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000004.tif/full/full/0/default.jpg
+005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000005.tif/full/full/0/default.jpg
+006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000006.tif/full/full/0/default.jpg
+007.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000007.tif/full/full/0/default.jpg
+008.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000008.tif/full/full/0/default.jpg
+009.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000009.tif/full/full/0/default.jpg
+010.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000010.tif/full/full/0/default.jpg
+011.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000011.tif/full/full/0/default.jpg
+012.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000012.tif/full/full/0/default.jpg
+013.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000472/v4/image/110_0806/00000003/00000013.tif/full/full/0/default.jpg

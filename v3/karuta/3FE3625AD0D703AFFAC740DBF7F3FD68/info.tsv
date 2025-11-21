@@ -1,2 +1,2 @@
-filename	status	image	canvasId
-001.txt	default	https://dl.ndl.go.jp/api/iiif/1313102/R0000001/full/full/0/default.jpg	https://dl.ndl.go.jp/api/iiif/1313102/canvas/1
+filename	status	image
+001.txt	completed	https://dl.ndl.go.jp/api/iiif/1313102/R0000001/full/full/0/default.jpg

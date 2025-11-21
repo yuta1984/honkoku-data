@@ -1,7 +1,7 @@
-filename	status	image	canvasId
-001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_001.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000010
-002.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_002.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000020
-003.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_003.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000030
-004.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_004.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000040
-005.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_005.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000050
-006.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_006.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500/pageHW5000060
+filename	status	image
+001.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_001.tif/full/full/0/default.jpg
+002.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_002.tif/full/full/0/default.jpg
+003.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_003.tif/full/full/0/default.jpg
+004.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_004.tif/full/full/0/default.jpg
+005.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_005.tif/full/full/0/default.jpg
+006.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW500%2FHW500_006.tif/full/full/0/default.jpg

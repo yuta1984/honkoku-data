@@ -1,2 +1,2 @@
-filename	status	image	canvasId
-001.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88638/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/canvas/p1
+filename	status	image
+001.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88638/full/full/0/default.jpg

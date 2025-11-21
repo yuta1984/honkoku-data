@@ -1,8 +1,8 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
+filename	status	image
+001.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!001.tif/full/full/0/default.jpg
+002.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!002.tif/full/full/0/default.jpg
+003.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!003.tif/full/full/0/default.jpg
+004.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!004.tif/full/full/0/default.jpg
+005.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!005.tif/full/full/0/default.jpg
+006.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!006.tif/full/full/0/default.jpg
+007.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!k000543!007.tif/full/full/0/default.jpg

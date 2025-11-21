@@ -1,77 +1,77 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
-012.txt	default		
-013.txt	default		
-014.txt	default		
-015.txt	default		
-016.txt	default		
-017.txt	default		
-018.txt	default		
-019.txt	default		
-020.txt	default		
-021.txt	default		
-022.txt	default		
-023.txt	default		
-024.txt	default		
-025.txt	default		
-026.txt	default		
-027.txt	default		
-028.txt	default		
-029.txt	default		
-030.txt	default		
-031.txt	default		
-032.txt	default		
-033.txt	default		
-034.txt	default		
-035.txt	default		
-036.txt	default		
-037.txt	default		
-038.txt	default		
-039.txt	default		
-040.txt	default		
-041.txt	default		
-042.txt	default		
-043.txt	default		
-044.txt	default		
-045.txt	default		
-046.txt	default		
-047.txt	default		
-048.txt	default		
-049.txt	default		
-050.txt	default		
-051.txt	default		
-052.txt	default		
-053.txt	default		
-054.txt	default		
-055.txt	default		
-056.txt	default		
-057.txt	default		
-058.txt	default		
-059.txt	default		
-060.txt	default		
-061.txt	default		
-062.txt	default		
-063.txt	default		
-064.txt	default		
-065.txt	default		
-066.txt	default		
-067.txt	default		
-068.txt	default		
-069.txt	default		
-070.txt	default		
-071.txt	default		
-072.txt	default		
-073.txt	default		
-074.txt	default		
-075.txt	default		
-076.txt	default		
+filename	status	image
+001.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/1.tif/full/full/0/default.jpg
+002.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/2.tif/full/full/0/default.jpg
+003.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/3.tif/full/full/0/default.jpg
+004.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/4.tif/full/full/0/default.jpg
+005.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/5.tif/full/full/0/default.jpg
+006.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/6.tif/full/full/0/default.jpg
+007.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/7.tif/full/full/0/default.jpg
+008.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/8.tif/full/full/0/default.jpg
+009.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/9.tif/full/full/0/default.jpg
+010.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/10.tif/full/full/0/default.jpg
+011.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/11.tif/full/full/0/default.jpg
+012.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/12.tif/full/full/0/default.jpg
+013.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/13.tif/full/full/0/default.jpg
+014.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/14.tif/full/full/0/default.jpg
+015.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/15.tif/full/full/0/default.jpg
+016.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/16.tif/full/full/0/default.jpg
+017.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/17.tif/full/full/0/default.jpg
+018.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/18.tif/full/full/0/default.jpg
+019.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/19.tif/full/full/0/default.jpg
+020.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/20.tif/full/full/0/default.jpg
+021.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/21.tif/full/full/0/default.jpg
+022.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/22.tif/full/full/0/default.jpg
+023.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/23.tif/full/full/0/default.jpg
+024.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/24.tif/full/full/0/default.jpg
+025.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/25.tif/full/full/0/default.jpg
+026.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/26.tif/full/full/0/default.jpg
+027.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/27.tif/full/full/0/default.jpg
+028.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/28.tif/full/full/0/default.jpg
+029.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/29.tif/full/full/0/default.jpg
+030.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/30.tif/full/full/0/default.jpg
+031.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/31.tif/full/full/0/default.jpg
+032.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/32.tif/full/full/0/default.jpg
+033.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/33.tif/full/full/0/default.jpg
+034.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/34.tif/full/full/0/default.jpg
+035.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/35.tif/full/full/0/default.jpg
+036.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/36.tif/full/full/0/default.jpg
+037.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/37.tif/full/full/0/default.jpg
+038.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/38.tif/full/full/0/default.jpg
+039.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/39.tif/full/full/0/default.jpg
+040.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/40.tif/full/full/0/default.jpg
+041.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/41.tif/full/full/0/default.jpg
+042.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/42.tif/full/full/0/default.jpg
+043.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/43.tif/full/full/0/default.jpg
+044.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/44.tif/full/full/0/default.jpg
+045.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/45.tif/full/full/0/default.jpg
+046.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/46.tif/full/full/0/default.jpg
+047.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/47.tif/full/full/0/default.jpg
+048.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/48.tif/full/full/0/default.jpg
+049.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/49.tif/full/full/0/default.jpg
+050.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/50.tif/full/full/0/default.jpg
+051.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/51.tif/full/full/0/default.jpg
+052.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/52.tif/full/full/0/default.jpg
+053.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/53.tif/full/full/0/default.jpg
+054.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/54.tif/full/full/0/default.jpg
+055.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/55.tif/full/full/0/default.jpg
+056.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/56.tif/full/full/0/default.jpg
+057.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/57.tif/full/full/0/default.jpg
+058.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/58.tif/full/full/0/default.jpg
+059.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/59.tif/full/full/0/default.jpg
+060.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/60.tif/full/full/0/default.jpg
+061.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/61.tif/full/full/0/default.jpg
+062.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/62.tif/full/full/0/default.jpg
+063.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/63.tif/full/full/0/default.jpg
+064.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/64.tif/full/full/0/default.jpg
+065.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/65.tif/full/full/0/default.jpg
+066.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/66.tif/full/full/0/default.jpg
+067.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/67.tif/full/full/0/default.jpg
+068.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/68.tif/full/full/0/default.jpg
+069.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/69.tif/full/full/0/default.jpg
+070.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/70.tif/full/full/0/default.jpg
+071.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/71.tif/full/full/0/default.jpg
+072.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/72.tif/full/full/0/default.jpg
+073.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/73.tif/full/full/0/default.jpg
+074.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/74.tif/full/full/0/default.jpg
+075.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/75.tif/full/full/0/default.jpg
+076.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A124/76.tif/full/full/0/default.jpg

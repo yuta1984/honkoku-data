@@ -1,13 +1,13 @@
-filename	status	image	canvasId
-001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_001.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030010
-002.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_002.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030020
-003.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_003.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030030
-004.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_004.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030040
-005.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_005.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030050
-006.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_006.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030060
-007.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_007.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030070
-008.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_008.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030080
-009.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_009.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030090
-010.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_010.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030100
-011.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_011.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030110
-012.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_012.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503/pageHW5030120
+filename	status	image
+001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_001.tif/full/full/0/default.jpg
+002.txt	initiated	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_002.tif/full/full/0/default.jpg
+003.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_003.tif/full/full/0/default.jpg
+004.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_004.tif/full/full/0/default.jpg
+005.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_005.tif/full/full/0/default.jpg
+006.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_006.tif/full/full/0/default.jpg
+007.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_007.tif/full/full/0/default.jpg
+008.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_008.tif/full/full/0/default.jpg
+009.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_009.tif/full/full/0/default.jpg
+010.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_010.tif/full/full/0/default.jpg
+011.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_011.tif/full/full/0/default.jpg
+012.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/HW503%2FHW503_012.tif/full/full/0/default.jpg

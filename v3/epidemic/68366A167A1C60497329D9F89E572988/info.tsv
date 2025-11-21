@@ -1,2 +1,2 @@
-filename	status	image	canvasId
-001.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/421586/404279.tiff/full/full/0/default.jpg	https://catalog.lib.kyushu-u.ac.jp/image/421586/canvas/p1
+filename	status	image
+001.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/421586/404279.tiff/full/full/0/default.jpg

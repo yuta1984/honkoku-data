@@ -1,13 +1,13 @@
-filename	status	image	canvasId
-001.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p1
-002.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p2
-003.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p3
-004.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p4
-005.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p5
-006.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p6
-007.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p7
-008.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p8
-009.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p9
-010.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p10
-011.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p11
-012.txt	default		https://catalog.lib.kyushu-u.ac.jp/image/7162351/canvas/p12
+filename	status	image
+001.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134397.tiff/info.json
+002.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134398.tiff/info.json
+003.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134399.tiff/info.json
+004.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134400.tiff/info.json
+005.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134401.tiff/info.json
+006.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134402.tiff/info.json
+007.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134403.tiff/info.json
+008.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134404.tiff/info.json
+009.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134405.tiff/info.json
+010.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134406.tiff/info.json
+011.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134407.tiff/info.json
+012.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162351/1134408.tiff/info.json

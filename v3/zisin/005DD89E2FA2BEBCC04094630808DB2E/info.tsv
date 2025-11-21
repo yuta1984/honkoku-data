@@ -1,17 +1,17 @@
-filename	status	image	canvasId
-001.txt	default	https://www.dheq.org/repo/iiif-img/2/3426/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p1
-002.txt	default	https://www.dheq.org/repo/iiif-img/2/3427/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p2
-003.txt	default	https://www.dheq.org/repo/iiif-img/2/3428/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p3
-004.txt	default	https://www.dheq.org/repo/iiif-img/2/3429/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p4
-005.txt	default	https://www.dheq.org/repo/iiif-img/2/3430/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p5
-006.txt	default	https://www.dheq.org/repo/iiif-img/2/3431/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p6
-007.txt	default	https://www.dheq.org/repo/iiif-img/2/3432/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p7
-008.txt	default	https://www.dheq.org/repo/iiif-img/2/3433/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p8
-009.txt	default	https://www.dheq.org/repo/iiif-img/2/3434/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p9
-010.txt	default	https://www.dheq.org/repo/iiif-img/2/3435/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p10
-011.txt	default	https://www.dheq.org/repo/iiif-img/2/3436/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p11
-012.txt	default	https://www.dheq.org/repo/iiif-img/2/3437/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p12
-013.txt	default	https://www.dheq.org/repo/iiif-img/2/3438/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p13
-014.txt	default	https://www.dheq.org/repo/iiif-img/2/3439/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p14
-015.txt	default	https://www.dheq.org/repo/iiif-img/2/3440/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p15
-016.txt	default	https://www.dheq.org/repo/iiif-img/2/3441/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3348/canvas/p16
+filename	status	image
+001.txt	completed	https://www.dheq.org/repo/iiif-img/2/3426/full/full/0/default.jpg
+002.txt	completed	https://www.dheq.org/repo/iiif-img/2/3427/full/full/0/default.jpg
+003.txt	completed	https://www.dheq.org/repo/iiif-img/2/3428/full/full/0/default.jpg
+004.txt	completed	https://www.dheq.org/repo/iiif-img/2/3429/full/full/0/default.jpg
+005.txt	completed	https://www.dheq.org/repo/iiif-img/2/3430/full/full/0/default.jpg
+006.txt	completed	https://www.dheq.org/repo/iiif-img/2/3431/full/full/0/default.jpg
+007.txt	completed	https://www.dheq.org/repo/iiif-img/2/3432/full/full/0/default.jpg
+008.txt	completed	https://www.dheq.org/repo/iiif-img/2/3433/full/full/0/default.jpg
+009.txt	completed	https://www.dheq.org/repo/iiif-img/2/3434/full/full/0/default.jpg
+010.txt	completed	https://www.dheq.org/repo/iiif-img/2/3435/full/full/0/default.jpg
+011.txt	completed	https://www.dheq.org/repo/iiif-img/2/3436/full/full/0/default.jpg
+012.txt	completed	https://www.dheq.org/repo/iiif-img/2/3437/full/full/0/default.jpg
+013.txt	completed	https://www.dheq.org/repo/iiif-img/2/3438/full/full/0/default.jpg
+014.txt	completed	https://www.dheq.org/repo/iiif-img/2/3439/full/full/0/default.jpg
+015.txt	completed	https://www.dheq.org/repo/iiif-img/2/3440/full/full/0/default.jpg
+016.txt	completed	https://www.dheq.org/repo/iiif-img/2/3441/full/full/0/default.jpg

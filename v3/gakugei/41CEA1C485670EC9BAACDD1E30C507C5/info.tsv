@@ -1,2 +1,2 @@
-filename	status	image	canvasId
-001.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F18107905%2F0001.tif/full/full/0/default.jpg	https://d-archive.u-gakugei.ac.jp/iiif/2/18107905/page0001
+filename	status	image
+001.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F18107905%2F0001.tif/full/full/0/default.jpg

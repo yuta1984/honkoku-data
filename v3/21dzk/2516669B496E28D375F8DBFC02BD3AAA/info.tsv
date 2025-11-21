@@ -1,6 +1,6 @@
-filename	status	image	canvasId
-001.txt	default	https://www.dl.ndl.go.jp/api/iiif/952686/R0000202/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952686/canvas/202
-002.txt	default	https://www.dl.ndl.go.jp/api/iiif/952686/R0000203/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952686/canvas/203
-003.txt	default	https://www.dl.ndl.go.jp/api/iiif/952686/R0000204/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952686/canvas/204
-004.txt	default	https://www.dl.ndl.go.jp/api/iiif/952686/R0000205/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952686/canvas/205
-005.txt	default	https://www.dl.ndl.go.jp/api/iiif/952686/R0000206/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952686/canvas/206
+filename	status	image
+001.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952686/R0000202/full/full/0/default.jpg
+002.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952686/R0000203/full/full/0/default.jpg
+003.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952686/R0000204/full/full/0/default.jpg
+004.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952686/R0000205/full/full/0/default.jpg
+005.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952686/R0000206/full/full/0/default.jpg

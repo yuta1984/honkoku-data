@@ -1,13 +1,13 @@
-filename	status	image	canvasId
-001.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p1
-002.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p2
-003.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p3
-004.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p4
-005.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p5
-006.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p6
-007.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p7
-008.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p8
-009.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p9
-010.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p10
-011.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p11
-012.txt	default		https://da.lib.kobe-u.ac.jp/files/0100399202/canvas/p12
+filename	status	image
+001.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602122.tiff/info.json
+002.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602123.tiff/info.json
+003.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602124.tiff/info.json
+004.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602125.tiff/info.json
+005.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602126.tiff/info.json
+006.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602127.tiff/info.json
+007.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602128.tiff/info.json
+008.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602129.tiff/info.json
+009.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602130.tiff/info.json
+010.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602131.tiff/info.json
+011.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602132.tiff/info.json
+012.txt	default	https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399202/602133.tiff/info.json

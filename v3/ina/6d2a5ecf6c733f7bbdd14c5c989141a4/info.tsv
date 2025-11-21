@@ -1,281 +1,281 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
-012.txt	default		
-013.txt	default		
-014.txt	default		
-015.txt	default		
-016.txt	default		
-017.txt	default		
-018.txt	default		
-019.txt	default		
-020.txt	default		
-021.txt	default		
-022.txt	default		
-023.txt	default		
-024.txt	default		
-025.txt	default		
-026.txt	default		
-027.txt	default		
-028.txt	default		
-029.txt	default		
-030.txt	default		
-031.txt	default		
-032.txt	default		
-033.txt	default		
-034.txt	default		
-035.txt	default		
-036.txt	default		
-037.txt	default		
-038.txt	default		
-039.txt	default		
-040.txt	default		
-041.txt	default		
-042.txt	default		
-043.txt	default		
-044.txt	default		
-045.txt	default		
-046.txt	default		
-047.txt	default		
-048.txt	default		
-049.txt	default		
-050.txt	default		
-051.txt	default		
-052.txt	default		
-053.txt	default		
-054.txt	default		
-055.txt	default		
-056.txt	default		
-057.txt	default		
-058.txt	default		
-059.txt	default		
-060.txt	default		
-061.txt	default		
-062.txt	default		
-063.txt	default		
-064.txt	default		
-065.txt	default		
-066.txt	default		
-067.txt	default		
-068.txt	default		
-069.txt	default		
-070.txt	default		
-071.txt	default		
-072.txt	default		
-073.txt	default		
-074.txt	default		
-075.txt	default		
-076.txt	default		
-077.txt	default		
-078.txt	default		
-079.txt	default		
-080.txt	default		
-081.txt	default		
-082.txt	default		
-083.txt	default		
-084.txt	default		
-085.txt	default		
-086.txt	default		
-087.txt	default		
-088.txt	default		
-089.txt	default		
-090.txt	default		
-091.txt	default		
-092.txt	default		
-093.txt	default		
-094.txt	default		
-095.txt	default		
-096.txt	default		
-097.txt	default		
-098.txt	default		
-099.txt	default		
-100.txt	default		
-101.txt	default		
-102.txt	default		
-103.txt	default		
-104.txt	default		
-105.txt	default		
-106.txt	default		
-107.txt	default		
-108.txt	default		
-109.txt	default		
-110.txt	default		
-111.txt	default		
-112.txt	default		
-113.txt	default		
-114.txt	default		
-115.txt	default		
-116.txt	default		
-117.txt	default		
-118.txt	default		
-119.txt	default		
-120.txt	default		
-121.txt	default		
-122.txt	default		
-123.txt	default		
-124.txt	default		
-125.txt	default		
-126.txt	default		
-127.txt	default		
-128.txt	default		
-129.txt	default		
-130.txt	default		
-131.txt	default		
-132.txt	default		
-133.txt	default		
-134.txt	default		
-135.txt	default		
-136.txt	default		
-137.txt	default		
-138.txt	default		
-139.txt	default		
-140.txt	default		
-141.txt	default		
-142.txt	default		
-143.txt	default		
-144.txt	default		
-145.txt	default		
-146.txt	default		
-147.txt	default		
-148.txt	default		
-149.txt	default		
-150.txt	default		
-151.txt	default		
-152.txt	default		
-153.txt	default		
-154.txt	default		
-155.txt	default		
-156.txt	default		
-157.txt	default		
-158.txt	default		
-159.txt	default		
-160.txt	default		
-161.txt	default		
-162.txt	default		
-163.txt	default		
-164.txt	default		
-165.txt	default		
-166.txt	default		
-167.txt	default		
-168.txt	default		
-169.txt	default		
-170.txt	default		
-171.txt	default		
-172.txt	default		
-173.txt	default		
-174.txt	default		
-175.txt	default		
-176.txt	default		
-177.txt	default		
-178.txt	default		
-179.txt	default		
-180.txt	default		
-181.txt	default		
-182.txt	default		
-183.txt	default		
-184.txt	default		
-185.txt	default		
-186.txt	default		
-187.txt	default		
-188.txt	default		
-189.txt	default		
-190.txt	default		
-191.txt	default		
-192.txt	default		
-193.txt	default		
-194.txt	default		
-195.txt	default		
-196.txt	default		
-197.txt	default		
-198.txt	default		
-199.txt	default		
-200.txt	default		
-201.txt	default		
-202.txt	default		
-203.txt	default		
-204.txt	default		
-205.txt	default		
-206.txt	default		
-207.txt	default		
-208.txt	default		
-209.txt	default		
-210.txt	default		
-211.txt	default		
-212.txt	default		
-213.txt	default		
-214.txt	default		
-215.txt	default		
-216.txt	default		
-217.txt	default		
-218.txt	default		
-219.txt	default		
-220.txt	default		
-221.txt	default		
-222.txt	default		
-223.txt	default		
-224.txt	default		
-225.txt	default		
-226.txt	default		
-227.txt	default		
-228.txt	default		
-229.txt	default		
-230.txt	default		
-231.txt	default		
-232.txt	default		
-233.txt	default		
-234.txt	default		
-235.txt	default		
-236.txt	default		
-237.txt	default		
-238.txt	default		
-239.txt	default		
-240.txt	default		
-241.txt	default		
-242.txt	default		
-243.txt	default		
-244.txt	default		
-245.txt	default		
-246.txt	default		
-247.txt	default		
-248.txt	default		
-249.txt	default		
-250.txt	default		
-251.txt	default		
-252.txt	default		
-253.txt	default		
-254.txt	default		
-255.txt	default		
-256.txt	default		
-257.txt	default		
-258.txt	default		
-259.txt	default		
-260.txt	default		
-261.txt	default		
-262.txt	default		
-263.txt	default		
-264.txt	default		
-265.txt	default		
-266.txt	default		
-267.txt	default		
-268.txt	default		
-269.txt	default		
-270.txt	default		
-271.txt	default		
-272.txt	default		
-273.txt	default		
-274.txt	default		
-275.txt	default		
-276.txt	default		
-277.txt	default		
-278.txt	default		
-279.txt	default		
-280.txt	default		
+filename	status	image
+001.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-001.tif/full/full/0/default.jpg
+002.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-002.tif/full/full/0/default.jpg
+003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-003.tif/full/full/0/default.jpg
+004.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-004.tif/full/full/0/default.jpg
+005.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-005.tif/full/full/0/default.jpg
+006.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-006.tif/full/full/0/default.jpg
+007.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-007.tif/full/full/0/default.jpg
+008.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-008.tif/full/full/0/default.jpg
+009.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-009.tif/full/full/0/default.jpg
+010.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-010.tif/full/full/0/default.jpg
+011.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-011.tif/full/full/0/default.jpg
+012.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-012.tif/full/full/0/default.jpg
+013.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-013.tif/full/full/0/default.jpg
+014.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-014.tif/full/full/0/default.jpg
+015.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-015.tif/full/full/0/default.jpg
+016.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-016.tif/full/full/0/default.jpg
+017.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-017.tif/full/full/0/default.jpg
+018.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-018.tif/full/full/0/default.jpg
+019.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-019.tif/full/full/0/default.jpg
+020.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-020.tif/full/full/0/default.jpg
+021.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-021.tif/full/full/0/default.jpg
+022.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-022.tif/full/full/0/default.jpg
+023.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-023.tif/full/full/0/default.jpg
+024.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-024.tif/full/full/0/default.jpg
+025.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-025.tif/full/full/0/default.jpg
+026.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-026.tif/full/full/0/default.jpg
+027.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-027.tif/full/full/0/default.jpg
+028.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-028.tif/full/full/0/default.jpg
+029.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-029.tif/full/full/0/default.jpg
+030.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-030.tif/full/full/0/default.jpg
+031.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-031.tif/full/full/0/default.jpg
+032.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-032.tif/full/full/0/default.jpg
+033.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-033.tif/full/full/0/default.jpg
+034.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-034.tif/full/full/0/default.jpg
+035.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-035.tif/full/full/0/default.jpg
+036.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-036.tif/full/full/0/default.jpg
+037.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-037.tif/full/full/0/default.jpg
+038.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-038.tif/full/full/0/default.jpg
+039.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-039.tif/full/full/0/default.jpg
+040.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-040.tif/full/full/0/default.jpg
+041.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-041.tif/full/full/0/default.jpg
+042.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-042.tif/full/full/0/default.jpg
+043.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-043.tif/full/full/0/default.jpg
+044.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-044.tif/full/full/0/default.jpg
+045.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-045.tif/full/full/0/default.jpg
+046.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-046.tif/full/full/0/default.jpg
+047.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-047.tif/full/full/0/default.jpg
+048.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-048.tif/full/full/0/default.jpg
+049.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-049.tif/full/full/0/default.jpg
+050.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-050.tif/full/full/0/default.jpg
+051.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-051.tif/full/full/0/default.jpg
+052.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-052.tif/full/full/0/default.jpg
+053.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-053.tif/full/full/0/default.jpg
+054.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-054.tif/full/full/0/default.jpg
+055.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-055.tif/full/full/0/default.jpg
+056.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-056.tif/full/full/0/default.jpg
+057.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-057.tif/full/full/0/default.jpg
+058.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-058.tif/full/full/0/default.jpg
+059.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-059.tif/full/full/0/default.jpg
+060.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-060.tif/full/full/0/default.jpg
+061.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-061.tif/full/full/0/default.jpg
+062.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-062.tif/full/full/0/default.jpg
+063.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-063.tif/full/full/0/default.jpg
+064.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-064.tif/full/full/0/default.jpg
+065.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-065.tif/full/full/0/default.jpg
+066.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-066.tif/full/full/0/default.jpg
+067.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-067.tif/full/full/0/default.jpg
+068.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-068.tif/full/full/0/default.jpg
+069.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-069.tif/full/full/0/default.jpg
+070.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-070.tif/full/full/0/default.jpg
+071.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-071.tif/full/full/0/default.jpg
+072.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-072.tif/full/full/0/default.jpg
+073.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-073.tif/full/full/0/default.jpg
+074.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-074.tif/full/full/0/default.jpg
+075.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-075.tif/full/full/0/default.jpg
+076.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-076.tif/full/full/0/default.jpg
+077.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-077.tif/full/full/0/default.jpg
+078.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-078.tif/full/full/0/default.jpg
+079.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-079.tif/full/full/0/default.jpg
+080.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-080.tif/full/full/0/default.jpg
+081.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-081.tif/full/full/0/default.jpg
+082.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-082.tif/full/full/0/default.jpg
+083.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-083.tif/full/full/0/default.jpg
+084.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-084.tif/full/full/0/default.jpg
+085.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-085.tif/full/full/0/default.jpg
+086.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-086.tif/full/full/0/default.jpg
+087.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-087.tif/full/full/0/default.jpg
+088.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-088.tif/full/full/0/default.jpg
+089.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-089.tif/full/full/0/default.jpg
+090.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-090.tif/full/full/0/default.jpg
+091.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-091.tif/full/full/0/default.jpg
+092.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-092.tif/full/full/0/default.jpg
+093.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-093.tif/full/full/0/default.jpg
+094.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-094.tif/full/full/0/default.jpg
+095.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-095.tif/full/full/0/default.jpg
+096.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-096.tif/full/full/0/default.jpg
+097.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-097.tif/full/full/0/default.jpg
+098.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-098.tif/full/full/0/default.jpg
+099.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-099.tif/full/full/0/default.jpg
+100.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-100.tif/full/full/0/default.jpg
+101.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-101.tif/full/full/0/default.jpg
+102.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-102.tif/full/full/0/default.jpg
+103.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-103.tif/full/full/0/default.jpg
+104.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-104.tif/full/full/0/default.jpg
+105.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-105.tif/full/full/0/default.jpg
+106.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-106.tif/full/full/0/default.jpg
+107.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-107.tif/full/full/0/default.jpg
+108.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-108.tif/full/full/0/default.jpg
+109.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-109.tif/full/full/0/default.jpg
+110.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-110.tif/full/full/0/default.jpg
+111.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-111.tif/full/full/0/default.jpg
+112.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-112.tif/full/full/0/default.jpg
+113.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-113.tif/full/full/0/default.jpg
+114.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-114.tif/full/full/0/default.jpg
+115.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-115.tif/full/full/0/default.jpg
+116.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-116.tif/full/full/0/default.jpg
+117.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-117.tif/full/full/0/default.jpg
+118.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-118.tif/full/full/0/default.jpg
+119.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-119.tif/full/full/0/default.jpg
+120.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-120.tif/full/full/0/default.jpg
+121.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-121.tif/full/full/0/default.jpg
+122.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-122.tif/full/full/0/default.jpg
+123.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-123.tif/full/full/0/default.jpg
+124.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-124.tif/full/full/0/default.jpg
+125.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-125.tif/full/full/0/default.jpg
+126.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-126.tif/full/full/0/default.jpg
+127.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-127.tif/full/full/0/default.jpg
+128.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-128.tif/full/full/0/default.jpg
+129.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-129.tif/full/full/0/default.jpg
+130.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-130.tif/full/full/0/default.jpg
+131.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-131.tif/full/full/0/default.jpg
+132.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-132.tif/full/full/0/default.jpg
+133.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-133.tif/full/full/0/default.jpg
+134.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-134.tif/full/full/0/default.jpg
+135.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-135.tif/full/full/0/default.jpg
+136.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-136.tif/full/full/0/default.jpg
+137.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-137.tif/full/full/0/default.jpg
+138.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-138.tif/full/full/0/default.jpg
+139.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-139.tif/full/full/0/default.jpg
+140.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-140.tif/full/full/0/default.jpg
+141.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-141.tif/full/full/0/default.jpg
+142.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-142.tif/full/full/0/default.jpg
+143.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-143.tif/full/full/0/default.jpg
+144.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-144.tif/full/full/0/default.jpg
+145.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-145.tif/full/full/0/default.jpg
+146.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-146.tif/full/full/0/default.jpg
+147.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-147.tif/full/full/0/default.jpg
+148.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-148.tif/full/full/0/default.jpg
+149.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-149.tif/full/full/0/default.jpg
+150.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-150.tif/full/full/0/default.jpg
+151.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-151.tif/full/full/0/default.jpg
+152.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-152.tif/full/full/0/default.jpg
+153.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-153.tif/full/full/0/default.jpg
+154.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-154.tif/full/full/0/default.jpg
+155.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-155.tif/full/full/0/default.jpg
+156.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-156.tif/full/full/0/default.jpg
+157.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-157.tif/full/full/0/default.jpg
+158.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-158.tif/full/full/0/default.jpg
+159.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-159.tif/full/full/0/default.jpg
+160.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-160.tif/full/full/0/default.jpg
+161.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-161.tif/full/full/0/default.jpg
+162.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-162.tif/full/full/0/default.jpg
+163.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-163.tif/full/full/0/default.jpg
+164.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-164.tif/full/full/0/default.jpg
+165.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-165.tif/full/full/0/default.jpg
+166.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-166.tif/full/full/0/default.jpg
+167.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-167.tif/full/full/0/default.jpg
+168.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-168.tif/full/full/0/default.jpg
+169.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-169.tif/full/full/0/default.jpg
+170.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-170.tif/full/full/0/default.jpg
+171.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-171.tif/full/full/0/default.jpg
+172.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-172.tif/full/full/0/default.jpg
+173.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-173.tif/full/full/0/default.jpg
+174.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-174.tif/full/full/0/default.jpg
+175.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-175.tif/full/full/0/default.jpg
+176.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-176.tif/full/full/0/default.jpg
+177.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-177.tif/full/full/0/default.jpg
+178.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-178.tif/full/full/0/default.jpg
+179.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-179.tif/full/full/0/default.jpg
+180.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-180.tif/full/full/0/default.jpg
+181.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-181.tif/full/full/0/default.jpg
+182.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-182.tif/full/full/0/default.jpg
+183.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-183.tif/full/full/0/default.jpg
+184.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-184.tif/full/full/0/default.jpg
+185.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-185.tif/full/full/0/default.jpg
+186.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-186.tif/full/full/0/default.jpg
+187.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-187.tif/full/full/0/default.jpg
+188.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-188.tif/full/full/0/default.jpg
+189.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-189.tif/full/full/0/default.jpg
+190.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-190.tif/full/full/0/default.jpg
+191.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-191.tif/full/full/0/default.jpg
+192.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-192.tif/full/full/0/default.jpg
+193.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-193.tif/full/full/0/default.jpg
+194.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-194.tif/full/full/0/default.jpg
+195.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-195.tif/full/full/0/default.jpg
+196.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-196.tif/full/full/0/default.jpg
+197.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-197.tif/full/full/0/default.jpg
+198.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-198.tif/full/full/0/default.jpg
+199.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-199.tif/full/full/0/default.jpg
+200.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-200.tif/full/full/0/default.jpg
+201.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-201.tif/full/full/0/default.jpg
+202.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-202.tif/full/full/0/default.jpg
+203.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-203.tif/full/full/0/default.jpg
+204.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-204.tif/full/full/0/default.jpg
+205.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-205.tif/full/full/0/default.jpg
+206.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-206.tif/full/full/0/default.jpg
+207.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-207.tif/full/full/0/default.jpg
+208.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-208.tif/full/full/0/default.jpg
+209.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-209.tif/full/full/0/default.jpg
+210.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-210.tif/full/full/0/default.jpg
+211.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-211.tif/full/full/0/default.jpg
+212.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-212.tif/full/full/0/default.jpg
+213.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-213.tif/full/full/0/default.jpg
+214.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-214.tif/full/full/0/default.jpg
+215.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-215.tif/full/full/0/default.jpg
+216.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-216.tif/full/full/0/default.jpg
+217.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-217.tif/full/full/0/default.jpg
+218.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-218.tif/full/full/0/default.jpg
+219.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-219.tif/full/full/0/default.jpg
+220.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-220.tif/full/full/0/default.jpg
+221.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-221.tif/full/full/0/default.jpg
+222.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-222.tif/full/full/0/default.jpg
+223.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-223.tif/full/full/0/default.jpg
+224.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-224.tif/full/full/0/default.jpg
+225.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-225.tif/full/full/0/default.jpg
+226.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-226.tif/full/full/0/default.jpg
+227.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-227.tif/full/full/0/default.jpg
+228.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-228.tif/full/full/0/default.jpg
+229.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-229.tif/full/full/0/default.jpg
+230.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-230.tif/full/full/0/default.jpg
+231.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-231.tif/full/full/0/default.jpg
+232.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-232.tif/full/full/0/default.jpg
+233.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-233.tif/full/full/0/default.jpg
+234.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-234.tif/full/full/0/default.jpg
+235.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-235.tif/full/full/0/default.jpg
+236.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-236.tif/full/full/0/default.jpg
+237.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-237.tif/full/full/0/default.jpg
+238.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-238.tif/full/full/0/default.jpg
+239.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-239.tif/full/full/0/default.jpg
+240.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-240.tif/full/full/0/default.jpg
+241.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-241.tif/full/full/0/default.jpg
+242.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-242.tif/full/full/0/default.jpg
+243.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-243.tif/full/full/0/default.jpg
+244.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-244.tif/full/full/0/default.jpg
+245.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-245.tif/full/full/0/default.jpg
+246.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-246.tif/full/full/0/default.jpg
+247.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-247.tif/full/full/0/default.jpg
+248.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-248.tif/full/full/0/default.jpg
+249.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-249.tif/full/full/0/default.jpg
+250.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-250.tif/full/full/0/default.jpg
+251.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-251.tif/full/full/0/default.jpg
+252.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-252.tif/full/full/0/default.jpg
+253.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-253.tif/full/full/0/default.jpg
+254.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-254.tif/full/full/0/default.jpg
+255.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-255.tif/full/full/0/default.jpg
+256.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-256.tif/full/full/0/default.jpg
+257.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-257.tif/full/full/0/default.jpg
+258.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-258.tif/full/full/0/default.jpg
+259.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-259.tif/full/full/0/default.jpg
+260.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-260.tif/full/full/0/default.jpg
+261.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-261.tif/full/full/0/default.jpg
+262.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-262.tif/full/full/0/default.jpg
+263.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-263.tif/full/full/0/default.jpg
+264.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-264.tif/full/full/0/default.jpg
+265.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-265.tif/full/full/0/default.jpg
+266.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-266.tif/full/full/0/default.jpg
+267.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-267.tif/full/full/0/default.jpg
+268.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-268.tif/full/full/0/default.jpg
+269.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-269.tif/full/full/0/default.jpg
+270.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-270.tif/full/full/0/default.jpg
+271.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-271.tif/full/full/0/default.jpg
+272.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-272.tif/full/full/0/default.jpg
+273.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-273.tif/full/full/0/default.jpg
+274.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-274.tif/full/full/0/default.jpg
+275.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-275.tif/full/full/0/default.jpg
+276.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-276.tif/full/full/0/default.jpg
+277.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-277.tif/full/full/0/default.jpg
+278.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-278.tif/full/full/0/default.jpg
+279.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-279.tif/full/full/0/default.jpg
+280.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-030-01/ikegami01-030-01-280.tif/full/full/0/default.jpg

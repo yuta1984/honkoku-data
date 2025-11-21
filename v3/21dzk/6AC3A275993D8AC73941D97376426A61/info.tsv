@@ -1,11 +1,11 @@
-filename	status	image	canvasId
-001.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1000.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1000
-002.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1001.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1001
-003.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1002.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1002
-004.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1003.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1003
-005.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1004.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1004
-006.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1005.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1005
-007.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1006.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1006
-008.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1007.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1007
-009.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1008.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1008
-010.txt	default	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1009.tif/full/full/0/default.jpg	https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/02/p1009
+filename	status	image
+001.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1000.tif/full/full/0/default.jpg
+002.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1001.tif/full/full/0/default.jpg
+003.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1002.tif/full/full/0/default.jpg
+004.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1003.tif/full/full/0/default.jpg
+005.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1004.tif/full/full/0/default.jpg
+006.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1005.tif/full/full/0/default.jpg
+007.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1006.tif/full/full/0/default.jpg
+008.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1007.tif/full/full/0/default.jpg
+009.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1008.tif/full/full/0/default.jpg
+010.txt	completed	https://dzkimgs.l.u-tokyo.ac.jp/iiifimgs/zuzoubu/02/1009.tif/full/full/0/default.jpg

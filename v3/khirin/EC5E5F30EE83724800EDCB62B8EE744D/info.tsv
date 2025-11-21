@@ -1,72 +1,72 @@
-filename	status	image	canvasId
-001.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-001.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-001.tif/canvas
-002.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-002.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-002.tif/canvas
-003.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-003.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-003.tif/canvas
-004.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-004.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-004.tif/canvas
-005.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-005.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-005.tif/canvas
-006.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-006.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-006.tif/canvas
-007.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-007.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-007.tif/canvas
-008.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-008.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-008.tif/canvas
-009.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-009.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-009.tif/canvas
-010.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-010.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-010.tif/canvas
-011.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-011.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-011.tif/canvas
-012.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-012.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-012.tif/canvas
-013.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-013.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-013.tif/canvas
-014.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-014.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-014.tif/canvas
-015.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-015.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-015.tif/canvas
-016.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-016.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-016.tif/canvas
-017.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-017.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-017.tif/canvas
-018.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-018.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-018.tif/canvas
-019.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-019.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-019.tif/canvas
-020.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-020.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-020.tif/canvas
-021.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-021.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-021.tif/canvas
-022.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-022.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-022.tif/canvas
-023.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-023.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-023.tif/canvas
-024.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-024.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-024.tif/canvas
-025.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-025.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-025.tif/canvas
-026.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-026.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-026.tif/canvas
-027.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-027.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-027.tif/canvas
-028.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-028.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-028.tif/canvas
-029.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-029.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-029.tif/canvas
-030.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-030.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-030.tif/canvas
-031.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-031.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-031.tif/canvas
-032.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-032.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-032.tif/canvas
-033.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-033.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-033.tif/canvas
-034.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-034.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-034.tif/canvas
-035.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-035.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-035.tif/canvas
-036.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-036.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-036.tif/canvas
-037.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-037.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-037.tif/canvas
-038.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-038.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-038.tif/canvas
-039.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-039.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-039.tif/canvas
-040.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-040.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-040.tif/canvas
-041.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-041.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-041.tif/canvas
-042.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-042.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-042.tif/canvas
-043.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-043.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-043.tif/canvas
-044.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-044.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-044.tif/canvas
-045.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-045.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-045.tif/canvas
-046.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-046.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-046.tif/canvas
-047.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-047.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-047.tif/canvas
-048.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-048.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-048.tif/canvas
-049.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-049.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-049.tif/canvas
-050.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-050.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-050.tif/canvas
-051.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-051.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-051.tif/canvas
-052.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-052.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-052.tif/canvas
-053.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-053.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-053.tif/canvas
-054.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-054.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-054.tif/canvas
-055.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-055.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-055.tif/canvas
-056.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-056.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-056.tif/canvas
-057.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-057.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-057.tif/canvas
-058.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-058.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-058.tif/canvas
-059.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-059.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-059.tif/canvas
-060.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-060.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-060.tif/canvas
-061.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-061.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-061.tif/canvas
-062.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-062.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-062.tif/canvas
-063.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-063.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-063.tif/canvas
-064.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-064.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-064.tif/canvas
-065.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-065.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-065.tif/canvas
-066.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-066.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-066.tif/canvas
-067.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-067.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-067.tif/canvas
-068.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-068.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-068.tif/canvas
-069.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-069.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-069.tif/canvas
-070.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-070.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-070.tif/canvas
-071.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-071.tif/full/full/0/default.jpg	https://khirin-a.rekihaku.ac.jp/iiif/2/ext/goto/21-091-071.tif/canvas
+filename	status	image
+001.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-001.tif/full/full/0/default.jpg
+002.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-002.tif/full/full/0/default.jpg
+003.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-003.tif/full/full/0/default.jpg
+004.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-004.tif/full/full/0/default.jpg
+005.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-005.tif/full/full/0/default.jpg
+006.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-006.tif/full/full/0/default.jpg
+007.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-007.tif/full/full/0/default.jpg
+008.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-008.tif/full/full/0/default.jpg
+009.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-009.tif/full/full/0/default.jpg
+010.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-010.tif/full/full/0/default.jpg
+011.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-011.tif/full/full/0/default.jpg
+012.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-012.tif/full/full/0/default.jpg
+013.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-013.tif/full/full/0/default.jpg
+014.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-014.tif/full/full/0/default.jpg
+015.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-015.tif/full/full/0/default.jpg
+016.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-016.tif/full/full/0/default.jpg
+017.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-017.tif/full/full/0/default.jpg
+018.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-018.tif/full/full/0/default.jpg
+019.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-019.tif/full/full/0/default.jpg
+020.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-020.tif/full/full/0/default.jpg
+021.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-021.tif/full/full/0/default.jpg
+022.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-022.tif/full/full/0/default.jpg
+023.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-023.tif/full/full/0/default.jpg
+024.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-024.tif/full/full/0/default.jpg
+025.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-025.tif/full/full/0/default.jpg
+026.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-026.tif/full/full/0/default.jpg
+027.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-027.tif/full/full/0/default.jpg
+028.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-028.tif/full/full/0/default.jpg
+029.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-029.tif/full/full/0/default.jpg
+030.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-030.tif/full/full/0/default.jpg
+031.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-031.tif/full/full/0/default.jpg
+032.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-032.tif/full/full/0/default.jpg
+033.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-033.tif/full/full/0/default.jpg
+034.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-034.tif/full/full/0/default.jpg
+035.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-035.tif/full/full/0/default.jpg
+036.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-036.tif/full/full/0/default.jpg
+037.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-037.tif/full/full/0/default.jpg
+038.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-038.tif/full/full/0/default.jpg
+039.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-039.tif/full/full/0/default.jpg
+040.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-040.tif/full/full/0/default.jpg
+041.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-041.tif/full/full/0/default.jpg
+042.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-042.tif/full/full/0/default.jpg
+043.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-043.tif/full/full/0/default.jpg
+044.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-044.tif/full/full/0/default.jpg
+045.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-045.tif/full/full/0/default.jpg
+046.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-046.tif/full/full/0/default.jpg
+047.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-047.tif/full/full/0/default.jpg
+048.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-048.tif/full/full/0/default.jpg
+049.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-049.tif/full/full/0/default.jpg
+050.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-050.tif/full/full/0/default.jpg
+051.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-051.tif/full/full/0/default.jpg
+052.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-052.tif/full/full/0/default.jpg
+053.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-053.tif/full/full/0/default.jpg
+054.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-054.tif/full/full/0/default.jpg
+055.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-055.tif/full/full/0/default.jpg
+056.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-056.tif/full/full/0/default.jpg
+057.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-057.tif/full/full/0/default.jpg
+058.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-058.tif/full/full/0/default.jpg
+059.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-059.tif/full/full/0/default.jpg
+060.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-060.tif/full/full/0/default.jpg
+061.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-061.tif/full/full/0/default.jpg
+062.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-062.tif/full/full/0/default.jpg
+063.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-063.tif/full/full/0/default.jpg
+064.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-064.tif/full/full/0/default.jpg
+065.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-065.tif/full/full/0/default.jpg
+066.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-066.tif/full/full/0/default.jpg
+067.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-067.tif/full/full/0/default.jpg
+068.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-068.tif/full/full/0/default.jpg
+069.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-069.tif/full/full/0/default.jpg
+070.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-070.tif/full/full/0/default.jpg
+071.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fgoto%2F21-091-071.tif/full/full/0/default.jpg

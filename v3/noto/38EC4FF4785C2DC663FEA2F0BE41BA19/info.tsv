@@ -1,13 +1,13 @@
-filename	status	image	canvasId
-001.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300001.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p1
-002.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300002.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p2
-003.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300003.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p3
-004.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300004.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p4
-005.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300005.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p5
-006.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300006.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p6
-007.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300007.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p7
-008.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300008.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p8
-009.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300009.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p9
-010.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300010.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p10
-011.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300011.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p11
-012.txt	default	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300012.jp2/full/full/0/default.jpg	https://www.library.pref.ishikawa.lg.jp/shosho/iiif/orgn_B101000030/canvas/p12
+filename	status	image
+001.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300001.jp2/full/full/0/default.jpg
+002.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300002.jp2/full/full/0/default.jpg
+003.txt	initiated	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300003.jp2/full/full/0/default.jpg
+004.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300004.jp2/full/full/0/default.jpg
+005.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300005.jp2/full/full/0/default.jpg
+006.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300006.jp2/full/full/0/default.jpg
+007.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300007.jp2/full/full/0/default.jpg
+008.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300008.jp2/full/full/0/default.jpg
+009.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300009.jp2/full/full/0/default.jpg
+010.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300010.jp2/full/full/0/default.jpg
+011.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300011.jp2/full/full/0/default.jpg
+012.txt	completed	https://www.library.pref.ishikawa.lg.jp/shosho/content/item/orgn/B101000030/iiif/B1010000300012.jp2/full/full/0/default.jpg

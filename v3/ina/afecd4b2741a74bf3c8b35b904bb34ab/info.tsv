@@ -1,4 +1,4 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
+filename	status	image
+001.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-559-01/ikegami01-559-01-001.tif/full/full/0/default.jpg
+002.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-559-01/ikegami01-559-01-002.tif/full/full/0/default.jpg
+003.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-559-01/ikegami01-559-01-003.tif/full/full/0/default.jpg

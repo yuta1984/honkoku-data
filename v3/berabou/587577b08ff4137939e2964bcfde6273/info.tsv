@@ -1,407 +1,407 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
-012.txt	default		
-013.txt	default		
-014.txt	default		
-015.txt	default		
-016.txt	default		
-017.txt	default		
-018.txt	default		
-019.txt	default		
-020.txt	default		
-021.txt	default		
-022.txt	default		
-023.txt	default		
-024.txt	default		
-025.txt	default		
-026.txt	default		
-027.txt	default		
-028.txt	default		
-029.txt	default		
-030.txt	default		
-031.txt	default		
-032.txt	default		
-033.txt	default		
-034.txt	default		
-035.txt	default		
-036.txt	default		
-037.txt	default		
-038.txt	default		
-039.txt	default		
-040.txt	default		
-041.txt	default		
-042.txt	default		
-043.txt	default		
-044.txt	default		
-045.txt	default		
-046.txt	default		
-047.txt	default		
-048.txt	default		
-049.txt	default		
-050.txt	default		
-051.txt	default		
-052.txt	default		
-053.txt	default		
-054.txt	default		
-055.txt	default		
-056.txt	default		
-057.txt	default		
-058.txt	default		
-059.txt	default		
-060.txt	default		
-061.txt	default		
-062.txt	default		
-063.txt	default		
-064.txt	default		
-065.txt	default		
-066.txt	default		
-067.txt	default		
-068.txt	default		
-069.txt	default		
-070.txt	default		
-071.txt	default		
-072.txt	default		
-073.txt	default		
-074.txt	default		
-075.txt	default		
-076.txt	default		
-077.txt	default		
-078.txt	default		
-079.txt	default		
-080.txt	default		
-081.txt	default		
-082.txt	default		
-083.txt	default		
-084.txt	default		
-085.txt	default		
-086.txt	default		
-087.txt	default		
-088.txt	default		
-089.txt	default		
-090.txt	default		
-091.txt	default		
-092.txt	default		
-093.txt	default		
-094.txt	default		
-095.txt	default		
-096.txt	default		
-097.txt	default		
-098.txt	default		
-099.txt	default		
-100.txt	default		
-101.txt	default		
-102.txt	default		
-103.txt	default		
-104.txt	default		
-105.txt	default		
-106.txt	default		
-107.txt	default		
-108.txt	default		
-109.txt	default		
-110.txt	default		
-111.txt	default		
-112.txt	default		
-113.txt	default		
-114.txt	default		
-115.txt	default		
-116.txt	default		
-117.txt	default		
-118.txt	default		
-119.txt	default		
-120.txt	default		
-121.txt	default		
-122.txt	default		
-123.txt	default		
-124.txt	default		
-125.txt	default		
-126.txt	default		
-127.txt	default		
-128.txt	default		
-129.txt	default		
-130.txt	default		
-131.txt	default		
-132.txt	default		
-133.txt	default		
-134.txt	default		
-135.txt	default		
-136.txt	default		
-137.txt	default		
-138.txt	default		
-139.txt	default		
-140.txt	default		
-141.txt	default		
-142.txt	default		
-143.txt	default		
-144.txt	default		
-145.txt	default		
-146.txt	default		
-147.txt	default		
-148.txt	default		
-149.txt	default		
-150.txt	default		
-151.txt	default		
-152.txt	default		
-153.txt	default		
-154.txt	default		
-155.txt	default		
-156.txt	default		
-157.txt	default		
-158.txt	default		
-159.txt	default		
-160.txt	default		
-161.txt	default		
-162.txt	default		
-163.txt	default		
-164.txt	default		
-165.txt	default		
-166.txt	default		
-167.txt	default		
-168.txt	default		
-169.txt	default		
-170.txt	default		
-171.txt	default		
-172.txt	default		
-173.txt	default		
-174.txt	default		
-175.txt	default		
-176.txt	default		
-177.txt	default		
-178.txt	default		
-179.txt	default		
-180.txt	default		
-181.txt	default		
-182.txt	default		
-183.txt	default		
-184.txt	default		
-185.txt	default		
-186.txt	default		
-187.txt	default		
-188.txt	default		
-189.txt	default		
-190.txt	default		
-191.txt	default		
-192.txt	default		
-193.txt	default		
-194.txt	default		
-195.txt	default		
-196.txt	default		
-197.txt	default		
-198.txt	default		
-199.txt	default		
-200.txt	default		
-201.txt	default		
-202.txt	default		
-203.txt	default		
-204.txt	default		
-205.txt	default		
-206.txt	default		
-207.txt	default		
-208.txt	default		
-209.txt	default		
-210.txt	default		
-211.txt	default		
-212.txt	default		
-213.txt	default		
-214.txt	default		
-215.txt	default		
-216.txt	default		
-217.txt	default		
-218.txt	default		
-219.txt	default		
-220.txt	default		
-221.txt	default		
-222.txt	default		
-223.txt	default		
-224.txt	default		
-225.txt	default		
-226.txt	default		
-227.txt	default		
-228.txt	default		
-229.txt	default		
-230.txt	default		
-231.txt	default		
-232.txt	default		
-233.txt	default		
-234.txt	default		
-235.txt	default		
-236.txt	default		
-237.txt	default		
-238.txt	default		
-239.txt	default		
-240.txt	default		
-241.txt	default		
-242.txt	default		
-243.txt	default		
-244.txt	default		
-245.txt	default		
-246.txt	default		
-247.txt	default		
-248.txt	default		
-249.txt	default		
-250.txt	default		
-251.txt	default		
-252.txt	default		
-253.txt	default		
-254.txt	default		
-255.txt	default		
-256.txt	default		
-257.txt	default		
-258.txt	default		
-259.txt	default		
-260.txt	default		
-261.txt	default		
-262.txt	default		
-263.txt	default		
-264.txt	default		
-265.txt	default		
-266.txt	default		
-267.txt	default		
-268.txt	default		
-269.txt	default		
-270.txt	default		
-271.txt	default		
-272.txt	default		
-273.txt	default		
-274.txt	default		
-275.txt	default		
-276.txt	default		
-277.txt	default		
-278.txt	default		
-279.txt	default		
-280.txt	default		
-281.txt	default		
-282.txt	default		
-283.txt	default		
-284.txt	default		
-285.txt	default		
-286.txt	default		
-287.txt	default		
-288.txt	default		
-289.txt	default		
-290.txt	default		
-291.txt	default		
-292.txt	default		
-293.txt	default		
-294.txt	default		
-295.txt	default		
-296.txt	default		
-297.txt	default		
-298.txt	default		
-299.txt	default		
-300.txt	default		
-301.txt	default		
-302.txt	default		
-303.txt	default		
-304.txt	default		
-305.txt	default		
-306.txt	default		
-307.txt	default		
-308.txt	default		
-309.txt	default		
-310.txt	default		
-311.txt	default		
-312.txt	default		
-313.txt	default		
-314.txt	default		
-315.txt	default		
-316.txt	default		
-317.txt	default		
-318.txt	default		
-319.txt	default		
-320.txt	default		
-321.txt	default		
-322.txt	default		
-323.txt	default		
-324.txt	default		
-325.txt	default		
-326.txt	default		
-327.txt	default		
-328.txt	default		
-329.txt	default		
-330.txt	default		
-331.txt	default		
-332.txt	default		
-333.txt	default		
-334.txt	default		
-335.txt	default		
-336.txt	default		
-337.txt	default		
-338.txt	default		
-339.txt	default		
-340.txt	default		
-341.txt	default		
-342.txt	default		
-343.txt	default		
-344.txt	default		
-345.txt	default		
-346.txt	default		
-347.txt	default		
-348.txt	default		
-349.txt	default		
-350.txt	default		
-351.txt	default		
-352.txt	default		
-353.txt	default		
-354.txt	default		
-355.txt	default		
-356.txt	default		
-357.txt	default		
-358.txt	default		
-359.txt	default		
-360.txt	default		
-361.txt	default		
-362.txt	default		
-363.txt	default		
-364.txt	default		
-365.txt	default		
-366.txt	default		
-367.txt	default		
-368.txt	default		
-369.txt	default		
-370.txt	default		
-371.txt	default		
-372.txt	default		
-373.txt	default		
-374.txt	default		
-375.txt	default		
-376.txt	default		
-377.txt	default		
-378.txt	default		
-379.txt	default		
-380.txt	default		
-381.txt	default		
-382.txt	default		
-383.txt	default		
-384.txt	default		
-385.txt	default		
-386.txt	default		
-387.txt	default		
-388.txt	default		
-389.txt	default		
-390.txt	default		
-391.txt	default		
-392.txt	default		
-393.txt	default		
-394.txt	default		
-395.txt	default		
-396.txt	default		
-397.txt	default		
-398.txt	default		
-399.txt	default		
-400.txt	default		
-401.txt	default		
-402.txt	default		
-403.txt	default		
-404.txt	default		
-405.txt	default		
-406.txt	default		
+filename	status	image
+001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0000.tif/full/full/0/default.jpg
+002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0001.tif/full/full/0/default.jpg
+003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0002.tif/full/full/0/default.jpg
+004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0003.tif/full/full/0/default.jpg
+005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0004.tif/full/full/0/default.jpg
+006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0005.tif/full/full/0/default.jpg
+007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0006.tif/full/full/0/default.jpg
+008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0007.tif/full/full/0/default.jpg
+009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0008.tif/full/full/0/default.jpg
+010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0009.tif/full/full/0/default.jpg
+011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0010.tif/full/full/0/default.jpg
+012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0011.tif/full/full/0/default.jpg
+013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0012.tif/full/full/0/default.jpg
+014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0013.tif/full/full/0/default.jpg
+015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0014.tif/full/full/0/default.jpg
+016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0015.tif/full/full/0/default.jpg
+017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0016.tif/full/full/0/default.jpg
+018.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0017.tif/full/full/0/default.jpg
+019.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0018.tif/full/full/0/default.jpg
+020.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0019.tif/full/full/0/default.jpg
+021.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0020.tif/full/full/0/default.jpg
+022.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0021.tif/full/full/0/default.jpg
+023.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0022.tif/full/full/0/default.jpg
+024.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0023.tif/full/full/0/default.jpg
+025.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0024.tif/full/full/0/default.jpg
+026.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0025.tif/full/full/0/default.jpg
+027.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0026.tif/full/full/0/default.jpg
+028.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0027.tif/full/full/0/default.jpg
+029.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0028.tif/full/full/0/default.jpg
+030.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0029.tif/full/full/0/default.jpg
+031.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0030.tif/full/full/0/default.jpg
+032.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0031.tif/full/full/0/default.jpg
+033.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0032.tif/full/full/0/default.jpg
+034.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0033.tif/full/full/0/default.jpg
+035.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0034.tif/full/full/0/default.jpg
+036.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0035.tif/full/full/0/default.jpg
+037.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0036.tif/full/full/0/default.jpg
+038.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0037.tif/full/full/0/default.jpg
+039.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0038.tif/full/full/0/default.jpg
+040.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0039.tif/full/full/0/default.jpg
+041.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0040.tif/full/full/0/default.jpg
+042.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0041.tif/full/full/0/default.jpg
+043.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0042.tif/full/full/0/default.jpg
+044.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0043.tif/full/full/0/default.jpg
+045.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0044.tif/full/full/0/default.jpg
+046.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0045.tif/full/full/0/default.jpg
+047.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0046.tif/full/full/0/default.jpg
+048.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0047.tif/full/full/0/default.jpg
+049.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0048.tif/full/full/0/default.jpg
+050.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0049.tif/full/full/0/default.jpg
+051.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0050.tif/full/full/0/default.jpg
+052.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0051.tif/full/full/0/default.jpg
+053.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0052.tif/full/full/0/default.jpg
+054.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0053.tif/full/full/0/default.jpg
+055.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0054.tif/full/full/0/default.jpg
+056.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0055.tif/full/full/0/default.jpg
+057.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0056.tif/full/full/0/default.jpg
+058.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0057.tif/full/full/0/default.jpg
+059.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0058.tif/full/full/0/default.jpg
+060.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0059.tif/full/full/0/default.jpg
+061.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0060.tif/full/full/0/default.jpg
+062.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0061.tif/full/full/0/default.jpg
+063.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0062.tif/full/full/0/default.jpg
+064.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0063.tif/full/full/0/default.jpg
+065.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0064.tif/full/full/0/default.jpg
+066.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0065.tif/full/full/0/default.jpg
+067.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0066.tif/full/full/0/default.jpg
+068.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0067.tif/full/full/0/default.jpg
+069.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0068.tif/full/full/0/default.jpg
+070.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0069.tif/full/full/0/default.jpg
+071.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0070.tif/full/full/0/default.jpg
+072.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0071.tif/full/full/0/default.jpg
+073.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0072.tif/full/full/0/default.jpg
+074.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0073.tif/full/full/0/default.jpg
+075.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0074.tif/full/full/0/default.jpg
+076.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0075.tif/full/full/0/default.jpg
+077.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0076.tif/full/full/0/default.jpg
+078.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0077.tif/full/full/0/default.jpg
+079.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0078.tif/full/full/0/default.jpg
+080.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0079.tif/full/full/0/default.jpg
+081.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0080.tif/full/full/0/default.jpg
+082.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0081.tif/full/full/0/default.jpg
+083.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0082.tif/full/full/0/default.jpg
+084.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0083.tif/full/full/0/default.jpg
+085.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0084.tif/full/full/0/default.jpg
+086.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0085.tif/full/full/0/default.jpg
+087.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0086.tif/full/full/0/default.jpg
+088.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0087.tif/full/full/0/default.jpg
+089.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0088.tif/full/full/0/default.jpg
+090.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0089.tif/full/full/0/default.jpg
+091.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0090.tif/full/full/0/default.jpg
+092.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0091.tif/full/full/0/default.jpg
+093.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0092.tif/full/full/0/default.jpg
+094.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0093.tif/full/full/0/default.jpg
+095.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0094.tif/full/full/0/default.jpg
+096.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0095.tif/full/full/0/default.jpg
+097.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0096.tif/full/full/0/default.jpg
+098.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0097.tif/full/full/0/default.jpg
+099.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0098.tif/full/full/0/default.jpg
+100.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0099.tif/full/full/0/default.jpg
+101.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0100.tif/full/full/0/default.jpg
+102.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0101.tif/full/full/0/default.jpg
+103.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0102.tif/full/full/0/default.jpg
+104.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0103.tif/full/full/0/default.jpg
+105.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0104.tif/full/full/0/default.jpg
+106.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0105.tif/full/full/0/default.jpg
+107.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0106.tif/full/full/0/default.jpg
+108.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0107.tif/full/full/0/default.jpg
+109.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0108.tif/full/full/0/default.jpg
+110.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0109.tif/full/full/0/default.jpg
+111.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0110.tif/full/full/0/default.jpg
+112.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0111.tif/full/full/0/default.jpg
+113.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0112.tif/full/full/0/default.jpg
+114.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0113.tif/full/full/0/default.jpg
+115.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0114.tif/full/full/0/default.jpg
+116.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0115.tif/full/full/0/default.jpg
+117.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0116.tif/full/full/0/default.jpg
+118.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0117.tif/full/full/0/default.jpg
+119.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0118.tif/full/full/0/default.jpg
+120.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0119.tif/full/full/0/default.jpg
+121.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0120.tif/full/full/0/default.jpg
+122.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0121.tif/full/full/0/default.jpg
+123.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0122.tif/full/full/0/default.jpg
+124.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0123.tif/full/full/0/default.jpg
+125.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0124.tif/full/full/0/default.jpg
+126.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0125.tif/full/full/0/default.jpg
+127.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0126.tif/full/full/0/default.jpg
+128.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0127.tif/full/full/0/default.jpg
+129.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0128.tif/full/full/0/default.jpg
+130.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0129.tif/full/full/0/default.jpg
+131.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0130.tif/full/full/0/default.jpg
+132.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0131.tif/full/full/0/default.jpg
+133.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0132.tif/full/full/0/default.jpg
+134.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0133.tif/full/full/0/default.jpg
+135.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0134.tif/full/full/0/default.jpg
+136.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0135.tif/full/full/0/default.jpg
+137.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0136.tif/full/full/0/default.jpg
+138.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0137.tif/full/full/0/default.jpg
+139.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0138.tif/full/full/0/default.jpg
+140.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0139.tif/full/full/0/default.jpg
+141.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0140.tif/full/full/0/default.jpg
+142.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0141.tif/full/full/0/default.jpg
+143.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0142.tif/full/full/0/default.jpg
+144.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0143.tif/full/full/0/default.jpg
+145.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0144.tif/full/full/0/default.jpg
+146.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0145.tif/full/full/0/default.jpg
+147.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0146.tif/full/full/0/default.jpg
+148.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0147.tif/full/full/0/default.jpg
+149.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0148.tif/full/full/0/default.jpg
+150.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0149.tif/full/full/0/default.jpg
+151.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0150.tif/full/full/0/default.jpg
+152.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0151.tif/full/full/0/default.jpg
+153.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0152.tif/full/full/0/default.jpg
+154.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0153.tif/full/full/0/default.jpg
+155.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0154.tif/full/full/0/default.jpg
+156.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0155.tif/full/full/0/default.jpg
+157.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0156.tif/full/full/0/default.jpg
+158.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0157.tif/full/full/0/default.jpg
+159.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0158.tif/full/full/0/default.jpg
+160.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0159.tif/full/full/0/default.jpg
+161.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0160.tif/full/full/0/default.jpg
+162.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0161.tif/full/full/0/default.jpg
+163.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0162.tif/full/full/0/default.jpg
+164.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0163.tif/full/full/0/default.jpg
+165.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0164.tif/full/full/0/default.jpg
+166.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0165.tif/full/full/0/default.jpg
+167.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0166.tif/full/full/0/default.jpg
+168.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0167.tif/full/full/0/default.jpg
+169.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0168.tif/full/full/0/default.jpg
+170.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0169.tif/full/full/0/default.jpg
+171.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0170.tif/full/full/0/default.jpg
+172.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0171.tif/full/full/0/default.jpg
+173.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0172.tif/full/full/0/default.jpg
+174.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0173.tif/full/full/0/default.jpg
+175.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0174.tif/full/full/0/default.jpg
+176.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0175.tif/full/full/0/default.jpg
+177.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0176.tif/full/full/0/default.jpg
+178.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0177.tif/full/full/0/default.jpg
+179.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0178.tif/full/full/0/default.jpg
+180.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0179.tif/full/full/0/default.jpg
+181.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0180.tif/full/full/0/default.jpg
+182.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0181.tif/full/full/0/default.jpg
+183.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0182.tif/full/full/0/default.jpg
+184.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0183.tif/full/full/0/default.jpg
+185.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0184.tif/full/full/0/default.jpg
+186.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0185.tif/full/full/0/default.jpg
+187.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0186.tif/full/full/0/default.jpg
+188.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0187.tif/full/full/0/default.jpg
+189.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0188.tif/full/full/0/default.jpg
+190.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0189.tif/full/full/0/default.jpg
+191.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0190.tif/full/full/0/default.jpg
+192.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0191.tif/full/full/0/default.jpg
+193.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0192.tif/full/full/0/default.jpg
+194.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0193.tif/full/full/0/default.jpg
+195.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0194.tif/full/full/0/default.jpg
+196.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0195.tif/full/full/0/default.jpg
+197.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0196.tif/full/full/0/default.jpg
+198.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0197.tif/full/full/0/default.jpg
+199.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0198.tif/full/full/0/default.jpg
+200.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0199.tif/full/full/0/default.jpg
+201.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0200.tif/full/full/0/default.jpg
+202.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0201.tif/full/full/0/default.jpg
+203.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0202.tif/full/full/0/default.jpg
+204.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0203.tif/full/full/0/default.jpg
+205.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0204.tif/full/full/0/default.jpg
+206.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0205.tif/full/full/0/default.jpg
+207.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0206.tif/full/full/0/default.jpg
+208.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0207.tif/full/full/0/default.jpg
+209.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0208.tif/full/full/0/default.jpg
+210.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0209.tif/full/full/0/default.jpg
+211.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0210.tif/full/full/0/default.jpg
+212.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0211.tif/full/full/0/default.jpg
+213.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0212.tif/full/full/0/default.jpg
+214.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0213.tif/full/full/0/default.jpg
+215.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0214.tif/full/full/0/default.jpg
+216.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0215.tif/full/full/0/default.jpg
+217.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0216.tif/full/full/0/default.jpg
+218.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0217.tif/full/full/0/default.jpg
+219.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0218.tif/full/full/0/default.jpg
+220.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0219.tif/full/full/0/default.jpg
+221.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0220.tif/full/full/0/default.jpg
+222.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0221.tif/full/full/0/default.jpg
+223.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0222.tif/full/full/0/default.jpg
+224.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0223.tif/full/full/0/default.jpg
+225.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0224.tif/full/full/0/default.jpg
+226.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0225.tif/full/full/0/default.jpg
+227.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0226.tif/full/full/0/default.jpg
+228.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0227.tif/full/full/0/default.jpg
+229.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0228.tif/full/full/0/default.jpg
+230.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0229.tif/full/full/0/default.jpg
+231.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0230.tif/full/full/0/default.jpg
+232.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0231.tif/full/full/0/default.jpg
+233.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0232.tif/full/full/0/default.jpg
+234.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0233.tif/full/full/0/default.jpg
+235.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0234.tif/full/full/0/default.jpg
+236.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0235.tif/full/full/0/default.jpg
+237.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0236.tif/full/full/0/default.jpg
+238.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0237.tif/full/full/0/default.jpg
+239.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0238.tif/full/full/0/default.jpg
+240.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0239.tif/full/full/0/default.jpg
+241.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0240.tif/full/full/0/default.jpg
+242.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0241.tif/full/full/0/default.jpg
+243.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0242.tif/full/full/0/default.jpg
+244.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0243.tif/full/full/0/default.jpg
+245.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0244.tif/full/full/0/default.jpg
+246.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0245.tif/full/full/0/default.jpg
+247.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0246.tif/full/full/0/default.jpg
+248.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0247.tif/full/full/0/default.jpg
+249.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0248.tif/full/full/0/default.jpg
+250.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0249.tif/full/full/0/default.jpg
+251.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0250.tif/full/full/0/default.jpg
+252.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0251.tif/full/full/0/default.jpg
+253.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0252.tif/full/full/0/default.jpg
+254.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0253.tif/full/full/0/default.jpg
+255.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0254.tif/full/full/0/default.jpg
+256.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0255.tif/full/full/0/default.jpg
+257.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0256.tif/full/full/0/default.jpg
+258.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0257.tif/full/full/0/default.jpg
+259.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0258.tif/full/full/0/default.jpg
+260.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0259.tif/full/full/0/default.jpg
+261.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0260.tif/full/full/0/default.jpg
+262.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0261.tif/full/full/0/default.jpg
+263.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0262.tif/full/full/0/default.jpg
+264.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0263.tif/full/full/0/default.jpg
+265.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0264.tif/full/full/0/default.jpg
+266.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0265.tif/full/full/0/default.jpg
+267.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0266.tif/full/full/0/default.jpg
+268.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0267.tif/full/full/0/default.jpg
+269.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0268.tif/full/full/0/default.jpg
+270.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0269.tif/full/full/0/default.jpg
+271.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0270.tif/full/full/0/default.jpg
+272.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0271.tif/full/full/0/default.jpg
+273.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0272.tif/full/full/0/default.jpg
+274.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0273.tif/full/full/0/default.jpg
+275.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0274.tif/full/full/0/default.jpg
+276.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0275.tif/full/full/0/default.jpg
+277.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0276.tif/full/full/0/default.jpg
+278.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0277.tif/full/full/0/default.jpg
+279.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0278.tif/full/full/0/default.jpg
+280.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0279.tif/full/full/0/default.jpg
+281.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0280.tif/full/full/0/default.jpg
+282.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0281.tif/full/full/0/default.jpg
+283.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0282.tif/full/full/0/default.jpg
+284.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0283.tif/full/full/0/default.jpg
+285.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0284.tif/full/full/0/default.jpg
+286.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0285.tif/full/full/0/default.jpg
+287.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0286.tif/full/full/0/default.jpg
+288.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0287.tif/full/full/0/default.jpg
+289.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0288.tif/full/full/0/default.jpg
+290.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0289.tif/full/full/0/default.jpg
+291.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0290.tif/full/full/0/default.jpg
+292.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0291.tif/full/full/0/default.jpg
+293.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0292.tif/full/full/0/default.jpg
+294.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0293.tif/full/full/0/default.jpg
+295.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0294.tif/full/full/0/default.jpg
+296.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0295.tif/full/full/0/default.jpg
+297.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0296.tif/full/full/0/default.jpg
+298.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0297.tif/full/full/0/default.jpg
+299.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0298.tif/full/full/0/default.jpg
+300.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0299.tif/full/full/0/default.jpg
+301.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0300.tif/full/full/0/default.jpg
+302.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0301.tif/full/full/0/default.jpg
+303.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0302.tif/full/full/0/default.jpg
+304.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0303.tif/full/full/0/default.jpg
+305.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0304.tif/full/full/0/default.jpg
+306.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0305.tif/full/full/0/default.jpg
+307.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0306.tif/full/full/0/default.jpg
+308.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0307.tif/full/full/0/default.jpg
+309.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0308.tif/full/full/0/default.jpg
+310.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0309.tif/full/full/0/default.jpg
+311.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0310.tif/full/full/0/default.jpg
+312.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0311.tif/full/full/0/default.jpg
+313.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0312.tif/full/full/0/default.jpg
+314.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0313.tif/full/full/0/default.jpg
+315.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0314.tif/full/full/0/default.jpg
+316.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0315.tif/full/full/0/default.jpg
+317.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0316.tif/full/full/0/default.jpg
+318.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0317.tif/full/full/0/default.jpg
+319.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0318.tif/full/full/0/default.jpg
+320.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0319.tif/full/full/0/default.jpg
+321.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0320.tif/full/full/0/default.jpg
+322.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0321.tif/full/full/0/default.jpg
+323.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0322.tif/full/full/0/default.jpg
+324.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0323.tif/full/full/0/default.jpg
+325.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0324.tif/full/full/0/default.jpg
+326.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0325.tif/full/full/0/default.jpg
+327.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0326.tif/full/full/0/default.jpg
+328.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0327.tif/full/full/0/default.jpg
+329.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0328.tif/full/full/0/default.jpg
+330.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0329.tif/full/full/0/default.jpg
+331.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0330.tif/full/full/0/default.jpg
+332.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0331.tif/full/full/0/default.jpg
+333.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0332.tif/full/full/0/default.jpg
+334.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0333.tif/full/full/0/default.jpg
+335.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0334.tif/full/full/0/default.jpg
+336.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0335.tif/full/full/0/default.jpg
+337.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0336.tif/full/full/0/default.jpg
+338.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0337.tif/full/full/0/default.jpg
+339.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0338.tif/full/full/0/default.jpg
+340.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0339.tif/full/full/0/default.jpg
+341.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0340.tif/full/full/0/default.jpg
+342.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0341.tif/full/full/0/default.jpg
+343.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0342.tif/full/full/0/default.jpg
+344.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0343.tif/full/full/0/default.jpg
+345.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0344.tif/full/full/0/default.jpg
+346.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0345.tif/full/full/0/default.jpg
+347.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0346.tif/full/full/0/default.jpg
+348.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0347.tif/full/full/0/default.jpg
+349.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0348.tif/full/full/0/default.jpg
+350.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0349.tif/full/full/0/default.jpg
+351.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0350.tif/full/full/0/default.jpg
+352.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0351.tif/full/full/0/default.jpg
+353.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0352.tif/full/full/0/default.jpg
+354.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0353.tif/full/full/0/default.jpg
+355.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0354.tif/full/full/0/default.jpg
+356.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0355.tif/full/full/0/default.jpg
+357.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0356.tif/full/full/0/default.jpg
+358.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0357.tif/full/full/0/default.jpg
+359.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0358.tif/full/full/0/default.jpg
+360.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0359.tif/full/full/0/default.jpg
+361.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0360.tif/full/full/0/default.jpg
+362.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0361.tif/full/full/0/default.jpg
+363.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0362.tif/full/full/0/default.jpg
+364.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0363.tif/full/full/0/default.jpg
+365.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0364.tif/full/full/0/default.jpg
+366.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0365.tif/full/full/0/default.jpg
+367.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0366.tif/full/full/0/default.jpg
+368.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0367.tif/full/full/0/default.jpg
+369.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0368.tif/full/full/0/default.jpg
+370.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0369.tif/full/full/0/default.jpg
+371.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0370.tif/full/full/0/default.jpg
+372.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0371.tif/full/full/0/default.jpg
+373.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0372.tif/full/full/0/default.jpg
+374.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0373.tif/full/full/0/default.jpg
+375.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0374.tif/full/full/0/default.jpg
+376.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0375.tif/full/full/0/default.jpg
+377.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0376.tif/full/full/0/default.jpg
+378.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0377.tif/full/full/0/default.jpg
+379.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0378.tif/full/full/0/default.jpg
+380.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0379.tif/full/full/0/default.jpg
+381.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0380.tif/full/full/0/default.jpg
+382.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0381.tif/full/full/0/default.jpg
+383.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0382.tif/full/full/0/default.jpg
+384.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0383.tif/full/full/0/default.jpg
+385.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0384.tif/full/full/0/default.jpg
+386.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0385.tif/full/full/0/default.jpg
+387.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0386.tif/full/full/0/default.jpg
+388.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0387.tif/full/full/0/default.jpg
+389.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0388.tif/full/full/0/default.jpg
+390.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0389.tif/full/full/0/default.jpg
+391.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0390.tif/full/full/0/default.jpg
+392.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0391.tif/full/full/0/default.jpg
+393.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0392.tif/full/full/0/default.jpg
+394.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0393.tif/full/full/0/default.jpg
+395.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0394.tif/full/full/0/default.jpg
+396.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0395.tif/full/full/0/default.jpg
+397.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0396.tif/full/full/0/default.jpg
+398.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0397.tif/full/full/0/default.jpg
+399.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0398.tif/full/full/0/default.jpg
+400.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0399.tif/full/full/0/default.jpg
+401.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0400.tif/full/full/0/default.jpg
+402.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0401.tif/full/full/0/default.jpg
+403.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0402.tif/full/full/0/default.jpg
+404.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0403.tif/full/full/0/default.jpg
+405.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0404.tif/full/full/0/default.jpg
+406.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100179624/v4/0272/0272-20304/0272-20304-0405.tif/full/full/0/default.jpg

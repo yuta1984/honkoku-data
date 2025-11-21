@@ -1,24 +1,24 @@
-filename	status	image	canvasId
-001.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00001.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p1
-002.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00002.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p2
-003.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00003.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p3
-004.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00004.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p4
-005.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00005.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p5
-006.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00006.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p6
-007.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00007.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p7
-008.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00008.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p8
-009.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00009.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p9
-010.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00010.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p10
-011.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00011.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p11
-012.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00012.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p12
-013.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00013.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p13
-014.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00014.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p14
-015.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00015.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p15
-016.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00016.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p16
-017.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00017.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p17
-018.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00018.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p18
-019.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00019.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p19
-020.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00020.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p20
-021.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00021.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p21
-022.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00022.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p22
-023.txt	default	https://image.kukozisin.org/iiif/2/GD__18204771__00023.tif/full/full/0/default.jpg	https://www.dheq.org/repo/iiif/2/3637/canvas/p23
+filename	status	image
+001.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00001.tif/full/full/0/default.jpg
+002.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00002.tif/full/full/0/default.jpg
+003.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00003.tif/full/full/0/default.jpg
+004.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00004.tif/full/full/0/default.jpg
+005.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00005.tif/full/full/0/default.jpg
+006.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00006.tif/full/full/0/default.jpg
+007.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00007.tif/full/full/0/default.jpg
+008.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00008.tif/full/full/0/default.jpg
+009.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00009.tif/full/full/0/default.jpg
+010.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00010.tif/full/full/0/default.jpg
+011.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00011.tif/full/full/0/default.jpg
+012.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00012.tif/full/full/0/default.jpg
+013.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00013.tif/full/full/0/default.jpg
+014.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00014.tif/full/full/0/default.jpg
+015.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00015.tif/full/full/0/default.jpg
+016.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00016.tif/full/full/0/default.jpg
+017.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00017.tif/full/full/0/default.jpg
+018.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00018.tif/full/full/0/default.jpg
+019.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00019.tif/full/full/0/default.jpg
+020.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00020.tif/full/full/0/default.jpg
+021.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00021.tif/full/full/0/default.jpg
+022.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00022.tif/full/full/0/default.jpg
+023.txt	completed	https://image.kukozisin.org/iiif/2/GD__18204771__00023.tif/full/full/0/default.jpg

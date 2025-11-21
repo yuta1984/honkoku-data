@@ -1,16 +1,16 @@
-filename	status	image	canvasId
-001.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_001.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010010
-002.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_002.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010020
-003.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_003.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010030
-004.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_004.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010040
-005.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_005.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010050
-006.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_006.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010060
-007.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_007.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010070
-008.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_008.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010080
-009.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_009.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010090
-010.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_010.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010100
-011.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_011.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010110
-012.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_012.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010120
-013.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_013.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010130
-014.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_014.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010140
-015.txt	default	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_015.tif/full/full/0/default.jpg	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA05501/pageNA055010150
+filename	status	image
+001.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_001.tif/full/full/0/default.jpg
+002.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_002.tif/full/full/0/default.jpg
+003.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_003.tif/full/full/0/default.jpg
+004.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_004.tif/full/full/0/default.jpg
+005.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_005.tif/full/full/0/default.jpg
+006.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_006.tif/full/full/0/default.jpg
+007.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_007.tif/full/full/0/default.jpg
+008.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_008.tif/full/full/0/default.jpg
+009.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_009.tif/full/full/0/default.jpg
+010.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_010.tif/full/full/0/default.jpg
+011.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_011.tif/full/full/0/default.jpg
+012.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_012.tif/full/full/0/default.jpg
+013.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_013.tif/full/full/0/default.jpg
+014.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_014.tif/full/full/0/default.jpg
+015.txt	completed	https://shimuchi.lib.u-ryukyu.ac.jp/iiif/2/NA055_01%2FNA055_01_015.tif/full/full/0/default.jpg

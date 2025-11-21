@@ -1,2 +1,2 @@
-filename	status	image	canvasId
-001.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/sodoku.tif/full/full/0/default.jpg	https://honkoku.org/manifests/sodoku.json/page1
+filename	status	image
+001.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/sodoku.tif/full/full/0/default.jpg

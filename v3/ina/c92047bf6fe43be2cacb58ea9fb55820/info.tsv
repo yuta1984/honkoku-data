@@ -1,5 +1,5 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
+filename	status	image
+001.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-272-01/kitaharaheizo01-272-01-001.tif/full/full/0/default.jpg
+002.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-272-01/kitaharaheizo01-272-01-002.tif/full/full/0/default.jpg
+003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-272-01/kitaharaheizo01-272-01-003.tif/full/full/0/default.jpg
+004.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-272-01/kitaharaheizo01-272-01-004.tif/full/full/0/default.jpg

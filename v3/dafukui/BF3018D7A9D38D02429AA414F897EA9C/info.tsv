@@ -1,19 +1,19 @@
-filename	status	image	canvasId
-001.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402014/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p1
-002.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402016/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p2
-003.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402018/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p3
-004.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402022/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p4
-005.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402024/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p5
-006.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402026/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p6
-007.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402027/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p7
-008.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402028/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p8
-009.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402029/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p9
-010.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402030/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p10
-011.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402031/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p11
-012.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402032/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p12
-013.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402033/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p13
-014.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402034/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p14
-015.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402035/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p15
-016.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402036/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p16
-017.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402037/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p17
-018.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402038/full/full/0/default.jpg	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402012/canvas/p18
+filename	status	image
+001.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402014/full/full/0/default.jpg
+002.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402016/full/full/0/default.jpg
+003.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402018/full/full/0/default.jpg
+004.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402022/full/full/0/default.jpg
+005.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402024/full/full/0/default.jpg
+006.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402026/full/full/0/default.jpg
+007.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402027/full/full/0/default.jpg
+008.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402028/full/full/0/default.jpg
+009.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402029/full/full/0/default.jpg
+010.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402030/full/full/0/default.jpg
+011.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402031/full/full/0/default.jpg
+012.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402032/full/full/0/default.jpg
+013.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402033/full/full/0/default.jpg
+014.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402034/full/full/0/default.jpg
+015.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402035/full/full/0/default.jpg
+016.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402036/full/full/0/default.jpg
+017.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402037/full/full/0/default.jpg
+018.txt	completed	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2402038/full/full/0/default.jpg

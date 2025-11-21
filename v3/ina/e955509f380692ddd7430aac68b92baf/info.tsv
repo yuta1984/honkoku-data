@@ -1,12 +1,12 @@
-filename	status	image	canvasId
-001.txt	default		
-002.txt	default		
-003.txt	default		
-004.txt	default		
-005.txt	default		
-006.txt	default		
-007.txt	default		
-008.txt	default		
-009.txt	default		
-010.txt	default		
-011.txt	default		
+filename	status	image
+001.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-001.tif/full/full/0/default.jpg
+002.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-002.tif/full/full/0/default.jpg
+003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-003.tif/full/full/0/default.jpg
+004.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-004.tif/full/full/0/default.jpg
+005.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-005.tif/full/full/0/default.jpg
+006.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-006.tif/full/full/0/default.jpg
+007.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-007.tif/full/full/0/default.jpg
+008.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-008.tif/full/full/0/default.jpg
+009.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-009.tif/full/full/0/default.jpg
+010.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-010.tif/full/full/0/default.jpg
+011.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-331-05/ikegami01-331-05-011.tif/full/full/0/default.jpg

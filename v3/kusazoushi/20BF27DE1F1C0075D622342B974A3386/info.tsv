@@ -1,47 +1,47 @@
-filename	status	image	canvasId
-001.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400001.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p1
-002.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400002.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p2
-003.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400003.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p3
-004.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400004.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p4
-005.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400005.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p5
-006.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400006.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p6
-007.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400007.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p7
-008.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400008.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p8
-009.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400009.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p9
-010.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400010.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p10
-011.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400011.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p11
-012.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400012.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p12
-013.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400013.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p13
-014.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400014.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p14
-015.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400015.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p15
-016.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400016.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p16
-017.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400017.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p17
-018.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400018.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p18
-019.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400019.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p19
-020.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400020.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p20
-021.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400021.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p21
-022.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400022.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p22
-023.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400023.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p23
-024.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400024.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p24
-025.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400025.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p25
-026.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400026.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p26
-027.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400027.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p27
-028.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400028.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p28
-029.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400029.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p29
-030.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400030.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p30
-031.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400031.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p31
-032.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400032.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p32
-033.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400033.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p33
-034.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400034.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p34
-035.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400035.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p35
-036.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400036.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p36
-037.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400037.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p37
-038.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400038.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p38
-039.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400039.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p39
-040.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400040.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p40
-041.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400041.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p41
-042.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400042.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p42
-043.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400043.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p43
-044.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400044.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p44
-045.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400045.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p45
-046.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400046.tif/full/full/0/default.jpg	https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/852b0a06-47c6-4265-b2e5-6273aff203aa/canvas/p46
+filename	status	image
+001.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400001.tif/full/full/0/default.jpg
+002.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400002.tif/full/full/0/default.jpg
+003.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400003.tif/full/full/0/default.jpg
+004.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400004.tif/full/full/0/default.jpg
+005.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400005.tif/full/full/0/default.jpg
+006.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400006.tif/full/full/0/default.jpg
+007.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400007.tif/full/full/0/default.jpg
+008.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400008.tif/full/full/0/default.jpg
+009.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400009.tif/full/full/0/default.jpg
+010.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400010.tif/full/full/0/default.jpg
+011.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400011.tif/full/full/0/default.jpg
+012.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400012.tif/full/full/0/default.jpg
+013.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400013.tif/full/full/0/default.jpg
+014.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400014.tif/full/full/0/default.jpg
+015.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400015.tif/full/full/0/default.jpg
+016.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400016.tif/full/full/0/default.jpg
+017.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400017.tif/full/full/0/default.jpg
+018.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400018.tif/full/full/0/default.jpg
+019.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400019.tif/full/full/0/default.jpg
+020.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400020.tif/full/full/0/default.jpg
+021.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400021.tif/full/full/0/default.jpg
+022.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400022.tif/full/full/0/default.jpg
+023.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400023.tif/full/full/0/default.jpg
+024.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400024.tif/full/full/0/default.jpg
+025.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400025.tif/full/full/0/default.jpg
+026.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400026.tif/full/full/0/default.jpg
+027.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400027.tif/full/full/0/default.jpg
+028.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400028.tif/full/full/0/default.jpg
+029.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400029.tif/full/full/0/default.jpg
+030.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400030.tif/full/full/0/default.jpg
+031.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400031.tif/full/full/0/default.jpg
+032.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400032.tif/full/full/0/default.jpg
+033.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400033.tif/full/full/0/default.jpg
+034.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400034.tif/full/full/0/default.jpg
+035.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400035.tif/full/full/0/default.jpg
+036.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400036.tif/full/full/0/default.jpg
+037.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400037.tif/full/full/0/default.jpg
+038.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400038.tif/full/full/0/default.jpg
+039.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400039.tif/full/full/0/default.jpg
+040.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400040.tif/full/full/0/default.jpg
+041.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400041.tif/full/full/0/default.jpg
+042.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400042.tif/full/full/0/default.jpg
+043.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400043.tif/full/full/0/default.jpg
+044.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400044.tif/full/full/0/default.jpg
+045.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400045.tif/full/full/0/default.jpg
+046.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/0340/03400046.tif/full/full/0/default.jpg

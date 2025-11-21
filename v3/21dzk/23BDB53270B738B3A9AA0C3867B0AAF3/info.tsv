@@ -1,11 +1,11 @@
-filename	status	image	canvasId
-001.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000017/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/17
-002.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000018/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/18
-003.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000019/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/19
-004.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000020/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/20
-005.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000021/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/21
-006.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000022/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/22
-007.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000023/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/23
-008.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000024/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/24
-009.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000025/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/25
-010.txt	default	https://www.dl.ndl.go.jp/api/iiif/952809/R0000026/full/full/0/default.jpg	https://www.dl.ndl.go.jp/api/iiif/952809/canvas/26
+filename	status	image
+001.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000017/full/full/0/default.jpg
+002.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000018/full/full/0/default.jpg
+003.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000019/full/full/0/default.jpg
+004.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000020/full/full/0/default.jpg
+005.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000021/full/full/0/default.jpg
+006.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000022/full/full/0/default.jpg
+007.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000023/full/full/0/default.jpg
+008.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000024/full/full/0/default.jpg
+009.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000025/full/full/0/default.jpg
+010.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952809/R0000026/full/full/0/default.jpg

@@ -1,8 +1,8 @@
-filename	status	image	canvasId
-001.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-1.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page1
-002.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-2.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page2
-003.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-3.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page3
-004.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-4.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page4
-005.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-5.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page5
-006.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-6.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page6
-007.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-7.tif/full/full/0/default.jpg	https://honkoku.org/manifests/tempo/2550088/page7
+filename	status	image
+001.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-1.tif/full/full/0/default.jpg
+002.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-2.tif/full/full/0/default.jpg
+003.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-3.tif/full/full/0/default.jpg
+004.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-4.tif/full/full/0/default.jpg
+005.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-5.tif/full/full/0/default.jpg
+006.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-6.tif/full/full/0/default.jpg
+007.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/tempo%2F2550088-7.tif/full/full/0/default.jpg

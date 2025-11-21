@@ -1,17 +1,17 @@
-filename	status	image	canvasId
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00000.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/1
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00001.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/2
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00002.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/3
-004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00003.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/4
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00004.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/5
-006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00005.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/6
-007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00006.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/7
-008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00007.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/8
-009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00008.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/9
-010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00009.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/10
-011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00010.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/11
-012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00011.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/12
-013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00012.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/13
-014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00013.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/14
-015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00014.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/15
-016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00015.tif/full/full/0/default.jpg	https://kokusho.nijl.ac.jp/biblio/100239589/canvas/16
+filename	status	image
+001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00000.tif/full/full/0/default.jpg
+002.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00001.tif/full/full/0/default.jpg
+003.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00002.tif/full/full/0/default.jpg
+004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00003.tif/full/full/0/default.jpg
+005.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00004.tif/full/full/0/default.jpg
+006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00005.tif/full/full/0/default.jpg
+007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00006.tif/full/full/0/default.jpg
+008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00007.tif/full/full/0/default.jpg
+009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00008.tif/full/full/0/default.jpg
+010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00009.tif/full/full/0/default.jpg
+011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00010.tif/full/full/0/default.jpg
+012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00011.tif/full/full/0/default.jpg
+013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00012.tif/full/full/0/default.jpg
+014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00013.tif/full/full/0/default.jpg
+015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00014.tif/full/full/0/default.jpg
+016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239589/v4/TOKY/TOKY-00011/TOKY-00011-00015.tif/full/full/0/default.jpg

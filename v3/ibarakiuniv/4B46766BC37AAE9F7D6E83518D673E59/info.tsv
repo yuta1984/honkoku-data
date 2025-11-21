@@ -1,103 +1,103 @@
-filename	status	image	canvasId
-001.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0001.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0001.tif/canvas
-002.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0002.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0002.tif/canvas
-003.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0003.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0003.tif/canvas
-004.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0004.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0004.tif/canvas
-005.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0005.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0005.tif/canvas
-006.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0006.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0006.tif/canvas
-007.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0007.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0007.tif/canvas
-008.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0008.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0008.tif/canvas
-009.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0009.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0009.tif/canvas
-010.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0010.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0010.tif/canvas
-011.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0011.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0011.tif/canvas
-012.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0012.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0012.tif/canvas
-013.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0013.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0013.tif/canvas
-014.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0014.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0014.tif/canvas
-015.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0015.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0015.tif/canvas
-016.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0016.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0016.tif/canvas
-017.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0017.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0017.tif/canvas
-018.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0018.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0018.tif/canvas
-019.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0019.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0019.tif/canvas
-020.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0020.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0020.tif/canvas
-021.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0021.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0021.tif/canvas
-022.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0022.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0022.tif/canvas
-023.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0023.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0023.tif/canvas
-024.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0024.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0024.tif/canvas
-025.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0025.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0025.tif/canvas
-026.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0026.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0026.tif/canvas
-027.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0027.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0027.tif/canvas
-028.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0028.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0028.tif/canvas
-029.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0029.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0029.tif/canvas
-030.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0030.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0030.tif/canvas
-031.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0031.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0031.tif/canvas
-032.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0032.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0032.tif/canvas
-033.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0033.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0033.tif/canvas
-034.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0034.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0034.tif/canvas
-035.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0035.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0035.tif/canvas
-036.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0036.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0036.tif/canvas
-037.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0037.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0037.tif/canvas
-038.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0038.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0038.tif/canvas
-039.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0039.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0039.tif/canvas
-040.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0040.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0040.tif/canvas
-041.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0041.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0041.tif/canvas
-042.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0042.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0042.tif/canvas
-043.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0043.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0043.tif/canvas
-044.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0044.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0044.tif/canvas
-045.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0045.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0045.tif/canvas
-046.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0046.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0046.tif/canvas
-047.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0047.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0047.tif/canvas
-048.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0048.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0048.tif/canvas
-049.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0049.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0049.tif/canvas
-050.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0050.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0050.tif/canvas
-051.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0051.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0051.tif/canvas
-052.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0052.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0052.tif/canvas
-053.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0053.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0053.tif/canvas
-054.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0054.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0054.tif/canvas
-055.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0055.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0055.tif/canvas
-056.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0056.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0056.tif/canvas
-057.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0057.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0057.tif/canvas
-058.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0058.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0058.tif/canvas
-059.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0059.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0059.tif/canvas
-060.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0060.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0060.tif/canvas
-061.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0061.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0061.tif/canvas
-062.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0062.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0062.tif/canvas
-063.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0063.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0063.tif/canvas
-064.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0064.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0064.tif/canvas
-065.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0065.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0065.tif/canvas
-066.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0066.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0066.tif/canvas
-067.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0067.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0067.tif/canvas
-068.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0068.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0068.tif/canvas
-069.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0069.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0069.tif/canvas
-070.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0070.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0070.tif/canvas
-071.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0071.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0071.tif/canvas
-072.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0072.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0072.tif/canvas
-073.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0073.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0073.tif/canvas
-074.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0074.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0074.tif/canvas
-075.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0075.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0075.tif/canvas
-076.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0076.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0076.tif/canvas
-077.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0077.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0077.tif/canvas
-078.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0078.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0078.tif/canvas
-079.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0079.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0079.tif/canvas
-080.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0080.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0080.tif/canvas
-081.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0081.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0081.tif/canvas
-082.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0082.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0082.tif/canvas
-083.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0083.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0083.tif/canvas
-084.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0084.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0084.tif/canvas
-085.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0085.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0085.tif/canvas
-086.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0086.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0086.tif/canvas
-087.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0087.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0087.tif/canvas
-088.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0088.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0088.tif/canvas
-089.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0089.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0089.tif/canvas
-090.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0090.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0090.tif/canvas
-091.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0091.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0091.tif/canvas
-092.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0092.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0092.tif/canvas
-093.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0093.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0093.tif/canvas
-094.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0094.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0094.tif/canvas
-095.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0095.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0095.tif/canvas
-096.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0096.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0096.tif/canvas
-097.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0097.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0097.tif/canvas
-098.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0098.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0098.tif/canvas
-099.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0099.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0099.tif/canvas
-100.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0100.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0100.tif/canvas
-101.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0101.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0101.tif/canvas
-102.txt	default	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0102.tif/full/full/0/default.jpg	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0102.tif/canvas
+filename	status	image
+001.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0001.tif/full/full/0/default.jpg
+002.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0002.tif/full/full/0/default.jpg
+003.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0003.tif/full/full/0/default.jpg
+004.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0004.tif/full/full/0/default.jpg
+005.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0005.tif/full/full/0/default.jpg
+006.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0006.tif/full/full/0/default.jpg
+007.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0007.tif/full/full/0/default.jpg
+008.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0008.tif/full/full/0/default.jpg
+009.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0009.tif/full/full/0/default.jpg
+010.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0010.tif/full/full/0/default.jpg
+011.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0011.tif/full/full/0/default.jpg
+012.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0012.tif/full/full/0/default.jpg
+013.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0013.tif/full/full/0/default.jpg
+014.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0014.tif/full/full/0/default.jpg
+015.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0015.tif/full/full/0/default.jpg
+016.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0016.tif/full/full/0/default.jpg
+017.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0017.tif/full/full/0/default.jpg
+018.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0018.tif/full/full/0/default.jpg
+019.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0019.tif/full/full/0/default.jpg
+020.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0020.tif/full/full/0/default.jpg
+021.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0021.tif/full/full/0/default.jpg
+022.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0022.tif/full/full/0/default.jpg
+023.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0023.tif/full/full/0/default.jpg
+024.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0024.tif/full/full/0/default.jpg
+025.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0025.tif/full/full/0/default.jpg
+026.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0026.tif/full/full/0/default.jpg
+027.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0027.tif/full/full/0/default.jpg
+028.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0028.tif/full/full/0/default.jpg
+029.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0029.tif/full/full/0/default.jpg
+030.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0030.tif/full/full/0/default.jpg
+031.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0031.tif/full/full/0/default.jpg
+032.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0032.tif/full/full/0/default.jpg
+033.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0033.tif/full/full/0/default.jpg
+034.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0034.tif/full/full/0/default.jpg
+035.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0035.tif/full/full/0/default.jpg
+036.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0036.tif/full/full/0/default.jpg
+037.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0037.tif/full/full/0/default.jpg
+038.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0038.tif/full/full/0/default.jpg
+039.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0039.tif/full/full/0/default.jpg
+040.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0040.tif/full/full/0/default.jpg
+041.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0041.tif/full/full/0/default.jpg
+042.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0042.tif/full/full/0/default.jpg
+043.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0043.tif/full/full/0/default.jpg
+044.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0044.tif/full/full/0/default.jpg
+045.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0045.tif/full/full/0/default.jpg
+046.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0046.tif/full/full/0/default.jpg
+047.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0047.tif/full/full/0/default.jpg
+048.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0048.tif/full/full/0/default.jpg
+049.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0049.tif/full/full/0/default.jpg
+050.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0050.tif/full/full/0/default.jpg
+051.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0051.tif/full/full/0/default.jpg
+052.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0052.tif/full/full/0/default.jpg
+053.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0053.tif/full/full/0/default.jpg
+054.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0054.tif/full/full/0/default.jpg
+055.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0055.tif/full/full/0/default.jpg
+056.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0056.tif/full/full/0/default.jpg
+057.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0057.tif/full/full/0/default.jpg
+058.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0058.tif/full/full/0/default.jpg
+059.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0059.tif/full/full/0/default.jpg
+060.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0060.tif/full/full/0/default.jpg
+061.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0061.tif/full/full/0/default.jpg
+062.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0062.tif/full/full/0/default.jpg
+063.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0063.tif/full/full/0/default.jpg
+064.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0064.tif/full/full/0/default.jpg
+065.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0065.tif/full/full/0/default.jpg
+066.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0066.tif/full/full/0/default.jpg
+067.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0067.tif/full/full/0/default.jpg
+068.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0068.tif/full/full/0/default.jpg
+069.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0069.tif/full/full/0/default.jpg
+070.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0070.tif/full/full/0/default.jpg
+071.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0071.tif/full/full/0/default.jpg
+072.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0072.tif/full/full/0/default.jpg
+073.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0073.tif/full/full/0/default.jpg
+074.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0074.tif/full/full/0/default.jpg
+075.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0075.tif/full/full/0/default.jpg
+076.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0076.tif/full/full/0/default.jpg
+077.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0077.tif/full/full/0/default.jpg
+078.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0078.tif/full/full/0/default.jpg
+079.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0079.tif/full/full/0/default.jpg
+080.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0080.tif/full/full/0/default.jpg
+081.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0081.tif/full/full/0/default.jpg
+082.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0082.tif/full/full/0/default.jpg
+083.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0083.tif/full/full/0/default.jpg
+084.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0084.tif/full/full/0/default.jpg
+085.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0085.tif/full/full/0/default.jpg
+086.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0086.tif/full/full/0/default.jpg
+087.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0087.tif/full/full/0/default.jpg
+088.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0088.tif/full/full/0/default.jpg
+089.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0089.tif/full/full/0/default.jpg
+090.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0090.tif/full/full/0/default.jpg
+091.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0091.tif/full/full/0/default.jpg
+092.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0092.tif/full/full/0/default.jpg
+093.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0093.tif/full/full/0/default.jpg
+094.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0094.tif/full/full/0/default.jpg
+095.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0095.tif/full/full/0/default.jpg
+096.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0096.tif/full/full/0/default.jpg
+097.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0097.tif/full/full/0/default.jpg
+098.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0098.tif/full/full/0/default.jpg
+099.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0099.tif/full/full/0/default.jpg
+100.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0100.tif/full/full/0/default.jpg
+101.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0101.tif/full/full/0/default.jpg
+102.txt	completed	https://os3-373-19774.vs.sakura.ne.jp/iiif/2/daikoji%2F%2Fvol_04%2F%2F0102.tif/full/full/0/default.jpg
