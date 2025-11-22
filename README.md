@@ -10,7 +10,7 @@
 公開されている翻刻文は専門家によるチェックを経ておらず、**必ずしも正確な翻刻とは限らない**ことをご留意ください。博士号を有する日本史研究者に依頼し、翻刻文10万文字を検証した結果では、100文字あたり1.5文字の割合で誤刻や表記の揺れが含まれていることが明らかになっています（[論文](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/233817)）。
 
 ## 特殊記法について
-振り仮名、割書、虫損箇所などを明示するために、みんなで翻刻は「[青空文庫記法](https://www.aozora.gr.jp/annotation/)」に類似した表記体系を採用しています。詳しくは[凡例](https://github.com/yuta1984/honkoku-data/blob/master/v1/legends.md)をご覧ください。
+振り仮名、割書、虫損箇所などを明示するために、みんなで翻刻は「[青空文庫記法](https://www.aozora.gr.jp/annotation/)」に類似した表記体系を採用しています。詳しくは[凡例](https://wiki.honkoku.org/doku.php?id=howto_markup)をご覧ください。
 
 # ライセンス
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
