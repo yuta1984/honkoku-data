@@ -33,8 +33,8 @@ filename	status	image
 032.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000032/full/full/0/default.jpg
 033.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000033/full/full/0/default.jpg
 034.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000034/full/full/0/default.jpg
-035.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000035/full/full/0/default.jpg
-036.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000036/full/full/0/default.jpg
+035.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000035/full/full/0/default.jpg
+036.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000036/full/full/0/default.jpg
 037.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000037/full/full/0/default.jpg
 038.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000038/full/full/0/default.jpg
 039.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000039/full/full/0/default.jpg

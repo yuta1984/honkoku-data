@@ -11,7 +11,7 @@ filename	status	image
 010.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000010.tif/full/full/0/default.jpg
 011.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000011.tif/full/full/0/default.jpg
 012.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000012.tif/full/full/0/default.jpg
-013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000013.tif/full/full/0/default.jpg
+013.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000013.tif/full/full/0/default.jpg
 014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000014.tif/full/full/0/default.jpg
 015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000015.tif/full/full/0/default.jpg
 016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200000821/v4/image/110_1163/00000002/00000016.tif/full/full/0/default.jpg

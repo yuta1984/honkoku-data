@@ -1,13 +1,9 @@
-Shinemon was, as usual, an argumentative man, and being a proper merchant, he believed in Daikokuten (the god of wealth). Every morning without fail, he would offer sacred sake, and eating only black bean rice until nine o'clock, he would stay up alone, repeatedly praying: "For my son's health and longevity, and for his continued growth, so that he may not be foolish, and though he has a runny nose now, may he not be a snot-nosed child in the future—I humbly beseech you for this alone."
+Shinzaemon was, as usual, argumentative, and being a merchant above all, believed in Daikokuten. So as not to displease the deity, he diligently offered sacred sake and ate only black bean rice until nine o'clock, staying up alone and repeatedly praying: "Please grant my son good health and long life, and as he grows up, may he not be dull-witted. Though he may have a runny nose now, please ensure he won't be a snot-nosed brat in the future. I humbly beseech you for this."
 
-Then, miraculously, Daikokuten appeared and said "Excellent, excellent, I am here," without any pompous airs, speaking quite familiarly.
+To his surprise, Daikokuten appeared before him, saying "Excellent, excellent, it is I!" without any pompous airs, speaking quite familiarly: "Shinzaemon, your wish differs from that of worldly people. You don't ask for material things, but only speak of your son this and that. From my magic mallet's perspective, your request is difficult. However, since you ask, though it's not a permanent gift, your situation is special - with your natural forehead wrinkles deepened by worry. Here are an invisibility cloak and hat. I won't give them to you permanently, but I'll lend them for a while. Try wearing these." And so he lent them. Even Daikokuten, being elderly as he was, seemed to find his divine duties quite weighty.
 
-"Shinemon, your wishes are different from those of worldly people. You don't ask for material things, but only speak of your son this and that. From my side here in the house, it's becoming difficult for me too. It's clearly troublesome. However, since you ask, I won't refuse, but particularly for you—with your natural forehead wrinkles all bunched up—I have an invisible cloak and an invisible hat. I'm not exactly giving these two items to you, but I'll lend them for a while, so try wearing them," and he handed them over.
+[Shinzaemon]
+As thanks for this favor, please feel free to ask for anything you desire.
 
-Even Daikokuten, after all, just looked like a heavy, aged figure.
-
-[Shinemon's dialogue:]
-"In return for this favor, please ask me for anything at all"
-
-[Daikokuten's dialogue:]
-"It's presumptuous to mention food, but the black bean rice is too hard—please excuse me from that. Shake the sake bottle well and offer it properly"
+[Daikokuten]
+Though it's presumptuous to speak of food, that black bean rice is too hard. Please excuse me from that. And do shake that sake bottle well before serving.

@@ -3,8 +3,8 @@ filename	status	image
 002.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132375.tiff/info.json
 003.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132376.tiff/info.json
 004.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132377.tiff/info.json
-005.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132378.tiff/info.json
-006.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132379.tiff/info.json
+005.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132378.tiff/info.json
+006.txt	editing	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132379.tiff/info.json
 007.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132380.tiff/info.json
 008.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132381.tiff/info.json
 009.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132382.tiff/info.json

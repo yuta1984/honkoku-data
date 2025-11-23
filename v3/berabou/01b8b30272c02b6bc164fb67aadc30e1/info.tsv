@@ -3,8 +3,8 @@ filename	status	image
 002.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370002.tif/full/full/0/default.jpg
 003.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370003.tif/full/full/0/default.jpg
 004.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370004.tif/full/full/0/default.jpg
-005.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370005.tif/full/full/0/default.jpg
-006.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370006.tif/full/full/0/default.jpg
+005.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370005.tif/full/full/0/default.jpg
+006.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370006.tif/full/full/0/default.jpg
 007.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370007.tif/full/full/0/default.jpg
 008.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370008.tif/full/full/0/default.jpg
 009.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370009.tif/full/full/0/default.jpg

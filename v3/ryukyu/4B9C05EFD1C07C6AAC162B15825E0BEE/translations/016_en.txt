@@ -1,34 +1,66 @@
-Iyo Province (continued)
-Tosa Province
+Iwami Province (6 districts)
+Aki Province (8 districts)
 
-Awa Province (9 districts)
-Sanuki Province (11 districts)
+Iyo Province (14 districts)
+Tosa Province (7 districts)
 
 [Geographic names and castle town names from the map sections]
-Takamatsu
-Marugame　　　　　　　　　　　　　　　Ko-naruto (Small Naruto)
-Sanuki Province　　　　　　　　　　　　　Dai-naruto (Large Naruto)
-Iyo Province
-Awa Province　　　　　　Tokushima
-Tosa Province
+Izumo Province
+Hamada
+Bingo Province
+Nagato Province　Tsuwano
+Suho Province
+Hiroshima
+Imabari
+Matsuyama　Komatsu　Saijo
+Tako
+Ozu　　　　　　　　　　　　Sanuki Province
+Uwajima　　　　　　　　Kochi　　Awa Province
 
-[Detailed district listings for Sanuki Province]
-　　　　　　　　　　　　　　　　　　Sarao Island
-　　　　　　　　　　　　　　　　　　Shodoshima (Small Bean Island)
-Ano District　Takamatsu
-Marugame　　　　　　　　　　Yamada District
-Konpira　Uashi District　Ichinomiya　Miki District
-Naka District　Kozai District　Ota Hachiman　Samukawa District
-Sanuki Province　Koto District　　　　　Ouchi District
-Tado District
+[Detailed district listings for Iwami Province]
+Iwami Province
+Tsuma District　Anno District
+Hamada　　　　　　Ichinomiya
+　　　　　　　　Mononobe Shrine
+Naka District　　Ochi District
+Iwami Province
 Mino District
-Masuda District
+Kanoashi District
+Tsuwano
 
-[Detailed district listings for Awa Province]
-　　　　　　　　　　　　　　　　　　Bando District
-Miyoshi District　　Awa District　Sakanishi District
-Mima District　Awa Province　　　　　　Tokushima
-Oe District　Myozai District　　Myoto District　Ichinomiya
-　　　　　　　　　Katsuura District　Oasa Shrine
-　　　　　　　　　　　　　Naka District
-　　　　　　　　　Kaifu District
+[Detailed district listings for Aki Province]
+Aki Province
+Takada District
+Aki District
+Yamagata District
+Sato District
+Saeki District
+Hiroshima
+Annan District
+Miyajima　　　　Kamo District　Numata District
+Ichinomiya
+Nagashima
+
+[Detailed district listings for Iyo Province]
+Iyo Province
+Nagashima
+Kazahaya District
+Wake District　Imabari
+Matsuyama　　Ochi District
+Kita District　Tako　Iyo District　　　　　　　　Komatsu　Uma District
+Ukena District　　　Shuki District　Saijo
+Kume District　Kazemura District
+Ozu　Onsen District　　　Nii District
+Ichinomiya
+Wa
+Myojin
+Uwajima
+Uwa District
+
+[Detailed district listings for Tosa Province]
+Tosa Province
+Tosa District
+Agawa District　Ichinomiya　Kami District
+Tosa Shrine　Nagaoka District
+Takaoka District　Kochi　　　　　　　　　　　Aki District
+Hata District
