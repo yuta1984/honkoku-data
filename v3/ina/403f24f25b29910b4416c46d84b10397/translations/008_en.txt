@@ -1,0 +1,7 @@
+【Diagram】
+
+【Text in upper right square】　　　　　　　　【Text in lower right square】
+　　Fukasawa　　　　　　　　　　　　　　　　　Entrance　
+【Text in upper left square】【Text in middle left square】【Text in lower left square】
+　　Nagata　　　　　　　Waiting room　　　　　　Lodging
+【Connected by lines: Fukasawa～Nagata～Waiting room～Lodging～Entrance】

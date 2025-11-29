@@ -2,12 +2,12 @@ filename	status	image
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00000.tif/full/full/0/default.jpg
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00001.tif/full/full/0/default.jpg
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00002.tif/full/full/0/default.jpg
-004.txt	editing	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00003.tif/full/full/0/default.jpg
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00004.tif/full/full/0/default.jpg
-006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00005.tif/full/full/0/default.jpg
-007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00006.tif/full/full/0/default.jpg
-008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00007.tif/full/full/0/default.jpg
-009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00008.tif/full/full/0/default.jpg
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00003.tif/full/full/0/default.jpg
+005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00004.tif/full/full/0/default.jpg
+006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00005.tif/full/full/0/default.jpg
+007.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00006.tif/full/full/0/default.jpg
+008.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00007.tif/full/full/0/default.jpg
+009.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00008.tif/full/full/0/default.jpg
 010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00009.tif/full/full/0/default.jpg
 011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00010.tif/full/full/0/default.jpg
 012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00011.tif/full/full/0/default.jpg
@@ -17,4 +17,4 @@ filename	status	image
 016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00015.tif/full/full/0/default.jpg
 017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00016.tif/full/full/0/default.jpg
 018.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00017.tif/full/full/0/default.jpg
-019.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00018.tif/full/full/0/default.jpg
+019.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100266908/v4/TSHB/TSHB-01481/TSHB-01481-00018.tif/full/full/0/default.jpg

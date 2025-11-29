@@ -1,0 +1,20 @@
+"Song of the Method for Finding the Circle"
+
+How to find the diameter of a solid circle? Multiply by sixteen and divide by nine
+This number becomes the actual volume; how about extracting the cube root?
+If asking for the circumference of a solid circle, multiply by forty-eight times the volume
+Multiply to make the actual volume and extract the cube root; then the circumference number appears truly
+
+Method: For the outer circumference, place the volume (certain amount), multiply by 48 to get (certain amount) as the dividend, divide by the cube root extraction method to get the circumference. If you want to reverse it, square the circumference, multiply again, and divide by 48 to see the volume.
+
+For finding diameter: Place the volume (certain amount), multiply by 6 to get a certain amount, divide by 9 to get (certain amount) as the dividend, divide by the cube root extraction method to get the diameter. If you want to reverse it, square the diameter, multiply again, multiply by 9, and divide by 16 to see the volume.
+
+When there are remainders under the circumference and diameter calculations, or when squaring and multiplying the circumference and diameter and including the remainder, divide the circumference by 48, and for diameter multiply by 9 and divide by 16 to see the volume.
+
+When asking for circumference or diameter and there are remainders with indivisible volume, follow the method for extracting cube roots with remainders.
+
+Problem: There is a volume of 63,208 cubic feet to be made into a solid circle. What is the diameter?
+
+Answer: Diameter is 48 feet
+
+Method: Place the volume, multiply by 16, then divide by 9 to get 115,592 feet as the dividend, and divide by cube root extraction method. Initial quotient 40, when squared gives 1,600, when cubed gives 64,000, subtract from dividend leaving remainder 46,592 feet. Separately, take initial quotient 40, multiply by 3 to get 120 as the square method and arrange positions. Next quotient 8 feet follows the initial quotient to get 48 feet, immediately multiply by 8 to get 384 feet as the edge method. Multiply square by edge to get 46,080.

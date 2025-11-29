@@ -1,0 +1,36 @@
+[Right page]
+　　　　　　Hishiya
+One water bucket　　　　Jirōbei
+　　　　　　Shioya (Salt shop)
+One water tub　　　　　Bunshirō
+　　　　　　Chaya (Tea house)
+　　　　　　　　Heihachirō
+　　　　　　Hachimanya
+　　　　　　　　Yagosanrō
+　　　　　　Kashiya (Confectionery shop)
+　　　　　　　　Sakuemon
+　　　　　　Same [shop type]
+　　　　　　　　Mokuzaemon
+　　　　　　Kumanoya
+　　　　　　　　Shinpōin
+　　　　　　Kashiya (Confectionery shop)
+　　　　　　　　Hyōzaemon
+[Left page]
+　　　　　　Izumiya
+　　　　　　　　Kizaemon
+　　　　　　Noriya (Seaweed shop)
+　　　　　　　　Denshirō
+　　　　　　Sumiyoshiya
+　　　　　　　　Okuemon
+　　　　　　Konya (Dye shop)
+　　　　　　　　Kanshirō
+　　　　　　Makiya (Firewood shop)
+　　　　　　　　Kanemon
+　　　　　　Uchiya (Metalwork shop)
+　　　　　　　　Kisaburō
+　　　　　　Tokiya (Clock/time shop)
+　　　　　　　　Gonshichirō
+　　　　　　Awaya (Millet shop)
+　　　　　　　　Toshidayū
+　　　　　　Kashiya (Confectionery shop)
+　　　　　　　　Shichiemon

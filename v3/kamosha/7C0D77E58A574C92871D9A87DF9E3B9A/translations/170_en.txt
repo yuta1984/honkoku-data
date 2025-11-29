@@ -1,0 +1,27 @@
+One: 500 mon　　　　　　　　　　《Yamamoto-chō》Kanpei
+　　Same as above
+One: One kan-mon, purification money　　　　　Head carpenter
+One: One kan-mon　　　　　　　　　　《Associate》Gonbei
+One: One kan-mon　　　　　　　　　　《Same》Genzō
+One: 500 mon　　　　　　　　　　《Servant》Shichisuke
+One: 500 mon　　　　　　　　　　《Same》Fujikichi
+One: One kan-mon　　　　　　　　　　《Caretaker》Kaemon
+One: 500 mon　　　　　　　　　　　　　Same person's wife
+One: 500 mon　　　　　　　　　　　　　Gorōtarō
+One: 500 mon　　　　　　　　　　《Construction associate》Gisuke
+One: One kan 500 mon　　　　　　　　《Kifune Valley》Kannosuke《Rest station fee》　
+One: One kan 500 mon　　　　　　　　《Same》Sakonnosuke《Same as above》　
+
+One: One kan 500 mon　　　　　　　　《Same》Tōbei　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Naohachirō　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Denbei　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Same person's house　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Tōbei's house《Same》
+One: One kan 500 mon　　　　　　　　《Same》Magoemon　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Asaemon　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Enmyōji Temple　　《Same》
+One: One kan 500 mon　　　　　　　　《Same》Zengorō　　《Same》
+One: 300 mon　　　　　　　　　　《Same》Kiku
+　　The above twelve entries were given as rest station fees for various officials during the main relocation ceremony
+One: Five to of rice　　　　　　　　　　Tango-no-suke Kabuaki
+　　The above is house replacement money for Osumi's relocation, as her residence was vacated for official use

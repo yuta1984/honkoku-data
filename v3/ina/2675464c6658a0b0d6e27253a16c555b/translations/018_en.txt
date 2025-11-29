@@ -1,0 +1,37 @@
+Yorozuya (General Store)
+　Kitahara Kichizaemon
+　　Currently: Umeji
+Kitaya (North Store)
+　Tanaka Yozaemon
+　　Currently: Denzaemon
+Kisoya (Kiso Store)
+　Kobayashi Tozaemon
+　　Currently: Kinzaemon
+Kisoya (Kiso Store)
+　Kobayashi Sozaemon
+　　Currently: Heishiro
+Hiranoya (Hirano Store)
+　Ikegami Chuzaemon
+　　Currently: Chuzaemon
+Tomiya (Wealth Store)
+　Hirose Takichi
+　　Currently: Jirozaemon
+Otaya (Ota Store)
+　Kurokawauchi Jinzaemon
+Kikuya (Chrysanthemum Store)
+　Ikegami Rizaemon
+
+The above persons were investigated and recorded in Bunsei 4 (1821).
+Furthermore, those currently serving (at the time of record creation) are as follows:
+Ogiya (Fan Store)
+　Komatsu Sozaemon
+Yorozuya (General Store)
+　Kitahara Rizaemon
+Kisoya (Kiso Store)
+　Kobayashi Kinzaemon
+Tomiya (Wealth Store)
+　Hirose Jirozaemon
+Izumiya (Izumi Store)
+　Sakai Seibei
+Otaya (Ota Store)
+　Kurokawauchi Jozaemon

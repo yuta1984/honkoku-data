@@ -1,0 +1,33 @@
+Receipt
+
+Item: Two soups and five side dishes, 9 bu 8 rin per person
+　　　　　　　　25 people
+　　　Silver: 24 monme 5 bu
+
+Item: One soup and three side dishes, 4 bu 8 rin per person
+　　　　　　　　100 people
+　　　Silver: 48 monme
+
+Item: One soup and two side dishes, 3 bu per person
+　　　　　　　　576 people
+　　　Silver: 172 monme 8 bu
+
+Item: One soup and one side dish, same as above
+　　　　　　　　184 people
+　　　Silver: 55 monme 2 bu
+
+Subtotal: 300 monme 5 bu silver
+
+　　　Additionally:
+
+Item: Clear soup, 17 servings
+Item: Inkstone covers, 19 pieces
+Item: Simmered dishes, 25 portions
+Item: Bowls, 34 pieces
+Item: Tofu, 17 blocks
+
+Subtotal: 1 ryō in gold
+
+Total: 6 ryō in gold and 5 bu in silver
+
+For the above amount, payment has been received and confirmed

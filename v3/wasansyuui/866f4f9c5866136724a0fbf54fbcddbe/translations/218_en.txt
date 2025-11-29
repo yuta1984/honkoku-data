@@ -1,0 +1,17 @@
+Subtract from the dividend leaving remainder 512. Separately, square the second quotient 8 feet and cube it to get 512 feet as the corner method, subtract from the dividend and it is exactly exhausted, giving the solid circle diameter that matches the problem. The circumference and diameter in this problem are like a sphere.
+
+Now there is a volume of 62,208 cubic feet to be made into a solid circle. What is the circumference?
+
+Answer: Circumference 144 feet
+
+Method: Place the volume, multiply by 48 to get 2,985,984 feet as the dividend, and divide by cube root extraction method. Initial quotient 100 feet, when squared gives 10,000, when cubed gives 1,000,000, subtract from dividend leaving remainder 1,985,984 feet. Separately, multiply initial quotient 100 by 3 to get 300 as the square method. Second quotient 40 under the initial quotient totals 140, immediately multiply by 40 to get 5,600 as the edge method, multiply square by edge to get 1,680,000, subtract from dividend leaving remainder 305,984. Separately, square the second quotient 40 to get 64,000 as the corner method, subtract from dividend leaving remainder
+
+241,984. Again multiply the combined first and second quotient 140 by 3 to get 420 as the square method. Third quotient 4 feet under the combined quotients gives a total of 144 feet, immediately multiply by 4 to get 576 as the edge method, multiply square by edge to get 241,920, subtract from dividend leaving remainder 64. Also cube the third quotient 4 feet to get 64, subtract from dividend completely, matching the problem.
+
+Generally, when asking for circumference and diameter of solid circles, if the excess number is a single digit, there may be indivisible remainders.
+
+Now there is a cubic volume of 15,625. What is one side of the cube?
+
+Answer: 25 steps
+
+Method for extracting cube roots by division: Place volume 15,625 feet as the dividend, estimate quotient 20 for the ten-thousands place and place it before the volume. Immediately place 20 in the lower right, square it to get 400 steps, correspond with the upper quotient 20, use 2×4 to subtract 80 from the dividend, leaving remainder 7,625 steps. Then multiply the lower right 400 steps by 3
