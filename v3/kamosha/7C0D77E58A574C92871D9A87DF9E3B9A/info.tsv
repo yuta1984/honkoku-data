@@ -175,8 +175,8 @@ filename	status	image
 174.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540541/R0000174/full/full/0/default.jpg
 175.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540541/R0000175/full/full/0/default.jpg
 176.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540541/R0000176/full/full/0/default.jpg
-177.txt	default	https://dl.ndl.go.jp/api/iiif/2540541/R0000177/full/full/0/default.jpg
-178.txt	default	https://dl.ndl.go.jp/api/iiif/2540541/R0000178/full/full/0/default.jpg
+177.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540541/R0000177/full/full/0/default.jpg
+178.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540541/R0000178/full/full/0/default.jpg
 179.txt	default	https://dl.ndl.go.jp/api/iiif/2540541/R0000179/full/full/0/default.jpg
 180.txt	default	https://dl.ndl.go.jp/api/iiif/2540541/R0000180/full/full/0/default.jpg
 181.txt	default	https://dl.ndl.go.jp/api/iiif/2540541/R0000181/full/full/0/default.jpg

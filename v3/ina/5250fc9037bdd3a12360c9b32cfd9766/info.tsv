@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-001.tif/full/full/0/default.jpg
+001.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-001.tif/full/full/0/default.jpg
 002.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-002.tif/full/full/0/default.jpg
 003.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-003.tif/full/full/0/default.jpg
 004.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-004.tif/full/full/0/default.jpg
@@ -24,6 +24,6 @@ filename	status	image
 023.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-023.tif/full/full/0/default.jpg
 024.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-024.tif/full/full/0/default.jpg
 025.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-025.tif/full/full/0/default.jpg
-026.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-026.tif/full/full/0/default.jpg
-027.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-027.tif/full/full/0/default.jpg
-028.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-028.tif/full/full/0/default.jpg
+026.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-026.tif/full/full/0/default.jpg
+027.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-027.tif/full/full/0/default.jpg
+028.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/ikegami/ikegami01-646-07/ikegami01-646-07-028.tif/full/full/0/default.jpg

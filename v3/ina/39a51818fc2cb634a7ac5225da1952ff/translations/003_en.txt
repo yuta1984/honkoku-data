@@ -1,33 +1,33 @@
-[Right Page]
-Long fire hook    Izumiya
-                 Kichizaemon
-Same            Fukumotoya
-                 Tarozaemon
-                Nawaya
-Water bucket    Heiemon
-                Aburaya
-                 Tōhachi
-Water storage   Azumaya
-                 Tomouemon
-Same           Yoshinoya
-                 Kiuemon
-Same           Fushino-ya
-                 Kyūuemon
+【Right page】
+　Long hook　　　Izumiya
+　　　　　　　　　Kichizenaemon
+　　Same　　　　Fukunoya (dyer)
+　　　　　　　　　Tarōzaemon　
+　　　　　　　Awaya
+　　Well bucket　　　Heiuemon
+　　　　　　　Oil shop
+　　　　　　　　　Tōhachi
+　　Water storehouse　　Atsumaya
+　　　　　　　　　Tomouemon
+　　Same　　　　Yoshinoya
+　　　　　　　　　Kiuemon
+　　Same　　　　Fujinoya
+　　　　　　　　　Kyūuemon　
 
-[Left Page]
-                Taruya
-                 Genzaemon
-Same           Yamasatoya
-                 Izaemon
-                Kyōmotoya
-                 Jingorouemon
-                Izumiya
-                 Chōbei
-Same           Nunoya
-                 Sajiuemon
-One ladder     Kagoya
-                 Kanuemon
-Same           Yunaya
-                 Chūzaemon
-One large rope  Makeshiya
-                 Magobei
+【Left page】
+　　　　　　　Taruya (barrel shop)
+　　　　　　　　　Genzaemon
+　　Same　　　　Yamazatoya
+　　　　　　　　　Izaemon
+　　　　　　　Kyōkonya (Kyoto dyer)
+　　　　　　　　　Jingorōemon
+　　　　　　　Izumiya
+　　　　　　　　　Chōbei
+　　Same　　　　Tsuchiya (hammer shop)
+　　　　　　　　　Sajiuemon
+One　Ladder　　　Momijiya (maple shop)
+　　　　　　　　　Kanuemon
+　　Same　　　　Yanaya (weir shop)
+　　　　　　　　　Chūzaemon
+One　Large rope　　　Kaneshiya (carpenter's square shop)
+　　　　　　　　　Magobei
