@@ -1,33 +1,33 @@
-【Yoshiwara Saiken should be transcribed in this manner. Those who absolutely must use column formatting should not do it here but create their own project to do so】
-【Symbols: Triangle with dot ＝ ◎ / Triangle ＝ ○ / Triangle with small circle ＝ ▲ / Mountain ＝ △ For details see frame 4】
+[Instructions for transcription of Yoshiwara guidebooks. Those who feel compelled to format in columns should create their own projects rather than doing so here.]
+[Symbols: ◎ = triangle with dot inside / ○ = triangle / ▲ = triangle with small circle inside / △ = mountain shape. Details in frame 4]
 
 #1
 Tomimatsuya Yasube
 Tsutaya Risuke
-Shimaya Seizan
-Wakamatsuya Kyushiro
-Myokaya Yahee
+Shimaya Seizō
+Wakamatsuya Kyūshirō
+Myōkaya Yahē
 
 #2
-Atsumaya Nisaburo
-Komatsuya Shosuke
-Hitachiya Ihee
-Nakano-cho Kashichiya
+Atsumeya Nisaburō
+Komatsuya Shōsuke
+Hitachiya Ihē
+Nakanochō Kashichiya
 Kashiwaya Sandai
 
-【From here, Edo-machi First District】
+[From here, Edo-machi First District]
 #3
 ―――――――――
-Left Side
+Left side
 ―――――――――
-【Shop】Tamaya Sanzaburo
+[Shop] Tamaya Sanzaburō
 ◎Miyato
 　　Hanaki
 　　Wakana
 ◎Tamagawa
 　　Someki
 　　Wakasa
-◎【Blank】
+◎[Vacant]
 ○Tachibana
 　　Utena
 ○Kasuga-no
@@ -37,23 +37,23 @@ Left Side
 　　Tomishi
 　　Wakaha
 ○Wakamatsu
-　　Kiku-no
+　　Kikuno
 ○Onoe
 　　Sekishi
 ○Matsuyama
 　　Nioi
 ○Hanakishi
-　　Kocho
+　　Kochō
 ○Kotobuki
 　　Tatsuta
 
 ○Mitsuaya
-　　Uta-no
+　　Utano
 ○Ayagoromo
 　　Utashi
 ○Wakatsuru
-　　Sakon
-○【Blank】
+　　　Sakon
+○[Vacant]
 　Ehira
 　Kiyotama
 　Someyama
@@ -63,39 +63,39 @@ Left Side
 　Tomioka
 　Matsunami
 　Makishino
-　Miyanishi
+　Miyakoshi
 　Kikusono
 　Tamazasa
 　Somekiku
 　Miyashi
-　Harukase
+　Harukaze
 　Utakiku
 　Shiraito
 　Matsunoi
 
 　Katsuyama
 　Kiyohana
-　Miyako-no
+　Miyakono
 
-　　Yarite (Manager)
+　　Yarite
 　　　Yone
 
-【Shop】◐Minoya Yajiro
-○Wakaume
+[Shop] Minoya Yasujirō
+○Wakabakai
 　　Wakaha
-○Matsukase
+○Matsukaze
 　　Matsuno
 ○Katsuyama
 　　Akeha
-○【Blank】
-○【Blank】
-○【Blank】
+○[Vacant]
+○[Vacant]
+○[Vacant]
 
 △Somekinu
 △Tokiwa-e
 △Takigawa
-△Hatsukase
-△【Blank】
+△Hatsukaze
+△[Vacant]
 　Suminoe
 　Koiyama
 　Himematsu
@@ -105,20 +105,20 @@ Left Side
 　Matsunoto
 
 　Katsunoto
-　Fujinobe
-　Yamashu
+　Fushinoe
+　Yamashū
 
-　　Yarite (Manager)
-　　　Kiyo
+　　Yarite
+　　　Kiyo (or Sayo)
 ―――――――――
 Edo-machi First District Street
 ―――――――――
-#4【Read from right to left with image reversed】
-【Shop】Matsuhaya Hanzaemon
+#4 [Read from right to left with image reversed]
+[Shop] Matsuhaya Hanzaemon
 ◎Matsushima
 　　Kanomo
 　　Konomo
-◎Hatsukase
+◎Hatsukaze
 　　Namishi
 　　Chidori
 ◎Somenosuke
@@ -128,40 +128,41 @@ Edo-machi First District Street
 　　Nioi
 　　Matsushi
 ◎Matsunoi
-　　Kocho
+　　Kochō
 　　Kureha
-◎Waka-koito
+◎Wakamurasaki
 　　Ateki
 　　Inuki
-◎Hana-murasaki
+◎Hanamurasaki
 　　Yoshino
 　　Tatsuta
 ◎Segawa
 　　Takeno
 　　Sasano
-◎【Blank】
+◎[Vacant]
 
 ○Shikisaki
 　　Akeha
 ○Utsusemi
-　　Hana-no
+　　Hanano
 ○Hatsunoto
-　　Shigemi
-○Hanakawa
-　　Mine-no
+　　Shikemi
+○Hanagawa
+　　Mineno
 ○Hatsuura
-　　Suma-no
-○【Blank】
-○【Blank】
-○Mihokase
+　　Sumano
+○[Vacant]
+○[Vacant]
+○Mihokaze
 　Ukikumo
-　Harukase
+　Harukaze
 　Hanasato
 　Toyoshima
 　Ukihashi
-　Katasono
+　Utasono
 　Takigawa
 　Matsuyama
+　Hatsukiku
 　Tamagawa
 　Matsui
 　Hatsuse
@@ -182,16 +183,16 @@ Edo-machi First District Street
 　Karaito
 　Wakamatsu
 
-　　Yarite (Manager)
-　　　Masa
+　　Yarite
+　　　　Masa
 
-【Shop】Hitai Iseya Jinemon
+[Shop] Gaku Iseya Jinemon
 ○Hatsuito
-　　Mina-no
-　　Haru-no
-○Haruka-no
+　　Minano
+　　Haruno
+○Harukano
 　　Tatsumi
-　　Mokochi
+　　Momiji
 ○Kinzan
 　　Kichishi
 　　Kinshi
@@ -201,36 +202,36 @@ Edo-machi First District Street
 　　Waeshi
 ○Kotoura
 　　Noshito
-○【Blank】
+○[Vacant]
 
 △Hatsuhana
 △Ayagoromo
 △Hanasode
 △Hatsushio
-△Shimo-no-machi
-△Wakaume
+△Shimotsuke
+△Wakabaikai
 △Miosaki
 △Hatsusato
-△Hanaame
-△【Blank】
+△Hanabaikai
+△[Vacant]
 
-　Kasan
+　Kazan
 　Yaekiku
-　Mura-aoi
-　Kono-ito
-　Ni-no-ura
-　Yae-ume
+　Muaaoi
+　Konoito
+　Ninoura
+　Yaeume
 　Toyoyama
 　Harusono
 　Takeshino
-　Susuki
+　Tsusuki
 　Harunami
 　Hanatsuru
-　Maki-ito
+　Makiito
 　Hanashi
 
-　　Yarite (Manager)
-　　　Saka
+　　Yarite
+　　　　Saka
 ―――――――――
-Right Side
+Right side
 ―――――――――

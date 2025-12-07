@@ -1,5 +1,4 @@
 【Right Page】
 su
 
-【Left Page】
-(Blank)
+【Left Page】Blank

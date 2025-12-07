@@ -1,0 +1,25 @@
+One: Small bamboo grove, 3 cho 2 tan　　　　　　　1 location
+　　　　　　　　　　　　　　　Fukuchi Village
+One: Pine protected forest, 2 cho 2 tan 3 se 10 bu　4 locations
+　　Bamboo grove, 1 se 20 bu　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Hizan Village
+　　Pine protected forest, 2 cho 6 tan 8 se 9 bu　6 locations
+One: Mixed-tree protected forest, 12 cho 6 tan 5 se　3 locations
+　　Bamboo grove, 7 se 15 bu　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Okubo Village
+One: Pine protected forest, 2 tan　　　　　　　　　1 location
+　　Small bamboo grove, 3 se 10 bu　　　　　　　1 location
+　　　　　　　　　　　　　　　Suganuma Village
+【Left page】
+　　Pine protected forest, 2 tan　　　　　　　　　1 location
+One: Mixed-tree protected forest, 10 cho　　　　　1 location
+　　Bamboo grove, 1 cho　　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Nakasokura Village
+One: Pine protected forest, 38 cho 6 tan　　　　　2 locations
+　　Bamboo grove, 24 bu　　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Takami Village
+One: Pine protected forest, 2 cho 9 tan 1 se 20 bu　4 locations
+　　Bamboo grove, 14 bu　　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Honsokura Village
+One: Pine protected forest, 2 tan　　　　　　　　　1 location
+　　Bamboo grove, 28 bu　　　　　　　　　　　　1 location

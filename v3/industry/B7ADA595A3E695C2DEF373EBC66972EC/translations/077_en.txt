@@ -1,0 +1,28 @@
+[Right Page]
+Day 3  4:30 PM    East wind    Temperature 57.5°    Humidity 3°3'    Clear    Weight: 5 kan 496 monme
+       10:30 AM   Same direction Temperature 68.5°    Same humidity    Same weather    Weight: 2 kan 748 monme
+       4:00 PM    Same direction Temperature 71.5°    Same humidity    Same weather    Weight: 3 kan 930.8 monme
+       7:30 PM    Same direction Temperature 64°       Same humidity    Same weather    Weight: 4 kan 671.8 monme
+
+Day 4  4:30 PM    Same direction Temperature 59.5°    Humidity 3°3'    Same weather    Weight: 5 kan 221.2 monme (From this day, using pressed-cut mulberry)
+       12:00 PM   Same direction Temperature 68.5°    Same humidity    Cloudy          Weight: 4 kan 418 monme (Turning over the silkworms)
+       4:00 PM    Same direction Temperature 66.5°    Humidity 3°2'    Rain            Weight: 2 kan 166.4 monme
+       9:00 PM    Same direction Temperature 64.5°    Same humidity    Same weather    Weight: 4 kan 418 monme
+
+Day 5  4:00 PM    West wind     Temperature 66°       Same humidity    Cloudy          Weight: 6 kan 94.2 monme (Using branch mulberry, daytime turning)
+       11:30 AM   South wind    Temperature 71.5°    Humidity 2°2'    Same weather    Weight: 6 kan 166.4 monme
+
+[Left Page]
+       4:30 PM    Light south   Temperature 73°       Humidity 2°      Same weather    Weight: 6 kan 870 monme (Give thinly)
+       8:00 PM    Same direction Temperature 70°       Humidity 2°3'    Same weather    Weight: 7 kan 335.6 monme (Steam occurred, opened room's shoji)
+
+Day 6  4:30 PM    East wind     Temperature 69.5°    Same humidity    Light rain      Weight: 8 kan 360 monme
+       12:00 PM   Same direction Temperature 67.5°    Humidity 2°2'    Same weather    Weight: 5 kan 496 monme
+       7:30 PM    Same direction Temperature 67°       Same humidity    Same weather    Weight: 12 kan 366 monme
+
+Day 7  4:00 PM    Same direction Temperature 65.5°    Humidity 2°3'    Cloudy (rain stops) Weight: 9 kan 618 monme
+       12:00 PM   Same direction Temperature 69°       Humidity 3°      Same weather    Weight: 5 kan 496 monme
+       7:00 PM    Same direction Temperature 64°       Same humidity    Light rain      Weight: 11 kan 633.2 monme
+
+Day 8  4:00 PM    Same direction Temperature 62°       Same humidity    Same weather    Weight: 13 kan 282 monme
+       1:00 PM    South wind    Temperature 65.5°    Humidity 3°2'    Cloudy          Weight: 6 kan 870 monme

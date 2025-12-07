@@ -1,0 +1,25 @@
+Kasahara Village
+One: Pine protected forest, 7 cho 8 tan 9 se 10 bu　　　1 location
+　　　　　　　　　　　　　　　Kawate Village
+One: Bamboo grove, 24 bu　　　　　　　　　　　　　　2 locations
+　　　　　　　　　　　　　　　East Inabu Village
+One: Mixed-tree protected forest, 2 tan 5 se 20 bu　　　2 locations
+　　　　　　　　　　　　　　　West Inabu Village
+One: Pine protected forest, 1 cho 4 tan 1 se 10 bu　　　6 locations
+　 Bamboo grove, 22 bu　　　　　　　　　　　　　　　2 locations
+　　　　　　　　　　　　　　　Misono Village
+One: Pine and mixed-tree protected forest, 5 tan 9 se　　2 locations
+　　　　　　　　　　　　　　　Yamadera Village
+【Left page】
+　 Pine protected forest, 1 cho　　　　　　　　　　　　2 locations
+One: Mixed-tree protected forest, 1 tan 3 se 10 bu　　　2 locations
+Total: Protected forests, 21 cho 4 tan 3 se 10 bu　　　　17 locations
+　 Bamboo groves, 2 se 10 bu　　　　　　　　　　　　　5 locations
+　　　　Haruchika County Protected Forests
+　　　　　　　　　　　　　　　Nakakoshi Village
+One: Mixed-tree protected forest, 2 cho 6 se 20 bu　　　1 location
+　　　　　　　　　　　　　　　Omoki Village
+One: Pine and mixed-tree protected forest, 8 se 20 bu　　1 location
+　　　　　　　　　　　　　　　Suwagata Village
+One: Pine protected forest, 3 cho 2 tan　　　　　　　　1 location
+　 Bamboo grove　　　　　　　　　　　　　　　　　　　1 location

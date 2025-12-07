@@ -1,21 +1,20 @@
 【Right Page】
-　　Remainder after deduction:
+　　Remainder
 　　　3,000 units for foreign export
 National total is as follows:
 　　Total
 　　　6,600 units
-　　　　Of which:
-　　　　　1,600 units (for textiles in Kiryu and Ashikaga)
-　　　　　　Value: 480,000 yen (1 unit = 9 kan, price = 300 yen)
+　　　　Breakdown:
+　　　　　1,600 units (for textiles of Kiryū and Ashikaga)
+　　　　　　Value: 480,000 yen (1 unit = 9 kan, price 300 yen)
 　　　　　5,000 units for foreign export
-　　　　　　Value: 1,750,000 yen (1 unit = 10 kan, price = 350 yen)
-
+　　　　　　Value: 1,750,000 yen (1 unit = 10 kan, price 350 yen)
 【Left Page】
 　　Total value
 　　　2,230,000 yen
 　In addition to the above:
-　　Noshi silk thread┐
-　　　　　　　　　├Value: 334,500 yen
+　　Noshi-ito (floss silk)┐
+　　　　　├Value: 334,500 yen
 　　Large cocoons┘
 
 　Grand total

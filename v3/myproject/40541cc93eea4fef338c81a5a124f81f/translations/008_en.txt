@@ -1,0 +1,37 @@
+Guide　　　　　　　　　　　　　4
+
+【Right Page】
+　Tei　Teika text　　　Written by Fujiwara no Teika　　　　　　　　　Collection of Mr. Hosaka Junji
+　Rei　　　　　　　Attributed to Reizei Tamesuke　　　　　　　Collection of Mr. Oshima Masataro
+　Tomi　　　　　　　Attributed to Fujiwara no Tamie　　　　　　　Collection of Mr. Tomita Sen'suke
+　Ao　　　　　　　Attributed to Fujiwara no Tamie　　　　　　　Collection of Mr. Oshima Masataro (Seikei Shoya)
+　Kei　　　　　　　Attributed to Nijo Tameuji　　　　　　　Collection of Mr. Oshima Masataro (Seikei Shoya)
+　Shun　　　　　　　Attributed to Fujiwara no Shunzei　　　　　　　Collection of Mr. Miyazaki Hanbei
+　Ka　　　　　　　Attributed to Nijo Tameuji (former Kajii-no-miya collection)　　Momozono Library collection
+　Mae　　　　　　　Attributed to Tsumori Kunifuyu and Jikan　　　　Collection of Marquis Maeda family
+　Sei　　　　　　　Attributed to Fujiwara no Tamie　　　　　　　Seikado Library collection
+Beppons (Alternative Texts)
+　Yo　Yomei family text　　Attributed to Emperor Go-Toba and Emperor Go-Fukakusa | Attributed to Go-Kyogoku Yoshitsune and others　　Collection of Marquis Konoe family
+　Ho　Hosaka text　　　Attributed to Fujiwara no Tamie and others　　　　Collection of Mr. Hosaka Junji
+　Kuni　Kunifuyu text　　　Attributed to Tsumori Kunifuyu and others　　　　Momozono Library collection
+　Mugi　Mugio text　　　Written by Mugio Kanetsuna　　　　　　　　Momozono Library collection
+　A　Arimo text　　　Scribe unknown (former Arimo Shrine collection)　　　Momozono Library collection
+　Ii　　　　　　　Scribe unknown　　　　　　　　　Collection of Mr. Iijima Harukei
+　Uji　　　　　　　Attributed to Nijo Tameuji　　　　　　　Collection of Mr. Oshima Masataro
+　Ai　　　　　　　Attributed to Reizei Tamesuke　　　　　　　Seikado Library collection
+　Saka　　　　　　　Attributed to Nijo Tameuji　　　　　　　Collection of Mr. Hosaka Junji
+【Left Page】
+　San　　　　　　　Attributed to Nijoin Sanuki　　　　　　　Collection of Mr. Nanami Hyokichi
+　Cho　　　　　　　Attributed to Reizei Tamesuke　　　　　　　Collection of Mr. Haseba Junkei
+　Gen　　　　　　　Yamashina Tokitsune's autograph annotations　　　　Collection of Marquis Maeda family
+　Dai　　　　　　　Attributed to Saigyo　　　　　　　　　Collection of Mr. Oshima Masataro
+　Nishi　　　　　　　Attributed to Saigyo　　　　　　　　　Seikado Library collection
+　Momo　　　　　　　Scribe unknown　　　　　　　　　Momozono Library collection
+　Zu　　　　　　　Attributed to Nijo Tamesada　　　　　　　Imperial Library of the Ministry of the Imperial Household
+
+　The various texts adopted for the textual variants of this book were subjected to repeated investigations to eliminate errors, but due to the circumstances of the owners, some had to be examined in extremely short periods of time without opportunity for re-examination. Examples of this include the Yokoyama text among the Aobyoshi texts and the Hosaka text among the alternative texts. Furthermore, for the convenience of manuscript preparation, texts discovered after 1938 were omitted.
+
+　　　　　　　　　　　　Base Text
+　In selecting the base text from among the aforementioned texts for marking textual variants, after rigorous scholarly examination, we decided to use Fujiwara no Teika's Aobyoshi text for this purpose. For the three chapters Hana-chiru-sato, Kashiwagi, and Sawarabi, we used the extant Teika text. For the other chapters, we used the Oshima text, which is considered to most faithfully preserve the form of the Teika text among the existing texts. However, for the chapters Kiritsubo and Yume-no-ukihashi, the Oshima text is a supplementary copy; for Hatsune, the Oshima text belongs to the alternative text lineage; and for Ukifune, the Oshima text lacks this chapter. Therefore, for these chapters, we used the Ikeda text, which holds the position next to the Oshima text.
+
+Guide　　　　　　　　　　　　　5

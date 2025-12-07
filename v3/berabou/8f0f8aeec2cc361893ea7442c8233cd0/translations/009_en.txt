@@ -1,301 +1,305 @@
 #1 [Below the street]
-[Shop] │◐Manjiya Kiga
-○Tsumagoto (Wife's Koto)
-　　Kiku no
-　　Hana no
-○Sonokiku (Garden Chrysanthemum)
-　　Sono wo
-　　Matsu no
-○Koiyama (Love Mountain)
-　　Take no
-○Hanamurasaki (Flower Purple)
+[Shop] Manjiya Kika
+○Tsumagoto
+　　Kikuno
+　　Hanano
+○Sonokiku
+　　Sonoo
+　　Matsuno
+○Koiyama
+　　Takeno
+○Hanamurasaki
 　　Yukari
 　　Midori
-《Side note: This one》
-△Hana no ka (Flower Fragrance)
-　　Tokagi
-△Ikutoshi (How Many Years)
-　　Futaha
-△Tamakazura (Jeweled Vine)
+○[Vacant]
+《Note: This}}
+△Hanaka
+　　Togaki (or Toriki, Toraki)
+△Ikutoshi
+　　Futaba
+△Tamakazura
 　　Matsushi
-△Utagawa (Song River)
+△Utagawa
 　　Konomo
 
-△Tsumaura (Wife's Bay)
+△Tsumaura
 　　Kanomo
-△Matsuyama (Pine Mountain)
+△Matsuyama
 　　Senkichi
-△Kōhai (High Cup)
+△Kōbai
 　　Sayū
-△Wakamurasaki (Young Purple)
-△Hanatsuru (Flower Crane)
-△[Blank]
-△[Blank]
-　Somekinu (Dyed Silk)
-　Kikusato (Chrysanthemum Village)
-　Shikasaki (Deer Cape)
-　Wakamurasaki (Young Purple)
-　Hana no mi (Flower Fruit)
+△Wakamurasaki
+△Hanatsuru
+△[Vacant]
+△[Vacant]
+　Somekinu
+　Kikusato
+　Shikasaki
+　Wakamurasaki
+　Hananomi
 
-　Umekae (Plum Fragrance)
-　Kotonoha (Words)
-　Urakiku (Bay Chrysanthemum)
-　Hashidate (Bridge Stand)
-　Shibafune (Grass Boat)
-　Nishiki no
-　Yūgiri (Evening Mist)
-　Takeshino (Bamboo Field)
+　Umekae
+　Kotonoha
+　Urakiku
+　Hashidate
+　Shibafune
+　Nishikino
+　Yūgiri
+　Takeshino
 
-　　Yarite (madam)
+　　Yarite
 　　　Saki
 
-[Shop] Matsukanaya Bunuemon
-◎Takamato (High Target)
+[Shop] Matsukaneya Bunemon
+◎Takamato
 　　Nishiki
 　　Momiji
-◎[Blank]
-《Side note: From here, first rank》
-○Sometsuru (Dyed Crane)
-　　Kashiku
+◎[Vacant]
+《Note: From here, one rank}}
+○Sometsuru
+　　Kashiku?
 　　Senshi
-○Kotoori (Koto Weaving)
+○Kotoori
 　　Wakaki
 　　Wakaha
-○Somekinu (Dyed Silk)
+○Somekinu
 　　Konomo
 　　Kanomo
-○Wakatsuru (Young Crane)
+○Wakatsuru
 　　Tatsuta
 　　Kasen
-○[Blank]
-○[Blank]
-○[Blank]
+○[Vacant]
+○[Vacant]
+○[Vacant]
 
-《Side note: From here》
-△Someyama (Dye Mountain)
+《Note: From here}}
+△Someyama
 　　Akeha
-△Kotonoha (Words)
+△Kotonoha
 　　Kotoha
-△Shinomaki (Bamboo Grass Roll)
-　　Take no
-△Hōuta (Fragrant Song)
+△Shinomaki
+　　Takeno
+△Hōuta
 　　Yoshiya
-△Ono-machi (Ono Town)
-　　Hama no
-△Minato (Harbor)
+△Onomachi
+　　Hamano
+△Minato
 　　Koyoshi
-△Shikanami (Deer Wave)
-　　Kichiso
-△Hanatori (Flower Bird)
+△Shikanami
+　　Kichiso?
+△Hanatori
 　　Kosen
-《Side note: From here, first rank rotation》
-　Tsuyamaki (Glossy Roll)
-　Yoshimaki (Good Roll)
-　Takato (High Door)
-　Taka no i (High Well)
-　Matsu no i (Pine Well)
-　Matsushima (Waiting Island)
-　Chiyomaki (Thousand Generation Roll)
-　Sonomaki (Garden Roll)
-　Utamaki (Song Roll)
-　Himemaki (Princess Roll)
-《Side note: From here, two shu》
-　Hanamachi (Flower Town)
-　Takamatsu (High Pine)
-　Ōfusaki (Great Cape)
+《Note: From here, one rank rotation}}
+　Tsuyamaki
+　Yoshimaki
+　Takato?
+　Takanoi
+　Matsui
+　Matsushima
+　Chiyomaki
+　Sonomaki
+　Utamaki
+　Himemaki
+《Note: From here, two shu}}
+　Hanamachi
+　Takamatsu
+　Fusaki
 
-　Ayakoromo (Patterned Robe)
-　Shikaoka (Deer Hill)
-　Somegawa (Dye River)
-　Somegishi (Dye Shore)
-　Fumimaki (Letter Roll)
-　Utamachi (Song Town)
-　Mitsuyama (Three Mountains)
-　Some no i (Dye Well)
-　Chiyotsuru (Thousand Generation Crane)
-　Yoshisato (Good Village)
-　Mitsuhama (Three Beaches)
-　Kamekiku (Turtle Chrysanthemum)
+　Ayakoromo
+　Shikaoka
+　Somegawa
+　Somegishi
+　Fumimaki
+　Utamachi
+　Mitsuyama
+　Somei
+　Chiyotsuru
+　Yoshisato
+　Mitsuhama
+　Kamekiku
 
 　　　Tokiwazu
-Jōruri　　Matsuji
+Jōruri　　Matsugu
 Nagauta　　Raku
-　Also performs other pieces
+　Also perform outside
 
-　　Yarite (madam)
+　　Yarite
 　　　Kura
 
 ―――――――――
-[The road crossing the center is Edo-chō 1st district street]
+[The road crossing the center is Edo-machi First District Street]
 ―――――――――
 
-#2 [Above the street, from right when image is rotated]
-[Shop] │◐Maruya Kon
-○Makiyama (Roll Mountain)
+#2 [Above the street, read from right with image rotated]
+[Shop] Maruya Kon
+○Makiyama
 　　Shinobu
 　　Momishi
-○Somekinu (Dyed Silk)
-　　Uraha
-○Hayama (Leaf Mountain)
+○Somekinu
+　　Ura?ha?
+○Hayama
 　　Daikichi
-○Karaaya (Chinese Twill)
+○Karaaya
 　　Kareha
-○Kotoura (Koto Bay)
-　　Ume no
-《Side note: From here》
-△Chiyotsuru (Thousand Generation Crane)
-△Himetsuru (Princess Crane)
+○Kotoura
+　　Umeno
+《Note: From here}}
+△Chiyotsuru
+△Himetsuru
 
-△Matsukae (Pine Fragrance)
-△Toyama (Outer Mountain)
-△Takigawa (Waterfall River)
-△Onoe (Ridge)
-△Makisumi (Roll Sumi)
-△Yamaji (Mountain Path)
-△Ni no ura (Second Bay)
-△Ayakoromo (Patterned Robe)
-△Kahayo (Poem Night)
-△Sumakiku (Sumi Chrysanthemum)
+△Matsukae
+△Toyama
+△Takigawa
+△Onoe?
+△Makisumi
+△Yamaji
+△Ninoura
+△Ayakoromo
+△Kahayo
+△Sumakiku
 
-△Kametsuru (Turtle Crane)
-△Someōgi (Dyed Fan)
-△Chiyo□ (Thousand Generation □)
+△Kametsuru
+△Someōgi
+△Chiyo□ [Unconfirmed in other sources]
+　[Vacant]
 　Katsuragi
-　Hanamachi (Flower Town)
-　Sakuragi (Cherry Tree)
-　Michisato (Path Village)
-　Kiku no i (Chrysanthemum Well)
-　Chiyokiku (Thousand Generation Chrysanthemum)
-　Shigeyama (Luxuriant Mountain)
+　Hanamachi
+　Sakuragi
+　Michisato
+　Kikunoi
+　Chiyokiku
+　Shigeyama
 
-　　Yarite (madam)
-　　　Kura
+　　　Yarite
+　　　　Kura
 
-[Shop] ◐Iseya Genuemon
+[Shop] Iseya Genemon
 ○Yamashina
 　　Kochō
-○Yoshisato (Good Village)
+○Kichisa?to
 　　Chōji
-○Katsuyama (Victory Mountain)
+○Katsuyama
 　　Nishiki
-○Sanshū (Three Provinces)
+○Sanshū
 　　Nioi
-○Kagetsu (Flower Moon)
-　　Matsu no
-○Kinzan (Gold Mountain)
+○Kagetsu
+　　Matsuno
+○Kinzan
 　　Wakaha
 
-△Kamekiku (Turtle Chrysanthemum)
-△Kichō (Butterfly)
-△Tomiyama (Wealth Mountain)
-△Tama no i (Jewel Well)
-△Someōgi (Dyed Fan)
+△Kamekiku
+△Kitchō
+△Tomiyama
+△Tachibana (or Tochihana)
+△Tamanoi
+△Someōgi
 
-Toyosato (Abundant Village)
-Yamatoshi (Yamato Year)
-Hanatori (Flower Bird)
-Senzan (Thousand Mountains)
-Nurekinu (Wet Silk)
-Kikusato (Chrysanthemum Village)
-Yamaji (Mountain Path)
+Toyosato
+Yamatoshi
+Hanatori
+Senyama
+Nurekinu
+Kikusato
+Yamachi
 
-　Yarite (madam)
+　Yarite
 　　　Sayo
 
-[Shop] │◐Musashiya Tauemon
-○Tokoyo (Eternal World)
+[Shop] Musashiya Taemon
+○Tokoyo
 　　Komatsu
-　　Matsune
-○[Blank]
-《Side note: From here》
-○Wakakusa (Young Grass)
+　　Matsune (or Matsuyo, Matsuko)
+○[Vacant]
+《Note: Reko}}
+○Wakakusa
 　　Wakaki
-○Hatsuse (First Rapids)
+○Hatsuse
 　　Yoshiya
-○Onoe (Ridge)
+○Onoe
 　　Kochō
-○Hatsune (First Sound)
+○Hatsune
 
-○Utayama (Song Mountain)
-○Tamasato (Jewel Village)
-△[Blank]
-△Wakano (Young Field)
-△Wakasato (Young Village)
-△Hana no to (Flower Door)
-△Hana no i (Flower Well)
-△■kinu (■ Silk)
-△Shiraito (White Thread)
+○Utayama
+○Tama?sato (or Tanisato)
+△[Vacant]
+△Wakano
+△Wakasato
+△Hananoto
+△Hananoi
+△Tama?kinu
+△Shiraito
 
-△Wakatsuru (Young Crane)
-△Toyomachi (Abundant Town)
-△[Blank]
+△Wakatsuru
+△Toyomachi
+△[Vacant]
 
-　Mifune (Three Boats)
-　Hatsuhana (First Flower)
-　Mimemachi (Beautiful Woman Town)
-　Wakanami (Young Wave)
-　Hatsushio (First Tide)
-　Yaemachi (Eight-fold Town)
-　Wakamatsu (Young Pine)
-　Chitose (Thousand Years)
-　Kikue (Chrysanthemum Branch)
-　Wakakura (Young Storehouse)
-　Toyama (Outer Mountain)
+　Mifune
+　Hatsuhana
+　Umemachi
+　Wakanami
+　Hatsushio
+　Yaemachi
+　Wakamatsu? (or Wakaruri)
+　Chitose
+　Kikue (Kikumoto?)
+　Wakakura
+　Toyama
 
-　Nagakata (Long Form)
-　Keishi (Courtesan)
-　Senri (Thousand Ri)
-　Also performs
-　elsewhere
+　Nagauta
+　　Keishi
+　　Senri
+　Also perform
+　outside
 
-　　Yarite (madam)
+　　Yarite
 　　　Tsuya
 
-[Shop] │◐Tamaya Yahachi
-○Shiratama (White Jewel)
+[Shop] Tamaya Yahachi
+○Shiratama
 　　Kikushi
 　　Tsubomi
-○Ōsato (Great Village)
-　　Iso no
+○Ō?fusato
+　　Isono
 　　Yasotori
-《Side note: From here》
-○Tomoe (Swirl)
-　　Kisoji
-○Tonami (Outer Wave)
+《Note: From here}}
+○Tomoe
+　　Kisoshi
+○Tonami
 　　Shinobu
-○Narae (Learning)
+○Namie
 　　Namishi
-○Enishi (Fate)
-　　Shige no
-○Hanasome (Flower Dye)
-　　Kashiku
-○Kisaragi (Second Month)
-　　Haru no
+○Enishi
+　　Shigeno
+○Hanasome
+　　Ka?shi?ku?
+○Kisaragi
+　　Haruno
 
-○[Blank]
-○[Blank]
-△Nishikigi (Brocade Tree)
+○[Vacant]
+○[Vacant]
+△Nishikigi
 　　Sekiya
-△Mitsusato (Three Villages)
+△Mitsusato (Shitsusato?)
 　　Midori
-△Hanasaki (Flower Bloom)
-△Matsunami (Pine Wave)
-△Ayame (Iris)
-△Mitsuhama (Three Beaches)
-△Toyosumi (Abundant Sumi)
+△Hanasaki
+△Matsunami
+△Ayame
+△Mitsuhama
+△Toyosumi
 
-△Naoe (Direct Bay)
-△Utakiku (Song Chrysanthemum)
-△[Blank]
-　Hanagishi (Flower Shore)
-　Kahayo (Poem Night)
-　Kayoiji (Commuting Path)
-　Ikusato (Many Villages)
-　Utasato (Song Village)
-　Matsu no e (Pine Bay)
-　Shirakiku (White Chrysanthemum)
-　Mitsuyama (Three Mountains)
-　Hayama (Leaf Mountain)
+△Na?oe
+△Utakiku
+△[Vacant]
+　Hanagishi
+　Kahayo
+　Kayoichi
+　Ikusato
+　Utasato
+　Matsunoe
+　Tamakiku
+　Shiragiku
+　Mitsuyama
+　Hayama
 
-　　Yarite (madam)
+　　Yarite
 　　　Shige

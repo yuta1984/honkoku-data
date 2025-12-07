@@ -1,0 +1,25 @@
+Haba Village
+One: Pine protected forest, 1 cho 2 tan　　　　　　　　1 location
+　　　　　　　　　　　　　　　Miyasho Village
+One: Bamboo grove, 4 tan 5 se　　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Shinmachi Village
+One: Mixed-tree protected forest, 3 cho 5 tan　　　　　1 location
+　　　　　　　　　　　　　　　Kita-Ōide Village
+　Pine protected forest, 7 tan 6 se 20 bu　　　　　　2 locations
+One: Mixed-tree protected forest, 4 tan　　　　　　　　2 locations
+　Bamboo grove, 1 se 14 bu　　　　　　　　　　　　　1 location
+　Protected mountains　　　　　　　　　　　　　　　　12 locations
+　　　　Sen【crossed out】
+【Left page】
+　Protected mountains　　　　　　　　　　　　　　　　12 locations
+Total: Protected forests, 19 cho 3 se　　　　　　　　14 locations
+　Bamboo groves, 4 tan 7 se 8 bu　　　　　　　　　　3 locations
+　　　　Seba County Protected Forests
+　　　　　　　　　　　　　　　Hon-Seba Village
+One: Bamboo grove, 4 tan 6 se 20 bu　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Komi Village
+One: Bamboo grove, 21 bu　　　　　　　　　　　　　　1 location
+Total: Bamboo groves, 4 tan 7 se 11 bu　　　　　　　2 locations
+Grand Total of Protected Forests in the Domain
+One: Protected forests, 270 cho 5 se 7 bu
+One: Bamboo groves, 3 cho 9 tan 6 se 15 bu

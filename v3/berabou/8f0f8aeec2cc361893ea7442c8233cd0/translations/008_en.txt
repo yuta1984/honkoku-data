@@ -1,46 +1,47 @@
 #1 [Below the street]
-[Shop] Ōgiya Uemon
-Call service
-◎Hanaōgi (Flower Fan)
+[Shop] Ōgiya Uemon [Same as Ōgiya Sumikawa, the kyōka poet Munakami Takami]
+Yobidashi
+◎Hanasue [This oiran was very famous]
 　　Yoshino
 　　Yayoi
-◎Ureshino (Happy Field)
-　　Ume no
-　　Take no
-◎Karaito (Chinese Thread)
-　　Kagewo
+◎Ureshi-no
+　　Umeno
+　　Takeno
+◎Karaito
+　　Kakeo
 　　Kochō
-◎Katarai (Conversation)
-　　Mori no
+◎Katarai
+　　Morino
 　　Yamashi
-◎Nanakoshi (Seven Crossings)
-　　Mine no
+◎Nanakoshi
+　　Mineno
 　　Takane
-◎Takigawa (Waterfall River)
+◎Takigawa
 　　Onami
 　　Menami
-◎Takahata (High Loom)
+◎Takahata
 　　Ayaha
 　　Kureha
-◎[Blank]
-◎[Blank]
+◎[Vacant]
+◎[Vacant]
 
-○Nihonmachi
+○Niomachi
 ○Hanamachi
-○Haru no no
+○Haruno
 ○Koito
 ○Chitose
 ○Karakoromo
 ○Karasaki
 ○Chiyotaki
 　　Namishi
-○Katakiku
-　　Kiku no
-○[Blank]
-○[Blank]
-　Hana no i
+○Utakiku
+　　Kikuno
+○[Vacant]
+○[Vacant]
+　Hana-no-i
 　Kikugawa
 　Isanami
+　Matsunoto
 　Hanasato
 　Konosato
 　Kisegawa
@@ -52,7 +53,7 @@ Call service
 　Hanasumi
 　Ayakinu
 　Minagawa
-　Utahashi
+　Utabashi
 　Fujinami
 　Kiyoura
 　Wakaura
@@ -63,18 +64,21 @@ Call service
 　Hatsuito
 　Kiyotaki
 
-　　Yarite (madam)
+　　Yarite
 　　　Hatsu
 
-[Shop] ◐Umebachiya Kane
+[Shop] Umebachiya Kane
 ○Minato
 　　Daikichi
 ○Harukaze
 　　Chidori
+○Naniwa-e
+　　Hatsushi
 ○Miyako
 　　Wakaha
 ○Toyoura
 　　Haruka
+○Rinzan
 ○Makitsune
 ○Yūgiri
 
@@ -84,37 +88,37 @@ Call service
 
 　Yaeume
 　Hatsuume
-　Azuma
+　Atsuma
 　Wakana
 　Toyama
 　Ihosaki
 
 　Mimuro
 
-　　Yarite (madam)
+　　Yarite
 　　　Ichi
 
-[Shop] │◐Manjiya Sasuke
+[Shop] Manjiya Sasuke
 ○Wakakusa
 　　Wakaha
 ○Manshū
 　　Kashiku
 ○Ōshū
-　　Miho no
+　　Mihono
 ○Utena
-　　Uta no
-○[Blank]
-《Side note: This one》
+　　Utano
+○[Vacant]
+《Note: This}}
 △Toyoyama
 △Kashiwagi
 △Mitsuura
 
 △Yoshino
-△Uta no suke
+△Utanosuke
 △Onoe
 △Usumurasaki
 △Matsuura
-△[Blank]
+△[Vacant]
 　Kuwasan
 　Misao
 　Matsushima
@@ -127,40 +131,40 @@ Call service
 　Someyo
 　Tonase
 　Sanshū
-　Hana no to
+　Hananoto
 　Toyotsuru
 　Oritsuru
 　Wakatsuru
 
-　　　Yarite (madam)
+　　　Yarite
 　　　　Sute
 
 ―――――――――
-[The road crossing the middle is Edo-chō 1st district street]
+[The road crossing the middle would be "Edo-machi First District Street" as continuation of the previous frame]
 ―――――――――
 
-#3 [Above the street, read from right by rotating the image]
-[Shop] │◐Takeya Sano
+#3 [Above the street, read from right to left with image rotated]
+[Shop] Takeya Sano
 ○Toyosumi
 　　Wakaha
-○Koshikifu
-　　Hana no
+○Koshikibu
+　　Hanano
 ○Wakatsuru
 　　Wakaki
 ○Tamatsuru
-　　Utasa
-《Side note: This one》
+　　Utasa (or Utaki)
+《Note: This}}
 △Chiyokinu
 △Hanamachi
 △Sonokiku
 △Ayame
-△Some no i
+△Somei
 
-△Kinsan
+△Kinzan
 △Matsuyama
 △Toyoura
-△[Blank]
-
+△[Vacant]
+　[Vacant]
 　Hatsuito
 　Tamagawa
 　Konoharu
@@ -170,9 +174,9 @@ Call service
 
 　Tamashiba
 　Iyotsuru
-　Kokonohe
+　Kokonoe
 
-　　Yarite (madam)
+　　Yarite
 　　　Kin
 
 [Shop] Manjiya Hanshirō
@@ -180,25 +184,30 @@ Call service
 　　Kotoha
 　　Kochō
 ○Kichijūrō
-　　Kakaraha
-　　Utataki
+　　Ka?ra?ha
+　　U?taki
+○Minagawa
+　　Kikuchi
 ○Hashidate
-　　Hagi no
+　　Hagino
 ○Hatsuhana
 ○Kiyotaki
-
-○Kasan
+○Kazan
 ○Tokoyo
 ○Shigeura
+△[Vacant]
 △Karauta
 △Michishiba
 △Michinoku
 △Kiyohashi
 △Kiyotaki
 
-○Sono ume
-○Tsumanami
+○Sonoume
+○Tsunanami
 ○Hanamurasaki
 △Hanasono
 △Kichinoe
 △Kikugawa
+
+　　Yarite
+　　　Masa

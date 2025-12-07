@@ -1,0 +1,25 @@
+Nakajo Village
+One: Pine and mixed-tree protected forest, 3 tan　　　　1 location
+　　　　　　　　　　　　　　　Kurita Village
+One: Pine protected forest, 4 tan 6 se 20 bu　　　　　1 location
+　　　　　　　　　　　　　　　Naka Village
+One: Pine and mixed-tree protected forest, 1 cho 5 tan 8 se 10 bu　5 locations
+　　　　　　　　　　　　　　　Aramachi Village
+One: Pine protected forest, 6 se　　　　　　　　　　　1 location
+　　Mixed-tree protected forest, 2 tan 1 se 10 bu　　1 location
+　　　　　　　　　　　　　　　Mido-kaigai Village
+One: Mixed-tree protected forest, 2 tan 1 se 20 bu　　1 location
+　　　　　　　　　　　　　　　Katakura Village
+【Left page】
+One: Mixed-tree protected forest, 1 se 18 bu　　　　　1 location
+Protected forests total: 7 cho 9 tan 24 bu　　　　　25 locations
+　　　　Nakazawa-go Domain Forest
+　　　　　　　　　　　　　　　Kuribayashi Village
+One: Bamboo grove, 1 se 6 bu　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Shioda Village
+One: Pine protected forest, 1 cho 3 tan 3 se 10 bu　1 location
+　　Bamboo grove, 1 se 17 bu　　　　　　　　　　　1 location
+　　　　　　　　　　　　　　　Ina Village
+One: Bamboo grove, 1 se 17 bu　　　　　　　　　　　2 locations
+　　　　　　　　　　　　　　　Kainuma Village
+One: Pine protected forest, 4 cho 6 tan 2 se 20 bu　9 locations
