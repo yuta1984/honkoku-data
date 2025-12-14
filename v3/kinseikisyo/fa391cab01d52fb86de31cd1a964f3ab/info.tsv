@@ -1,6 +1,6 @@
 filename	status	image
 001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0000.tif/full/full/0/default.jpg
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0001.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0001.tif/full/full/0/default.jpg
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0002.tif/full/full/0/default.jpg
 004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0003.tif/full/full/0/default.jpg
 005.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100096781/v4/0219/0219-0219005/0219-0219005-0004.tif/full/full/0/default.jpg

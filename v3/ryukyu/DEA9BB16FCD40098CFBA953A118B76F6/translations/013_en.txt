@@ -1,0 +1,73 @@
+Kawachi Province
+
+Ishikawa District
+Nishikibu District  
+Tannan District
+Sayama
+Furuichi District
+Tannan
+Yakami District
+Anjuku District
+Shiki District
+Tanboku District
+Okake District
+Shibukawa District
+Takayasu District
+Wakae District
+Kawachi District
+Mameda District
+Sanra District
+
+Ishikawa District
+Yoshitoshi, Yamai, Nanbi, Ryusen, Joruri-ji Temple, Go-Murakami, Kanko, Sabi, Kiriyama, Arafuka, Nikawara, Higashiitamochi, Kankoji Temple, Yamanakada, Ishikawa, Minami-otomo, Kita-otomo, Tomita Village, Ketanidani, Ichizuka, Higashiyama, Arata Shinden, Nakano, Kami-taishi
+
+Chigusamine, Chihaya, Shudoji-do, Honmito-zan, Kusunoki Masashige's Tomb, Kobuki, Nakatsuhara, Kongo-zan, Akiu-dani, Kawabe, Higashizaka, Yoshitoshi, Mizukoshi Pass, Takeminakata Shrine, Akasaka, Yamai, Shimo-kawachi, Minakami, Joruri-ji Temple, Kami-kawachi, Kaeriyama, Moriya, Hata, Hirokawa, Nakamura, Kiriyama, Hirokawa-ji Temple, Umatani, Kamiyama, Shinogamine, Mochino Saigyo Tomb, Izumii, Kankoji Temple, Hiraishi, Minami-kanau, Shiraki, Ishikawa, Kita-kanau, Terada, Betsui, Yamashiro, Takeuchi Pass, Kidoyama, Minamihata, Ogazuka, Ichizuka, Suiko, Ishikawa, Higashiyama, Yomei, Hamuro, Kami-taishi, Uguisu Pass, Yamada, Gokeyama, Bidatsu, Kotoku, Kasuga
+
+Nishikibu District
+Toujindani, Kuju Pass, Takihata, Ogiyama, Hino, Amanoyama, Katazoe, Kotaki, Karakawa, Amano, Ganyu-zan, Kagata, Takamuko, Shimosato, Amano, Kongo-zan, Koshio, Ueda, Emperor Chuai, Uehara, Amanogawa, Shimono, Kitamura, Sosaku, Nagano, No, Koyamada, Furuno, Nishidai, Koyama, Mukono, Ishizaka, Tagawa, Nishikibu, Yotsuri-kusu, Shinya, Iwamuro, Minami-mukoda, Mukoda
+
+Amami, Ryudani, Toujindani, Kami-iwase, Shimizu, Osawa Pass, Getsurinji Temple, Shimo-iwase, Katazoe, Ishimigawa, Sekibutsu, Shimmachi, Oi, Onijumi, Kagata, Hatohara, Jigen, Mikkaichi, Koshio, Kobuka, Jitsue Tomb, Kusunoki Head Tomb, Ueda, Kanshinji Temple, Nishikibu District, Kitamura, Kawaiji Temple, Nagano, Yorokobi, Furuno, Yokoyama, Mukono, Fushimi, Nishikibu, Kanata, Shinya, Niniwa, Minami-mukoda, Itamochi, Mukoda
+
+Furuichi District
+Tomita-bayashi, Furuichi District, Sakamon-hara, Rikou Shrine, Nishi-ura, Ishikawa, Shinden, Seinei, Nishi-sakata, Habikino, Ankan, Higashi-sakata, Hirose, Karuke, Kurauchi, Hachiman, Furuichi, Konda, Ojin
+
+Yao District
+Omike, Aikawa, Komachi, Higashi-hotei, Nishi-hotei, Yao District, Ishihara, Nodoo, Konda, Nagasone, Kawai, Nakamura, Fukumachi, Kurodo, Minami-hanada, Nojiri
+
+Tannan District
+Nasaraki, Imaguma, Handa, Iwaya, Yamamoto, Ono, Ikejiri, Yo, Minami-noda, Takamatsu, Nishino, Iwamuro, Kita-noda, Tanaka, Kusao, Kurosen, Minami-amabe, Seki, Tanboku, Ninken, Hara, Kita-amabe, Oi, Tannan, Shinpukuji Temple, Ueda, Hajiyama, Takami
+
+Tsutsumigami, Sayamaike, Teda, Shimmachi, Ikejiri, Sayama, Kohirao, Higashino, Minami-noda, Daiji, Sugao, Iwamuro, Kita-noda, Hirao, Oho, Kurosen, Kawaharajojo, Tajii, Tanboku, Ninken, Korido, Oi, Imai, Nonoue, Kashiyama, Iga, Tanjo, Tannan, Fujiideradera, Nangu, Ichimura, Shinpukuji Temple, Nonaka, Oka, Minami-shimizu, Kitagu, Oke, Ueda, Yuryaku, Mukono, Nishikawa, Hajiyama, Takami
+
+Shiki District
+Hayashi, Koyama, Furumuro, Tasawa, Domyoji Temple, Kokufu, Hojo, Inko, Oi, Funahashi, Numa, Tennojiya, Kashiwara, Shiki District, Nishi-yuge, Tainaka, Rohara
+
+Tanboku District
+Saraya, Oka, Shimaizumi, Shindo, Tai, Shimizu, Wakabayashi, Ogawa, Ichiya, Aho, Mukai, Saraike, Takagi, Tsudo, Ohori, Miyake, Hori, Nishi-gado, Ikeuchi, Kamikami, Yamatogawa, Sumido, Kareki, Shinya, Kawabe, Nagahara, Uriware, Yatabe, Tanboku District, Akasaka, Yoshimiya, Deto
+
+Shibukawa District
+Kamei, Takefuchi, Oichini, Nagase-gawa, Uematsu, Shibukawa, Kyuhoji Temple, Ohasu, Kurazukuri, Kamei, Kanaoka, Shinya, Shogakuji Temple, Shijo, Shibukawa District, Yoshimatsu, Kashida, Kinusuri, Inui, Orochi, Yasui, Jagusa, Iga-ima, Chaya, Yokonuma, Arakawa, Mitsu, Kishidado, Nishi-ashidai, Higashi-ashidai
+
+Wakae District
+Yuge, Nakada, Kozuka, Yaoki, Gyobu, Kosakaai, Atobe, Imai, Anada, Shonai, Sado, Nagahara, Tomoi, Yao, Omido, Akasaka, Sugafuri, Ko-wakae, Shinkida, Nishi-gun, Kosaka, Mitariya, Takaida, Wakae, Houmochi, Hishiya, Nishi-tsutsumi, Yokomakura, Iwata, Shinden, Kawamata, Kashiwa, Morigawachi, Aramoto, Osada, Inata, Tamai, Shinden, Wakae District, Hishie, Honjo, Yamatogawa Ato, Nakano, Minowa, Konoike, Hishiya, Inaba, Shinjo, Mishima, Hashimoto, Kawata, Tokuanngawa, Kano
+
+Mameda District
+Imazu, Hamatsutsumi, Hama, Mameda District, Tokuan, Seki, Morofuku, Yasuda, Yakeno, Baba, Akai, Shinden, Shimomura, Saoshima, Jikata, Hashiba, Hino, Goryo, Mabushigawa, Mishima, Hiragi, Oeda, Doi, Kishiwata, Ie, Kitashima, Ichiban Shimomura, Yonban, Moriguchi, Sumoto, Joshoji Temple, Uchikoshi, Niban, Sanban, Imafushi, Noguchi, Kaji, Nanaiban, Hachiban, Shimoshima, Torikashira, Imaso, Fuchida, Furuhashi, Rokuban, Kanda, Higashi, Okubo, Niban, Goban, Takayanagi, Kita, Katsuraha, Kurohara, Ichiban, Tenjin, Sata, Tsushimayu, Ninnaji Temple, Tai, Gun, Ikeda, Tenno, Mitsui, Ishizu, Taima, Nakane, Hirasawa, Kiya, Hashiriai, Deguchi, Miho Shrine, Ori, Ikaga, Ikeda, Makikata
+
+Katano District
+Iwafunamine, Uchiyama, Uchiage, Ishi, Otani, Toda, Kameyama Mausoleum, Toyou, Neya, Shishikutsu-ji Temple, Myoken-zan, Morimura, Bohji, Hoshida, Teramura, Kamiyama, Otomeyama, Kasuga, Kiribe, Sonendera Temple, Genji Falls, Tokudani, Sugi, Kuraji, Tsuta, Katano-gawa, Nomura, Gunmon, Nasuzukuri, Shakunji Temple, Kunimiyama, Kisaichi, Murano, Takakeyama, Tamiya, Fuchisaka, Ochaya, Nakamiya, Niozuka, Tanokuchi, Kaida, Kinno, Katahoko, Nagisa, Amanogawa, Katano District, Arasakamine, Isoshiki, Shinden, Shimoshima, Kogura, Nagao, Shotei-furuki, Yabu, Kamishima, Horagamine, Moriyama, Kanagawa, Funahashi, Tatsuta, Kanahashi
+
+Sanra District
+Nakagakiuchi, Minami-shinden, Terayama, Mitsutsu, Sanra District, Ryuma, Nozaki, Kado, Takebusamine, Tahara, Hojo, Sanga, Iimori-yama, Toriya, Fukano, Minami, Seitakimine, Takaminami-mura, Uma, Kita-shinden, Kuninaka Shrine, Nakamura, Shitomi, Horidzuke, Okase, Sunamura, Shoji, Honda, Takakan, Tai, Taitai, Hirachi, Kunimatsu
+
+Kawachi District
+Rokumanji Temple, Kiregawa, Ikeshima, Kuragari Pass, Yokoboshi, Shijo, Izumoi, Toge, Toyoura, Hashirimizu, Washioyama, Nukada, Hozo Shinke, Kawachi District, Kusaka Pass, Maki, Kusaka, Kaminami, Sashi, Fuichi
+
+Takayasu District
+Amaterasu Omikami Takakura, Kurodani, Kakida, Gungawa, Hatorigawa, Takayasu-yama, Yamahata, Kyoukoji Temple, Jusan Pass, Takayasu-sato, Senke, Okubo, Hanaokayama, Mizukoshi, Manganji Temple, Takayasu District, Koino, Kandachi, Nakamura, Fuchi, Rakuonji Temple
+
+Okake District
+Aodani, Takaida, Yukawada, Kamese Pass, Hozan, Hirano, Ichimura, Kodatakobata, Jinguji Temple, Daihei-ji Temple, Okake District, Yoneyama, Honjo, Okake, Ando, Hozenji Temple, Nimaki
+
+Anjuku District
+Asuka Shrine, Kokubungawa, Enmei, Hikimine, Tamate, Anjuku District, Kokubu, Tamateyama, Katayama

@@ -1,55 +1,134 @@
-【Lower Street】
-【Shop】Kashiwaya Jiuemon
+[Right page, continuation of Kadomachi Street?]
+[Below the street] #1
+[Shop] Kashiwaya Jiemon
+○Tamashii
+　　Kureha
+　　Ageha
+○Tachibana
+　　Mikano
+　　Someshi
+○Kamekiku
+　　Miyashi
+○[Vacant]
+《Note: From here》
+△Hana-aya
+　　Haruno
+△Katsuragi
+　　Tomishi
+△Kikusono
 
-【Shop】Tawaraya Chuuemon
+△Hanatsuru
+△Hanamachi
+△Hanasaki
+　Kichijūrō
+　Somekinu
+　Someyama
+　Wakakusa
+　Asazuma
+　Fushinoto
+　Atsumaya
 
-【Shop】Ebiya Jinbei
+　Shiinoto
+　Koikinu
+　Kametsuru
 
-【Shop】Matsubaya Hanzou
 
-【Upper Street】
-【Shop】Wakamatsuya Toujirou
+　　Yarite
+　　　San
 
-【Shop】Hanabishi-ya Jinshirou
-
-【Shop】Ooebi-ya Riuemon
-《Small print: Call-out》
-◎Ehiro
+[Shop] Tawaraya Chūemon
+○Kinzan (or Renzan, Kichizan)
+　　Fushimi
+　　Tamashi (or Hirashi)
+○Misao
+　　Kashiku
+　　Daikichi
+○Sazanka
+　　Kichishi
+　　Utashi
+○Shiratama
+　　Nishiki
+　　Momiji
+○Suminoe
 　　Wakaha
-《Small print: Call-out》
+　　Kareha
+○Yamashiro
+　　Kinshi
+○Yamashii
+　　Uta[unclear]
+
+《Note: From here》
+△Kichō
+　　Hideshi
+△Hanatsutsu
+△Egawa
+△Mihosaki
+△Onoe
+△Yashio
+△Naniwachi
+△Toyotsu
+△Harunono
+△Kazeyono
+
+△Hatsufune
+△Toyoshino
+△Kameyama
+△Hanachō
+△Yamasono
+△《Note: Yamano-i・Yoshimaki》
+△《Note: Kasen・Hanakai》
+△《Note: Kagetsu・Minoura》
+△《Note: Michishio・Shiraume》
+　Shirakiku
+　Hananobe
+　　　Yarite
+　　　　Kiyo
+―――――――
+[If the right page street continues from the previous frame, it should be Kadomachi Street... but Kyōmachi Street is written at Ōebiya...]
+―――――――
+
+[From here, above the street] #2
+―――――――
+Kyōmachi 1-chōme, right side
+―――――――
+[Shop] Ōebiya Riemon
+《Note: Call-out courtesan》
+◎Ebisu
+　　Wakaha
+　　Wakagi
+《Note: Call-out courtesan》
 ◎Tamakiku
 　　Shinobu
 　　Shige
 ○Someyama
 　　Sumano
 　　Akashi
-○Tamagatsura
+○Tamakatsura
 　　Namino
 　　Chidori
 ○Tokonatsu
 　　Tayori
-○Enochou
+○Enonchō
 　　Sakon
-○【Blank】
-○【Blank】
-○【Blank】
+○[Vacant]
+○[Vacant]
+○[Vacant]
 
-◦Enokiku
+△Enokiku
 　　Koyoi
-◦Ma□□yama
+△Kinzan (or Renzan)
 　　Akeha
-◦Sometsuru
+△Sometsuru
 　　Umeno
-◦Tamaginu
-　　Uraha?
-◦【Blank】
-◦Utatsuru
-◦Enomaki
-◦Enosumi
-◦Fukasono
-◦Eno■
-◦Tamakise
-◦Some■
+△Tamakinu
+　　Uraha
+△[Vacant]
+△《Note: Utatsuru・Enomaki》
+△《Note: Enosumi・Somesono》
+△Enokinu
+△Honma
+△《Note: Tamaise・Somekinu》
+　Tamaoka
 　Enoaya
 　Enoshiba
 　Tamanoi
@@ -59,4 +138,195 @@
 　Somenoi
 
 　　Yarite
-　　　　ri?n
+　　　Rin
+
+
+[Left page, Kyōmachi 1-chōme Street from here]
+[Below the street] #3
+[Shop] Ebiya Jinbei [This shop's content completely differs from other sources]
+○Hatsusaki
+　　Kinshi
+○Suminoe
+　　Midori
+○Sumagoromo
+　　Kochō
+○Kasaori
+　　Takeno
+○Matsukaze
+　　Yukari
+○Wakakusa
+　　Gorō
+○Egawa
+　　Sasano
+○Nenone
+　　Namishi
+○Hanaōgi
+　　Kiyosa
+
+○Takiya (possibly Takiyama)
+　　Akeha
+○Komurasaki
+　　Onami
+○[Vacant]
+△Fushinami
+△Onomatsu
+△Matsushima
+△Hatsukaze
+△Yoshisato
+△Kachō
+△Wakamatsu
+
+　Toyosato
+　Tsumaki
+　Kasan
+　Hanatsuru
+　Tamura
+　Sumaura
+　Kōhai
+　Hatsuura
+　Matsui
+　Kikusono
+
+　　　Yarite
+　　　　Hatsu
+
+[Shop] Matsuhaya Hanzō
+○Hatsuito
+　　Namishi
+○Matsuyama
+　　Matsushi
+○Karakinu
+　　Kureha
+○Someyama
+　　Shiiki
+○Tomioka
+　　Midori
+○[Vacant]
+○[Vacant]
+△Utaura
+
+△Tomiyama
+△Matsunoka
+△Yashima
+△Kiyosumi
+△Somenoi
+△Hanaoka
+△[Vacant]
+△[Vacant]
+　Hatsunami
+　Toyosan
+　Tokiwagi
+　Hanakinu
+
+　Matsumura
+　Hatsusato
+　Tamakoto
+　Miyakoi
+　Karaito
+―――――――
+Kyōmachi 1-chōme Street
+―――――――
+[Above the street] #4
+[Shop] Wakamutsuya Tōjirō
+○Ayakinu
+　　Chidori
+○Kasurino
+　　Miyoshino
+○Kikunoi
+　　Umeno
+○Esugi
+　　Iyosa
+○Atsumaya
+　　Kashiku
+○Toyosumi
+　　Kenshi
+○Ōmiji
+　　Momiji
+○Kokonoe
+　　Hanshi
+《Note: From here》
+△Umetsuru
+　　Kachō
+
+△Shunyama
+　　Kōshi
+△Takamato
+　　Yoshiya
+△Wakoku
+　　Akashi
+△Yoshino
+　　Soteshi
+△Arihara
+△Washū
+△Inesato
+△Wakaura [Other sources: "Wakaura"]
+△Ayatsuru
+　Tsumaki
+　Ōsaki
+　Koitsumi
+　Kayōji
+　Tsunami
+　Tomikawa
+
+　Hatsuume
+　Shiogoromo
+　Teika
+　Michinoku
+　Kumeoka
+　Sakuragi
+　Yoshisato
+　Aisato
+　Sanka
+　Umekae
+　Toyosan
+　Michishii
+　Chōyama
+　Takeu
+　Shikasaki
+　Ayame
+　Kyōyama
+　Katsuragi
+　　　Geisha
+　Seat fee: 100 hiki
+　　　　Tsurumo
+　　　　Karumo
+　　Yarite　Hatsu
+
+[Shop] Hanabishiya Jinshirō
+○Naniwae
+　　Namishi
+　　Kichishi
+○[Vacant]
+《Note: From here》
+○Momonoi
+　　Isame
+○Kashiwate
+　　Umeno
+○Ihohata
+　　Iyono
+○Shigetsuru
+　　Kikushi
+
+○Fushikiku
+○Takamatsu
+△Somekiku
+△Yaeume
+△Sayokinu
+△Naokinu
+△Konoito
+△Harusono
+△Naotake
+
+　Sayokaze
+　Utsuno (or Katsuno)
+　Ihosaki
+　Naihe
+　Umenoi
+　Namikiku
+　Karaito
+　Wakatake
+　Kikusato
+　Isawa
+
+　　　Yarite
+　　　　Haru

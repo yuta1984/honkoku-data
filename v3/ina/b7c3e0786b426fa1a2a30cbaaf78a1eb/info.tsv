@@ -2,12 +2,12 @@ filename	status	image
 001.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-001.tif/full/full/0/default.jpg
 002.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-002.tif/full/full/0/default.jpg
 003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-003.tif/full/full/0/default.jpg
-004.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-004.tif/full/full/0/default.jpg
-005.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-005.tif/full/full/0/default.jpg
-006.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-006.tif/full/full/0/default.jpg
-007.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-007.tif/full/full/0/default.jpg
-008.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-008.tif/full/full/0/default.jpg
-009.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-009.tif/full/full/0/default.jpg
+004.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-004.tif/full/full/0/default.jpg
+005.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-005.tif/full/full/0/default.jpg
+006.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-006.tif/full/full/0/default.jpg
+007.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-007.tif/full/full/0/default.jpg
+008.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-008.tif/full/full/0/default.jpg
+009.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-009.tif/full/full/0/default.jpg
 010.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-010.tif/full/full/0/default.jpg
 011.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-011.tif/full/full/0/default.jpg
 012.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-012.tif/full/full/0/default.jpg
@@ -15,5 +15,5 @@ filename	status	image
 014.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-014.tif/full/full/0/default.jpg
 015.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-015.tif/full/full/0/default.jpg
 016.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-016.tif/full/full/0/default.jpg
-017.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-017.tif/full/full/0/default.jpg
+017.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-017.tif/full/full/0/default.jpg
 018.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/kitaharaheizo/kitaharaheizo01-286-01/kitaharaheizo01-286-01-018.tif/full/full/0/default.jpg

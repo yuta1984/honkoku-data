@@ -1,13 +1,14 @@
 【Right Page】Blank
 
 【Left Page】
-Date　　　　Time　　Wind Direction・Position　　Thermometer　　Atmospheric Pressure　　Weather　　Feed Amount
-March 14　　6 o'clock　Southwest light wind　　57 degrees　　29 sun 3 bu 2 rin　　Cloudy
-　15th　　　Same time　East wind　　　　　　　63 degrees　　Same　　　　　　　Same　　　Eggs began to turn blue during last night
-　16th　　　Same time　Southeast wind　　　　61 degrees　　Same 2 bu 2 rin　　Same　　　Since eggs turned fully blue during last night, wrapped silkworm papers and placed on silkworm baskets
-　17th　　　10 o'clock　East wind　　　　　　60 degrees　　Same 3 bu 4 rin　　Light rain　5-6 newly hatched silkworms emerged
-　18th　　　Same time　Same direction　　　　55 degrees　　Same 3 bu　　　　Rain　　　Since they gradually emerged, first sweeping
-　19th　　　2 o'clock　Same direction　　　　56 degrees　　Same　　　　　　Same　　　Second sweeping
-　20th　　　Same time　West wind　　　　　Same　　　　　Same 3 bu 4 rin　　Rain stopped, slightly clear　Third sweeping
-　21st　　　10 o'clock　Same direction　　　54 degrees　　Same 3 bu　　　　Clear　　　Fourth sweeping
-　22nd　　　3 o'clock　South wind　　　　　58.5 degrees　Same　　　　　　Slightly cloudy　Fifth sweeping, weight 5 monme 1 bu 7 rin 8 mō 8 fun, swept with 2.5 baskets, gave 31 monme of mulberry leaves
+Date　　　　Time　　Wind Direction/Force & Position　Thermometer　Atmospheric Pressure　Weather　Food Amount
+
+March 14th　6 o'clock　Southwest light wind　57 degrees　29 sun 3 bu 2 rin　Cloudy
+　　15th　　Same time　East wind　　　　　　63 degrees　Same pressure　　　　Same weather　Eggs began to turn blue during last night
+　　16th　　Same time　Southeast wind　　　　61 degrees　Same 2 bu 2 rin　　　Same weather　Since eggs turned fully blue during last night, placed one package of silkworm paper on top of silkworm basket
+　　17th　　10 o'clock　East wind　　　　　　60 degrees　Same 3 bu 4 rin　　　Light rain　　5-6 newly hatched silkworms emerged
+　　18th　　Same time　Same direction　　　　55 degrees　Same 3 bu　　　　　Rain　　　　Since they are gradually hatching, performed first collection
+　　19th　　2 o'clock　Same direction　　　　56 degrees　Same pressure　　　　Same weather　Second collection
+　　20th　　Same time　West wind　　　　　　Same temp.　Same 3 bu 4 rin　　　Rain stopped, slightly clear　Third collection
+　　21st　　10 o'clock　Same direction　　　　54 degrees　Same 3 bu　　　　　Clear　　　　Fourth collection
+　　22nd　　3 o'clock　South wind　　　　　58.5 degrees　Same pressure　　　　Slightly cloudy　Fifth collection, hanging weight 5 monme 1 bu 7 rin 8 mō 8 fun, 2.5 baskets per collection, gave 31 monme of mulberry leaves

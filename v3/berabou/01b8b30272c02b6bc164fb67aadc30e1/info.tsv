@@ -1,12 +1,12 @@
 filename	status	image
 001.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370001.tif/full/full/0/default.jpg
-002.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370002.tif/full/full/0/default.jpg
-003.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370003.tif/full/full/0/default.jpg
+002.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370002.tif/full/full/0/default.jpg
+003.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370003.tif/full/full/0/default.jpg
 004.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370004.tif/full/full/0/default.jpg
 005.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370005.tif/full/full/0/default.jpg
 006.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370006.tif/full/full/0/default.jpg
-007.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370007.tif/full/full/0/default.jpg
-008.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370008.tif/full/full/0/default.jpg
+007.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370007.tif/full/full/0/default.jpg
+008.txt	initiated	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370008.tif/full/full/0/default.jpg
 009.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370009.tif/full/full/0/default.jpg
 010.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370010.tif/full/full/0/default.jpg
 011.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370011.tif/full/full/0/default.jpg
@@ -15,4 +15,4 @@ filename	status	image
 014.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370014.tif/full/full/0/default.jpg
 015.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370015.tif/full/full/0/default.jpg
 016.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370016.tif/full/full/0/default.jpg
-017.txt	default	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370017.tif/full/full/0/default.jpg
+017.txt	completed	https://iiif.dl.itc.u-tokyo.ac.jp/iiif/katei/1137/11370017.tif/full/full/0/default.jpg

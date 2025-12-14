@@ -1,21 +1,22 @@
-[Right page]
-　　　　7 o'clock, South, 61 degrees, humidity 3.2, cloudy: 9 kan 801 monme 2 bu
-9th day: 4 o'clock, East, 59 degrees, same, same: 8 kan 15 monme
-　　　　1 o'clock, same, 66 degrees, humidity 2.3, partly sunny: 9 kan 160 monme
-　　　　7 o'clock, South, 66.5 degrees, same, same: 9 kan 801 monme 2 bu
-10th day: 4 o'clock, East, 60 degrees, humidity 3.2, same: 8 kan 976 monme 8 bu
-　　　　1 o'clock, same, 69 degrees, same, sunny: 6 kan 870 monme
-　　　　3:30, same, 70 degrees, humidity 2.2, same: 6 kan 961 monme 6 bu (using cut mulberry leaves as silkworms begin spinning)
-　　　　7 o'clock, same, 69 degrees, same, same: 4 kan 213 monme 6 bu
-11th day: 5 o'clock, South, 65 degrees, humidity 2.2, cloudy: 5 kan 496 monme
-　　　　3 o'clock, same, 67 degrees, same, same: 2 kan 290 monme
-[Left page]
-　　　　6:30, same, 67 degrees, humidity 2.1, cloudy: 1 kan 969 monme 6 bu
-12th day: 5 o'clock, same, 65.5 degrees, humidity 1.2, same, rain: 1 kan 557 monme 2 bu
-　　　　4 o'clock, South, 68 degrees, same, same: 137 monme 4 bu
-13th day: 5 o'clock, same, 67 degrees, same, sunny: All mounting completed
-　　　　　　　Total: 215 kan 5 monme　　　　　72 bundles and 1/7
-　　　　Grand total: 353 kan 383 monme 5 bu
-　　　　　　　　　This bundle amount equals
-　　　　　　　　　　　20 horse loads plus remainder 4
-　　　　Cocoons: 35,734 pieces
+【Right Page】
+　　　　7:00　South wind　61 degrees　Same 3 bu 2 rin　Cloudy　9 kan 801 monme 2 bu
+9th day　4:00　East wind　59 degrees　Same pressure　Same weather　8 kan 15 monme
+　　　　1:00　Same direction　66 degrees　Same 2 bu 3 rin　Somewhat clear　9 kan 160 monme
+　　　　7:00　South wind　66.5 degrees　Same pressure　Same weather　9 kan 801 monme 2 bu
+10th day　4:00　East wind　60 degrees　Same 3 bu 2 rin　Same weather　8 kan 976 monme 8 bu
+　　　　1:00　Same direction　69 degrees　Same pressure　Clear　6 kan 870 monme
+　　　　3:30　Same direction　70 degrees　Same 2 bu 2 rin　Same weather　6 kan 961 monme 6 bu (Using cut mulberry for the beginning of silkworm feeding)
+　　　　7:00　Same direction　69 degrees　Same pressure　Same weather　4 kan 213 monme 6 bu
+11th day　5:00　South wind　65 degrees　Same 2 bu 2 rin　Cloudy　5 kan 496 monme
+　　　　3:00　Same direction　67 degrees　Same pressure　Same weather　2 kan 290 monme
+【Left Page】
+　　　　6:30　Same direction　67 degrees　Same 2 bu 1 rin　Cloudy　1 kan 969 monme 6 bu
+12th day　5:00　Same direction　65.5 degrees　Same 1 bu 2 rin　Same weather　Rain　1 kan 557 monme 2 bu
+　　　　4:00　South wind　68 degrees　Same pressure　Same weather　137 monme 4 bu
+13th day　5:00　Same direction　67 degrees　Same pressure　Clear　All silkworms finished molting
+　　　　　　　215 kan 5 monme　　　　　72 bundles 7 bu 1 rin
+　　　　Grand total　353 kan 383 monme 5 bu
+　　　　　　　　　This bundle count
+　　　　　　　　　　　20 horse loads plus 4 bu remainder
+
+　　　　Cocoons　35,734 pieces

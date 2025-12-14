@@ -1,251 +1,250 @@
-#1 [Continuation of Edo-chō 2nd district]
+#1 [Continuation of Edo-machi 2nd District]
 [Shop] Minatoya Hanshichi
-○Kokonoe (Nine-fold)
+○Kokonoe
 　　Utaki
-○Minatsuru (Beautiful Crane)
-　　Matsu no
-○[Blank]
-○[Blank]
+○Minatsuru
+　　Matsuno
+○[Vacant]
+○[Vacant]
 
-△Shigeyama (Luxuriant Mountain)
-△Nishikigi (Brocade Tree)
-△Kasumi no (Mist)
-△[Blank]
-　Ōsato (Cherry Village)
-　Michinoku (Northern Province)
-　Kiyohana (Pure Flower)
-　Hatsuume (First Plum)
-　Hatsuura (First Bay)
+△Shigeyama
+△Nishikigi
+△Kasugano
+△[Vacant]
+　Ōsato
+　Michinoku
+　Kiyohana
+　Hatsuume
+　Hatsuura
 
-　Sayokinu (Night Silk)
-　Toyoura (Abundant Bay)
-　Miyoshi (Beautiful Good)
-　Ni no ura (Second Bay)
+　Sayokinu
+　Toyoura
+　Miyoshi
+　Ninoura
 
-　　Yarite (madam)
+　　Yarite
 　　　Yoshi
 
-[From here begins Kadomachi Street]
+[From here, Kadomachi Street]
 #2 [Below the street]
-―――――――――
+―――――――
 Left side
-―――――――――
+―――――――
 [Shop] Kanaya Kō
-○Kaoru (Fragrance)
-　　Tomi no
+○Kaoru
+　　Tomino
 　　Hanashi
-○Takahana (High Flower)
-　　Kiyo no
+○Takahana
+　　Kiyono
 　　Kiyomi
-○Ayakiku (Twill Chrysanthemum)
-　　Iso no
+○Ayakiku
+　　Isono
 　　Haruka
-○Eguchi (River Mouth)
-　　Take no
+○Eguchi
+　　Takeno
 　　Takeshi
-○[Blank]
+○[Vacant]
 
-△Konoaya (This Twill)
+△Konoaya
 　　Toyochi
-△Nanakinu (Seven Silks)
-　　Hagi no
-△Hanasono (Flower Garden)
+△Nanakinu
+　　Hagino
+△Hanasono
 　　Manshi
-△Nanakiku (Seven Chrysanthemums)
-　　Sode no
+△Nanakiku
+　　Soteno
+　[Vacant]
+　Enoura
+　Haruhino
+　Toyama
+　Mitsutake
+　Ihosasa
 
-　Enoura (Picture Bay)
-　Harubi no (Spring Sun)
-　Toyama (Outer Mountain)
-　Mitsutake (Light Bamboo)
-　Ihosashi (Hut Point)
+　Ekawa
+　Enishi
+　Ukihashi
+　Kikusono
+　Ayasato
+　Hatsuse
+　Momonoi
+　Sonoume
 
-　Egawa (Picture River)
-　Enishi (Fate)
-　Ukihashi (Floating Bridge)
-　Kikusono (Chrysanthemum Garden)
-　Ayasato (Twill Village)
-　Hatsuse (First Rapids)
-　Momo no i (Peach Well)
-　Sonoume (Garden Plum)
-
-　　Yarite (madam)
+　　Yarite
 　　　Masa
 
 [Shop] Shin-Katsusaya Riemon
-○Sumaura (Suma Bay)
-　　Shizu
-○Suma no to (Suma Door)
+○Sumaura
+　　Shisu
+○Sumanoto
 　　Utaki
-○Karauta (Chinese Song)
+○Karauta
 　　Daikichi
-○Kayo (Fragrant Generation)
+○Kaoyo
 　　Kōji
 
-○Kototsuru (Koto Crane)
+○Kototsuru
 　　Sekiya
-　Sumakishi (Suma Shore)
-　Sumakiku (Suma Chrysanthemum)
-　Kametsuru (Turtle Crane)
-　Seki no he (Barrier Edge)
-　Utagawa (Song River)
-　Katsu no he (Victory Edge)
-　Kotoura (Koto Bay)
+　Sumakishi
+　Sumakiku
+　Kametsuru
+　Sekinohe
+　Utagawa
+　Katsunohe
+　Kotoura
 
-　Sakuragi (Cherry Tree)
-　Sumi no he (Ink Edge)
-　Chiyotsuru (Thousand Generation Crane)
-　Makishige (Roll Luxuriance)
+　Sakuragi
+　Suminohe
+　Chiyotsuru
+　Makishige
 
-　　Yarite (madam)
+　　Yarite
 　　　Tsuma
 
-[Shop] │◐Kiriya Seigorō
-○Kiyohashi (Pure Bridge)
+[Shop] │Kiriya Seigorō
+○Kiyohashi
 　　Kichishi
-○[Blank]
-○Toyomachi (Abundant Town)
-○Tokiwagi (Evergreen Tree)
-○Ayakinu (Twill Silk)
-○Hanakiri (Flower Paulownia)
-○Mitsuhama (Light Beach)
-○Kikusono (Chrysanthemum Garden)
+○[Vacant]
+○Toyomachi
+○Tokiwagi
+○Ayakinu
+○Hanakiri
+○Mitsuhama
+○Kikusono
 
-○[Blank]
-○[Blank]
-　Matsu no ha (Pine Needle)
-　Sakuragi (Cherry Tree)
-　Chiyotsuru (Thousand Generation Crane)
-　Sumi no e (Ink Bay)
-　Kyōki (Capital Tree)
-　Yoshikiku (Good Chrysanthemum)
-　Hanasono (Flower Garden)
+○[Vacant]
+○[Vacant]
+　Matsunoha
+　Sakuragi
+　Chiyotsuru
+　Suminoe
+　Kyōki
+　Yoshikiku
+　Hanasono
 
-　　Yarite (madam)
+　　Yarite
 　　　Rin
 
-―――――――――
+―――――――
 Kadomachi Street
-―――――――――
+―――――――
 
 #3 [Above the street]
 
-[Shop] ◐Ōmanjiya Kahē
-○Chiyohana (Thousand Generation Flower)
-　　Na■shi
-○Hanakiku (Flower Chrysanthemum)
+[Shop] Ōmanjiya Kahee
+○Chiyohana
+　　Naoshi
+○Hanakiku
 　　Matsushi
-○Kotoura (Koto Bay)
-　　Koto no
-○Matsuura (Pine Bay)
+○Kotoura
+　　Kotono
+○Matsuura
 　　Uraka
-○Onoume (Small Field Plum)
-　　■meishi
-○Atsumashi (Gathering)
+○Onoume
+　　Umeshi
+○Atsumashi
 　　Midori
-○[Blank]
+○[Vacant]
 
-△Toyosan (Abundant Mountain)
-△Shizuka (Quiet)
-△Ukigumo (Floating Cloud)
-△Sensato (Thousand Villages)
-△Somekinu (Dyed Silk)
-△Wakaito (Young Thread)
-　Toyosato (Abundant Village)
-　Chitose (Thousand Years)
-　Utasono (Song Garden)
-　Isa
+△Toyosan
+△Shitsuka
+△Ukikumo
+△Sensato
+△Somekinu
+△Wakaito
+　Toyosato
+　Chitose
+　Utasono
+　Isawa
 
-　Ōshū (Northern Province)
-　Hatsukiku (First Chrysanthemum)
-　Rinyama (Forest Mountain)
-　Chiyomaki (Thousand Generation Roll)
-　Kikusono (Chrysanthemum Garden)
-　Sonoume (Garden Plum)
+　Ōshū
+　Hatsukiku
+　Rinzan
+　Chiyomaki
+　Kikusono
+　Sonoume
 
-　　Yarite (madam)
+　　Yarite
 　　　Matsu
 
-[Shop] │◐Tamaya Kitarō
-○Toyosumi (Abundant Dwelling)
+[Shop] │Tamaya Kitarō
+○Toyosumi
 　　Kochishi
-○Ukihashi (Floating Bridge)
+○Ukihashi
 　　Sanshi
-○Hanasumi (Flower Dwelling)
+○Hanasumi
 　　Kisoshi
-○Katanami (Single Wave)
+○Katanami
 　　Motome
-○Toyomaki (Abundant Roll)
-○Kataoka (Slope Hill)
-○Tankiku (Red Chrysanthemum)
-○Makishiba (Roll Grass)
+○Toyomaki
+○Kataoka
+○Tankiku
+○Makishiba
 
-△Shigetsuru (Luxuriant Crane)
-△Hanamaki (Flower Roll)
-△Shinohara (Bamboo Grass Field)
-△Mitsuhana (Light Flower)
-△Kashiwagi (Oak Tree)
-△Yoshimura (Good Village)
-△Hashitomi (Bridge Wealth)
-△Miya no
-　Kinzan (Gold Mountain)
-　Minakiku (Beautiful Chrysanthemum)
+△Shigetsuru
+△Hanamaki
+△Shinohara
+△Mitsuhana
+△Kashiwagi
+△Yoshimura
+△Hashitomi
+△Miyano
+　Kinsan
+　Minakiku
 
-　Kuwasan (Mulberry Mountain)
-　Hana no ka (Flower Fragrance)
-　Toyotsuru (Abundant Crane)
-　Wakanami (Young Wave)
-　Sumi no e (Ink Bay)
-　Kiyosaki (Pure Cape)
+　Kuwasan
+　Hananoka
+　Toyotsuru
+　Wakanami
+　Suminoe
+　Kiyosaki
 
-　　Yarite (madam)
+　　Yarite
 　　　Shige
 
 [Shop] Daikokuya Shōroku
-○Tamakazura (Jewel Vine)
+○Tamakazura
 　　Kichishi
 　　Hatsushi
-○Tsukasa (Officer)
-　　Kakewo
-　　Shirabe
-○Hanamachi (Flower Town)
+○Tsukasa
+　　Kakeo
+　　Shirae
+○Hanamachi
 　　Nauchi
-　　Sode no
-○[Blank]
-△Hatsukado (First Gate)
+　　Soteno
+○[Vacant]
+△Hatsukado
 　　Sōji
-△Toyoshige (Abundant Luxuriance)
-　　Take no
+△Toyoshige
+　　Takeno
 
-△Orinobu (Weaving Faith)
-　　Nishi no
-△Orimoto (Weaving Origin)
+△Orinofu
+　　Fushino
+△Orimoto
 　　Nishiki
-△Sawarai (Early Thunder)
+△Sawarahi
 　　Kochō
-△Konokiku (This Chrysanthemum)
-　　Fumi no
-△Tsumauta (Wife Song)
-　[Blank]
-　Tama no i (Jewel Well)
-　Tamasato (Jewel Village)
-　Tamauta (Jewel Song)
+△Konokiku
+　　Fumino
+△Tsumauta
+　[Vacant]
+　Tamanoi
+　Tamasato
+　Tamauta
 
-　Hanasato (Flower Village)
-　Tsumakinu (Wife Silk)
-　Hana no e (Flower Bay)
-　Hana no ka (Flower Fragrance)
-　Tsumaura (Wife Bay)
-　Konosato (This Village)
-　Yoshisumi (Good Dwelling)
+　Hanasato
+　Tsumakinu
+　Hananoe
+　Hananoka
+　Tsumaura
+　Konosato
+　Yoshisumi
 
-　Atōbushi (Eastern節)　Uta
+　Atō-bushi　Uta
 　　　　　　Ren
-　Nagauta (Long Song)　Kyōkichi
+　Naga-uta　Kyōkichi
 
-　　Yarite (madam)
+　　Yarite
 　　　Kiyo
-
-―――――――――
+―――――――
 Right side
-―――――――――
+―――――――

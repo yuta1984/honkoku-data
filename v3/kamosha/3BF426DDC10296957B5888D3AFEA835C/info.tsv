@@ -41,9 +41,9 @@ filename	status	image
 040.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000040/full/full/0/default.jpg
 041.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000041/full/full/0/default.jpg
 042.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000042/full/full/0/default.jpg
-043.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000043/full/full/0/default.jpg
-044.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000044/full/full/0/default.jpg
-045.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000045/full/full/0/default.jpg
+043.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000043/full/full/0/default.jpg
+044.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000044/full/full/0/default.jpg
+045.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000045/full/full/0/default.jpg
 046.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000046/full/full/0/default.jpg
 047.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000047/full/full/0/default.jpg
 048.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000048/full/full/0/default.jpg
