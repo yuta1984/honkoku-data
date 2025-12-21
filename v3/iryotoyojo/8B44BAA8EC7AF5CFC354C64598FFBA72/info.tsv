@@ -22,7 +22,7 @@ filename	status	image
 021.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00021_0.ptif/info.json
 022.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00022_0.ptif/info.json
 023.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00023_0.ptif/info.json
-024.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00024_0.ptif/info.json
+024.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00024_0.ptif/info.json
 025.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00025_0.ptif/info.json
 026.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00026_0.ptif/info.json
 027.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F01%2FRB00005582_00027_0.ptif/info.json
@@ -88,7 +88,7 @@ filename	status	image
 087.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00087_0.ptif/info.json
 088.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00088_0.ptif/info.json
 089.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00089_0.ptif/info.json
-090.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00090_0.ptif/info.json
+090.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00090_0.ptif/info.json
 091.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00091_0.ptif/info.json
 092.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00092_0.ptif/info.json
 093.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F02%2FRB00005582_00093_0.ptif/info.json
@@ -187,4 +187,4 @@ filename	status	image
 186.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F04%2FRB00005582_00186_0.ptif/info.json
 187.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F04%2FRB00005582_00187_0.ptif/info.json
 188.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F04%2FRB00005582_00188_0.ptif/info.json
-189.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F04%2FRB00005582_00189_0.ptif/info.json
+189.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005582%2F04%2FRB00005582_00189_0.ptif/info.json

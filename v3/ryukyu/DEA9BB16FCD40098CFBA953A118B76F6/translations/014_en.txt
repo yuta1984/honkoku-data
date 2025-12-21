@@ -1,0 +1,42 @@
+Izumi Province
+
+Hine District
+
+Sennan District
+
+Kishiwada
+
+Izumi District
+
+Hakuta
+Otori District
+
+Hine District
+
+Kojima, Inuishi, Sasegawa, Ikedani, Shinsanji Temple, Sumiyoshi, Tanigawa, Kojima, Higashihatakoshi, Nishihata, Inukai, Minato, Ishi, Kojima-ko, Koshi Hatamine, Yokote-hata, Togegawa, Kyoo, Koshi, Hakozukurimine, Higashihata, Fukegawa, Hatamura, Fuke, Izekimine, Sutehata, Nishi-hakozukuri, Tannowa, Yamaguchi, Yamanaka, Higashi-hakozukuri, Kurokai, Shizenno-da, Mura, Kai, Kamo, Kimyuji Temple, Ryozanji Temple, Biwagishi, Ishida, Hauhei, Nakamura, Hatashiro, Nakamura, Kuroda
+
+Miyamura, Rokuo, Makino, Shimode, Shimmura, Fukiiura, Noguchi, Kamimura, Shindachi, Baba, Tagari, Ozaki, Onosato-gawa, Takimura, Kitano, Tarui, Kisaida, Shinzaike, Onaeshiro, Nakakoji, Okada, Shimo-okada, Kashii, Morogon, Yoshimi, Okada-gawa, Shimomura, Hanae, Eda, Nagataki, Yasumatsu, Noguchi, Nyobo, Aridoshi, Aridoshi, Okamoto, Funaokayama, Kamimura, Nishide, Ichiba, Tawaraya, Kashoji Temple, Nakasuji, Shindode, Tawaraya, Tsujihana, Takayama, Sano, Sanomatsu, Nishiyama, Nojizo, Nakasho, Demura, Minato, Okubo, Nonomura, Yoshigobo, Kawarayagawa, Yama, Seyama, Zaideke, Sanogawa, Kawaraya, Tsuruhara, Oji, Jinzen, Mitegawa, Hashimoto, Jizodo, Urata, Tsutsumimura, Kubota, Sawamura, Kademura, Ryuo, Ishizai, Hatakenaka, Shimmachi, Wakihama
+
+Kusuhata, Ochiaigawa, Kurokawa-hata, Dojihata, Shimode, Miyamura, Kamiide, Noguchi, Hine District, Bessho, Koya, Kisaida, Bessho, Shigeyama, Kajiba, Kunoki, Shimomura, Hibashiri Shrine, Hinenojo, Oizeki, Mizoguchi, Hotoke, Kamimura, Omizu, Tsuchimaru, Ao, Kyuki, Nakasuji, Higashi-kamimura, Nishiyama, Inunakiyama Fudo, Nariai, Shindai, Yamade-jizo, Shimo-takada, Wada, Kodani, Mikado, Okubo, Kami-takada, Kodani, Kogakigai, Noda, Yama
+
+Sennan District
+
+Nagoshi, Kiyomi, Nakamura, Ryuo-ko, Gokurakuji Temple, Toba, Fukuda, Kaizuka, Kaizuka, Makami, Hatamura, Arai, Shimamura, Kamitsugiya, Ryusui, Handa, Kose, Horimura, Tsuda, Habu, Kubo, Tsuda-gawa, Habu Falls, Sakusai, Tameta-dera, Tsuchimasu, Bessho, Numamura, Tameta Pond, Shimomatsu, Fujii, Kishiwada, Shinzaike, Omachi, Nishiuchi, Kamori, Nomura, Ikejiri, Gakuhara, Oji, Yoshii, Haruki, Shimo-ikeda, Komatsusato, Araki, Kami-isogami, Minodoro, Nakai, Shimo-isogami
+
+Kyodani, Baba, Sennan District, Okawa, Sobahara, Mimadera Temple, Mimatsu, Nagoshi, Kizumi, Mizuma, Morimura, Kiyomi, Katsuragimine, Kawai, Ama Falls, Mikayama, Gokurakuji Temple, Tohara, Aikawa, Takimura, Makami, Shirahara, Hatta, Kamitsugiya, Jinoji Temple, Fukuda, Senkoji Temple, Habu Falls, Tsumikawa, Inaba, Obu, Tameta-dera, Uchihata, Tsutsumi, Imaki, Nakamura, Ogura, Shinzaike, Mita, Ikejiri, Tajimoto, Shimo-ikeda, Asayu
+
+Izumi District
+
+Kitade, Umase, Tadaoka, Nagai, Mushitori, Uta-otsu, Otsu-ko, Tsuji, Ikeura, Otsu, Otsu-ko, Miyamura, Shinota-no-mori, Ikegami, Futada, Shimojo, Kitasone, Anashi, Morimura, Chihara, Sukematsu, Chinuura, Sukematsu-gawa
+
+Terada, Oda, Takatsuki, Karakuni, Kannonji Temple, Imafuku, Jimon, Wake, Itahara, Nagai, Shimomura, Iguchi, Anada, Tsuji, Murodo, Kumehara, Hiko, Toyonaka, Miyamura, Ichijoin, Fuchu, Tsujimura, Sakamoto, Imazaike, Kurotori, Hakuta, Nakamura, Shinota-no-mori, Oji, Tomiaki, Ikegami, Jodai, Omura, Minami-oji, Kitasone, Romura, Oi
+
+Ushitakiyama, Jitokuji Temple, Osawa, Ushitakidani, Haruki-gawa, Nanakoshimine, Kyui, Chichiori, Wakagashi, Haruki, Ono, Izumi District, Matsuoji Temple, Minogata, Terada, Tsuboi, Butsunami, Hirai, Uchida, Karakuni, Makio, Kokubu, Tsuta, Jimon, Otsu-gawa, Kokubunji Temple, Kajise, Okamura, Kuki, Shimomiya, Katamachi, Onoda, Nobana, Shimomura, Zensho, Yokotanidake, Yokoyama, Murodo, Makioyama, Kuroishi, Mibayashi, Fukuse, Kita-tanaka, Yawada, Sakamoto, Minami-men-ri, Jodai
+
+Otori District
+
+Minamide, Sukematsu-gawa, Kita-teraishi, Minami-teraishi, Ozono, Ichiba, Takashi-hama, Nagakishi, Nodai, Shimmura, Imazaike, Hamaderaiji Ancient Site, Yamada, Yamashita, Nishishimo, Higashishimo, Otori, Oshima, Kishu-michi, Juragyoke Tomb, Ichimura, Ichinomiya, Funao, Ishizu-ko, Iehara, Shimo-ishizu, Ishizu-gawa, Kyoo, Kami-ishizu, Minato, Kanaoka Residence, Shioana, Sakai, Minami-no-sho, Hato, Ohato, Oshoji, Machi, Kita-no-sho, Kaishima, Kohato, Yamato-bashi, Yamato-gawa
+
+Harada, Habu, Ki, Shinya, Ozono, Manzaki, Kusabe, Tomimoto, Nagakishi, Kitamura, Kamimura, Minamimura, Keana, Kita-oji, Yamada, Kosaka, Horigami, Hachioji, Otori, Monju, Hiraoka, Ichimura, Haji, Izumi Shikibu birthplace, Iehara, Nishimura, Fukai, Eharaji Temple, Kyoo, Kami-ishizu, Momo, Kanaoka Residence, Takada, Emperor Richu, Shioana, Akahata, Daisen Mausoleum, Sakai, Mozu, Emperor Nintoku, Machi, Emperor Tomasho, Asakayama
+
+Bessho, Kamimura, Hino, Otori District, Tanaka, Omori, Nonoi, Harada, Hachibuji Temple, Togamura, Obadera Temple, Ki, Hatamura, Myokenyama, Taiheiji Temple, Manzaki, Kusabe, Hobase, Monzen, Tomikura, Katakura, Kozoji Temple, Kamamuro, Toyoda, Kodai, Kitamura, Fukuda, Fukasaka, Fushio, Minamimura, Keana, Wada, Kosaka, Horigami, Hachioji, Tsujimura, Hirai, Horigami, Monju, Fukasaka, Higashimura, Haji, Iwamuro, Kamimura, Nishimura, Fukai, Taen, Umemura, Kitamura, Higashimura, Ishidai, Yuunkai, Momo, Hachiman, Takada, Zenguchi, Akahata, Mozu

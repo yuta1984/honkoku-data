@@ -1,0 +1,25 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　8
+　　　omae (御前)　　omisen (御せん)　　ommahe (御まへ)　　(Kagaribi, page 856, line 6)
+1. All variant forms of hiragana used in various manuscripts have been standardized to current standard hiragana forms.
+1. Abbreviated characters, variant characters, and alternative forms of Chinese characters used in various manuscripts are preserved as in the original only in places recorded as textual variants; in other places, such distinctions are not indicated individually.
+Kawachi Texts
+1. All differences in words and sentences between the base text and various manuscripts, even those clearly recognized as errors, have been recorded.
+1. Since Kawachi texts originally differ greatly from Aobyoshi texts, when collating with the base text (Aobyoshi text), applying the same policy as used for Aobyoshi text collation would result in an enormous number of variants that could not be accommodated in the format of this book. Therefore, annotations existing in the main text of various manuscripts, except those necessary for examining the nature of Kawachi texts, do not show forms such as insertions, strikethroughs, and parallel listings, and there are other points where brevity was the principle.
+1. Regarding differences in kana usage between the base text and various manuscripts, differences between Chinese characters and kana between the base text and various manuscripts, and variant hiragana forms and abbreviated/variant/alternative Chinese characters used in various manuscripts, all have been handled in the same way as Aobyoshi texts.
+Variant Texts
+1. All differences in words and sentences between the base text and various manuscripts, even those clearly recognized as errors, have been recorded.
+1. Since variant texts, like Kawachi texts, also differ greatly from Aobyoshi texts, when collating with the base text, applying the same policy as used for Aobyoshi text collation would result in an enormous number of variants that could not be accommodated in the format of this book. Therefore, annotations existing in the main text of various manuscripts, except those necessary for examining the nature of variant texts, do not show forms such as insertions, strikethroughs, and parallel listings, and there are other points where brevity was the principle.
+【Left Page】
+1. Regarding differences in kana usage between the base text and various manuscripts, differences between Chinese characters and kana between the base text and various manuscripts, and variant hiragana forms and abbreviated/variant/alternative Chinese characters used in various manuscripts, all have been handled in the same way as Aobyoshi texts.
+　　　　　　　　Method of Presenting Textual Variants
+　To present textual variants, locations where variants exist in various manuscripts compared to the base text are marked, and the variants are listed below them.
+Marking Locations of Textual Variants
+1. The line number in the base text where variants exist in various manuscripts is indicated with Arabic numerals, followed by the base text at that location, then a short line separator, followed by the corresponding variants from various manuscripts with abbreviated codes for those texts. For example:
+　　⓬dainagon wa nakunarite──dainagon wa kanakunarite Yoko　　(Kiritsubo, page 5)
+　indicates that where the base text reads "dainagon wa nakunarite" on line 12, the Yokoyama text reads "dainagon wa kanakunarite."
+1. When the location of a variant spans two lines of the base text, the number of the first line is indicated. For example:
+　　❺hikare tamaeru──hikare tsuru Sakaki　　(Momijiga, page 240)
+　indicates that where the base text reads "hikare tamaeru" spanning from line 5 to line 6, the Sakakibara family text reads "hikare tsuru," and the line number marked is the first line, namely ❺.
+1. When the location of a variant is very long, in recording the base text under the line number marking, only the beginning and ending phrases are given, with intermediate phrases omitted and indicated by .... When the location spans several lines or pages, as necessary
+　　　　　Guide　　　　　　　　　　　　　9

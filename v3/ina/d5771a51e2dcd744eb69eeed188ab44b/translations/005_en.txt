@@ -1,33 +1,32 @@
-The following is extracted from the Yakushi accounting
-ledger submitted by Tōzaemon:
+The above is an excerpt from the Yakushi accounting ledger submitted by Tōemon.
 
-1. Gold 2 bu 1 shu　　　　　　　To Shichizaemon's place
-   2 monme 1 bu　　　　　　　　Rice payment
-1. Silver 13 monme 5 bu　　　Payment to Hi [shop name]
+- 1 bu 1 shu in gold　　　　　To Shichizaemon's place
+  2 monme 1 bu in silver　　　Rice payment
+- 13 monme 5 bu in silver　　Payment to Hi[trade name]
 
-1. Gold 1 bu　　　　　　　　　Carpenter
-　　　　　　　　　　　　　　　Chūji payment
-1. 1 kan 7 bu 125 mon　　　　Official meeting
-　　　　　　　　　　　　　　　expenses
-1. Gold 1 ryō and　　　　　　　Gradual exchange
-   money 142 mon
-1. Money 500 mon　　　　　　　Fujizō
-　　　　　　　　　　　　　　　Okomitsu
-　　　　　　　　　　　　　　　Same employment fee
-Total: Gold 1 ryō 2 bu 5 1 shu
-　　　Silver 16 monme 6 bu
-　　　Money 2 kan 378 mon
-In rice:
-Eleven
-For gold 2 ryō 3 shu and　　　　From Tōzaemon
-　　69 mon　　　　　　　　　　Exchange portion
+- 1 bu in gold　　　　　　　Carpenter
+　　　　　　　　　　　　　　Payment to Chūji
+- 1 kan 725 mon　　　　　　Official gathering
+　　　　　　　　　　　　　　expenses
+- 1 ryō in gold and　　　　　Gradual exchange
+  142 mon in coins
+- 500 mon in coins　　　　　Tōzō
+　　　　　　　　　　　　　　Oko-man
+　　　　　　　　　　　　　　Same employment fee
+Total: 1 ryō 2 bu 1 shu in gold
+       16 monme 6 bu in silver
+       2 kan 378 mon in coins
+With rice 2
+11
+As 2 ryō 3 shu in gold and　　Exchange portion
+69 mon　　　　　　　　　　　from Tōzaemon
 
-1. Gold 1 shu　　　　　　　　　Isohachi
-1. Same 1 shu　　　　　　　　　Tanji
-1. Silver 6 monme　　　　　　　Toyoji
-September, above portion mujin money received
+- 1 shu in gold　　　　　　　Iso-hachi
+- Same 1 shu　　　　　　　　Tan-ji
+- 6 monme in silver　　　　　Toyoji
+Receipt of mujin fund for the above
 
-1. Gold 1 bu 1 shu　　　　　　　Taishichi
-　　　　　　　　　　　　　　　Rice payment money
-1. Gold 1 ryō and　　　　　　　Large barley 4 to
-   192 mon　　　　　　　　　　Small wheat 4 to price
+- 1 bu 1 shu in gold　　　　Taishichi
+　　　　　　　　　　　　　　Rice payment
+- 1 ryō in gold and　　　　　4 to of barley
+  192 mon　　　　　　　　　　4 to of wheat payment

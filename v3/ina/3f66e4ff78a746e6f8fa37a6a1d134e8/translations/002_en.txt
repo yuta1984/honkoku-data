@@ -1,68 +1,73 @@
 Memorandum
 
-1. Gold 8 ryō 2 bu 3 shu                First
-   244 mon                              Account book total
+Item: 8 ryō, 2 bu, 3 shu in gold                First,
+      244 mon                                   Total from the record book
 
 11th month, 21st day
-1. 1 monme 7 bu                         One formal document
+Item: 1 momme, 7 bu                             One folded document
 
-11th month, 9th day  
-1. 600 mon                              Lunch expense
-                                        For two gentlemen
+11th month, 9th day
+Item: 600 mon                                   Lunch expenses
+                                               For two gentlemen
 
-(Same date)
-1. 4 monme 5 bu                         Premium stamped paper
-                                        One document
+Same day
+Item: 4 momme, 5 bu                             High-quality paper
+                                               One sheet
 
-1. 200 mon                              Confectionery expense
+Same day
+Item: 200 mon                                   Confectionery expenses
 
-1. 2 kan mon                            Sake and side dishes
-                                        Various items total
+Same day
+Item: 2 kan mon                                 Sake and appetizers
+                                               Various items, total
 
-1. 600 mon                              Dinner
-                                        For two gentlemen
+Same day
+Item: 600 mon                                   Dinner expenses
+                                               For two gentlemen
 
 11th month, 10th day
-1. 1 kan mon                            Sake and side dishes
-                                        Various items total
+Item: 1 kan mon                                 Sake and appetizers
+                                               Various items, total
 Going to the office
 
-(Same date)
-1. 600 mon                              Lunch portion
+Same day
+Item: 600 mon                                   Lunch expenses
 
 12th day
-1. 600 mon                              Lunch
-                                        For two gentlemen
+Item: 600 mon                                   Lunch expenses
+                                               For two gentlemen
 
-(Same date)
-1. 1 kan 900 mon                        Sake and side dishes
-                                        Total
+Same day
+Item: 1 kan 900 mon                             Sake and appetizers
+                                               Total
 
-1. 600 mon                              Dinner
-                                        For two gentlemen
+Same day
+Item: 600 mon                                   Dinner expenses
+                                               For two gentlemen
 
-1. 200 mon                              Confectionery expense
+Same day
+Item: 200 mon                                   Confectionery expenses
 
 Coming 15th day
-1. 600 mon                              Lunch box
-                                        Catering
+Item: 600 mon                                   Lunch box expenses
+                                               Meals provided
 
-Total: Gold 8 ryō 2 bu 3 shu
-       42 monme 2 bu
+Total: 8 ryō, 2 bu, 3 shu in gold
+       42 momme, 2 bu
        5 kan 444 mon
-Amount: 10 ryō 3 shu and
-        127 mon
+As money amount: 10 ryō, 3 shu and
+       127 mon
 
-1. 200 mon                              One hired person
-1. 1 monme 5 bu                         Paper roll cost
-1. 1 monme 5 bu                         One brush
-1. 100 mon                              Rice cracker cost
-1. 300 mon                              Tip for servant
+Item: 200 mon                                   One hired person
+Item: 1 momme, 5 bu                             Paper roll fee
+Item: 1 momme, 5 bu                             One brush
+Item: 100 mon                                   Rice cracker fee
+Item: 300 mon                                   Given to messenger
 
-Total: 45 monme 2 bu, 5 kan 800 mon
+Total: 45 momme, 2 bu, 5 kan 800 mon
 
-Tiger year, 11th month, 13th day        Yorozuya
-                                        Shōzō
+Tiger year, 11th month, 13th day               Man'ya
+                                               Shōzō
 
 To Ikegami-sama
-   Yamakawa-sama
+To Yamakawa-sama
