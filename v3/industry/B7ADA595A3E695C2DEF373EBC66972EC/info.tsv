@@ -98,7 +98,7 @@ filename	status	image
 097.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000097/full/full/0/default.jpg
 098.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000098/full/full/0/default.jpg
 099.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000099/full/full/0/default.jpg
-100.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000100/full/full/0/default.jpg
+100.txt	initiated	https://dl.ndl.go.jp/api/iiif/2538136/R0000100/full/full/0/default.jpg
 101.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000101/full/full/0/default.jpg
 102.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000102/full/full/0/default.jpg
 103.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000103/full/full/0/default.jpg

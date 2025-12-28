@@ -1,31 +1,31 @@
 Same day
-One　600 mon　　　　　　Evening meal
-　　　　　　　　　　　　　For 2 people
+One: 600 mon - Evening meal
+　　　　　　　　For two people
 Same day
-One　600 mon　　　　　　Lunch
-　　　　　　　　　　　　　For 2 people
+One: 600 mon - Lunch
+　　　　　　　　For two people
 Same day
-One　1 kan 900 mon　　　Sake and side dishes
-　　　　　　　　　　　　　　Total
+One: 1,900 mon - Total for sake and side dishes
 Same day
-One　600 mon　　　　　　Evening meal
-　　　　　　　　　　　　　For 2 people
-21st day
-One　100 mon　　　　　　Confectionery fee
+One: 600 mon - Evening meal
+　　　　　　　　For two people
+
+21st
+One: 100 mon - Confection fee
 Same day
-One　600 mon　　　　　　Lunch
-　　　　　　　　　　　　　For 2 people
+One: 600 mon - Lunch
+　　　　　　　　For two people
 Same day
-One　1 kan 800 mon　　　Sake and side dishes fee
-　　　　　　　　　　　　　　Total
+One: 1,800 mon - Total for sake and side dishes
 Same day
-One　600 mon　　　　　　Evening meal
-　　　　　　　　　　　　　For 2 people
-Total: 205 momme 4 bu of silver
-　　　25 kan 669 mon
-　This amount equals 7 ryō 3 shu and
-　　　　　　71 mon
-From 102 items
-Balance total: 8 ryō 2 bu 3 shu
-　　　　　244 mon in cash
-Items marked with ○ (16 ryō 8 bu, 564 mon) separately
+One: 600 mon - Evening meal
+　　　　　　　　For two people
+
+Total: 205 monme 4 bu in silver
+　　　 25 kan 669 mon
+　This amount equals 7 ryō 3 shu and 71 mon
+
+From item 102 【before Bon festival】
+Net total: 8 ryō 2 bu 3 shu
+　　　　　 244 mon in coins
+Items marked with ○ 《marginal note: 16 ryō 8 bu, 564 mon》 separate [account]

@@ -1,0 +1,18 @@
+Detailed Survey Map of Coastal Villages in the Three Provinces of Kaga, Noto, and Etchu　　　　　㊞
+　　Chart Legend: One bu of the carpenter's square corresponds to one chō of distance
+　【Vertical rectangle: yellow】Post stations
+　【Vertical rectangle: yellow with red horizontal stripes】Residential town areas
+　【Circle】Village settlements
+　【Circle with characters inside】Kakiuchi (hamlet)　《Marginal note: The first character of the main village name is written inside a small circle | If there is a village with the same character nearby, the next character is added》
+　【Circle: black】Villages under direct shogunate administration
+　【Circle: vertical lines】《Marginal note: Shogunate administration｜Private domain》Jointly administered villages
+　【Circle: yellow】Villages under Toyama domain
+　【Circle: brown】Villages under Daishōji domain (same)
+　【Circle】Villages under Hijikata domain (same)
+　【Horizontal rectangle: red】Place name marker
+　【Square: vertical】Bridge
+　【Horizontal rectangle: red, hollow】Castle ruins
+　【Square: red, hollow】Mansion site ruins
+　【Torii gate】Shrine
+　【Square: red】Buddhist temple
+　【Triangle: black】Shogunate granary
