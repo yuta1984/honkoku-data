@@ -1,22 +1,22 @@
 【Left page】
-One: 132 mon, two porters
+Item: 132 mon, 2 porters
 　　64 mon per person
-One: 84 mon, one pack horse
+Item: 84 mon, 1 light horse
 The above is from Takatō to Inabe
-　　　　Station agent
-　　　　　　Ikegami Riemon [seal]
+　　　　Transport agent
+　　　　　　Ikegami Riemon【seal】
 4th month, 19th day of the Year of the Rat
 
-One: 146 mon, two porters
-　　71 mon per person
+Item: 146 mon, 2 porters
+　　　71 mon per person
 
-One: 103 mon, one pack horse
+Item: 103 momme, 1 light horse
 The above is from Inabe post station
 　　　　　to Miyata post station
 Same day
-　　　　　　Station agent [seal: Ina Highway Station Agent West Inabe Post Station]
-One: 84 mon, two porters
-　　42 mon per person
+　　　　　　Transport agent official【seal: Ina Highway Transport Agent West Inabe Post Station】
+Item: 84 mon, 2 porters
+　　　42 mon per person
 
-One: 56 mon, pack horse
-　　　　　　　　one animal
+Item: 56 mon, light horse
+　　　　　　　　1 horse

@@ -1,0 +1,42 @@
+【△】Salt storehouse
+【▭】Official notice board
+【Red line】This route　《Marginal note: Main roads are｜marked with double lines》
+【○：Blue color】This color　Rivers, lagoons, and sea
+【○：Green color】This color　Mountains
+【Black line】This route　District boundaries
+【Dotted line】This route　《Marginal note：Shogunate domain　Toyama｜Daishōji》Domain boundaries
+
+【From here left is on the map】
+
+《Location：Tamamizu》#2【○】#20
+
+《Location：Sakaigawa》#1【Blue line】
+
+《Location：Ōhira》#3【○】#21
+
+《Location：Kongōgawa》#4【Blue line】
+
+《Location：Checkpoint》#5【Square】#19
+
+《Location：Nishikawa》#6【Blue line】
+
+《Location：Sakai-machi》#7【Polygon：Yellow】#18
+　
+《Marginal note：30 ken mark｜7 fathoms》●《Marginal note：1 chō mark｜8 fathoms》●《Marginal note：5 chō mark｜16 fathoms》●《Marginal note：10 chō mark｜20 fathoms》●《Marginal note：20 chō mark｜47 fathoms》●《Marginal note：30 chō mark｜72 fathoms》●#15
+
+《Location：Ōtanigawa》#8【Blue line】
+
+《Location：Okishima》#13
+
+《Location：Nakashima》#14
+
+●《Marginal note：30 ken mark｜7 fathoms》●《Marginal note：1 chō mark｜8 fathoms》●《Marginal note：5 chō mark｜14 fathoms》●《Marginal note：10 chō mark｜14 fathoms》●《Marginal note：20 chō mark｜50 fathoms》●《Marginal note：30 chō mark｜155 fathoms》●#16
+
+《Location：Miyazaki》#9【Polygon：Yellow with red mesh】#22
+
+《Location：Tomari old castle》
+《Location：Arayama castle》called#12【Rectangle：Red, hollow】#23
+
+《Marginal note：30 ken mark｜3 fathoms》●《Marginal note：1 chō mark｜5 fathoms》●《Marginal note：5 chō mark｜8 fathoms》●《Marginal note：10 chō mark｜11 fathoms》●《Marginal note：20 chō mark｜40 fathoms》●《Marginal note：30 chō mark｜86 fathoms》●#17
+
+《Location：Furutomari》#11【○Tomari】#10

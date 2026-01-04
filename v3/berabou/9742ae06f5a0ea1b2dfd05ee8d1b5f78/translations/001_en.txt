@@ -1,9 +1,12 @@
-Ghost Pocket Account Book
-[The preface refers to it as "All Things Pocket Account Book"]
-[Banbutsu kozukai-chō]
-[Column title: Kozukai-chō]
-[One of the books posted inside the Tsutaya shop at the final episode of "Berabō"]
+Bakemono Kozukaichō (Monster Expense Account)
+[The preface states "Banbutsu Kozukaichō" (All Things Expense Account)]
+[banbutsu kozukaichō]
+[The preface has the ruby reading "banmotsu kozukaichō"]
+[Column title: kozukaichō]
+[One of the books posted inside Tsutaya's shop during the final episode of "Berabō"]
 [Illustrated and written by: Jippensha Ikku]
-[Kusazōshi (popular illustrated fiction)]
+[Kusazōshi (illustrated popular fiction)]
 [Publisher: Tsutaya]
 [Kansei 8th year, 1796]
+
+[I realized partway through reading this that there is exactly the same material already transcribed in the kusazōshi project, so I've re-registered a different printing edition. Link is in annotation 1] #1

@@ -1,8 +1,8 @@
 filename	status	image
-001.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!001.tif/full/full/0/default.jpg
-002.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!002.tif/full/full/0/default.jpg
-003.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!003.tif/full/full/0/default.jpg
-004.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!004.tif/full/full/0/default.jpg
+001.txt	completed	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!001.tif/full/full/0/default.jpg
+002.txt	editing	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!002.tif/full/full/0/default.jpg
+003.txt	completed	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!003.tif/full/full/0/default.jpg
+004.txt	completed	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!004.tif/full/full/0/default.jpg
 005.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!005.tif/full/full/0/default.jpg
 006.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!006.tif/full/full/0/default.jpg
 007.txt	default	https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/3310015100!0!t000010!007.tif/full/full/0/default.jpg
