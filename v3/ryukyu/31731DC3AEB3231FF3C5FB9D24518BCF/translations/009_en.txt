@@ -1,15 +1,20 @@
-Treasury Officer - 1 person; Criminal Affairs Officer - 1 person; Harbor Administrator - 1 person; Subordinate Harbor Administrator Scribe - 1 person; Advisory Officials - 5 people; Policy Council Chief Draft External Historian - 1 person; Chief Scribes - 6 people; Assistant Scribes - 3 people
-
-Revenue Administration Officials: Revenue Administration Director Purple Sash Vice Minister - 1 person; Associate Revenue Administration Director - 2 people; Advisory Officials - 3 people; Records Office Chief Secretary - 1 person; Audit Office Auditors - 2 people; Surplus Office Ambassadors - 2 people; Chief Scribes - 10 people
-
-Royal Law Palace: Attendant Purple Sash Vice Ministers - no fixed number; Attendant Surveillance Attendant Officials - no fixed number; Reception Palace Gate Officials - 12 people; Advisory Internal Attendants - 12 people; Flower Management Internal Officers - 12 people; Internal Attendant Officer Trainees - 12 people
-
-Nine Guide Officials: Ceremonial Guard Guide Attendants - 9 people; Roll Call Guide Attendants - 9 people
-
-Inner Palace: General Palace Affairs Legal Director - 1 person; Deputy Palace Affairs Purple Sash Vice Ministers - 3 people; Palace Administrator Surveillance Attendants - 3 people
-
-Close Attendants: Middle Attendant Courtiers - 3 people, regardless of rank
-
-Inner Kitchen: Cooking Chef - 1 person
-
-National Academy: Service Purple Sash Vice Ministers - 3 people; Palace Gate Officials - 3 people; Palace Gate Advisors - 2 people; Chief Secretary Attendant Historian - 1 person; Document Administrator Attendant Historians - 3 people; Assistant Document Attendant Historians - 3 people (the above three categories of attendant historians are locally called secretaries, with senior, deputy, and assistant categories); Tea Ceremony Internal Officers - 3 people; Assistant Tea Ceremony Internal Officers - 3 people; Equipment Management Internal Officers - 2 people
+【Right Page】
+　　Treasurer, one position; Criminal Affairs Officer, one position; Harbor Administrator, one position; Subordinate Harbor Administrator Secretary,
+　　one position; Advisory Officials, five positions; Government Council Chief Draft External Historian, one position
+　　Chief Secretaries, six positions; Assistant Secretaries, three positions
+　Financial Administration Officials: Chief Financial Administrator Purple Cap Assistant Minister, one position; Deputy Chief Financial Administrator, two
+　　positions; Advisory Officials, three positions; Records Office Chief Clerk, one position; Audit Office
+　　Auditors, two positions; Surplus Office Envoys, two positions; Chief Secretaries, ten positions
+　Royal Law Palace: Attendant Purple Cap Assistant Ministers, no fixed number; Attendant 察侍紀 Officials,
+　　no fixed number; Reception 遏闥理 Officials, twelve positions; Advisory Internal Attendants, ten
+　　two positions; Flower Management Internal Officers, twelve positions; Internal Attendant Officials-in-training, twelve positions
+【Left Page】
+　Nine Escort Officials: Ceremonial Guard Escort Officers, nine positions; Roll Call Escort Officers, nine positions
+　Inner Palace: General Palace Affairs Legal Chief Minister, one position; Deputy Palace Affairs Purple Cap
+　　Assistant Ministers, three positions; Palace Administrator 察侍紀, three positions
+　Close Attendants: Palace Attendant Chamberlains, three positions, regardless of rank
+　Inner Kitchen: Cooking Chef, one position
+　National Academy: Serving Purple Cap Assistant Ministers, three positions; 遏闥理 Officials, three positions
+　　遏闥理 Assistants, two positions; Chief Document Attendant Historian, one position; Document Management Attendant Historians, three
+　　positions; Assistant Document Attendant Historians, three positions (the above three categories of attendant historians are locally called secretaries, with senior, deputy, and assistant categories); Tea Ceremony
+　　Internal Officers, three positions; Assistant Tea Ceremony Internal Officers, three positions; Equipment Management Internal Officers, two positions

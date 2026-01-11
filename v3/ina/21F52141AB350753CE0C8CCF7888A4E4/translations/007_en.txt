@@ -1,15 +1,15 @@
-- Same: 5 people from Yoshise Village
+- Same, 5 people from Yoshise Village
   Breakdown: 1 person - bamboo cutting worker
             4 people - transport from Yoshise Village to Ina Village
 
-- Same: 5 people from Nakasōkura Village
+- Same, 5 people from Naka-Kurasō Village
   All - bamboo cutting workers in home village bamboo grove
 
-- Same: 3 people from Nakayama Village
-  All - transport from Nakasōkura Village bamboo grove to Takatō
+- Same, 3 people from Nakayama Village
+  All - transport from Naka-Kurasō Village bamboo grove to Takatō
 
-- Same: 5 people from Ōsōkura Village
-  All - transport workers from Nakasōkura Village bamboo grove to Takatō
+- Same, 5 people from Ō-Kurasō Village
+  All - transport workers from Naka-Kurasō Village bamboo grove to Takatō
 
 Total: 107 people
   Breakdown:

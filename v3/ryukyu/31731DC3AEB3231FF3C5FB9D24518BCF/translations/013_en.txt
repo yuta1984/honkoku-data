@@ -1,19 +1,20 @@
-Iron Works Bureau: Works Supervisor Surveillance Attendant - 1 person; Chief Scribe - 1 person
-
-Kiln Management Bureau: Works Supervisor Surveillance Attendant - 1 person; Chief Scribes - 3 people
-
-Inlay Shell Bureau: Works Supervisor Surveillance Attendant - 1 person; Chief Scribes - 2 people
-
-Material Storage Bureau: Works Supervisor Surveillance Attendant - 1 person; Chief Scribes - 2 people
-
-Works Administration Office: Works Supervisor Surveillance Attendant - 1 person; Chief Envoy - 1 person; Chief Scribes - 2 people
-
-Judicial Review Office: Chief Envoys - 3 people; Chief Scribes - 3 people
-
-Chuzan Tax Collection Commissioner: Chief Administrator - 1 person; Chief Scribes - 5 people; Sannan, Sanhoku, and Kume-yama Tax Collection Commissioners are the same
-
-Administrative Coordination Office: Purple Gold Councilor - 1 person; Senior Deliberation Councilor and Middle Deliberation Councilor both have no fixed numbers; Chief Secretaries - 2 people; Subordinate Official Chief Scribe - 1 person; Chief Interpreters and Deputy Interpreters both have no fixed numbers; Calendar Interpreter - 1 person; Scribe Secretary - 1 person; Lecture Master - 1 person; Textual Commentary Master - 1 person, all regardless of rank; Interpreters, Scholars, and Junior Scholars all have no fixed numbers
-
-Naha Officials: Left Hall Advisory Official - 1 person; Right Hall Surveillance Attendant - 1 person; Chief Scribe - 1 person; Junior Scribe - 1 person; Judicial Office Judges - 4 people; Reception Office Reception Official - 1 person; Harness Office Harness Official - 1 person
-
-Military Equipment Department: Military Equipment Supervisor - 1 person; Chief Scribe - 1 person
+【Right Page】
+　Ironworks Bureau: Construction Supervisor Attendant Official, one position; Chief Secretary, one position
+　Kiln Management Bureau: Construction Supervisor Attendant Official, one position; Chief Secretaries, three positions
+　Mother-of-Pearl Inlay Bureau: Construction Supervisor Attendant Official, one position; Chief Secretaries, two positions
+　Materials Storage Bureau: Construction Supervisor Attendant Official, one position; Chief Secretaries, two positions
+　Construction Administration Office: Construction Supervisor Attendant Official, one position; Chief Envoy, one position; Chief Secretaries,
+　　two positions
+　Judicial Review Office: Chief Envoys, three positions; Chief Secretaries, three positions
+　Chuzan Tax Collection Commissioner: Administrative Officer, one position; Chief Secretaries, five positions; Sannan, Sanhoku,
+　　and Komezan Tax Collection Commissioners have the same number of positions
+【Left Page】
+　Administrative Coordination Office: Purple-Gold Grand Master, one position; Senior Deliberative Grand Master, Middle Deliberative Grand Master, both
+　　without fixed quotas; Chief Historians, two positions; Subordinate Official Grand Secretary, one position; Chief Interpreter
+　　and Deputy Interpreter, both without fixed quotas; Calendar Interpreter, one position; Secretary,
+　　one position; Lecturer, one position; Commentator, one position, all without regard to rank
+　　Interpreters, Scholars, Junior Scholars, etc., all without fixed quotas
+　Naha Officials: Left Hall Advisory Official, one position; Right Hall Attendant Official, one position
+　　Grand Secretary, one position; Minor Secretary, one position; Judicial Inquiry Office Judges, four positions
+　　Reception Office Attendants, one position; Horse Equipment Office Officials, one position
+　Military Equipment Department: Military Weapons Inspector, one position; Chief Secretary, one position

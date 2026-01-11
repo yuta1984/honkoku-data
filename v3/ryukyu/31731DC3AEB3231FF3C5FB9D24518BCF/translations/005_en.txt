@@ -1,113 +1,110 @@
-【First tier】
-Rank
-Official positions
-Duties
-【Second tier】
-Chief Resources Manager
-Senior 6th Grade
-承直郎
+【Right Page・Table Format】
+【First Row】
+Court Rank
+Official Position
+Office Title
+【Second Row】
+Chief Forest Administrator
+Senior Sixth Rank
+Gentleman of Direct Service
 Ceremonial Guard Commander
 Envoy
 Chief Interpreter
-Treasury Commander
-Chief Judge
+Treasury Commissioner
+Chief Legal Examiner
 Secretary
-Horse Master
-【Third tier】
-Three-level Left Administrator
-Junior 6th Grade
-従務郎
-敘徳郎
-Chief Draft External Historian
-Records Office Chief Secretary
+Master of Horses
+【Third Row】
+Left Administrator of Three Equals
+Junior Sixth Rank
+Gentleman of Subordinate Service
+Gentleman of Virtue Recognition
+Chief Draft External Secretary
+Bureau Registrar
 Eastern Garden Supervisor
-Culinary Director
-Guest Hall Keeper
+Harmony Kitchen Commander
+Guest House Keeper
 Military Equipment Supervisor
-Granary Commander
-Falcon Handler
+Granary Commissioner
+Falconry Master
 Miscellaneous Chief with Additional Title
-【Fourth tier】
-Inner Palace General Administrator
-Heir-apparent Senior Minister
-Senior 7th Grade
-承事郎
-Equipment Internal Officer
+【Fourth Row】
+Inner Palace Administrator
+Crown Prince Tutor Senior Minister
+Senior Seventh Rank
+Gentleman of Service
+Internal Equipment Officer
 Tea Ceremony Internal Officer
-Document-handling Attendant Historian
-Government Building Commander
+Chief Secretarial Attendant
+Official Residence Commissioner
 Vice Interpreter
 Secretary
-Marquis Household Assistant
-Calendar Officer Interpreter
-【Fifth tier】
-Buddhist Affairs Administrator
-Various Bureau Supervisors
-Yuan-hou Household Steward
-Junior 7th Grade
-従職郎
-敘功郎
+Marquis House Advisor
+Calendar Office Interpreter
+【Fifth Row】
+Buddhist Affairs Director
+Various Bureau Supervisor Directors
+Yuan Marquis House Tutor
+Junior Seventh Rank
+Gentleman of Subordinate Office
+Gentleman of Merit Recognition
 Cleaning Internal Officer
-Document-handling Historian
+Secretarial Historian
 Assistant Garden Supervisor
 Assistant Physician
-Legal Office Household Assistant
+Legal Office House Advisor
 Reception Official
-Various Granary Chiefs
-Assistant Culinary Officer
+Various Granary Commissioners
+Harmony Kitchen Assistant
 Miscellaneous Chief
-【Sixth tier】
-Assistant Revenue Administrator
-Senior 8th Grade
-Internal Service Officer
-Administrative Chief
-Legal Office Administrative Internal Attendant
-Academy Administrative Internal Attendant
-Crown Prince's Office Administrative Internal Attendant
-【Seventh tier】
-Junior 8th Grade
-Internal Service Assistant Officer
-Assistant Document-handling Attendant Historian
+【Sixth Row】
+Assistant Director of Revenue
+Senior Eighth Rank
+Internal Service Gentleman
+Advisor Office Commissioner
+Legal Office Advisory Internal Servant
+Academy Advisory Internal Servant
+Crown Prince Palace Advisory Internal Servant
+【Seventh Row】
+Junior Eighth Rank
+Internal Service Assistant Gentleman
+Assistant Secretarial Attendant
 Council Hall Secretary
-Clan Administration Office Secretary
-【Eighth tier】
+Royal Clan Office Secretary
+【Eighth Row】
 Naha Official Left Hall
-Senior 9th Grade
-登仕郎
-Roll Call Commander
+Senior Ninth Rank
+Gentleman Entering Service
+Roll Call Commissioner
 Senior Secretary
 Interpreter
 Envoy Assistant
-【Ninth tier】
-Three-level Junior Administrator
+【Ninth Row】
+Junior Administrator of Three Equals
 Naha Official Right Hall
-Junior 9th Grade
-登仕左郎
-Judicial Officer
-Horse Handler
+Junior Ninth Rank
+Left Gentleman Entering Service
+Legal Examiner
+Horse Controller
 Various Secretaries
 Junior Secretary
 Cook
-Shuri Chief
-【Tenth tier】
-Attendant Gate-keeper Administrator
+Shuri Commissioner
+【Tenth Row】
+Palace Gate Service Officer
 Unranked
-Flower Arrangement Internal Attendant
-Internal Service Trainee
+Flower Ceremony Internal Servant
+Internal Service Student Official
 Scholar
 Junior Scholar
 Junior Secretary
 Minor Secretary
-【Eleventh tier】
-Records Officer
-When attending court, they stand according to rank, regardless of position.
-When in office, they sit according to position, regardless of rank.
-For official positions, upper and lower ranks are combined, including prime ministers, regardless of grade.
-If there are those with merit, they are promoted to higher positions.
-There are no fixed rules.
-
-Records of Transmitting Faith to Zhongshan, Volume 5
-　　Vice Envoy for the Investiture of the King of Ryukyu, Granted Senior 1st Grade Dragon-python Robes, Hanlin Academy Compiler with Two Additional Ranks (Subject) Xu Baoguang, Compiled
-　　Government System
-　The government system's rank structure roughly follows China, divided into nine grades of senior and junior ranks. High officials in important positions also have additional administrative roles. All officials, great and small, govern territories as fiefs. Royal brothers, royal uncles, and state ministers are all called princes of certain places, and those governing one prefecture are called按司 of certain places (under the old system, each prefecture was governed by one按司).
-　(Due to repeated power struggles and military conflicts, King Shō Shin reformed the system, requiring them to reside in Shuri while remotely governing their lands, annually dispatching one Supervisory Attendant Record Officer to oversee prefectural affairs and report their achievements to the 按司 at year's end). Royal uncles-in-law, legal officers, and purple cap officials are called親方 of certain places, yellow cap officials of third rank and below are all called親雲上 of certain places, and those without territories are called親雲上, sons of certain villages, or
+【Eleventh Row】
+Administrative Experience
+Generally, when attending court, one stands according to rank, regardless of office. Generally, when in service, one sits according to office, regardless of rank. Generally, officials combine upper and lower positions, connecting regent and chancellor, unrestricted by rank level. If there are those with merit, they are promoted to higher titles, but there is no fixed regulation.
+【Left Page】
+Chronicle of Chuzan Volume Five
+　　琉球Kingdom Royal Investiture Vice Envoy, Granted Senior First Rank Dragon and Python Robes, Hanlin Academy Compiler with Two Grade Promotion, Vassal Xu Baoguang, Compiled
+　　Official System
+　The official system's rank structure roughly follows China, divided into nine grades of senior and junior ranks. High ministerial important positions also have additional offices and co-administrators. All officials great and small hold territories as fiefs. Royal brothers, royal uncles, and state chancellors are all titled as princes of certain places. Those governing one prefecture are titled as按司 of certain places (under the old system, each prefecture had one 按司 governing it).
+　(Due to heavy authority and military conflicts, King Sho Shin reformed the system, requiring them to reside in Shuri while governing their territories from afar, annually dispatching inspection attendants and recording officials to oversee prefecture affairs and report their achievements to the 按司 at year's end). Royal uncles-in-law, legal officers, and purple cap officials are titled as 親方 of certain places. Third rank and below yellow cap officials are all titled as 親雲上 of certain places. Those without territories are called 親雲上 sons of certain villages or

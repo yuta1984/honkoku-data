@@ -1,0 +1,15 @@
+Engravers: Yokoyama Ni, Koizumi Kanegorō
+
+This is a sugoroku (Japanese board game) featuring various theatrical characters and haiku poetry. Each square contains:
+- Character names (both real names and stage names)
+- Haiku verses
+- Dice roll instructions for movement
+
+The game board is titled "Jihitsu Sugoroku" (Self-Written Sugoroku) and features illustrations by Toyokuni and others. Players would move between squares based on dice rolls, with each square containing poetic content related to kabuki theater and seasonal imagery.
+
+Notable characters include:
+- Inada Kōzō, Oyiwa, Izutsuya Shinsuke (theatrical characters)
+- Takanoo, Nioki Danjō, Asakura Tōgo (historical/theatrical figures)
+- Hōi Kikaku (famous haiku poet)
+
+The verses contain seasonal references (autumn harvests, summer heat, spring flowers) and theatrical imagery typical of Edo period entertainment culture.

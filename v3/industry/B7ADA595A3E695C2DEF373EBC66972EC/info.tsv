@@ -81,8 +81,8 @@ filename	status	image
 080.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000080/full/full/0/default.jpg
 081.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000081/full/full/0/default.jpg
 082.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000082/full/full/0/default.jpg
-083.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000083/full/full/0/default.jpg
-084.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000084/full/full/0/default.jpg
+083.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000083/full/full/0/default.jpg
+084.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000084/full/full/0/default.jpg
 085.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000085/full/full/0/default.jpg
 086.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000086/full/full/0/default.jpg
 087.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000087/full/full/0/default.jpg
@@ -99,8 +99,8 @@ filename	status	image
 098.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000098/full/full/0/default.jpg
 099.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000099/full/full/0/default.jpg
 100.txt	completed	https://dl.ndl.go.jp/api/iiif/2538136/R0000100/full/full/0/default.jpg
-101.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000101/full/full/0/default.jpg
-102.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000102/full/full/0/default.jpg
+101.txt	initiated	https://dl.ndl.go.jp/api/iiif/2538136/R0000101/full/full/0/default.jpg
+102.txt	initiated	https://dl.ndl.go.jp/api/iiif/2538136/R0000102/full/full/0/default.jpg
 103.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000103/full/full/0/default.jpg
 104.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000104/full/full/0/default.jpg
 105.txt	default	https://dl.ndl.go.jp/api/iiif/2538136/R0000105/full/full/0/default.jpg
