@@ -1,14 +1,14 @@
-same                         same
-shōkenji                6    shōunji
-hakitake                     nunohiki            7
-same                         same                8
-inunohisa                    jiname-susuki       9
-inu-name-susuki             shōkotake           10
-tsurutake                   same                11
-kinukasa-take              same                12
+Same　　　　　　　　　　Same
+Shōkenji　　　6　Shōunji
+Hakitake　　　　　　　Nunohiki　　　　7
+Same　　　　　　　　　　Same　　　　　　　8
+Inunohiki　　　　　　　Jiname-susuki　　9
+Inunamesusuki　　　　Shōkotake　　　10
+Tsurutake　　　　　　　Same　　　　　　　11
+Kinukasatake　　　　　Same　　　　　　　12
 
-one variety                 tengu-take          13
-tsurutake                   kōtake              14
-meshitake-shimeji          tengu-take          15
-same                        kojima-karakasa     16
-one variety                 sutake              17
+One variety　　　　　　　Tenkutake　　　　13
+Tsurutake　　　　　　　Kōtake　　　　　14
+Ashitakashimeji　　　　Tenkutake　　　　15
+Same　　　　　　　　　　Koshiyokarakasa　16
+One variety　　　　　　　Sutake　　　　　　17

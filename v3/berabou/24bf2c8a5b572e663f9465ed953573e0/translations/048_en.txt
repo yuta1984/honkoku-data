@@ -1,0 +1,29 @@
+"What is that? Show it to me."
+
+〈Cho〉"Fine, just leave it alone. Look, don't read it anymore since you've learned your lesson. It's a protective charm."
+
+〈Go〉"What kind of charm is it?"
+
+〈Cho〉"It's a disaster-prevention charm from Akiba shrine across from Tobase." 《Interlinear: Just then, the maidservant 〈Hisa〉 brings medicine that Cho had ordered to be prepared from Maizuruya, carrying it as the medicine duty attendant.》
+
+〈Cho〉"Oh, Hisa-don, how embarrassing. Please do me a favor if you can. If our Ohira-san changes her customer, could you have her show her face here for a moment?"
+
+〈Hisa〉"Yes, I'll tell her that." 《Interlinear: and leaves}}
+
+〈Go〉"Is it medicine for skin disease?"
+
+〈Cho〉"I don't know."
+
+〈Go〉"It's loquat leaf decoction, isn't it? Good medicine for what you need to drink."
+
+〈Cho〉"It's bitter." {{Interlinear: Before long}}
+
+〈Ohira〉{{Interlinear: arrives}} "Cho-san, what is it?"
+
+〈Cho〉"You're so spiteful. We're not even like sisters. Goro-san has been here since evening, hasn't he?"
+
+〈Hira〉"Oh my, I didn't know about the departure preparations. Goro-san, how nice that you came."
+
+〈Go〉"Buck teeth, you're being serious tonight."
+
+〈Cho〉"Come here and listen." {{Interlinear: whispering to Ohira}} "You, go home..."

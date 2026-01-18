@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-001.tif/full/full/0/default.jpg
-002.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-002.tif/full/full/0/default.jpg
-003.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-003.tif/full/full/0/default.jpg
+002.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-002.tif/full/full/0/default.jpg
+003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-003.tif/full/full/0/default.jpg
 004.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-004.tif/full/full/0/default.jpg
 005.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-005.tif/full/full/0/default.jpg
 006.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-006.tif/full/full/0/default.jpg
@@ -163,4 +163,4 @@ filename	status	image
 162.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-162.tif/full/full/0/default.jpg
 163.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-163.tif/full/full/0/default.jpg
 164.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-164.tif/full/full/0/default.jpg
-165.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-165.tif/full/full/0/default.jpg
+165.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-168-01/iwasaki03-168-01-165.tif/full/full/0/default.jpg

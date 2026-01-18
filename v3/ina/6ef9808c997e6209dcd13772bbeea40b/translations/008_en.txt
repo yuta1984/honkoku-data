@@ -1,15 +1,22 @@
-- Village officials shall wear hakama and haori, and conduct welcoming and send-off ceremonies up to the post station boundary
+1. Village officials shall wear hakama and haori
+   For welcoming and seeing off, up to the lodging boundary
 
-- Regarding porters, they shall carry loads all the way to the lodging place
+1. Regarding porters, they shall carry through
+   until the overnight stay
 
-- Written record books shall be brought to the previous night's lodging place
+1. Written record books shall be brought
+   by the night before the stay
 
-- Regarding maps:
-　　　　South
-　East　　　　　West　　However, made of six joined sheets
-　　　　North
+1. Regarding maps [Diagram with cardinal directions enclosed in squares]
 
-However, in some places there are locations with two or three sheets
+        South
 
-- Regarding the survey site:
-　However, it is at the front of the honjin (main inn)
+   East        West    However, six sheets joined
+
+        North
+
+Of course, depending on the location, there are
+also places with two or three sheets
+
+1. Regarding the surveying site
+   It is located behind the honjin
