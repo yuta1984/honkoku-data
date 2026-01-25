@@ -1,0 +1,29 @@
+Mount Fuji
+　The interior of the cave
+
+[Signboard]
+Gate of Longevity and Immortality
+
+[Signboard]
+Literary Elegance Cave
+
+[Warning notice in seal script in front of Literary Elegance Cave]
+Those without a heart for literary elegance
+are not permitted to enter this cave
+
+[Dialogue]
+It's a place where
+vulgar people
+cannot go
+
+[Dialogue]
+There's nothing
+　　　　　difficult about it
+　　　Enter
+　　　　　on in
+
+[Signboard]
+Monster Den
+
+[Notice board in front of Monster Den]
+The weak and feeble must not enter

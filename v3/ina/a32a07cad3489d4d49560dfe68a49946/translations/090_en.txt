@@ -1,0 +1,44 @@
+Yuzuru-machi (Yuzuru District):
+　　Jinbei
+　　Genshichi
+
+Shimo-ichimachi (Lower First District):
+　　Heibei
+　　Ginjiro
+　　Isuke
+　　Tomoju
+　　Heibei
+　　Genemon
+
+Kaeri-machi (Kaeri District):
+　　Wahei
+　　Tashichi
+　　Wahei
+
+Fukuro-machi (Fukuro District):
+　　Kanegoro
+　　Hanemon
+　　Seizou
+
+Shin-machi (New District):
+　　Yoshibei
+　　Iwataro
+　　Sakubei
+　　Kihachi
+　　Bunbei
+
+Yoko-machi (Yoko District):
+　　Sabei
+　　Ribei
+　　Kanemon
+
+Shimizu-machi (Shimizu District):
+　　Sohachi
+　　Jikusuke
+　　Jushichi
+　　Sabei
+
+Hon-machi (Main District):
+　　Rokubei
+　　Ribei
+　　Sobei
