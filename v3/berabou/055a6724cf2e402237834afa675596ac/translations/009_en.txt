@@ -1,22 +1,26 @@
-Brass ore　　Native copper　　Pyrite
-Copper ore　　Verdigris　　　Powdered tin
+【Header】Classification of Natural Products　General Index　○1
+
+Calamine　　　Native copper　　　Copper pyrite
+Copper ore　　　Azurite　　　Tin powder
 Litharge　　　Ancient coins
 
-　　　Gem Section
+Gem Section
 Coral　　　Sea pine　　　Agate
-Precious stones　　　Rock crystal　　　Mica
-Alum stone　　　Alum sand　　　White quartz
-Black quartz　　Purple quartz
+Gemstones　　　Crystal　　　Mica
+Chalcanthite　　　Mica sand　　　White quartz
+Black quartz　　　Amethyst
 
 Volume Two
-　　Stone Section
+Stone Section
 Cinnabar　　　Mercury　　　Mercury powder
 Calomel　　　Vermillion　　　Realgar
 Orpiment　　　Gypsum　　　Marble
 Feldspar　　　Calcite　　　Talc
-Cold talc　　　Spotted stone　　　Turquoise
+Cold talc　　　Porphyry　　　Turquoise
 White clay　　　Yellow clay　　　Red clay
-Calamine　　　Mumei-i　　　Painted burnt blue
-Stalactite　　　Stalactite formations　　　Cave deposits
-Stone bed　　　Stone flower　　　Earth cave deposits
-Stone marrow　　　Earth fat　　　Petroleum
+Zinc carbonate　　　Mumei-i　　　Painted blue
+Stalactite　　　Stalactite formations　　　Cave formations
+Stone bed　　　Stone flowers　　　Earth formations
+Stone marrow　　　Earth resin　　　Petroleum
+
+【Header】Classification of Natural Products　General Index　○2

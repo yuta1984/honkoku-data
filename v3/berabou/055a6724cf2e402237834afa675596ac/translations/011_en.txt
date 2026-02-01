@@ -1,19 +1,23 @@
-Licorice root　　　　　Astragalus　　　　　Ginseng
-Adenophora　　　　　Goat's milk weed　　　　　Ladybell
-Balloon flower　　　　　Polygonatum　　　　　Solomon's seal
-Reed grass root　　　　　Cistanche　　　　　Orobanche
-Gastrodia elata　　　　　White wood　　　　　Blue wood
-Morinda root　　　　　Lotus root herb　　　　　Epimedium
-Curculigo　　　　　Scrophularia　　　　　Sanguisorba
-Purple gromwell　　　　　Panax notoginseng　　　　　Coptis
-Scutellaria　　　　　Gentiana　　　　　Saposhnikovia
+【Column】Natural History Classification - General Catalog - 3
 
-Corydalis　　　　　Fritillaria　　　　　Iphigenia
-Asarum　　　　　Hairpin grass　　　　　Angelica dahurica
-Psoralea　　　　　Turmeric　　　　　Curcuma zedoaria
-Jasmine　　　　　Mint　　　　　Stone mint
-Mugwort　　　　　Peucedanum　　　　　Indigo
-Fenugreek　　　　　Ephedra　　　　　Coltsfoot
-Cassia seed　　　　　Plantain　　　　　Verbena
-Salvia　　　　　Indigo　　　　　Sea root
-Tribulus　　　　　Ground bayberry　　　　　Purple ground violet
+Licorice　　　　　　Astragalus　　　　　　Ginseng
+Adenophora　　　　　　Sheep milk root　　　　　　Apricot bellflower
+Chinese bellflower　　　　　　Solomon's seal　　　　　　Polygonatum odoratum
+Imperata　　　　　　Cistanche　　　　　　Orobanche
+Gastrodia elata　　　　　　White wood　　　　　　Blue wood
+Morinda root　　　　　　Lotus corniculatus　　　　　　Epimedium
+Curculigo　　　　　　Scrophularia　　　　　　Sanguisorba
+Purple gromwell　　　　　　Panax notoginseng　　　　　　Coptis
+Scutellaria　　　　　　Gentiana macrophylla　　　　　　Saposhnikovia
+
+Corydalis　　　　　　Fritillaria　　　　　　Iphigenia indica
+Asarum　　　　　　Hairpin plant　　　　　　Angelica dahurica
+Psoralea　　　　　　Curcuma　　　　　　Curcuma zedoaria
+Jasmine　　　　　　Mint　　　　　　Stone mint
+Mugwort　　　　　　Peucedanum　　　　　　Indigo
+Fenugreek　　　　　　Ephedra　　　　　　Coltsfoot
+Cassia　　　　　　Plantago　　　　　　Verbena
+Salvia　　　　　　Indigo　　　　　　Sea root
+Tribulus　　　　　　Ground bayberry　　　　　　Viola yedoensis
+
+【Column】Natural History Classification - General Catalog - 4
