@@ -1,0 +1,14 @@
+There are various oral traditions regarding calculations.
+
+"Chapter Five" On Mouse Multiplication
+○In January, parent mice produce twelve offspring. Together with the parents, there are twelve mice [error: should be fourteen]. In February, these offspring also produce twelve mice each, so including the parents there are ninety-eight mice. In this manner, once a month, parents, children, grandchildren, and great-grandchildren each produce twelve offspring monthly. The question is: how many will there be by December?
+
+The total for one year: 276,825,744,002 mice
+
+January: <<Newborn: 12 mice | With parents: 14 mice>> <<Father | Mother>>
+February: <<Newborn: 84 mice | With parents: 98 mice>>
+March: <<Newborn: 588 mice | With parents: 686 mice>>
+April: <<Newborn: 4,116 mice | With parents: 4,802 mice>>
+May: <<Newborn: 28,812 mice | With parents: 33,614 mice>>
+June: <<Newborn: 201,684 mice [Correction: 201,684 mice] | With parents: 235,298 mice>>
+July: <<Newborn: 1,411,788 mice | With parents: 1,647,086 mice>>

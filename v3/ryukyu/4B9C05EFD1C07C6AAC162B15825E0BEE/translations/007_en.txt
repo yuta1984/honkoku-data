@@ -1,134 +1,103 @@
 Mutsu Province (54 districts)
 Dewa Province (12 districts)
-Nanbu Domain
-Tsugaru Domain
-
-[Place names and directions on the map]
-North
-
 Nanbu
 Tsugaru
-Hirosaki                    Hachinohe
 
-Morioka
+[The map section contains the following place names and domain names]
 
-West                                                East
-Dewa
-Kubota
+Tsugaru, Nanbu, Hirosaki, Hachinohe, Morioka, Dewa, Honjo, Sendai, Shinjo, Shonai, Mutsu, Shiroishi, Nakamura, Yamagata, Fukushima, Kaminoyama, Yonezawa, Nihonmatsu, Miharu, Wakamatsu, Taira, Shirakawa, Tanagura
 
-Honjo
-Sendai
-Shinjo
-Shonai                      Mutsu
-Shiroishi
-
-Yamagata                    Nakamura
-Fukushima
-Kaminoyama
-Nihonmatsu
-Yonezawa          Miharu
-
-Wakamatsu                   Taira
-Tanagura
-Shirakawa
-
-South
-
-Tsugaru・Tsugaru
-
-Tappizaki Sanmaya
-
+Tsugaru Province
+Tappizaki Samma-san (Cape Tappi, Samma Mountain)
 Tsugaru
 Mount Iwaki
-Also called Tsugaru Fuji          Tsugaru District
-
+Also called Tsugaru Fuji
+Tsugaru District
 Hirosaki
-
 Dewa
 
+Dewa Province
 Hihara District
-
 Dewa
 Akita District
-
 Toshima District
-Kamo Shrine
-Kubota                      Yamamoto District
-Honjo                       Hiraka District
+Kubota, Kamo Shrine
+Yamamoto District
+Honjo
+Hiraka District
 Yuri District
-Mount Chokai                Ogachi District
-Shinjo          Mogami District
-
-Tagawa District    Shonai    Akumi District    Murakami District
-
+Mount Chokai
+Ogachi District
+Shinjo, Mogami District
+Shonai
+Tagawa District, Akumi District, Murayama District
 Yamagata
 Kaminoyama
-Okitama District            Yonezawa
+Okitama District
+Yonezawa
 
+Nanbu Province
 Nanbu
-
-Nanbu
-
 Sannohe District
-
-Kazuno District        Ninohe District
-
+Ninohe District
+Kazuno District
 Hachinohe
-
-Iwate District              Kunohe District
+Iwate District
+Kunohe District
 Morioka
-Shiba District              Hei District
-
+Shiwa District
+Hei District
 Hienuki District
-
-Waga District        Esashi District
-
-First Shrine                Kesen District
-Shirahiko Shrine
+Ichinomiya (First Shrine)
+Waga District, Esashi District
+Shirahige Shrine
 Isawa District
-Kurihara District        Tome District       Motoyoshi District
-
+Kesen District
+Kurihara District
+Toyoma District
+Motoyoshi District
 Tamatsukuri District
-Kami District        Tohda District
+Toda District
+Kami District
 
-Kurokawa District        Shida District       Momonofu District
+Mutsu Province
 Hashikami District
-
+Kurokawa District
+Shida District
+Momono District
 Miyagi District
-
 Sendai
 Natori District
-
-Shibata District                              Tashiro
-First Shrine
-Shiogama Shrine             Matsushima        Oshika District
+Shibata District, Ichinomiya
+Tashiro
 Mutsu
-Nakahama
-Shiroishi    Igu District
-Kinkuha Mountain
-Karita District        Uda District
-Date District
-Shinobu District    Fukushima        Nakamura
-
+Shiogama Shrine, Matsushima
+Oshika District
+Nakashima
+Mount Kinka
+Shiroishi, Igu District
+Katta District
+Uta District
+Date District, Nakamura
+Shinobu District, Fukushima
 Namekata District
-Adachi District
-Nihonmatsu        Shineha District
-
-Miharu          Iwaki District
+Adachi District, Nihonmatsu
+Shinoba District
+Miharu, Iwaki District
 Asaka District
-
-Iwasaki District
 Ishikawa District
-
+Iwasaki District
 Taira
-Tanagura
-Niida District
-Shirakawa
+Shirakawa, Tanagura, Kikuta District
 Shirakawa District
 
+Adachi District, Nihonmatsu
 Yama District
-
-Onuma District              Iwase District
+Asaka District
+Onuma District
+Iwase District
+Ishikawa District
 Wakamatsu
-
+Shirakawa
 Aizu District
+Shirakawa District

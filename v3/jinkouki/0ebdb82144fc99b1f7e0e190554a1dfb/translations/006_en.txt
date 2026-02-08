@@ -1,21 +1,21 @@
-Chapter 8: On lumber trading and circulation
-Chapter 9: On cypress bark circulation
-Chapter 10: On bamboo bundle circulation
+Chapter 8: On timber trading calculations
+Chapter 9: On hinoki bark calculations
+Chapter 10: On bamboo bundle calculations
 Chapter 11: On calculating roof thatching boards
-Chapter 12: On calculating the extension of roof slopes
+Chapter 12: On calculating roof slope extensions
 Chapter 13: On calculating gold leaf application to folding screens
 Chapter 14: On gold leaf trading
 Chapter 15: On river construction cost allocation
 Chapter 16: On moat construction cost allocation　End
 
-　　　　Appendix Volume Table of Contents
-Chapter 1: On the stepchild problem
-Chapter 2: On allocating bridge construction costs throughout the town
-Chapter 3: On measuring the length of standing trees
-Chapter 4: On town calculations
-Chapter 5: On rat multiplication problems
+　　　　Supplementary Volume Table of Contents
+Chapter 1: On the stepchild sequence (mathematical progression)
+Chapter 2: On allocating bridge entrance fees throughout the town
+Chapter 3: On calculating the length of standing trees
+Chapter 4: On town area calculations
+Chapter 5: On mouse multiplication (exponential growth)
 Chapter 6: On daily doubling
-Chapter 7: On the population of men and women in Japan, with appendices on calculating rice throughout Japan and calculating rice storage in the Great Buddha hall
-Chapter 8: On what is called crow calculations
+Chapter 7: On counting the population of Japan, with supplements on calculating Japan's rice production and calculating rice storage in the Great Buddha hall
+Chapter 8: On crow calculations
 Chapter 9: On calculating the length of warp and weft threads in one tan of cloth
 Chapter 10: On detecting silk thieves

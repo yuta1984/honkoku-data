@@ -1,8 +1,8 @@
 filename	status	image
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00001.tif/full/full/0/default.jpg
 002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00002.tif/full/full/0/default.jpg
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00003.tif/full/full/0/default.jpg
-004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00004.tif/full/full/0/default.jpg
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00003.tif/full/full/0/default.jpg
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00004.tif/full/full/0/default.jpg
 005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00005.tif/full/full/0/default.jpg
 006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00006.tif/full/full/0/default.jpg
 007.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100252010/v4/THKW/THKW-04626/THKW-04626-00007.tif/full/full/0/default.jpg

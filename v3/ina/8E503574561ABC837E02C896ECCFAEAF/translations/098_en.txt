@@ -1,28 +1,24 @@
 Record
-1,500 mon coins - Mizoguchi Village mountain inspector
-　　　　　　　　Hikozaemon
-The above person worked diligently in logging official timber,
-so we respectfully request that he be given a reward.
+1,500 mon　Mountain inspector of Mizoguchi village
+　　　　　　Hikozaemon
+The above person has worked diligently in cutting and transporting official timber,
+so we request that he be given a reward.
 　December 8th　　　　　Forestry Department
 
 Record
-5 bags of rice - Firewood contracting apprentice
+5 bags of rice　Firewood contracting apprentice
 　　　　　　　　Miyashita Genshichi
-This person was appointed as a firewood contracting apprentice,
-but since there is no stipend rice, we respectfully request
-that he be given a reward.
+The above person was appointed as firewood contracting apprentice, but since there is no stipend rice,
+we request that he be given a reward.
 　December 8th　　　　　Forestry Department
 
-1. We submit the following official notice to the bureau chief:
-　　Regarding the matter of firewood distribution to all people,
-　　as reformed this spring, according to assessed value
-　　without distinction between summer, winter, or rivers,
-　　all shall be distributed this winter, and substitute rice
-　　shall be collected at next year's market prices.
-　　The delivery fees are as follows:
-　　　1 ken of firewood - 21.5 monme of silver
-　　　1 ken of sawara lumber - 25 monme of silver
-　　　1 ken of larch - 31 monme of silver
-　　For those desiring amounts beyond the standard allocation,
-　　payment will be at appropriate prices, so please submit
-　　estimates by the 10th.
+1. The following proclamation was submitted to the bureau chief:
+　　Regarding firewood distribution to the general public, as revised this spring,
+　　according to assessed rice yield without distinction between summer and winter rivers,
+　　all will be distributed this winter, and payment rice will be collected
+　　at next year's market price. The delivery fees are as follows:
+　　　Firewood per ken　　　　　21 momme 5 bu of silver
+　　　Sawara lumber per ken　　25 momme of silver
+　　　Larch per ken　　　　　　31 momme of silver
+　　For those who desire amounts beyond the regulation, sales will be made at appropriate prices,
+　　so submit estimates by the 10th

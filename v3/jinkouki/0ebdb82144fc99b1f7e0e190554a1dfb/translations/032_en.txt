@@ -1,0 +1,28 @@
+[Right page, there are some pen marks that have been scribbled out]
+
+"Chapter One" On Nested Set Calculations
+
+○For example, when buying 7 nested containers for 21 monme of silver, with each container decreasing in price by 6 bu, how much does the smallest (bottom) one cost?
+
+First, place 7 on the left, subtract 1 from the right 7 to make it 6, then multiply by the left 7 to get 6×7=42. Divide this by 2 to get 21. Multiply this by 6 bu to get 12 monme 6 bu. Subtract this from the original 21 monme to get 8 monme 4 bu remaining, which is then divided by 7.
+
+[Figure 1] 1 monme 2 bu
+[Figure 2] 1 monme 8 bu
+[Figure 3] 1 monme 4 bu
+[Figure 4] 3 monme
+[Figure 5] 3 monme 6 bu
+[Figure 6] 4 monme 2 bu
+[Figure 7] 4 monme 8 bu
+
+○There are 8 nested containers, or alternatively: 1-shō pot, 2-shō pot, 3-shō pot, 4-shō pot, 5-shō pot, 6-shō pot, 7-shō pot, 8-shō pot. When these 8 items are bought for 43 monme 2 bu of silver, how much does the 1-shō pot cost?
+
+The 8 items total 43 monme 2 bu. First, on the left: 1, 2, 3, 4, 5, 6, 7, 8 - adding these together gives 36. Dividing the 43 monme 2 bu by this gives 1 monme 2 bu for the 1-shō pot.
+
+[Figure 1] 1 monme 2 bu
+[Figure 2] 2 monme 4 bu
+[Figure 3] 3 monme 6 bu
+[Figure 4] 4 monme 8 bu
+[Figure 5] 6 monme
+[Figure 6] 7 monme 2 bu
+[Figure 7] 8 monme 4 bu
+[Figure 8] 9 monme 6 bu

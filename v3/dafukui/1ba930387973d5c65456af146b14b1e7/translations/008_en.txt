@@ -1,0 +1,20 @@
+【Right Page】
+　　These are excluded because stipend records exist
+1. For ancestors who were initially summoned in low positions but later received promotions, use
+　　the era name from when they were first summoned
+　　　However, for those whose grandfathers, fathers, etc. served the lord but had not yet
+　　　entered the guard units, do not establish these as founders
+1. For ancestors whose service to the lord's house was interrupted but who did not serve other houses,
+　　and whose descendants were later summoned and returned to service, record them at the end of the reign when the ancestor was
+　　summoned, and record the reason for the interruption at that
+　　location. The same applies when someone was once granted leave and later recalled
+
+【Left Page】
+　　The same treatment applies
+　　　However, for those who served other houses briefly after becoming ronin, they are treated as
+　　　new retainers, so record them under the reign when they returned to service
+1. For those who inherited titles from the maternal side and therefore submitted
+　　genealogical records of their maternal grandfather, even if they are second or third sons of the main house,
+　　due to the principle of separate houses, place them in the section of the reign when they themselves were summoned
+
+　　　　The above

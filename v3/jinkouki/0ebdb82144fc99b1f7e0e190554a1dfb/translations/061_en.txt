@@ -1,0 +1,25 @@
+○Question: How much rice can be stored in a container the same size as the Great Buddha Hall?
+
+〽Answer: 77,500 koku of rice can be stored.
+
+『Chapter 8』Calculation about crows
+○When there are 999 crows, and at 999 locations,
+each crow cries 999 times, how many total cries
+do these crows make together?
+Answer: A total of 997,998,999 cries
+Method: Multiply 999 by 999 to get the square.
+
+『Chapter 9』Calculating the total length of warp and weft threads in one tan of cloth
+○Using the warp and weft threads of one tan of cloth, what would be the distance
+from that shore to this shore?
+〽3 ri, 6 chō, 43 ken, 2 shaku, 5 sun
+This is cloth from Arimatsu, 2 jō 8 shaku long fabric,
+with a width of about 1 shaku, calculated with
+50 threads per sun.
+
+『Chapter 10』Finding the number of silk thieves
+○Some thieves are seen dividing stolen silk under a bridge. If divided into 8 tan each,
+there are 7 tan short; if divided into 7 tan each, there are 8 tan left over.
+From hearing this, one can determine the number of thieves.
+〽There are 15 thieves 〽There are 113 tan of silk
+Method: When you add 8 tan and 7 tan, you get 15, which should be known as the number of thieves. Use this principle for all such division problems.

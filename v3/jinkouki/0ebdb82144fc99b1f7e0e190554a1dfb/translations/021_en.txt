@@ -1,0 +1,55 @@
+Chapter 9: Division
+
+When dividing 5,678 koku of rice by 2, using 5 from below in the calculation gives 2,839 koku.
+
+Nine koku (calculation table) 5×8=40
+Thirty                        5×7=35
+Eight hundred                 5×6=30
+Two thousand                  5×5=25
+
+When dividing 9,876 koku of rice by 25, using 4 from below in the calculation gives 395 koku and 4 shō each.
+
+Four shō
+Five koku (calculation table) 4×6=24
+Ninety                        4×7=28
+Three hundred                 4×8=32
+                             4×9=36
+
+When dividing 6 kan 289 monme of silver by 5, using 2 from below in the calculation, one should know it becomes 1 kan 257 monme and 8 bu each.
+
+Eight bu (calculation table) 2×9=18
+Seven monme                   2×8=16
+Fifty                        2×4=8
+Two hundred                   2×6=12
+
+When dividing 9,876 koku of rice by 125, using 8 from below in the calculation gives 79 koku and 8 gō each.
+
+Eight gō
+        (calculation table) 6×8=48
+Nine koku                   7×8=56
+Seventy                     8×8=64
+                           8×9=72
+
+How division becomes multiplication
+
+When multiplying 211 monme 2 bu of silver by 25, if you divide using 4, it becomes 5 kan 280 me.
+
+(calculation table) 4×1=4
+Eighty                 4×3=12
+Two hundred           4×1=4
+Five kan              4×2=8
+                      Beginning of division
+
+When multiplying 31 koku 2 to 4 shō of rice by 125, if you divide using 8, it becomes 3,905 koku.
+
+Five koku (calculation table) 8×4=32
+Nine hundred                  8×1=8
+Three thousand               8×7=56
+                            8×3=24
+                            Beginning of division
+
+Chapter 10: Rice Trading
+
+○When there are 810 koku of rice, with an exchange rate of 4 to 3 shō 2 gō of rice per 10 monme of silver, when asking how much silver the rice is worth, the answer is "18 kan 150 me of silver." Place 810 koku of rice on the right and the rate of 4 to 3 shō 2 gō on the left, then divide the rice on the right by 4 to 3 shō 2 gō to get 18 kan 750 me. When rice is divided by the rice exchange rate, it becomes silver; when silver is multiplied, it becomes rice.
+
+○When you have 567 monme 5 bu of silver, and the exchange rate is 4 to 3 shō 2 gō of rice per 10 monme...

@@ -27,9 +27,9 @@
 
 [From here, Kadomachi Street]
 #2 [Below the street]
-―――――――
+――――――――――
 Left side
-―――――――
+――――――――――
 [Shop] Kanaya Kō
 ○Kaoru
 　　Tomino
@@ -92,7 +92,7 @@ Left side
 　Katsunohe
 　Kotoura
 
-　Sakuragi
+　Sakuraki
 　Suminohe
 　Chiyotsuru
 　Makishige
@@ -100,12 +100,12 @@ Left side
 　　Yarite
 　　　Tsuma
 
-[Shop] │Kiriya Seigorō
+[Shop] Kiriya Seigorō
 ○Kiyohashi
 　　Kichishi
 ○[Vacant]
 ○Toyomachi
-○Tokiwagi
+○Tokiwaki
 ○Ayakinu
 ○Hanakiri
 ○Mitsuhama
@@ -114,7 +114,7 @@ Left side
 ○[Vacant]
 ○[Vacant]
 　Matsunoha
-　Sakuragi
+　Sakuraki
 　Chiyotsuru
 　Suminoe
 　Kyōki
@@ -124,13 +124,13 @@ Left side
 　　Yarite
 　　　Rin
 
-―――――――
+――――――――――
 Kadomachi Street
-―――――――
+――――――――――
 
 #3 [Above the street]
 
-[Shop] Ōmanjiya Kahee
+[Shop] Ōmanjiya Kahei
 ○Chiyohana
 　　Naoshi
 ○Hanakiku
@@ -139,15 +139,15 @@ Kadomachi Street
 　　Kotono
 ○Matsuura
 　　Uraka
-○Onoume
+○Onomume
 　　Umeshi
 ○Atsumashi
 　　Midori
 ○[Vacant]
 
 △Toyosan
-△Shitsuka
-△Ukikumo
+△Shizuka
+△Ukigumo
 △Sensato
 △Somekinu
 △Wakaito
@@ -161,12 +161,12 @@ Kadomachi Street
 　Rinzan
 　Chiyomaki
 　Kikusono
-　Sonoume
+　Sonomume
 
 　　Yarite
 　　　Matsu
 
-[Shop] │Tamaya Kitarō
+[Shop] Tamaya Kitarō
 ○Toyosumi
 　　Kochishi
 ○Ukihashi
@@ -184,7 +184,7 @@ Kadomachi Street
 △Hanamaki
 △Shinohara
 △Mitsuhana
-△Kashiwagi
+△Kashiwaki
 △Yoshimura
 △Hashitomi
 △Miyano
@@ -202,12 +202,12 @@ Kadomachi Street
 　　　Shige
 
 [Shop] Daikokuya Shōroku
-○Tamakazura
+○Tamakatsura
 　　Kichishi
 　　Hatsushi
 ○Tsukasa
 　　Kakeo
-　　Shirae
+　　Shirabe
 ○Hanamachi
 　　Nauchi
 　　Soteno
@@ -218,8 +218,8 @@ Kadomachi Street
 　　Takeno
 
 △Orinofu
-　　Fushino
-△Orimoto
+　　Fushino (Nishino?)
+△Orimoto (Okamoto?)
 　　Nishiki
 △Sawarahi
 　　Kochō
@@ -245,6 +245,7 @@ Kadomachi Street
 
 　　Yarite
 　　　Kiyo
-―――――――
+
+――――――――――
 Right side
-―――――――
+――――――――――
