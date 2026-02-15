@@ -1,0 +1,23 @@
+5×5=25, 5×6=30, 5×7=35, 5×8=40, 5×9=45, 6×6=36, 6×7=42
+6×8=48, 6×9=54, 7×7=49, 7×8=56, 7×9=63, 8×8=64, 8×9=72
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　9×9=81
+
+Chapter 7: Division Mnemonics in the Nine Times Table
+
+○Division by 2: 2÷1 "Heaven makes 5"; when encountering 2, advance by 10 ○Division by 3: 3÷1=31
+3÷2=62; when encountering 3, advance by 10 ○Division by 4: 4÷1=22, 4÷2 "Heaven makes 5"
+4÷3=72; when encountering 4, advance by 10 ○Division by 5: 5÷1 "double makes 2", 5÷2 "double makes 4"
+5÷3 "double makes 6", 5÷4 "double makes 8"; when encountering 5, advance by 10 ○Division by 6: 6÷1 "add 4 below"
+6÷2=32, 6÷3 "Heaven makes 5", 6÷4=64, 6÷5=82; when encountering 6, advance by 10
+○Division by 7: 7÷1 "add 3 below", 7÷2 "add 6 below", 7÷3=42, 7÷4=55
+7÷5=71, 7÷6=84; when encountering 7, advance by 10 ○Division by 8: 8÷1 "add 2 below"
+8÷2 "add 4 below", 8÷3 "add 6 below", 8÷4 "Heaven makes 5", 8÷5=62, 8÷6=74
+8÷7=86; when encountering 8, advance by 10 ○Division by 9: 9 "return by adding one double below"; when encountering 9, advance by 10
+
+2÷1 "Heaven makes 5"
+When encountering 2, advance by 10
+　For example, if 23,456 koku, 7 to, 8 sho, 9 go of rice is
+　divided by 2 (dividing by 20 or 200 follows the same principle)
+　　　the result is 11,728 koku, 3 to, 9 sho, 4 go, 5 shaku each
+
+[Text in diagrams omitted]

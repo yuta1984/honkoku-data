@@ -1,0 +1,58 @@
+Chapter 20: Square Root Method for Circles (Kaihei Enpō)
+
+[Figure 1]
+Diameter
+　3 shaku
+○For a square plot of 1 sun per side, or 711 [square units], using the square root circle method to find the diameter,
+how much would it be? Answer: The diameter is 3 shaku
+
+In the method, first place 711 tsubo on the right. When divided by the circle method 79, it becomes 900 tsubo.
+When this is divided using the square root method, the diameter can be known as 3 shaku.
+
+[Figure 2]
+Circumference: 3 shaku 1 sun 6 bu
+Center diameter: 1 shaku
+
+○The meaning of 79 is that if a circle has a diameter of 1 shaku, there are 79 square sun units.
+If 1 shaku is divided by 2, there are 5 sun. Also, if 1 bu is divided by 2, it becomes 5 rin.
+If this is multiplied by 5 sun, it becomes 25. If this is multiplied by 3 shaku 1 sun 6 bu,
+it becomes 79 tsubo, hence we multiply by 79.
+
+[Figure 3, clockwise]
+2 shaku 3 sun
+Same
+Same
+2 shaku 3 sun
+
+[Figure 4]
+1 shaku 3 sun square
+1 shaku 4 sun 6 bu 2 rin 5 mō
+
+○When making a 1 shaku 3 sun square into a circle, what would the diameter be?
+Answer: 1 shaku 4 sun 6 bu 2 rin 5 mō. In the method, place 1125, and when this is
+multiplied by 2 shaku 3 sun, the diameter becomes 1 shaku 4 sun 6 bu 2 rin 5 mō.
+
+Chapter 21: Cube Root Method (Kairitsu Hō)
+
+[Upper section]
+○Area: 1,728 tsubo
+If this is made into equal
+length, width, and height,
+what would it be?
+It would be a 12-ken cube
+
+[Figure 5 right, all edges]: 12 ken
+[Figure 5 left, all edges]: 10 ken [front face]: 1,000 tsubo
+
+[Lower section]
+The method states: Place 1,728 tsubo as the dividend and first examine the place values
+in the dividend. Count up as one, ten, hundred, thousand, ten thousand as in the diagram, and when looking,
+"ten" represents the tens place. First place 10 in the quotient, and also go up in the lower method to place 10.
+This is placed according to the 10 in the quotient.
+Then in the method, multiply the lower method's 10 by the quotient's 10. Place 10×10 as 100.
+Also, counting up from the method's 100 as one, ten, multiply the method's 100 by the quotient's 10.
+10×1 becomes 1,000 tsubo. When this is subtracted from the dividend,
+there remains
+Answer: 728 tsubo
+
+[Figure 6, 4 abacuses from top]: Quotient, Dividend, Method, Lower Method

@@ -1,0 +1,22 @@
+**Chapter 15: Installing a hearth in a room**
+○In an eight-tatami room, place a hearth in the center to conceal the corners of the tatami mats
+[Diagram included]
+
+○Installing a hearth in a twelve-and-a-half-tatami room is done as follows
+[Diagram included]
+
+**Chapter 16: Four people sharing three horses on a six-ri journey**
+○When four people share three horses for a six-ri journey, how many ri does each person ride?
+♪Each person rides four and a half ri. They ride one and a half ri at a time, then change in rotation.
+First, one person rides a horse for one and a half ri then dismounts. One person rides a horse for three ri then dismounts. One person rides a horse for four and a half ri then dismounts. One person walks the first one and a half ri, then rides from the one-and-a-half ri mark to the end.
+The person who rode one and a half ri rides again from the three-ri mark to the end. The person who rode three ri rides from the four-and-a-half ri mark to the end. The calculation method: first, multiply the six-ri distance by three horses to get eighteen ri total. Dividing this eighteen ri by four people gives four and a half ri per person. Then, dividing this four and a half ri by three horses gives one and a half ri, so they change horses every one and a half ri.
+
+○Three people sharing two horses equally on a three-ri road
+♪Two ri per person. One person rides two ri then walks the last ri. One person rides one ri, walks the middle ri. One person walks one ri then rides the last two ri.
+
+**Chapter 17: Three people sharing two hakama**
+○The calculation for three people wearing two hakama for twenty days each per month is the same as the horse-sharing method above.
+
+**Chapter 18: Lining up one million mounted soldiers**
+○If one million mounted soldiers stand two per ken (interval), how long would the line be?
+♪The line would be 231 ri, 17 chō, and 20 ken long. [One ken is 6 shaku 5 sun] [One chō is 60 ken] [One ri is 36 chō] The calculation: divide one million people by two to get 500,000 ken. Divide this by 60 ken to get 8,333 chō and 20 ken. Divide this by 36 chō to get a length of 231 ri, 17 chō, and 20 ken. If these people form two rows, how long would it be? ♪115 ri, 26 chō, and 40 ken. The calculation method is the same principle as the single-file method above.

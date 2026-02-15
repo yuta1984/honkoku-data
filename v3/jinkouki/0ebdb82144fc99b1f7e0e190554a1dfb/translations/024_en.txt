@@ -1,0 +1,14 @@
+When 600 bales of 8-sho capacity are multiplied by 13 monme, the result is 7 kan 800 me of silver. When 600 bales of 4-to capacity are multiplied by 13 monme, the result is 7 kan 800 me. Also, place 4 to 8 sho on the left, and when divided by 4 to, it becomes 12. When 7 kan 800 me is divided by this 12, the result is 6 kan 500 me of silver.
+
+For 600 bales of 3 to 2 sho capacity, when multiplied by 13 ryo, it also becomes 7 kan 800 me. Also, place 4 to 8 sho on the left, and when divided by 3 to 2 sho, it becomes 15. When 7 kan 800 me is divided by this 15, the result is 5 kan 200 me of silver. The total of the three amounts of silver is 19 kan 500 me.
+
+"Chapter Twelve: Problems of Triangular Stacking of Rice Bales"
+○ Problem with a total of 91 bales: Place 13 bales, and also place 13 bales on the left. Add the 1 bale from above to make 14 bales. When this is multiplied to the right, it becomes 182 bales. When divided by two, it becomes 91 bales.
+[Diagram] 13-bale stack
+
+○ Problem with a total of 143 bales: In the method, place 18 bales on the left and right of the bottom row. Now, add the 8 bales from above to the left 18 bales to make 26 bales. When divided by two, it becomes 13 bales. Also, when 1 bale is added to the right 18 bales, it becomes 19 bales. When the 8 bales from the top row are subtracted from this number, 11 bales remain. When this is multiplied by the left 13 bales, it becomes 143 bales.
+[Diagram] 18-bale stack
+        8 bales
+
+○ When rice bales are stacked in triangular formation under a long house, there are 30 bales in the bottom row and 8 bales in height. The question asks how many bales there are in total. The answer is 212 bales.
+Method: Add 1 bale to the bottom 30 bales, subtract the height of 8 bales, and 23 bales remain. Add the bottom 30 bales to this to get 53 bales. When this is multiplied by the height of 8 bales, it becomes 424 bales. When divided by two, it becomes 212 bales.

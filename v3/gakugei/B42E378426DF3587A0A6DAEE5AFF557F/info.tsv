@@ -46,10 +46,10 @@ filename	status	image
 045.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00045.tif/full/full/0/default.jpg
 046.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00046.tif/full/full/0/default.jpg
 047.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00047.tif/full/full/0/default.jpg
-048.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00048.tif/full/full/0/default.jpg
-049.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00049.tif/full/full/0/default.jpg
-050.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00050.tif/full/full/0/default.jpg
-051.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00051.tif/full/full/0/default.jpg
+048.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00048.tif/full/full/0/default.jpg
+049.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00049.tif/full/full/0/default.jpg
+050.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00050.tif/full/full/0/default.jpg
+051.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00051.tif/full/full/0/default.jpg
 052.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00052.tif/full/full/0/default.jpg
 053.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00053.tif/full/full/0/default.jpg
 054.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00054.tif/full/full/0/default.jpg
@@ -60,8 +60,8 @@ filename	status	image
 059.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00059.tif/full/full/0/default.jpg
 060.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00060.tif/full/full/0/default.jpg
 061.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00061.tif/full/full/0/default.jpg
-062.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00062.tif/full/full/0/default.jpg
-063.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00063.tif/full/full/0/default.jpg
-064.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00064.tif/full/full/0/default.jpg
-065.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00065.tif/full/full/0/default.jpg
+062.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00062.tif/full/full/0/default.jpg
+063.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00063.tif/full/full/0/default.jpg
+064.txt	initiated	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00064.tif/full/full/0/default.jpg
+065.txt	completed	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00065.tif/full/full/0/default.jpg
 066.txt	default	https://d-archive.u-gakugei.ac.jp/iiif/2/library%2F07129356%2F00066.tif/full/full/0/default.jpg

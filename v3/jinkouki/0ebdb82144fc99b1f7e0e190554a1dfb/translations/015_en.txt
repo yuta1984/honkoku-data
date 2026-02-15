@@ -1,0 +1,48 @@
+**Chapter 8: Division Methods (Ken-ichi no warigoe) with Addition Calculations**
+
+Ken-ichi Method 91:
+Return-one times-one, one advance of ten
+This is used when dividing by numbers from 11 to 19
+Also applies when dividing numbers above 100 by numbers above 1000
+
+Ken-ichi Method 92:
+Return-one times-two, second level of eight calculations
+This is used when dividing by numbers from 21 to 29
+Also applies to numbers above 200, 2000, or 20000
+
+Ken-san Method 93:
+Return-one times-three, third level of eight calculations
+This is used when dividing by numbers from 31 to 39, also for numbers above 300 or 3000
+All follow the same principle
+
+Ken-shi Method 94:
+Return-one times-four, fourth level of eight calculations
+This is used when dividing by numbers from 41 to 49
+Numbers above 400 or 4000 follow the same principle
+
+Ken-go Method 95:
+Return-one times-five, fifth level of eight calculations
+This is used when dividing by numbers from 51 to 59
+Numbers above 500, 5000, or 50000 follow the same principle
+
+Ken-roku Method 96:
+Return-one times-six, sixth level of eight calculations
+This is used when dividing by numbers above 60, 600, or 6000
+All follow the same principle
+
+Ken-shichi Method 97:
+Return-one times-seven, seventh level of eight calculations
+This is used when dividing by numbers from 71 to 79
+Numbers above 700 or 7000 follow the same principle
+
+Ken-hachi Method 98:
+Return-one times-eight, eighth level of eight calculations
+This is used when dividing by numbers from 81 to 89
+Numbers above 800 or 8000 follow the same principle
+
+Ken-ku Method 99:
+Return-one times-nine, ninth level of eight calculations
+This is used when dividing by numbers from 91 to 99
+Numbers above 900 or 9000 follow the same principle
+
+With these division methods, there is no number that cannot be divided. No matter how large the calculation, division is possible. All of these will be shown in detail in the following diagrams.
