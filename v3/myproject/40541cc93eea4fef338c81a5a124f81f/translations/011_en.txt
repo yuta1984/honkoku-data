@@ -1,0 +1,31 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　10
+and the page and line numbers of their location are appended to the final phrases. For example:
+　　➐shibashiwa......tatorareshi wo──yume to nomi matowares
+
+ wo Kuni　(Kiritsubo, page 12)
+indicates that the passage reading "shibashiwa yume ka to nomi tatorareshi wo" in line 7 of the base text reads "yume to nomi matowareshi wo" in the Kunifuyu text. When recording the base text, the middle portion "yume ka to nomi" was omitted and indicated with ..., listing only the beginning and ending phrases. Also:
+　　➑kikitsketaru......９haberi nari──kikitsketaru wo kita no machi ni watashi haeru Yō　(Tamakazura, page 748)
+indicates that the passage reading "kikitsketaru toki ni tani tote utsurohashi haberi nari" spanning from line 8 to line 9 of the base text reads "kikitsketaru wo kita no machi ni watashi haeru" in the Yōmyōke text. When recording the base text, the middle portion "toki ni tani tote utsurohashi" was omitted and indicated with ..., listing only the beginning and ending phrases, and since it spans two lines, the line number 9 is appended to the final phrase to indicate its location. Also:
+　　⓮oboreyure to......next page １ōkaramu wa──omohe to sashihetatenu wa Ho　(Sawarabi, page 1693)
+　　⓭kimi no mi-koto......page 844 11 sukoshi no──rakuchō Hō　(Tokonatsu, page 839)
+also show that when recording the base text, middle phrases were omitted and indicated with ..., and since they span multiple pages, the page and line numbers of their location are appended to the final phrases.
+1. When locations where textual variants exist begin with iteration marks, what characters those iteration marks represent is indicated with katakana in parentheses. For example:
+　　⓬ゝ(Ke)u arite shi nashitari──koto sara hitaru sama ni so shi nashitaru Yō　(Suma, page 42)
+indicates that the passage reading "ゝu arite shi nashitari" in line 12 of the base text reads "koto sara hitaru sama ni so shi
+
+【Left Page】
+nashitaru" in the Yōmyōke text, and that "ゝ" is an iteration mark for the character "ke" above it, indicated by the katakana "ケ" in parentheses.
+
+Notation of Textual Variants
+1. When there is only one textual variant compared to the base text, as mentioned before, it is recorded as:
+　　➓miru beki wo──miyu beki wo Matsu　(Hahakigi, page 43)
+　　❶hito shire zu──hito shirareru Ike　(Akashi, page 459)
+　　❶itaku mo──itaku I　(Hotaru, page 811)
+2. When multiple types of textual variants exist for the same location in the base text, a fixed order was established for the various texts and they were recorded accordingly. For example:
+　　❶notamahi matsuwasu wa──no tamawasuru wa Yō──notamasu wa Ii──notamahi mekurasu wa Momo　(Utsusemi, page 86)
+indicates that the location reading "notamahi matsuwasu wa" in line 1 of the base text reads "no tamawasuru wa" in the Yōmyōke text, "notamasu wa" in the Iijima text, and "notamahi mekurasu wa" in the Momozono Library text. The order of the various texts was separately established and shown at the beginning of each chapter.
+3. When one textual variant compared to the base text exists commonly in multiple texts, a fixed order was established for the various texts, the variant from the highest-ranking text was recorded as representative, and below it the abbreviations of all texts having the same variant were listed. For example:
+　　⓮tamahe mashika wa──tamahera mashika wa Yoko Yō Ike Chō Shō San　(Hana no En, page 275)
+indicates that the location reading "tamahe mashika wa" in line 14 of the base text reads "tamahera mashika wa" in the Yokoyama text, Yōmyōke text, Ikeda text, Kazanin Chōshin text, Shōhaku text, and
+　　　　　Guide　　　　　　　　　　　　　11

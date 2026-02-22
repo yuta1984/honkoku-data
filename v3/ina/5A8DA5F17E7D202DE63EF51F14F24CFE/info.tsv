@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-001.tif/full/full/0/default.jpg
+001.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-001.tif/full/full/0/default.jpg
 002.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-002.tif/full/full/0/default.jpg
 003.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-003.tif/full/full/0/default.jpg
 004.txt	completed	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-004.tif/full/full/0/default.jpg
@@ -42,12 +42,12 @@ filename	status	image
 041.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-041.tif/full/full/0/default.jpg
 042.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-042.tif/full/full/0/default.jpg
 043.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-043.tif/full/full/0/default.jpg
-044.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-044.tif/full/full/0/default.jpg
-045.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-045.tif/full/full/0/default.jpg
-046.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-046.tif/full/full/0/default.jpg
-047.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-047.tif/full/full/0/default.jpg
-048.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-048.tif/full/full/0/default.jpg
-049.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-049.tif/full/full/0/default.jpg
+044.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-044.tif/full/full/0/default.jpg
+045.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-045.tif/full/full/0/default.jpg
+046.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-046.tif/full/full/0/default.jpg
+047.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-047.tif/full/full/0/default.jpg
+048.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-048.tif/full/full/0/default.jpg
+049.txt	initiated	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-049.tif/full/full/0/default.jpg
 050.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-050.tif/full/full/0/default.jpg
 051.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-051.tif/full/full/0/default.jpg
 052.txt	default	https://ourarchives.amane-project.jp/iipsrv/iipsrv.fcgi?IIIF=/img/ina/iwasaki/iwasaki03-008-01/iwasaki03-008-01-052.tif/full/full/0/default.jpg

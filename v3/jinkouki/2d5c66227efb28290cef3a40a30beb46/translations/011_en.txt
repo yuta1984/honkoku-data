@@ -1,0 +1,24 @@
+[Right page]
+※[Right rectangle]
+[Top side] 5 shaku [Right side] Length 76 ken [Center] 1 se 28 bu 4 bu 6 ri
+　By the calculation method, multiplying the length of 76 ken by 5 shaku gives 380.
+　Dividing this by 65 gives 58 tsubo 4 bu 6 ri.
+　Dividing this by the field method of 3 gives 1 se 28 bu 4 bu 6 ri, as
+　you should know.
+
+※[Left trapezoid]
+[Top side] 13 ken [Bottom side] 5 ken [Right side] Length 57 ken [Center] 1 tan 7 se 3 bu
+
+
+[Left page]
+　By the calculation method, when adding 5 ken to the width of 13 ken,
+　it becomes 18 ken. When dividing this by two, it becomes 9 ken. Multiplying this by
+　the length of 57 ken gives 513 tsubo. Dividing this by
+　the field method of 3 gives 1 tan 7 se 3 bu, as you should know.
+
+※○8 se
+[Middle triangle]
+[Top side] 12 ken [Right side] Length 40 ken
+　By the calculation method, dividing 12 ken by two gives 6 ken. Multiplying this by
+　the length of 40 ken gives 240 tsubo.
+　When dividing this by the field method of 3, you should know it as 8 se.

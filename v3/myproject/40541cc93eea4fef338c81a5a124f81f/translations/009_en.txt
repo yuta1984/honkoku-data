@@ -1,27 +1,30 @@
 【Right Page】
 　　　　　Guide　　　　　　　　　　　　　6
 　　　　　　　　Format
-Each page presents the base text in size 5 type, and textual variants from various manuscripts are presented separately in size 6 type in the margins of the relevant pages, in the order of Aobyoshi texts, Kawachi texts, and variant texts. When there are too many variants to fit in the margins of the relevant page, only the remainder is collected at the end of each chapter.
+Each page displays the base text in 5-point type, and textual variants from various manuscripts are presented separately in 6-point type in the margins of each page, in the order of Aobyoshi texts, Kawachi texts, and separate texts. If there are too many variants to fit in the margins of a given page, only the remainder is collected together at the end of each chapter.
+
 Main Text
 1. The main text consists of fourteen lines per page, with Arabic numerals indicating line numbers at the bottom of each line.
-1. The main text follows the format of the original manuscript without paragraphs, except that poems are always written on a new line indented by two characters. The main text following poems continues directly without starting a new line.
-1. An asterisk (*) is placed to the right of the main text to indicate where Fujiwara no Koreyuki's Genji-shaku commentary exists, numbered sequentially from the beginning. The text of Genji-shaku is collected in a separate volume.
-1. The original manuscript contains Fujiwara no Teika's postscripts at the end of each chapter, but these are included in a separate volume.
-1. The main text preserves the original manuscript exactly, even including apparent errors. However, on page 172, line 10 of Wakamurasaki, where the original reads "sōbu" (僧部), this error was corrected to "sōzu" (僧都), and the original form is noted in the Aobyoshi textual variants. Also, on page 1686, line 3 of Sawarabi, where one character after "atsukena" in the original is damaged by insects, this was interpreted as "to," and the original form is noted in the Aobyoshi textual variants.
-1. All variant forms of hiragana used in the original manuscript have been standardized to current standard hiragana forms.
-1. In places where katakana is mixed with hiragana in the original manuscript, namely on page 188, line 3 of Wakamurasaki where the original reads "emairikonuwo" (with katakana "wo"), and
+2. The main text follows the format of the original manuscript without paragraph breaks; only waka poetry is always set on a new line, indented by two characters. Text following waka continues directly without line breaks.
+3. An asterisk (*) is placed to the right of the main text to indicate where Fujiwara no Kore'yuki's Genji-shaku commentary exists, with sequential numbering from the beginning. The text of the Genji-shaku is collected together in a separate volume.
+4. While Fujiwara no Teika's postscripts exist at the end of each chapter in the original manuscript, these are included in a separate volume.
+5. The main text preserves everything exactly as in the original manuscript, even items recognized as errors. However, on page 172, line 10 of Wakamurasaki, where the original has "sōbu" (僧部), this error was corrected to "sōzu" (僧都), and the original form is noted in the Aobyoshi textual variants. Also, on page 1686, line 3 of Sawarabi, where one character following "atsukena" in the original is damaged by insects, this was read as "to," and the original form is noted in the Aobyoshi textual variants.
+6. All variant hiragana forms used in the original manuscript have been standardized to current standard hiragana characters.
+7. In places where katakana is mixed with hiragana in the original text—namely on page 188, line 3 of Wakamurasaki, where the original has "emairikonuwo" (えまいりこぬヲ), and
+
 【Left Page】
-on page 1592, line 10 of Agemaki where the original reads "kisai no miya wa ta" (with katakana "ta"), these have been changed from katakana to hiragana as "emairikonuwo" and "kisai no miya wa ta" respectively, and the original forms are noted in the Aobyoshi textual variants.
-1. Abbreviated characters, variant characters, and alternative forms of Chinese characters used in the original manuscript, such as:
+on page 1592, line 10 of Agemaki, where the original has "kisai no miya wa ta" (きさいの宮はタ)—the katakana has been changed to hiragana as "emairikonuwo" (えまいりこぬを) and "kisai no miya wa ta" (きさいの宮はた) respectively, with the original forms noted in the Aobyoshi textual variants.
+8. Abbreviated characters, variant characters, and commonly used characters found in the original manuscript, such as:
 　　　部　𠄐
 　　　條　条
 　　　秋　秌　龝
-have all been preserved as in the original manuscript.
-1. Annotations existing in the main text of the original manuscript, except those clearly identified as collations with other texts or explanatory notes, are all indicated in the Aobyoshi textual variants using fixed symbols for forms such as insertions, strikethroughs, and parallel listings, with notation when done in red ink.
+are all preserved exactly as in the original.
+9. Annotations existing in the main text of the original manuscript, excluding those clearly identified as textual comparisons with other texts or explanatory notes, are all indicated in the Aobyoshi textual variants using standardized symbols to show forms such as insertions, deletions, and parallel readings, with notation added for those written in red ink.
+
 Aobyoshi Texts
-1. All differences in words and sentences between the base text and various manuscripts, even those clearly recognized as errors, have been recorded.
-1. Annotations existing in the main text of various manuscripts, except those clearly identified as collations with other texts or explanatory notes, are all indicated using fixed symbols for forms such as insertions, strikethroughs, and parallel listings.
-1. Differences in kana usage between the base text and various manuscripts have not been recorded.
-1. Differences between Chinese characters and kana between the base text and various manuscripts have not been recorded. However, when there are multiple kana writings corresponding to a particular Chinese character as shown below, these have been specially recorded.
-　　　usukoromo (thin robe)　usukoromo　usukinu　(Utsusemi, page 94, line 6)
+1. All differences in words and sentences between the base text and various manuscripts, even those clearly recognized as errors, are recorded.
+2. Annotations existing in the main text of various manuscripts, excluding those clearly identified as textual comparisons with other texts or explanatory notes, are all indicated using standardized symbols to show forms such as insertions, deletions, and parallel readings.
+3. Differences in kana usage between the base text and various manuscripts are not recorded.
+4. Differences between Chinese characters and kana between the base text and various manuscripts are not recorded. However, when there are multiple kana writings corresponding to a particular Chinese character, as shown below, these are specifically noted.
+　　　usugoromo　　usukoromo　　usukinu　　(Utsusemi, page 94, line 6)
 　　　　　Guide　　　　　　　　　　　　　7

@@ -1,0 +1,23 @@
+[Right page]
+　　○At nine chō　　appears as six rin, one mō, seven shi.
+　　○At ten chō　　five rin, five mō, five shi
+　　○At eleven chō　five rin, five shi
+　　○At twelve chō　four rin, six mō, two shi
+　　○At thirteen chō　four rin, two mō, seven shi
+　　○At fourteen chō　three rin, nine mō, six shi
+　　○At fifteen chō　three rin, seven mō
+　　○At sixteen chō　three rin, four mō, seven shi
+　　○At seventeen chō　three rin, two mō, six shi
+　　○At eighteen chō　three rin, eight mō
+
+
+[Left page]
+Section 25: On nested calculation (ireko-san)
+※When you buy a set of six nested items for 21 monme of silver,
+　and there is a difference of eight bu per nested item, the question is
+　how much silver the first one is worth:
+　　①5 monme 5 bu　　②4 monme 7 bu　　③3 monme 9 bu
+　　④3 monme 1 bu　　⑤2 monme 3 bu　　⑥1 monme 5 bu
+
+　The method: divide 21 monme by six to get 3 monme 5 bu.
+　Set this aside separately, then subtract one from the six nested items, and with the remainder

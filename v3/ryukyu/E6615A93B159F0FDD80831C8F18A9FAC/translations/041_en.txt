@@ -1,0 +1,34 @@
+Characters/Letters
+
+[Table format below, written horizontally]
+[First column]
+Regular/Cursive script　I　i　Jin (person)　pronounced like "yi" (依)
+Regular/Cursive script　Ro　ro　Lei (type)　pronounced like "lu" (魯)
+Regular/Cursive script　Ha　ha　Ha (wave)　pronounced like "hua" (花)
+Regular/Cursive script　Ni　ni　Ren (benevolence)　pronounced like "yi" (義)
+Regular/Cursive script　Ho　ho　Bao (preserve)　pronounced like "fu" (夫)
+Regular/Cursive script　He　he　Fei (fly)　pronounced like "hui" (揮)
+
+[Second column]
+Regular/Cursive script　To　to　Deng (ascend)　pronounced like "du" (都)
+Regular/Cursive script　Chi　chi　Zhi (know)　pronounced like "chi" (痴)
+Regular/Cursive script　Ri　ri　Li (village)　pronounced like "li" (利)
+Regular/Cursive script　Nu　nu　Nu (slave)
+Regular/Cursive script　Ru　ru　Liu (stay)　pronounced like "lu" (禄)
+Regular/Cursive script　Wo　wo　Yuan (distant)　pronounced like "wu" (烏)
+
+[Third column]
+Regular/Cursive script　Wa　wa　He (harmony)　pronounced like "wa" (哇)
+Regular/Cursive script　Ka　ka　Jia (add)　pronounced like "ka" (喀)
+Regular/Cursive script　Yo　yo　You (have)　pronounced like "tian" (天)
+Regular/Cursive script　Ta　ta　Tai (great)　pronounced like "da" (達)
+Regular/Cursive script　Re　re　Li (courtesy)　pronounced like "li" (力)
+Regular/Cursive script　So　so　Zu (soldier)　pronounced like "su" (蘇)
+
+[Fourth column]
+Regular/Cursive script　Tsu　tsu　Lü (law)　pronounced like "ji" (即)
+Regular/Cursive script　Ne　ne　Ni (you)
+Regular/Cursive script　Na　na　Nai (how)　pronounced like "na" (那)
+Regular/Cursive script　Ra　ra　Luo (net)　pronounced like "la" (喇)
+Regular/Cursive script　Mu　mu　Wu (nothing)　pronounced like "mou" (某)
+Regular/Cursive script　U　u　Yu (universe)　pronounced like "wu" (務)

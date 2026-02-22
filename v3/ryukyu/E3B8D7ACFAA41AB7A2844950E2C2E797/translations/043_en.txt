@@ -1,0 +1,31 @@
+Letters/Characters
+
+【Table format below, written horizontally】
+【First column】
+Regular/Cursive　イ　i　人 pronounced like 依 (jin pronounced like yi)
+Regular/Cursive　ロ　ro　類 pronounced like 魯 (lei pronounced like lu)
+Regular/Cursive　ハ　ha　波 pronounced like 花 (bo pronounced like hua)
+Regular/Cursive　ニ　ni　仁 pronounced like 義 (ren pronounced like yi)
+Regular/Cursive　ホ　ho　保 pronounced like 夫 (bao pronounced like fu)
+Regular/Cursive　ヘ　he　飛 pronounced like 揮 (fei pronounced like hui)
+【Second column】
+Regular/Cursive　ト　to　登 pronounced like 都 (deng pronounced like du)
+Regular/Cursive　チ　chi　知 pronounced like 痴 (zhi pronounced like chi)
+Regular/Cursive　リ　ri　里 pronounced like 利 (li pronounced like li)
+Regular/Cursive　ヌ　nu　奴 (nu)
+Regular/Cursive　ル　ru　留 pronounced like 禄 (liu pronounced like lu)
+Regular/Cursive　ヲ　wo　遠 pronounced like 烏 (yuan pronounced like wu)
+【Third column】
+Regular/Cursive　ワ　wa　和 pronounced like 哇 (he pronounced like wa)
+Regular/Cursive　カ　ka　加 pronounced like 喀 (jia pronounced like ka)
+Regular/Cursive　ヨ　yo　有 pronounced like 天 (you pronounced like tian)
+Regular/Cursive　タ　ta　太 pronounced like 達 (tai pronounced like da)
+Regular/Cursive　レ　re　礼 pronounced like 力 (li pronounced like li)
+Regular/Cursive　ソ　so　卒 pronounced like 蘇 (zu pronounced like su)
+【Fourth column】
+Regular/Cursive　ツ　tsu　律 pronounced like 即 (lü pronounced like ji)
+Regular/Cursive　ネ　ne　你 (ni)
+Regular/Cursive　ナ　na　奈 pronounced like 那 (nai pronounced like na)
+Regular/Cursive　ラ　ra　羅 pronounced like 喇 (luo pronounced like la)
+Regular/Cursive　ム　mu　無 pronounced like 某 (wu pronounced like mou)
+Regular/Cursive　ウ　u　宇 pronounced like 務 (yu pronounced like wu)

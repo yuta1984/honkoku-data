@@ -1,0 +1,34 @@
+Character Chart
+
+【Table format, horizontal writing】
+【First column】
+Regular/Cursive　イ　i　人 read like 依
+Regular/Cursive　ロ　ro　類 read like 魯
+Regular/Cursive　ハ　ha　波 read like 花
+Regular/Cursive　ニ　ni　仁 read like 義
+Regular/Cursive　ホ　ho　保 read like 夫
+Regular/Cursive　ヘ　he　飛 read like 揮
+
+【Second column】
+Regular/Cursive　ト　to　登 read like 都
+Regular/Cursive　チ　chi　知 read like 痴
+Regular/Cursive　リ　ri　里 read like 利
+Regular/Cursive　ヌ　nu　奴
+Regular/Cursive　ル　ru　留 read like 禄
+Regular/Cursive　ヲ　wo　遠 read like 烏
+
+【Third column】
+Regular/Cursive　ワ　wa　和 read like 哇
+Regular/Cursive　カ　ka　加 read like 喀
+Regular/Cursive　ヨ　yo　有 read like 天
+Regular/Cursive　タ　ta　太 read like 達
+Regular/Cursive　レ　re　礼 read like 力
+Regular/Cursive　ソ　so　卒 read like 蘇
+
+【Fourth column】
+Regular/Cursive　ツ　tsu　律 read like 即
+Regular/Cursive　ネ　ne　你
+Regular/Cursive　ナ　na　奈 read like 那
+Regular/Cursive　ラ　ra　羅 read like 喇
+Regular/Cursive　ム　mu　無 read like 某
+Regular/Cursive　ウ　u　宇 read like 務

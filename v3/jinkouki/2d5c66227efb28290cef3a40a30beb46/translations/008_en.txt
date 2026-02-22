@@ -1,0 +1,26 @@
+[Right page]
+　With five remaining, multiply this by eight bu to get four monme. 
+　Divide this four monme by two to get two monme. When you add this to the aforementioned
+　three monme five bu, it becomes five monme five bu,
+　and from this you subtract eight bu each.
+
+※Eight nested items
+　　○1-shō pot　○2-shō pot　○3-shō pot　○4-shō pot
+　　○5-shō pot　○6-shō pot　○7-shō pot　○8-shō pot
+　When you buy these eight for 43 monme 2 bu of silver, the question is
+　how much the 1-shō pot is worth:
+　　　○The 1-shō pot is 1 monme 2 bu.
+
+
+[Left page]
+　　①1-shō pot　　　　　　②2-shō pot
+　　　　Price: 1 monme 2 bu　　Price: 2 monme 4 bu
+　　③3-shō pot　　　　　　④4-shō pot
+　　　　Price: 3 monme 6 bu　　Price: 4 monme 8 bu
+　　⑤5-shō pot　　　　　　⑥6-shō pot
+　　　　Price: 6 monme　　　　Price: 7 monme 2 bu
+　　⑦7-shō pot　　　　　　⑧8-shō pot
+　　　　Price: 8 monme 4 bu　　Price: 9 monme 6 bu
+　　　Total of eight items: 43 monme 2 bu.
+
+　The method: 1+2+3+4+5+6+7+8, when combined, equals 36.
