@@ -1,8 +1,8 @@
 filename	status	image
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00001.tif/full/full/0/default.jpg
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00002.tif/full/full/0/default.jpg
-003.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00003.tif/full/full/0/default.jpg
-004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00004.tif/full/full/0/default.jpg
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00003.tif/full/full/0/default.jpg
+004.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00004.tif/full/full/0/default.jpg
 005.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00005.tif/full/full/0/default.jpg
 006.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00006.tif/full/full/0/default.jpg
 007.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100307637/v4/SECL/SECL-27870/SECL-27870-00007.tif/full/full/0/default.jpg

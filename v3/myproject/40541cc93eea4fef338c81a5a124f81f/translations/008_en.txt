@@ -1,33 +1,35 @@
 【Right Page】　
 　　　　　Guide　　　　　　　　　　　　　4
 　Rei　　　　　　　Attributed to Reizei Tamesuke　　　　　　　　Collection of Mr. Oshima Masataro
-　Tomi　　　　　　　Attributed to Fujiwara no Tameie　　　　　　　　Collection of Mr. Tomita Sensuke
-　Ao　　　　　　　Attributed to Fujiwara no Tameie　　　　　　　　Collection of Mr. Oshima Masataro (Seikeisho-ya)
-　Kei　　　　　　　Attributed to Nijo Tameuji　　　　　　　　Collection of Mr. Oshima Masataro (Seikeisho-ya)
-　Shun　　　　　　　Attributed to Fujiwara no Shunzei　　　　　　　　Collection of Mr. Miyazaki Hanbei
-　Ka　　　　　　　Attributed to Nijo Tameuji (formerly in Kajii-no-miya collection)　　Tooen Library collection
-　Mae　　　　　　　Attributed to Tsumori Kunifuyu and Jikan　　　　　　Collection of Marquis Maeda family
-　Sei　　　　　　　Attributed to Fujiwara no Tameie　　　　　　　　Seikado Library collection
-Separate Texts
-　You　Yomei family text　　《Interlinear note: Attributed to Emperor Gotoba and Emperor Gofukakusa's imperial calligraphy | Attributed to later Kyogoku Yoshitsune and others》　　　　　Collection of Marquis Konoe family
-　Ho　Hosaka text　　　Attributed to Fujiwara no Tameie and others　　　　　　Collection of Mr. Hosaka Junji
+　Tomi　　　　　　　Attributed to Fujiwara no Tameke　　　　　　　　Collection of Mr. Tomita Sensuke
+　Ao　　　　　　　Attributed to Fujiwara no Tameke　　　　　　　　Collection of Mr. Oshima Masataro (Seikeishoya)
+　Kei　　　　　　　Attributed to Nijo Tameuji　　　　　　　　Collection of Mr. Oshima Masataro (Seikeishoya)
+　Shun　　　　　　　Attributed to Fujiwara no Shunzei　　　　　　　　Collection of Mr. Miyazaki Hambei
+　Ka　　　　　　　Attributed to Nijo Tameuji (formerly in Kajii Palace collection)　　Tooen Library collection
+　Mae　　　　　　　Attributed to Tsumori Kunifuyu and Jikan respectively　　　　　Collection of Marquis Maeda family
+　Sei　　　　　　　Attributed to Fujiwara no Tameke　　　　　　　　Seikado Library collection
+Variant Texts
+　Yo　Yomei family text　　《Interlinear note: Attributed to Emperor Gotoba and Emperor Gofukakusa's imperial calligraphy | Attributed to Gokumokyo Yoshitsune and others》　　　　　Collection of Marquis Konoe family
+　Ho　Hosaka text　　　Attributed to Fujiwara no Tameke and others　　　　　　Collection of Mr. Hosaka Junji
 　Kuni　Kunifuyu text　　　Attributed to Tsumori Kunifuyu and others　　　　　　Tooen Library collection
-　Mugi　Mugio text　　　Written by Mugio Kanatsuna　　　　　　　　Tooen Library collection
-　A　Arimo text　　　Scribe unknown (formerly in Arimo Shrine collection)　　Tooen Library collection
-　Ii　　　　　　　Scribe unknown　　　　　　　　Collection of Mr. Iijima Shunkei
+　Baku　Bakusho text　　　Written by Bakusho Kantsuna　　　　　　　　　Tooen Library collection
+　A　Arimo text　　　Scribe unknown (formerly in Arimo Shrine collection)　　　　　Tooen Library collection
+　Ii　　　　　　　Scribe unknown　　　　　　　　　　Collection of Mr. Iijima Harukei
 　Shi　　　　　　　Attributed to Nijo Tameuji　　　　　　　　Collection of Mr. Oshima Masataro
 　Ai　　　　　　　Attributed to Reizei Tamesuke　　　　　　　　Seikado Library collection
 　Saka　　　　　　　Attributed to Nijo Tameuji　　　　　　　　Collection of Mr. Hosaka Junji
 【Left Page】
 　San　　　　　　　Attributed to Nijoin Sanuki　　　　　　　　Collection of Mr. Nanami Hyokichi
-　Cho　　　　　　　Attributed to Reizei Tamesuke　　　　　　　　Collection of Mr. Hasebe Junkei
-　Gen　　　　　　　Yamashina Tsunetsune's autograph annotations　　　　　　Collection of Marquis Maeda family
-　Dai　　　　　　　Attributed to Saigyo　　　　　　　　Collection of Mr. Oshima Masataro
-　Nishi　　　　　　　Attributed to Saigyo　　　　　　　　Seikado Library collection
-　Momo　　　　　　　Scribe unknown　　　　　　　　Tooen Library collection
-　Zu　　　　　　　Attributed to Nijo Tamesada　　　　　　　　Imperial Library collection
+　Cho　　　　　　　Attributed to Reizei Tamesuke　　　　　　　　Collection of Mr. Haseba Junkei
+　Gen　　　　　　　Yamashina Tokitsune's autograph annotations　　　　　　Collection of Marquis Maeda family
+　Dai　　　　　　　Attributed to Saikyo　　　　　　　　　　Collection of Mr. Oshima Masataro
+　Nishi　　　　　　　Attributed to Saikyo　　　　　　　　　　Seikado Library collection
+　To　　　　　　　Scribe unknown　　　　　　　　　　Tooen Library collection
+　Zu　　　　　　　Attributed to Nijo Tamesada　　　　　　　　Imperial Library collection of the Ministry of Imperial Household
 
-The various texts adopted for the textual variants in this book were examined repeatedly in an effort to completely eliminate errors, but due to the circumstances of the owners, some had to be surveyed within an extremely short time and were not permitted the opportunity for re-examination. Examples include the Yokoyama text among the Aobyoshi texts and the Hosaka text among the separate texts. Furthermore, for the convenience of manuscript preparation, various texts discovered after 1938 were omitted.
+The various texts adopted for the textual variants in this work have been repeatedly investigated to eliminate errors, but some had to be examined within extremely short periods due to the circumstances of their owners, without opportunity for re-examination. Examples include the Yokoyama text among the Aobyoshi texts and the Hosaka text among the variant texts. Furthermore, for reasons of manuscript preparation, texts discovered after 1938 have been omitted.
+
 　　　　　　　　Base Text
-In selecting a base text from among the aforementioned various texts for marking textual variants, after repeated rigorous examination, it was decided to use Fujiwara no Teika's Aobyoshi text for this purpose. For the three chapters Hana-chiru-sato, Kashiwagi, and Sawarabi, the extant Teika text was used. For the other chapters, the Oshima text, which is considered to most faithfully preserve the form of the Teika text among existing texts, was used. However, since the Oshima text for Kiritsubo and Yume-no-ukihashi are supplementary copies, Hatsune is from a separate text lineage, and Ukifune is missing from the Oshima text, for these chapters the Ikeda text, which holds the position second to the Oshima text, was used.
+
+In selecting a base text from among the aforementioned texts for marking textual variants, after conducting rigorous scholarly investigation, we decided to use Fujiwara no Teika's Aobyoshi text as the base. For the three chapters Hanachirusato, Kashiwagi, and Sawarabi, we used the extant Teika text. For the other chapters, we used the Oshima text, which is considered to most faithfully preserve the form of the Teika text among existing texts. However, since the Oshima text is a supplementary copy for the two chapters Kiritsubo and Yume no Ukihashi, the Oshima text follows a variant text lineage for Hatsune, and the Oshima text lacks Ukifune, we used the Ikeda text, which holds the position next to the Oshima text, for these chapters.
 　　　　　Guide　　　　　　　　　　　　　5

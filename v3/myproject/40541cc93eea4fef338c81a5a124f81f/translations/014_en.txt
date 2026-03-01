@@ -1,0 +1,32 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　16
+　　❿makade──hi (　｜─ red ink　) makade Ō　　(Hahakigi, page 53)
+indicates that the location reading "makade" in line 10 of the base text reads "hi makade" in the original text, with "hi" crossed out in red ink.
+　　❹tatoshi he naki──tatoshi te (　｜─ red ink　) (he) naki Ō　　(Suma, page 401)
+indicates that the location reading "tatoshi he naki" in line 4 of the base text reads "tatoshi te naki" in the original text, with "te" crossed out in red ink and "he" written in its place in black ink.
+　　❹matohikeru──ma yo (　｜─) (to red ink) hikeru Ō　　(Fujibakama, page 927)
+indicates that the location reading "matohikeru" in line 4 of the base text reads "mayohikeru" in the original text, with "yo" crossed out in black ink and "to" written in its place in red ink. Also:
+　　❽mare ni ha──sa (　｜─ red ink　) (ma red ink) re ni ha Ō　　(Hōkigi, page 35)
+indicates that the location reading "mare ni ha" in line 8 of the base text reads "sare ni ha" in the original text, with "sa" crossed out in red ink and "ma" written in its place in red ink.
+
+1. Characters written alongside the main text (not as interpolations or corrections, but in parallel) are recorded with parentheses below the main text, and ● is attached to the right side of the main text that runs parallel to them. For example:
+　　⓮arashi to omofu wo──arashi (●●●) (totometaru) to omo fu (●) (hishi) wo Yoko　　(Kiritsubo, page 14)
+indicates that the location reading "arashi to omofu wo" in line 14 of the base text reads "arashi to omofu wo" in the Yokoyama text, with "totometaru" written parallel to the right of "arashi" and "hishi" written parallel to the right of "fu."
+
+【Left Page】
+1. When indicating characters written alongside the main text in the base text, those done in red ink have this fact noted. For example:
+　　➋sumika na to mo──sumika na to n (●) (mo red ink) Ō　　(Suma, page 395)
+indicates that the location reading "sumika na to mo" in line 2 of the base text reads "sumika na to n" in the original text, with "mo" written in red ink parallel to the right of "n."
+
+1. Characters unclear due to insect damage are indicated with △. For example:
+　　⓮a naru──a △ naru Yō　　(Nowaki, page 868)
+indicates that the location reading "a naru" in line 14 of the base text has one character unclear due to insect damage below "a" in the Yōmyōke family text, with "naru" below that.
+
+1. Illegible characters are indicated with ▢. For example:
+　　❸ame no shita──a ▢ ame no shita Gyo　　(Usugumo, page 622)
+indicates that the location reading "ame no shita" in line 3 of the base text has one illegible character below "a" in the Gyobutsu text, with "ame no shita" below that.
+
+1. When variant readings begin with iteration marks, what character the iteration mark represents is shown in parentheses using katakana. For example:
+　　❽mairam──ゝ (MA) u no horu Kuni　　(Hahakigi, page 68)
+indicates that the location reading "mairam" in line 8 of the base text reads "ゝ u no horu" in the Kunifuyu text, with the iteration mark "ゝ" representing the "ma" above it, as shown by the katakana "MA" in parentheses.
+　　　　　Guide　　　　　　　　　　　　　17

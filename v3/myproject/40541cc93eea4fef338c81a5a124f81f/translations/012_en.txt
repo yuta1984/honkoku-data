@@ -1,0 +1,27 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　12
+the Sanjōnishi family text, indicating that all six texts read "tamahera mashika wa." The variant is recorded using the highest-ranking Yokoyama text as representative, with the abbreviations of the various texts listed below as "Yoko Yō Ike Chō Shō San." The order of the various texts was separately established and shown at the beginning of each chapter.
+
+1. When one textual variant compared to the base text exists commonly in all the Kawachi texts adopted in this book, a fixed order was established for the various texts, the variant from the highest-ranking text was recorded as representative, the abbreviations of the various texts were not listed below it, and the abbreviation "Ka" (河) was attached. For example:
+　　⓬inishie no hito──inishie hito Ka　　(Kiritsubo, page 5)
+indicates that the location reading "inishie no hito" in line 12 of the base text reads "inishie hito" in all the Kawachi texts adopted for Kiritsubo in this book, namely the Takamatsu-no-miya family text, Bishū family text, Tameie text, Hirase text, and Ōshima text. The variant is recorded using the highest-ranking Takamatsu-no-miya family text as representative, the abbreviations of the various texts (Miya Bi Tame Hira Ō) were not listed below it, and the abbreviation "Ka" was appended. The order of the various texts was separately established and shown at the beginning of each chapter. The same method was used for the variant texts (beppon). For example:
+　　➓okashiki on-wokuri mono──wokashiki sama naru wokuri mono Betsu　　(Kiritsubo, page 15)
+indicates that the location reading "okashiki on-wokuri mono" in line 10 of the base text reads "wokashiki sama naru wokuri mono" in all the variant texts adopted for Kiritsubo in this book, namely the Gyobutsu text, Yōmyōke family text, Kunifuyu text, and Mugiu text. The variant is recorded using the highest-ranking Gyobutsu text as representative, the abbreviations of the various texts (Gyo Yō Kuni Mugi) were not listed below it, and the abbreviation "Betsu" was appended. The order of the various texts was separately established and shown at the beginning of each chapter.
+
+1. When a portion corresponding to part of the base text is absent in the various texts, it is marked "Nashi" (absent) with the abbreviation of that text attached. For example:
+
+【Left Page】
+　　❿arikeru──Nashi Gyo　　(Yūgao, page 123)
+indicates that the location reading "arikeru" in line 10 of the base text is absent in the Gyobutsu text.
+
+1. When a portion corresponding to part of the base text has missing pages (rakuchō) in the various texts, it is marked "rakuchō" with the abbreviation of that text attached. For example:
+　　❿hina to anakachi ni......next page ９ ito itau omohi──rakuchō Hira　　(Kiritsubo, page 6)
+indicates that from the location reading "hina to anakachi ni" in line 10 of page 6 of the base text to the location reading "ito itau omohi" in line 9 of page 7, there are missing pages in the Hirase text.
+
+1. When a portion corresponding to part of the base text has been supplemented by copying from texts of other lineages in the various texts, this fact is recorded with the abbreviation of that text attached. For example:
+　　❺kiki wataritatematsurishi ka to......next page ６ nado ka──supplemented by copying from Aohyōshi text Hira　　(Tamakazura, page 749)
+indicates that from the location reading "kiki wataritatematsurishi ka to" in line 5 of page 749 of the base text to the location reading "nado ka" in line 6 of page 750, the Hirase text has been supplemented by copying from an Aohyōshi text.
+
+1. In the Kawachi and variant texts, when multiple types of textual variants exist for the same location in the base text, but the differences between these variants are only slight and can be considered almost identical variants, all such variants are not listed exhaustively. Instead, according to the separately established order of the various texts, the variant from the highest-ranking text is recorded as representative with its text abbreviation attached, the abbreviations of texts having almost identical variants are listed below it, and parentheses are provided below the abbreviations to indicate the differences. For example:
+　　❺mushi no kowe-gowe moyohoshi kaho naru mo──mushi wo shimi kaho ni kowe-gowe furitatetaru nado subete Yō Kuni (furi──yori Kuni)　　(Kiritsubo, page 15)
+　　　　　Guide　　　　　　　　　　　　　13

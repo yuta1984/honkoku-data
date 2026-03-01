@@ -1,28 +1,33 @@
 【Right Page】
-【Top right margin】360
-【Right margin top】Kanshin Kakumushō, Volume 2
-【Right margin bottom】48
-【Two-column format】
-【Both upper and lower sections blank】
+【Outside frame, upper right】
+360
+【Outside frame, right margin top】
+Kanjin Kakumuishō, Part 2
+【Outside frame, right margin bottom】
+Forty-eight
+【Two-column structure】
+【Both upper and lower columns blank】
 
 【Left Page】
-【Top left margin】361
-【Left margin top】Kakumushō Hoketsu Hōmon, Volume 1
-【Left margin bottom】1
-【Two-column format】
-【Upper Section】
-《Title: Kakumushō Hoketsu Hōmon》
-Establishment of the vessel-world; Establishment of time-kalpas; Establishment of pure lands; Western realm of reward and transformation
-Four gates of essence; Establishment of the five aggregates; Twelve sense-bases characteristics; Eighteen realm characteristics
-Principles of the Four Noble Truths; Six characteristics of seeds; Four characteristics of what is perfumed; Four characteristics of what perfumes
-Four types of morally neutral mind; Three transforming consciousnesses; Three aspects of the ālaya; Three positions of the ālaya
-Three types of perfuming; Three karmas of merit and others; Three karmas of body and others; Manifest and non-manifest forms
-Three types of arising; Four conditions and three dependencies; Fifteen bases of dependence (with fourteen meanings); Five differences of results
-Three types of birth-and-death; Four types of verbal expression (with three means of valid cognition); Individual and universal characteristics; Three types of three periods of time
-Three explanations of transformation; Four-fold correspondence of inner knowledge; Differences of various bonds; Four types of verbal expression
-【Below is blank】
-
-【Lower Section】
-《Title: Kakumushō Hoketsu Hōmon》 Volume 1
-　　　Establishment of the Vessel-World
-Now, the vessel-world is what is obtained through the power of the karmic growth of all sentient beings. One tri-thousandfold world undergoes formation and destruction together. Such worlds are immeasurable and boundless, all created by the minds of sentient beings themselves. Karma means thinking, and obtaining means receiving retribution. Through the mind's thinking and receiving retribution, it manifests in this way. The tri-thousandfold world refers to the great thousandfold world. The great thousandfold world is the medium thousandfold world, and the medium thousandfold world is the small thousandfold world. The small thousandfold world consists of one thousand Mount Sumeru realms. A Sumeru realm is one four-continent world system, extending from the wind circle below up to the Highest Heaven above - this constitutes one realm. One thousand of these realms is called a small thousand. The wind circle refers to when the world first forms in the realm of space: due to the karmic power of sentient beings, a great wind suddenly arises that can support all things. Its extent is vast and wide, measuring countless yojanas. Its thickness is 1.6 billion yojanas. Regarding the order of the next two circles above and below, there is dispute among scholars within the Mahāyāna. Some say gold and water, others say water and gold. For now, we adopt the latter view. This is clearly stated in the Master's verse in the Kalpa Chapter. The text is evident, being identical with what is explained in the Abhidharmakośa and other texts. The "wind, gold, water" of the Yogācāra commentaries represents another master's interpretation. The true doctrine of our school is "wind, water, gold." The meaning of this doctrine is as follows: Rain falls abundantly on the great wind circle, measuring 1.12 billion yojanas. Of this, 800 million constitutes the water circle, and the remaining upper 320 million yojanas constitutes the gold circle. That is, the uppermost portion solidifies into gold. This gold circle is also called the earth circle. Therefore, the Yogācāra speaks of the "golden-natured earth circle."
+【Outside frame, upper left】
+361
+【Outside frame, left margin top】
+Kakumuishō Hoketsu Hōmon, Part 1
+【Outside frame, left margin bottom】
+One
+【Two-column structure】
+【Upper column】
+《Title: Kakumuishō Hoketsu Hōmon (Supplementary Dharma Gate to the Dream Awakening Notes)》
+　Material world establishment　　Temporal kalpa establishment　　Pure land establishment　　Western reward and transformation
+　Four gates of essence　　Five aggregates establishment　　Twelve sense fields　　Eighteen realms
+　Four Noble Truths doctrine　　Six characteristics of seeds　　Four characteristics of what is perfumed　　Four characteristics of what perfumes
+　Four types of neutral mind　　Three transforming consciousnesses　　Three aspects of ālaya　　Three positions of ālaya
+　Three types of perfuming　　Three karmas of merit etc.　　Three karmas of body etc.　　Form with and without expression
+　Three types of arising　　Four conditions three dependencies　　Fifteen dependency bases《marginal note: with fourteen meanings attached》Five fruit distinctions
+　Three types of birth and death　　Four types of expression《marginal note: with three types of inference attached》Individual and universal characteristics　　Three types of three times
+　Three transformation explanations　　Four-fold correspondence of inner clarity　　Distinctions of various bonds　　Four types of expression
+【Below this is blank】
+【Lower column】
+《Title: Kakumuishō Hoketsu Hōmon》　Part 1
+　　　Material World Establishment
+The material world (器界) is what is attained through the augmenting power of the karma of all sentient beings. One three-thousand-fold world comes into being together and perishes together. Such worlds are limitless and boundless, all created by the minds of sentient beings themselves. Karma means thought, and attainment means recompense. The thoughts and recompense of one's own mind manifest in this way. The three-thousand-fold world refers to the great thousand-fold world. The great thousand-fold world refers to the medium thousand-fold world. The medium thousand-fold world refers to the small thousand-fold world. The small thousand-fold world consists of one thousand Mount Sumeru worlds. One Mount Sumeru world is one four-continent world, extending from the wind wheel below up to the ultimate heaven above—this is one world. One thousand of these worlds is called a small thousand. The wind wheel refers to when the world first forms: in the void realm, due to the karmic power of various sentient beings, a great wind suddenly arises that can sustain all things. Its extent is vast and broad, countless yojanas, and its thickness is 1.6 billion yojanas. Regarding the sequence of the two wheels above this, there is dispute among scholars within the Mahāyāna. Some say gold-water, others say water-gold. For now, we adopt the latter position. This is clearly explained in the Great Master's Kalpa Chapter verses, and the text is evident. It accords with what is explained in the Abhidharmakośa and other treatises. The wind-gold-water of the Yogācāra commentaries represents the position of other masters. The true doctrine of our school is wind-water-gold. The meaning of this doctrine is that above the great wind wheel, rain lies still for 1.12 billion yojanas. Of this, 800 million constitutes the water wheel, and the remaining upper 320 million constitutes the gold wheel. That is, the uppermost portion congeals to become gold. This gold wheel is also called the earth wheel. Therefore, the Yogācāra explains it as the golden-nature earth wheel. This

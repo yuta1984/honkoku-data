@@ -1,0 +1,23 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　18
+
+1. When marking variant readings, when special explanation is required, parentheses are set below that location to provide explanation. For example:
+　　➋kita no kata ni──North direction ni (ni written over no) Gyo　　(Yomogiu, page 524)
+indicates that the location reading "kita no kata ni" in line 2 of the base text reads "North direction no" in the Gyobutsu text, with "ni" written over "no."
+　　⓮itsuka ko takaki──itsuko ka (ko and ka have reversal marks) takaki Yoko　　(Usugumo, page 607)
+indicates that the location reading "itsuka ko takaki" in line 14 of the base text reads "itsuko ka takaki" in the Yokoyama text, with marks indicating that the positions of "ko" and "ka" should be reversed to read "itsuka ko takaki." Also:
+　　❸kikayofu to mōsu──kikayofu yo to nan (　｜◦　◦　　) mōsu te (te was interpolated then crossed out) Gyo　　(Yūgao, page 105)
+indicates that the location reading "kikayofu to mōsu" in line 3 of the base text reads "kikayofu to mōsu te" in the Gyobutsu text, with "nan" interpolated below "to," and the final "te" was first interpolated and then crossed out.
+
+1. When variant readings are extremely numerous and cannot fit on the same page as the corresponding main text of the base text, only the remainder is collected at the end of each chapter, with the page number noted. For example:
+　　　[Continued on page 29]　　(Kiritsubo pages 22, 23, 24, 27)
+indicates that variant readings that do not fit on pages 22, 23, 24, and 27 are collected together on page 29.
+　　For pages containing such remainders of variant readings, notes indicate from which pages these remainders continue. For example:
+　　　[From page 22]　　[From page 23]
+　　　[From page 24]　　[From page 27]　　(Kiritsubo page 29)
+indicates that the variant readings collected on page 29 continue from pages 22, 23, 24, and 27 respectively.
+
+【Left Page】
+1. Regarding the notation of variant readings, necessary notes beyond what has been described above are provided at the beginning of each chapter.
+
+　　　　　Guide　　　　　　　　　　　　　19

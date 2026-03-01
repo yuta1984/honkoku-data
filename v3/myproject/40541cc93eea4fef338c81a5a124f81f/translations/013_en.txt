@@ -1,0 +1,36 @@
+【Right Page】
+　　　　　Guide　　　　　　　　　　　　　14
+
+indicates that the location reading "mushi no kowe-gowe moyohoshi kaho naru mo" in line 5 of the base text reads "mushi wo shimi kaho ni kowe-gowe furitatetaru nado subete" in the Yōmyōke family text, the Kunifuyu text is almost identical to this, with the only difference being that where the Yōmyōke family text has "furi," the Kunifuyu text has "yori." This shows that these two types of variants are not listed exhaustively; instead, the variant from the higher-ranking Yōmyōke family text is recorded as representative with the abbreviation of the Yōmyōke family text attached, the abbreviation of the Kunifuyu text is listed below it, and the differences are shown in parentheses.
+
+1. Interpolated characters are indicated with ○ marked to their left side. For example:
+　　➋koto naru ni──koto (　｜○　○　) naru ni Shō　　(Yūgao, page 106)
+indicates that the location reading "koto naru ni" in line 2 of the base text reads "naru ni" in the Shōhaku text, with "koto" interpolated above it.
+
+When the number of interpolated characters is large and the text is identical to the base text, it is directly marked as "interpolation." For example:
+　　⓫nozokite──interpolation Gyo　　(Yūgao, page 111)
+indicates that the location reading "nozokite" in line 11 of the base text has been interpolated in the Gyobutsu text.
+
+When the number of interpolated characters is very large and moreover constitutes a variant reading compared to the base text, ○ is not attached to the left side, but parentheses are provided below it marked "interpolation."
+　　⓮shirushi ni ya──kau kata-gata imishiki on-inori tomo no (interpolation) shirushi ni ya Gyo　　(Yūgao, page 136)
+indicates that at the location reading "shirushi ni ya" in line 14 of the base text, the Gyobutsu text has "kau kata-gata imishiki on-inori tomo no" interpolated above "shirushi ni ya." Also,
+　　❾utzumoretareba......10 keutoku mo──utzumoretareba "osoroshige nari hechi nau no kata ni zo saushi nado
+
+【Left Page】
+　　　shite hito sumu beka mere do konata ha hanaretari" (interpolation) ito keutoge ni Gyo　　(Yūgao, page 120)
+indicates that from the location reading "utzumoretareba" in line 9 of the base text to the location reading "keutoku mo" in line 10, the Gyobutsu text reads "utzumoretareba ito keutoge ni," with "osoroshige nari hechi nau no kata ni zo saushi nado shite hito sumu beka mere do konata ha hanaretari" interpolated between "utzumoretareba" and "ito keutoge ni."
+
+1. When indicating interpolations that exist in the base text itself, those done in red ink have this fact noted. For example:
+　　⓬on-musuko no──on-musuko no (　｜○) (red ink) Ō　　(Hahakigi, page 35)
+indicates that the "no" in "on-musuko no" in line 12 of the base text has been interpolated in red ink in the original text.
+
+1. Characters that have been crossed out are indicated with ─ marked to their left side. For example:
+　　❼suguretaru to ha──suguretaru ko (　｜─) to ha Ike　　(Hahakigi, page 38)
+indicates that the location reading "suguretaru to ha" in line 7 of the base text reads "suguretaru koto ha" in the Ikeda text, with "ko" crossed out.
+
+Characters written in place of crossed-out characters are recorded by providing parentheses below the crossed-out characters. For example:
+　　➊makade tamau──ma ha (　｜─) (kade) sase tamau Gyo　　(Yūgao, page 101)
+indicates that the location reading "makade tamau" in line 1 of the base text reads "ma ha sase tamau" in the Gyobutsu text, with "ha" crossed out and "kade" written in its place.
+
+1. When indicating cross-outs that exist in the base text itself, those done in red ink have this fact noted. For example:
+　　　　　Guide　　　　　　　　　　　　　15
