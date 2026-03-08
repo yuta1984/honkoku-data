@@ -1,0 +1,29 @@
+[Right page]
+※○1 tan 1 se 6 bu
+
+[Right figure]
+[Top side] 11.5 ken [Middle] 8.5 ken [Bottom side] 16 ken
+[Right side] Length 28 ken
+　By the calculation method, add the middle 8.5 ken to the width of 16 ken,
+　then add 11.5 ken, making a total of 36 ken. Dividing
+　this by three gives 12 ken. Multiplying this by 28 ken gives
+　336 tsubo. Divide this by the field method of 3.
+
+
+※○6 se 6 bu
+[Left fan-shaped figure]
+[Right side] Length 28 ken [Left side] 14 ken [Width] 9 ken
+
+
+[Left page]
+　By the calculation method, when adding 14 ken to 28 ken, it becomes 42 ken.
+　Dividing this by two gives 21 ken. Multiplying this by 9 ken gives
+　189 tsubo. Divide by the field method of 3 to find the answer.
+
+※○5 se 27 bu 7 bu 5 ri
+[Circle in the middle]
+[Diameter] 15 ken
+　By the calculation method, placing 15 ken on both sides and multiplying gives 225 tsubo.
+　When multiplying this by the circle method of 79,
+　it becomes 177 tsubo 7 bu 5 ri. Dividing this by the field method of 3,
+　you should know it as 5 se 27 bu 7 bu 5 ri.

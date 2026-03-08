@@ -1,0 +1,26 @@
+[Right page]
+※○3 se 7 bu 4 bu
+[Right equilateral triangle]
+[Right side] 15 ken [Left side] Same [Bottom side] Same
+　By the calculation method, place 15 ken on both sides. Multiplying gives 225 tsubo.
+　When multiplying this by the triangle method of 433,
+　it becomes 97 tsubo 4 bu 2 ri 5 mo. When dividing this by the field method of 3,
+　you should know it as 3 se 7 bu 4 bu 2 ri 5 mo.
+
+※○8 se 12 bu
+[Left rhombus]
+[Vertical direction] Length 28 ken [Horizontal direction] 18 ken
+
+
+[Left page]
+　By the calculation method, dividing the width of 18 ken by two gives 9 ken.
+　Multiplying this by the length of 28 ken gives 252 tsubo.
+　Dividing this by the field method of 3, you should know it as 8 se 12 bu.
+
+※○9 se 3 bu
+[Isosceles triangle]
+[Left side] Length 39 ken [Left and right] 14 ken
+　By the calculation method, dividing the width of 14 ken by two gives 7 ken.
+　Multiplying this by the length of 39 ken gives 273 tsubo,
+　as you should know. When dividing this by the field method of 3,
+　you should know it as 9 se 3 bu.

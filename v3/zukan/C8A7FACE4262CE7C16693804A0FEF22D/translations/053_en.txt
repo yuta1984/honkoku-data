@@ -1,16 +1,17 @@
-Silk Cap Mushroom (kinu kasatake)　　　　　　6　One variety　　Soft-shelled turtle mushroom
-Net Cap Mushroom (ami kasatake)　　　　　　7　One variety　　Fungi Historical Illustrations
-Ninety-nine Hair Mushroom (tsukumotake)　　8　Hand swelling (tetsuhare)　　Horse dung mushroom
-Moonlit Night Mushroom (tsukiyotake)　　　　9　Poisonous Mushroom (tokutake)
-Straw Mushroom (waratake)　　　　　　　　10　One variety　　Horse dung mushroom
-Refuse Mushroom (chiriakatake)　　　　　　　　One variety　　　　　　11
-One variety　　Kusumoto's Illustrations　　　　Solitary Mushroom (komotake)　　　　　12
-One variety　　Komokutake　　　　　　　Dust Mushroom (chiritake)　　　　　　13
-One variety　　Kusumoto's Illustrations　　　　Net Cap Mushroom (ami kasatake)　　　14
-Ground Scutellaria (chikin)　　　　　　　　Demon Cap (kikai)　　　　　　　15
-One variety　　Fox's brush　　　　　One variety　　Black-colored thing　16
-One variety　　Observation illustrations　　One variety　　Fungi Historical Illustrations　17
-One variety　　Same as above　　　　　One variety　　Shinyo Fungi Compendium　18
-One variety　　Poisonous mushroom　　　Flower vase (kahin) bearer　　　19
-Tea Platform Moss (chadai koke)　　　　　　　　　Bamboo Mattress (chikushin)
-One variety　　Thing growing on wisteria bamboo　20　Bamboo Grass Child (sasako)　　Bamboo grass mushroom　21
+Kinukasa-take (Silk cap mushroom)　　　　　　6　One variety　　Suppon-take
+Amikasa-take (Net cap mushroom)　　　　　　　7　One variety　　From Kinshi-zu
+Tsukumo-take (Ninety-nine hair mushroom)　　　8　Tetsuhare (Hand swelling)　　Horse dung mushroom
+Tsukiyo-take (Moonlight mushroom)　　　　　　　9　Doku-take (Poisonous mushroom)
+Wara-take (Straw mushroom)　　　　　　　　　　10　One variety　　Horse dung mushroom
+Komoku-take (薼 mushroom)　　　　　　　　　　　One variety　　　　　　　11
+One variety　　From Kusumoto-shi-zu　　　　Komo-take (Solitary mushroom)　　　　　12
+One variety　　Komoku-take　　　　　　　Komi-take (薼 mushroom)　　　　　　　13
+
+One variety　　From Kusumoto-shi-zu　　　　Amikasa-take (Net cap mushroom)　　　　14
+Chi-kin (Earth fungus)　　　　　　　　　　　Kikai (Demon cap)　　　　　　　　　15
+One variety　　Kitsune-no-efute　　　　One variety　　Black-colored thing　　　16
+One variety　　From Kangka-zu　　　　　One variety　　From Kinshi-zu　　　　17
+One variety　　Same as above　　　　　　One variety　　From Shin'yō Kinfu　　18
+One variety　　Poisonous mushroom　　　　Kahei (Flower vase) motase　　　　　19
+Chadai-goke (Tea platform moss)　　　　　　　　Chikushin (Bamboo mattress)
+One variety　　Thing growing on dwarf bamboo　20　Sasako (Bamboo grass child)　　Sasa-take　21

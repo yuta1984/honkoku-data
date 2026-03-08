@@ -1,0 +1,26 @@
+[Right page]
+※1 tan 12 bu
+[Right triangle]
+[Vertically] Length 39 ken [Bottom side] 16 ken
+　By the calculation method, when dividing the length of 16 ken by two, it becomes 8 ken. When
+　multiplying this by the length of 39 ken, it becomes 312 tsubo. When dividing by the field method of 3,
+　it should be known as 1 tan 12 bu.
+
+※1 tan 3 se 15 bu
+[Left trapezoid]
+[Left side] Length 33 ken [Right side] 12 ken [Horizontally] 18 ken
+　By the calculation method, when adding 12 ken to the length of 33 ken,
+
+[Left page]
+　it becomes 45 ken. When dividing by two, it becomes 22 ken and a half.
+　Multiplying this by the width of 18 ken gives 405 tsubo. When dividing by the field
+　method of 3, it should be known as 1 tan 3 se 15 bu.
+
+※○1 tan 3 se 19 bu and a half
+[Middle figure]
+[Upper side] 18 ken [Vertically] Length 39 ken [Lower side] 18 ken
+[Right horizontal] 6 ken square [Left horizontal] 9 ken square
+　By the calculation method, when multiplying the length of 39 ken by 18 ken, it becomes 702 tsubo.
+　Setting this aside on the right, ○also when adding the 6 ken square to the 6 ken
+　square, it becomes 15 ken. When dividing this by two,
+　it is 7 ken and a half. Multiplying this by 39 ken gives 292 tsubo and a half

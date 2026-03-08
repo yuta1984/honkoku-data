@@ -1,16 +1,13 @@
-Right
-　　【Title】
+[Right page]
+[Title characters]
+　Honzō Zufu (Illustrated Pharmacopoeia)
 
-　Honzō Zufu
-
-
-Left
-
-Honzō Zufu Volume 60 Index
-　　　Vegetable Section《Interlinear note: Mushroom/Fungi Category｜》
-Earth Fungus (tokin)　　　　　　　1 　Millet Mushroom (awatake)　　 　　　　2
-One variety　　Fungi Historical Illustrations　　　 　 One variety　　Kusumoto's Illustrations　3
-One variety　　Nikkō Fungi Compendium　　 　 One variety　　Observation Illustrations
-Horse Dung Mushroom (makusotake)　　　　　　4　One variety　　Observation Illustrations
-Citrus Mushroom (kōshitake)　　　　　　5　One variety　　Fungi Historical Illustrations
-Boar's Head Mushroom (ikuhitake)　　　　　　　　One variety　　Fungi Historical Illustrations
+[Left page]
+Table of Contents for Honzō Zufu Volume 60
+　　　Vegetable Section《Interlinear note: Mushroom and Fungus Category｜》
+Tsuchi-kin (Earth mushroom)　　　　　　　1 　Awa-take (Millet mushroom)　　 　　　　2
+One variety　　From Kinshi-zu　　　 　 One variety　　From Kusumoto-shi-zu　3
+One variety　　From Nikkō Kinfu　　 　 One variety　　From Kangka-zu
+Ba-kuso-take (Horse dung mushroom)　　　4　One variety　　From Kangka-zu
+Kōshi-take (Citrus mushroom)　　　　　　5　One variety　　From Kinshi-zu
+Ikubi-take (Wild boar neck mushroom)　　　　One variety　　From Kinshi-zu

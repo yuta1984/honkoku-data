@@ -1,0 +1,26 @@
+[Right page]
+※○1 tan 2 se 18 bu 8 bu 4 ri
+
+[Right track-shaped figure]
+[Vertical direction] Length 30 ken [Horizontal direction] 14 ken
+　By the calculation method, when subtracting the width of 14 ken from the length of 30 ken,
+　16 ken remains. Multiplying this by 14 ken gives 224 tsubo.
+　Setting this aside on the right, and also placing 14 ken on the left and right sides and
+　multiplying gives 196. Multiplying this by the circular method of 79 gives
+　154 tsubo 8 bu 4 ri. When adding this to the right side calculation,
+　it becomes 378 tsubo 8 bu 4 ri. Dividing this by the field method
+　of 3 gives 1 tan 2 se 18 bu 8 bu 4 ri.
+
+[Left page]
+※○
+[Right trapezoid]
+[Inside the trapezoid] 1 tan 9 se 24 bu
+[Right side] Length 45 ken [Left side] Length 54 ken [Horizontal direction] 12 ken
+　By the calculation method, when adding 45 ken to the length of 54 ken,
+　it becomes 99 ken. Dividing by two gives 49 ken and a half.
+　Multiplying this by the width of 12 ken gives 594 tsubo.
+　This should be divided by the field method of 3.
+
+※○1 tan 2 se 4 bu
+[Left fan shape]
+[Upper arc] 26 ken [Middle] 28 ken
