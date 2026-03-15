@@ -1,0 +1,34 @@
+Character Chart
+
+[Table format, horizontal writing]
+[First Column]
+Regular/Cursive script　イ　i　人読如依 (jin reads like yi)
+Regular/Cursive script　ロ　ro　類読如魯 (lei reads like lu)
+Regular/Cursive script　ハ　ha　波読如花 (bo reads like hua)
+Regular/Cursive script　ニ　ni　仁読如義 (ren reads like yi)
+Regular/Cursive script　ホ　ho　保読如夫 (bao reads like fu)
+Regular/Cursive script　ヘ　he　飛読如揮 (fei reads like hui)
+
+[Second Column]
+Regular/Cursive script　ト　to　登読如都 (deng reads like du)
+Regular/Cursive script　チ　chi　知読如痴 (zhi reads like chi)
+Regular/Cursive script　リ　ri　里読如利 (li reads like li)
+Regular/Cursive script　ヌ　nu　奴 (nu)
+Regular/Cursive script　ル　ru　留読如禄 (liu reads like lu)
+Regular/Cursive script　ヲ　wo　遠読如烏 (yuan reads like wu)
+
+[Third Column]
+Regular/Cursive script　ワ　wa　和読如哇 (he reads like wa)
+Regular/Cursive script　カ　ka　加読如喀 (jia reads like ka)
+Regular/Cursive script　ヨ　yo　有読如天 (you reads like tian)
+Regular/Cursive script　タ　ta　太読如達 (tai reads like da)
+Regular/Cursive script　レ　re　礼読如力 (li reads like li)
+Regular/Cursive script　ソ　so　卒読如蘇 (zu reads like su)
+
+[Fourth Column]
+Regular/Cursive script　ツ　tsu　律読如即 (lü reads like ji)
+Regular/Cursive script　ネ　ne　你 (ni)
+Regular/Cursive script　ナ　na　奈読如那 (nai reads like na)
+Regular/Cursive script　ラ　ra　羅読如喇 (luo reads like la)
+Regular/Cursive script　ム　mu　無読如某 (wu reads like mou)
+Regular/Cursive script　ウ　u　宇読如務 (yu reads like wu)

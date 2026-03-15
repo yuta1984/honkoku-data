@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100344693/v4/KEIO/KEIO-01031/KEIO-01031-00000.tif/full/full/0/default.jpg
+001.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100344693/v4/KEIO/KEIO-01031/KEIO-01031-00000.tif/full/full/0/default.jpg
 002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100344693/v4/KEIO/KEIO-01031/KEIO-01031-00001.tif/full/full/0/default.jpg
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100344693/v4/KEIO/KEIO-01031/KEIO-01031-00002.tif/full/full/0/default.jpg
 004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100344693/v4/KEIO/KEIO-01031/KEIO-01031-00003.tif/full/full/0/default.jpg

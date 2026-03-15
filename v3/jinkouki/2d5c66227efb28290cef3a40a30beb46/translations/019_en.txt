@@ -1,0 +1,25 @@
+[Right page]
+※1 tan 3 se 24 bu
+[Left hexagon]
+[Upper side] 12 ken [Middle horizontal direction] 18 ken [Lower side] 3 ken
+[Upper part in reverse direction] 15 ken [Lower part] 18 ken
+　By the calculation method, when adding 18 ken to 12 ken, it becomes 30 ken. When divided by two,
+　it becomes 15 ken. When multiplying this by the length of 15 ken,
+　it becomes 225 tsubo. Setting this aside, and when adding 3 ken to the horizontal
+　18 ken, it becomes 21 ken.
+　When divided by two, it becomes 10 ken and a half. When multiplying this by the length of 18 ken,
+　it becomes 189 tsubo. Adding this to the right-side 225 tsubo,
+　it becomes 414 tsubo. This is divided by the field method of 3.
+
+[Left page]
+※○4 se 24 bu
+[Right concave quadrilateral]
+[Upper right side, in reverse direction] 24 ken [Lower right side] 12 ken
+[Middle horizontal direction] 2 ken [Lower side] 18 ken
+　By the calculation method, divide 2 ken by two to get 1 ken. When
+　multiplying this by the length of 24 ken, it becomes 24 tsubo.
+　Also, when adding 18 ken to 2 ken, it becomes 20 ken.
+　Dividing by two gives 10 ken. When multiplying this by the length of 12 ken,
+　it becomes 120 tsubo. When adding this to the right-side 24 tsubo,
+　it becomes 144 tsubo. When dividing this by the field method of 3,
+　it should be known as 4 se 24 bu.

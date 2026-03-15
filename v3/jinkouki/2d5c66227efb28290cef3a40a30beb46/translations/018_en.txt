@@ -1,5 +1,27 @@
 [Right page]
-　When subtracting this amount from the right portion, there remains 409 tsubo and a half.
-　When dividing by the field method of 3, it can be known as stated above.
+　becomes. When subtracting this much from the right side, there remains 409 tsubo and a half.
+　When divided by the field method of 3, it can be known as shown on the right.
 
-※○
+※○1 tan 4 se
+[Right parallelogram]
+[Left side] Length 28 ken [Right side] Length 28 ken [Horizontal direction] 15 ken
+　By the calculation method, when multiplying the length of 28 ken by 15 ken, it becomes 420 tsubo.
+　When divided by the field method of 3, it should be known as 1 tan 4 se.
+
+※○1 tan 6 se 24 bu
+[Left hexagon]
+[Upper side] 17 ken [Vertical direction] Length 36 ken
+[Middle, horizontal direction] 11 ken [Lower side] 17 ken
+
+[Left page]
+　By the calculation method, add 11 ken to 17 ken, and multiply this by one to get
+　56 ken. When dividing this by four, it becomes 14 ken.
+　When multiplying this by the length of 36 ken, it becomes 504 tsubo.
+　When divided by the field method of 3, it is known as 1 tan 6 se 24 bu.
+
+※2 tan 4 se 9 bu
+[Trapezoid]
+[Left side] Length 63 ken [Right side] 18 ken [Horizontal direction] 18 ken
+　By the calculation method, when adding 18 ken to 63 ken, it becomes 81 ken.
+　When dividing by two, it becomes 40 ken and a half. When multiplying this by the width of 18,
+　it is 729 tsubo. When dividing this by the field method of 3, it is 2 tan 4 se 5 bu.

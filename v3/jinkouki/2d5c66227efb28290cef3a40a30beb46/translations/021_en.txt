@@ -1,0 +1,28 @@
+[Right page]
+　　When dividing 21 bu by 3, it becomes 9 tan 3 se 7. 
+　　Multiplying this by 1 koku 5 to should be known as the yield.
+
+　※There is a yield of 35,200 koku. When the crop rate is 6 bu 5 rin,
+　　when asking how much the crop yield from the right yield amounts to,
+　　　○The crop is 22,880 koku.
+　　By the calculation method, placing 35,200 koku on the right and multiplying by 6 bu 5 rin,
+　　this should be known as the right crop yield.
+
+　※"Men ichison" means that out of 1 koku of yield, 1 to goes to the peasants.
+
+　※There is a yield of 35,200 koku. This crop yield is 25,880
+　　koku. When asking what rate this is,
+
+[Left page]
+　　　○It becomes 6 bu 5 rin.
+　　By the calculation method, placing the crop yield on the right and dividing by the yield, it becomes 6 bu 5 rin.
+
+　※Similarly, with a yield of 35,200 koku and crop yield of 22,880 koku,
+　　when asking what loss this corresponds to,
+　　　○It is 3 son 5 rin.
+　　By the calculation method, subtracting the crop yield amount from the yield leaves
+　　12,320 koku remaining. Dividing this by the yield gives 3 son 5 rin.
+
+　※With a crop rate of 6 bu 5 rin and crop yield of 22,880 koku,
+　　when the right yield is unknown,
+　　　○The yield is 35,200 koku.

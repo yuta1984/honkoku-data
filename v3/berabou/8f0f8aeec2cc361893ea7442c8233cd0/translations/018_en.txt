@@ -1,0 +1,262 @@
+[Below the street]
+[Shop] Kanaya Sensuke
+◎Shirotae
+　　Kochō
+　　Shinobu
+◎Naoe
+　　Isoko
+　　Fumiko
+◎Kayoiji
+　　Fukami
+　　Shigeko
+◎Mihosaki
+　　Akeba
+　　Tanomo
+◎Suminoto
+　　Ichino
+　　Ichiya
+◎[Vacant]
+○Kokonoe
+　　Kageo
+○Makigoromo
+　　Momiji
+○Somekinu
+　　Yayoi
+○Itsuhata
+　　Kumeko
+○Kisaragi
+　　Kikuno
+○Tamaura
+　　Kinko
+
+○Naokiku
+○Kiyotama
+○[Vacant]
+△Shiraura
+△Katanami
+△Minatoji
+△Tokoyo
+△Hanakishi
+△Shinonome
+△Shiraito
+△Sumaura
+△Wakana
+△Mitsufushi
+　Iohata
+　Shikasaki
+　Yoshizumi
+　Naniwae
+　Niosaki
+
+　Naono
+　Hananoe
+　Sodeura
+　Yaegoromo
+　Momonoe
+
+　　Yarite
+　　　Hatsu
+
+From here, Edochō 1-chōme is rented
+
+[Shop] Iseya Kōemon
+△Naramachi
+△Miyoshino
+△Minato
+△Kametsuru
+
+　Shigenoi
+　Nishikigi
+　Fushinoi
+　Kiyohana
+　Kayoiji
+　Shiranami
+
+　Hanaka
+　Hanaaoi
+　Utagawa
+
+　　Yarite
+　　　Sayo
+
+[Shop] Hyōkoya Heibei
+○Ōsato
+　　Haruno
+○Hatsuume
+　　Tatsuta
+○Michinoku
+△Hanayo
+△Chisato
+
+　Sanshū
+　Naosato
+　Yoshino
+　Michishiba
+　Hananoe
+　Hatsuhana
+
+　Chiyotsuru
+
+　　Yarite
+　　　Kiyo
+
+[Shop] Ebiya Tōhachi
+△Tsumaura
+△Tomiyama
+△Sonoume
+　Tsumakiku
+　Hanatsuru
+
+　Kawachi
+　Matsuyama
+　Kikusato
+　Chiyotsuru
+　Takeshino
+　Yoshikawa
+
+[Above the street]
+[Shop] Ichinoya Shirōbei
+△Ninoaya
+　　Daigorō
+△Kameyama
+　　Kijirō
+△Kamekiku
+　　Kinya
+△Kasan
+△Kiyokawa
+
+△Sakurato
+△Tomitsuru
+　Somekinu
+　Yaegume
+　Hanaka
+　Wakakusa
+
+　Hanamachi
+　Ninomachi
+　Kametsuru
+　Kuwachō
+　Yoshisato
+　Sodeura
+　Ōshū
+　Shiratama
+　Kikuyama
+
+　　Yarite
+　　　Chō
+
+[Shop] Tsutaya Chūjirō
+△Yoshiume
+△Michishiba
+△Hanadai
+△Kyōura
+　Kamekiku
+
+　Makishino
+　Umenoe
+　Hatsuhana
+　Sasanoto (or Sakunoto)
+　Kikusato
+　Hanakinu
+　Hatsuhino
+
+[Shop] Tamuraya Jiemon
+△Kiyoura
+△Kinyama
+△Matsuyama
+△Wakaura
+△Tomiyama
+
+△Katsuyama
+　Kiyotama
+　Kikunoe
+　Izayoi
+　Hatsuume
+　Takikawa
+　Hanaka
+
+　Suminoe
+　Shigeyama
+　Toyoura
+
+　　Yarite
+　　　Tsuya
+ーーーーーー
+From here, Ageya-chō is rented
+ーーーーーー
+[Shop] Naka-Ōmiya Zenjūrō
+◎Konomachi
+　　Nioi
+　　Shinobu
+◎Nanamachi
+　　Tokiwa
+　　Tomiji
+◎Handayū
+　　Nishiki
+　　Miyano
+◎Mitsuura
+　　Momiji
+　　Mihono
+◎Mandayū
+　　Shizuka
+　　Fumino
+◎Miyakoko
+　　Chieko
+　　Momoyo
+◎Mitsushio
+　　Mihoki
+　　Nagisa
+◎[Vacant]
+○Azumaya
+　　Chidori
+○Orikoto
+　　Kichiko
+○Hinakiku
+　　Yayoi
+
+○Ninoaya
+　　Hanano
+○Ninoura
+　　Eiko
+○Chihama
+○Nuregoromo
+○Hanatsuru
+○Kikusono
+○Shōdayū
+○Jūdayū
+△Ayakiku
+△Mihosato
+△Chiyokinu
+△Oritsuru
+△Hatsuito
+△Hananoto
+△Nishikino
+△Nanakiku
+△Uranami
+△Miyamako
+△Oriaya
+△Hinakoto
+
+△Sayogoromo
+△Orihata
+△Chiura (or Chikara)
+△Kyōura
+　Ikuura
+　Minatoko
+　Chōura
+　Hatsuume
+　Bandai
+　Matsuharu
+　Miyako
+　Sumino
+　Minae
+　Ninoe
+　Ninosato
+　Hanakawa
+　Matsukaze
+　Hatsusemi
+　Mitsuharu
+　Miasa
+
+　　Yarite
+　　　Kane
