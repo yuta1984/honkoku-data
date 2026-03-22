@@ -1,0 +1,157 @@
+[Below the street]
+[Shop] Iseya Kohachi
+△Yamanoi
+△Tamanoi
+△Iseno
+△Hanagoromo
+△[Vacant]
+
+　Hanakawa
+　Wakanami
+　Kikusono
+　Utanami
+　Makikinu
+　Someyama
+　Somenoi
+
+　　　Yarite
+　　　　　Tsuma
+
+ーーー
+From here, Kado-chō is rented
+ーーー
+
+[Shop] Yamaguchiya Hikobei
+△Kiyozumi
+△Michinoku
+△Kametsuru
+　Hinamachi
+　Tamakiku
+
+　Miyako
+　Tamagawa
+　Kamekiku
+　Tomioka
+
+　　Yarite
+　　　　Tsune
+
+[Shop] Nimonjiya Uhei
+　Sayokinu
+　Hanamachi
+　Hanakiku
+　Utakiku
+　Utasato
+
+　Onoe
+　Kikyō
+　Kachō
+
+　　　Yarite
+　　　　　Isa
+
+[Shop] Tamaya Shinemon
+△Takasode
+　Hanamatsu
+　Harukaze
+　Wakasato
+
+　Nanaura
+　Kotoura
+　Ayagoromo
+　Sayogoromo
+
+Tsubone Nimonjiya Uhei
+　　[Blacked out]
+
+Tsubone Iseya Kōemon
+△Wakanami
+　Toyozumi
+　Wakatsuru
+　Someyama
+
+　Kisegawa
+　Miyakono
+　Hatsuaya
+　Toyotsuru
+
+[Above the street]
+Tsubone
+　[Blacked out]
+
+Tsubone Hayashiya Heijirō
+　Hananoi
+　Sekinoi
+　Kiyozumi
+
+　Toyoyama
+　Hanakiri
+　Umenoi
+
+[Shop] Ōmiya Genshichi
+△Somekinu
+△Wakatake
+　Hanasono
+　Hatsuse
+
+　Yoshino
+　Hanayo
+　Matsuura
+　Kōwai
+　Matsunoi
+
+　Midorigi
+
+　　　Yarite
+　　　　　Kane
+
+ーーー
+Edo-chō 2-chōme is rented
+ーーー
+[Shop] Nimonjiya Ribei
+△Azuma
+△Shigeura
+△Kōwai
+△Harukaze
+△Someyama
+
+　Shikasaki
+　Hanayo
+　Toyotsuru
+　Katsuyama
+　Tsumakiku
+　Harue
+
+　　　　　Matsu
+
+[Shop] Sawadaya Iyo
+△Matsukaze
+△Katsuura
+△Katsuyama
+△Tamakiku
+△Katsuragi
+
+　Tamanoi
+　Konoharu
+　Wakakura
+　Hatsukiku
+
+　　　　Tome
+
+[Shop] Masuya Ito
+△Fushinoe
+△Sonoyama
+△[?]shū
+　Utamaki
+　Kijihana
+
+　Mitsuhana
+　Yoshisato
+　Toyosato
+　Konoito
+　Sasakuwa
+
+　Wakaito
+
+　　　　Yarite
+　　　　　　Tsuma

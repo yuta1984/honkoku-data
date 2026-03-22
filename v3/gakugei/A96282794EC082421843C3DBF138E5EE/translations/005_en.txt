@@ -1,0 +1,28 @@
+【Right page】
+Table of Contents for Meiji Jinkōki
+
+Volume One
+　Basic numbers, Large numbers, Decimal numbers, Measurement numbers, Quantity numbers, Weight numbers
+　Celestial degrees, Terrestrial measures, Gold currency, Silver currency, Copper currency
+　How to use the abacus (soroban), Voices for addition, Voices for subtraction
+　Addition calculations, Subtraction calculations, Multiplication table voices / with commentary
+　Division voices for the eight operations, with commentary, Introduction to mathematics
+　Illustrated explanations of eight problems in the eight operations, Illustrated explanations of nine problems in division
+　Fifty problems for addition and subtraction review / with answers and formulas
+　One hundred forty-eight problems for multiplication and division review, with answers and formulas
+　Explanation of proportional methods, Solutions to the same eight problems
+
+【Left page】
+Meiji Elementary Jinkōki
+　　　　　　　　　　　　　　　　　　　　　　Written by Fukuda Riken
+　　　　　　　　　　　　　　　　　　　　　　Edited by Hanai Shizu
+
+　　　Basic Numbers
+　One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten
+
+　One, three, five, seven, nine are yang numbers. These are called odd numbers, also called heavenly numbers. Two,
+　four, six, eight, ten are yin numbers. These are called even numbers, also called earthly numbers. The heavenly numbers
+　sum to twenty-five, the earthly numbers sum to thirty. When these are combined, they make fifty-five.
+　This is called the number of heaven and earth. There is an explanation of this in the I Ching (Book of Changes).
+
+　　　Large Numbers　　refers to numbers above one

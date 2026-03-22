@@ -1,21 +1,14 @@
 【Right Page】
 　　　Lord Tadamasa's reign: Anesaki, Shimotsuma, Matsushiro
-　　　　　　　　　　　　　Takada, Fukui
+　　　　　　　　　　　　　 Takada, Fukui
 　　　Lord Yoshishina's reign: Yoshie, Fukui
-　　　For those summoned during such territorial periods, prioritize according to their former status
-　　　Also, for those of equal rank from the same reign, determine their precedence based on the current
-　　　ranking of their descendants
-1. Regardless of in which previous generation someone established service to the lord's house and was summoned, concerning the
-　　founder's ancestors and lineage matters prior to that founder,
-　　these shall naturally be recorded under that founder, as well as those who inherited the house, brothers, and children
+　　For those summoned during such territorial periods, precedence shall be given based on their former status
+　　For those of equal rank from the same lord's reign, their precedence shall be determined by the current ranking of their descendants
+1. Regardless of which generation before they were summoned to serve the founding house, for the founding ancestor, the matters of ancestors before that time as well as their lineage and background shall naturally be recorded under that founding ancestor. Family successors, brothers, and children
 
 【Left Page】
-　　grandsons and below—all members of the same house shall be gathered in one place and
-　　recorded as a genealogy《Marginal note: When the same house is placed together, they enter the main house's position regardless of rank》For those currently serving,
-　　mark each with the character "current" (当) in red ink. Also, for those where it is difficult to distinguish between main and branch houses,
-　　add the character "main" (本) in red ink
-1. Among related houses, even if they are brothers, if they were summoned in different reigns and it is
-　　difficult to establish a common founder in one place, record them separately
-1. For those who became adopted sons, record generally the known information about
-　　their birth family's original name, lineage, etc.
-1. Regarding the number of stipends granted by the lord's house, through successive reigns
+　　and grandchildren and below—all members of the same family shall be gathered in one place and recorded using genealogical charts《Marginal note: When families are grouped together, they shall be placed according to the main family's position regardless of rank》For those currently serving,
+　　the character "tō" (current) shall be marked in red above each name. For those where it is difficult to distinguish between main and branch families, the character "hon" (main) shall be added in red.
+1. Among related families, even if they are brothers but were summoned in different lords' reigns, making it difficult to establish a common founding ancestor, they shall be recorded separately.
+1. For those who became adopted sons, their birth family's original name and lineage, insofar as these are known, shall be generally recorded.
+1. Regarding the number of stipends granted by the lord's house, throughout successive generations

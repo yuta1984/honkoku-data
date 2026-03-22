@@ -1,18 +1,37 @@
-Multiply the quotient by the cube 2 ken to get 1×2 = 4 tsubo. Subtract this and place it on the left. Again subtract and place the quotient 10 ken. Multiply this by 3 sides to get 30 ken. Add the cube quotient 2 ken to this to get 32 ken. Multiply this by the 4 tsubo on the left to get 128 tsubo. Divide this and subtract the remaining tsubo to find that the quotient is 12.
+Multiply the 2 ken that was placed as quotient
+together to get 1 × 2 = 4 tsubo.
+Set this aside to the left,
+and again set aside the quotient 10 ken.
+If you multiply this by three directions,
+it becomes 30 ken.
+Add the standing quotient 2 ken
+to this to get 32 ken.
+If you multiply this by the 4 tsubo on the left, it becomes 128
+tsubo. Dividing by this and subtracting the remaining tsubo
+reveals the quotient to be 12.
 
-1: Place the quotient above the 1st digit
-2, 3, 4, 5: Place the quotient above the 2nd digit  
-6, 7, 8, 9: Place the quotient above the 3rd digit
+1: Place quotient above 1 digit
+2, 3, 4, 5: Place quotient above 2 digits  
+6, 7, 8, 9: Place quotient above 3 digits
 
-Although there are methods to perform square root extraction (kaiheihō) and cube root extraction (kairitsuhō) by separating quotient, dividend, divisor,廉 (ren), and 隅 (sumi) from the right, since beginners find it difficult to master such methods, I record this diagram method here. However, this is not the orthodox method. Now I also set up quotient, dividend, divisor, 廉 (ren), and 隅 (sumi) on the left for those who wish to learn this.
+Although there is a method to perform square root and cube root extraction by separating quotient, dividend, divisor, curtain, and corner from the right, since beginners find it difficult to enter into that method, the diagram formula on the right is recorded here. However, this is not the orthodox technique. Now, placing quotient, dividend, divisor, curtain, and corner on the left is what we know today.
 
-《Chapter 4: The Process of Square Root Extraction Method》
-▲There is a square area of 196 bu. When made into a square, how many ken per side does it become? [Answer] 14 ken per side.
+《Title: Chapter 4 - Procedure of Square Root Extraction Method (kaihei hō no shidai)》
+▲There is a flat area of 196 bu. When made into a square,
+how many ken per side does it become? [Answer] 14 ken per side.
 
 Place 196 bu as the dividend.
-Borrow 1 counter and place it as 廉 (ren).
-First, when examining the place values, advancing one position at a time as 1, 10, 100, there is no hundreds place, so it is the tens place. Considering it as 10 ken per side, place 10 ken as the quotient.
-《Note: Now 廉 (ren) becomes 1 place. 廉 (ren) advances 2 positions at a time. The divisor advances 1 position at a time. Descending follows the same pattern.》
-Record this in the next diagram.
+Borrow one counter in □ and place it as the curtain.
+First, when examining the position, advancing one row at a time,
+when looking at 1, 10, 100, there is no hundreds place,
+it is the tens place. Seeing it as 10 ken per side,
+place 10 ken as the quotient.
+《Note: Now the curtain becomes 1 position | The curtain rises 2 rows at a time, the divisor rises 1 row | at a time. Division is also like this》This is
+recorded in the next diagram.
 
-Comparing this quotient with 廉 (ren), using the multiplication table, add 1×1 to the divisor to make the divisor 1. Comparing this direction □ with the quotient, using the multiplication table 1×1 gives 100 bu, subtract from the dividend, and the remainder of the dividend, again this in the next diagram □ next
+Comparing this quotient and curtain using
+the multiplication table, add 1 × 1 to the divisor,
+making the divisor 1. Comparing this divisor × quotient
+using the multiplication table gives 1 × 1 = 100 bu,
+subtract from the dividend. The remainder of the dividend
+is also shown in the next diagram...

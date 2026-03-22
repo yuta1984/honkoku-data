@@ -1,0 +1,226 @@
+[Below the street]
+[Shop] Ōgiya Nibei
+△Ninoura
+　　Daikichi
+△Utamachi
+　　Utako
+△Konohana
+　　Manko
+△Ayakinu
+△Chiyoshige
+
+△Karaaya
+　Komachi
+　Hatsukaze
+　Sayokinu
+　Hinamachi
+　Somegawa
+
+　　Yarite
+　　　　Tsuma
+ーーー
+From here, Ageya-chō is rented
+ーーー
+[Shop] Iseya Tōjirō
+○Toyomaki
+○Yoshino
+○Toyozumi
+△Somegoromo
+△Toyoume
+
+△Mitsuhana
+△Utagawa
+△Hananoi
+　Matsukaze
+　Yoshisato
+　Makishio
+
+　Chiyozumi
+　Iseno
+　Ninoaya
+　Someyama
+　Makikinu
+
+　　　Yarite
+　　　　　Tsuma
+
+[Shop] Kawachiya Hikoichi
+△Naniwako
+　　Haruno
+△Hideyama
+　　Tatsuta
+△Wakana
+　　Wakaki
+△Toyoyama
+　　Umeno
+△Someyama
+　　Kenshi
+
+△Futamachi
+　　Konoha
+　□□Utado
+　Yoshizumi
+　Shizuhata
+　Takama□
+　Enishi
+　Yoshi□
+
+　Somegawa
+　Suminoe
+　Matsukaze
+　Kariū
+
+　　　Yarite
+　　　　[Vacant]
+
+[Shop] Tomoeya Shichiemon
+△Kodayū
+△Handayū
+△Kuwachō
+△Kawachi
+△Hanayo
+
+△Tokiwano
+　Utaki
+　Ayame
+　Nishikigi
+　Hanamachi
+　Kamekiku
+　Somegawa
+　Koshikinu
+
+　　　Yarite
+　　　　　Matsu
+
+[Shop] Kiriya Hikoichi
+△Hanamachi
+　　Hanano
+△Hananoi
+　　Kenshi
+△Wakahagi
+　　Wakamono
+△Fujiura
+△Onoe
+
+△Hanakishi
+△Suminoe
+　Sodeshiba
+　Sonokiku
+　Wakayo
+　Wakatake
+　Hanayama
+
+　　Yarite
+　　　　Sono
+
+[Above the street]
+[Shop] Takemotoya Jibei
+△Katsuragi
+△Yoshino
+△Sanshū
+△Yamabuki
+△Matsushima
+
+　Shigeri
+　Ukishiba
+　Kinoe
+　Katsuyama
+　Ayakinu
+　Fushinoe
+　Ayame
+　
+　　　Yarite
+　　　　　Kiyo
+
+[Shop] Tsunokuniya Shichiemon
+△Hatsukiku
+△Konami
+△Wakatsuru
+△Tonami
+
+　Wakanami
+　Kamekiku
+　Kuranosuke
+　Yoshino
+　Wakoku
+　Kiyoshige
+
+　　　Yarite
+　　　　　Sen
+
+[Shop] Daisanya Ichiemon
+△Shiratama
+△Onoe
+△Utanosuke
+△Shigetsuru
+△Toyozumi
+
+△Mitsuhana
+△Hanakiku
+△Misaho
+△Yaekiku
+△Tsuruhata
+
+　Sayokinu
+　Sodeura
+　Onomachi
+　Murase
+
+　　　Yarite
+　　　　　Kiyo
+
+[Shop] Daikokuya Tōsuke
+△Naniwae
+△Toyosato
+△Mitsuura
+△Konami
+△Isawa
+
+　Yoshijūrō
+　Hatsuume
+　Yaeume
+　Yoshino
+　Sodeura
+　Tachibana
+
+　　　Yarite
+　　　　　Haru
+
+[Shop] Okamotoya Mankichi
+△Hatsuhana
+△Wakamatsu
+△Suminoe
+△Matsukaze
+△Wakatake
+
+△Hatsukaze
+△Katsuyama
+△Nishikigi
+　Hanamachi
+　Hatsumura
+　Sakuragi
+
+　Somesono
+　Hinakiku
+　Utaura
+　Karakinu
+　Fushinami
+
+　　　Yarite
+　　　　　Sen
+
+[Shop] Azumaya Yoshijūrō
+△Michisaki
+　　Wakaba
+△Ayame
+△Onoe
+△Yoshizumi
+
+　Toyonosuke
+　Michinoku
+　Matsukaze
+　Hatsuhana
+　Yaeume
+
+　　　Yarite
+　　　　　Haru

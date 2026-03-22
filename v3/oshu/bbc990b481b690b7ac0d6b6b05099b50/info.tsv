@@ -1,6 +1,6 @@
 filename	status	image
-001.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-001.tif/full/full/0/default.jpg
-002.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-002.tif/full/full/0/default.jpg
+001.txt	initiated	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-001.tif/full/full/0/default.jpg
+002.txt	initiated	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-002.tif/full/full/0/default.jpg
 003.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-003.tif/full/full/0/default.jpg
 004.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-004.tif/full/full/0/default.jpg
 005.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-005.tif/full/full/0/default.jpg
@@ -75,8 +75,8 @@ filename	status	image
 074.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-074.tif/full/full/0/default.jpg
 075.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-075.tif/full/full/0/default.jpg
 076.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-076.tif/full/full/0/default.jpg
-077.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-077.tif/full/full/0/default.jpg
-078.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-078.tif/full/full/0/default.jpg
+077.txt	initiated	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-077.tif/full/full/0/default.jpg
+078.txt	initiated	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-078.tif/full/full/0/default.jpg
 079.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-079.tif/full/full/0/default.jpg
 080.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-080.tif/full/full/0/default.jpg
 081.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F45%2F45-081.tif/full/full/0/default.jpg

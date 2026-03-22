@@ -1,24 +1,25 @@
-【Lower Side of the Street】
-Left side from the entrance to Fushimi-chō
-
-TsubOne (Brothel)　Tsutaya Shichigoro
-　Kinsan
-　Seisan
+[Below the street]
+ーーー
+From the entrance of Fushimi-chō, left side
+ーーー
+Tsubone Tsutaya Shichigoro
+　Kinzan
+　Seizan
 　Sakurato
 
-　Kitcho
-　Takikawa
+　Kikyō
+　Takigawa
 
-Tsubone　Daikokuya Kihei
+Tsubone Daikokuya Kihei
 　Tamasawa
 　Akashi
 　Tsumaki
 
 　Hatsuume
 　Kureha
-　Kunasuke (?)
+　Kumenosuke
 
-Tsubone　Tsutaya Jisuke
+Tsubone Tsuru-tsutaya Jisuke
 　Toyooka
 　Tsutakinu
 　Tsutatsuru
@@ -26,17 +27,17 @@ Tsubone　Tsutaya Jisuke
 　Hanaoka
 　Kurenai
 
-Tsubone　Minatoya Hanshichi
+Tsubone Minatoya Hanshichi
 　Kotoura
 　Hanamachi
 　Toyosaki
-　Takikawa
+　Takigawa
 
 　Namikiku
 　Hanayo
 
-Tsubone　Izumiya Sashichi
-　Sono-ume
+Tsubone Izumiya Sashichi
+　Sonoume
 　Kinzan
 　Harukano
 　Somegoromo
@@ -45,12 +46,12 @@ Tsubone　Izumiya Sashichi
 　Shirayū
 　Konomatsu
 
-　　Yarite (Madam)
+　　Yarite
 　　　Sayo
 
-Tsubone　Takasagoya Ume
-　Kametsuru
-　Onoe
+Tsubone Takasagoya Mume
+△Kametsuru
+△Onoe
 　Nanaura
 　Midorigi
 
@@ -60,39 +61,40 @@ Tsubone　Takasagoya Ume
 　Chidori
 　Sekino
 
-【Upper Side of the Street】
+[Above the street]
 Tsubone
-　【Blacked out】
+　[Blacked out]
 
 Tsubone
-　【Blacked out】
+　[Blacked out]
 
 Tsubone
-　【Blacked out】
+　[Blacked out]
 
-Tsubone　Daikokuya Iyo
+Tsubone Daikokuya Iyo
 　Naotsuru
 　Wakatake
 　Matsunomi
 　Umegae
 
 　Kameoka
-　Kotofuki
+　Kotobuki
 　Senshū
 
-Tsubone　Tomiokaya Heishichi
+Tsubone Tomiokaya Heishichi
 　Wakanami
-　Shizuoka (?)
+　Shizuoka
 　Kashiwagi
 
 　Hatsuume
 
-Tsubone　Yukikiya Tarōkichi
-　Wakaita (?)
-　Tachibana
+Tsubone Yukiya Tarōkichi
+　Wakahira
+　Tachibanabana
 　Hanamachi
 
 　Kisaragi
-　Ashitsuyo (?)
-
-Right side from the entrance to Fushimi-chō
+　Atsuyo
+ーーー
+From the entrance of Fushimi-chō, right side
+ーーー
