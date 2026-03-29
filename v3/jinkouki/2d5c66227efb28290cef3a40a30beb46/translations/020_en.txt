@@ -3,23 +3,23 @@
 [Right figure]
 [Left side] Length 24 ken [Middle vertically] Length 33 ken [Right side] 24 ken
 [Horizontally] Width 18 ken
-　By the calculation method, adding 24 ken to the length of 33 ken makes 57 ken.
+　By the calculation method, add 24 ken to the length of 33 ken to make 57 ken.
 　When divided by two, it becomes 28 ken and a half. When multiplying this by
 　18 ken, it becomes 513 tsubo. When
 　dividing this by the field method of 3, it should be known as 1 tan 7 se 3 bu.
-　　The above land survey calculations copied here are important for reference.
-　　Although everyone has the same mindset, this is generally how it is
+　　The right land survey calculations copied here are essential for comparison.
+　　Although the basic approach is the same for all, this is roughly
 　　for the purpose of teaching beginners.
 
 [Left page]
-Chapter 27: On fief yield matters
+Chapter 27: On fiefdom yields
 　※When there are 2 tan 7 se, with a rate of 1 koku 5 to per tan,
 　　when asking how much the yield is,
-　　　○The yield is 4 koku 5 sho.
-　　By the calculation method, placing 2 tan 7 se on the right and multiplying by 1 koku 5 to,
-　　the yield should be known as 4 koku 5 sho.
+　　　○The yield is 4 koku 5 shō.
+　　By the calculation method, place 2 tan 7 se on the right, multiply by 1 koku 5 to,
+　　the yield should be known as 4 koku 5 shō.
 
 　※There are 9 tan 3 se 21 bu. At a rate of 1 koku 5 to per tan,
 　　when asking how much the yield is,
-　　　○The yield is 14 koku 5 sho 5 go.
-　　By the calculation method, placing 9 tan 3 se 21 bu, and for units below se
+　　　○The yield is 14 koku 5 shō 5 gō.
+　　By the calculation method, place 9 tan 3 se 21 bu, and for units below se

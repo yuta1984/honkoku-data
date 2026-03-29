@@ -1,36 +1,35 @@
-[Instructions for transcription of Yoshiwara guidebooks. Those who feel compelled to format in columns should create their own projects rather than doing so here.]
-[Symbols: ◎ = triangle with dot inside / ○ = triangle / ▲ = triangle with small circle inside / △ = mountain shape. Details in frame 4]
+【Symbol Legend: Mountain shape with dot ＝◎　／Mountain shape＝○　／Mountain shape with small circle＝▲　／Mountain＝△　For details see frame 4】
 
 #1
 Tomimatsuya Yasube
 Tsutaya Risuke
-Shimaya Seizō
-Wakamatsuya Kyūshirō
-Myōkaya Yahē
+Shimaya Seizo
+Wakamatsuya Kyushiro
+Myokaya Yahee
 
 #2
-Atsumeya Nisaburō
-Komatsuya Shōsuke
-Hitachiya Ihē
-Nakanochō Kashichiya
-Kashiwaya Sandai
+Atsumaya Nisaburo
+Komatsuya Shosuke
+Hitachiya Ihee
+Nakanocho Kashichiya
+Kashiwaya San?dai
 
-[From here, Edo-machi First District]
+【From here begins Edo-cho First District】
 #3
 ―――――――――
-Left side
+Left Side
 ―――――――――
-[Shop] Tamaya Sanzaburō
+【Shop】Tamaya Sanzaburo
 ◎Miyato
 　　Hanaki
 　　Wakana
 ◎Tamagawa
 　　Someki
 　　Wakasa
-◎[Vacant]
+◎【Vacant】
 ○Tachibana
 　　Utena
-○Kasuga-no
+○Kasuka no
 　　Harushi
 　　Haruka
 ○Miyoshino
@@ -41,10 +40,10 @@ Left side
 ○Onoe
 　　Sekishi
 ○Matsuyama
-　　Nioi
+　　Nihoi
 ○Hanakishi
-　　Kochō
-○Kotobuki
+　　Kocho
+○Kotofuki
 　　Tatsuta
 
 ○Mitsuaya
@@ -52,23 +51,23 @@ Left side
 ○Ayagoromo
 　　Utashi
 ○Wakatsuru
-　　　Sakon
-○[Vacant]
-　Ehira
+　　Sakon
+○【Vacant】
+　Ebira
 　Kiyotama
 　Someyama
 　Matsunoto
-　Yamafuki
+　Yamabuki
 　Miyasato
 　Tomioka
 　Matsunami
 　Makishino
 　Miyakoshi
 　Kikusono
-　Tamazasa
+　Tamasasa
 　Somekiku
 　Miyashi
-　Harukaze
+　Harukase
 　Utakiku
 　Shiraito
 　Matsunoi
@@ -77,25 +76,25 @@ Left side
 　Kiyohana
 　Miyakono
 
-　　Yarite
+　　Yarite (Madam)
 　　　Yone
 
-[Shop] Minoya Yasujirō
-○Wakabakai
+【Shop】Minoya Yasujiro
+○Wakaume
 　　Wakaha
-○Matsukaze
+○Matsukase
 　　Matsuno
 ○Katsuyama
 　　Akeha
-○[Vacant]
-○[Vacant]
-○[Vacant]
+○【Vacant】
+○【Vacant】
+○【Vacant】
 
 △Somekinu
 △Tokiwa-e
 △Takigawa
-△Hatsukaze
-△[Vacant]
+△Hatsukase
+△【Vacant】
 　Suminoe
 　Koiyama
 　Himematsu
@@ -106,56 +105,56 @@ Left side
 
 　Katsunoto
 　Fushinoe
-　Yamashū
+　Yamashu
 
-　　Yarite
-　　　Kiyo (or Sayo)
+　　Yarite (Madam)
+　　　Kiyo [or Sayo]
 ―――――――――
-Edo-machi First District Street
+Edo-cho First District Street
 ―――――――――
-#4 [Read from right to left with image reversed]
-[Shop] Matsuhaya Hanzaemon
+#4【Read from right after flipping the image】
+【Shop】Matsuhaya Hanzaemon
 ◎Matsushima
 　　Kanomo
 　　Konomo
-◎Hatsukaze
+◎Hatsukase
 　　Namishi
-　　Chidori
+　　Chitori
 ◎Somenosuke
 　　Wakaki
 　　Waraha
 ◎Utamachi
-　　Nioi
+　　Nihohi
 　　Matsushi
 ◎Matsunoi
-　　Kochō
+　　Kocho
 　　Kureha
-◎Wakamurasaki
+◎Waka-murasaki
 　　Ateki
 　　Inuki
-◎Hanamurasaki
+◎Hana-murasaki
 　　Yoshino
 　　Tatsuta
 ◎Segawa
 　　Takeno
 　　Sasano
-◎[Vacant]
+◎【Vacant】
 
 ○Shikisaki
 　　Akeha
 ○Utsusemi
 　　Hanano
 ○Hatsunoto
-　　Shikemi
+　　Shigemi
 ○Hanagawa
 　　Mineno
 ○Hatsuura
 　　Sumano
-○[Vacant]
-○[Vacant]
-○Mihokaze
+○【Vacant】
+○【Vacant】
+○Mihokase
 　Ukikumo
-　Harukaze
+　Harukase
 　Hanasato
 　Toyoshima
 　Ukihashi
@@ -169,7 +168,7 @@ Edo-machi First District Street
 
 　Hatsune
 　Ukishima
-　Hana-no-i
+　Hananoi
 　Utaura
 　Hatsuyama
 　Hanasato
@@ -178,46 +177,46 @@ Edo-machi First District Street
 　Onomatsu
 　Kiyohana
 　Tokonatsu
-　Suminoe
-　Umekae
+　Suminohe
+　Umegae
 　Karaito
 　Wakamatsu
 
-　　Yarite
-　　　　Masa
+　　Yarite (Madam)
+　　　Masa
 
-[Shop] Gaku Iseya Jinemon
+【Shop】Gaku Iseya Jinemon
 ○Hatsuito
 　　Minano
 　　Haruno
-○Harukano
+○Haruka no
 　　Tatsumi
-　　Momiji
-○Kinzan
+　　Momichi [or Mokochi]
+○Kinyama
 　　Kichishi
 　　Kinshi
 ○Karaito
 　　Urashi
 ○Hatsumura
-　　Waeshi
+　　Wakashi
 ○Kotoura
-　　Noshito
-○[Vacant]
+　　Noshito [or Noshita. Neither forms a proper name]
+○【Vacant】
 
 △Hatsuhana
 △Ayagoromo
 △Hanasode
 △Hatsushio
-△Shimotsuke
-△Wakabaikai
+△Shimono-machi [or Honomachi]
+△Wakamume
 △Miosaki
 △Hatsusato
-△Hanabaikai
-△[Vacant]
+△Hanamume
+△【Vacant】
 
-　Kazan
+　Kasan
 　Yaekiku
-　Muaaoi
+　Muraogi
 　Konoito
 　Ninoura
 　Yaeume
@@ -230,8 +229,8 @@ Edo-machi First District Street
 　Makiito
 　Hanashi
 
-　　Yarite
-　　　　Saka
+　　Yarite (Madam)
+　　　Saka
 ―――――――――
-Right side
+Right Side
 ―――――――――

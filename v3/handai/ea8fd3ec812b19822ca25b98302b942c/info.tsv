@@ -1,7 +1,7 @@
 filename	status	image
-001.txt	initiated	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315819.tiff/info.json
-002.txt	default	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315820.tiff/info.json
-003.txt	initiated	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315821.tiff/info.json
+001.txt	completed	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315819.tiff/info.json
+002.txt	completed	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315820.tiff/info.json
+003.txt	completed	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315821.tiff/info.json
 004.txt	initiated	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315822.tiff/info.json
 005.txt	default	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315823.tiff/info.json
 006.txt	default	https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/89264/315824.tiff/info.json

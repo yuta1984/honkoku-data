@@ -1,0 +1,26 @@
+[Right page]
+　※Similarly, when there are 24,710 koku 4 to of main rice, handling rice, and labor rice together,
+　　when asking how much the handling rice and labor rice are within the right amount,
+　　　○Handling rice and labor rice amount to 1,834 to.
+　　By the calculation method, placing 24,710 koku 4 to on the right,
+　　placing 1 koku 8 sho on the left, and dividing this by 8 sho,
+　　it becomes 1.35. When dividing the right amount by this,
+　　it should be known as 1,834 to.
+
+　※Similarly, there are 24,710 koku 4 to of main rice, handling rice, and labor rice together.
+　　When asking how much the handling rice is within the right amount,
+　　　○The handling rice is 457 koku 6 to.
+
+[Left page]
+　　By the calculation method, placing 1 koku 8 sho on the left and dividing this by 2 sho,
+　　it becomes 5.4. Dividing the right amount of 24,710 koku 4 to by this
+　　gives 457 koku 6 to.
+
+　※When there are 24,710 koku 4 to of main rice, handling rice, and labor rice together,
+　　when asking how much the labor rice alone is,
+　　　○The labor rice is 1,372 koku 8 to.
+　　By the calculation method, placing 1 koku 8 sho on the left and dividing this by 6 sho,
+　　it becomes 1.8. Dividing the right amount by this gives 1,372 koku
+　　8 to, which should be known.
+
+　※When there is 1,372 koku 8 to of labor rice, the main rice is what

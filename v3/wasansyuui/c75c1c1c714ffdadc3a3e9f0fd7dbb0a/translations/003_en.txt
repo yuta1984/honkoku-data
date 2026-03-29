@@ -1,10 +1,12 @@
-Nevertheless, among these four collections, there are many mathematical problems for which no solutions are provided. With my foolish mind, I have named this work "Hōen Hiken-shū" (Secret Views on Squares and Circles) and written down matters similar to existing methods. While it may be embarrassing to show this to others, and the author's techniques may be shallow and inadequate, I have compiled these writings thinking that perhaps someone even more foolish than myself might find them helpful for practice.
+【Right Page】
+However, among these four collections, there are many mathematical problems where the methods are inadequately explained. Though it may be presumptuous of me, with my foolish mind, to name this work "Hōen Hiken-shū" (Secret Insights into Square and Circle Methods) and record matters similar to existing computational methods—and though showing this to others might be embarrassing, and my abilities as an author may be meager—I compile these writings hoping that they might serve as practice aids for those even more foolish than myself.
 
-Table of Contents
-┃Nagasaki Shopping　　　　　┃Circular Area of Fans
-┃Area Conversion of Square Boards　┃Area Calculation for Base Paper
-┃Volume Calculation of Round　　　┃Hexagonal Flat Object Areas
-　Timber, Large and Small　　　　┃Triangular Long Object Conversion
-┃Round Object Conversion　　　　┃Square Object Conversion
-┃Spherical Areas　　　　　　　　┃Coastal Areas
-┃Rhombus Area Calculation　　　　┃Half-Rhombus Areas
+【Left Page】
+　　　　　Table of Contents
+1. Nagasaki Trading Calculations    1. Circular Volume of Fans
+1. Area Conversion of Square Boards 1. Volume of Paper Construction
+1. Volume of Round Logs of          1. Hexagonal Flat Object Volume
+   Various Sizes (Top/Bottom)       1. Triangular Long Object Conversion
+1. Round Object Conversion          1. Square Object Conversion
+1. Spherical Area                   1. Hamakoshi Construction Area
+1. Diamond Shape Volume             1. Half-Diamond Shape Area

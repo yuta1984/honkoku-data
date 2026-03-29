@@ -1,0 +1,26 @@
+[Right page]
+　　amount, when asking,
+　　　○The main rice is 22,880 koku.
+　　By the calculation method, placing 1,372 koku 8 to on the right and dividing this by
+　　6 sho, the main rice is known.
+
+　※When there are 457 koku 6 to of handling rice, when asking how much
+　　the main rice is,
+　　　○The main rice is 22,880 koku.
+　　By the calculation method, dividing 457 koku 6 to by 2 sho,
+　　the main rice should be known.
+
+　※When there are 1,834 to of handling rice and labor rice together, the main rice is
+
+[Left page]
+　　when asking how much,
+　　　○The main rice is 22,880 koku.
+　　By the calculation method, dividing 1,834 to by 8 sho, it can be known.
+
+　※When there are 1,834 to of handling rice and labor rice together, when asking
+　　how much the handling rice is,
+　　　○The handling rice is 457 koku 6 to.
+　　By the calculation method, placing 8 sho on the left and dividing this by 2 sho,
+　　it becomes 4. Dividing the right amount of 1,834 to by this gives
+　　457 koku 6 to. ○Also, when calculating the labor rice, dividing 8 sho by
+　　6 sho gives 1.3333. This is used to divide as shown on the right.

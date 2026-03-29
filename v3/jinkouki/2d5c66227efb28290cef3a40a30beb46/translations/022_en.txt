@@ -1,0 +1,27 @@
+[Right page]
+　　By the calculation method, dividing the crop yield of 22,880 koku by 6 bu 5 rin,
+　　this should be known as the yield.
+
+　※When the annual tribute is about 8 koku 6 to 7 sho, from the right amount,
+　　deducting 2 sho per koku as handling rice, asking how much is the net rice delivered.
+　　　○The delivery is 8 koku 5 to.
+　　By the calculation method, placing 8 koku 6 to 7 sho on the right and
+　　dividing by 1 koku 2 sho, this should be known as 8 koku 5 to.
+
+　※There is a crop yield of 22,880 koku. With 2 sho handling rice and 6 sho
+　　corvée rice per koku, asking for the handling rice and corvée rice of the right crop yield.
+　　　○Handling rice and corvée rice amount to 1,830 koku 4 to.
+
+[Left page]
+　　By the calculation method, multiplying the right crop yield by 8 sho gives the handling rice and corvée rice.
+
+　※When there is a delivery of 22,880 koku, when placing handling rice, corvée rice, and main rice
+　　all together,
+　　　○It is 24,710 koku 4 to.
+　　By the calculation method, multiplying 22,880 koku by 1 koku 8 sho,
+　　this should be known as 24,710 koku 4 to.
+
+　※When main rice, handling rice, and corvée rice together amount to 24,710 koku 4 to,
+　　when wanting to know only the main rice,
+　　　○It is 22,880 koku.
+　　By the calculation method, divide 24,710 koku 4 to by 1 koku 8 sho.

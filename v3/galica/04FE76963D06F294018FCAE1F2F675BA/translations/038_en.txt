@@ -1,0 +1,10 @@
+Nebuta Village: Less than 10 households, over 20 people
+Satsumae Village: Over 10 households, over 40 people
+Akagami Village: Less than 10 households, over 20 people
+Amadareishi Village: Less than 10 households, over 20 people
+Mokusa Village: Less than 20 households, over 70 people
+Kiyobe Village: Over 40 households, over 140 people
+Eramachi Village: Less than 100 households, over 180 people
+Haraguchi Village: Less than 10 households, over 30 people
+Chiisago Village: Less than 20 households, over 90 people
+Ishisaki Village: Less than 60 households, less than 180 people

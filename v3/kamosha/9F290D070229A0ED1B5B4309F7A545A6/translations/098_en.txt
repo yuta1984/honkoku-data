@@ -1,0 +1,42 @@
+[Split annotation: Third son, Son of Shu-nao]
+　　　　　　　　　　　　　　　　　　　　　　　　　Fu-nao　　Ken-nao
+[Split annotation: Second son]
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kuni-nao
+[Split annotation: Son of Shige-nao]
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hide-nao
+[Split annotation: Second son]
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Toki-nao
+[Split annotation: Son of Nobu-nao]
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nori-nao
+
+Uji Six Generations　Seven　Eight　Nine　Ten　Eleven　Twelve　Thirteen
+[Split annotation: Son of Uji-yo, Son of Tada-nobu, Son of Uji-hira, Son of Uji-kazu, Son of Uji-■, Son of Uji-masa, Son of Uji-hide, Son of Uji-tomo]
+[Split annotation: Kage-I]
+　Tada-nobu　Tada-toshi Uji-kazu　Uji-■　Uji-masa　Uji-hide Uji-tomo　Uji-michi
+[Split annotation: Second son, Son of Kore-uji, Son of Hiko-uji, Second son, Son of Uji-toki, Second son, Son of Suke-uji, Second son]
+　Michi-yo　　Uji-hira  Suehira　Uji-toki　Uji-shun　Uji-tsuna Uji-yama　Uji-suke
+
+[Split annotation: Third son, Son of Kore-uji, Second son, Third son, Son of Uji-yoshi, Son of Uji-shun, Second son, Son of Uji-yama]
+　Kore-uji　　Hiko-hira Uji-tsura　Uji-yoshi　Uji-haru　Suke-uji Uji-yoshi　Uji-kata
+[Split annotation: Son of Tada-fuji, -, Third son, Son of Sue-uji, Son of Uji-shige, Son of Uji-haru, Third son, Son of Uji-yoshi]
+　Masa-uji　　　　　　Uji-tada　Uji-shige　Uji-tame　Uji-shige Uji-tomo　Uji-sato
+[Split annotation: Son of Tada-mune, -, Fourth son, Second son, Second son, Son of Uji-tame, Fourth son, Second son]
+[Split annotation: Changed to Ka-]
+　Tada-michi　　　　　Ko-uji　　Shige-uji　Uji-sato　Moro-uji Mi-uji　　Uji-sen
+[Split annotation: -, Fifth son, Third son, Son of Uji-tsune, Second son, Son of Uji-shige, Son of Uji-tomo]
+　　　　　　　　　　Uji-naga　Uji-tsune　Nari-uji　Uji-taka Uji-suke　Uji-ei
+[Split annotation: -, Sixth son, Fourth son, Second son, Third son, Son of Uji-taka, Second son]
+　　　　　　　　　　Uji-oto　　I-uji-　　Uji-suke　Uji-aki  Uji-masa　Uji-aki
+[Split annotation: -, -, Son of Uji-tsura, Third son, Son of Uji-sato, Son of Uji-aki, Son of Mi-uji]
+　　　　　　　　　　　　　　Uji-tsugu　Uji-hide　Uji-tsura Uji-sada　Tora-uji
+[Split annotation: -, -, Son of Uji-tada, Fourth son, Second son, Second son, Second son]
+　　　　　　　　　　　　　　Mori-uji　　Uji-　　　Ari-uji  Uji-mura　Uji-taka
+[Split annotation: -, -, Son of Ko-uji, Fifth son, Son of -uji, Third son, Third son]
+　　　　　　　　　　　　　　Ro-uji-　　Uji-　　　Uji-ne   Uji-ie　　Uji-i
+[Split annotation: -, -, Second son, [Furigana: -I] Son of uji, Second son, Fourth son, Son of Uji-suke]
+　　　　　　　　　　　　　　Masu-uji　　Uji-　　　Uji-nobu Uji-chika　Uji-chin
+　　　　　　　　　　　　　　[Split annotation: Those who hold the seat of Ken-ken, Masu-uji appears here, and his descendants follow this]
+
+[■ represents a character with 夕 between the radical and body of 汴]
+[Katakana イ and ロ are written in red]
+[Names have red underlines to the right]

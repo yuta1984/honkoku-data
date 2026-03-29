@@ -1,0 +1,11 @@
+Hanesashi Village: Less than 10 households, less than 40 people
+Shiofuki Village: Less than 50 households, over 150 people
+Kinoko Village: Less than 60 households, over 120 people
+Kaminokuni Village: Over 210 households, over 370 people
+Ōtome Village: Over 60 households, over 230 people
+
+Yamakosaki Village: Less than 10 households, over 10 people
+Ōgiishi Village: Over 10 households, over 60 people
+Harauta Village: Less than 10 households, over 10 people
+Kita Village: Less than 90 households, over 360 people
+Gokatte Village: Over 100 households, over 350 people

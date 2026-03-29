@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f1/full/full/0/default.jpg
 002.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f2/full/full/0/default.jpg
-003.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f3/full/full/0/default.jpg
+003.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f3/full/full/0/default.jpg
 004.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f4/full/full/0/default.jpg
 005.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f5/full/full/0/default.jpg
 006.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127711/f6/full/full/0/default.jpg

@@ -1,0 +1,28 @@
+[Right page]
+　※Four go measuring box　width　3 sun 6 bu 8 rin
+　　　　　　　　　　　　depth　1 sun 8 bu 4 rin
+
+　※Three go measuring box　width　3 sun 3 bu 4 rin
+　　　　　　　　　　　　　depth　1 sun 6 bu 7 rin
+
+　※Two go measuring box　width　2 sun 9 bu 2 rin
+　　　　　　　　　　　　depth　1 sun 4 bu 6 rin
+
+　※One go measuring box　width　2 sun 3 bu 2 rin
+　　　　　　　　　　　　depth　1 sun 1 bu 6 rin
+
+　※Five sho measuring box　width　8 sun 5 bu 4 rin 9 mo
+　　　　　　　　　　　　　depth　4 sun 2 bu 7 rin 5 mo
+
+
+[Left page]
+　※One to measuring box　width　1 shaku 7 bu 7 rin 2 mo
+　　　　　　　　　　　　　depth　5 sun 3 bu 8 rin 6 mo
+
+　Method for making measuring boxes. When making a one go measuring box,
+　one sho has 62,500 tsubo in one bu square units. One go has
+　6,250 tsubo. When this is divided by five,
+　it becomes 12,500. When this is calculated using the cube root method,
+　the width of a one go measuring box is known to be 2 sun 3 bu 2 rin.
+　Also, to know the depth, multiply 2 sun 3 bu 2 rin by five,
+　and the depth is known to be 1 sun 1 bu 6 rin.

@@ -1,0 +1,25 @@
+[Right page]
+Chapter 29: Calculating the volume of measuring containers
+　　〇With new measures: 1 to 2 sho 2 go 8 shaku
+　　〇With old measures: 1 to 2 sho 7 go 4 shaku
+[Figure at bottom right]
+[Top surface] 1 shaku 3 sun　[Side] 7 sun　[Bottom] inner bottom diameter 1 shaku 1 sun
+　The calculation method: combine the diameter at the top
+　and the diameter at the bottom, making 2 shaku 4 sun in total.
+　Divide this by two to get 1 shaku 2 sun. Square this
+　to get 144. Multiply this by the height of 7 sun to get
+　1008. Multiply this by the circular coefficient 79 to get
+　79632. When this is divided by the Kyō-sho coefficient 64827,
+　the result is known to be 1 to 2 sho 2 go 8 shaku.
+
+[Left page]
+　※When calculating with old measures, as shown on the right,
+　　add the top diameter to the bottom diameter
+　　to get 2 shaku 4 sun. Divide by two to get 1 shaku 2 sun.
+　　Square this, then multiply by the height, and then
+　　multiply by the circular coefficient 79, then multiply by 16
+　　to know the result as 1 to 2 sho 7 go 4 shaku.
+　　　The above calculation is how to calculate for general approximation.
+　　　For containers that taper from rim to bottom, there are
+　　　slight differences from this visual calculation method.
+　　　The true calculation requires oral transmission.

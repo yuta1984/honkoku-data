@@ -1,0 +1,18 @@
+【Header Notes】
+There is no change between before and after.
+
+[Section Three]
+The term "seidan-jutsu" (正団術) appears to refer to the method of "kaiheien" (opening flat circles). It likely means "dan" (circle).
+
+△The true method of opening flat circles is recorded here. 《Side note: Using the circular area method of seven parts and nine as in this book》
+
+△The method states: Take the area of 3,871 sun from this book as the dividend, also place the circular area method of seven parts as the divisor, perform square root extraction, and the quotient obtained is a circular diameter of seven shaku.
+
+△Place the right area as the dividend and the circular area method as the base. The common method begins by establishing the heavenly element one as the circular diameter, squaring it, and multiplying by the circular area method of seven parts and nine to make the flat circular area. Eliminate with the area to obtain the square root formula.
+
+△The fixed method 1264 is the same as what is called ● in the upper volume.
+
+△To know 7924: square the circumference method of three and one-sixth, use the resulting number as the divisor, use the circular area method of seven parts as the dividend, and upon division, it becomes 79114. 《Side note: incomplete, add in》
+
+[Section Four]
+The term "seishu-jutsu" (正珠術) appears to refer to the method of "kairituen" (opening cubic circles). It likely means "tama" (sphere).

@@ -1,46 +1,42 @@
-1. A copy of the written directive issued to Okabe Sazen in the second year of Kanpō (1742), year of the dog, is as follows: [Red notation] Doubts will be addressed with my personal opinion added later - Happyakuri
+1. A copy of the written instruction delivered to Okabe Sazen's office in the 2nd year of Kanpō, year of the Dog, is as follows: [Red notation] There were doubts, and a private opinion was added later - Happyakuri
 
 1. When there are those who receive dismissal from service (kaiekae) or dismissal (hima), relatives who wish to visit such persons should immediately communicate this, so this should be acknowledged and reported to the Senior Councilors.
 
-1. When there are those who receive dismissal from service or dismissal, or those who are ordered house confinement or self-restraint, regarding relatives' requests for self-restraint consultation, this should be consulted up to the level of first cousins.
+1. When there are those who receive dismissal from service or dismissal, or those who are ordered house confinement or self-restraint, relatives' requests for self-restraint should be consulted up to cousins.
 
-1. When messengers (tsūrōnin) visit those under house confinement, the guard commander should notify frequently, once each time, and the messengers should also notify frequently of their comings and goings.
-[Red notation] This was rewritten from the directive to all monthly duty officers on December 28th.
+1. When intermediaries (tsūrojin) visit those under house confinement, the unit head should notify each time, and the intermediaries should also notify regarding frequent visits.
+[Red notation] This rewrites the clause communicated to all monthly duty officers on December 28th.
+   However, when calling a doctor due to illness, the intermediary should petition and also record the doctor's name. The doctor need not petition. When a doctor visits those under house confinement, the intermediary should notify regarding frequent visits, and the doctor should notify once when first visiting and notify the metsuke when the patient recovers and treatment is completed.
 
-However, when wishing to call a doctor due to illness, the messenger should make a request and also record the doctor's name and address. The doctor need not make a request. When a doctor visits someone under house confinement, the messenger should notify frequently of comings and goings, the doctor should notify once upon the first visit, and should notify the metsuke when the patient recovers and treatment is completed.
-
-1. When messengers visit those under self-restraint, the guard commander should notify once initially, and messengers should notify once each time they visit.
-[Red notation] This was rewritten from the directive to all monthly duty officers on December 28th.
-
-However, regarding doctors for illness, the request procedure is the same as for house confinement. When doctors visit, messengers should notify once each time frequently, and doctors should follow the same procedure as for house confinement.
+1. When intermediaries visit those under self-restraint, the unit head should notify once initially, and intermediaries should notify once each time they visit.
+[Red notation] This rewrites the clause communicated to all monthly duty officers on December 28th.
+   However, regarding doctors for illness, petitioning is the same as for house confinement. When doctors visit, intermediaries should notify once each time, and doctors should follow the same procedure as for house confinement.
 
 1. Confinement (hissoku) follows the same procedure.
 
-1. For supervised self-restraint (ukagai enyō), messengers should notify once initially when visiting.
-However, when there is illness and a doctor needs to be called, other extraordinary matters should be reported. Matters that can be resolved through understanding the situation and good judgment should be handled with appropriate instructions, while difficult matters should be consulted upon.
-[Red notation] This provision is based on what was communicated by Sakai Genban on October 27th. This should be compared with the confinement procedures.
+1. For probationary self-restraint (ukagai enyro), intermediaries should notify once initially when visiting.
+   However, when there is illness and a doctor needs to be called, this should be communicated as an urgent matter. Matters that can be resolved through understanding should be handled with respective instructions, and difficult matters should be consulted upon.
+[Red notation] This clause represents what was communicated at Sakai Genban's office on October 27th. The suspension section should be considered.
 
-1. Detention (sashihikae) and supervised self-restraint follow the same procedure.
-[Red notation] This provision is based on the supplementary clause in the directive from metsuke to all monthly duty officers on December 28th.
+1. Suspension and probationary self-restraint follow the same procedure.
+[Red notation] This clause represents the proviso within the clauses communicated from the metsuke to all monthly duty officers on December 28th.
 
-1. If there is sudden illness at the residence of those under house confinement or self-restraint, messengers should immediately report this to the monthly duty metsuke.
-[Red notation] This provision is from the directive from metsuke to all monthly duty officers on December 28th. It appears later in the document.
+1. When there is sudden illness among those under house confinement or self-restraint, intermediaries should immediately report to the monthly duty metsuke.
+[Red notation] This clause was communicated from the metsuke to all monthly duty officers on December 28th. It appears later.
 
-1. Relatives of those who receive dismissal from service or dismissal should report personally to the metsuke, and upon receiving instructions, should promptly visit that person's residence to handle matters. Depending on subsequent circumstances, matters of self-restraint should be consulted with the Senior Councilors through appropriate intermediaries.
+1. Relatives of those who receive dismissal from service or dismissal should personally report to the metsuke, and upon receiving instructions, should promptly visit that person's residence to complete arrangements. Depending on subsequent matters, issues of self-restraint should be consulted with the Senior Councilors through respective intermediaries.
+   Happyakuri's private note: Although the above nine articles appear in various punishment sections, they are presented here again following the main text.
+   [Red notation] Upon further consideration, there is no evidence of such instructions being issued the following year, only the December 28th communication. These nine articles appear to be someone's abbreviated record of the handling procedures of that time, which became confused with the clauses communicated to various parties under Sazen's instructions on December 28th.
 
-Happyakuri's personal note: The above nine articles appear in various sections of the punishment provisions, but following the original text sequence, they are presented here again.
-[Red notation] Upon further consideration, no such directive appears to have been issued the following year, only the December 28th communication. These nine articles seem to be someone's written record of handling procedures that became confused with the articles communicated to various parties under Sazen's instructions on December 28th.
+1. On December 28th of the same year, monthly duty metsuke Nakane Jūrōzaemon communicated the following to all monthly duty officers by letter:
+The Senior Councilors have instructed that the contents of the two attached documents be communicated respectively, so please understand accordingly. End.
+   Memorandum of Oral Instructions
+1. When those ordered house confinement or self-restraint have illness and intermediaries wish to call a doctor, they should petition with the doctor's name also recorded. Doctors need not petition. If the intermediary's petition is approved, for both house confinement and self-restraint, when doctors visit, intermediaries should notify the metsuke frequently, doctors should notify once when first visiting and again when treatment is completed. For those under house confinement, intermediaries should notify regarding frequent visits; for those under self-restraint, they should notify once each time they visit. For doctors, the notification procedure is the same for both cases.
+   However, in case of sudden illness, intermediaries should immediately report to the metsuke and receive instructions.
 
-1. On December 28th of the same year, the following was communicated by letter from monthly duty metsuke Nakane Jūrōzaemon to all monthly duty officers:
-The Senior Councilors have instructed that the contents of the two attached documents should be communicated respectively, so please understand this intent. End.
+1. For those under self-restraint, intermediaries should notify the metsuke once each time they visit.
 
-Memorandum of Oral Instructions
-1. When those ordered to house confinement or self-restraint have illness and messengers wish to request calling a doctor, they should record the doctor's name and address in their request. Doctors need not make requests. If the messenger's request is approved, for both house confinement and self-restraint, when doctors visit, messengers should notify the metsuke frequently, doctors should notify once upon first visit and again when treatment is completed. For house confinement, messengers should notify frequently of comings and goings; for self-restraint, they should notify once each time they visit; for doctors, the notification procedure is the same for both situations.
-
-However, in cases of sudden illness, messengers should immediately report to the metsuke and receive instructions.
-
-1. For those under self-restraint, messengers should notify the metsuke once each time they visit frequently.
 1. Confinement follows the same procedure.
 [Red notation above] December 28th
 
-1. When there are those who receive dismissal from service or dismissal, their relatives promptly consult about self-restraint, so they hurriedly visit that person to provide care, but with no one to handle affairs and those departing naturally experiencing delays, things become disorganized. Moreover, when those ordered house confinement or self-restraint have illness and wish to call doctors, their messengers make requests and doctors make additional requests, causing delays in handling that interfere with medical treatment. These details were reported with my thoughts to the Senior Councilors, who instructed that this should be communicated in writing. Upon reviewing the written document, finding it quite reasonable, Sazen was instructed to communicate both matters respectively, so today this is being communicated to all monthly duty officers.
+1. When there are those who receive dismissal from service or dismissal, their relatives promptly consult about self-restraint, so they hurry to visit such persons, but with no one to provide care and those who must vacate naturally delaying, things become disorderly, causing confusion in all matters. Moreover, when those under house confinement or self-restraint have illness and intermediaries petition to call doctors and visit, and doctors petition again, handling becomes delayed, causing interference with medical treatment. I communicated these concerns in detail to the Senior Councilors, who instructed that this be communicated in writing. Upon reviewing the written document, it was deemed appropriate, so Sazen's office instructed that both documents' contents be communicated respectively, which was communicated to all monthly duty officers today.
