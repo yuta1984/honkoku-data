@@ -1,0 +1,28 @@
+Whale scale/Kujira-shaku (equivalent to 1 shaku 2 sun 5 bu of the carpenter's square) - this is called the merchant scale.
+Western "Elle" scale: 3 shaku 2 sun 9 bu 5 rin plus, "Palm": 3 sun 2 bu 9 rin
+Chinese "Cubit": 1 shaku 0 1 bu 7 rin, English "Foot": 1 shaku 0 0 3 rin minus
+
+Volume Measurements (referring to measuring vessel graduations)
+Koku/stone (meaning ten to, the above being large numbers), to (meaning ten sho), sho (meaning ten go, same below), go, shaku, sai.
+Zu (meaning four sho), ku (meaning four zu, 1 to 6 sho), fu (meaning five ku, 8 to), ri (meaning two fu, 16 to), sho (meaning five ri, 80 to), i (meaning two sho, 160 to)
+Tou/koku (meaning five to or two to five sho, said to have changed to "koku" after the Han dynasty)
+Kyoto measure (mouth diameter 4 sun 9 bu, depth 2 sun 7 bu, capacity 64.827 cubic sun) - this is the commonly used measure today.
+Old measure (mouth diameter 5 sun, depth 2 sun 5 bu, capacity 62.5 cubic sun), Warrior measure (equivalent to 8 go of Kyoto measure, a private measure used among common people)
+Koshu measure (equivalent to 3 sho of Kyoto measure as 1 sho) - in old times there was an officially licensed measure guild.
+
+Western: Han (5 go 5 shaku 818 plus), Ton (6 koku 5 to 3 sho 7 go minus)
+
+Weight Measurements (referring to scale graduations)
+Kan (meaning ten hundred me, above being large numbers), hundred (meaning ten ten monme), ten (meaning ten monme), sen (meaning ten bu, using the monme character), bu (below same as small numbers)
+Kin (not fixed, varies by goods, roughly as follows): Chinese me (160 me), White me (230 me)
+Weight me (300 me), Hirano me (220 me)
+Ryo (not fixed, varies by goods, using 4 monme or 5 monme)
+Western: Pound (268 monme 3 bu 2 rin plus)
+
+Celestial Degrees (numbers used in astronomy)
+Shu/cycle (meaning twelve zodiacal houses, 360 degrees), kyu/house (meaning 30 degrees), do/degree (meaning 60 minutes), fun/minute (meaning 60 seconds)
+Sho/second (meaning 60 bi, follow this pattern below)
+Bi, sen, kotsu, bo (in ancient times, one degree was divided into 100 parts and one degree into 100 seconds - this was called the centesimal system)
+
+Land Measurements (numbers used in geography)
+Ri (using 36 cho or 50 cho), cho (60 ken), ken (taken as 6 shaku, or there are 6 shaku 3 sun, 6 shaku 5 sun)

@@ -1,15 +1,20 @@
-【Right page】
-Taking its origin from the title of the book written by the ancient master Yoshida Mitsuyoshi, I have titled this work "Meiji Elementary Jinkōki" to meet that demand.
-Written by the old man Riken at Juntenkiūgōsha, Tokyo, in January of Meiji 11
-　　　　　　　　　Written by Tōen-shujin
+【Right Page】
+Based on the title of the book written by the ancient scholar Yoshida Mitsuyoshi, 
+this is titled "Meiji Elementary Jinkouki" to meet that demand.
 
-【Left page】
-　General Rules
-1. The name Jinkōki dates back 250 years from now, to Kan'ei 4, when Mr. Yoshida authored and compiled it, said to be based on the phrase "jinko raiji shigō fu hedaté" (nothing from the dusty eons is separated by the slightest measure). I too follow this tradition.
-1. Ka (addition) means to gather and put in ○ Gen (subtraction) means to draw away and remove
-1. Jō (multiplication) means to gather the same numbers, referring to multiplying
-1. Jo (division) means to divide into the same numbers, referring to dividing
-1. In (factor) refers to multiplication of single-digit numbers
-1. Ki (quotient) refers to division of single-digit numbers
-1. In the traditional hasssan (eight calculations), for numbers like 120,000, many omit the vocal reading for division operations.
-　This compilation now supplements this.
+Written by Elder Riken at Juntenkyu Gōsha, Tokyo, 
+January, Meiji 11 (1878)
+　　　　　　　　　Written by Master Tōen
+
+【Left Page】
+　　　General Principles
+1. The name "Jinkouki" originates from a phrase "jinko raiji shigō fuhekidatsu" 
+from a work compiled by Mr. Yoshida 250 years ago in Kan'ei 4 (1627). 
+I also follow this tradition.
+1. "Ka" (addition) means to gather and put in ○ "Gen" (subtraction) means to take away
+1. "Jō" (multiplication) means to gather the same numbers, referring to multiplying
+1. "Jo" (division) means to divide into equal numbers, referring to dividing
+1. "In" refers to multiplication with single-digit numbers
+1. "Ki" refers to division with single-digit numbers
+1. In conventional eight-operation arithmetic, calculations like 120,000 often 
+lack their division terminology. This compilation now supplements this.

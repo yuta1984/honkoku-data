@@ -1,0 +1,5 @@
+that are commonly used are exceptions to this rule.
+
+1. In general, text with line marks "　　" on the right side indicates personal names, while line marks "　　" on the left side indicate place names. Double line marks "　　" on the right side should be understood as indicating official titles. Section marks "　　" used to separate before and after indicate names for which no translation can be provided. Readers should take care not to confuse these.
+
+1. In general, the names of units of measurement and distance from that country appearing in the book use the original names directly, and no translated names are deliberately provided. If one wishes to know what they correspond to in our units of measurement, [consult the] comparison of their and our units of measurement

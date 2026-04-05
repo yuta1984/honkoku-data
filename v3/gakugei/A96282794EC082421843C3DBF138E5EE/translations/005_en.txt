@@ -1,28 +1,24 @@
-【Right page】
-Table of Contents for Meiji Jinkōki
+【Right Page】
+Table of Contents for Meiji Jinkouki
+　Volume One
+　　Basic Numbers　　Large Numbers　　Small Numbers　　Degree Numbers　　Quantity Numbers　　Weight Numbers
+　　Celestial Degrees　　Terrestrial Measurements　　Gold Currency　　Silver Currency　　Copper Currency
+　　How to Use the Abacus (Soroban)　　　Voices for Addition　　　Voices for Subtraction
+　　Addition Calculations　　Subtraction Calculations　　　Multiplication Table Voices / With Commentary
+　　Division Voices for Eight Operations Revealing Unity / With Commentary　　Fundamentals of Mathematical Learning
+　　Illustrated Solutions for Eight Problems in Eight Operations　　　　　Illustrated Solutions for Nine Problems in Revealing Unity
+　　Fifty Review Problems for Addition and Subtraction / With Answer Formulas
+　　One Hundred Forty-Eight Review Problems for Multiplication and Division with Answer Formulas
+　　Explanation of Proportional Methods　Solutions to Eight Related Problems
 
-Volume One
-　Basic numbers, Large numbers, Decimal numbers, Measurement numbers, Quantity numbers, Weight numbers
-　Celestial degrees, Terrestrial measures, Gold currency, Silver currency, Copper currency
-　How to use the abacus (soroban), Voices for addition, Voices for subtraction
-　Addition calculations, Subtraction calculations, Multiplication table voices / with commentary
-　Division voices for the eight operations, with commentary, Introduction to mathematics
-　Illustrated explanations of eight problems in the eight operations, Illustrated explanations of nine problems in division
-　Fifty problems for addition and subtraction review / with answers and formulas
-　One hundred forty-eight problems for multiplication and division review, with answers and formulas
-　Explanation of proportional methods, Solutions to the same eight problems
-
-【Left page】
-Meiji Elementary Jinkōki
+【Left Page】
+Meiji Elementary Jinkouki
 　　　　　　　　　　　　　　　　　　　　　　Written by Fukuda Riken
 　　　　　　　　　　　　　　　　　　　　　　Edited by Hanai Shizu
-
 　　　Basic Numbers
 　One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten
-
-　One, three, five, seven, nine are yang numbers. These are called odd numbers, also called heavenly numbers. Two,
-　four, six, eight, ten are yin numbers. These are called even numbers, also called earthly numbers. The heavenly numbers
-　sum to twenty-five, the earthly numbers sum to thirty. When these are combined, they make fifty-five.
-　This is called the number of heaven and earth. There is an explanation of this in the I Ching (Book of Changes).
-
-　　　Large Numbers　　refers to numbers above one
+　One, three, five, seven, nine are positive numbers (yōsū). These are called odd numbers. They are also called heavenly numbers. Two,
+　four, six, eight, ten are negative numbers (insū). These are called even numbers. They are also called earthly numbers. When heavenly numbers are
+　combined they make twenty-five; when earthly numbers are combined they make thirty. Also, when these are
+　arranged together they become fifty-five. This is called the number of heaven and earth. There is an explanation in the I Ching.
+　　　Large Numbers　　Refers to numbers above one

@@ -1,0 +1,22 @@
+【Right page】
+Next volume　Table of Contents
+Positional notation　Area　Volume　Land surveying　Square root extraction
+Cube root extraction　Right triangles　Geometry　Algebraic manipulation
+
+【Left page】
+Meiji Elementary Jinkōki Volume Two
+　　　　　　　　　　　　　　　　　Written by Fukuda Riken
+　　　　　　　　　　　　　　　　　Edited by Hanai Shizu
+　　　　　Calculations of measured goods (masumono)
+Problem 1: When one koku of rice costs 3 yen 80 sen, how much rice can be obtained for 5,700 yen?
+　　　　　Answer: 1,500 koku
+　　Solution: ㈠3 yen 80 sen　㈡1 koku　㈢5,700 yen　Therefore,
+　　divide ㈢5,700 yen by ㈠3 yen 80 sen to get 1,500,
+　　then multiply by ㈡1 koku to find 1,500 koku.
+　　The reason we don't multiply by ㈡1 koku is that it represents
+　　the unit "1" as shown previously. Follow this method for other problems.
+
+【Library stamp in upper margin】
+Fukushima Prefecture Iwa-
+se District Kitayoko-
+ta Elementary School

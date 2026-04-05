@@ -1,0 +1,43 @@
+Uji-tomo (son of Uji-oto)　Uji-naga (second son)　Uji-tomo (son of Uji-naga)　Uji-kazu (son of Uji-ne)　Uji-kan (son of Uji-masa)
+[Split annotation: second son, son of Uji-tsugu, son of Uji-yasu, son of Uji-tomo, son of Uji-kimi]
+Uji-yori (second son)　Uji-yasu　Mori-uji　Uji-kimi　Uji-toshi
+[Split annotation: third son, second son, son of Kore-uji, second son, son of Uji-mai]
+Toki-uji　Kore-uji　Uji-makoto　Uji-mochi　Uji-chika
+[Split annotation: third son, son of Kuni-uji, son of Mori-uji, second son]
+Kuni-uji　Uji-setsu　Uji-mai　Uji-mi
+[Split annotation: fourth son, second son, second son, third son]
+Ie-uji　Uji-yori　Uji-masa　Uji-ken
+[Split annotation: son of Mori-uji, son of Ki-uji, son of Uji-setsu, son of Uji-makoto]
+Ki-uji　Uji-nushi　Uji-makoto　Uji-suke
+ー・[written in red]
+[Split annotation: son of Ko-uji, son of Uji-, son of Uji-masu, second son, son of Uji-chika]
+[Split annotation: Lower [red]]
+Masu-uji　Uji-kane　Uji-chika　Uji-
+[Split annotation: second son, son of Masu-uji, son of Uji-yori, son of Uji-kado]
+[Split annotation: Upper [red]]
+Uji-masu　Hiro-uji　Uji-kado　Uji-ai
+[Split annotation: son of Uji-tomo, second son, second son, son of Uji-nari]
+Uji-nobu　Uji-tomi　Uji-nari　Uji-ki
+
+[Split annotation: son of Uji-yori, third son, third son, son of Uji-yoshi]
+Uji-yuki　Uji-tane　Uji-yoshi　Uji-mori
+[Split annotation: son of Toki-uji, son of Uji-nobu, son of Uji-nushi, son of Uji-hiro]
+Uji-toshi　Uji-toki　Uji-hiro　Uji-toshi
+[Split annotation: second son, son of Uji-kane, son of Uji-toyo]
+Uji-aki　Uji-toyo　Uji-kichi
+[Split annotation: son of Uji-yuki, second son, second son]
+Uji-tane　Uji-nyo　Uji-kyo
+[Split annotation: son of Uji-toshi, son of Hiro-uji, son of Uji-nyo]
+Uji-tsugu　Uji-mune　Uji-zen
+[Split annotation: son of Uji-toki, second son]
+Uji-naga　Uji-haru
+[Split annotation: son of Uji-tane, third son]
+Uji-nori　Uji-yoshi
+[Split annotation: son of Uji-tane, third son]
+Uji-nori　Uji-yoshi
+[Split annotation: son of Uji-tsugu, son of Uji-naga]
+Uji-nao　Uji-taka
+[Split annotation: second son]
+Uji-fusa
+
+[Names have red underlines to the right]

@@ -1,0 +1,11 @@
+[Right page]
+Whether it be rin, 1 sen, 10 sen, 1 yen, 1 koku, 1 hyo, 10, or 100, they are all the same - each represents the number one. Similarly, two beads can represent 2 sen, 2 yen, 20, or 200 - all representing the number two. Three, four, five, and so forth follow the same principle. Also, since one upper bead represents five, it can be used for 5 rin, 5 sen, 50 yen, or 500 yen - all representing the number five. Therefore, when an upper bead is combined with one lower bead, it becomes the number six; when combined with two lower beads, it becomes seven. When combined with three lower beads, it becomes eight; when combined with four lower beads, it becomes nine. Therefore, first take the abacus, move all upper beads to the upper side, move all lower beads to the lower side [abacus diagram], and move the beads representing the desired number toward the center bar. For example, to place 1 rin [abacus diagram], to place 2 sen [abacus diagram]
+
+[Left page]
+To place 30 sen [abacus diagram], to place 4 yen [abacus diagram], to place 50 yen [abacus diagram], to place 600 yen [abacus diagram], to place 7 hyo of rice [abacus diagram], to place 80 koku of barley [abacus diagram], to place 90 kin of tea [abacus diagram], to place 10 kin of cotton [abacus diagram]. Also, to place 24 sen, use two columns - the tens place and the sen place [abacus diagram]. To place 453 yen, use three columns - the hundreds place, the tens place, and the yen place [abacus diagram]. All others follow this principle.
+
+Addition Calls
+One plus nine makes ten, two plus eight makes ten, three plus seven makes ten, four plus six makes ten, five plus five makes ten
+Six plus four makes ten, seven plus three makes ten, eight plus two makes ten, nine plus one makes ten
+
+Note: "One plus nine makes ten" means that when adding one to a place where nine already exists, instead of adding one, remove the nine and say "one plus nine makes ten" and move to the left

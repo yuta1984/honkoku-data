@@ -1,0 +1,22 @@
+[Right page]
+ya　　　　　　　　　　　Answer: 99 yen 90 sen
+The method says: Place 700 yen as shown below [abacus diagram]. To subtract 175 yen from this amount, subtract one hundred from seven hundred to get six. Remove one from this and say "seven minus three leaves three," place three in the right column {note: This subtracts 70 yen}. Also, remove one from this three and say "five minus five leaves five," placing five in the next column {note: This subtracts 5 yen}.
+[abacus diagram] Also, to subtract 94 yen from this, raise four from below in the left 500 yen position
+[abacus diagram] and clear the upper five, saying "nine minus one leaves one," placing one in the middle column's twenty position to make three. Also, raise one from below in the next column's five position and clear the upper five [abacus diagram]
+{note: This subtracts 4 yen}　　[Two lines below abacus diagram]
+Also, to subtract 269 yen from this, subtract two from the left
+four hundred, and also remove one,
+saying "six minus four leaves four," lowering the upper five in the middle three position and removing one from the lower three to make seven
+
+[Left page]
+{note: This subtracts 60}. Also, remove one from this and say "nine minus
+one leaves one," placing one in the next column [abacus diagram]
+{note: This subtracts 9} [Two lines below abacus diagram]
+Also, to subtract 37 yen 30 sen from this amount,
+raise two from below in the middle sixty position
+and clear the upper five to make three {note: This subtracts 30}. Also, remove one from this three and say "seven minus three leaves three," placing three in the next column to make five
+{note: This subtracts 7 yen}. Also, remove one from this five and say "three minus seven leaves seven," placing seven in the last column [abacus diagram]
+{note: This subtracts 30 sen} [Two lines below abacus diagram]
+Also, to subtract 24 yen 80 sen from this, use the middle two columns
+to subtract 24 yen, and use the last column to subtract 80 sen.
+However, eight cannot be subtracted from seven, so take one hundred from two columns to the left, lower the upper five in the next column and raise the lower five to make ten, remove one from the lower beads, and also lower the upper five in the next column and the lower five

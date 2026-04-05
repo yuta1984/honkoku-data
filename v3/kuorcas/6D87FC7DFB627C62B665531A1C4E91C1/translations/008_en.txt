@@ -1,0 +1,23 @@
+"Do you understand?" / "I understand" / "Read a little" / "Don't need much"
+
+"Study tomorrow" / "Review the previous part" / "Do you remember?" / "I remember"
+
+"Don't remember" / "Forgot" / "Call him to come" / "Send you to go"
+
+"Not patient/tolerant" / "Patient/tolerant" / "Invite him to come" / "Troublesome"
+
+"Not troublesome" / "Sold out" / "Can sell out" / "Cannot sell out"
+
+"Finished making" / "Cannot finish making" / "Can finish making" / "The weather is fine"
+
+"Hard to say" / "Hard to speak (same meaning)" / "There is also that" / "There is also none"
+
+"Sell to you" / "Let him go" / "Wipe" / "Wipe (same meaning)"
+
+"Made an error in calculation" / "Understood" / "What kind of talk?" / "Wash face"
+
+"Newly opened" / "Finest brush" / "It cleared up" / "It became cloudy"
+
+"It rains" / "Say goodbye" / "Have energy/spirit" / "Have no energy/spirit"
+
+"Good day/date" / "Came together" / "Went together" / "Where did you come from?"

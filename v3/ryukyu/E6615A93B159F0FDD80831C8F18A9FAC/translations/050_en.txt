@@ -1,0 +1,8 @@
+Food and Drink
+Rice [mehan] Wine/sake [saki] Tobacco [tabako] Oil [anda] Sauce [miso] Soy sauce [sayu] Rice [komu] Salt [masu] Tofu [tōfu] Tea [cha] Meat [shishi] Vegetables [sai] Sōmen noodles [somin] Cucumber [uri] Garlic [nira] Watermelon [suika] Winter melon [tōgan] Ginger [shōga] Black beans [kuromame] Banana fruit [bashanami] Sweet potato [imo] Bean sprouts [mamina] Rice cake [muchi] Taro soup [kun'yakko] Sweets/fruit [kashi] Flour [flour] Fish [iyu] Shrimp [ebi] Clams [kai] Turban shells [sazae] Crab [gani] Giant clam [shakogai] Sea lion [ashika]
+
+Treasures
+Gold [kin] Silver [gin] Money [sen] Copper [dō] Iron [tetsu] Tin [suzu] Paper money [satsu] Jade [gyoku] Pearl [tama] Stone [ishi] Agate [menou] Coral [sango] Crystal [suishō] Jade stone [gyokuseki] Amber [kohaku] Rhinoceros horn [saikaku] Sulfur [iō]
+
+Numbers
+One [hītotsu] Two [futatsu] Three [mittsu] Four [yottsu] Five [itsutsu] Six [muttsu] Seven [nanatsu] Eight [yattsu] Nine [kokonotsu] Ten [tō] Eleven [tōhīto] Twenty [hatachi] Thirty [sanjū] Forty [yonjū] Fifty [gojū] Sixty [rokujū] Seventy [nanajū] Eighty [hachijū] Ninety [kyūjū] One hundred [hyaku] Thousand [sen] One thousand [ichisen] Ten thousand [man] Ryō [ryō] Sen [sen] Bu [bu] Half [nakaba] Same [onaji] Light [karashi] Heavy [omoshi] Many [ōkashi] Few [sukoshi] Long [nagashi] Short [mijikashi] Wide [hiroshi] Narrow [semashi] Middle [naka] Above [ue] Below [shita] Full [michīshi] Shallow [asashi] Ri [ri] One sen [issen] Two sen [nisen] Three sen [sansen] Four sen [yonsen] Five sen

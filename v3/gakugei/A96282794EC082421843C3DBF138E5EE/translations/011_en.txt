@@ -1,0 +1,13 @@
+[Right page]
+remove the upper five and clear the lower two [abacus diagram] to get 4 sen 5 rin.
+2 yen 60 sen, 1 yen 50 sen, 8 yen 70 sen, 24 yen 40 sen
+32 yen 90 sen, what is the total of this money?　Answer: 70 yen 10 sen
+
+The method says: Place 2 yen 60 sen as shown below [abacus diagram]. To add 1 yen 50 sen to this, place one in the 2 yen position to make three. To add 50 sen to the next column, remove the upper five from the six and say "five plus five makes ten," placing one in the left three [abacus diagram]. To add 8 yen 70 sen to this, remove two from the 4 yen and say "eight plus two makes ten," placing one in the left column, and place seven in the next column one [abacus diagram].
+[Below the previous diagram] To add 24 yen 40 sen to this, place two in the left 10 yen position, lower the upper five in the middle column's two position, remove one from the lower two to make six. For the last column
+
+[Left page]
+to add four, remove the upper five and lower one from the eight [abacus diagram], then say "four plus six makes ten" and place one in the middle six position [abacus diagram]. To add 32 yen 90 sen, lower the upper five in the left column's three position, remove two from the lower three to make six. Add 2 yen to the seven position in the next middle column to make nine. To add 90 sen to the next last column, remove one from the two in this column and say "nine plus one makes ten," placing one in the nine position of the middle column [abacus diagram], which makes ten, so clear this and place one to the left [abacus diagram] to get 70 yen 10 sen. Follow this method for the rest.
+
+Subtraction (for subtraction use)
+From 700 yen, 175 yen, 94 yen, 269 yen, 37 yen 30 sen, and 24 yen 80 sen have been spent and paid. How much money remains?

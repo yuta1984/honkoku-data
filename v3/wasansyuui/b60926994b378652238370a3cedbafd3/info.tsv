@@ -28,12 +28,12 @@ filename	status	image
 027.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00026.tif/full/full/0/default.jpg
 028.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00027.tif/full/full/0/default.jpg
 029.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00028.tif/full/full/0/default.jpg
-030.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00029.tif/full/full/0/default.jpg
+030.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00029.tif/full/full/0/default.jpg
 031.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00030.tif/full/full/0/default.jpg
-032.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00031.tif/full/full/0/default.jpg
-033.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00032.tif/full/full/0/default.jpg
-034.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00033.tif/full/full/0/default.jpg
-035.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00034.tif/full/full/0/default.jpg
+032.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00031.tif/full/full/0/default.jpg
+033.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00032.tif/full/full/0/default.jpg
+034.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00033.tif/full/full/0/default.jpg
+035.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00034.tif/full/full/0/default.jpg
 036.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00035.tif/full/full/0/default.jpg
 037.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00036.tif/full/full/0/default.jpg
 038.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00037.tif/full/full/0/default.jpg
@@ -127,7 +127,7 @@ filename	status	image
 126.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00125.tif/full/full/0/default.jpg
 127.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00126.tif/full/full/0/default.jpg
 128.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00127.tif/full/full/0/default.jpg
-129.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00128.tif/full/full/0/default.jpg
+129.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00128.tif/full/full/0/default.jpg
 130.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00129.tif/full/full/0/default.jpg
 131.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00130.tif/full/full/0/default.jpg
 132.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00131.tif/full/full/0/default.jpg
@@ -151,7 +151,7 @@ filename	status	image
 150.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00149.tif/full/full/0/default.jpg
 151.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00150.tif/full/full/0/default.jpg
 152.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00151.tif/full/full/0/default.jpg
-153.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00152.tif/full/full/0/default.jpg
+153.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00152.tif/full/full/0/default.jpg
 154.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00153.tif/full/full/0/default.jpg
 155.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00154.tif/full/full/0/default.jpg
 156.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100239972/v4/OCHA/OCHA-00241/OCHA-00241-00155.tif/full/full/0/default.jpg

@@ -1,0 +1,16 @@
+[Right page]
+column represents the call for placing ten. Also, "three plus seven makes ten" means that when placing three, if there is a number greater than seven already present, instead of adding three, directly remove the seven and say "three plus seven makes ten" while placing ten in the left column. Others should be understood by inference.
+
+Subtraction Calls
+One subtracted leaves nine, two subtracted leaves eight, three subtracted leaves seven, four subtracted leaves six, five subtracted leaves five
+Six subtracted leaves four, seven subtracted leaves three, eight subtracted leaves two, nine subtracted leaves one
+
+Note: "One subtracted leaves nine" means that when trying to subtract one but there is no digit one in that column, take ten from the left column and say "one subtracted leaves nine" while placing nine in the right column - this is the chanting phrase. Also, "seven subtracted leaves three" means that when trying to subtract seven but seven cannot be subtracted from that column, take ten from the left column and
+
+[Left page]
+place three in that column - this is the chanting phrase. Others follow this principle.
+
+Addition (Gathering calculation)
+5 rin, 7 rin, 9 rin, 1 sen 1 rin, 1 sen 3 rin - what is the total of these silver amounts?　　Answer: 4 sen 5 rin
+
+The method says: Place 5 rin as shown below [abacus diagram]. To add 7 rin to this, say "seven plus three makes ten" and raise two beads from below the five, remove the upper five, and place one in the left column [abacus diagram]. To add 9 rin to this, say "nine plus one makes ten," remove one from these 2 rin, and place one in the left column [abacus diagram]. To add 1 sen 1 rin to this, place one in the left position of two, and place one in the next 1 rin column [abacus diagram]. To add 1 sen 3 rin to this, place 1 sen in the left position and place 3 rin in the next position of two
