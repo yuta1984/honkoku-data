@@ -1,0 +1,83 @@
+【Right Page】
+How much is 123,457,777 to (bales) of sake divided by 3?
+　　Answer: 41,152,259 to (bales)
+
+【Below diagram】
+　Recitation for the 3 times table
+　Three-one, thirty-one
+　Three-two, sixty-two
+　Three-advance one-ten
+　Six-advance twenty
+　Nine-advance thirty
+The commentary on division and multiplication
+should be understood by following
+the pattern of the 2 times table
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Nine-advance thirty
+　Six-advance twenty　Three-two, sixty-two
+　Six-advance twenty　Three-one, thirty-one
+　Six-advance twenty
+　Six-advance twenty
+　Three-advance one-ten　Three-one, thirty-one
+　Three-advance one-ten
+　Three-advance one-ten
+　Three-one, thirty-one
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】　
+　Start of multiplication
+　Three-nine, twenty-seven
+　Three-five, fifteen
+　Two-three is six
+　Two-three is six
+　Three-five, fifteen
+　One-three is three
+　One-three is three
+　Three-four, twelve
+
+【Left Page】
+How much is 123,456,789 yen divided by 4?
+　　Answer: 30,864,197 yen 25 sen
+
+【Below diagram】
+　Recitation for the 4 times table
+　Four-one, twenty-one
+　Four-two add-make five
+　Four-three, four-three, seventy-two
+　Four-advance one-ten
+　Eight-advance twenty
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Four-two add-make five
+　Eight-advance twenty　　Four-one, twenty-two
+　Eight-advance twenty
+　Four-advance one-ten　Four-three, seventy-two
+　Eight-advance twenty
+　Four-advance one-ten　Four-one, twenty-two
+　Four-advance one-ten　Four-two add-make five
+　Four-three, seventy-two
+　Four-advance one-ten
+　Four-one, twenty-two
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】
+　Start of multiplication
+　Four-five, twenty
+　Two-four is eight
+　Four-seven, twenty-eight
+　Four-nine, thirty-six
+　One-four is four
+　Four-four, sixteen
+　Four-six, twenty-four
+　Four-eight, thirty-two
+
+　Three-four, twelve

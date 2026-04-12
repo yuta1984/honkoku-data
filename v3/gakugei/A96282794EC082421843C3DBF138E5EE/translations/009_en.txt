@@ -1,11 +1,11 @@
-[Right page]
-Whether it be rin, 1 sen, 10 sen, 1 yen, 1 koku, 1 hyo, 10, or 100, they are all the same - each represents the number one. Similarly, two beads can represent 2 sen, 2 yen, 20, or 200 - all representing the number two. Three, four, five, and so forth follow the same principle. Also, since one upper bead represents five, it can be used for 5 rin, 5 sen, 50 yen, or 500 yen - all representing the number five. Therefore, when an upper bead is combined with one lower bead, it becomes the number six; when combined with two lower beads, it becomes seven. When combined with three lower beads, it becomes eight; when combined with four lower beads, it becomes nine. Therefore, first take the abacus, move all upper beads to the upper side, move all lower beads to the lower side [abacus diagram], and move the beads representing the desired number toward the center bar. For example, to place 1 rin [abacus diagram], to place 2 sen [abacus diagram]
+【Right Page】
+Whether it represents rin, one sen, ten sen, one yen, one koku, one hyō, ten, or one hundred, all are numbers representing one. Also, two can be used as two sen, two yen, twenty, or two hundred - all representing the number two. Three, four, and five are all similar. Also, one upper bead represents five. Therefore, this can be used as five rin, five sen, fifty yen, or five hundred yen - all representing the number five. Therefore, combining the upper bead with one lower bead makes six, combining the upper bead with two lower beads makes seven. Combining three lower beads makes eight, and combining four lower beads makes nine. Therefore, first take the abacus, move all upper beads to the upper side, move all lower beads to the lower side【abacus diagram】, and move the numbers you wish to place toward the center rod. For example, to place one rin【abacus diagram】, to place two sen【abacus diagram】
 
-[Left page]
-To place 30 sen [abacus diagram], to place 4 yen [abacus diagram], to place 50 yen [abacus diagram], to place 600 yen [abacus diagram], to place 7 hyo of rice [abacus diagram], to place 80 koku of barley [abacus diagram], to place 90 kin of tea [abacus diagram], to place 10 kin of cotton [abacus diagram]. Also, to place 24 sen, use two columns - the tens place and the sen place [abacus diagram]. To place 453 yen, use three columns - the hundreds place, the tens place, and the yen place [abacus diagram]. All others follow this principle.
+【Left Page】
+To place thirty sen【abacus diagram】, to place four yen【abacus diagram】, to place fifty yen【abacus diagram】, to place six hundred yen【abacus diagram】, to place seven hyō of rice【abacus diagram】, to place eighty koku of barley【abacus diagram】, to place ninety kin of tea【abacus diagram】, to place ten kin of cotton【abacus diagram】. Also, to place twenty-four sen, place it in two columns: the tens place and the sen place【abacus diagram】. To place four hundred fifty-three yen, place it in three columns: the hundreds place, tens place, and yen place【abacus diagram】. Others should follow this pattern.
 
-Addition Calls
-One plus nine makes ten, two plus eight makes ten, three plus seven makes ten, four plus six makes ten, five plus five makes ten
-Six plus four makes ten, seven plus three makes ten, eight plus two makes ten, nine plus one makes ten
+　　　Addition Calls
+One plus nine makes ten　Two plus eight makes ten　Three plus seven makes ten　Four plus six makes ten　Five plus five makes ten
+Six plus four makes ten　Seven plus three makes ten　Eight plus two makes ten　Nine plus one makes ten
 
-Note: "One plus nine makes ten" means that when adding one to a place where nine already exists, instead of adding one, remove the nine and say "one plus nine makes ten" and move to the left
+Note: "One plus nine makes ten" means when adding one to a place where nine already exists, instead of adding one, remove the nine and say "one plus nine makes ten" and move to the left

@@ -1,33 +1,24 @@
-[Right page]
-One digit follows the same method as multiplication in abacus calculation, and from the next digit onward, numbers are entered according to their chanting. One should consider the conditions thereof.
-
-Division chants for abacus calculation (hassan ken'ichi)
-
-○Section 1: 1÷1=10, 2÷1=20, 3÷1=30,
-4÷1=40, 5÷1=50, 6÷1=60, 7÷1=70
-8÷1=80, 9÷1=90, "ken'ichi no head, make nine-one," return one times one
-
-○Section 2: 2÷1 add-make 5, 2÷1=10, 4÷2=20
-6÷2=30, 8÷2=40, "ken'ni no head, make nine-two," return one times two
-
-○Section 3: 3÷1=31, 3÷2=62, 3÷1=10
-6÷3=20, 9÷3=30, "ken'san no head, make nine-three," return one times three
-
-○Section 4: 4÷1=22, 4÷2 add-make 5, 4÷3=72
-
-[Left page]
-4÷1=10, 8÷4=20, "ken'shi no head, make nine-four," return one times four
-
-○Section 5: 5÷1 add 1, 5÷2 add 2, 5÷3 add 3
-5÷4 add 4, 5÷1=10, "ken'go no head, make nine-five," return one times five
-
-○Section 6: 6÷1 below add 4, 6÷2=12, 6÷3 add-make 5
-6÷4=64, 6÷5=82, 6÷1=10, "ken'roku no head, make nine-six"
-return one times six
-
-○Section 7: 7÷1 below add 3, 7÷2 below add 6, 7÷3=42
-7÷4=55, 7÷5=71, 7÷6=84, 7÷1=10
-"ken'shichi no head, make nine-seven," return one times seven
-
-○Section 8: 8÷1 below add 2, 8÷2 below add 4, 8÷3 below add 6
-8÷4 add-make 5, 8÷5=62, 8÷6=74, 8÷7=86
+【Right Page】
+　The first digit follows the same method as multiplication in arithmetic, and from the next digit onward, numbers
+　are entered according to the corresponding chant. Consider these conditions carefully.
+　　　　Division chants for hassan ken'ichi
+○First column　　1 advance 10　2 advance 20　　　　3 advance 30　
+4 advance 40　5 advance 50　　6 advance 60　　　　7 advance 70
+8 advance 80　9 advance 90　　Ken'ichi no head, make 9-1　Return 1, accompany 1
+○Second column　　2-1 add and make 5　2 advance 10　　　　4 advance 20
+6 advance 30　8 advance 40　　Ken'ni no head, make 9-2　　Return 1, accompany 2
+○Third column　　3-1: 31　3-2: 62　　　3 advance 10
+6 advance 20　　9 advance 30　　Ken'san no head, make 9-3　　Return 1, accompany 3
+○Fourth column　　4-1: 22　　4-2 add and make 5　　　　4-3: 72
+【Left Page】
+4 advance 10　　8 advance 20　　　Ken'shi no head, make 9-4　Return 1, accompany 4
+○Fifth column　　　5-1 add 1　　　5-2 add 2　　　　5-3 add 3
+5-4 add 4　　　5 advance 10　　Ken'go no head, make 9-5　Return 1, accompany 5
+○Sixth column　　　6-1 lower add 4　　6-2: 32　　6-3 add and make 5
+6-4: 64　6-5: 82　6 advance 10　　　Ken'roku no head, make 9-6
+Return 1, accompany 6
+○Seventh column　　　　7-1 lower add 3　　7-2 lower add 6　　7-3: 42
+7-4: 55　　7-5: 71　7-6: 84　7 advance 10
+Ken'shichi no head, make 9-7　Return 1, accompany 7
+○Eighth column　　　　8-1 lower add 2　　8-2 lower add 4　　8-3 lower add 6
+8-4 add and make 5　　　8-5: 62　8-6: 74　8-7: 86

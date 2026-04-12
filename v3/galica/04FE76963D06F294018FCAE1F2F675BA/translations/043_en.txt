@@ -1,0 +1,10 @@
+Ōsawa Village: Less than 80 houses, less than 370 people
+Araya Village: Less than 20 houses, over 20 people
+Sumiyakisawa Village: Less than 30 houses, less than 40 people
+Reihige Village: Less than 50 houses, over 150 people
+Yoshioka Village: Less than 50 houses, less than 260 people
+Miyanouta Village: Over 80 houses, over 330 people
+Shirafu Village: Over 70 houses, exactly 250 people
+Fukushima Village: Less than 80 houses, over 340 people (less than)
+Chiriuchi Village: Less than 40 houses, less than 220 people
+Kikonai Village: Less than 50 houses, less than 200 people

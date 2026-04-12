@@ -1,20 +1,15 @@
 【Right Page】
-Based on the title of the book written by the ancient scholar Yoshida Mitsuyoshi, 
-this is titled "Meiji Elementary Jinkouki" to meet that demand.
-
-Written by Elder Riken at Juntenkyu Gōsha, Tokyo, 
-January, Meiji 11 (1878)
-　　　　　　　　　Written by Master Tōen
+Based on the title of the book written by the ancient Yoshida Mitsuyoshi, 
+I have titled this work "Meiji Elementary Jinkouki" to meet that demand.
+Written by the old man Riken at Juntenkyu Gōsha, Tokyo, January of Meiji 11
+　　　　　　　　　Written by Tōen Shujin
 
 【Left Page】
-　　　General Principles
-1. The name "Jinkouki" originates from a phrase "jinko raiji shigō fuhekidatsu" 
-from a work compiled by Mr. Yoshida 250 years ago in Kan'ei 4 (1627). 
-I also follow this tradition.
-1. "Ka" (addition) means to gather and put in ○ "Gen" (subtraction) means to take away
-1. "Jō" (multiplication) means to gather the same numbers, referring to multiplying
-1. "Jo" (division) means to divide into equal numbers, referring to dividing
-1. "In" refers to multiplication with single-digit numbers
-1. "Ki" refers to division with single-digit numbers
-1. In conventional eight-operation arithmetic, calculations like 120,000 often 
-lack their division terminology. This compilation now supplements this.
+　　　General Rules
+1. The name "Jinkouki" derives from a phrase "dust kalpas, coming events, the finest thread - nothing is separate" from a work by Mr. Yoshida written 250 years ago in Kan'ei 4. I also follow this tradition.
+1. Addition (ka) means to collect and put in ○ Subtraction (gen) means to take away
+1. Multiplication (jō) means to collect the same numbers together, referring to multiplication
+1. Division (jo) means to divide into equal numbers, referring to division  
+1. In (factor) refers to multiplication of single-digit numbers
+1. Ki (return) refers to division of single-digit numbers
+1. In the conventional eight arithmetic operations, for numbers like 120,000, many omit the division terminology. This compilation now supplements this.

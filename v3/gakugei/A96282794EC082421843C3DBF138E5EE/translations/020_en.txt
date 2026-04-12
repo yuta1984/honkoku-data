@@ -1,0 +1,75 @@
+【Right Page】
+How much does each person receive when 1,234,567 yen 89 sen is divided among 5 people?
+　　Answer: 246,913 yen 57 sen 8 rin
+
+【Below diagram】
+　Recitation for the 5 times table
+　Five-one add one
+　Five-two add two
+　Five-three add three
+　Five-four add four
+　Five-advance one-ten
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Five-advance one-ten　Five-four add four
+　Five-advance one-ten　Five-three add three
+　Five-advance one-ten　Five-two add two
+　Five-advance one-ten　Five-one add one
+　Five-advance one-ten
+　Five-four add four
+　Five-three add three
+　Five-two add two
+　Five-one add one
+　Start of division
+
+【Below diagram】
+　Multiplication　Start of multiplication
+　Five-eight, forty
+　Five-seven, thirty-five
+　Five-five, twenty-five
+　Three-five, fifteen
+　One-five is five
+　Five-nine, forty-five
+　Five-six, thirty
+　Four-five, twenty
+　Two-five, ten
+
+【Left Page】
+How much is 123,456,234 kin of tea divided by 6?
+　　Answer: 20,576,039 kin
+
+【Below diagram】
+　Recitation for the 6 times table
+　Six-one down add four
+　Six-two, thirty-two
+　Six-three add-make five
+　Six-four, sixty-four
+　Six-five, eighty-two
+　Six-advance one-ten
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Six-advance one-ten
+　Six-five, eighty-two　
+　Six-two, thirty-two
+　Six-advance one-ten
+　Six-advance one-ten　　Six-three add-make five
+　Six-four, sixty-four
+　Six-three add-make five
+　Six-advance one-ten
+　Six-one down add four
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】
+　Start of multiplication
+　Six-nine, fifty-four
+　Three-six, eighteen
+　Six-six, thirty-six
+　Six-seven, forty-two
+　Five-six, thirty
+　Two-six, twelve

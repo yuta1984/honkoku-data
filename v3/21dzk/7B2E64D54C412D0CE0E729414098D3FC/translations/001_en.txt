@@ -1,24 +1,32 @@
-【Right Page】
-【Outside frame, upper right】
-96
-【Outside frame, right side upper】
-Mahayana Dharma-characteristics Research Chapter, Volume 5
-【Outside frame, right side lower】
-96
+【Right page: Final page of "Daijō Hōsō Kenshin-shō, Volume 5"】
 
-【Upper section】
-One should be fortunate enough to supplement the omissions, add proper binding, and transmit this to future generations. This is also for the perusal of Reverend Kyōhō and others. I humbly pray that the ancient patriarchs will quickly turn their compassionate gaze upon us and fulfill this humble wish.
+One should fortunately supplement its omissions, add proper binding, and transmit it to posterity. This is also for the perusal of Reverend Keihō and others. I humbly pray that the ancient patriarchs quickly turn their compassionate eyes and fulfill this humble wish.
 
-Hōreki 5th year, year of the Wood Boar, 6th month, 15th day
-True Word School Kangaku-in Priest-Governor Kenga (aged 72)
+Fifth year of Hōreki era, year of the Metal Boar, fifteenth day of the sixth month
+Kanga, Priest-Administrator of the Shingon Sect's Kangaku-in (aged seventy-two)
 
-Mahayana Dharma-characteristics Research Chapter, Volume 5
+Daijō Hōsō Kenshin-shō, Volume 5
 
-【Lower section】
-【Blank】
+【Left page】
+Yuishiki Bunryō-ketsu (Decisions on Yogācāra Syllogisms)
 
-【Left Page】
-Yogācāra Text Commentary
+The Four-Division Theory and Zhangzhen Syllogisms (Note: text below is damaged and unclear)
 
-Four-part doctrine, Jewel in the Palm syllogism - below damaged and unclear
-At the beginning of the treatise, two approaches are developed and distinguished. First is the three-part treatise standard, later the four-part doctrine. The initial three-part treatise standard (note: probably the character "者") - this treatise's root verses only contain the orthodox explanation. The beginning and ending parts are missing.
+Opening the discourse, there are two divisions for analysis. First, the three divisions of the treatise are established; second, the meaning of the four divisions is explained. Regarding the first establishment of the three divisions of the treatise: this treatise's root verses contain only the main exposition, lacking the initial and final sections. Judging the commentary text, it completely possesses three divisions. The initial verses of reverence and subsequent prose constitute the preliminary reverent exposition section. From "What worldly [teachings] and various sacred teachings" onward is named the section of extensive establishment based on teachings. From "The three divisions of this treatise establish consciousness-only" onward, the third section is the concluding dedication section. This judges that the commentary text has these three divisions.
+
+Regarding the later explanation of the meaning of the four divisions: within this there are two parts. First, the essence is clarified; second, extensive questions and answers follow. Regarding the initial clarification of essence: first is the aspect-division (ākāra-bhāga), second is the perception-division (darśana-bhāga), third is self-witnessing (svasaṃvedana), fourth is witnessing of self-witnessing (svasaṃvedana-sākṣin). These are called the four divisions.
+
+The Buddha's sacred teachings mostly explain one division, not yet distinguishing aspect and perception. As the sūtra says, "The three realms are mind-only." From this point until nine hundred years later, Asaṅga, Vasubandhu and others opened this into two divisions: aspect and perception. "Perception" means the function of seeing and illuminating what can be cognized. Because the nature of mind is clear and can illuminate objects before it, it is called perception. "Aspect" means the function of characteristics that can be cognized. Because characteristic distinctions become objects of mind's cognition, it is called aspect.
+
+However, these two divisions still do not exhaust the principle. Therefore, Dignāga composed the Pramāṇasamuccaya and other works to establish the three-division theory. To the previous two divisions, the self-witnessing division was added. The essence and function of the perception-division is not other but self. This third division can know that, hence it is called self-witnessing.
+
+From this point, after one hundred years, Bodhisattva Dharmapāla, based on the Ghanavyūha Sūtra, composed the Treatise on Establishing Provisional [Designations] and established the four-division theory. To the previous three divisions, the witnessing of self-witnessing division was added. The essence and function of the third is called self-witnessing. This fourth division can know that, hence it is called the witnessing of self-witnessing division.
+
+According to names to derive essences: the aspect-division generally takes the eighteen elements as its essence. The remaining three divisions generally take the eight consciousnesses, mind, and mental factors as their essence. Although the general characteristics are thus, according to the gate of specific characteristics, their essences are minutely clarified, as recorded in the texts.
+
+Regarding the later questions and answers: within this there are altogether fifteen sections, as separately listed below.
+
+Section on Explaining Names and Resolving Doubts
+Question: If the Tathāgatas only explained one division and had not yet distinguished aspect and perception, how does the Ghanavyūha Sūtra speak of having two divisions? Therefore, that sūtra says: "All exists only as awareness; the forms of what is perceived are all nonexistent; the divisions of perceiver and perceived each naturally transform." The master's commentary on this passage says: "The upper two lines clarify that inner mind exists while outer objects are nonexistent. The lower two lines clarify that within one's own mind, the two divisions of perception and aspect exist." This means they resemble the characteristics of cognizer and cognized. From this it is clearly known that the sūtra explains only two divisions.
+
+Answer: In reality, the Tathāgata provisionally explains four divisions. Judging from the majority, it simply speaks of one division. Just as the various Prajñāpāramitā [sūtras] fully clarify the three natures, while the Saṃdhinirmocana Sūtra judges the various Prajñāpāramitā [teachings]...

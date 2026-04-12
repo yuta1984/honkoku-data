@@ -1,0 +1,10 @@
+【Right Page】
+8 advance 10　　Ken'hachi no head, make 9-8　Return 1, accompany 8
+○Ninth column　　　9-1 lower add 1　　　9-2 lower add 2　　　9-3 lower add 3
+9-4 lower add 4　　9-5 lower add 5　　　9-6 lower add 6　　　9-7 lower add 7
+9-8 lower add 8　　9 advance 10　　　Ken'ku no head, make 9-9
+　According to the notes, "1 advance 10" means taking 1 and advancing one place to
+　enter 10 in the left digit. "2 advance 10" means taking 2 and advancing one place to 
+　enter 10 in the left digit《From "3 advance 10" to "9 advance 10" all follow the same pattern》. "2 advance 20", "4 advance 20", "6 advance 20" all involve doubling. "3 advance 30", "6 advance 30", "9 advance 30" all involve tripling. ○"2-1 add and make 5" means when dividing 1 by 2, remove that 1 and bring down the upper 5. "4-2 add and make 5" means when dividing 2 by 4, remove that 2 and bring down the upper
+【Left Page】
+　5, this is the chanting formula《"6-3 add and make 5" and "8-4 add and make 5" all follow this pattern》. ○"3-1: 31" means when dividing 1 by 3, make that 1 into 3 and enter 1 in the next digit. "3-2: 62" means when dividing 2 by 3, make that 2 into 6 and enter 2 in the next digit《"4-1: 22", "4-3: 72", "6-2: 32", "6-5: 82", "6-4: 64", "7-3: 42", "7-4: 55", "7-5: 71", "7-6: 84", "8-5: 62", "8-6: 74", "8-7: 86" all follow the same pattern》. ○"5-1 add 1" means when dividing 1 by 5, add 1 to that place of 1. "5-2 add 2" means when dividing 2 by 5, add 2 to that place of 2 《"5-3 add 3" and "5-4 add 4" all follow this pattern》. ○"6-1 lower add 4" means when dividing 1 by 6, leave the 1 as is and add 4 to the next digit. "7-1 lower add 3" means when dividing 1 by 7, leave the 1 as is and add 3 to the next digit《"7-2 lower add 6", "8-1 lower add 2", "8-2 lower add 4", "8-3 lower add 6", "9-1 lower add 1", "9-2 lower add 2", "9-3 lower add 3", "9-4 lower add 4", "9-5"》

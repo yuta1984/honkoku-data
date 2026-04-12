@@ -1,0 +1,24 @@
+【Right Page】
+Next, take 6 from the next digit for six-advance thirty and place 3 under the 5 on the left,
+then take 6 from 7 of the next digit for six-advance thirty and place 3 in the left digit,
+take the remaining 1 as two-one add make five, take 8 from the next digit for eight-advance forty
+and put 4 under the 5 on the left《becomes 9》then take 8 from 9 of the last digit for eight-
+advance forty and place 4 in the left digit, take the remaining 1 as two-one add make five,
+with this the division is complete and we know the result is 617,284 koku 5 shaku.
+The annotation on multiplication says: As shown in the lower right diagram, place 2 as the multiplier and 617,284 koku 5 shaku as the multiplicand《In multiplication, match the last digit of the multiplicand
+with the last digit of the multiplier, calling out from the smaller number》First match the multiplier 2 with the multiplicand 5 for two-five ten,
+then match the multiplier 2 with 4 of the left digit saying two-four is eight, remove the
+4 and add 8 to the next position of 1《becomes 9》then match the multiplier 2 with the multiplicand 9
+
+【Left Page】
+saying two-nine eighteen, change 9 to ten and place 8 in the next digit, then
+match the multiplier 2 with the multiplicand 3 saying two-three is six, remove 3 and put 6 in the next digit at
+position 1《becomes 7》then match the multiplier 2 with the multiplicand 8 saying two-eight sixteen,
+take 7 from the 8, make it ten and place 6 in the next digit, then match the multiplier 2
+with the multiplicand 2 saying two-two is four, lower the 5 above position 1 of the next digit
+and remove the 1 below《becomes 5》then match the multiplier 2 with the multiplicand 7 saying two-seven
+fourteen, take 6 from the 7, make it ten and place 4 in the next digit, then
+match the multiplier 2 with the multiplicand 1 saying one-two is two, remove the 1 and put 2 in the next
+position 1《becomes 3》then match the multiplier 2 with the first digit 6 of the multiplicand saying two-six
+twelve, remove the 5 above the 6, make it ten and place 2 in the next digit,
+thus obtaining the original 1,234,567 koku 8 to 9 go.

@@ -82,7 +82,7 @@ filename	status	image
 081.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f81/full/full/0/default.jpg
 082.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f82/full/full/0/default.jpg
 083.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f83/full/full/0/default.jpg
-084.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f84/full/full/0/default.jpg
+084.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f84/full/full/0/default.jpg
 085.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f85/full/full/0/default.jpg
 086.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f86/full/full/0/default.jpg
 087.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f87/full/full/0/default.jpg
@@ -146,10 +146,10 @@ filename	status	image
 145.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f145/full/full/0/default.jpg
 146.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f146/full/full/0/default.jpg
 147.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f147/full/full/0/default.jpg
-148.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f148/full/full/0/default.jpg
+148.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f148/full/full/0/default.jpg
 149.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f149/full/full/0/default.jpg
 150.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f150/full/full/0/default.jpg
-151.txt	editing	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f151/full/full/0/default.jpg
+151.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f151/full/full/0/default.jpg
 152.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f152/full/full/0/default.jpg
 153.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f153/full/full/0/default.jpg
 154.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110014/f154/full/full/0/default.jpg

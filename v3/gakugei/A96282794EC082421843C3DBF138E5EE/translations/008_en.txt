@@ -1,32 +1,21 @@
-Gold Coins
-1000 yen, 100 yen, 25 yen, 10 yen, 5 yen, 2 yen, 1 yen
-(Silver coins are used below)
-Old currency: Ryo (same as 1 yen), Bu (25 sen, also called 100 hiki), Shu (6 sen 2 rin 5 mo)
+【Right Page】
+　　　Gold Coins
+　One thousand yen, one hundred yen, twenty-five yen, ten yen, five yen, two yen, one yen (silver coins are used below this)
+　Old currency: Ryō (same as one yen), Bu (twenty-five sen, also called hyaku-hiki), Shu (six sen two rin five mō), Mai (meaning seven ryō two bu)
+　　　Silver Coins
+　One yen, fifty sen, twenty sen, ten sen, five sen (copper coins are used below this)
+　Old currency: Ryō (four monme three fun), Mai (forty-three monme)
+　　　Copper Coins
+　Two sen, one sen, five rin, one rin
+　Old currency: Tenpō-sen (eight rin), Kan'ei nami-sen (two rin), Tenpō nami-sen (one rin five mō)
+　Kan'ei copper coins (equivalent to one rin, in old times this was called ichi-mon)
+　　　On the Use of the Abacus
 
-Silver Coins
-1 yen, 50 sen, 20 sen, 10 sen, 5 sen (copper coins are used below)
-Old currency: Ryo (4 monme 3 bu), Mai (43 monme)
+【Left Page】
+【Diagram of an abacus at the top】
+【Below the diagram】
+The method of using the abacus is to place the divisor (which means the standard) on the left and the dividend on the right. For example, when distributing one hundred items to sixteen people, the sixteen people are the divisor and the one hundred items are the dividend. Therefore, place sixteen on the left and one hundred on the right. For addition and subtraction (meaning addition), there is no distinction between dividend and divisor, so they may be placed anywhere as desired. Also, the number of columns on an abacus is usually twenty-one.
+The method of using the beads is that one upper bead represents five, and the lower beads are one for one and two for two. Therefore, one upper bead and five lower beads together make ten. Thus, one lower bead represents one...
 
-Copper Coins
-2 sen, 1 sen, 5 rin, 1 rin
-Old currency: Tempo sen (8 rin), Kanei nami sen (2 rin), Tempo nami sen (1 rin 5 mo)
-Kanei copper sen (equivalent to 1 rin, in old times called 1 mon)
-
-On the Use of the Abacus (Soroban)
-
-The way to use the abacus is to place the divisor (which means the standard) on the left and the dividend on the right. For example, when dividing 100 items among 16 people, the 16 people are the divisor and the 100 items are the dividend. Therefore, place 16 on the left and 100 on the right. For addition and subtraction (meaning addition), there is no distinction between dividend and divisor. Therefore, numbers may be placed anywhere as desired. Also, the number of columns on an abacus is commonly 21 columns.
-
-The way to use the abacus beads is that one upper bead represents the number five, and the lower beads represent one each, so two beads equal two. Therefore, one upper bead and five lower beads together make ten. Thus, one lower bead represents one...
-
-[Abacus Diagram]
-Right
-Monme - Ten - Hundred
-Me - Ten - Hundred
-
-Rin - Sen - Ten
-Upper - Yen - Lower
-Ten - Hundred - Thousand
-
-Go - Sho - To
-Koku - Ten - Hundred
-Left
+【Abacus Diagram】
+(Columns arranged from right to left: monme, ten, hundred, tome, ten, hundred, rin, sen, ten, en, ten, hundred, thousand, gō, shō, to, koku, ten, hundred)

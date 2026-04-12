@@ -1,25 +1,20 @@
 【Right Page】
-　One, Ten, Hundred (meaning ten tens), Thousand (meaning ten hundreds), Ten thousand (meaning ten thousands), One hundred thousand,
-　One million, Ten million, Oku/Yi (meaning ten thousand times ten thousand), Ten oku, One hundred oku, One thousand oku,
-　Chō/Trillion (meaning ten thousand oku), Ten chō, One hundred chō, One thousand chō, Kei (meaning ten thousand chō), Ten kei,
-　One hundred kei, One thousand kei, Gai (meaning ten thousand kei), Ten gai, One hundred gai, One thousand gai,
-　Beyond these: shi, jō, kō, kan, sei, zai, kyoku, etc., all of which can be inferred. These are called the places of large multiplication.
-　This is what is commonly used today. Besides these, there are names such as gōgasha and asōgi, but
-　most of these appear in Buddhist teachings.
+　One, Ten, Hundred (meaning ten tens), Thousand (meaning ten hundreds), Ten thousand (meaning ten thousands), Hundred thousand,
+　Million, Ten million, Oku (meaning ten thousand times ten thousand), Ten oku, Hundred oku, Thousand oku,
+　Chō (meaning ten thousand oku), Ten chō, Hundred chō, Thousand chō, Kei (meaning ten thousand chō), Ten kei,
+　Hundred kei, Thousand kei, Gai (meaning ten thousand kei), Ten gai, Hundred gai, Thousand gai,
+　Beyond these are shi, jō, kō, kan, sei, zai, kyoku, etc., all of which can be understood by inference. This is called the place value of large multiplication. This is what is commonly used today. Besides these, there are names such as gōgasha and asōgi, but most of these appear in Buddhist teachings.
 　　　Small Numbers　　Numbers below one
-　Fun (meaning ten rin), Rin (meaning ten mō), Mō (meaning ten shi), Shi (meaning ten kotsu, follow this pattern for the rest), Kotsu, Bi,
+　Fun (meaning ten rin), Rin (meaning ten mō), Mō (meaning ten shi), Shi (meaning ten kotsu, others follow this pattern), Kotsu, Bi,
 　Sen, Sha, Jin, Ai, Byō, Baku,
-　Beyond these: moko, shunjun, suyu, etc., exist without limit, all appearing in Buddhist teachings.
-
+　Beyond these are moko, shunjun, suyu, etc., which are limitless, and all appear in Buddhist teachings.
 【Left Page】
-　Generally, the limit of small numbers becomes emptiness (kū), and the limit of large numbers becomes void (kyo). When reaching these limits,
-　they are beyond what each person's vision can comprehend. Also, in Sūri Seion, "futsu" is recorded
-　after "mō." Therefore, calendar books often use the character "futsu."
+　Generally, the extreme of small numbers becomes emptiness (kū), and the extreme of large numbers becomes void (kyo). When reaching those extremes, they are beyond what the eye can perceive. Also, in mathematical precision texts, "futsu" is recorded after "mō." Therefore, calendrical texts often use the character "futsu."
 　　　Degree Numbers (Units of Length)
-　Jō (meaning ten shaku), Shaku, Sun, Fun, Rin, Mō,
-　Tan (from 2.5 or 2.6 to 3 jō in whale shaku, with variations in length according to quality, all terms for silk cloth), Hiki (meaning two tan),
-　Shi (meaning eight sun), Jin (meaning four shaku), Hiro (meaning two jin, which is eight shaku), Jō (meaning two hiro), In (meaning ten jō),
-Kanejashi/Carpenter's square (equivalent to eight sun in whale shaku) - The name comes from the curved
-　rectangular tool used by craftsmen. Its reverse scale divides one shaku four sun one fun four rin
-　and more into one shaku increments, and its origin comes from square root extraction. The diagonal of a square
-　one shaku measures one shaku four sun one fun four rin and more. Therefore it is called sumigane.
+　Jō (meaning ten shaku), Shaku, Sun, Fun, Rin, Mō
+　Tan (from 2.5 to 2.6 or up to 3 jō of whale measure, with varying lengths according to quality, all terms for silk cloth), Hiki (meaning two tan)
+　Shi (meaning eight sun), Jin (meaning four shaku), Hiro (meaning two jin, which is eight shaku), Jō (meaning two hiro), In (meaning ten jō)
+Carpenter's square (equivalent to eight sun of whale measure) - Used by craftsmen, made in a bent rectangular shape,
+　hence the name. Its reverse scale divides one shaku four sun one fun four rin and more into one shaku
+　graduations, the origin of which comes from square root extraction. The diagonal of a
+　one-shaku square is one shaku four sun one fun four rin and more. Therefore it is called "angle."

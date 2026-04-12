@@ -1,0 +1,80 @@
+【Right Page】
+How much is 12,345,543 hyō of wheat when divided by 7 households?
+　　　Answer: 1,763,649 hyō
+
+【Below diagram】
+　Recitation for the 7 times table
+　Seven-one, down add three
+　Seven-two, down add six
+　Seven-three, forty-two
+　Seven-four, fifty-five
+　Seven-five, seventy-one
+　Seven-six, eighty-four
+　Seven-advance one-ten
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Seven-advance one-ten
+　Seven-six, eighty-four
+　Seven-advance one-ten　　Seven-three, forty-two
+　Seven-advance one-ten　　Seven-four, fifty-five
+　Seven-advance one-ten　　Seven-two down add six
+　Seven-four, fifty-five
+　Seven-five, seventy-one
+　Seven-one down add three
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】
+　Start of multiplication
+　Seven-nine, sixty-three
+　Four-seven, twenty-eight
+　Six-seven, forty-two
+　Three-seven, twenty-one
+　Six-seven, forty-two
+　Seven-seven, forty-nine
+　One-seven is seven
+
+【Left Page】
+How much is 34,567,890 koku of azuki beans when divided among 8 households?
+　　　Answer: 4,320,986 koku 2 tō 5 shō
+
+【Below diagram】
+　Recitation for the 8 times table
+　Eight-one down add two
+　Eight-two down add four
+　Eight-three down add six
+　Eight-four add-make five
+　Eight-five, sixty-two
+　Eight-six, seventy-four
+　Eight-seven, eighty-six
+　Eight-advance one-ten
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Eight-four add-make five
+　Eight-two down add four
+　Eight-advance one-ten　Eight-five, sixty-two
+　Eight-advance one-ten　Eight-six, seventy-four
+　Eight-seven, eighty-six
+　Eight-advance one-ten
+　Eight-advance one-ten　Eight-one down add two
+　Eight-advance one-ten　Eight-two down add four
+　Eight-three down add six
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】
+　Start of multiplication
+　Five-eight, forty
+　Two-eight, sixteen
+　Six-eight, forty-eight
+　Eight-eight, sixty-four
+　Eight-nine, seventy-two
+　Two-eight, sixteen
+　Three-eight, twenty-four
+　Four-eight, thirty-two

@@ -1,0 +1,28 @@
+【Right Page】
+When one becomes proficient in this method, it truly becomes like carrying dictionaries such as Jilin Yubian or Daizen Setsuyō
+Shū in one's pocket within the field of mathematics, enabling one to respond to changes as situations arise
+and apply myriad techniques accordingly. All other methods including various reduction techniques, extreme numbers and progressive differences, circular principles and arc calculations,
+area calculations, astronomy, calendar techniques, and surveying all originate from this method.
+　　　Eight Operations《귀인 (Ki means single-digit division, In means single-digit multiplication)》
+Second row: 2×1 add make 5, 2 advance 10, 4 advance 20, 6 advance 30, 8 advance 40
+When 1,234,567 koku 8 tō 9 gō of rice is divided by 2, how much is it?
+　　Answer: 617,283 koku 9 tō 5 shaku
+The division annotation says: As shown in the left diagram, place the divisor 2 on the left of the abacus, then
+place 1,234,567 koku 8 tō 9 gō as the dividend《Division
+starts from the leftmost digit of the dividend, comparing the divisor with the dividend and deriving from the divisor number》Take the first 1 of the dividend as "2×1 add
+
+【Left Page】
+make 5," then take
+the 2 of the next digit
+and divide by "2 advance
+10" 《becoming 6》also
+from the next digit 3, take
+2 and apply "2 advance 10"
+placing 1 in the left digit,
+and make the remaining 1 "2
+×1 add make 5," then take 4 from the next
+digit and apply "4 advance 20" placing 2 below 5《becoming 7》also take 4 from the next digit 5
+and apply "4 advance 20" placing 2 in the left digit, making the remaining 1 "2×1 add make 5"
+
+【Diagram Description】
+Contains abacus diagrams showing the procedures for division and multiplication operations.

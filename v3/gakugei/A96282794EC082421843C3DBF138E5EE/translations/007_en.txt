@@ -1,28 +1,28 @@
-Whale scale/Kujira-shaku (equivalent to 1 shaku 2 sun 5 bu of the carpenter's square) - this is called the merchant scale.
-Western "Elle" scale: 3 shaku 2 sun 9 bu 5 rin plus, "Palm": 3 sun 2 bu 9 rin
-Chinese "Cubit": 1 shaku 0 1 bu 7 rin, English "Foot": 1 shaku 0 0 3 rin minus
+【Right Page】
+Whale shaku (equivalent to one shaku two sun five fun of the carpenter's square) - this is called the merchant's shaku
+Western "Elle" shaku three shaku two sun nine fun five rin and more, "Palm" three sun two fun nine rin
+Chinese "Cubit" one shaku zero one fun seven rin, English "Foot" one shaku zero zero three rin weak
 
-Volume Measurements (referring to measuring vessel graduations)
-Koku/stone (meaning ten to, the above being large numbers), to (meaning ten sho), sho (meaning ten go, same below), go, shaku, sai.
-Zu (meaning four sho), ku (meaning four zu, 1 to 6 sho), fu (meaning five ku, 8 to), ri (meaning two fu, 16 to), sho (meaning five ri, 80 to), i (meaning two sho, 160 to)
-Tou/koku (meaning five to or two to five sho, said to have changed to "koku" after the Han dynasty)
-Kyoto measure (mouth diameter 4 sun 9 bu, depth 2 sun 7 bu, capacity 64.827 cubic sun) - this is the commonly used measure today.
-Old measure (mouth diameter 5 sun, depth 2 sun 5 bu, capacity 62.5 cubic sun), Warrior measure (equivalent to 8 go of Kyoto measure, a private measure used among common people)
-Koshu measure (equivalent to 3 sho of Kyoto measure as 1 sho) - in old times there was an officially licensed measure guild.
+　　　Volume Numbers (Units of Capacity)
+　Koku (meaning ten to, above are large numbers), To (meaning ten shō), Shō (meaning ten gō, same below), Gō, Shaku, Sai,
+　Zu (meaning four shō), Ku (meaning four zu, one to six shō), Fu (meaning five ku, eight to), Ri (meaning two fu, sixteen to), Shō (meaning five ri, eighty to), I (meaning two shō, one hundred sixty to)
+　Tō (meaning five to or two to five shō, said to be changed to koku after the Han dynasty)
+Kyō-masu (mouth diameter four sun nine fun, depth two sun seven fun, capacity sixty-four sun eight fun two rin seven mō) - the commonly used measure today
+Ko-masu (mouth diameter five sun, depth two sun five fun, capacity sixty-two sun five fun), Musha-masu (equivalent to eight gō of kyō-masu, a private measure in common use)
+Kōshū-masu (equivalent to three shō of kyō-masu, considered as one shō) - In old times there were officially licensed measure guilds
+Western: Kan (five gō five shaku eighteen and more), Ton (six koku five to three shō seven gō weak)
 
-Western: Han (5 go 5 shaku 818 plus), Ton (6 koku 5 to 3 sho 7 go minus)
+【Left Page】
+　　　Weight Numbers (Units of Weight)
+　Kan (meaning ten hyaku-me, above are large numbers), Hyaku (meaning ten jū-monme), Jū (meaning ten monme), Sen (meaning ten fun, using the monme character), Fun (below same as small numbers)
+　Kin (not fixed depending on goods, generally as follows): Tō-me (160 me), Shiro-me (230 me)
+　　Fundō-me (300 me), Hirano-me (220 me)
+　Ryō (not fixed depending on goods, using four monme or five monme)
+Western: Pound (268 monme three fun two rin and more)
 
-Weight Measurements (referring to scale graduations)
-Kan (meaning ten hundred me, above being large numbers), hundred (meaning ten ten monme), ten (meaning ten monme), sen (meaning ten bu, using the monme character), bu (below same as small numbers)
-Kin (not fixed, varies by goods, roughly as follows): Chinese me (160 me), White me (230 me)
-Weight me (300 me), Hirano me (220 me)
-Ryo (not fixed, varies by goods, using 4 monme or 5 monme)
-Western: Pound (268 monme 3 bu 2 rin plus)
+　　　Celestial Degrees (Numbers used in astronomy)
+　Shū (meaning twelve kyū, 360 degrees), Kyū (meaning thirty degrees), Do (meaning sixty fun), Fun (meaning sixty byō), Byō (meaning sixty bi, follow this pattern below)
+　Bi, Sen, Kotsu, Bō, (In ancient times one degree was divided into one hundred parts and one part into one hundred seconds, this was called the hundred-part calculation)
 
-Celestial Degrees (numbers used in astronomy)
-Shu/cycle (meaning twelve zodiacal houses, 360 degrees), kyu/house (meaning 30 degrees), do/degree (meaning 60 minutes), fun/minute (meaning 60 seconds)
-Sho/second (meaning 60 bi, follow this pattern below)
-Bi, sen, kotsu, bo (in ancient times, one degree was divided into 100 parts and one degree into 100 seconds - this was called the centesimal system)
-
-Land Measurements (numbers used in geography)
-Ri (using 36 cho or 50 cho), cho (60 ken), ken (taken as 6 shaku, or there are 6 shaku 3 sun, 6 shaku 5 sun)
+　　　Earth Measure (Numbers used in geography)
+　Ri (using thirty-six chō, or fifty chō), Chō (sixty ken), Ken (considered six shaku, or there are six shaku three sun, six shaku five sun)
