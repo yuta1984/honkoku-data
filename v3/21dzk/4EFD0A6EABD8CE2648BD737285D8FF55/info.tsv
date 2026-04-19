@@ -19,12 +19,12 @@ filename	status	image
 018.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952683/R0000130/full/full/0/default.jpg
 019.txt	completed	https://www.dl.ndl.go.jp/api/iiif/952683/R0000131/full/full/0/default.jpg
 020.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952683/R0000132/full/full/0/default.jpg
-021.txt	editing	https://www.dl.ndl.go.jp/api/iiif/952683/R0000133/full/full/0/default.jpg
+021.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000133/full/full/0/default.jpg
 022.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000134/full/full/0/default.jpg
 023.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000135/full/full/0/default.jpg
 024.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000136/full/full/0/default.jpg
 025.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000137/full/full/0/default.jpg
-026.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000138/full/full/0/default.jpg
+026.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/952683/R0000138/full/full/0/default.jpg
 027.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000139/full/full/0/default.jpg
 028.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000140/full/full/0/default.jpg
 029.txt	default	https://www.dl.ndl.go.jp/api/iiif/952683/R0000141/full/full/0/default.jpg

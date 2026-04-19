@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00001.tif/full/full/0/default.jpg
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00002.tif/full/full/0/default.jpg
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00003.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00002.tif/full/full/0/default.jpg
+003.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00003.tif/full/full/0/default.jpg
 004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00004.tif/full/full/0/default.jpg
 005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00005.tif/full/full/0/default.jpg
 006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00006.tif/full/full/0/default.jpg
@@ -19,7 +19,7 @@ filename	status	image
 018.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00018.tif/full/full/0/default.jpg
 019.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00019.tif/full/full/0/default.jpg
 020.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00020.tif/full/full/0/default.jpg
-021.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00021.tif/full/full/0/default.jpg
+021.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00021.tif/full/full/0/default.jpg
 022.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00022.tif/full/full/0/default.jpg
 023.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00023.tif/full/full/0/default.jpg
 024.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200023019/v4/NIIP/049-0313/049-0313-00024.tif/full/full/0/default.jpg

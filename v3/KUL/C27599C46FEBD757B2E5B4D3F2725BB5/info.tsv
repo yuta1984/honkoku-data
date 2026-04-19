@@ -93,9 +93,9 @@ filename	status	image
 092.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548876.tiff/info.json
 093.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548877.tiff/info.json
 094.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548878.tiff/info.json
-095.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548879.tiff/info.json
-096.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548880.tiff/info.json
-097.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548881.tiff/info.json
+095.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548879.tiff/info.json
+096.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548880.tiff/info.json
+097.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548881.tiff/info.json
 098.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548882.tiff/info.json
 099.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548883.tiff/info.json
 100.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/1571280/548884.tiff/info.json

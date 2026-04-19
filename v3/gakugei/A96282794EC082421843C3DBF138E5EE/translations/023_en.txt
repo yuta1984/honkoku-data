@@ -1,0 +1,20 @@
+【Right Page】
+Match it with the next digit of the divisor, recite using the multiplication table and subtract. Continue this process sequentially until matching and subtracting up to the last digit of the divisor, then the next quotient is complete. When there is a remainder, find the quotient of the third division in the same manner as before.
+
+【Below upper abacus diagram】
+　㋥　　　　　　※Five-six, thirty subtract; five-advance fifty
+　　　　　　　　　Third quotient
+　㋩　　　※Two-six, twelve subtract; two-advance twenty
+　　　　　　Second quotient
+　㋺　※Six-six thirty-six subtract
+　㋑　※Return-one compensate-one, return-one compensate-one, return-one compensate-one, make-nine one
+　　　Initial quotient
+
+【Below lower abacus diagram】
+　㋥　Five, six-thirty
+　㋩　One-five is five　Two-six, twelve
+　㋺　　　　　　One-two is two　Six-six, thirty-six
+　㋑　　　　　　　　　　　One-six is six
+
+【Left Page】
+Regarding the division method: As shown in the right diagram, place sixteen as the divisor and 100 me as the dividend. First, when using the sounds of the one times table saying "one-advance one-ten," since there is no number in the next digit and it cannot be subtracted using the multiplication table sounds, "one-advance one-ten" cannot be done. Therefore, say "make-nine one" and make the digit of 100 me into nine, placing one in the next digit. Match the nine in ㋑ with six in the next digit of the divisor: "six-nine, fifty-four." Since it cannot be subtracted in digit ㋺, say "return-one compensate-one," take one from within nine, and put one in the next digit, making ㋑ eight and ㋺ two. Match this eight with the divisor's six: "six-eight, forty-eight." Since it cannot be subtracted in digit ㋺, again say "return-one compensate-one," take one from within eight, and put one in the next digit, making ㋑ seven and ㋺ three. Match this seven with the divisor's six: "six-seven, forty-two." Since it cannot be subtracted in digit ㋺, again say "return-one compensate-one," take one from within seven, and put one in the next digit, making ㋑ six and ㋺ four. Here, match this six with the divisor's six and

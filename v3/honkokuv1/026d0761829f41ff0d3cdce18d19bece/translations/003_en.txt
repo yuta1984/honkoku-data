@@ -1,0 +1,9 @@
+○ Magnetic Force Observation Report (Ministry of Agriculture and Commerce)
+
+The Geological Bureau of the Ministry of Agriculture and Commerce conducted magnetic force observations along all major routes throughout the country at intervals of approximately 5-6 ri during the 15th and 16th years of Meiji. The purpose was to determine the true position of meridians necessary for topographic map adjustment based on magnetic needle deviation, and to study the relationship between magnetic force intensity and the rock types constituting the earth's crust. Particularly in regions where iron ore and iron-bearing rocks are located, this relationship is considered to be at its maximum.
+
+The results of these observations are hereby reported as follows:
+
+(Note) The first horizontal row in the table, Declination, indicates the degrees by which the north end of a magnetic needle deviates west or east from the earth's true north pole. However, in our country, it currently commonly deviates westward, so the two characters for "west deviation" are abbreviated and simply marked as (West).
+
+The second horizontal row, Inclination, refers to the north end of the magnetic needle or

@@ -1,0 +1,18 @@
+Answer: These are the maximum high tide and maximum low tide.
+Question: What is a neap tide?
+Answer: These are the minimum high tide and minimum low tide.
+Question: What is the ratio between spring tides and neap tides?
+Answer: Neap tides are approximately seven-tenths of spring tides.
+Question: When do spring tides occur?
+Answer: Twice in a lunar month, namely at new moon and full moon.
+Question: When do neap tides occur?
+Answer: Twice in a lunar month, namely at first quarter and last quarter.
+Question: When tidal waters move around the Earth's surface, what effect do continents have?
+
+Answer: They cause great irregularities in tidal conditions.
+Question: On which shore of continents do high tides occur? The eastern or western shore?
+Answer: The eastern shore.
+Question: Is seawater normally higher on the eastern shores of continents and lower on the western shores?
+Answer: The water in the Gulf of Mexico is 2 fathoms higher than the Pacific Ocean, and the Red Sea is 3 fathoms higher than the Mediterranean Sea.
+Question: In places like the Pacific Ocean where there are the fewest obstacles to tidal flow, how much does it lag behind the moon's motion?
+Answer: Two or three hours.

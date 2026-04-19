@@ -1,0 +1,20 @@
+Tiangou Major Star: Xu constellation 2+ degrees, 31- degrees, 3rd magnitude, 14+ degrees past Zi hour, 60+ degrees north
+Leibi Western Star: Xu constellation 3+ degrees, 110- degrees, 3rd magnitude, 15+ degrees past Zi hour, 18+ degrees south
+Wei Northern Star: Wei constellation initial degree+, 87+ degrees, 3rd magnitude, 17+ degrees past Zi hour, 7+ degrees north
+Shi Northern Star: Shi constellation initial degree, 65.5 degrees, 2nd magnitude, 7+ degrees past Hai hour, 25+ degrees north
+Shi Southern Star: Shi constellation initial degree, 78+ degrees, 2nd magnitude, 8 degrees past Hai hour, 12+ degrees north
+Yulin Major Star: Shi constellation 9+ degrees, 107- degrees, 3rd magnitude, 4+ degrees past Hai hour, 18 degrees south
+
+Solar Transit Degrees and Minutes from the Celestial Equator
+
+When observing stars, one must first recognize the celestial equator and the North Pole. The North Pole has stars that can serve as indicators, but for the celestial equator, measurement methods must be employed. Without knowing the measurement methods, even movements of several degrees would lack foundation.
+
+Using the sun's transit north and south of the celestial equator as the standard, each extends 23.5 degrees, with no difference between inner and outer limits, and the movement is gradual. This is calibrated using the sun's positions at the 24 solar terms. <<The sun's distance from the celestial equator changes daily, but using the solar term days as reference makes measurement easier>> One can know the elevation of the celestial equator and thereby deduce the position of the North Pole at that location.
+
+The sun's distance from the celestial equator <<During the spring and autumn equinoxes, when the sun travels the celestial sphere along the true circle of the celestial equator with no deviation north or south, one can recognize this as the boundary that bisects the celestial sphere north and south>>
+
+Spring Equinox: Center <<At this time, on the central line, no distance>>  Clear and Bright: North 6°19'  Grain Rain: North 11°30'
+Summer Begins: North 16°40'  Grain Fills: North 20°12'  Grain in Ear: North 22°46'
+Summer Solstice: North 23°31'  Slight Heat: North 22°46'  Great Heat: North 20°12'
+Autumn Begins: North 16°40'  Heat Ends: North 11°30'  White Dew: North 6°19'
+Autumn Equinox: Center <<At this time, on the central line, no distance>>  Cold Dew: South 6°19'  Frost Falls: South 11°30'

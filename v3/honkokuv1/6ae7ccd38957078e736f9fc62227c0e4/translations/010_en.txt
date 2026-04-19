@@ -1,0 +1,6 @@
+【Diagram explanation on the lower right page】
+Suppose a person stands on the seashore and watches a large ship raise its sails from there and sail away into the distant ocean. That ship has what is called a "flag signal" - a separate small flag erected on top of the mast. Now, that flag signal is the smallest, the mast is next in size, and the ship's hull is the largest.
+
+【Diagram explanation on the upper left page】
+As these three things move away, the large ship's hull disappears from sight first. Next, the mast vanishes from view, and the small flag signal disappears last.
+Also, when watching a large ship approaching from afar while standing on a mountaintop using a telescope, one must first see the flag. Next the mast becomes visible, and when closest, the ship's hull can be seen. This should be considered in relation to the diagram. This appears so because it is obstructed by the curved arc of the water surface. If the water surface were flat and straight, then for a departing ship, the flag, being small, should disappear first, the mast should follow, and the ship, being the largest of the three, should vanish last.

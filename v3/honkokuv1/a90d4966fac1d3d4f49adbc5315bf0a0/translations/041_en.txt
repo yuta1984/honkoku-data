@@ -1,0 +1,27 @@
+is the angle formed between them.
+
+Question: What distance can be measured by right ascension?
+Answer: Three hundred sixty degrees, that is, one complete revolution around the entire sky.
+
+Question: What is the latitude circle of the celestial sphere?
+Answer: It is a great circle that passes through both ecliptic poles and intersects the ecliptic plane at right angles.
+
+Question: What is the latitude of a celestial body?
+Answer: It is the north-south distance of a celestial body from the ecliptic, measured in celestial latitude.
+
+Question: What is the longitude of a celestial body?
+Answer: It is the eastern distance of a celestial body from the first degree of Aries, measured along the ecliptic.
+
+Question: What angle does longitude indicate?
+Answer: It indicates the angle between the meridian circle where the celestial body is located and the meridian circle of the first degree of Aries.
+
+Question: Where does this angle occur?
+Answer: The various meridian circles intersect each other at the ecliptic pole, creating this angle.
+
+Question: What distance can celestial longitude measure?
+Answer: Three hundred sixty degrees.
+
+Chapter 51, Part 3, Figure 26
+
+Question: What is called the vertical circle?
+Answer: It is a great circle that extends from the zenith to the nadir and cuts the horizon circle at right angles.

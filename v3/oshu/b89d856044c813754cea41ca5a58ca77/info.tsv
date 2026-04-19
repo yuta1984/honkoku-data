@@ -1,6 +1,6 @@
 filename	status	image
-001.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-001.tif/full/full/0/default.jpg
-002.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-002.tif/full/full/0/default.jpg
+001.txt	completed	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-001.tif/full/full/0/default.jpg
+002.txt	initiated	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-002.tif/full/full/0/default.jpg
 003.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-003.tif/full/full/0/default.jpg
 004.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-004.tif/full/full/0/default.jpg
 005.txt	default	https://khirin-a.rekihaku.ac.jp/iiif/2/yanagawadateke%2F13-02-04%2F13-02-04-005.tif/full/full/0/default.jpg

@@ -1,0 +1,50 @@
+【Right Page】
+How much is 11,110,111 kan 100 me of tobacco when divided among 9 people?
+　　　Answer: 1,234,567 kan 900 me
+
+【Below diagram】
+　Recitation for the 9 times table　Nine-one down add one
+　　　　　　　　　　　　　　　　Nine-two down add two
+　　　　　　　　　　　　　　　　Nine-three down add three
+　　　　　　　　　　　　　　　　Nine-four down add four
+　　　　　　　　　　　　　　　　Nine-five down add five
+　　　　　　　　　　　　　　　　Nine-six down add six
+　　　　　　　　　　　　　　　　Nine-seven down add seven
+　　　　　　　　　　　　　　　　Nine-eight down add eight
+　　　　　　　　　　　　　　　　Nine-advance one-ten
+
+【Above diagram】
+　Division
+【Below abacus diagram】
+　Nine-advance one-ten
+　Nine-eight down add eight
+　Nine-seven down add seven
+　Nine-six down add six
+　Nine-five down add five
+　Nine-four down add four
+　Nine-three down add three
+　Nine-two down add two
+　Nine-one down add one
+　Start of division
+
+【Below diagram】
+　Multiplication
+【Below abacus diagram】
+　Start of multiplication
+　Nine-nine, eighty-one
+　Seven-nine, sixty-three
+　Six-nine, fifty-four
+　Five-nine, forty-five
+　Four-nine, thirty-six
+　Three-nine, twenty-seven
+　Two-nine, eighteen
+　One-nine is nine
+
+【Left Page】
+　　　Division and Multiplication (除 means to divide, 乗 means to multiply. The common term "ken'ichi" refers to the beginning of this chapter)
+
+Ken'ichi (Visible One): Division recitation uses the sounds of the one times table throughout. When one-advance one-ten cannot be done, it is called "ken'ichi mutō sakukyū," and when subtraction is not possible, it is called "ki'ichi bai'ichi," returning one to the next position.
+
+When 100 me of silver is divided among 16 people, how much per person?　　Answer: 6 monme 2 bu 5 rin
+
+Explanation: Dividing by a divisor of more than two digits is commonly called "ken'ichi." First, divide the first digit of the dividend by the first digit of the divisor. This is called the initial quotient (the result of division). Match that quotient with the number in the next digit of the divisor, recite using the multiplication table, and subtract from the dividend starting from the next position of the quotient. Continue this process sequentially for each digit of the divisor (this completes the division for the initial quotient). Then use the first digit of the divisor to divide the remaining number of the initial quotient by the next digit of the dividend to find the next quotient. Then that number...

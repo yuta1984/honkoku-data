@@ -1,0 +1,21 @@
+Violet i = 71°49'55"  d = 54°9'20"
+
+Now, if we construct the same configuration for the minimum deflection angle as in the case of the first rainbow, we can obtain a diagram of the second rainbow (Figure 6). In this second rainbow, it should be understood that violet is on the outside and red is on the inside.
+
+Since the second rainbow is produced by two reflections, its light is weaker compared to the first rainbow.
+
+○ Size of the rainbow: The inner radius equals the deflection angle of violet, namely 40°17", and the width clearly equals the difference between the deflection angles of red and violet plus the apparent diameter of the sun (approximately 30'). That is:
+
+42°1'40" - 40°17' + 30' = 2°14'40"
+
+The inner radius of the second rainbow equals the deflection angle of red, namely 50°58'50", and its width, by the same reasoning as before:
+
+54°9'20" - 50°58'50" + 30' = 3°40'30"
+
+That is, the second rainbow is wider.
+
+The width between the outer edge of the first rainbow and the inner edge of the second rainbow is the difference between the red deflection angle of the second rainbow and the red deflection angle of the first rainbow. That is:
+
+50°58'50" - 42°1'40" = 8°57'10"
+
+Note: The portion of sky contained between the first and second rainbows appears darker than the portions outside both rainbows. This is because the effective light rays that produced the first rainbow gave the minimum deflection...
