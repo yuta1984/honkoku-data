@@ -375,7 +375,7 @@ filename	status	image
 374.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f374/full/full/0/default.jpg
 375.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f375/full/full/0/default.jpg
 376.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f376/full/full/0/default.jpg
-377.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f377/full/full/0/default.jpg
+377.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f377/full/full/0/default.jpg
 378.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f378/full/full/0/default.jpg
 379.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f379/full/full/0/default.jpg
 380.txt	completed	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f380/full/full/0/default.jpg
@@ -575,10 +575,10 @@ filename	status	image
 574.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f574/full/full/0/default.jpg
 575.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f575/full/full/0/default.jpg
 576.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f576/full/full/0/default.jpg
-577.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f577/full/full/0/default.jpg
-578.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f578/full/full/0/default.jpg
-579.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f579/full/full/0/default.jpg
-580.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f580/full/full/0/default.jpg
+577.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f577/full/full/0/default.jpg
+578.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f578/full/full/0/default.jpg
+579.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f579/full/full/0/default.jpg
+580.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f580/full/full/0/default.jpg
 581.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f581/full/full/0/default.jpg
 582.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f582/full/full/0/default.jpg
 583.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f583/full/full/0/default.jpg

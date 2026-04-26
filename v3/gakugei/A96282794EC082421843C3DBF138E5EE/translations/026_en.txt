@@ -1,0 +1,11 @@
+【Right Page】
+The method of division states: Place as shown in the right diagram, match the divisor with the dividend, using the divisor's 20 to divide the highest digit 1 of the dividend with "two-one complement makes five," match this 5 with the next digit 3 of the divisor, "3×5=15" cannot be subtracted at position ㋺, so take 1 from 5 and say "return one, double two," enter 2 into the next position, making ㋑ equal to 4 and ㋺ equal to 3. Match ㋑'s 4 with the divisor's 3, subtract "3×4=12" at positions ㋺ and ㋩, making ㋺ equal to 2 and ㋩ empty. Also, using the divisor's 20 with ㋺'s 2, say "complement of 9 for 2," change 2 to 9, enter 2 into the next position, making ㋺ equal to 9 and ㋩ equal to 2. Match this 9 with the divisor's 3, subtract "3×9=27" at positions ㋩ and ㋥, and it divides evenly to get 49 yen.
+
+The method of multiplication states: Retreat 2 positions (the number of digits in the divisor) from the last digit of 9 yen in the multiplicand, match 9 yen with the last digit 3 of the divisor, say "3×9=27," place 20 in this position, place 7 in the next position, making ㋩ equal to 2 and ㋥ equal to 7. Also, match 9 yen with the divisor's 20 and
+
+【Left Page】
+match them, saying "2×9=18," change 9 yen to 10, enter 8 into the next position, but since there is 2 in that position, say "8 plus 2 makes 10," take the 2 from ㋩, enter 1 into the left position, making ㋺ equal to 2 and ㋩ empty. Also, retreat 2 positions from the position of 40 yen, at position ㋺ match 40 yen with the divisor's 3, say "3×4=12," enter 10 into this position, enter 2 into the next position, making ㋺ equal to 3 and ㋩ equal to 2. Also match 40 yen with the divisor's 20, say "2×4=8," clear the 40 yen, enter 8 into the next position, but since there is 3 in this position, take 2 from this, say "8 plus 2 makes 10," enter 1 into the left position ㋑, and thus the multiplication is completed, obtaining the original 1,127 yen.
+
+When 3,060 kin of cotton is divided among 36 people, how much is it?　　Answer: 85 kin
+
+The method of division states: Place as shown in the left diagram, using the divisor's 30 with the dividend's 3 thousand

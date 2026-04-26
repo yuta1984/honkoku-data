@@ -1,61 +1,62 @@
-"Supplemented Tashiki Compilation" Vine plants category states:
-　　　Rubus (Fukubonshi)　Japanese name "kauburi-ichigo"
-　　　　　　　　　　　　Upon examination, "kusa-ichigo" (grass strawberry)
-　　　　　　　　　　　　(Supplemented alternative names) ■ (Kei) (Erya), Ketsubon (Same), Western country grass (Circular diameter)
-　　　　　　　Biryōka (Koreuka) (Same), Great barley berry (Taibakubu), Inserted field raspberry (Seutenhau), Crow berry (Uhoushi)
+【STRAWBERRY】
+According to the Supplemented Tashiki-hen Vine Plants:
+　Raspberry (Fukubonshi)　Japanese name: Kaufuri-ichigo (Crawling Strawberry)
+　　　　　　　Now considered: Kusa-ichigo (Grass Strawberry)
+　　　　　　　　　　　Supplementary alternative names: Kei (Erya), Ketsubon (same), Western Country Grass (Tujing)
+　　　　　　　Hireuka (same), Barley Berry (Taibakubo), Sautenhau, Black Berry (Uhōshi) (Compendium)
 
-"Compendium of Materia Medica" states that berry types (Hōrai apricot ○ Rubus, Raspberry ○ Tree berry ○ Snake berry) have approximately
-five varieties. Shizhen personally began investigation and obtained accurate information, but
-many different theories from various schools are still untrustworthy. (I say) Berry types are
-divided into five varieties, but Shizhen considers the varieties to be over ten. In Han dynasty there were probably five categories.
-It is doubtful. According to senior scholars' theory, "fukubon" is the name of berry fruit.
+The Bencao Gangmu states that berry types (thorny apricot, raspberry, tree berry, snake berry) have approximately
+five varieties, but only when Shizhen personally collected and compared them did he first obtain their true identities. The
+various theories of different schools are numerous and mostly unreliable. I say that even dividing berry types into five
+varieties, according to Shizhen there are more than ten types. In the Han dynasty there may have been five varieties.
+Suspiciously, earlier scholars say that fukubon is the name for strawberry fruit.
 
-"Japanese Materia Medica" records this plant as Rubus
-"Geographic Brocade Collection" calls it Xuangouzi. Should be investigated
-I record one variety of Rubus in my illustration
-This is based on the diagram in "Geographic Brocade Collection"
-This plant follows "Japanese Materia Medica"
-The diagram in "Japanese-Chinese Three Talents Illustrated" is very different
-But the explanations match
+The Yamato Honzō records this plant as fukubon
+The Chijin-shō calls it kenkōshi, this should be investigated
+I record one variety of fukubonshi in my illustrations
+This is based on the diagrams in Chijin-shō
+This plant follows Yamato Honzō
+The illustrations in Wakan Sansai Zue are very different
+but the explanations agree
 
-　Second day of third month, Mizunoto year
-　Illustrated copy
-　　　　　　　Gourd category
+　2nd day of March, spring of Mizunoto-Hitsuji year
+　Faithful copy
+　　　　　　　Fruit category
 
-　　　"Japanese Materia Medica" states:
-　　　　　　　　Japanese yew tree　　　　Kyara tree (Kiraboку)　Flowers are yellow-red like balls, growing in clusters
-　　　　　　　　(Ichii)　(Ki)　　　　　　　　Fruit like bundles, very small
+【YEW, ALOES-WOOD, JAPANESE NUTMEG YEW】
+According to Yamato Honzō:
+　　Japanese Yew (Ichii-no-ki)　　　　Aloes-wood (Kiraboku)　Flowers yellow-red like balls, growing clustered together
+　　　　　　　　　　　　　　　　　　　　　　　　　　　Fruit bundle-like, very small
 
-　　　　　　　　　　　　　　　　　Same year, 18th day of first month
-　　　　　　　　　　　　　　　　　Sketched in garden
+According to Wakan Sansai Zue, Fragrant Woods:
+　　Aloes-wood (Kyaraboku, Otsuko) Popular name
+　　　　Ozuko (Otsuko) (Ainu name)
+The indigenous people of Ezo and Matsumae call it O-
+zuko. This wood resembles the grain of
+agarwood (kyara). Hence it's popularly called aloes-wood.
 
-　　　　　　　　　　　　　　　　　Miscellaneous trees
-　　　　　　　　　　　　　　　　　From Mount Kurai in Hida Province, made from yew wood
-　　　　　　　　　　　　　　　　　Called "shaku" (ceremonial scepter). In "Japanese Names Collection," Saku wood can be made
-　　　　　　　　　　　　　　　　　into shaku
+Same year, 18th day of first month
+Garden illustration
 
-"Japanese-Chinese Three Talents Illustrated" Fragrant woods category states:
-　　Kyara tree (Kyaraboku Otsuko) common name
-　　　　Ozuko (Otsuko) (Ainu designation)
-Ainu people from Ezo Matsumae call it
-Ozuko. This wood is like the grain of
-aloes wood, so it is commonly called kyara tree
+Miscellaneous trees
 
-　　　　　　　　　Doso tree
-　　　　　　　　　　　(Yew tree)
-　　　　　　　　　　　(Saku tree)
+　From Mt. Kurai in Hida Province, ceremonial tablets are made
+　from yew wood. According to Wamyōshō, saku wood can be made
+　into ceremonial tablets.
 
-(Master Matsuoka Joan's "Materia Medica Family" states)
-Abotsusam　Edge yew (Benikaya), Dog yew (Inukaya)
-　　　　Kyara tree (also) Yew tree
+Earth Revival Wood
+　Japanese Yew
+　Saku Wood
 
-　In foreign language this oil is called ○ Hortkaruno oil
-　Also called "Asetouna"
+According to Master Matsuoka Jōan's Personal Views on Materia Medica:
+　Abussan　Japanese Nutmeg Yew (Benikaya), Dog Nutmeg (Inukaya)
+　　　　　Aloes-wood, also Japanese Yew
 
-(Toyoda Yōkei's "Red Whip Slow Record" states)　Abotsusam　Benikaya
-　　　　　　　　　Inukaya
+　In foreign language this oil is called Holtokaru oil
+　Also called Asetōna
 
-　　　　　　　　Wang's Detailed Annotations of Collected Gardens states "Abotsusam grows in Fulin country. Length over one jō, bark color blue-white,
-　　　　　　　　leaves thin in pairs like turnip, correct yellow, seeds resemble black pepper but red in color. Grinding its branches yields juice like
-oil. Applied to scabies and ringworm, none fail to heal. This oil is extremely valuable, worth a thousand gold pieces" ○ Also appears in "Music Records Handbook." The Benikaya
-tree of Ōmi Province is this. Benikaya, also called Inu-kaya. Grows everywhere in mountains. Mountain people extract oil for use by surgeons
+According to Toyoda Yōkei's Shaben Joroku:　Abussan　Benikaya, Inukaya
+　　　　　　　　Wang's Detailed Annotations states: Abussan comes from Furin Country, over one jō in length, bark color blue-white,
+　　　　　　　　leaves fine, growing in pairs opposite each other, resembling turnip greens, proper yellow, seeds resembling black pepper, red in color. When the branches are ground, the juice is like
+oil. Applied to scabies and ringworm, there is nothing it cannot cure. The oil is extremely valuable, worth a thousand gold pieces. This also appears in the Kyokuseki Benran. The Benikaya
+tree of Ōmi Province is this. Benikaya, also called Dog Kaya, grows in various places in the mountains. Mountain people extract oil for use by surgeons.

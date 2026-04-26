@@ -1,0 +1,22 @@
+【Right Page】
+Place it, and matching 5 rin with the divisor 10, say "1×5=5" and clear the 5, placing 5 in the next column, making ㋥ equal to 8. From the 2 bu column, retreat 2 positions (the number of digits in the divisor), match 2 bu with the divisor 6, say "2×6=12" and place 10 in ㋩, placing 2 in ㋥. Since there is already 8 in this column, say "2+8=10," clear the 8, and place 1 in the left column, making ㋩ equal to 2. Match 2 bu with the divisor 10, say "1×2=2," clear the 2 bu, place 2 in the next column, making ㋩ equal to 4. From the 6 monme column in the dividend, retreat 2 positions (the number of digits in the divisor), match 6 monme with the divisor 6 in the ㋺ column, say "6×6=36," place 30 in the ㋺ column, and place 6 in the ㋩ column. Since there is 4 in this column, clear this 4, say "6+4=10," and place 1 in the left column, making ㋺ equal to 4. Match 6 monme with the divisor 10, say "1×6=6," clear the 6 monme,
+
+【Left Page】
+place 6 in the ㋺ column. Since there is 4 in this column, clear this 4, say "6+4=10," and place 1 in the left column, making ㋑ equal to 1. Thus, we obtain the original 100 me.
+
+When dividing 1,127 yen among 23 households, how much per household? Answer: 49 yen
+
+【Below the diagram】
+Look, two #1
+Division calls always use the calls of the 2-times table. When division is not possible, say "saku-ku no ni" (complement of 9 for 2), and when subtraction is not possible, say "ki-ichi bai-ni" (return one, double two).
+
+【Above and below the abacus diagram】
+㋥　ryō (tael)
+㋩　ten　　　　　　　　　　3×9=27 subtract
+㋺　hundred　　3×4=12 subtract　saku-ku ni
+㋑　thousand　　《ki-ichi bai-ni｜ni-ichi ten saku-go》
+
+【Below the lower abacus diagram】
+　　　　　3×9=27
+hundred　　2×9=18　　3×4=12
+ten　　　　　　　　　　2×4=8

@@ -1,0 +1,26 @@
+[Right page]
+　※〇With new measures: holds 3 koku 8 sho 5 go 1 shaku
+　　〇With old measures: holds 3 koku 2 to
+[Figure at bottom right]
+[Top edge horizontally] length 5 shaku　[Vertically] depth 2 shaku
+[Depth at 3 locations] 2 shaku
+　Calculation method: multiply length 5 shaku by width 2 shaku
+　to get 10 tsubo. Multiply this by height 2 shaku to get 20 tsubo.
+　Then divide the above 20 tsubo by the new measure coefficient 64827
+　to know the result as 3 koku 8 sho 5 go 1 shaku.
+　Also, multiply 20 tsubo by 16 to know the result as 3 koku 2 to.
+　Similarly, dividing 20 tsubo by 625 gives the same result.
+
+[Left page]
+　※Tsurube (well bucket)
+　　〇With new measures: holds 2 sho 1 go 3 shaku
+　　〇With old measures: holds 2 sho 2 go 1 shaku
+[Figure at bottom left]
+[Top surface right] 6 sun　[Top surface left] 6 sun　[Left side] depth 6 sun
+[Bottom surface right] inner bottom diameter 3 sun 6 bu　[Bottom surface left] 3 sun 6 bu
+　Calculation method: combine the top opening 6 sun and bottom 3 sun 6 bu to get 9 sun 6 bu.
+　When this is divided by two, it becomes 4 sun 8 bu.
+　Square this to get 230.4 tsubo in sun units.
+　Multiply this by depth 6 sun to get 1382.4 tsubo.
+　Divide this tsubo number by the new measure coefficient 64827
+　to know the result as 2 sho 1 go 3 shaku.

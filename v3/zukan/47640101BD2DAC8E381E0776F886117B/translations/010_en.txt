@@ -1,33 +1,41 @@
-The Yamato Honzo states: In the Buko (Edo) dialect called tachi-hana
-　Kara-tachibana (Chinese orange)　　○In the Kyoto dialect called karachi-hana
-　　　　　　　　　○In the Chikushi (Kyushu) dialect called yabu-karashi
+The Yamato Honzo states:
+　Hyakuryōkin (Karatachibana)
+　　　　　　　In Musashi dialect called Tachi-bana
+　　　　　　　In Kyoto dialect called Karatachi-bana
+　　　　　　　In Tsukushi dialect called Yabukarashi
 
-　　　　　　　　　　　　　　　　　　　　　　Sixth day of early Rinsho (6th month), Hinoe-inu year
-　　　　　　　　　　　　　　　　　　　　　　Copied
+6th day of early Rinsho (6th month), year of Hinoe-inu
+Copied
 
-　　　　　　　　　　　　　　　　　　　　　　　　　Yamato Honzo
-　　　　　　　　　　　　　　　　　　　　　　　　　　　Listed under garden trees
+Listed in the Yamato Honzo [seal] Garden trees section
 
-The Zoho Chikinsho states that Chinese orange (karatachibana) is a different plant. It refers to the hereditary tachibana.
-It is a type of citrus, and although kayatoka (kara-tachibana) is commonly called tachi-hana by the people,
-it does not contain the character for tachibana (orange).
+Baien states:
+　What the common people call "Tachihana" is this plant. Tachibana is
+　the general name for citrus fruits and is different from this. Since citrus fruits are
+　called "Tachihana," this is called "Karatachibana."
+　In Tsukushi dialect it is called "yabukanshi," which is very
+　easily confused. Yabukanshi is a lowland tree that
+　resembles Karatachibana but has different leaves; the flowers and fruits are most similar.
 
-Geranium grows abundantly in various mountain and field locations. It grows in
-the plains of Sugamo and Tokumaru in Buko (Edo). This plant's leaves, stems, and flowers are shade-
-dried and ground into powder, then taken with hot water. It treats dysentery and is
-especially effective for bloody dysentery. It can also be prepared as a decoction or ground into fine powder to make pills.
-All methods are effective. Therefore it is called gennoshoko (proven effectiveness). Although the materia medica lists it among
-poisonous plants, it is non-toxic. For dysentery, this geranium alone
-can be taken effectively. The frequency should be controlled. The Yamato Honzo also records
-its efficacy.
+The Zoho Chikin-sho states that kara-tachibana is a different plant. It refers to the hereditary tachibana
+of the citrus family. Though Kara-tachibanoka is commonly called tachibana,
+it does not use the character for tachibana.
 
-Wild geranium
-The Jiuhuang states: Geranium species, Fighting bull plant ○Renkeso
-　　　　　　　　　　　　　○Houtsuke-bana
-　　　　　　　　　　　　　○Miyushi-kusa
-Polygonum aviculare: Haiikuwaso
-　　　Umegaeso
+Gokei grows abundantly everywhere in mountains and fields. It grows in the
+plains of Sugamo and Tokumaru in Musashi Province. The leaves, stems, and flowers are shade-
+dried and powdered, then taken with hot water. It effectively treats diarrhea and is
+especially effective for dysentery. It can also be made into decoctions or ground fine and formed into pills.
+All are effective. Hence it is called "Gen-no-shōko" (reliable remedy). Though listed in materia medica among poisonous
+plants, it is not toxic. For diarrhea, this single ingredient
+may be taken alone. Limit the frequency. The Yamato Honzo also
+records its efficacy.
 
-The Wakan Sansai Zue and various other books state:
-　　Geranium, wild geranium, and another species are treated as three separate plants, but all records are confused.
-　　These three are actually one species. True Polygonum aviculare is a separate, different plant.
+[Seal] Herb category
+
+　Yafūrō (wild geranium) grass
+The Jiuhuang Bencao states: Qianniuer (Gen-no-shōko), Douniuer 《Alternative names: Rengesō, Hōtsukehana, Mikoshigusa》
+　　Biantu (Fūro) 《Alternative names: Haikuwasō, Umegaesō》
+
+The Wakan Sansai Zue and various books state:
+　Gokei, Qianniuer, and Fūrō are treated as three different things, all recorded confusingly.
+　These three are one species. The true Biantu is a separate species altogether.

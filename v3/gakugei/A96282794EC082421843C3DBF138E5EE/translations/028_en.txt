@@ -1,0 +1,27 @@
+【Right Page】
+Retreat 2 positions (the number of digits in the divisor) from the digit, match this 8 with the divisor's 6, say "6×8=48" and enter 40 into this digit, making ㋺ equal to 5. When entering 8 into the next digit where there is already 8, say "8 plus 2 makes 10," take 2 from the 8, enter 1 into the ㋺ digit, making ㋺ equal to 6 and ㋩ equal to 6. Also, match the multiplicand's 8 with the divisor's 30, say "3×8=24," change 8 to 2, when entering 4 into the next digit where there is already 6, say "4 plus 6 makes 10," take that 6, enter 1 into the left digit, making ㋑ equal to 3, ㋺ empty, and ㋩ equal to 6. This completes the multiplication, obtaining the original 3060 kin.
+
+Divide 4104 yen by 432, what is the result? Answer: 9 yen 50 sen
+
+The method of division states: Place as shown in the left diagram, match the divisor's highest digit 400 with the multiplicand's highest digit 4000, say "complement 9 for 4," change 4 to 9, in the next digit
+
+【Left Page】
+
+【Above and below the upper abacus diagram】
+㋥　　　　　　　　　2×5=10 subtract
+㋩　　　2×9=18 subtract　3×5=15 subtract
+㋺　　　3×9=27 subtract　4×2 add to make 5
+㋑　　　complement 9 for 4
+
+【Below the lower abacus diagram】
+　2×5=10
+　3×5=15　2×9=18
+　4×5=20　　3×9=27
+　　　　　　4×9=36　
+
+【Below the diagram】
+Observe 4
+The division voice uses all the voices of the 4 times table. When it cannot be divided, say "complement 9 for 4," and when it cannot be subtracted, say "return one, quadruple."
+
+【Left of diagram, continuing from right page】
+enter 4, making ㋑ equal to 9 and ㋺ equal to 5. Match this 9 with the middle digit 3 of the divisor, say "3×9=27 subtract," subtract 2 from the next digit, and when trying to subtract 7 in the next ㋩ digit but cannot subtract, take 1 from the 3 in ㋺, say "subtract 7 leaving 3," place 3 in the next digit, making ㋺ equal to 2 and ㋩ equal to 3. Also, match the 9 in ㋑ with the last digit 2 of the divisor, say "2×9=18 subtract," from the 3 in ㋩ subtract 10

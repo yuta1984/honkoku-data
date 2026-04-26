@@ -1,0 +1,24 @@
+[Right page]
+　When multiplied, it becomes 576. Also, when adding the depth of
+　1 shaku 8 sun to the bottom point of 6 sun on the left,
+　it becomes 2 shaku 4 sun. When this is multiplied by the above 576,
+　it becomes 13824. When this is multiplied by 33, it becomes 456192.
+　When this is multiplied by the circular coefficient 8, it becomes
+　3649536. When this is multiplied by the old measure coefficient 16,
+　it becomes 5 to 8 sho 4 go. ○When the opening of 9 sun is multiplied left and right,
+　it becomes 81. When this is multiplied by height 3 sun, it becomes 243.
+　When this is multiplied by the circular coefficient 8, it becomes 1944.
+　When this is multiplied by the measure coefficient 16, it is 3 sho 1 go 1 shaku.
+
+[Left page]
+　When the above two openings are combined, it is 6 to 1 sho 5 go 1 shaku. From this interior,
+　the pointed bottom is subtracted. When 6 sun is multiplied left and right, it becomes 36.
+　When this is multiplied by depth 6 sun, it becomes 216.
+　When this is multiplied by 33, it becomes 7128. When this is multiplied by the circular coefficient
+　8, it becomes 57024. When this is multiplied by the measure coefficient
+　16, it becomes 9 go 1 shaku. From the above 6 to 1 sho 5 go
+　1 shaku, subtract 9 go 1 shaku, and know the remainder as 6 to 6 go.
+
+　※Holds 7 to 4 sho 5 go 9 shaku 2 sai
+[Square pyramid at bottom left]
+[Four places on top surface] 2 shaku　[Vertically] depth 3 shaku 7 sun

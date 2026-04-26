@@ -150,8 +150,8 @@ filename	status	image
 149.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000149/full/full/0/default.jpg
 150.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000150/full/full/0/default.jpg
 151.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000151/full/full/0/default.jpg
-152.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000152/full/full/0/default.jpg
-153.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000153/full/full/0/default.jpg
+152.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000152/full/full/0/default.jpg
+153.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000153/full/full/0/default.jpg
 154.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000154/full/full/0/default.jpg
 155.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000155/full/full/0/default.jpg
 156.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000156/full/full/0/default.jpg

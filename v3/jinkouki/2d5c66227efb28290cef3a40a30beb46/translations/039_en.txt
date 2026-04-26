@@ -1,0 +1,17 @@
+【Right Page】
+○ 2 tsubo 8 bu 8 rin
+【Diagram】
+【Upper front】Interior width: 7 shaku 8 sun　【Upper right side】7 shaku 8 sun
+【Right front】Height: 2 ken
+
+【Left Page】
+Calculation method: Taking the horizontal interior measurement as 7 shaku 8 sun,
+divide this by 6 shaku 5 sun to get 1 ken 2 bu.
+Multiply this by itself (left and right dimensions) to get
+1 tsubo 4 bu 4 rin. Furthermore, multiply this by the height
+of 2 ken to get 2 tsubo 8 bu 8 rin.
+
+Alternatively, place 7 shaku 8 sun for both dimensions,
+which gives 6084. Multiply this by the height of 2 ken
+to get 121,68. Divide this by 4225
+to get 2 tsubo 8 bu 8 rin as an alternative calculation method.

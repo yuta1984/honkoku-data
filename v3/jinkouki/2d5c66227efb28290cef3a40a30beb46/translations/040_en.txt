@@ -1,0 +1,15 @@
+【Right Page】
+【Diagram】
+【On three sides of top surface】9 shaku 8 sun 8 bu　【Front vertical】Height: 2 ken
+
+【Left Page】
+Calculation method: Place 9 shaku 8 sun 8 bu for both dimensions and multiply,
+which gives 976,144. Multiply this by the square method coefficient 433,
+to get 422,670,352. Multiply this by the height of 2 ken
+to get 453,407,04. Divide this by the flat tsubo method
+coefficient 4225 to get 2 tsubo.
+
+Matter of Moat Construction Division
+※When there is a moat with length of 383 ken, width of 15 ken,
+and depth of 2 ken. When asked how many tsubo this amounts to:
+○ Answer: 11,490 tsubo

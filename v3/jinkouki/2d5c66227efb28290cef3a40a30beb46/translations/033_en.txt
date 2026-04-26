@@ -1,0 +1,26 @@
+[Right page]
+　Also, when multiplying 140 tsubo 2 bu 4 rin by 16,
+　know the result as 2 sho 2 go 1 shaku.
+　　The above calculation is how to calculate in general cases.
+　　For objects that slope from the four sides to the bottom, there is
+　　a slight difference from the right
+　　calculation method.
+　　However, the true calculation has oral transmission.
+
+　※Round to-masu (one-to measure)
+　　〇Holds 1 to
+[Cylinder at bottom left]
+[Top surface] diameter 9 sun 3 bu 7 rin　[Side surface] depth 9 sun 3 bu 7 rin
+
+[Left page]
+　Calculation method: multiply the round diameter of 9 sun 3 bu 7 rin
+　by itself, then multiply this by depth 9 sun 3 bu 7 rin,
+　then multiply by the circular coefficient 79. Divide this by the new measure coefficient
+　64827, and there will be slightly more
+　than 1 to.
+
+　※〇Holds 6 to 6 go
+[Jar-shaped figure]
+[Lid] diameter 9 sun　[Neck area] 3 sun　[Main body upper part] diameter 2 shaku 4 sun
+[Vertically] depth 1 shaku 8 sun　[Bottom part] bottom 6 sun　[Below] 6 sun
+　Calculation method: place diameter 2 shaku 4 sun left and right

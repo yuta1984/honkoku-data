@@ -1,25 +1,41 @@
+**Moon Star (Monday Star)**
 Eighth
-Monday Star (Moon)
 Amida
 
+**Jupiter Star (Thursday Star)**
 Ninth
-Thursday Star (Jupiter)
-Fudō
+Fudo
 
-Twenty-Eight Constellations
+**Twenty-Eight Lunar Mansions**
 
-Horn Constellation (Jiao)
-First
-According to the Shu Jing Tong Kao, the two stars of Jiao form the Heavenly Gate, with the space between them being the Heavenly Gate, and the interior being the Heavenly Court. The ecliptic passes through it, and it governs military affairs.
+**Jiao Constellation (Horn) 《First》**
+According to the Comprehensive Study of the Book of Documents, the two stars of Jiao form the celestial gate, with the space between them being the heavenly gate, and inside is the heavenly court, through which the ecliptic passes. They govern all military affairs.
+[Star chart]
+Flat path
+Jiao ○ ○
+○
+○
 
-Neck Constellation (Kang)
-Second
-According to the Tong Kao, the four stars of Kang represent the inner court of the Son of Heaven.
+**Kang Constellation (Neck) 《Second》**
+According to the comprehensive study, the four stars of Kang represent the inner court of the Son of Heaven.
+[Star chart]
+○ ○
+○Kang ○
 
-Root Constellation (Di)
-Third
-According to the Tong Kao, the four stars of Di represent the residential officials of the Son of Heaven.
+**Di Constellation (Root) 《Third》**
+According to the comprehensive study, the four stars of Di are the lodging officials of the Son of Heaven.
+[Star chart]
+○
+○ Di ○
+○
 
-Room Constellation (Fang)
-Fourth
-According to the Tong Kao, the four stars of Fang form the Bright Hall, the palace where the Son of Heaven promulgates his policies. (remainder omitted)
+**Fang Constellation (Room) 《Fourth》**
+According to the comprehensive study, the four stars of Fang form the bright hall, the palace where the Son of Heaven administers government 《abbreviated below》
+[Star chart]
+○
+○Fang
+○
+○
+○
+○
+○Gou Qian

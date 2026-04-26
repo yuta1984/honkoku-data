@@ -1,0 +1,22 @@
+【Right Page】
+【Diagram of abacus above and below】
+　㋩　　　　　　　　　　5×6=30 subtract　advance 6 to make 20
+　㋺　　　6×8=48 subtract　3×1=31
+　㋑　　　return one, triple　complement 9 for 3
+
+【Below the abacus diagram】
+　5×6=30
+　3×5=15　　6×8=48
+　　　　　　　3×8=24
+
+【Below the diagram】
+　Observe 3
+　The division voice uses all the voices of the 3 times table. When it cannot be divided, say "complement 9 for 3," and when it cannot be subtracted, say "return one, triple."
+
+【Left of diagram, continuing from previous page】
+match them and say "complement 9 for 3," change 3000 to 9, place 3 in the next digit. Match this 9 with the divisor's 6, try to subtract "6×9=54" but cannot subtract in the next digit, so say "return one, triple," take 1 from 9, enter 3 into the next digit, making ㋑ equal to 8 and ㋺ equal to 6. Match this 8 with the divisor's 6, say "6×8=48 subtract," subtract 4 from the next digit's 6, from the remaining 2 take another 1 and 8
+
+【Left Page】
+subtract, leaving 2, enter 2 into the position of the next digit 6, making ㋺ equal to 1 and ㋩ equal to 8. Also, using the divisor's 30 with ㋺'s 1, say "3×1=31," change 1 to 3, enter 1 into the next digit, making ㋺ equal to 3 and ㋩ equal to 9. When matching this 3 with the divisor's 6 and subtracting "3×6=18" in the next digit, there would be too much remainder and it won't divide evenly, so take 6 from this 9 and say "advance 6 to make 20," enter 2 into the position of digit 3 in ㋺, making ㋺ equal to 5 and ㋩ equal to 3. Match this 5 with the divisor's 6, say "5×6=30," and clear the 3 in ㋩, thus completing the division to get 85 kin.
+
+The method of multiplication states: Retreat 2 positions (the number of digits in the divisor) from the end position of 5 kin in the multiplicand, match 5 kin with the divisor's 6, say "5×6=30" and place it in this digit, making ㋩ equal to 3. Also, match 5 kin with the divisor's 3, say "3×5=15," change 5 kin to 1, enter 5 into the next digit, making ㋺ equal to 1 and ㋩ equal to 8. Also, the highest digit 8 of the multiplicand

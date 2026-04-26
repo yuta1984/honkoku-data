@@ -1,0 +1,21 @@
+[Right page]
+Enter into the ㋭ column, advance two places to position ㋺, match ㋑'s eight with the divisor's nine: 8×9=72, enter into ㋺㋩. Since there is a 4 in ㋺, take 3 from the 4, add 3 to 7 to make 10. This 10 should be entered into position eight of column ㋑, but first temporarily hold this 10 in the middle. [Note: The reason for not entering this 10 immediately but holding it temporarily is that this 10 is a number affected by the divisor, while ㋑'s eight is not yet affected by the divisor. Think carefully about this. All other cases should be understood in the same way.]
+
+When entering 2 into column ㋩, it makes 10, so clear everything and enter 1 into position ㋺, making ㋺2㋩ empty. Move to the left column, match this 8 with the divisor's head 6: 6×8=48, change 8 to 4, enter 8 into the next column. Since there is already a 2, take that 2, add 2 to 8 to make 10, enter 1 into column ㋑ to make 5. Also enter the 1 temporarily held in the middle, making ㋑6㋺empty㋩empty. This completes the multiplication, and we obtain the original 60
+
+[Left page]
+million 387 tan.
+
+When loading 312,298 barrels of sake onto ships at 7,982 barrels per ship, how many ships are needed? Answer: 39 ships
+
+[Abacus diagram explanations]
+2×9=18 subtract
+8×9=72 subtract  2×3=6 subtract  
+9×9=81 subtract  3×8=24 subtract
+7×9=63           3×9=27 subtract
+                 Change 9 to 7
+                 Return-one multiply-seven  7×3=21
+
+Division chants: Use entirely the chants of the seven series. When division is not possible, say "change nine to seven." When subtraction is not possible, say "return-one multiply-seven."
+
+Regarding division technique: Arrange as shown in the right diagram, using the divisor's leading digit 7 against the dividend's

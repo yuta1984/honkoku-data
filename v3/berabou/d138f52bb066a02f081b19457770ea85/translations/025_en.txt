@@ -1,0 +1,18 @@
+One item: True bonito (9 sun, one piece), price: 6 monme 4 bu; One item: Daikon radish, eight pieces, price: 4 bu 4 rin
+One item: Burdock root, sixteen pieces, price: 7 bu 5 rin; One item: Pickled matsutake mushrooms, eight pieces, price: 2 monme 4 bu
+One item: Fu (wheat gluten), eight pieces, price: 4 bu; One item: Tofu, two blocks, price: 1 bu 8 rin
+One item: Chinese yam, two pieces, price: 8 bu; One item: Marinated fish, eight pieces, price: 4 monme 8 bu
+One item: Asakura (grain/vegetable), three gō, price: 8 bu 4 rin; One item: Small taro, five gō, price: 9 rin
+One item: Wasabi, ten pieces, price: 4 bu; One item: Yuzu citrus, five pieces, price: 3 rin
+One item: Tang fermented soybeans, thirty pieces, price: 9 bu; One item: Green seaweed, four pieces, price: 2 bu 8 rin
+The above items are for the morning and evening meals of Her Imperial Highness the Third Princess
+
+One item: Fresh bass (1 shaku 6 sun, one piece), 30 monme 4 bu; One item: Fresh abalone, three pieces, price: 5 monme 7 rin
+One item: Salted salmon, fifteen pieces, price: 1 monme 3 bu 5 rin
+The above items are for the evening banquet dishes
+One item: Fresh small sea bream (6 sun, one piece), price: 6 bu; One item: Fresh abalone, one piece, price: 3 monme 9 bu
+One item: Crucian carp (6 sun, one piece), price: 4 bu 4 rin; One item: Sweetfish (6 sun, three pieces), price: 9 bu
+One item: Powder, one piece, price: 2 bu 5 rin; One item: Burdock root, seven pieces, price: 3 bu 5 rin
+One item: Matsutake mushrooms, four pieces, price: 1 monme 5 bu; One item: Salted salmon, ten pieces, price: 9 bu
+One item: Tofu, one block, price: 9 rin; One item: Mustard seed, one gō, price: 1 bu 1 rin
+One item: Asakura (grain/vegetable), one gō, price: 2 bu 8 rin; One item: Fu (wheat gluten), four pieces, price: 2 bu

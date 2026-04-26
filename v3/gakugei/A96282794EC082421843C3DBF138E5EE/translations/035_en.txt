@@ -1,0 +1,19 @@
+[Right page]
+Enter 1 to obtain the original 311,298 loads.
+When 5,253,537 soldiers are distributed among 89,043 units, how many per unit? Answer: 59 people
+
+[Abacus diagram and calculation process]
+㋣　
+㋬　　　　　　　　　　39=27 subtract　　39=27
+㋭　　35=15 subtract　　49=36 subtract　　49=36　　35=15
+㋥　　45=20 subtract　　　　　　　　　　　　　　　　　　45=20
+㋩　　　　　　　　　　99=81 subtract　　99=81　　
+㋺　　59=45 subtract　change-nine-eight　　89=72　　59=45
+㋑　　[Note: return-one multiply-eight | 85=62]　　　　　　　　　　　　　　　58=40
+
+[Below the diagram]
+　Look at eight
+　Division chanting uses all the voices of the eight times table. When unable to divide, say "change nine to eight," and when unable to subtract, say "return one multiply eight."
+
+[Left page]
+Regarding division technique: Arrange as shown in the right diagram. Using the divisor's leading 8, divide the dividend's leading 5 by 85=62, making ㋑6㋺4. Match this 6 with the divisor's 9: 69=54, but this cannot be subtracted from ㋺㋩, so take 1 from the 6, apply "return one multiply eight," and enter 8 into ㋺, but 2 remains, so temporarily borrow this 2. Match ㋑'s 5 with the divisor's 9: 59=45, subtract from ㋺㋩. Take 2 from ㋺, combine with the temporarily borrowed 2 to make 40 for subtraction, then subtract 5 in the next position, making ㋺8㋩empty. Also match ㋑'s 5 with the divisor's 4: 45=20, subtract from ㋥. Also match ㋑'s 5 with the divisor's 3: 35=15, subtract from ㋭㋬, making ㋥1㋭3㋬8. Also, using the divisor's leading 8, divide ㋺'s 8 by "change nine to eight," making ㋺9㋩8. Match this 9 with the divisor's 9: 99=81, subtract from ㋩㋥. Match ㋺'s 9 with the divisor's 4

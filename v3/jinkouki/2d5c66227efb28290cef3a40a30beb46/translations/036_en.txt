@@ -1,0 +1,27 @@
+[Right page]
+　are needed, when asking,
+　　〇There are 127 tsubo 3 bu of 1-sun tsubo
+　　〇14 sheets 1 bu 4 rin of 3-sun foil are needed
+[In the hexagon at bottom right]
+[Right side] 7 sun
+　In the calculation method, when 7 sun is multiplied left and right, it becomes 49. When this is
+　multiplied by the hexagonal coefficient 2598, there are 127 tsubo 3 bu 2 mo.
+　When this is divided by 9 tsubo, the coefficient for 3-sun foil,
+　it should be known as 14 sheets 1 bu 4 rin of 3-sun foil.
+
+　※When an octagon has weights of 6 sun each. When asking how much 3-sun gold foil
+　　is needed for this,
+
+[Left page]
+　　〇There are 173 tsubo 8 bu 3 rin of 1-sun tsubo
+　　〇19 sheets 3 bu 1 rin of 3-sun foil are needed
+[In the octagon at bottom right]
+[Right side] 6 sun
+　In the calculation method, when 6 sun is multiplied left and right, it becomes 36. When this is
+　multiplied by 2, it becomes 72. When this is divided by 4142,
+　the coefficient for octagons, it is known as 173 tsubo 8 bu 3 rin. Also, when this is
+　divided by 9, it should be known as 19 sheets 3 bu 1 rin.
+　The calculation method is as described above, however, margins should be added as appropriate.
+
+　※When converting 1,500 sheets of 4-sun foil to 3-sun, how much
+　　is it, when asking,

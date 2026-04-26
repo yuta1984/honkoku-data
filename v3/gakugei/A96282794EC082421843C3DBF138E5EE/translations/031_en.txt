@@ -1,0 +1,34 @@
+【Right Page】
+The method of multiplication states: From the last digit 9 of the multiplicand, go down 3 places (the number of digits in the multiplier), match this 9 with the last digit 7 of the multiplier, place "7×9=63" at ㋥㋭, then move to the left digit, match the multiplicand's 9 with the multiplier's 6, enter "6×9=54" at ㋩㋥, making ㋩6㋥empty㋭3. Then move to the left digit, match this 9 with the multiplier's highest digit 5, say "5×9=45", change 9 to 4, enter 5 in the next digit, making ㋺5㋩1. Also from the multiplicand's highest digit 7, go down 3 places (the number of digits in the multiplier), match this 7 with the multiplier's 7, enter "7×7=49" at ㋩㋥, making ㋩5㋥9. Then move to the left digit, match the multiplicand's 7 with the multiplier's 6, enter "6×7=42" at ㋺㋩, making ㋺9㋩7. Then move to the left digit, match this 7 with the multiplier's highest digit 5, say "5×7=35", change 7 to 3, enter 5 in the next digit, making ㋑4㋺4, thus obtaining the original 44,793
+
+【Left Page】
+bags.
+
+When distributing 600,387 bolts of cloth among 6,901 people, how much does each person get?　　　　　　Answer: 87 bolts
+
+【Above and below the upper abacus diagram】
+㋬
+㋭　　　　　　　　　　　1×7=7 subtract
+㋥　　　1×8=8 subtract
+㋩　　　　　　　　　　　7×9=63 subtract　
+㋺　　　8×9=72 subtract　《split notation: six advance one ten｜6×4=64》
+㋑　　　《split notation: return one accompany six｜make nine six》
+
+【Below the lower abacus diagram】
+
+　1×7=7
+　　　　　　　　1×8=8
+　7×9=63
+　6×7=42　　8×9=72
+　　　　　　　　6×8=48
+
+【Below the diagram】
+　See six
+　Division chant uses entirely the 6 times
+　table chant, when division is not
+　possible say "saku-kyū no roku" (make nine from six),
+　when subtraction is not possible say "ki-ichi
+　bai-roku" (return one, accompany six)
+
+【Left of the diagram】
+The method of division states: Place as shown in the right diagram, using the divisor's highest digit 6 with the dividend's
