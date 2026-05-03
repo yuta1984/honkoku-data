@@ -1,0 +1,25 @@
+[Right page]
+37 sen, 51 sen 3 rin, 27 sen, 74 sen 5 rin,
+　　　　　　　　　　　　　　Answer: 1 yen 89 sen 8 rin
+36 sen 9 rin, 92 sen, 28 sen, 43 sen,
+　　　　　　　　　　　　　　Answer: 1 yen 99 sen 9 rin
+69 sen, 84 sen 2 rin, 46 sen 8 rin, 13 sen,
+　　　　　　　　　　　　　　Answer: 2 yen 13 sen
+43 sen 2 rin, 30 sen 7 rin, 81 sen 1 rin, 65 sen,
+　　　　　　　　　　　　　　Answer: 2 yen 20 sen
+56 sen, 93 sen 1 rin, 67 sen, 31 sen 9 rin,
+　　　　　　　　　　　　　　Answer: 2 yen 48 sen
+83 sen 2 rin, 51 sen, 72 sen 3 rin, 49 sen,
+
+[Left page]
+　　　　　　　　　　　　　　Answer: 2 yen 55 sen 5 rin
+71 sen 2 rin, 92 sen 5 rin, 81 sen, 39 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 2 yen 84 sen
+32 sen 1 rin, 1 yen 21 sen, 98 sen 7 rin, 43 sen 2 rin,
+　　　　　　　　　　　　　　Answer: 2 yen 95 sen
+43 sen 2 rin, 38 sen, 1 yen 23 sen, 99 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 3 yen 3 sen 5 rin
+34 sen 2 rin, 1 yen 91 sen, 43 sen 6 rin, 76 sen 8 rin,
+　　　　　　　　　　　　　　Answer: 3 yen 45 sen 6 rin
+1 yen 23 sen, 97 sen 8 rin, 89 sen, 50 sen 2 rin
+　　　　　　　　　　　　　　Answer: 3 yen 60 sen

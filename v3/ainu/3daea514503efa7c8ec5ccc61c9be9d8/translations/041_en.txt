@@ -1,15 +1,16 @@
-Worldly Affairs/Daily Activities
-Sleep - Hishini
-Wake up/Rise - Hobuni
-Stand - Roshike
-Sit - Kurumushikakeregokaku
-Lie down - Hotsuke
-Sleep (imperative) - Mokora
-To sleep - Mokoro
-Not sleep - Moinashiyomomokoru
+Daily Life/Human Activities
+To sleep - Hishinii
+To wake up - Hobuni
+To stand - Roshike
+To sit - Kurumushikakere(?) Gokaku
+To lie down - Hotsuke
+Sleep! - Chikora
+Sleep! - Mokora
+Let's sleep - Mokoro
+Not sleeping - Moinashiyomomokoru
 Snoring - Etoro
 Fatigue - Shinki
-Rest - Shini
-Loss/Missing - Ochiuwe
-Being alive - Shitsukinu
-Kill - Ronno
+To rest - Shini
+To lose (something) - Ochiyuuwe
+To have life/be alive - Shitsukinu
+To kill - Ronno

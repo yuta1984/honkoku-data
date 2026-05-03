@@ -1,0 +1,27 @@
+【Right Page】
+Calculation method: Multiply 383 ken by 15 ken to get 5,740
+and 5 tsubo. Multiply this by the depth of 2 ken to get
+11,490 tsubo.
+
+※When there is a moat with length of 400 ken, width of 5 ken, and depth of 2 ken 2 shaku,
+and asked how many tsubo this amounts to:
+○ Answer: 4,615 tsubo 3 bu 8 rin
+
+Calculation method: Place 2 ken 2 shaku on the right, multiply this 2 ken portion by 6 shaku
+5 sun to get 1 jō 5 shaku. Multiply this by the width of 5 ken
+to get 75. When multiplying this by the length of 400 ken,
+it becomes 3. When dividing this by 6 shaku 5 sun, it becomes 4,600
+
+【Left Page】
+and 15 tsubo 3 bu 8 rin. ○ Another calculation method states:
+When there is 2 ken 2 shaku, divide the 2 shaku portion by 6 shaku 5 sun
+to get 2 ken 30769. Multiply this by 5 ken
+and then by the length of 400 ken to get 4,615
+tsubo 3 bu 8 rin.
+
+※When there is a moat with length of 400 ken, width of 5 ken 3 shaku, and depth
+of 2 ken 2 shaku, and asked how many tsubo this amounts to:
+○ Answer: 5,041 tsubo 4 gō 2 shaku
+
+Calculation method: For 2 ken 2 shaku, as mentioned above, multiply 2 ken by 6 shaku 5 sun
+to get 1 jō 5 shaku. ○ Also for 5 ken 3 shaku, take 5 ken

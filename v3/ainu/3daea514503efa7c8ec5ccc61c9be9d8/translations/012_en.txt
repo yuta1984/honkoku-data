@@ -1,15 +1,15 @@
-Rat (Child): Matsunau
-Ox (Ox): Beshikanbe
-Tiger (Tiger): Ramato
-Rabbit (Rabbit): Menashi
-Dragon (Dragon): Ikamenashi / Notenai
-Snake (Snake): Bekerepikata
-Horse (Horse): Pikata
-Sheep (Sheep): Ashinopikata
-Monkey (Monkey): Omoyoo
-Rooster (Rooster): Shiyumu
-Dog (Dog): Chikainef
-Boar (Boar): Ottomun
-In addition to the above:
-Yaashyanbe / (Snake) Ochiyukkanbe
-/ Atsuichyarugushi
+Rat　マツナウ
+Ox　べシカンベ
+Tiger　ラマト
+Rabbit　メナシ
+Dragon　イカメナシ▲ノテナイ
+Snake　ベケレピカタ
+Horse　ピカタ【ヒカ゚タ】
+Sheep　アシノピカタ
+Monkey　ヲモヨヲ
+Rooster　シユム
+Dog　チカイネフ
+Boar　ヲツトムン
+　In addition to the above:
+　　ヤアシヤンベ▲《Small text: 丑》ヲチユクカンベ
+　　▲アツイチヤルグシ

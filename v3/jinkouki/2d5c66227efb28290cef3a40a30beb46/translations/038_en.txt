@@ -1,0 +1,18 @@
+[Right page]
+　1　Calculation of snake basket (jakago) volume
+　　　　Contains 4 tsubo 2 go 7 sai
+[Below is a diagram of a snake basket. There appear to be numerical values written...]
+　In the calculation method, when 5 shaku is multiplied vertically and horizontally,
+　it becomes 25. When this is multiplied by the circular coefficient 79,
+　it becomes 1975. When this is
+　multiplied by the length of 9 ken, it becomes 17775.
+　When this is divided by 4225,
+　it should be known as 4 tsubo 2 go 7 sai.
+
+[Left page]
+　〇Contains 2 tsubo
+[Diagram on the right]
+[At top] Width 1 ken　[At front pillar] Height 2 ken
+　In the calculation method, when the width of 1 ken is multiplied vertically and horizontally, it becomes 1 tsubo.
+　When this is multiplied by the height of 2 ken, it should be
+　known as 2 tsubo.

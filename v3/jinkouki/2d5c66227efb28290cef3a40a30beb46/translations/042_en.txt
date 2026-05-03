@@ -1,0 +1,27 @@
+【Right Page】
+Multiply by 6.5 to get 3 jō 5 shaku 5 sun. Multiply this by
+1 jō 5 shaku to get 5325. When multiplying this by the length of
+400 ken, it becomes 213. When dividing this by 4225,
+the result is 5,041 tsubo 4 gō 2 shaku.
+Also, dividing 213 by 65 twice yields the same result.
+
+※When there is a moat with length of 400 ken 5 shaku, width of 5 ken 3 shaku,
+and depth of 2 ken 2 shaku, and asked how many tsubo this amounts to:
+　　Answer: 5,051 tsubo 1 gō 1 shaku
+
+Calculation method: For 400 ken 5 shaku, multiply the 400 portion by 65 to get
+260 jō 5 shaku. Apply the same method to the width as described above
+
+【Left Page】
+and multiply this by the length, and also convert the depth to 1 jō 5 shaku
+and multiply by the above, resulting in 138,716,625.
+Place this on the right separately, and on the left place the tsubo conversion factor 27,462.5,
+and when dividing the right number by this, the result is 5,051 tsubo
+1 gō 1 shaku.
+
+※When there are 5,000 tsubo, with a moat opening width of 5 ken and depth of
+2 ken and a half, and asking for the length of those 5,000 tsubo:
+　　○ Answer: The length becomes 400 ken
+
+Calculation method: Multiply 5 ken by 2 ken and a half to get 12.5.
+Divide the aforementioned 5,000 tsubo by this [calculation continues]

@@ -1,0 +1,25 @@
+[Right page]
+98 sen, 73 sen 7 rin, 1 yen 11 sen 1 rin, 1 yen 49 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 4 yen 32 sen 1 rin
+1 yen 29 sen, 87 sen 6 rin, 2 yen 13 sen 1 rin, 70 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 5 yen
+83 sen 2 rin 5 mō, 1 yen 37 sen 4 rin, 2 yen 11 rin 5 mō, 3 yen 33 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 7 yen 65 sen 4 rin
+2 yen 39 sen, 3 yen 5 sen, 1 yen 34 sen 9 rin, 4 yen 32 sen 2 rin,
+　　　　　　　　　　　　　　Answer: 11 yen 11 sen 1 rin
+1 yen 48 sen 3 rin, 2 yen 37 sen 4 rin, 9 yen 29 sen, 16 yen 85 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 30 yen
+5 yen 27 sen 9 rin, 9 yen 87 sen, 12 yen 34 sen, 26 yen
+
+[Left page]
+83 sen 2 rin,　　　　　　　　Answer: 54 yen 32 sen 1 rin
+7 yen 65 sen 3 rin, 11 yen 11 sen 1 rin, 43 yen 21 sen, 28 yen 2 sen 6 rin,
+　　　　　　　　　　　　　　Answer: 90 yen
+35 yen 10 sen 4 rin, 43 yen 72 sen, 62 yen 81 sen, 29 yen 3 rin,
+　　　　　　　　　　　　　　Answer: 170 yen 63 sen 7 rin
+97 yen 65 sen, 89 yen 23 sen 7 rin, 62 yen 80 sen, 55 yen 31 sen 3 rin,
+　　　　　　　　　　　　　　Answer: 305 yen
+198 yen 56 sen, 75 yen 12 sen, 327 yen 28 sen, 164 yen 27 sen 1 rin,
+　　　　　　　　　　　　　　Answer: 765 yen 23 sen 1 rin
+96 yen 54 sen 3 rin, 242 yen 38 sen, 305 yen 86 sen, 355 yen 21 sen 7 rin,
+　　　　　　　　　　　　　　Answer: 1,000 yen

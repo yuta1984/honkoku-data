@@ -1,16 +1,15 @@
-associate with　ウッマレ (ummare)
-wrap　シリユラリ (shiriyurari)
-シリユラリ (shiriyurari)
-work/task　モノ (mono)
-busy　モンライケ (monraike)
-incite/provoke　イチユレ (ichiyure)
-give me　ヱニコレ (enikore)
-take it　コラ (kora)
-taking back　イタイ (itai)
-strain/exert force　ニウヱン (niuen)
-open　ビラシパ (birashipa)
-fishing　fish　ペライ (perai)
-put out　シヤンケ (shanke)
-contain/include　アンバ (anba)
-argumentative　イヽカウン (iikaun)
-trade　ウラウケッパ (uraukettsupa)
+Mingling/Associating - Utsumĭare
+Wrapping - Shiriyurari
+Work - Mono
+Busy - Monraike
+Let's give - Ichikore
+Please give me - Enikore
+Hold/Take - Kora
+Taking back/Retrieving - Itai
+Straining/Exerting force - Niuen
+Opening - Birishipa
+Fishing/Fish - Perai
+Taking out/Producing - Shyanke
+Grasping/Pinching - Anba
+Argumentative/Logic-minded - Iikaun
+Trade/Commerce - Urauketsupa

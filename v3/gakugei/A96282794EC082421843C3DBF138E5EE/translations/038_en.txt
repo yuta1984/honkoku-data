@@ -1,0 +1,15 @@
+[Right page]
+retreat six digits, match this two with the divisor's trailing five: 25=10, enter into ㋠. Match ㋩'s two with the divisor's six: 26=12, enter into ㋣㋠. Match ㋩'s two with the divisor's seven: 27=14, enter into ㋬㋣. Match ㋩'s two with the divisor's eight: 28=16, enter into ㋭㋬. Match ㋩'s two with the divisor's nine: 29=18, enter into ㋥㋭. Match ㋩'s two with the divisor's leading nine: 29=18, saying "make two into one" and enter eight into the next digit, making ㋩1㋥9㋭9㋬7㋣5㋠3. Also, from the multiplicand's leading nine digit, retreat six digits (the number of digits in the divisor), match this nine with the divisor's trailing digit five: 59=45, enter into ㋬㋣. Also match ㋑'s nine with the divisor's six: 69=54, enter into ㋭㋬. Match ㋑'s nine with the divisor's seven: 79=63, enter into ㋥㋭. Match ㋑'s nine with the divisor's eight: 89=72, enter into ㋩㋥. Match ㋑'s nine
+
+[Left page]
+with the divisor's nine: 99=81, enter into ㋺㋩. Match ㋑'s nine with the divisor's leading nine: 99=81, saying "make nine into eight" and enter one into the next digit, obtaining the original 90,008,860 koku 3 to.
+
+Besides this, one should consider the above method examples and study the following review problems.
+
+Addition and Subtraction Review Problems
+6 sen, 9 sen, 17 sen, how much when these three items are combined?　Answer: 32 sen
+8 sen, 11 sen, 14 sen, same　　　　　　　　　　　　　　　　　Answer: 33 sen
+12 sen, 14 sen, 8 sen, same　　　　　　　　　　　　　　　　　Answer: 34 sen
+16 sen, 7 sen, 12 sen, same　　　　　　　　　　　　　　　　　Answer: 35 sen
+14 sen, 7 sen, 15 sen, same　　　　　　　　　　　　　　　　　Answer: 36 sen
+13 sen, 8 sen, 16 sen, same　　　　　　　　　　　　　　　　　Answer: 37 sen

@@ -30,7 +30,7 @@ filename	status	image
 029.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-029.tiff/full/full/0/default.jpg
 030.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-030.tiff/full/full/0/default.jpg
 031.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-031.tiff/full/full/0/default.jpg
-032.txt	initiated	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-032.tiff/full/full/0/default.jpg
+032.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-032.tiff/full/full/0/default.jpg
 033.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-033.tiff/full/full/0/default.jpg
 034.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-034.tiff/full/full/0/default.jpg
 035.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-035.tiff/full/full/0/default.jpg
@@ -42,13 +42,13 @@ filename	status	image
 041.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-041.tiff/full/full/0/default.jpg
 042.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-042.tiff/full/full/0/default.jpg
 043.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-043.tiff/full/full/0/default.jpg
-044.txt	initiated	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-044.tiff/full/full/0/default.jpg
-045.txt	initiated	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-045.tiff/full/full/0/default.jpg
+044.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-044.tiff/full/full/0/default.jpg
+045.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-045.tiff/full/full/0/default.jpg
 046.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-046.tiff/full/full/0/default.jpg
 047.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-047.tiff/full/full/0/default.jpg
-048.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-048.tiff/full/full/0/default.jpg
-049.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-049.tiff/full/full/0/default.jpg
-050.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-050.tiff/full/full/0/default.jpg
+048.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-048.tiff/full/full/0/default.jpg
+049.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-049.tiff/full/full/0/default.jpg
+050.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-050.tiff/full/full/0/default.jpg
 051.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-051.tiff/full/full/0/default.jpg
 052.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-052.tiff/full/full/0/default.jpg
 053.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-053.tiff/full/full/0/default.jpg
@@ -71,7 +71,7 @@ filename	status	image
 070.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-070.tiff/full/full/0/default.jpg
 071.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-071.tiff/full/full/0/default.jpg
 072.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-072.tiff/full/full/0/default.jpg
-073.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-073.tiff/full/full/0/default.jpg
+073.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-073.tiff/full/full/0/default.jpg
 074.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-074.tiff/full/full/0/default.jpg
 075.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-075.tiff/full/full/0/default.jpg
 076.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-076.tiff/full/full/0/default.jpg
@@ -83,7 +83,7 @@ filename	status	image
 082.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-082.tiff/full/full/0/default.jpg
 083.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-083.tiff/full/full/0/default.jpg
 084.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-084.tiff/full/full/0/default.jpg
-085.txt	initiated	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-085.tiff/full/full/0/default.jpg
+085.txt	completed	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-085.tiff/full/full/0/default.jpg
 086.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-086.tiff/full/full/0/default.jpg
 087.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-087.tiff/full/full/0/default.jpg
 088.txt	default	https://dglb01.ninjal.ac.jp/iiif/ezomosio/001/tiff/ezmg001-088.tiff/full/full/0/default.jpg

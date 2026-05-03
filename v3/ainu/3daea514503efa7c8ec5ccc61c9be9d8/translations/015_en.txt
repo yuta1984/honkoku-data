@@ -1,14 +1,14 @@
 Waterfall: Shiyo-
 Residence/Estate: Chisekotsu
-Flat land: Kiroshite
+Flat land/Plain: Kiroshite
 Forest: Tokiya
-Grove: Teigeru
-Thicket of trees: Nitai
+Woods: Teiguru
+Luxuriant growth of trees: Nitai
 Prosperity of a place: Kotanshibi
 Smoke: Shibuya
 Heat: Shiripopuke
 Cold: Ratsuka
-Stream/Valley: Nai
+Mountain stream: Nai
 Shade: Isenbiru
 Shadow: Oshimake
 Open land: Shirioha
