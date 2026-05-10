@@ -1,15 +1,18 @@
 [Right page]
-retreat six digits, match this two with the divisor's trailing five: 25=10, enter into ㋠. Match ㋩'s two with the divisor's six: 26=12, enter into ㋣㋠. Match ㋩'s two with the divisor's seven: 27=14, enter into ㋬㋣. Match ㋩'s two with the divisor's eight: 28=16, enter into ㋭㋬. Match ㋩'s two with the divisor's nine: 29=18, enter into ㋥㋭. Match ㋩'s two with the divisor's leading nine: 29=18, saying "make two into one" and enter eight into the next digit, making ㋩1㋥9㋭9㋬7㋣5㋠3. Also, from the multiplicand's leading nine digit, retreat six digits (the number of digits in the divisor), match this nine with the divisor's trailing digit five: 59=45, enter into ㋬㋣. Also match ㋑'s nine with the divisor's six: 69=54, enter into ㋭㋬. Match ㋑'s nine with the divisor's seven: 79=63, enter into ㋥㋭. Match ㋑'s nine with the divisor's eight: 89=72, enter into ㋩㋥. Match ㋑'s nine
+
+Retreat six places equal to the number of digits in the multiplier. Match this 2 with the last digit 5 of the multiplier: 2×5=10, enter into ㋠. Match ㋩'s 2 with the multiplier's 6: 2×6=12, enter into ㋣㋠. Match ㋩'s 2 with the multiplier's 7: 2×7=14, enter into ㋬㋣. Match ㋩'s 2 with the multiplier's 8: 2×8=16, enter into ㋭㋬. Match ㋩'s 2 with the multiplier's 9: 2×9=18, enter into ㋥㋭. Match ㋩'s 2 with the leading 9 of the multiplier: calling "2×9=18," change 2 to 1 and enter 8 into the next column — giving ㋩1, ㋥9, ㋭9, ㋬7, ㋣5, ㋠3. Next, retreat six places (the number of digits in the multiplier) from the leading 9 of the multiplicand. Match this 9 with the last digit 5 of the multiplier: 5×9=45, enter into ㋬㋣. Match ㋑'s 9 with the multiplier's 6: 6×9=54, enter into ㋭㋬. Match ㋑'s 9 with the multiplier's 7: 7×9=63, enter into ㋥㋭. Match ㋑'s 9 with the multiplier's 8: 8×9=72, enter into ㋩㋥. Match ㋑'s 9 with
 
 [Left page]
-with the divisor's nine: 99=81, enter into ㋺㋩. Match ㋑'s nine with the divisor's leading nine: 99=81, saying "make nine into eight" and enter one into the next digit, obtaining the original 90,008,860 koku 3 to.
 
-Besides this, one should consider the above method examples and study the following review problems.
+the multiplier's 9: 9×9=81, enter into ㋺㋩. Match ㋑'s 9 with the leading 9 of the multiplier: calling "9×9=81," change 9 to 8 and enter 1 into the next column — and the original answer of 9,008,860 *koku* 3 *to* is obtained.
 
-Addition and Subtraction Review Problems
-6 sen, 9 sen, 17 sen, how much when these three items are combined?　Answer: 32 sen
-8 sen, 11 sen, 14 sen, same　　　　　　　　　　　　　　　　　Answer: 33 sen
-12 sen, 14 sen, 8 sen, same　　　　　　　　　　　　　　　　　Answer: 34 sen
-16 sen, 7 sen, 12 sen, same　　　　　　　　　　　　　　　　　Answer: 35 sen
-14 sen, 7 sen, 15 sen, same　　　　　　　　　　　　　　　　　Answer: 36 sen
-13 sen, 8 sen, 16 sen, same　　　　　　　　　　　　　　　　　Answer: 37 sen
+　Beyond this, one should carefully study the methods and examples given on the right, and work through the following review problems.
+
+　　　Addition and Subtraction Review Problems
+
+6 *sen*, 9 *sen*, 17 *sen* — what is the sum of these three items?　　　Answer: 32 *sen*
+8 *sen*, 11 *sen*, 14 *sen* — same.　　　　　　　　　　　　　　　　Answer: 33 *sen*
+12 *sen*, 14 *sen*, 8 *sen* — same.　　　　　　　　　　　　　　　　Answer: 34 *sen*
+16 *sen*, 7 *sen*, 12 *sen* — same.　　　　　　　　　　　　　　　　Answer: 35 *sen*
+14 *sen*, 7 *sen*, 15 *sen* — same.　　　　　　　　　　　　　　　　Answer: 36 *sen*
+13 *sen*, 8 *sen*, 16 *sen* — same.　　　　　　　　　　　　　　　　Answer: 37 *sen*

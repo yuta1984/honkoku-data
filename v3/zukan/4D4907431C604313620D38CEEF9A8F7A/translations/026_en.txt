@@ -1,56 +1,59 @@
-According to Zōho Tashikihen Grass Category:
-　Butterbur Flower (fuki-no-hana)
-　　Japanese name: yamabuki (mountain butterbur), also called ōba (large leaf). Upon current examination, fuki, and also examining
-　　the name: because there is the name yellow mizufuki (water butterbur), those found on land in winter are called
-　　yamabuki (mountain butterbur). Also, one variety whose flowers boil like grape wine is also called
-　　mafuki (true butterbur). These have the same Japanese name but are different things. Because ancient people
-　　often composed poems about these flowers in the Man'yōshū, they merely wrote those characters,
-　　not to make grape wine-like things into winter flowers. Characters frequently borrowed in Man'yōshū are
-　　not few. Later people could not distinguish these, and the "winter" recorded in Kintō's Rōeishū is already
-　　an error. How much more so are the other poems!
-　　　　Alternative names are recorded in the relevant sections, so not noted here.
+【FUKI (Butterbur, Petasites japonicus)】
 
-　　　According to Honzō Wakai　　Alternative names　　Frozen Granule, Frozen Clan, Winter Drill, Frozen
-　　　　Butterbur Flower　　　　　　　　　　Keikokuguko, Tiger Whiskers
-　　　　　　　　　　　Japanese name: Fukinotō (butterbur sprout)
+From the Zōho Tashikihen (Supplemented Encyclopedia of Natural History), section on Marsh Grasses:
+　Coltsfoot Flower (kantōka)
+　Japanese names:
+　　Yamabuki; also called "Ōha (large-leaved)." Upon investigation, also called "fuki." Further investigation reveals that since the water-growing variety bears the name "mizufuki (water butterbur)," the land-growing coltsfoot is called "yamabuki (mountain butterbur)." There is also a separate species whose flower resembles the Cherokee rose (Naniwa-ibara), which is also called "yamabuki," but although the Japanese names are the same, they are entirely different plants. The ancients frequently composed poems about its flowers in the Man'yōshū, borrowing the characters (山吹, yamabuki) merely for that purpose — it was not meant to equate the Cherokee rose-like plant with coltsfoot. The Man'yōshū contains no small number of such borrowed characters, and later generations failed to distinguish between them. That Kintō (Fujiwara no Kintō) included coltsfoot in his Rōei collection is already an error, let alone the case with other poems.
+　　　　Alternative names are listed in the relevant entry and are not recorded here.
 
-According to Zōho Tashikihen Fragrant Wood Category:
-　Cedar　Japanese name: sugi　Alternative names: san, sound san, sand tree from Kōmoku
-　Katsura tree, sound kei　Red restraint tree, restraint sound choku
+From Honzō Wagai (Herbal Commentary in Japanese):
+　Coltsfoot Flower (Kantōka)
+　　Alternative names: Kantō, Kadō, Shitō, Santō, Tokei-dakugo (莵奚槖吾), Koshu (虎鬚, Tiger's Whiskers)
+　　Japanese name: Fukinotō (butterbur sprout)
 
-According to Yamato Honzō:
-　Cedar Flower　Because the wood is straight, it is called sugi
-　Sugi means suku (to be transparent/straight)
+【Seal】Medicinal herb
+【Seal】Vegetable category
 
-According to Wamyō Ruijushō:
-　Cedar (sugi)　According to Erya Phonetic Glosses, cedar pronounced "san," one pronunciation is "sen," Japanese name: suki
-　　　　　　　　　　Found in Nihon-ki Shiki. Upon current examination,
-　　　　　　　　　　the common use of the character 椙 is incorrect. The sound of 椙
-　　　　　　　　　　in fanqie is "kei." Found in Tang Yun.
-　　Resembles pine, grows in Jiangnan. Can be used
-　　for ship timber.
-　　7th day of early Koshō month, Kinoe year
-　　One branch picked by hand from the garden grove
-　　True copy amid leaf rain
+From Wamyō Ruijūshō (Japanese Names Encyclopedia):
+　Fuki (蕗)
+　　From Cui Yushi's Shokukyō (Food Classic):
+　　Fuki is read with the sound "ro (路)"; Japanese name is "fufuki."
 
-According to Nanpō Sōsha Tree Category:
-　　Cedar　One name: hi (covering)
+Transcribed faithfully on the 7th day of Kyōshō (2nd lunar month), Mizunoto-Hitsuji year of Bunsei 6 (1823).
 
-Cedar is an upright growing tree. Because it is a symbol
-of honesty, it is especially made a sacred tree of our court. There are
-other sacred trees, but most are cedar.
 
-　　　　　　Evening cool in the shade of deep cedar mountain　　　Go-Kyōgoku
-　　　　　　　Elsewhere passes the evening shower sky
+---
 
-　　　　　　　　　　　　According to Wamyō Ruijushō:
-　　　　　　　　　　　　　　Butterbur (fuki)
-　　　　　　　　　　　　　　According to Cui Yuxi's Dietary Classic:
-　　　　　　　　　　　　　　Butterbur is pronounced "ro," Japanese name: fufuki
+【SUGI (Japanese Cedar, Cryptomeria japonica)】
 
-　　　　　　　　　　　　　　　　6th year of Bunsei, Mizunoto-Hitsuji, 7th day of early Kyōshō month
-　　　　　　　　　　　　　　　　True copy
+From Zōho Tashikihen, section on Fragrant Woods:
+　Sugi (杉, cedar)　Japanese name: sugi
+　Alternative names: San (煔, same sound as 杉)　Sha-boku (沙木)　Kei-boku (檠木, pronounced "kei")　Tan-choku-boku (丹桎木, "桎" pronounced "choku/jiki")
 
-　　　There are two types of cedar planted at homes. Tang cedar has soft leaves. Edo cedar has
-　　　small, hard leaves, light color, and turns red in mid-winter. It becomes green-leafed in March.
-　　　Often used as hedges at homes.
+From Yamato Honzō (Japanese Herbal):
+　Cedar Flower (Sugi no hana)
+　　Cedar is called "sugi" because the tree grows straight (sugu/suku).
+　　"Sugi" derives from "suku," meaning "to be straight/upright."
+
+From Wamyō Ruijūshō:
+　Sugi (cedar)　According to Erya Yinyi (Pronunciation and Meaning of the Erya), "sugi" (杉) is pronounced "san" (衫), with an alternate reading of "sen" (繊). Japanese name: "suki."
+　　Found in private commentaries on the Nihon Shoki. Upon investigation, the vulgar practice of using the character 榲 is incorrect (榲 being read as a fanqie of "matsu/shō," yielding "kei"). This is found in the Tōin (Tang rhyme dictionary).
+　　It resembles pine and grows in Jiangnan; suitable for use as shipbuilding timber.
+
+　　Bunsei 7 (甲申), 7th day of Kosen (3rd lunar month).
+　　One branch plucked from the garden grove — faithfully copied while gazing through the rain.
+
+From Nampō Sōmokujō (Flora of the Southern Regions), section on Trees:
+　Cedar — also called "Hisan (披煔)."
+
+The cedar is a tree that grows straight and upright. As a symbol of uprightness and integrity, it has long been revered as a sacred tree (shinboku) in Japan. While there are other trees also designated as sacred, the cedar is by far the most common.
+
+　　Sugi fukaki　katayama kage no　yūsuzumi
+　　　yoso ni zo meguru　yūdachi no sora
+　　（Deep amid cedars, evening cool in the mountain's shadow—
+　　　The summer storm passes elsewhere through the sky）
+　　　　— Gokyo-goku (Fujiwara no Yoshitsune, Regent of the Latter Kyōgoku)
+
+【Seal】Garden tree
+
+There are two varieties of cedar grown in residential gardens. The "Kara-sugi (Chinese/foreign cedar)" has soft needles. The "Edo-sugi (Edo cedar)" has small, hard needles, a lighter color, and turns red in mid-winter (around the 11th lunar month). By the third month it returns to green leaves, and many households use it as hedging.

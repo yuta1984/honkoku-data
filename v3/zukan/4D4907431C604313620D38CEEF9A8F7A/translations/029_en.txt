@@ -1,45 +1,51 @@
-Snake Bed (jashō) flower (According to Honzō Wakai):
-　　Alternative names: Snake chestnut (jasoku), snake rice (jabei), viper bed (kishō), horse bed (bashō), mibū (shōbi), shieki rope poison (shiekijōdoku), thorn (sōkyō)
-　　Japanese names: yabushirami, yabuseri
+## Jashō (Snake Bed Plant / Cnidium monnieri) Flower [According to Honzō Wage (Japanese Interpretation of Materia Medica)]
 
-　　　　　　　　　　　　　　　　　　　　3rd day of late Kyōshō month, Mizunoto-Hitsuji year, true illustration copy
+　　Alternative names: Jazoku (Snake Millet)　Jabei (Snake Rice)　Kishō (Viper's Bed)　Bashō (Horse Bed)　Shōhi (Wall Bedstraw)　Shiekijōdoku (Rope Poison Benefactor)　Sōkyoku (Jujube Thorn)
+　　Japanese names: Yabu-shirami (Torilis japonica / hedge parsley)　Yabu-seri (Wild parsley)
 
-According to Zōho Tashikihen, Fragrant Grass Category:
-　　Snake bed, Japanese name: hirumushiro is recorded. Since the remainder is recorded in other sections with the same words, it is abbreviated here.
-　　According to Honzō Kōmoku, snakes and vipers prefer to lie down and eat their young under this grass, hence the name (and so forth).
+[Seal] Medicinal Herb
+Faithfully copied (with original illustration) on the 3rd day below mid-month of Koshō, Mizunoto-Hitsuji year
 
-According to Zōho Tashikihen, Fragrant Wood Category:
-　　Cypress (haku), Japanese name: kae, now commonly called sohatate. Alternative name: side cypress (sokuhaku)
-　　　Supplementary alternative name: kiku (I say:)
-　　　　　Haku is not kashiwa
-　　　　　The wood is called asunaro
-　Also called kodegashiwa. Kashiwa is hō. Haku is called tōkō.
-　It is a type of pine and also close to cedar. Recording them all mixed together is an error.
 
-　　　　　　　　　　　　　　　　　　　　　　25th day of Ki Kyōshō month
-　　　　　　　　　　　　　　　　　　　　　　Usōan, copied
+From Zōho Tashikihen (Supplemented Tashikihen), Fragrant Grasses Category:
+　　Snake Bed Plant　[Japanese name] Lists Hirumushiro (pondweed); I record it in the relevant entry. As the terms overlap, I omit it here.
+　　According to Honzō Kōmoku (Bencao Gangmu / Compendium of Materia Medica): Snakes and vipers love to lie beneath this plant and eat its seeds, hence the name. [Et cetera]
 
-　　　　　　　　　　　　　　　　　　　　　According to Wamyō Ruijushō:
-　　　　　　　　　　　　　　　　　　　　　Cypress (kae), according to Ken Meien:
-　　　　　　　　　　　　　　　　　　　　　One name kiku, two sounds of hyaku and kiku, Japanese name kahe
-　　　　　　　　　　　　　　　　　　　　　Kunugi (kashiwa), according to Honzō: sound to, kai no
-　　　　　　　　　　　　　　　　　　　　　Kai, Japanese name kashiwa
-　　　　　　　　　　　　　　　　　　　　　According to Tang Yun: haku, sound haku, Japanese name same as above
-　　　　　　　　　　　　　　　　　　　　　Name of a tree
 
-　　　　　　　　　　　　　　　According to Wakan Sansai Zue, Mountain Fruit Category:
-　　　　　　　　　　　　　　　　　Hō (kanba), phonetic character, large-leaf oak, boku
-　　　　　　　　　　　　　　　　　　Kunugi, so
-　　　　　　　　　　　　　　　　　　In Wamyōshō this is read as kashiwa
-　　　　　　　　　　　　　　　　　　Sometimes the character haku is also used, but both are incorrect
-　　　　　　　　　　　　　　　　My consideration:
-　　　　　　　　　　　　　　　　The explanations in various books are mixed and suspicious. What is now called
-　　　　　　　　　　　　　　　　kashiwa is this. The side cypress in Yamato Honzō
-　　　　　　　　　　　　　　　　　is also incorrect. The collected explanations in Sansai Zue
-　　　　　　　　　　　　　　　　　match well.
+From Zōho Tashikihen, Fragrant Woods Category:
+　　Haku (柏, cypress)　[Japanese name] Kae; commonly called Sohatate today　[Alternative name] Sokuhaku (Side Cypress / Platycladus orientalis)
+　　　[Additional alternative name] Kiku (椈)
+　　　[My commentary]
+　　　　　Haku is not Kashiwa (oak); its
+　　　　　timber is called Asunaro (Thujopsis dolabrata)
+　　Also, what is called "Chigaeshi-gashiwa" (児手柏): Kashiwa is Hobu (枹); Haku is called Toe (刀ヱ).
+　　It is related to pine and close to cedar. To conflate and record all of these together is an error.
 
-○According to Honkō, there are two types of kunugi. One type grows in clusters, and the large ones are named daki (kashiwa), also called large-leaf oak, with one name boku, kunugi.
-○Kunugi, saku, ichii, hō, nara (nara) - various explanations are mixed in annotations. Now establishing separate sections to record each.
-　　Kunugi (donguri, large nara), hō (kashiwa), nara (nara) all have similar leaves with distinctions of size. Kunugi is halfway between hō and nara.
-　　Saku (hahaso) belongs to the same category as these three types but is a different thing, though the leaves are similar but not identical. Saku and ichii are
-　　two names for one tree. Kunugi, saku-ichii, hō, kunugi, botanical (nara) wood, buna - one category. Their leaves wither and fall in winter. ○What Cao calls the new intersection of saku leaves should be considered.
+Same season, 25th day of Koshō month
+Copied at Usōan [Rain Hermitage] ■
+
+
+According to Wamyō Ruijushō:
+　Haku (Kae)　According to Kenmeien: Haku (cypress)
+　One name is Kiku [with two readings: Hyaku and Kiku; Japanese name Kae]
+　Kashiwa (槲)　According to Honzō: Kashiwa [read as "To"; explained thus]
+　Hoku (斛)　Japanese name: Kashiwa
+　According to Tōin (Tang Rhymes): Haku [read as "Haku"; Japanese name same as above]
+　This is the name of a tree.
+
+[Seal] Medicinal Wood
+
+According to Wakan Sansai Zukai (Illustrated Encyclopedia of Japan and China), Mountain Fruit Category:
+　Hobu / Kashiwa (枹) [phonetic character]　Large-leaved Oak (大葉檪)　Poku (樸)
+　　　　　　　　　　　Kashiwa (槲)　Soku (樕)
+　　In the Wamyō-shō, 蔛 is read as Kashiwa;
+　　Some also use the character 柏, but both are incorrect.
+
+[My investigation]
+　The explanations in various texts are mixed and confused, and I cannot determine the truth with certainty. What is today called Kashiwa is this tree. The Yamato Honzō's identification with Sokuhaku (side cypress) is also wrong. The collected explanations of the Sansai Zukai fit well.
+
+
+◦ According to Honkō (Bencao Gangmu), Kunugi (oak, Quercus acutissima) has two varieties. One variety, which grows in clusters and is large, is named Hobu (Kashiwa) and called Large-leaved Oak (大葉檪). One name: Poku (樸) / Kashiwa (檞)
+◦ Kashiwa (檞)　Hahaso (柞)　Oak (檪)　Hobu (枹)　Nara (楢) — Various explanations are mixed together in the commentaries. I now set up individual entries to record each.
+　　Kashiwa (檞) is [large-acorned oak / large Nara], Hobu (枹) is [Kashiwa], Nara (楢) is [Nara oak] — all have similar leaves but differ in size. Kashiwa (檞) is intermediate between Hobu (枹) and Nara (楢).
+　　Hahaso (柞) belongs to the same family as these three but is a separate species; its leaves are similar yet different. Hahaso (柞) and Oak (檪) are two names for one tree. Marukuri, Hahaso, Oak, Hobu, Kashiwa, Nara tree, and Funa (橅, Fagus) are all one group, and their leaves fall in winter. ◦ Master Cao says "the old and new leaves of Hahaso alternate," which deserves further investigation.

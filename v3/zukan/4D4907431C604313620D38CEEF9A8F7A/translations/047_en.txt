@@ -1,49 +1,62 @@
-According to Zōho Tashiki-hen, Poisonous Plants section:
-　　　Mōsō (wild grass)　Japanese name: Shikimi, also known as Nezumi-koroshi (mouse killer)
-　　　Mō　　　　Found in Suruga Province, one name is Nabewari (pot-splitter)
-　　　　　　　　　　　　　　　　　Alternative name: Rimō (mouse mōsō), supplementary alternative name: sō (sound), bōsō (from Shanhai-jing)
+【Shikimi】 *(Japanese star anise, Illicium anisatum)*
+
+According to the Zōho Tashiki-hen (Expanded Polyglot Encyclopedia), Poisonous Plants section:
+　　Mōsō (莽草)　Japanese name: Shikimi (志幾美); also noted that in Suruga Province it is called Netsumikoro-shi (ネツミコロシ, "rat-killer"); another name is Nabewari (那倍和利).　Alternative name: Somō (鼠莽, "rat-herb")　Additional alternative names: Mō-sō (䒽草, pronunciation: Oka), Bōsō (芒草, from Shanhaijing)
+
+The Sansai Zue records two varieties—Mōsō and Mokumitsu—and states that Mōsō produces no flowers or fruit, etc. This should be examined carefully.
+The origin of the name "Nabewari" is unknown.
+Kōhon (鉤吻, Nabewari) is a different plant; refer to later volumes for clarification.
+
+【Seal】 Miscellaneous trees
 
 Yamato Honzō
-　　　Mōsō flower　　The character for shikimi, commonly read as "shikimi" in Japan
-　　　Shikimi-no-hana　　Also pronounced "shikimi" in Jun-wamyō
-　　　　Imyō Bunrui-shō: Mōsō (Hanano-ki)　　　
-　　　　Wamyō-ruijū: Shikimi
-　　　　Shinsen Jikyō: Mohoko
-　　　　Wakan Sansai Zue:
-　　　　　　　Mokumitsu (Shikimi)　Honey fragrance. Absent fragrance. Multi-fragrant wood. A
-　　　　　　　Tang pronunciation: Momitsu　　According to phonetic Tang rhymes, it is a fragrant wood
-　　　　　　　　　Japanese name: Shikimi
-　　　　　　　　　Also, ki wood is also named mokumitsu but
-　　　　　　　　　is different from this
+　　Mōsō flower (Shikimi no hana)
+From the same work's Yakumyō Bengi (Clarification of Drug Names):
+　　Rat herb (鼠莽)
 
-　　　　　　　　　　　　　　　　　　　Commonly used for Buddhist flower offerings
-　　　　　　　　　　　　　　　　　　　Or burned as powdered incense before Buddha
-　　　　　　　　　　　　　　　　　　　Both bark and leaves are used
+　　The character "樒" has been handed down through generations in Japanese custom as "Shikimi."
+　　Even in the Jun Wamyō it is read as Shikimi.
+　　In the Imyō Bunruishō it appears as Mōsō (ハナノキ, "flower tree").
+　　In the Wamyō Ruijushō it appears as Shikimi.
+　　In the Shinsen Jikyō it appears as Mohone.
+　　In the Wakan Sansai Zue:
+　　　　Mokumitsu (Shikimi; Chinese reading: Momitsu)　Also known as: Mikkō, Mokkō, Takakōboku, Asha
+　　　　　　　Shikimi (pronunciation: Tang-dynasty rhyme dictionary says "a fragrant tree"; Japanese name Shikimi)
+　　　　　Also, the Kenpho-nashi tree (枳椇, *Hovenia dulcis*) is also called Mokumitsu,
+　　　　　but it is not the same plant.
 
-　　　　　　　　　　　　　　　　　　　Kinoe-Saru year, Kyōshō month, tenth day of the Hitsuji day
+　　　　　　　　　　　　　　　　　　　By national custom, this is offered as a Buddhist flower.
+　　　　　　　　　　　　　　　　　　　Or it is burned as powdered incense before Buddhist altars.
+　　　　　　　　　　　　　　　　　　　Both the bark and leaves are used.
+
+　　　　　　　　　　　　　　　　　　　Kinoe-Saru year, Kyōshō month (2nd lunar month), 10 days from the "mi" hour
 　　　　　　　　　　　　　　　　　　　Painted from life
 
-　　　　　　　According to Wamyō-ruijū-shō:
-　　　　　　　　　　Shikimi　According to Tang rhymes, stated in Kango-shō as "shikimi, fragrant wood"
-　　　　　　　Same book states:
-　　　　　　　　　　Mōsō (Shichimi)　According to Shanhai-jing commentary: mōsō
-　　　　　　　　　　　　　Japanese name, according to Honzō: shikimi
-　　　　　　　　　　　　　Can be used to poison fish
+According to the Wamyō Ruijushō:
+　　Shikimi (樒)　The Tang rhyme dictionary says, and the Kango-shō states: Shikimi (之岐美) is a fragrant tree.
+From the same work:
+　　Mōsō (莽草, Shikimi)　The commentary to the Shanhaijing says "mōsō,"
+　　　　The Wamyō Honzō calls it Shikimi (之木美),
+　　　　It is a plant that can be used to poison fish.
 
-　　　　　　　　　Shikimi is abundant in Musashi, Izu, Awaji, Tanba, and Banshū
-　　　　　　　　　Branches are broken and offered to Buddha, branches and leaves are called flowers. Harvested bark and leaves are dried
-　　　　　　　　　and named as burning incense, called powdered incense
+　Shikimi grows abundantly in Musashi, Izu, Awaji, Tanba, and Harima provinces.
+　Branches are broken off and offered to the Buddha; the branches and leaves, when picked, are called "flowers." The bark and leaves are harvested and dried,
+　then burned as incense, called mattakō (powdered incense).
+　　　A poem from Oki Province:
+　　　　　さながらや仏の花に折せまじ
+　　　　　　　　　　　　　　　　—Retired Emperor Go-Toba
+　　　　　　　　　　　(How can I bear to break these branches even as Buddhist offerings—
+　　　　　　　　　　　　　　　white snow piling on the shikimi boughs)
 
-　　　　　　　　　　　　In Oki Province:
-　　　　　　　　　　　　　Just as it is, do not break for Buddha's flowers
-　　　　　　　　　　　　　　　　White snow accumulating on shikimi branches　Emperor Go-Toba
+【Something in the Euphorbiaceae family, such as Takadoudai or Nourushi】
+Imyō Bunruishō:
+　　Taigeki (大戟, Euphorbium) (ノウシル)　(Taigeki)
+　　　Another variety also exists
 
-Imyō Bunrui-shō
-　　Taigeki (Nōshiru) Taigeki
-　　　Also one variety
+　　　　　　According to the Wamyō-shō: Hamahito-kusa, Nehisu
+　　　　　　　　　Also: Hara-kusa　It is said to be a product of Joshū (除州), but this seems doubtful (unstable identification).
 
-　　　　　　According to Wamyō-shō: Hamahitokusa, Kohisu
-　　　　　　　Also states: Harakusa　　　Said to be a product of Joshū, but this is uncertain
+【Seal】 Medicinal herbs
 
-　　　　　　　　　　　　　　　　　　　　　　Same year, mid-Koshō month, third day
-　　　　　　　　　　　　　　　　　　　　　　Painted from life at Seyaku-en
+Third day of the mid-period of the Kyōshō month of the same year
+Painted from life in my medicinal herb garden

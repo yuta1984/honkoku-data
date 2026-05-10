@@ -1,22 +1,24 @@
 [Right page]
-[Two abacus diagrams above, middle, and below]
-㋠　　　　　　　　　　25=10 subtract　　　25=10
-㋣　　　　　　　　　　26=12 subtract　　　26=12　　
-㋬　　59=45 subtract　27=14 subtract　　　27=14　59=45
-㋭　　69=54 subtract　28=16 subtract　　　28=16　69=54
-㋥　　79=63 subtract　29=18 subtract　　　29=18　79=63
-㋩　　89=72 subtract　《9 advance to 10｜91 add 1 below》　　　　29=18　89=72
-㋺　　99=81 subtract　　　　　　　　　　　　　　　99=81
-㋑　　make 99　　　　　　　　　　　　　　　　　　99=81
+[Abacus diagrams: Two soroban diagrams arranged with text above, between, and below]
 
-[Below the diagram]
-Look at nine
-Division calls use all the nine-times table calls, and when division is not possible, use "make nine to nine"
+(Left diagram columns, showing division steps)
+㋠　　　　　　　　　　2×5=10 subtract　　2×5=10
+㋣　　　　　　　　　　2×6=12 subtract　　2×6=12
+㋬　　5×9=45 subtract　2×7=14 subtract　　2×7=14　5×9=45
+㋭　　6×9=54 subtract　2×8=16 subtract　　2×8=16　6×9=54
+㋥　　7×9=63 subtract　2×9=18 subtract　　2×9=18　7×9=63
+㋩　　8×9=72 subtract　[Nine-advance one-ten / Nine-one add-one below]　　2×9=18　8×9=72
+㋺　　9×9=81 subtract　　　　　　　　　　　　　　　9×9=81
+㋑　　"Change-nine to nine"　　　　　　　　　　　　　9×9=81
 
-[Left of the diagram]
-Match ㋑'s nine with the divisor's eight: 89=72, subtract from ㋩㋥. Match ㋑'s nine with the divisor's seven: 79=63, subtract from ㋥㋭. Match ㋑'s nine with
+(Below the diagram)
+"See nine" [見九]
+For the division calls, always use the nine-times table. When division cannot proceed, use the "change-nine-to-nine" method.
+
+(Left of the diagram)
+Match ㋑'s 9 with the divisor's 8: 8×9=72, subtract from ㋩㋥. Match ㋑'s 9 with the divisor's 7: 7×9=63, subtract from ㋥㋭. Match ㋑'s 9 with
 
 [Left page]
-the divisor's six: 69=54, subtract from ㋭㋬. Match ㋑'s nine with the divisor's five: 59=45, subtract from ㋬㋣, making ㋩1㋥9㋭9㋬7㋣5㋠3. Also, using the divisor's leading nine, divide ㋩'s one as "91 add one below," and since it amounts to ten in ㋥, take nine from this and divide as "nine advance to ten," making ㋭2㋥1. Match this two with the second digit from the divisor's leading position: 29=18, subtract from ㋥㋭. Match ㋩'s two with the divisor's eight: 28=16, subtract from ㋭㋬. Match ㋩'s two with the divisor's seven: 27=14, subtract from ㋬㋣. Match ㋩'s two with the divisor's six: 26=12, subtract from ㋣㋠. Match ㋩'s two with the divisor's five: 25=10, subtract from ㋠, and the division is complete, yielding 9 koku 2 sho.
+the divisor's 6: 6×9=54, subtract from ㋭㋬. Match ㋑'s 9 with the divisor's 5: 5×9=45, subtract from ㋬㋣, giving ㋩1, ㋥9, ㋭9, ㋬7, ㋣5, ㋠3. Next, using the leading 9 of the divisor, divide ㋩'s 1 by the "nine-one add-below-one" method. Since ㋥ runs up to ten, take 9 from this and apply the "nine-advance one-ten" method, giving ㋭2, ㋥1. Match this 2 with the second digit 9 from the top of the divisor: 2×9=18, subtract from ㋥㋭. Match ㋩'s 2 with the divisor's 8: 2×8=16, subtract from ㋭㋬. Match ㋩'s 2 with the divisor's 7: 2×7=14, subtract from ㋬㋣. Match ㋩'s 2 with the divisor's 6: 2×6=12, subtract from ㋣㋠. Match ㋩'s 2 with the divisor's 5: 2×5=10, subtract from ㋠ — and the division is completed, confirming the answer of 9 koku, 0 shō, 2 gō.
 
-Regarding multiplication technique: Arrange as in the previous lower diagram, from the digit of two at the end of the multiplicand, the multiplier
+Regarding multiplication technique: Arrange as shown in the lower diagram of the previous page. Starting from the column of the last digit 2 of the multiplicand, [continue with the multiplier's digits...]

@@ -1,21 +1,22 @@
-[Right page]
-Enter into the ㋭ column, advance two places to position ㋺, match ㋑'s eight with the divisor's nine: 8×9=72, enter into ㋺㋩. Since there is a 4 in ㋺, take 3 from the 4, add 3 to 7 to make 10. This 10 should be entered into position eight of column ㋑, but first temporarily hold this 10 in the middle. [Note: The reason for not entering this 10 immediately but holding it temporarily is that this 10 is a number affected by the divisor, while ㋑'s eight is not yet affected by the divisor. Think carefully about this. All other cases should be understood in the same way.]
+【Right Page】
+Enter [the 8] into the ㋭ position, then advance 2 places to the ㋺ position, match the 8 at ㋑ with the multiplier's 9, and attempt to place "8×9=72" at ㋺㋩. Since there is a 4 at ㋺, take 3 from the 4 and say "seven plus three makes ten," which would mean entering the ten into the position of the 8 at ㋑; however, first hold this ten in suspension (temporarily set aside). 《Split notation: The reason this ten is not entered but held in suspension is that this ten is a number already affected by the multiplier, while the 8 at ㋑ has not yet been acted upon by the multiplier. Consider this carefully. All remaining cases should be understood by analogy from this.》 When 2 is entered into the ㋩ position it fills up to ten, so clear it all and enter 1 into the ㋺ position, giving ㋺2㋩empty. Then move to the left position, match this 8 with the multiplier's highest digit 6, say "6×8=48", change 8 to 4, and attempt to place 8 into the next position; since 2 is already there, take that 2 and say "eight plus two makes ten," enter 1 into the ㋑ position making it 5. Then also enter the 1 previously held in suspension, giving ㋑6㋺empty㋩empty. With this the multiplication is complete, and one learns that the original [quantity] is 600,
 
-When entering 2 into column ㋩, it makes 10, so clear everything and enter 1 into position ㋺, making ㋺2㋩ empty. Move to the left column, match this 8 with the divisor's head 6: 6×8=48, change 8 to 4, enter 8 into the next column. Since there is already a 2, take that 2, add 2 to 8 to make 10, enter 1 into column ㋑ to make 5. Also enter the 1 temporarily held in the middle, making ㋑6㋺empty㋩empty. This completes the multiplication, and we obtain the original 60
+【Left Page】
+387 tan (bolts of cloth).
 
-[Left page]
-million 387 tan.
+When 311,298 *da* (packhorse loads) of sake are loaded onto ships at 7,982 *da* per vessel, how many ships are needed?　　　**Answer: 39 ships**
 
-When loading 312,298 barrels of sake onto ships at 7,982 barrels per ship, how many ships are needed? Answer: 39 ships
+【Abacus Diagram (upper, middle, lower sections flanking 2 diagrams)】
+㋬
+㋭　　　　　　　　　　Subtract 2×9=18　　　　2×9=18
+㋥　　　Subtract 2×3=6　　Subtract 8×9=72　　　8×9=72　　2×3=6
+㋩　　　Subtract 3×8=24　Subtract 9×9=81　　　9×9=81　　3×8=24
+㋺　　　Subtract 3×9=27　Saku-kyū 7　　　　　7×9=63　　3×9=27
+㋑　　　《Ki-ichi bai-shichi / 7×3=21》　　　　　　　　　3×7=21
 
-[Abacus diagram explanations]
-2×9=18 subtract
-8×9=72 subtract  2×3=6 subtract  
-9×9=81 subtract  3×8=24 subtract
-7×9=63           3×9=27 subtract
-                 Change 9 to 7
-                 Return-one multiply-seven  7×3=21
+【Below the diagram】
+"Ken-shichi" (Looking at 7)
+All division calls use the seven times table; when division is not possible, say "saku-kyū no shichi" (make nine from seven); when subtraction is not possible, say "ki-ichi bai-shichi" (return one, accompany seven).
 
-Division chants: Use entirely the chants of the seven series. When division is not possible, say "change nine to seven." When subtraction is not possible, say "return-one multiply-seven."
-
-Regarding division technique: Arrange as shown in the right diagram, using the divisor's leading digit 7 against the dividend's
+【Left of the diagram】
+The method of division states: Set up [the numbers] as shown in the diagram on the right, and using the highest digit 7 of the divisor, [divide into the dividend]…

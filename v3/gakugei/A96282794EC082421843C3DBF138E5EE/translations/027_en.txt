@@ -1,22 +1,18 @@
 【Right Page】
-【Diagram of abacus above and below】
-　㋩　　　　　　　　　　5×6=30 subtract　advance 6 to make 20
-　㋺　　　6×8=48 subtract　3×1=31
-　㋑　　　return one, triple　complement 9 for 3
+【Two abacus diagrams arranged vertically】
 
-【Below the abacus diagram】
-　5×6=30
-　3×5=15　　6×8=48
-　　　　　　　3×8=24
+㋩　　　　　　　　　　《5×6=30, subtract / advance 6 = 20》　　　5×6=30
+㋺　　　6×8=48, subtract　3×1=31　　　3×5=15　　6×8=48
+㋑　　　《return one, triple three / complement of 9 for 3》　　　　　3×8=24
 
-【Below the diagram】
-　Observe 3
-　The division voice uses all the voices of the 3 times table. When it cannot be divided, say "complement 9 for 3," and when it cannot be subtracted, say "return one, triple."
+【Below the diagrams】
+Mnemonic chant for division (除声):
+All division chants use the multiplication table for 3. When division is not possible, say "complement of 9 for 3" (作九の三); when subtraction is not possible, say "return one, triple three" (帰一陪三).
 
-【Left of diagram, continuing from previous page】
-match them and say "complement 9 for 3," change 3000 to 9, place 3 in the next digit. Match this 9 with the divisor's 6, try to subtract "6×9=54" but cannot subtract in the next digit, so say "return one, triple," take 1 from 9, enter 3 into the next digit, making ㋑ equal to 8 and ㋺ equal to 6. Match this 8 with the divisor's 6, say "6×8=48 subtract," subtract 4 from the next digit's 6, from the remaining 2 take another 1 and 8
+【Left side of diagram — continued from previous page】
+Matching with (the divisor's 30), say "complement of 9 for 3," change 3,000 to 9, and place 3 in the next position. Match this 9 with the divisor's 6, attempt to subtract "6×9=54," but it cannot be subtracted at the next position, so say "return one, triple three," take 1 from 9, enter 3 into the next position, making ㋑ equal to 8 and ㋺ equal to 6. Match this 8 with the divisor's 6, saying "6×8=48," subtract: from the 6 in the next position take away 4, then from the remaining 2, take 1 more and subtract 8,
 
 【Left Page】
-subtract, leaving 2, enter 2 into the position of the next digit 6, making ㋺ equal to 1 and ㋩ equal to 8. Also, using the divisor's 30 with ㋺'s 1, say "3×1=31," change 1 to 3, enter 1 into the next digit, making ㋺ equal to 3 and ㋩ equal to 9. When matching this 3 with the divisor's 6 and subtracting "3×6=18" in the next digit, there would be too much remainder and it won't divide evenly, so take 6 from this 9 and say "advance 6 to make 20," enter 2 into the position of digit 3 in ㋺, making ㋺ equal to 5 and ㋩ equal to 3. Match this 5 with the divisor's 6, say "5×6=30," and clear the 3 in ㋩, thus completing the division to get 85 kin.
+leaving 2, and say "subtract 8, 2 remains," place 2 into the position of 6 in the next position, making ㋺ equal to 1 and ㋩ equal to 8. Using the divisor's 30, apply "3×1=31" to ㋺'s 1, change 1 to 3, enter 1 into the next position, making ㋺ equal to 3 and ㋩ equal to 9. Matching this 3 with the divisor's 6, when "3×6=18" is subtracted from the next position, the remainder becomes too large and does not divide evenly, so take 6 from this 9, say "advance 6 = 20," enter 2 into the position of 3 at ㋺, making ㋺ equal to 5 and ㋩ equal to 3. Matching this 5 with the divisor's 6, say "5×6=30," and when 3 is cleared from ㋩, the division is complete, giving 85 kin.
 
-The method of multiplication states: Retreat 2 positions (the number of digits in the divisor) from the end position of 5 kin in the multiplicand, match 5 kin with the divisor's 6, say "5×6=30" and place it in this digit, making ㋩ equal to 3. Also, match 5 kin with the divisor's 3, say "3×5=15," change 5 kin to 1, enter 5 into the next digit, making ㋺ equal to 1 and ㋩ equal to 8. Also, the highest digit 8 of the multiplicand
+The method of multiplication states: Retreat 2 positions (the number of digits in the divisor) from the last digit of 5 kin in the multiplicand, match 5 kin with the divisor's 6, say "5×6=30," place this in the position, making ㋩ equal to 3. Also match 5 kin with the divisor's 3, say "3×5=15," change 5 kin to 1, enter 5 into the next position, making ㋺ equal to 1 and ㋩ equal to 8. Then, the highest digit (首) 8 of the multiplicand...

@@ -1,28 +1,27 @@
 【Right Page】
-When one becomes proficient in this method, it truly becomes like carrying dictionaries such as Jilin Yubian or Daizen Setsuyō
-Shū in one's pocket within the field of mathematics, enabling one to respond to changes as situations arise
-and apply myriad techniques accordingly. All other methods including various reduction techniques, extreme numbers and progressive differences, circular principles and arc calculations,
-area calculations, astronomy, calendar techniques, and surveying all originate from this method.
-　　　Eight Operations《귀인 (Ki means single-digit division, In means single-digit multiplication)》
-Second row: 2×1 add make 5, 2 advance 10, 4 advance 20, 6 advance 30, 8 advance 40
-When 1,234,567 koku 8 tō 9 gō of rice is divided by 2, how much is it?
-　　Answer: 617,283 koku 9 tō 5 shaku
-The division annotation says: As shown in the left diagram, place the divisor 2 on the left of the abacus, then
-place 1,234,567 koku 8 tō 9 gō as the dividend《Division
-starts from the leftmost digit of the dividend, comparing the divisor with the dividend and deriving from the divisor number》Take the first 1 of the dividend as "2×1 add
+When one becomes proficient in this method, it is truly as if one carries in one's pocket a dictionary such as the Jilin Yupian or the Daizen Setsuyōshū for mathematics — ready to meet any situation, respond to any variation, and apply any of the myriad techniques accordingly. Furthermore, all other topics, including various reductions (shoyaku), pipe-cutting problems (senkan), extreme numbers (kyokusū), method of finite differences (shōsa), circle theory (enri), arc-length calculations (kohai), area-finding (kyūseki), astronomy (seigaku), calendar calculation (rekijutsu), and surveying (sokuryō), all originate from this method.
+
+　　　The Eight Operations (Hassan) 《Kiin: "Ki" refers to single-digit division; "In" refers to single-digit multiplication》
+
+Row of 2:　"Ni'ichi ten sakugo" (2÷2=0.5, add 5)　"Ni-shin no ittō" (2 goes into 2 once, i.e., ÷2 gives 10)　"Shi-shin no nijū" (4÷2=20)　"Roku-shin no sanjū" (6÷2=30)　"Hachi-shin no shijū" (8÷2=40)
+
+[Problem] If 123,456 koku, 7 to, 8 shō, 9 gō of rice is divided by 2, how much is it?
+　　Answer: 61,728 koku, 3 to, 9 shō, 5 shaku
+
+The commentary on division states: As shown in the figure on the left, place the divisor 2 on the left side of the soroban (abacus), then place 123,456 koku, 7 to, 8 shō, 9 gō as the dividend (jitsu). 《In division, begin from the leftmost digit of the dividend, compare the divisor and dividend, and call out starting from the divisor's value.》 Apply "Ni'ichi ten
 
 【Left Page】
-make 5," then take
-the 2 of the next digit
-and divide by "2 advance
-10" 《becoming 6》also
-from the next digit 3, take
-2 and apply "2 advance 10"
-placing 1 in the left digit,
-and make the remaining 1 "2
-×1 add make 5," then take 4 from the next
-digit and apply "4 advance 20" placing 2 below 5《becoming 7》also take 4 from the next digit 5
-and apply "4 advance 20" placing 2 in the left digit, making the remaining 1 "2×1 add make 5"
+sakugo" to the first digit 1 of the dividend (making it 5); then take the 2 in the next column and apply "Ni-shin no ittō" to divide it 《yielding 6》; then from the 3 in the next column, take 2 and apply "Ni-shin no ittō," placing 1 in the column to the left, then apply "Ni'ichi ten sakugo" to the remaining 1; then take the 4 in the next column and apply "Shi-shin no nijū," placing 2 below the 5 《yielding 7》; then from the 5 in the next column, take 4 and apply "Shi-shin no nijū," placing 2 in the column to the left, and apply "Ni'ichi ten sakugo" to the remaining 1;
 
-【Diagram Description】
-Contains abacus diagrams showing the procedures for division and multiplication operations.
+【Below each of the two soroban diagrams】
+Division　　　　　　　　　　　Multiplication　Start of multiplication
+　　　　Hachi-shin no shijū　　Ni'ichi ten sakugo　　　　　2×5 = 10
+　　　　Hachi-shin no shijū　　　　　　　　　　　　　　　2×4 = 8
+　　　　Roku-shin no sanjū　　 Ni'ichi ten sakugo　　　　　2×9 = 18
+　　　　Roku-shin no sanjū　　　　　　　　　　　　　　　2×3 = 6
+　　　　Shi-shin no nijū　　　　Ni'ichi ten sakugo　　　　　2×8 = 16
+　　　　Shi-shin no nijū　　　　　　　　　　　　　　　　2×2 = 4
+　　　　Ni-shin no ittō　　　　 Ni'ichi ten sakugo　　　　　2×7 = 14
+　　　　Ni-shin no ittō　　　　　　　　　　　　　　　　 1×2 = 2
+　　　　Ni'ichi ten sakugo　　　　　　　　　　　　　　　2×6 = 12
+　　　　Start of division

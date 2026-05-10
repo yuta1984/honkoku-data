@@ -1,34 +1,22 @@
 【Right Page】
-The method of multiplication states: From the last digit 9 of the multiplicand, go down 3 places (the number of digits in the multiplier), match this 9 with the last digit 7 of the multiplier, place "7×9=63" at ㋥㋭, then move to the left digit, match the multiplicand's 9 with the multiplier's 6, enter "6×9=54" at ㋩㋥, making ㋩6㋥empty㋭3. Then move to the left digit, match this 9 with the multiplier's highest digit 5, say "5×9=45", change 9 to 4, enter 5 in the next digit, making ㋺5㋩1. Also from the multiplicand's highest digit 7, go down 3 places (the number of digits in the multiplier), match this 7 with the multiplier's 7, enter "7×7=49" at ㋩㋥, making ㋩5㋥9. Then move to the left digit, match the multiplicand's 7 with the multiplier's 6, enter "6×7=42" at ㋺㋩, making ㋺9㋩7. Then move to the left digit, match this 7 with the multiplier's highest digit 5, say "5×7=35", change 7 to 3, enter 5 in the next digit, making ㋑4㋺4, thus obtaining the original 44,793
+The method of multiplication states: Starting from the digit of 9 at the end of the dividend (*jitsu*), move back three places (the number of digits in the divisor (*hō*)), match this 9 with the last digit 7 of the divisor, say "7×9=63," and place the result at ㋥㋭. Then move to the next digit to the left, match the 9 of the dividend with the 6 of the divisor, say "6×9=54," enter it at ㋩㋥, making ㋩6, ㋥empty, ㋭3. Again move to the next digit to the left, match this 9 with the leading digit 5 of the divisor, say "5×9=45," change 9 to 4 and enter 5 into the next digit, making ㋺5, ㋩1. Then, starting from the leading digit 7 of the dividend, move back three places (the number of digits in the divisor), match this 7 with the 7 of the divisor, say "7×7=49," enter it at ㋩㋥, making ㋩5, ㋥9. Move to the next digit to the left, match the 7 of the dividend with the 6 of the divisor, say "6×7=42," enter it at ㋺㋩, making ㋺9, ㋩7. Again move to the next digit to the left, match this 7 with the leading digit 5 of the divisor, say "5×7=35," change 7 to 3 and enter 5 into the next digit, making ㋑4, ㋺4, thus recovering the original 44,793
 
 【Left Page】
-bags.
+bales of rice.
 
-When distributing 600,387 bolts of cloth among 6,901 people, how much does each person get?　　　　　　Answer: 87 bolts
+If 600,387 tan of cloth are distributed among 6,901 people, how much does each person receive?　　　Answer: 87 tan
 
-【Above and below the upper abacus diagram】
+【Between the two abacus diagrams, top/middle/bottom】
 ㋬
-㋭　　　　　　　　　　　1×7=7 subtract
-㋥　　　1×8=8 subtract
-㋩　　　　　　　　　　　7×9=63 subtract　
-㋺　　　8×9=72 subtract　《split notation: six advance one ten｜6×4=64》
-㋑　　　《split notation: return one accompany six｜make nine six》
-
-【Below the lower abacus diagram】
-
-　1×7=7
-　　　　　　　　1×8=8
-　7×9=63
-　6×7=42　　8×9=72
-　　　　　　　　6×8=48
+㋭　　　　　　　　　　　1×7=7, subtract　　　　　1×7 lower 7
+㋥　　　1×8 lower 8, subtract　　　　　　　　　　　　　　　　　　1×8 lower 8
+㋩　　　　　　　　　　　7×9=63, subtract　　　　　7×9=63
+㋺　　　8×9=72, subtract　　《annotation: advance six by one ten｜6×4=64》　　　　6×7=42　　8×9=72
+㋑　　　《annotation: return-one double-six｜make-nine's six》　　　　　　　　　　　　　　　6×8=48
 
 【Below the diagram】
-　See six
-　Division chant uses entirely the 6 times
-　table chant, when division is not
-　possible say "saku-kyū no roku" (make nine from six),
-　when subtraction is not possible say "ki-ichi
-　bai-roku" (return one, accompany six)
+*Ken-roku* (見六: "see six")
+All division calls use the multiplication table of 6; when division is not possible, say "make-nine's six" (*sakukyū no roku*); when subtraction is not possible, say "return-one double-six" (*ki-ichi bai-roku*).
 
-【Left of the diagram】
-The method of division states: Place as shown in the right diagram, using the divisor's highest digit 6 with the dividend's
+【Left of diagram】
+The method of division states: Set up as in the right diagram, using the highest digit 6 of the divisor to match against the dividend's…

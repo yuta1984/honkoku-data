@@ -1,25 +1,27 @@
 [Right page]
-5 sen, 7 sen, 9 sen, 17 sen, combined　　　　　　　Answer: 38 sen
-9 sen, 6 sen, 8 sen, 16 sen,　　　　　　　　　　　Answer: 39 sen
-7 sen, 9 sen, 11 sen, 13 sen,　　　　　　　　　　　Answer: 40 sen
-9 sen, 11 sen, 13 sen, 15 sen,　　　　　　　　　　　Answer: 48 sen
-8 sen, 11 sen, 14 sen, 17 sen,　　　　　　　　　　　Answer: 50 sen
-11 sen, 13 sen, 15 sen, 17 sen,　　　　　　　　　　　Answer: 56 sen
-14 sen, 27 sen, 9 sen, 13 sen,　　　　　　　　　　　Answer: 63 sen
-7 sen, 16 sen, 24 sen, 19 sen,　　　　　　　　　　　Answer: 66 sen
-19 sen, 21 sen, 17 sen, 15 sen,　　　　　　　　　　　Answer: 72 sen
-29 sen, 17 sen, 13 sen, 18 sen,　　　　　　　　　　　Answer: 77 sen
-27 sen, 36 sen, 13 sen, 9 sen,　　　　　　　　　　　Answer: 85 sen
+
+5 *sen*, 7 *sen*, 9 *sen*, 17 *sen* — what is the sum?　　　　　　　Answer: 38 *sen*
+9 *sen*, 6 *sen*, 8 *sen*, 16 *sen* — same.　　　　　　　　　　　　Answer: 39 *sen*
+7 *sen*, 9 *sen*, 11 *sen*, 13 *sen* — same.　　　　　　　　　　　 Answer: 40 *sen*
+9 *sen*, 11 *sen*, 13 *sen*, 15 *sen* — same.　　　　　　　　　　　Answer: 48 *sen*
+8 *sen*, 11 *sen*, 14 *sen*, 17 *sen* — same.　　　　　　　　　　　Answer: 50 *sen*
+11 *sen*, 13 *sen*, 15 *sen*, 17 *sen* — same.　　　　　　　　　　Answer: 56 *sen*
+14 *sen*, 27 *sen*, 9 *sen*, 13 *sen* — same.　　　　　　　　　　　Answer: 63 *sen*
+7 *sen*, 16 *sen*, 24 *sen*, 19 *sen* — same.　　　　　　　　　　　Answer: 66 *sen*
+19 *sen*, 21 *sen*, 17 *sen*, 15 *sen* — same.　　　　　　　　　　Answer: 72 *sen*
+29 *sen*, 17 *sen*, 13 *sen*, 18 *sen* — same.　　　　　　　　　　Answer: 77 *sen*
+27 *sen*, 36 *sen*, 13 *sen*, 9 *sen* — same.　　　　　　　　　　　Answer: 85 *sen*
 
 [Left page]
-14 sen, 32 sen, 18 sen, 26 sen,　　　　　　　　　　　Answer: 90 sen
-31 sen, 14 sen, 39 sen, 15 sen,　　　　　　　　　　　Answer: 99 sen
-12 sen, 24 sen, 37 sen, 32 sen,　　　　　　　　　　　Answer: 1 yen 5 sen
-25 sen, 36 sen, 17 sen, 33 sen,　　　　　　　　　　　Answer: 1 yen 11 sen
-32 sen, 19 sen, 41 sen, 28 sen,　　　　　　　　　　　Answer: 1 yen 20 sen
-41 sen, 24 sen, 43 sen, 22 sen,　　　　　　　　　　　Answer: 1 yen 30 sen
-24 sen, 37 sen, 48 sen, 33 sen,　　　　　　　　　　　Answer: 1 yen 42 sen
-42 sen, 74 sen, 16 sen, 18 sen,　　　　　　　　　　　Answer: 1 yen 50 sen
-29 sen, 43 sen, 27 sen, 62 sen,　　　　　　　　　　　Answer: 1 yen 61 sen
-57 sen, 54 sen, 49 sen, 13 sen,　　　　　　　　　　　Answer: 1 yen 73 sen
-65 sen, 24 sen, 36 sen, 52 sen,　　　　　　　　　　　Answer: 1 yen 77 sen
+
+14 *sen*, 32 *sen*, 18 *sen*, 26 *sen* — same.　　　　　　　　　　Answer: 90 *sen*
+31 *sen*, 14 *sen*, 39 *sen*, 15 *sen* — same.　　　　　　　　　　Answer: 99 *sen*
+12 *sen*, 24 *sen*, 37 *sen*, 32 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 5 *sen*
+25 *sen*, 36 *sen*, 17 *sen*, 33 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 11 *sen*
+32 *sen*, 19 *sen*, 41 *sen*, 28 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 20 *sen*
+41 *sen*, 24 *sen*, 43 *sen*, 22 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 30 *sen*
+24 *sen*, 37 *sen*, 48 *sen*, 33 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 42 *sen*
+42 *sen*, 74 *sen*, 16 *sen*, 18 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 50 *sen*
+29 *sen*, 43 *sen*, 27 *sen*, 62 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 61 *sen*
+57 *sen*, 54 *sen*, 49 *sen*, 13 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 73 *sen*
+65 *sen*, 24 *sen*, 36 *sen*, 52 *sen* — same.　　　　　　　　　　Answer: 1 *yen* 77 *sen*

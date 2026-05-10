@@ -1,83 +1,53 @@
 【Right Page】
-How much is 123,457,777 to (bales) of sake divided by 3?
-　　Answer: 41,152,259 to (bales)
+Problem: Sake (rice wine) totaling 123,456,777 da (packhorse loads) is divided by 3. What is the result?
+　　Answer: 41,152,259 da
 
-【Below diagram】
-　Recitation for the 3 times table
-　Three-one, thirty-one
-　Three-two, sixty-two
-　Three-advance one-ten
-　Six-advance twenty
-　Nine-advance thirty
-The commentary on division and multiplication
-should be understood by following
-the pattern of the 2 times table
+【Below each of the 2 abacus diagrams】
+Division　　　　　　　　　　　　　Multiplication
+　　　　nine-advance thirty　　　　　　　　　start of multiplication
+　　　　six-advance twenty　　3×2: 62　　　3×9: 27
+　　　　six-advance twenty　　3×1: 31　　　3×5: 15
+　　　　six-advance twenty　　　　　　　　　2×3 is 6
+　　　　six-advance twenty　　　　　　　　　2×3 is 6
+　　　　three-advance ten　　 3×1: 31　　　3×5: 15
+　　　　three-advance ten　　　　　　　　　　1×3 is 3
+　　　　three-advance ten　　　　　　　　　　1×3 is 3
+　　　　3×1: 31　　　　　　　　　　　　　3×4: 12
+　　　　start of division
 
-【Above diagram】
-　Division
-【Below abacus diagram】
-　Nine-advance thirty
-　Six-advance twenty　Three-two, sixty-two
-　Six-advance twenty　Three-one, thirty-one
-　Six-advance twenty
-　Six-advance twenty
-　Three-advance one-ten　Three-one, thirty-one
-　Three-advance one-ten
-　Three-advance one-ten
-　Three-one, thirty-one
-　Start of division
-
-【Below diagram】
-　Multiplication
-【Below abacus diagram】　
-　Start of multiplication
-　Three-nine, twenty-seven
-　Three-five, fifteen
-　Two-three is six
-　Two-three is six
-　Three-five, fifteen
-　One-three is three
-　One-three is three
-　Three-four, twelve
+【Below the diagrams】
+Chanting table for 3:
+　3×1: 31 (three-one, thirty-one)
+　3×2: 62 (three-two, sixty-two)
+　three-advance ten
+　six-advance twenty
+　nine-advance thirty
+The detailed explanation for division and multiplication
+should be inferred by analogy with
+the section on 2.
 
 【Left Page】
-How much is 123,456,789 yen divided by 4?
+Problem: Money totaling 123,456,789 yen is divided by 4. What is the result?
 　　Answer: 30,864,197 yen 25 sen
 
-【Below diagram】
-　Recitation for the 4 times table
-　Four-one, twenty-one
-　Four-two add-make five
-　Four-three, four-three, seventy-two
-　Four-advance one-ten
-　Eight-advance twenty
+【Below each of the 2 abacus diagrams】
+Division　　　　　　　　　　　　　　Multiplication　start of multiplication
+　　　　four-two add make five　　　　　　　　　　4×5: 20
+　　　　eight-advance twenty　　4×1: 22　　　　　2×4 is 8
+　　　　eight-advance twenty　　　　　　　　　　　4×7: 28
+　　　　four-advance ten　　　　4×3: 72　　　　　4×9: 36
+　　　　eight-advance twenty　　　　　　　　　　　1×4 is 4
+　　　　four-advance ten　　　　4×1: 22　　　　　4×4: 16
+　　　　four-advance ten　　　　four-two add make five　4×6: 24
+　　　　4×3: 72　　　　　　　　　　　　　　　　4×8: 32
+　　　　four-advance ten
+　　　　4×1: 22　　　　　　　　　　　　　　　　3×4: 12
+　　　　start of division
 
-【Above diagram】
-　Division
-【Below abacus diagram】
-　Four-two add-make five
-　Eight-advance twenty　　Four-one, twenty-two
-　Eight-advance twenty
-　Four-advance one-ten　Four-three, seventy-two
-　Eight-advance twenty
-　Four-advance one-ten　Four-one, twenty-two
-　Four-advance one-ten　Four-two add-make five
-　Four-three, seventy-two
-　Four-advance one-ten
-　Four-one, twenty-two
-　Start of division
-
-【Below diagram】
-　Multiplication
-【Below abacus diagram】
-　Start of multiplication
-　Four-five, twenty
-　Two-four is eight
-　Four-seven, twenty-eight
-　Four-nine, thirty-six
-　One-four is four
-　Four-four, sixteen
-　Four-six, twenty-four
-　Four-eight, thirty-two
-
-　Three-four, twelve
+【Below the diagrams】
+Chanting table for 4:
+　4×1: 21 (four-one, twenty-one)
+　four-two add make five
+　4×3: 72 (four-three, seventy-two)
+　four-advance ten
+　eight-advance twenty

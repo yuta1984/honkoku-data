@@ -1,0 +1,9 @@
+The composition of the French fleet was as follows:
+
+| Type of Vessel | Number of Ships | Number of Cannons |
+|----------------|-----------------|-------------------|
+| Ironclad screw steamships | 55 vessels | 1,032 guns |
+| Wooden screw steamships | 233 vessels | 2,618 guns |
+| Paddle steamships | 51 vessels | 116 guns |
+| Sailing ships | 100 vessels | 914 guns |
+| **Total** | **439 vessels** | **4,680 guns** |

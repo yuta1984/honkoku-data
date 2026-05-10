@@ -1,32 +1,22 @@
 【Right Page】
-and thus obtains the original 4,104 yen.
-When dividing 44,793 bags of rice among 567 districts, how much does each district get?　　　Answer: 79 bags
+thus obtaining the original 4,104 yen.
+
+When 44,793 bales of rice are divided among 567 districts, how many bales does each district receive?
+　　Answer: 79 bales
+
+【Abacus Diagrams (two abacus diagrams arranged with calculation steps above, middle, and below)】
+㋭
+㋥　　　　　　　　　　7×9=63 subtract　　　7×9=63
+㋩　　　7×7=49 subtract　6×9=54 subtract　　6×9=54　7×7=49
+㋺　　　6×7=42 subtract　make-9 of 5　　　　5×9=45　6×7=42
+㋑　　　《return-1 multiply-5｜5×4 add 4》　　　　　　　　　　　5×7=35
 
 【Below the diagram】
-　See five
-　Division chant (wari-goe) uses entirely the 
-　chant of the 5 times table,
-　when division is not possible,
-　say "saku-kyū no go" (make nine from five),
-　when subtraction is not possible say "ki-ichi
-　bai-go" (return one, accompany five)
-
-【Above and below the upper abacus diagram】
-　㋭
-　㋥　　　　　　　　　　7×9=63 subtract
-　㋩　　　7×7=49 subtract　6×9=54 subtract
-　㋺　　　6×7=42 subtract　make nine five
-　㋑　　　《split notation: return one accompany five｜5×4+4》
-
-【Below the lower abacus diagram】
-
-　7×9=63
-　6×9=54　7×7=49
-　5×9=45　6×7=42
-　　　　　　　5×7=35
+"See 5"
+All the division calls use the 5-times table; when the number cannot be divided, say "make-9 of 5"; when it cannot be subtracted, say "return-1 multiply-5."
 
 【Left of the diagram】
-The method of division states: Place as shown in the right diagram, using the divisor's highest digit 5, match it with the dividend's highest digit 4, say "go-shi ka-shi" (5×4+4), change 4 to 8, match this 8 with the divisor's
+The method of division states: Place the numbers as shown in the right diagram, use the leading digit 5 of the divisor to match with the leading digit 4 of the dividend, say "5×4 add 4," change 4 to 8, and match this 8 with the divisor's
 
 【Left Page】
-6, "6×8=48" cannot be subtracted in the next digit, so take 1 from the 8, say "ki-ichi bai-go" (return one, accompany five), enter 5 in the next digit, making ㋑7㋺9. Match this 7 with the divisor's 6, subtract "6×7=42" at ㋺㋩, making ㋺5㋩5. Also match ㋑'s 7 with the divisor's 7, subtract "7×7=49" at ㋩, making ㋩1㋥empty. Also using the divisor's highest digit 5, match it with ㋺'s 5, say "saku-kyū no go" (make nine from five), change 5 to 9, enter 5 in the next digit, making ㋺9㋩6. Match this 9 with the divisor's 6, say "6×9=54", subtract 5 from ㋩6, cannot subtract 4 in the next digit, so take the remaining 1, say "subtract four leaving six", enter 6 in the ㋥ digit, making ㋩empty㋥6. Also match ㋺'s 9 with the divisor's last digit 7, subtract "7×9=63" at ㋥㋭, and the division is complete, yielding 79 bags.
+6, say "6×8=48"; as it cannot be subtracted in the next digit, take 1 from the 8, say "return-1 multiply-5," enter 5 in the next digit, making ㋑7㋺9. Match this 7 with the divisor's 6, say "6×7=42," subtract using ㋺㋩, making ㋺5㋩5. Also, match the 7 of ㋑ with the divisor's 7, say "7×7=49," subtract using ㋩, making ㋩1㋥empty. Also, use the leading digit 5 of the divisor to match with the 5 of ㋺, say "make-9 of 5," change 5 to 9, enter 5 in the next digit, making ㋺9㋩6. Match this 9 with the divisor's 6, say "6×9=54," subtract 5 from the 6 in ㋩; as 4 cannot be subtracted in the next digit, take the remaining 1 and say "subtract 4 leaving 6," enter 6 into the ㋥ digit, making ㋩empty㋥6. Also, match the 9 of ㋺ with the last digit 7 of the divisor, say "7×9=63," subtract using ㋥㋭, and the division is complete, yielding 79 bales.
