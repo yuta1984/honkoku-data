@@ -1,0 +1,7 @@
+When loading, one must take care each time to keep the area where the cartridge meets the chamber clean. Both of these measures are considered difficult to achieve. 〇 There are three methods for sealing the breech end of the barrel (chamber):
+
+**First:** The structure should be such that a cylinder can be inserted into the chamber — that is, sealing is achieved by means of an internal closure.
+
+**Second:** A rotating plug (bolt) should be structured so as to encompass the breech end of the chamber, pressing against and closing the opening of the chamber. This is called an external seal.
+
+**Third:** This is a design in which a flat, dense piece of metal seals the breech end of the chamber. It is therefore given the name "flat seal" (flat obturation).

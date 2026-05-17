@@ -1,27 +1,27 @@
 [Right page]
 
 273 *maru* of paper ÷ 78　　　　　　　　Answer: 3½ *maru*
-4,266 *shime* of paper ÷ 49　　　　　　Answer: 54 *shime*
+4,266 *shime* of paper ÷ 79　　　　　　Answer: 54 *shime*
 18,538 *jō* of paper ÷ 80⅙　　　　　　Answer: 230 *jō*
 6,156 bundles of paper ÷ 81　　　　　　Answer: 76 bundles
-6,314 *tsubo* of soil ÷ 82　　　　　　　Answer: 77 *tsubo*
-651 *tsubo* 3 *gō* of soil ÷ 83½　　　　Answer: 7 *tsubo* 8 *gō*
-50,652 loads of soil ÷ 84　　　　　　　Answer: 603 loads
-3,974 cartloads of soil ÷ 85　　　　　　Answer: 46 cartloads
-9,374 *hiki* of silk ÷ 86　　　　　　　Answer: 109 *hiki*
-289 *jō* 7 *shaku* 1 *sun* of silk ÷ 87　Answer: 3 *jō* 3 *shaku* 3 *sun*
-1,980 *hiro* of silk ÷ 88　　　　　　　Answer: 22½ *hiro*
+6,314 *tsubo* of earth ÷ 82　　　　　　Answer: 77 *tsubo*
+651 *tsubo* 3 *gō* of earth ÷ 83½　　　Answer: 7 *tsubo* 8 *gō*
+50,652 loads of earth ÷ 84　　　　　　　Answer: 603 loads
+3,910 cartloads ÷ 85　　　　　　　　　　Answer: 46 cartloads
+9,374 *hiki* of silk ÷ 86　　　　　　　　Answer: 109 *hiki*
+289 *jō* 7 *shaku* 1 *sun* ÷ 87　　　　Answer: 3 *jō* 3 *shaku* 3 *sun*
+1,980 *hiro* ÷ 88　　　　　　　　　　　Answer: 22½ *hiro*
 
 [Left page]
 
 3,738 *tan* of silk ÷ 89　　　　　　　　Answer: 42 *tan*
-6,279 *ryō* of medicine ÷ 91　　　　　　Answer: 69 *ryō*
-450 *kan* 800 *me* of medicine ÷ 92　　Answer: 4 *kan* 900 *me*
-1,772 *kin* 7 *bu* of medicine ÷ 93⅓　　Answer: 19 *kin*
-31,302 bags of medicine ÷ 94　　　　　Answer: 333 bags
-108 *chō* 3 *tan* of farmland ÷ 95　　　Answer: 1 *chō* 1 *tan* 4 *se*
+6,279 *ryō* of medicine ÷ 91　　　　　Answer: 69 *ryō*
+450 *kan* 800 *me* ÷ 92　　　　　　　Answer: 4 *kan* 900 *me*
+1,772 *kin* 7 *bu* ÷ 93⅓　　　　　　　Answer: 19 *kin*
+31,302 bags ÷ 94　　　　　　　　　　　Answer: 333 bags
+108 *chō* 3 *tan* of farmland ÷ 95　　Answer: 1 *chō* 1 *tan* 4 *se*
 307 *bu* 2 *gō* ÷ 96　　　　　　　　　Answer: 3 *bu* 2 *gō*
-4,559 *tsubo* of town land ÷ 97　　　　Answer: 47 *tsubo*
-284 *chō* 2 *tan* of cultivated land ÷ 98　Answer: 2 *chō* 9 *tan*
-9,801 *ku* (districts) ÷ 99　　　　　　Answer: 99 *ku*
-12,669 *chō* (blocks) of urban streets ÷ 103　Answer: 123 *chō*
+4,559 *tsubo* of town land ÷ 97　　　Answer: 47 *tsubo*
+284 *chō* 2 *tan* of arable land ÷ 98　Answer: 2 *chō* 9 *tan*
+9,801 districts ÷ 99　　　　　　　　　　Answer: 99 districts
+12,669 *chō* of urban streets ÷ 103　　Answer: 123 *chō*

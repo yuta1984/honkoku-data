@@ -1,0 +1,130 @@
+**[Right Column, Upper Section]**
+
+Recognizing the danger of rough seas, at 7:50 a.m. warnings were issued for the coastal areas of Districts 1, 2, and 4. Then, fearing wind and rain, at 4:00 p.m. warnings were issued for the eastern parts of Districts 1, 2, and 3, and for both sea and land in District 4. Furthermore, as there were indications that a typhoon was imminent, warnings were also issued for both sea and land in the western parts of Districts 1, 2, and 3. As expected, the low-pressure system appeared near the southeast of Ōshima Island in Ōsumi Province, and its center grazed the southern tip of Shikoku, advancing northeast, reaching the vicinity of Hōki Province (present-day Tottori Prefecture) around 10:00 p.m., and then racing into the northern Sea of Japan on the following day, the 29th. The speed of this storm's movement was approximately 60 nautical miles (miles) per hour, which was said to be more than twice as fast as an ordinary low-pressure system. The meteorological tables from temporary observations taken at weather stations in Kōchi, Ehime, Kagawa, and Hyōgo Prefectures, where the damage was greatest along the storm's path, are presented below to illustrate the conditions.
+
+**[Atmospheric Pressure Table (700 mm subtracted from all values)]**
+
+Station: Tadotsu / Matsuyama / Kobe / Okayama / Akō / Mino / Kōchi
+
+Aug. 28, 10:00 a.m.: 754.5 / 753.3 / 755.9 / 754.8 / 759.5 / 755.5 / 754.9
+11:00 a.m.: 753.6 / 752.8 / 755.1 / 753.8 / — / 754.3 / —
+Noon: 752.3 / 751.5 / 754.4 / 753.2 / — / 751.3 / 753.5
+1:00 p.m.: 752.0 / 750.9 / 753.7 / — / 756.5 / — / —
+2:00 p.m.: 751.2 / 750.0 / 753.0 / 751.4 / 755.9 / 750.9 / 752.1
+3:00 p.m.: 750.7 / 749.2 / 752.4 / 750.8 / 755.2 / — / —
+4:00 p.m.: 750.0 / 748.0 / 752.1 / 750.8 / 754.6 / 750.1 / 750.1
+5:00 p.m.: 748.7 / 746.8 / 752.0 / 749.2 / 754.0 / — / 748.8
+6:00 p.m.: 746.7 / 745.0 / 751.3 / 747.8 / 751.8 / 746.8 / 748.4
+7:00 p.m.: 744.9 / 742.1 / 750.8 / 746.7 / 751.8 / 745.0 / 740.5
+8:00 p.m.: 740.0 / 739.3 / 748.4 / 744.3 / 749.3 / 741.0 / 723.0
+9:00 p.m.: 740.0 / 746.2 / 747.7 / 735.3 / 742.5 / 726.4 / 742.2
+9:30 p.m.: 735.6 / 748.7 / — / 728.2 / — / 733.9 / 746.9
+10:00 p.m.: 743.5 / 749.6 / 749.7 / 733.6 / — / 749.6 / 749.4
+11:00 p.m.: 749.9 / 751.3 / 751.1 / 748.3 / — / — / 751.8
+Midnight: 751.3 / 752.6 / 751.5 / 751.05 / 756.7 / — / 751.0
+Aug. 29, 1:00 a.m.: 751.7 / 752.1 / 752.1 / 751.7 / — / — / —
+2:00 a.m.: 753.0 / 753.5 / 752.1 / 752.5 / — / 750.8 / 753.1
+
+**[Weather Conditions]**
+
+Aug. 28, 10:00 a.m.: Cloudy / Cloudy / Cloudy / Cloudy / Rain / Cloudy / Rain
+11:00 a.m.: Rain / Rain / Same / Same / — / Same / —
+Noon: Cloudy / Rain / Same / Same / — / Same / Rain
+1:00 p.m.: Rain / Same / Same / — / Cloudy / — / —
+2:00 p.m.: Same / Cloudy / Same / Cloudy / Rain / Rain / Rain
+3:00 p.m.: Same / Same / Same / Rain / Same / — / —
+4:00 p.m.: Same / Rain / Same / Same / Same / Cloudy / Rain
+5:00 p.m.: Cloudy / Same / Rain / Cloudy / Same / — / Same
+6:00 p.m.: Same / Same / Cloudy / Same / Same / Rain / Same
+7:00 p.m.: Rain / Same / Same / Same / Same / Cloudy / Same
+8:00 p.m.: Same / Same / Same / Same / Same / Rain / Same
+9:00 p.m.: Same / Same / Same / Rain / Same / Same / Same
+9:30 p.m.: Same / Same / — / Same / — / Same / —
+10:00 p.m.: Same / Same / Rain / Same / — / Cloudy / —
+11:00 p.m.: Same / Cloudy / Same / Same / — / — / —
+Midnight: Cloudy / Rain / Same / Cloudy / Rain / — / Rain
+Aug. 29, 1:00 a.m.: Rain / Cloudy / Same / Same / — / — / —
+2:00 a.m.: Same / Same / Same / Rain / — / Cloudy / Rain
+
+**[Wind Direction]**
+
+Aug. 28, 10:00 a.m.: NE / N / SE / SE / SSE / ESE / WE
+11:00 a.m.: E / NW / ESE / Same / — / Same / —
+Noon: Same / SW / SE / Same / — / Same / SE
+1:00 p.m.: S / NNW / Same / — / SSE / — / —
+2:00 p.m.: SE / NW / SSE / SE / Same / E / SE
+3:00 p.m.: S / Same / SE / Same / Same / — / —
+4:00 p.m.: E / N / Same / Same / Same / E / SE
+5:00 p.m.: Same / WNW / S / E / Same / — / Same
+6:00 p.m.: ESE / W / SSE / ENE / Same / ESE / Same
+7:00 p.m.: ENE / Same / E / E / Same / E / ESE
+8:00 p.m.: Same / NW / NE / ESE / Same / Same / Same
+9:00 p.m.: E / N / SE / E / SE / Same / S
+9:30 p.m.: W / Same / — / SSE / — / W / W
+10:00 p.m.: W / SW / SE / S / — / SW / Same
+11:00 p.m.: SW / Same / S / SSW / — / — / Same
+Midnight: W / Same / Same / SW / SSE / — / —
+Aug. 29, 1:00 a.m.: W / SSW / Same / Same / — / — / —
+2:00 a.m.: W / S / Same / WNW / — / W / —
+
+**[Wind Speed (meters per second)]**
+
+Aug. 28, 10:00 a.m.: 2.8 / 1.6 / 1.6 / 5.4 / 5.5 / 2.2 / 5.0
+11:00 a.m.: 2.7 / 2.6 / 2.6 / 6.4 / — / 3.2 / —
+Noon: 1.2 / 1.2 / 3.1 / 7.7 / — / 9.0 / 6.7
+1:00 p.m.: 2.7 / 1.1 / 3.3 / — / 10.7 / — / —
+2:00 p.m.: 1.6 / 1.6 / 4.1 / 10.2 / 9.3 / 5.2 / 3.5
+3:00 p.m.: 3.6 / 1.4 / 6.0 / 3.3 / 10.1 / — / —
+4:00 p.m.: 2.7 / 2.0 / 6.6 / 6.7 / 10.7 / 5.9 / 6.9
+5:00 p.m.: 2.7 / 3.2 / 6.3 / 5.2 / 6.7 / — / 10.1
+6:00 p.m.: 1.8 / 5.1 / 6.9 / 6.2 / 12.3 / 7.0 / 9.9
+7:00 p.m.: 4.9 / 6.4 / 5.9 / 15.8 / 11.1 / 8.3 / 32.1
+8:00 p.m.: 7.1 / 18.6 / 7.1 / 16.1 / 15.9 / 19.8 / —
+9:00 p.m.: 21.6 / 20.4 / 12.5 / 20.5 / 23.4 / 21.7 / —
+9:30 p.m.: 33.3 / — / — / 33.3 / — / — / —
+10:00 p.m.: 37.5 / 4.4 / 13.1 / 25.1 / — / — / —
+11:00 p.m.: 19.1 / 2.0 / 13.7 / 9.2 / — / — / —
+Midnight: 9.1 / 6.2 / 11.2 / 8.8 / 11.2 / — / —
+Aug. 29, 1:00 a.m.: 11.1 / 3.5 / 8.9 / 4.1 / — / — / —
+2:00 a.m.: 14.1 / 1.4 / 8.4 / 3.2 / — / 5.4 / —
+
+**[Wind Force (Beaufort-like scale)]**
+
+Aug. 28, 10:00 a.m.: Light / Light / Light / Gentle / Gentle / Light / Gentle
+11:00 a.m.: Same / Same / Same / Brisk / — / Same / —
+Noon: Calm / Calm / Same / Same / — / Brisk / Brisk
+1:00 p.m.: Light / Same / Same / — / Strong / — / —
+2:00 p.m.: Same / Light / Gentle / Strong / Brisk / Gentle / Gentle
+3:00 p.m.: Gentle / Calm / Brisk / Light / Strong / — / —
+4:00 p.m.: Light / Light / Same / Brisk / Same / Gentle / Brisk
+5:00 p.m.: Same / Same / Same / Gentle / Brisk / — / Strong
+6:00 p.m.: Same / Gentle / Same / Brisk / Strong / Brisk / Brisk
+7:00 p.m.: Gentle / Brisk / Gentle / Fierce / Same / Same / Furious (Hurricane)
+8:00 p.m.: Brisk / Fierce / Brisk / Same / Fierce / Fierce / Same
+9:00 p.m.: Fierce / Same / Strong / Same / Same / Same / Brisk
+9:30 p.m.: Furious / — / — / Furious / — / — / Gentle
+10:00 p.m.: Same / Gentle / Strong / Fierce / — / — / Calm
+11:00 p.m.: Fierce / Light / Same / Brisk / — / — / Same
+Midnight: Brisk / Brisk / Same / Same / Strong / — / Same
+Aug. 29, 1:00 a.m.: Strong / Light / Brisk / Gentle / — / — / —
+2:00 a.m.: Same / Calm / Same / Light / — / Gentle / Calm
+
+**[Left Column, Upper Section]**
+
+(Note) Tadotsu Weather Station is in Kagawa Prefecture; Matsuyama Weather Station is in Ehime Prefecture; Kobe Weather Station and Akō Weather Station are in Hyōgo Prefecture; Okayama Weather Station and Mino Observation Station are in Okayama Prefecture; and Kōchi Weather Station is in Kōchi Prefecture. All atmospheric pressure values in the table are recorded by subtracting 700 mm, showing only the remaining figures from the tens place.
+
+Furthermore, recording the lowest atmospheric pressure and maximum wind speed observed at each location: at Kōchi, the barometer showed a minimum of 722.2 mm at 8:10 p.m. on the 28th, and the wind force was strongest; however, as the rooftop of the weather station collapsed at 7:44 p.m., the anemometer, wind vane, sunshine recorder, and other instruments were damaged, and full observation was apparently impossible. The following is an excerpt from the communication from that station:
+
+"At 7:50 p.m. on the 28th, the barometer showed 749 mm off Ōshima, and at the same time a warning from the Central Meteorological Observatory was received warning of rough seas. A further telegram was received at 4:00 p.m. warning to be vigilant on both sea and land. However, at that time there was no particular abnormality here; but at 5:00 p.m., the barometer suddenly showed 749 mm — the same weather conditions as at Ōshima at 7:00 a.m. — and strong winds arose. From 5 o'clock to 6 o'clock the pressure fell 2 mm per hour; then at 7 o'clock it suddenly showed a violent change, dropping 6 mm rapidly. At this time the wind force became extremely violent, and damage suddenly appeared at the observation platform, causing the instruments to malfunction. The final observation made just before the destruction of the observation platform at 7:00 p.m. recorded a wind speed of 32.1 meters per second. Estimating from this force, the wind likely reached 40 meters or more — possibly around 50 meters — around 8 o'clock. A wind speed of 32 meters corresponds to a pressure of 108 kan per tsubo (square unit of area); 40 meters corresponds to 169 kan; and 50 meters corresponds to 264 kan. Therefore, the wind force at 7:00 p.m. on that day exerted a pressure of 108 kan per tsubo — equivalent to about seven bales of rice — and even estimating the peak at 40 meters, it still"
+
+**[Left Column, Lower Section]**
+
+"exerted 169 kan, or more than ten bales of rice per tsubo. With 160 to 200 kan of wind force striking every tsubo of surface area, what could possibly withstand such force? Although the wind force reached such unprecedented ferocity, the rainfall was comparatively small: from 10:00 a.m. to 2:00 p.m. on the same day it was 25 mm; from 2:00 p.m. to 6:00 p.m. it was 16.3 mm; and from 6:00 p.m. to 10:00 p.m. it was 31 mm. The heaviest rainfall, during the period from 6:00 p.m. to 10:00 p.m., amounted to more than 5 koku, 5 to, and 8 shō per tsubo."
+
+From the above reports, one can understand how ferocious the wind force was. The next lowest barometric readings were 724.4 mm at Tadotsu at 9:00 p.m., and 724.9 mm at Mino at 9:10 p.m. Okayama recorded 728.2 mm at 9:30 p.m., and Kobe showed 747.7 mm at 9:00 p.m. Matsuyama recorded its lowest pressure of 730.1 mm at 7:45 p.m. The maximum wind speed during this typhoon was, after Kōchi, 52.5 meters per second (per second) recorded at Tadotsu at 9:35 p.m. on the 28th. Other maximum speeds were: 33.3 meters at Okayama, 27.0 meters at Matsuyama, 23.4 meters at Akō, and 23.0 meters at Mino.
+
+**● Storm and Rain Damage in Tokushima Prefecture**
+
+In Tokushima City, the theater "Ebisu-za" (under construction) in Heigura-chō collapsed, causing one injury. In addition, there was considerable damage to houses and trees throughout the city. The Yoshino River rose by 1 jō and 9 shaku (approximately 5.7 meters), causing approximately 30 ken (about 55 meters) of the temporary embankment at Kajitsuka in Takashima Village to collapse. On the Yoshino River in the areas of Kōmi and Ōno Villages, the water level rose to 2 jō and 6 shaku (approximately 7.9 meters), causing more than 20 ken of temporary embankment to collapse. The Katsuura River rose 1 jō (approximately 3 meters), the Naka River rose 9 shaku (approximately 2.7 meters), and the Ayui River rose 9 shaku.
+
+The damage throughout the prefecture included 11 deaths, 34 injuries, 15 bodies washed ashore, and 7 (head count) of livestock killed or injured (continued).

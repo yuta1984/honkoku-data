@@ -1,0 +1,47 @@
+### Land Subsidence
+
+Earthquakes, whether caused by ground slippage or volcanic activity, frequently induce uplift or subsidence of the ground, and numerous examples of this can be found both domestically and abroad. According to an account given by a staff member of the Gifu Prefecture Civil Engineering Division, who surveyed the area by order of the prefectural government, a stretch of land approximately 300 ken (roughly 545 meters) long and 60 ken (roughly 109 meters) wide subsided in Neodani Valley, forming a long trench-like depression. It is also reported that signs of subsidence can be observed in part of the Kiso River. This observation is made by local residents who have noted a marked decrease in the river's flow velocity since the earthquake. In addition, along the national road from Kuwana to Atsuta, the road surface subsided by five to six shaku (approximately 1.5–1.8 meters) in certain places, and water from the ponds on either side flooded in, so that small boats are now used to transport travelers and goods across the gap. The subsided section is likely no more than five to six ken (roughly 9–11 meters) in length. According to local villagers, the same location also subsided during the great Ansei Earthquake. There are countless smaller instances of subsidence from this event that would be impossible to enumerate individually. Regardless of scale, all such subsidence is believed to result from the rupturing of the ground, arising from points of weakness created by the intersection of fault lines running in different directions.
+
+---
+
+### Earthquake Occurrence Times　(Items marked ● are from meteorological observatories; others are from postal/telegraph office telegrams)
+
+| Location | Time |
+|----------|------|
+| Fukui Prefecture | 6:40 |
+| Toyooka | 6:28 |
+| Kyoto | 6:35 |
+| Kyoto Prefecture | 6:38 |
+| Tsu | 6:40 |
+| Numazu (Observatory) | 6:40 |
+| Nagano Prefecture | 6:30 |
+| Fujieda | 6:38 |
+| Hamamatsu (Observatory) | 6:37 |
+| Toyama Prefecture | 6:30 |
+| Nagano | 6:50 |
+| Nagoya (Observatory) | 6:38:50 |
+| Gifu Prefecture | 6:37 |
+| Fukui | 6:37 |
+| Kanazawa (Observatory) | 6:35 |
+| Mie Prefecture | 6:36 |
+| Obama | 6:35 |
+| Wakayama (Observatory) | 6:42 |
+| Yamanashi Prefecture | 6:30 |
+| Kanazawa | 6:45 |
+| Osaka (Observatory) | 6:38:15 |
+| Nara Prefecture | 6:25 |
+| Tsuruga | 6:30 |
+| Sakai (Observatory) | 6:30 |
+| Maizuru | 6:35 |
+| Komatsu | 6:34 |
+| Fukui (Observatory) | 6:40 |
+| Miyazu | 6:43 |
+| Daishoji | 6:35 |
+| Gifu (Observatory) | 6:40 |
+| Osaka | 6:38 |
+| Numazu | 6:30 |
+| Tokyo Meteorological Observatory | 6:39:11 |
+| Hyogo | 6:40 |
+| Matsumoto | 6:30 |
+
+*The above is an excerpt from the Official Gazette (Kanpō).*

@@ -1,0 +1,26 @@
+## Ryōchi Shinan (Guide to Land Surveying), Volume 2
+
+Compiled and written by: Murai Masahiro, Recluse Scholar of Senan
+
+### Kenban-jutsu Enkin-hō (Method of Distance Measurement Using the Surveying Board), Part I
+
+【Concerning "Sayū Sei-kaihō" (Left-Right Orthogonal Base Line Method)】
+*Note: Here, the method of right orthogonal opening is described. The method of left orthogonal opening should be understood by analogy.*
+
+This technique is used to measure distances to remote points from locations such as open fields, flat terrain, coastal shores, or paddy fields, where there are no obstructions to observation on either side and where one may freely choose a baseline location convenient for measurement.
+
+The method involves accurately establishing a baseline in either the left or right direction to perform measurements. The details are recorded within the body of the technique, and the reader is urged to study them diligently.
+
+**The technique states** (explained with reference to the diagram below):
+
+As described repeatedly in the first volume, one first selects the "honza" (the base point of measurement) and determines the "meate" (the target point of measurement), then makes a preliminary estimate ("senryō") of the approximate distance in ri and chō from the base point to the target.
+
+*Note: "Senryō" refers to a rough visual estimate. Its method is described in detail in the first volume.*
+
+Based on this estimated distance, a provisional "kaiyo" (baseline) location is determined.
+
+*Note: The procedure for establishing the baseline should generally follow the classical method of one-thirtieth (of the estimated distance).*
+
+Following the prescribed procedure, the "shikei" (initial calculations) are carried out.
+
+*Note: "Shikei" is a collective term for selecting the base point, determining the target, and establishing the baseline location.*

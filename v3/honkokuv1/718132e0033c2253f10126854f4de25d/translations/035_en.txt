@@ -1,0 +1,144 @@
+**[Upper Right Section]**
+
+Recognizing the risk of rough seas, at 7:50 a.m. warnings were issued for the coasts of Districts 1, 2, and 4. Then, fearing further wind and rain, at 4:00 p.m., maritime and land warnings were issued for the eastern portions of Districts 1, 2, and 3, and District 4's coast and land, as well as for the western portions of Districts 1, 2, and 3. As expected, the low-pressure system appeared near the southeast of Ōshima in Ōsumi Province, and its center grazed the southern tip of Shikoku, advancing northeast, emerging near Hōki Province around 10:00 p.m., and racing through the northern Sea of Japan on the following 29th. The movement speed of this storm was approximately 60 nautical miles (miles) per hour, said to be more than twice the speed of an ordinary low-pressure system.
+
+The areas along the storm's path that suffered the greatest damage were in Kōchi, Ehime, Kagawa, and Hyōgo prefectures. The following meteorological table, compiled from temporary observations at weather stations in these prefectures, is presented to illustrate the conditions.
+
+**[Atmospheric Pressure Table]**
+*(Note: All pressure values have had 700 subtracted, recorded from the tens digit)*
+
+|Date/Time|Tadotsu|Matsuyama|Kōbe|Okayama|Akō|Amino|Kōchi|
+|---|---|---|---|---|---|---|---|
+|28th, 10 a.m.|754.5|753.3|755.9|754.8|759.5|755.5|754.9|
+|11 a.m.|753.6|752.8|755.1|753.8|—|754.3|—|
+|Noon|752.3|751.5|754.4|753.2|—|751.3|753.5|
+|1 p.m.|752.0|750.9|753.7|—|756.5|—|—|
+|2 p.m.|751.2|750.0|753.0|751.4|755.9|750.9|752.1|
+|3 p.m.|750.7|749.2|752.4|750.8|755.2|—|—|
+|4 p.m.|750.0|748.0|752.1|750.8|754.6|750.1|750.1|
+|5 p.m.|748.7|746.8|752.0|749.2|754.0|—|748.8|
+|6 p.m.|746.7|745.0|751.3|747.8|751.8|746.8|748.4|
+|7 p.m.|744.9|742.1|750.8|746.7|751.8|745.0|740.5|
+|8 p.m.|740.0|739.3|748.4|744.3|749.3|741.0|723.0|
+|9 p.m.|740.0|746.2|747.7|735.3|742.5|726.4|742.2|
+|9:30 p.m.|735.6|748.7|—|728.2|—|733.9|746.9|
+|10 p.m.|743.5|749.6|749.7|733.6|—|749.6|749.4|
+|11 p.m.|749.9|751.3|751.1|748.3|—|—|751.8|
+|Midnight|751.3|752.6|751.5|(1.05)|756.7|—|751.0|
+|29th, 1 a.m.|751.7|752.1|752.1|751.7|—|—|—|
+|2 a.m.|753.0|753.5|752.1|752.5|—|750.8|753.1|
+
+**[Weather Conditions Table]**
+
+|Date/Time|Tadotsu|Matsuyama|Kōbe|Okayama|Akō|Amino|Kōchi|
+|---|---|---|---|---|---|---|---|
+|28th, 10 a.m.|Cloudy|Cloudy|Cloudy|Cloudy|Rain|Cloudy|Rain|
+|11 a.m.|Rain|Rain|Same|Same|—|Same|—|
+|Noon|Cloudy|Rain|Same|Same|—|Same|Rain|
+|1 p.m.|Rain|Same|Same|—|Cloudy|—|—|
+|2 p.m.|Same|Cloudy|Same|Cloudy|Rain|Rain|Rain|
+|3 p.m.|Same|Same|Same|Rain|Same|—|—|
+|4 p.m.|Same|Rain|Same|Same|Same|Cloudy|Rain|
+|5 p.m.|Cloudy|Same|Rain|Cloudy|Same|—|Same|
+|6 p.m.|Same|Same|Cloudy|Same|Same|Rain|Same|
+|7 p.m.|Rain|Same|Same|Same|Same|Cloudy|Same|
+|8 p.m.|Same|Same|Same|Same|Same|Rain|Same|
+|9 p.m.|Same|Same|Same|Rain|Same|Same|Same|
+|9:30 p.m.|Same|Same|—|Same|—|Same|—|
+|10 p.m.|Same|Same|Rain|Same|—|Cloudy|—|
+|11 p.m.|Same|Cloudy|Same|Same|—|—|—|
+|Midnight|Cloudy|Rain|Same|Cloudy|Rain|—|Rain|
+|29th, 1 a.m.|Rain|Cloudy|Same|Same|—|—|—|
+|2 a.m.|Same|Same|Same|Rain|—|Cloudy|Rain|
+
+**[Wind Direction Table]**
+
+|Date/Time|Tadotsu|Matsuyama|Kōbe|Okayama|Akō|Amino|Kōchi|
+|---|---|---|---|---|---|---|---|
+|28th, 10 a.m.|NE|N|SE|SE|SSE|ESE|E(W?)|
+|11 a.m.|E|NW|ESE|Same|—|Same|—|
+|Noon|Same|SW|SE|Same|—|Same|SE|
+|1 p.m.|S|NNW|Same|—|SSE|—|—|
+|2 p.m.|SE|NW|SSE|SE|Same|E|SE|
+|3 p.m.|S|Same|SE|Same|Same|—|—|
+|4 p.m.|E|N|Same|Same|Same|E|SE|
+|5 p.m.|Same|WNW|S|E|Same|—|Same|
+|6 p.m.|ESE|W|SSE|ENE|Same|ESE|Same|
+|7 p.m.|ENE|Same|E|E|Same|E|ESE|
+|8 p.m.|Same|NW|NE|ESE|Same|Same|Same|
+|9 p.m.|E|N|SE|E|SE|Same|S|
+|9:30 p.m.|W|Same|—|SSE|—|W|W|
+|10 p.m.|W|SW|SE|S|—|SW|Same|
+|11 p.m.|SW|Same|S|SSW|—|—|Same|
+|Midnight|W|Same|Same|SW|SSE|—|—|
+|29th, 1 a.m.|W|SSW|Same|Same|—|—|—|
+|2 a.m.|W|S|Same|WNW|—|W|—|
+
+**[Wind Speed Table (meters per second)]**
+
+|Date/Time|Tadotsu|Matsuyama|Kōbe|Okayama|Akō|Amino|Kōchi|
+|---|---|---|---|---|---|---|---|
+|28th, 10 a.m.|2.8|1.6|1.6|5.4|5.5|2.2|5.0|
+|11 a.m.|2.7|2.6|2.6|6.4|—|3.2|—|
+|Noon|1.2|1.2|3.1|7.7|—|9.0|6.7|
+|1 p.m.|2.7|1.1|3.3|—|10.7|—|—|
+|2 p.m.|1.6|1.6|4.1|10.2|9.3|5.2|3.5|
+|3 p.m.|3.6|1.4|6.0|3.3|10.1|—|—|
+|4 p.m.|2.7|2.0|6.6|6.7|10.7|5.9|6.9|
+|5 p.m.|2.7|3.2|6.3|5.2|6.7|—|10.1|
+|6 p.m.|1.8|5.1|6.9|6.2|12.3|7.0|9.9|
+|7 p.m.|4.9|6.4|5.9|15.8|11.1|8.3|32.1|
+|8 p.m.|7.1|18.6|7.1|16.1|15.9|19.8|—|
+|9 p.m.|21.6|20.4|12.5|20.5|23.4|21.7|—|
+|9:30 p.m.|33.3|—|—|33.3|—|—|—|
+|10 p.m.|37.5|4.4|13.1|25.1|—|—|—|
+|11 p.m.|19.1|2.0|13.7|9.2|—|—|—|
+|Midnight|9.1|6.2|11.2|8.8|11.2|—|—|
+|29th, 1 a.m.|11.1|3.5|8.9|4.1|—|—|—|
+|2 a.m.|14.1|1.4|8.4|3.2|—|5.4|—|
+
+**[Wind Force Table]**
+
+*(Using the Japanese wind force scale: 静=Calm, 軟=Light, 和=Gentle, 疾=Fresh, 強=Strong, 烈=Violent, 飃=Hurricane)*
+
+|Date/Time|Tadotsu|Matsuyama|Kōbe|Okayama|Akō|Amino|Kōchi|
+|---|---|---|---|---|---|---|---|
+|28th, 10 a.m.|Light|Light|Light|Gentle|Gentle|Light|Gentle|
+|11 a.m.|Same|Same|Same|Fresh|—|Same|—|
+|Noon|Calm|Calm|Same|Same|—|Fresh|Fresh|
+|1 p.m.|Light|Same|Same|—|Strong|—|—|
+|2 p.m.|Same|Light|Gentle|Strong|Fresh|Gentle|Gentle|
+|3 p.m.|Gentle|Calm|Fresh|Light|Strong|—|—|
+|4 p.m.|Light|Light|Same|Fresh|Same|Gentle|Fresh|
+|5 p.m.|Same|Same|Same|Gentle|Fresh|—|Strong|
+|6 p.m.|Same|Gentle|Same|Fresh|Strong|Fresh|Fresh|
+|7 p.m.|Gentle|Fresh|Gentle|Violent|Same|Same|Hurricane|
+|8 p.m.|Fresh|Violent|Fresh|Same|Violent|Violent|Same|
+|9 p.m.|Violent|Same|Strong|Same|Same|Same|Fresh|
+|9:30 p.m.|Hurricane|—|—|Hurricane|—|—|Gentle|
+|10 p.m.|Same|Gentle|Strong|Violent|—|—|Calm|
+|11 p.m.|Violent|Light|Same|Fresh|—|—|Same|
+|Midnight|Fresh|Fresh|Same|Same|Strong|—|Same|
+|29th, 1 a.m.|Strong|Light|Fresh|Gentle|—|—|—|
+|2 a.m.|Same|Calm|Same|Light|—|Gentle|Calm|
+
+**[Upper Left Section]**
+
+*(Note) Tadotsu Weather Station is in Kagawa Prefecture. Matsuyama Weather Station is in Ehime Prefecture. Kōbe Weather Station and Akō Weather Station are in Hyōgo Prefecture. Okayama Weather Station and Amino Observation Station are in Okayama Prefecture. Kōchi Weather Station is in Kōchi Prefecture.*
+*All barometric pressure values in the table have had 700 subtracted and are recorded from the tens digit.*
+
+Further, to record the minimum atmospheric pressure and maximum wind speed observed at each location: at Kōchi, the barometer showed a minimum of 722.2 mm at 8:10 p.m. on the 28th, and the wind was at its strongest; at 7:44 p.m., because the rooftop of the weather station collapsed, the anemometer, wind vane, sunshine recorder, and other instruments were damaged, and it appears that complete observations could not be made. The following is an extract from the communication from that station:
+
+At 7:50 p.m. on the 28th, the barometer at Ōshima offshore showed 749 millimeters, and at the same time a warning from the Central Meteorological Observatory arrived indicating the risk of rough seas; then at 4:00 p.m. a telegram was received warning of further marine and land hazards. However, at that time there was no particular abnormality at this location; but at 5:00 p.m. the barometer suddenly showed 749 millimeters, and conditions became similar to those at Ōshima at 7:00 a.m., with strong winds developing. From 5 to 6 o'clock, the pressure fell 2 millimeters per hour; by 7 o'clock it suddenly showed violent changes, dropping sharply by 6 millimeters. At this time the wind was extraordinarily fierce, and damage immediately occurred at the observation platform, rendering the instruments unable to function as desired. According to the final observation made at 7:00 p.m., just before the observation platform was destroyed, the wind speed at that moment was 32.1 meters per second. Based on this, it can be estimated that around 8 o'clock it reached upwards of 40 meters, perhaps around 50 meters. Furthermore, a wind of 32 meters per second exerts a pressure of 108 kan per square tsubo; at 40 meters, 169 kan; and at 50 meters, 264 kan. Therefore, the wind force at 7:00 p.m. on that day exerted approximately 108 kan — equivalent to about 7 bales of rice — of pressure per tsubo, and even estimating the peak at 40 meters per second,
+
+**[Lower Left Section]**
+
+it should be understood that there was still a pressure of 169 kan — more than 10 bales of rice — per tsubo. When wind force of 160 or 200 kan blows against every tsubo of surface area, nothing could possibly withstand it. Despite the wind reaching such an unprecedented ferocity, the rainfall was comparatively small in quantity; specifically, from 10:00 a.m. to 2:00 p.m. on that day, 25 millimeters; from that time to 6:00 p.m., 16.3 millimeters; and from that time to 10:00 p.m., 31 millimeters. The greatest rainfall, from 6:00 to 10:00 p.m., amounted to over 5 koku, 5 to, and 8 shō per tsubo.
+
+From the above reports, one can understand how ferocious the wind force was. Next, showing the minimum barometric pressure readings: at Tadotsu, 724.4 mm at 9:00 p.m.; at Amino, 724.9 mm at 9:10 p.m. At Okayama, 728.2 mm was observed at 9:30 p.m.; at Kōbe, 747.7 mm at 9:00 p.m. At Matsuyama, the minimum pressure of 730.1 mm was recorded at 7:45 p.m. The greatest wind speed during this storm was, following Kōchi, that at Tadotsu: 52.5 meters per second, observed at 9:35 p.m. Others include: Okayama at 33.3 m/s, Matsuyama at 27.0 m/s, Akō at 23.4 m/s, and Amino at 23.0 m/s.
+
+**●Damage from the Storm in Tokushima Prefecture**
+
+In Tokushima City, the theater "Ebisu-za" (under construction) in Beiura-chō collapsed, producing one casualty. Other damage to buildings and trees within the city was not insignificant. The Yoshino River rose 1 jō 9 shaku, causing a temporary embankment of approximately 30 ken at Kajitsuka in Takashima Village to break; along the Yoshino River in the adjacent areas of Kami and Ōno villages, the water level reached 2 jō 6 shaku, and a temporary embankment of over 20 ken collapsed. The Katsuura River rose 1 jō, the Naka River 9 shaku, and the Ayui River 9 shaku, it is said.
+
+The damage across the prefecture included 11 dead, 34 injured, 15 bodies washed ashore, and 7 livestock deaths and injuries [remainder missing].

@@ -1,16 +1,50 @@
-○Disease Names
-○Wounds from blades　○Bruises　○Bone fractures　○Wounds from stepping on bamboo, wood, needles, or nails
-○Beriberi　○Gout　○Rheumatism　○Bone ulcers
-○Depression　○Abdominal masses　○Chronic fatigue　○Headache　○Dizziness
-○Hernia　○Gonorrhea　○Diabetes　○Uterine disorders　○Hemorrhoids
-○Rectal prolapse　○White and red vaginal discharge　○Venereal diseases　○Eczema
-○Burns　○Cold constitution　○Muscle and bone pain　○Leg dampness, wind, and bleeding
-○Joint pain　○Whitlow　○Scrofula　○Carbuncles and abscesses
-○Scabies　○Ringworm　○Stubborn ringworm　○Frostbite　○Night blindness
-○Eczema　○Cancerous sores　○Leprosy
+## List of Ailments [Treatable at This Hot Spring]
 
-《First》
-When beginning bathing treatment, for the first one to two days, limit to one to three times. As one gradually becomes accustomed to it, up to four or five times is acceptable, but even if it feels good, bathing excessively without distinction between day and night is very bad. Especially elderly people or those with weak constitutions should be even more careful. Those suffering from chronic ailments should continue bathing treatment over many days.
+- Sword/blade wounds (cuts)
+- Bruises and contusions
+- Fractures and sprains
+- Wounds from stepping on bamboo splinters, wooden splinters, needles, or nails
+- Beriberi (kakke)
+- Gout
+- Rheumatism
+- Suppurative bone disease (fukotsu-sō)
+- Depression / melancholic disorder
+- Abdominal masses and accumulations (shakushu)
+- Chronic debility and exhaustion (kyorō)
+- Headache
+- Dizziness/vertigo
+- Hernia / lower abdominal and scrotal pain (senki)
+- Gonorrhea / urinary infection (rinbyō)
+- Diabetes-like wasting thirst (shōkatsu)
+- Uterine disorders
+- Anal fistula
+- Rectal prolapse
+- White and red vaginal discharge (leukorrhea and abnormal discharge)
+- Chancre and inguinal bubo (venereal diseases)
+- Eczema / skin ulcers
+- Burns (from hot water or fire)
+- Sensitivity to cold / poor circulation
+- Muscle and bone pain
+- Leg ailments from dampness, wind, and rectal bleeding
+- Wandering abscesses (ryūchū / flowing abscesses beneath the skin)
+- Felon / whitlow (pyōsō; suppuration of the fingertip)
+- Scrofula (ruireki; swelling of the cervical lymph nodes)
+- Carbuncle / deep-seated abscess (yōso)
+- Scabies (hizen)
+- Ringworm of the scalp (shirakumo)
+- Ringworm / tinea (tamushi)
+- Chilblains (frostbite of extremities)
+- Night blindness
+- Hemorrhoids (shitsu)
+- Cancerous sores (gan-sō)
+- Leprosy / Hansen's disease (raibyō)
 
-《Second》
-To test whether hot spring bathing treatment is suitable or not, initially...
+---
+
+### [Section 1]
+
+When first beginning a course of bathing, limit yourself to one, two, or at most three sessions per day during the first day or two. Once the waters are found to agree with your constitution, up to four or five sessions per day may be considered appropriate. However, simply because the bathing feels pleasant, one must not bathe excessively at all hours of the day and night without restraint — this is highly inadvisable. Elderly persons and those with a weak constitution should take particular care in this regard. Those suffering from longstanding, chronic ailments should continue their bathing cure over many days.
+
+### [Section 2]
+
+To test whether the hot spring is suited to one's body and condition for a bathing cure, one should begin by…[text continues on next page]

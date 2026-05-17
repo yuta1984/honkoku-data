@@ -1,9 +1,8 @@
-○ Magnetic Force Observation Report (Ministry of Agriculture and Commerce)
+○Magnetic Force Observation Report (Ministry of Agriculture and Commerce)
 
-The Geological Bureau of the Ministry of Agriculture and Commerce conducted magnetic force observations along all major routes throughout the country at intervals of approximately 5-6 ri during the 15th and 16th years of Meiji. The purpose was to determine the true position of meridians necessary for topographic map adjustment based on magnetic needle deviation, and to study the relationship between magnetic force intensity and the rock types constituting the earth's crust. Particularly in regions where iron ore and iron-bearing rocks are located, this relationship is considered to be at its maximum.
+The Geological Survey of the Ministry of Agriculture and Commerce conducted magnetic force observations along the roads throughout the country during Meiji 15 (1882) and Meiji 16 (1883), at intervals of approximately 5 to 6 ri. The objectives were: to determine the true position of meridians necessary for adjusting topographical maps, based on the declination of compass needles; and to investigate the relationship between magnetic force strength and the composition of rocks forming the earth's crust. In particular, this relationship is considered most significant in areas where iron ore and iron-bearing rocks are found.
+The results of the observations are reported as follows.
 
-The results of these observations are hereby reported as follows:
+　(Note) The first row of the table, "Magnetic Needle Declination (Declination)," indicates the degrees by which the tip of a magnetic needle deviates westward or eastward from the true North Pole of the Earth. In our country, it is currently standard for the needle to deviate westward. The two characters indicating "westward deviation" have been abbreviated, and simply "(West)" is recorded.
 
-(Note) The first horizontal row in the table, Declination, indicates the degrees by which the north end of a magnetic needle deviates west or east from the earth's true north pole. However, in our country, it currently commonly deviates westward, so the two characters for "west deviation" are abbreviated and simply marked as (West).
-
-The second horizontal row, Inclination, refers to the north end of the magnetic needle or
+　The second row, "Magnetic Needle Inclination (Inclination)," refers to the northern end of the magnetic needle or— [continues on the next page]

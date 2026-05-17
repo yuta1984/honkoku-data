@@ -1,0 +1,18 @@
+[Right page]
+
+1,594,024 hawks ÷ 41,948　　　　　　　　Answer: 38 hawks
+5,190,696 rabbit ears ÷ 72,093　　　　　Answer: 72 rabbit ears
+2,517,615 dried fish ÷ 93,245　　　　　　Answer: 27 dried fish
+9,753,024 yellowtail fish ÷ 123,456　　　Answer: 79 fish
+7,620,832 strings of dried bonito ÷ 238,151　　Answer: 32 strings
+Same [i.e., dried bonito]: 32,932,116 pieces
+
+[Left page]
+
+　　　　　　　　　　　　÷ 392,049　　　Answer: 84 pieces
+18,520,315 strings of dried squid ÷ 430,705　　Answer: 43 strings
+74,166,658 cups of octopus ÷ 789,007　　Answer: 94 cups
+16,122,307 boxes of sea bream ÷ 948,371　　Answer: 17 boxes
+Same [i.e., sea bream]: 92,592,525 *kake* ÷ 1,234,567　　Answer: 75 *kake*
+
+　As shown in the preceding worked examples, multiplication is the inverse of division: when one takes the number in the answer and multiplies it by the divisor, one recovers the original number of the problem. These several exercises should be thoroughly reviewed.

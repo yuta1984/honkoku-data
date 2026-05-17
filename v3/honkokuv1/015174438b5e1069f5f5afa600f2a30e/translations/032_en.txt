@@ -1,0 +1,30 @@
+**Record of Earthquake Damage by Village, Takai and Minochi Districts, Shinano Province**
+
+Magistrate (Daikan):
+Takagi Seizaemon
+
+Total assessed yield of villages: 41,286 koku, 6 to, 3 sho, 2 shaku
+
+Total number of households: 6,872 / Total population: 21,211
+
+- Completely collapsed houses: 2,115
+- Collapsed storehouses (dozō): 333 locations
+- Half-collapsed houses: 782
+- Collapsed public notice boards (kōsatsuba): 12 locations
+- Collapsed storage sheds: 914 locations
+- Collapsed village granaries (gōzō): 22 locations
+- Shines and temples: 66 locations
+- Immediate deaths: 578 persons
+- Injured persons: 1,460
+- Horses killed immediately: 156 head
+
+Kōka 4th year, Year of the Sheep (1847), 4th month, 4th day
+
+Takagi Seizaemon
+
+Report on disruption to post-station relay services at Mure-juku and three other post stations along the Hokkoku Highway due to the great earthquake.
+</translation_ja>
+
+---
+
+**Note on document structure:** This page serves as a cover/summary sheet for the village-by-village damage register, followed by the heading of a separate report concerning disruptions to the post-station system.

@@ -1,0 +1,19 @@
+[Right page]
+
+　Then, multiply the second term (㈡) by the third term (㈢), and divide by the first term (㈠) to obtain the number sought. For this reason, this method is also called the "three-term method" (*sanritsu-hō*). A more detailed explanation follows below.
+
+○For example, when the price of three persimmons is 2 *sen*, and one wishes to find the price of 21 persimmons:
+　Set up the terms as "㈠ three items　㈡ 2 *sen*　㈢ 21 — how much?", as follows. On the abacus, place three in the first position on the left as ㈠; next, place its paired number, 2 *sen*, as ㈡; and in the next position ㈢, place 21 — which is paired with the quantity sought and is of the same kind as ㈠. Then multiply ㈡ (2 *sen*) by ㈢ (21) to get 42 *sen*. Divide by ㈠ (three), and the price is found to be 14 *sen*.
+　　(Note: "Same kind" [*dōrui*] means *sen* with *sen*, or persimmons with persimmons. "Paired numbers" [*taigō no kazu*] refers to combinations such as: the price of three items is 2 *sen*, or 14 *sen* paired with 21 persimmons.)
+
+○Next, when the price of three persimmons is 2 *sen*, and one asks how many persimmons there are for 14 *sen*:
+　Set up as "㈠ 2 *sen*　㈡ three items　㈢ 14 *sen* — how many?", placing
+
+[Left page]
+
+　2 *sen* at the first position on the left as ㈠; next, place its paired number, three items, as ㈡; and in the next position ㈢, place 14 *sen* (which is necessarily of the same kind as ㈠), paired with the quantity sought. Multiply ㈡ (three items) by ㈢ (14 *sen*) to get 42 *sen*. Divide by ㈠ (2 *sen*), and the number 21 is obtained.
+
+○Further, if there are 21 persimmons for 14 *sen*, and one asks how many there are for 2 *sen*:
+　Set up as "㈠ 14 *sen*　㈡ 21　㈢ 2 *sen* — how many?", placing 14 *sen* at the first position on the left as ㈠; place its paired number, 21, as ㈡; and in the next position ㈢, place 2 *sen* — a number of the same kind as ㈠ and paired with the quantity sought. Multiply ㈡ (21) by ㈢ (2 *sen*) to get 42 *sen*. Divide by ㈠ (14 *sen*), and the number is found to be three.
+
+○Further, if there are 21 persimmons for 14 *sen*, and one asks for the price of three persimmons:

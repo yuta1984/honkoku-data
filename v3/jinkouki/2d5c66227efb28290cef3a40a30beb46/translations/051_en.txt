@@ -1,0 +1,15 @@
+**[Right Page]** (Continuation of Section 32)
+
+　　　　　　　　　(Lower end　　　　　　　　one)
+
+There are thirty children. Fifteen of them are children of the first wife, and the remaining fifteen are children of the current wife. They are lined up in a circle as shown in the diagram on the right. The plan is to remove every tenth person, then every twentieth, and so on until twenty-nine have been removed, with the estate to be inherited by the last one remaining. It was the stepmother who arranged them in this formation. Now, as the counting proceeds, when fourteen of the first wife's children have been eliminated, one more round of counting would eliminate all the remaining first wife's children. At this point, the stepchild (the last remaining child of the current wife) says: "In just one more round, all the others will be eliminated — so from here, please start counting from my position." Unable to refuse, when counting resumes from the last remaining child of the first wife, all of the current wife's children survive, and only one of the first wife's children remains.
+
+**[Left Page]**
+
+**Section 33: The calculation of the descendants of mice**
+
+[Figure of mice]
+
+　January: Father [6 mice]　Mother [6 mice]
+　February: [From each of the 6 pairs from January] 12 (each)
+　March: [From each of the 12 from February] 72, 12 (each)

@@ -1,0 +1,54 @@
+[Right page]
+
+There is virtually no aspect of daily calculation — be it currency exchange rates, grain prices, or any other miscellaneous matter — that does not involve the method of proportion (*hirei-hō*). Therefore, once one has mastered the method of proportion and applies it, the technique becomes greatly simplified. For this reason, this volume begins by explaining the method of proportion. If beginning students study the principles of this technique thoroughly, they will find that more than half of all everyday calculations become manageable.
+
+　　　Explanation of the Method of Proportion
+
+　The method of proportion is a method of comparing things that follow the same rule (*nori*), and seeking an unknown quantity. It is therefore also called *dōku* ("same measure"). For example, if the price of one item is 2 *rin*, the price of two items is 4 *rin*, and the price of three items is 6 *rin*, then all of these are *dōku*. Likewise, if the price of one item is 1 *sen* 5 *rin*, the price of three items is 4 *sen* 5 *rin*, and the price of four items is 6 *sen*, these too are all cases where the same ratio is repeated, and therefore each is *dōku*. From such cases, one can compare and find the remaining unknown number. Conversely, however, if the price of one item is 2 *sen* and the price of two items
+
+[Left page]
+
+is 3 *sen*, then from one item to two items the ratio has *decreased*, and so this is not *dōku*. Therefore, the method of proportion must not be applied in such a case. This is illustrated in the diagram below.
+
+　The method of proportion uses two known paired numbers (*taigō no kazu*) to find the unknown third number through proportion, thereby obtaining one of the paired numbers. The procedure is as follows: place the quantity corresponding to the thing one wishes to find as the *third term* (㈢率); place the quantity of the same kind as the third term as the *first term* (㈠率); and place the quantity that is paired with the first term and belongs to the same kind as the thing to be found as the *second term* (㈡率).
+
+[Diagram — Upper (case where the price of one item is 2 rin):]
+
+　　　　Three items
+　One　One　One
+　　　　　　　　rin
+　　　　　　　　2　rin
+　　　One　One　　6
+　　　　　　　　rin
+　　　　　　　　2　rin
+　　　　　　One　　4
+　　　　　　　　rin
+　　　　　　　　2
+
+[Diagram — Middle (case where the price of one item is 1 sen 5 rin):]
+
+　　　　　Four items
+　One　One　One　One
+　　　　　　　　　　　　same
+　　　　　Three items
+　　　One　One　One
+　　　　　　　　　　　　same　　　sen
+　　　　　　　Two items　　　rin　6
+　　　　　One　One　　5
+　　　　　　　　　　　　same　sen
+　　　　　　　　　　　　　　4
+　　　　　　　　　　One item
+　　　　　　　　　　　　rin
+　　　　　　　　　　　　5
+　　　　　　　　　　　　sen
+　　　　　　　　　　　　1
+
+[Diagram — Lower (non-*dōku* example: one item = 2 sen, two items = 3 sen):]
+
+　　　Two items
+　One　One
+
+　　　　One item　sen
+　　　　　　　3
+　　　　　sen
+　　　　　2

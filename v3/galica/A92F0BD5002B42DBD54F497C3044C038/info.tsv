@@ -581,8 +581,8 @@ filename	status	image
 580.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f580/full/full/0/default.jpg
 581.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f581/full/full/0/default.jpg
 582.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f582/full/full/0/default.jpg
-583.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f583/full/full/0/default.jpg
-584.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f584/full/full/0/default.jpg
+583.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f583/full/full/0/default.jpg
+584.txt	initiated	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f584/full/full/0/default.jpg
 585.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f585/full/full/0/default.jpg
 586.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f586/full/full/0/default.jpg
 587.txt	default	https://gallica.bnf.fr/iiif/ark:/12148/btv1b10508007x/f587/full/full/0/default.jpg

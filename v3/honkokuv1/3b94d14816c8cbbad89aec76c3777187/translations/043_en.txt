@@ -1,26 +1,55 @@
-although there are some, all should be known not to be true stellar constellations.
-　The nomenclature presented above selects only the essential terms and adds a general excerpt. Although there are still many more terms in astronomy or calendar science beyond this, I omit them here. For detailed information, one should study each in its respective texts.
+(Continued from previous page)
+…though such cases exist, one should know that none of these are true stars or lunar mansions.
 
-Summary of Astronomical Nomenclature - End
+　The terminology presented above represents only a selection of the essential terms, to which brief explanatory notes have been added. Although there are many more terms in astronomy and calendar studies beyond these, they are omitted here. For detailed information, one should study each respective work directly.
 
-【Left page, upper section】
-Bunkindō Publishing Catalog 《Osaka Shinsaibashi-dōri Tōbutsu-machi, Kawachiya Tasuke》
-Elementary Learning《with katakana, large format, two volumes》《Although there are several editions in the world, they contain reading errors; now corrected to serve as a guide for elementary reading》
-Chinese Pronunciation Japanese Explanation, two volumes 《Records without omission the way of learning Chinese pronunciation, poetry, music, zither notation, and other daily common words》
-Master Hakuseki's Treatise on Spirits and Demons《hiragana book, two volumes》 《Discusses in detail various theories recorded in classics and histories, clearly debating their merits and demerits》
-Initial Questions for Learning 《By Master Shūnan, hiragana book, two volumes》
-《This book discusses the principles of learning, from debates on Confucianism, Buddhism, and Shinto to the rise and fall of Japanese and Chinese dynasties and the merits and demerits of various Confucian scholars, greatly resolving the confusion of beginning students; written to be easily readable even by children》
-Essential Guide to Astronomy《By Nishimura Enri, four volumes》 《Records in detail the profound principles of astronomy in katakana in an easily understandable manner》
-Classic of Filial Piety Supplementary Teacher, one volume 《Written so that even small children can read easily, with reading methods recorded in kana in the upper section, and detailed annotations in hiragana beside the main text explaining the meaning of sentences in an easily understandable way - a book that allows even unlearned and illiterate people to study without a teacher》
-Zi Hua Zi, complete two volumes    Book of Documents Commentary《Book of Documents with annotations, complete eight volumes》
+*Outline of Astronomical Terminology* — End
 
-【Left page, lower section】
-Illustrated Western Journey Tales 《By Master Shiba Kōkan of the Eastern Capital, self-illustrated, a travel record from Edo to Nagasaki》five volumes
-《This book records in hiragana with interspersed illustrations the strange tales, curious theories, and observations from the master's travels, including interesting accounts of western sea whaling, Nagasaki Chinese quarters, etc.》
-Revised Naniwa-maru six volumes 《Osaka city district name directory, merchant locations, famous places throughout the country, and everything else recorded without omission》
-Osaka Shrine and Temple Pilgrimage, small book one volume    Osaka Temple and Shrine Pilgrimage Record, one volume
-Osaka Famous Places Solo Guide《small book, one volume》    Shitennō-ji Temple Complex Record, one volume
-Newly Selected Ise Detailed Record, one volume 《Records in detail travel routes with distances, famous places, historical sites, and shrine pilgrimages》
-Double-sided Chronicle《folding book, one volume》《The finest hiragana chronicle recording in detail the events of each year from the age of gods through royal eras, from the beginning of era names to the present time》
-Great Chronicle Extended Record《folding book, one volume》《Arranges Japanese and Chinese chronologies above and below, marking historical periods in red and black ink for easy distinction, detailing the rise and fall of dynasties, strange events, anomalies, etc., recording the periods of the Twenty-one Histories, military chronicles, Twenty-one Dynasty Collections, etc. - a comprehensive Japanese-Chinese chronological record serving scholars' essential needs》
-Swallow Stone Miscellany, six volumes 《A collection of essays by Master Kyokutei Bakin, an interesting reader that debates Japanese and Chinese popular theories》
+---
+
+**Catalog of Books Published by Bunkindō**
+(Kawachiya Tasuke, Karamonochō, Shinsaibashi, Osaka)
+
+· *Xiaoxue* [Elementary Learning] (with katakana readings, 2 large volumes)
+　Although several editions exist in the world, many contain errors in reading. This edition has been corrected to serve as an aid for basic reading practice.
+
+· *Tōin Wage* [Japanese Glossary of Chinese Pronunciation] (2 volumes)
+　Records without omission the methods of learning Chinese pronunciation, poetry, musical notation for the koto, and other words in daily use.
+
+· Master Hakuseki's *Kishinjron* [Treatise on Demons and Spirits] (hiragana edition, 2 volumes)
+　Discusses in detail the various theories found in the classics and histories, and argues clearly about their merits and faults.
+
+· *Igaku Shomon* [First Questions on Learning] (by Master Shūnan, hiragana edition, 2 volumes)
+　This work thoroughly discusses the principles of learning, debates on Confucianism, Buddhism, and Shinto, the rise and fall of successive dynasties in Japan and China, and the strengths and weaknesses of various Confucian scholars, greatly resolving the confusion of beginning students. Written so that even children can read it easily.
+
+· *Tengaku Shiyō* [Essentials of Astronomy] (by Nishimura Tōri, 4 volumes)
+　Written in katakana, recording the profound principles of astronomy in an easy-to-understand manner.
+
+· *Kōkyō Keiten Yoshi* [Teacher's Companion to the Classic of Filial Piety] (1 volume)
+　Reading guides in kana are provided in the upper column to make it easy even for young children to read, while detailed commentary in hiragana is placed beside the main text to make the meaning of the passages easy to understand. Even those without formal education or literacy can study without a teacher.
+
+· *Shikwashi* (2 complete volumes)　　*Shōkyō Kōgi* [Lectures on the Book of Documents] (with commentary, 8 complete volumes)
+
+---
+
+· *Gazu Saiyūdan* [Illustrated Account of Travels to the West] (by Master Shiba Kōkan of Edo, self-illustrated, 5 volumes)
+　A travel account from Edo to Nagasaki. In this work, the master records the curious tales and rare accounts from the places he visited, written in hiragana with illustrations. It records interesting subjects such as whale hunting in the western seas and the Chinese quarter in Nagasaki.
+
+· *Kaiseī Naniwamaru* [Revised Naniwamaru] (6 volumes)
+　A comprehensive listing of town names in Osaka, directories of merchants, famous places throughout the province, and all other matters, recorded without omission.
+
+· *Osaka Miyatera Meguri* [Tour of Osaka Shrines and Temples] (small volume, 1 volume)　　*Osaka Jisha Junpaiki* [Record of Pilgrimage to Osaka Shrines and Temples] (1 volume)
+
+· *Osaka Meisho Hitori Annai* [Self-Guide to Famous Places in Osaka] (small volume, 1 volume)　　*Shitennōji Garan Ki* [Record of Shitennōji Temple Complex] (1 volume)
+
+· *Shinsen Ise Saiken Ki* [New Detailed Guide to Ise] (1 volume)
+　Records in detail road distances, famous places, historical sites, and shrine pilgrimages along the route.
+
+· *Ryōmen Nendaiki* [Two-Sided Chronicle] (accordion-fold book, 1 volume)
+　The foremost hiragana chronicle, recording in detail the notable events year by year from the Age of the Gods through the imperial reigns, from the first year names up to the present.
+
+· *Taisei Nendai Kōki* [Comprehensive Grand Chronicle] (accordion-fold book, 1 volume)
+　Records Japanese and Chinese history arranged in upper and lower columns, distinguished by red and black ink to make the chronology easy to follow. Records in detail the rise and fall of successive dynasties, remarkable events, and strange occurrences, covering the eras of the Twenty-One Histories, military chronicles, and the Twenty-one Imperial Poetry Anthologies. An overview chronicle of Japan and China indispensable for scholars.
+
+· *Enseki Zasshi* [Miscellany of Flint and Stone] (6 volumes)
+　A collection of essays by Master Kyokutei Bakin, discussing popular beliefs and traditions of Japan and China — an entertaining read.

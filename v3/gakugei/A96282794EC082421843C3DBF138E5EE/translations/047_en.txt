@@ -2,26 +2,26 @@
 
 441,910 horse-drawn carriages ÷ 107　　　　Answer: 4,130 carriages
 9,006 rickshaws ÷ 114　　　　　　　　　　Answer: 79 rickshaws
-36,462 *hari* (bows) ÷ 118　　　　　　　　Answer: 309 bows
-4,428 *suji* (arrows) ÷ 123　　　　　　　　Answer: 36 arrows
-8,643 *hari* (drums) ÷ 129　　　　　　　　Answer: 67 drums
-26,910 *hiki* (horses) ÷ 138　　　　　　　Answer: 195 horses
-15,996 *tō* (horses) ÷ 172　　　　　　　　Answer: 93 horses
-10,927 *jō* (horses ridden) ÷ 223　　　　　Answer: 49 horses
-9,010 *suji* (bridle ropes) ÷ 265　　　　　Answer: 24 bridle ropes
-6,984 *gu* (bridle rope sets) ÷ 291　　　　Answer: 24 sets
-21,556 *koshi* (swords) ÷ 217　　　　　　Answer: 68 swords
+36,462 bows ÷ 118　　　　　　　　　　　　Answer: 309 bows
+4,428 arrows ÷ 123　　　　　　　　　　　　Answer: 36 arrows
+8,643 drums ÷ 129　　　　　　　　　　　　Answer: 67 drums
+26,910 horses ÷ 138　　　　　　　　　　　Answer: 195 horses
+15,996 horses ÷ 172　　　　　　　　　　　Answer: 93 horses
+10,927 horse-rides ÷ 223　　　　　　　　　Answer: 49 horses
+9,010 bridle-reins ÷ 265　　　　　　　　　Answer: 24 reins
+6,984 sets of bridle-reins ÷ 291　　　　　Answer: 24 sets
+21,556 swords ÷ 217　　　　　　　　　　　Answer: 68 swords
 
 [Left page]
 
 17,578 swords ÷ 374　　　　　　　　　　　Answer: 47 swords
-40,228 *koshi* (quivers) ÷ 452　　　　　　Answer: 89 quivers
-51,057 *chō* (guns/cannon) ÷ 549　　　　　Answer: 93 guns
-119,105 *sha* (gun carriages/artillery) ÷ 581　Answer: 205 gun carriages
-45,806 *dai* (artillery platforms) ÷ 619　　Answer: 74 platforms
-24,016 *kuchi* (saddles) ÷ 632　　　　　　Answer: 38 saddles
-40,068 *kuchi* (horse bits) ÷ 742　　　　　Answer: 54 bits
-48,050 *hai* (military swords) ÷ 775　　　Answer: 62 swords
-40,272 *soku* (*abumi*/stirrups) ÷ 839　　Answer: 48 pairs
-20,194 *kake* (stirrup hangers) ÷ 878　　　Answer: 23 hangers
-51,352 *kake* (saddle covers) ÷ 917　　　　Answer: 56 covers
+40,228 *utsubo* (quivers) ÷ 452　　　　　Answer: 89 quivers
+51,057 guns ÷ 549　　　　　　　　　　　　Answer: 93 guns
+119,105 artillery pieces ÷ 581　　　　　　Answer: 205 artillery pieces
+45,806 artillery carriages ÷ 619　　　　　Answer: 74 carriages
+24,016 saddles ÷ 632　　　　　　　　　　　Answer: 38 saddles
+40,068 horse bits ÷ 742　　　　　　　　　Answer: 54 horse bits
+48,050 sabers ÷ 775　　　　　　　　　　　Answer: 62 sabers
+40,272 stirrups ÷ 839　　　　　　　　　　Answer: 48 stirrups
+20,194 stirrup straps ÷ 878　　　　　　　Answer: 23 straps
+51,352 saddle covers ÷ 917　　　　　　　Answer: 56 saddle covers

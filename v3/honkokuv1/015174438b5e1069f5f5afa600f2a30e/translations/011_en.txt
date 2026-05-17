@@ -1,0 +1,30 @@
+## Record of Earthquakes, Volcanic Eruptions, and Rumblings Throughout Japan Since the Lord's Entry into the Domain
+
+| Date | Event |
+|------|-------|
+| Bunsei 11 (1828), 11th month | Great earthquake in Echigo Province |
+| Kōka 4 (1847), 3rd month, 24th day | Great earthquake in Shinshū (Shinano Province) |
+| Kansei 11 (1799), 1st month | Earthquake at Odawara |
+| Tenshō 12 (1584), 11th month | Earthquake at Fushimi Castle |
+| Genna 3 (1617) | Earthquake at Nikkō |
+| Kansei 10 (1798), 7th month | Earthquake in Kyoto |
+| Ansei 1 (1854), 11th month | Great earthquake in Mino, Ise, and the western provinces |
+| Ansei 1 (1854), 11th month, 4th day | Earthquake in Kazusa and Shimōsa Provinces |
+| Ansei 1 (1854), 11th month, 4th day | Great earthquake in Suruga, Shinano, Mikawa, Kishū, Tosa, and Harima Provinces |
+| Kan'ei 2 (1625), 2nd month | Rumblings of the mountains in Ōshū (Mutsu Province) |
+| Genroku 16 (1703), 10th month | Great earthquake in the Eight Kantō Provinces |
+| Bunka 1 (1804) | Kisakata in Dewa Province submerged/buried by earthquake |
+| Kaei 7 (1854), 11th month, 4th day | Great earthquake across the provinces |
+| Kan'ei 4 (1627), winter | Great earthquake in the Kantō region |
+| Kaei 6 (1853), summer | Great earthquake at Odawara |
+| Ansei 1 (1854), 11th month, 4th day | Great earthquake in Sesshū, Tōshū, Kōshū, and Mikawa Province |
+| Ōei era (1394–1428) | Rumblings of heaven and earth |
+| Tenmei 3 (1783) | Eruption of Mt. Asama (75 years ago from time of writing) |
+| Hōei 4 (1707) | Eruption of Mt. Fuji (152 years ago from time of writing) |
+| Kansei 4, year of the Rat (1792) | Volcanic eruptions of the mountains around Hizen Shimabara |
+| Ansei 2 (1855), winter, 10th month, 2nd day, night | Great earthquake in Edo, affecting a radius of ten ri |
+| Tenshō 7 (1579) | Great earthquake and large landslide at Imagiri in Tōtōmi Province |
+| Kanpō era (1741–1744) | Eruption and great earthquake at Ōshima, Matsumae |
+| (Date not specified) | Eruption of Sakurajima and great earthquake in Satsuma Province; many people died; 18 villages of houses destroyed |
+
+**Total: 24 occurrences (of earthquakes, rumblings, and volcanic eruptions)**

@@ -1,17 +1,17 @@
-General Principles
+【Editorial Notes (Hanrei)】
 
-1. This book is compiled by extracting and translating the section on Japanese mineral springs from the French book titled "De la Nature" written by Dr. Goeltz, an instructor at the Yokohama Pharmaceutical School, and by inserting materials extensively excerpted from other books. Although the mineral springs mentioned in the book number over 500 cases, it is still not complete. Moreover, those that have undergone detailed testing are extremely few compared to the total number of mineral springs nationwide, so the purpose is to gradually add and revise content. Please do not fault its omissions and errors.
+1. This volume has been compiled by extracting and translating the section on Japanese mineral springs from a French work entitled "De la Nature," authored by Dr. Geltzer, instructor at the Yokohama Medical Assay Office (Shiyakujō), and supplementing it with material excerpted from a wide range of other sources. Although the mineral springs listed in this volume number more than five hundred entries, the work is not yet complete. Furthermore, since those springs that have undergone detailed chemical analysis are extremely few compared to the total number of mineral springs throughout the country, it is the intention of the editor to make gradual additions and revisions. The reader is kindly asked not to reproach the work for its roughness and omissions.
 
-1. All temperatures shown in the book use the Fahrenheit scale.
+2. All temperatures indicated in this volume are given in Fahrenheit (Fahrenheit scale).
 
-1. The purpose of attaching symbols to each spring name is to certify the most reliable sources and to provide reference for readers.
+3. The reason symbols are affixed one by one above the names of springs and the like is to certify that the sources are the most reliable, and at the same time to serve as a reference for readers.
 
-1. The symbol "ゲ" indicates the opinion of Dr. Goeltz, instructor at Yokohama Pharmaceutical School
-1. "ラ" indicates surveys by Benjamin Smith Lyman, American geologist and mining engineer
-1. "マ" indicates the opinion of Dr. Georg Martin, German instructor at Tokyo Pharmaceutical School
-1. "ド" indicates the opinion of Bergerus van Dowalz, instructor at Osaka Pharmaceutical School
-1. "リ" indicates the opinion of instructor Little
-1. "シ" indicates therapeutic effects noted by Siebold
-1. "地" indicates excerpts from "Essentials of Japanese Geography"
-1. "一" indicates excerpts from "Prefecture Administrative Overview"
-1. "雑" indicates surveys by various other scholars
+— The symbol「ゲ」refers to the account of Dr. Geltzer, instructor at the Yokohama Medical Assay Office.
+— 「ラ」refers to items based on the surveys of Benjamin Smith Lyman, an American geologist and mining engineer.
+— 「マ」refers to the account of Dr. G. Martin, a German national serving as instructor at the Tokyo Medical Assay Office.
+— 「ド」refers to the account of B. W. Doward(s), instructor at the Osaka Medical Assay Office.
+— 「リ」refers to the account of Mr. Little, instructor at the Medical Assay Office.
+— 「シ」refers to items to which Mr. Siebold has appended notes on therapeutic effects.
+— 「地」refers to items excerpted from the *Nihon Chishi Teiyō* (Compendium of Japanese Geography).
+— 「一」refers to items excerpted from the *Chiken Ichiranhyō* (Prefectural Overview Table).
+— 「雑」refers to items based on the surveys of two or three other individuals.

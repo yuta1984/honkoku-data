@@ -1,0 +1,21 @@
+[Continued from previous page] ...the degrees to which the south end tilts below the horizontal line; in the Northern Hemisphere, as one approaches the magnetic north pole, the north end of the needle increasingly points downward. The phrase "north end pointing downward" is abbreviated, and simply recorded as (North).
+
+The third horizontal row, Horizontal Intensity of Magnetism, refers to the degree of magnetic response in the direction parallel to the horizontal plane of the ground. The figures listed in this table follow the unit (Unite) defined by Gauss.
+
+The fourth and subsequent horizontal rows contain the names of the provinces, counties, cities, and towns where observations were conducted. As these were registered in the order in which operations proceeded along all major routes throughout the country, there are some places where entries from different provinces and counties overlap and intermingle. Please refer to the table accordingly. Furthermore, observations conducted at various locations within Tokyo Prefecture have been specifically recorded.
+
+　　　Table of Magnetic Force Observation Results
+
+| Magnetic Declination (West) | Magnetic Inclination (North) | Horizontal Magnetic Intensity | Location |
+|---|---|---|---|
+| 4° 14′ 9 | 49° 34′ 0 | 3.0384 | Tokyo, summit of Mt. Atago |
+| 3° 58′ 9 | 50°  5′ 3 | 2.9183 | Same, castle tower platform within the domain castle |
+| 4°  8′ 9 | 49° 36′ 7 | 2.9484 | Same, Yayoigaoka, Hongo |
+| 4° 20′ 2 | 49° 33′ 1 | 2.9949 | Same, within Aoyama Cemetery |
+| 5° 30′ 4 | 56° 45′ 9 | 2.6876 | Oshima, Kameda, Hakodate |
+| 5° 21′ 6 | 54° 48′ 6 | 2.7940 | Mutsu, Higashi-Tsugaru, Aomori |
+| 5° 31′ 1 | 55°  1′ 5 | 2.7690 | Same, same, Koминато (Kokou) |
+| 5° 14′ 1 | 54° 51′ 0 | 2.7733 | Same, Kamikita, Noheji |
+| 5° 11′ 6 | 54° 47′ 8 | 2.7682 | Same, same, Shichinobe (Shichinohe) |
+| 4° 53′ 2 | 54° 23′ 0 | 2.7764 | Same, Sannohe / Gonohe |
+| 5° 27′ 1 | 54° 39′ 9 | 2.7533 | Same, same, Sannohe |

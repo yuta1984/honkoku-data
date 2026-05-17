@@ -1,0 +1,73 @@
+## Destroyed Embankments
+
+According to a report submitted by the Governor of Gifu Prefecture to the Home Ministry, the embankments whose destruction has been confirmed to date as a result of the recent flood damage are as follows. Furthermore, it is reported that the areas surrounding the damaged sections are completely cut off from traffic. (July 24th)
+
+- Nagara River (Sugō Village, Atsumi District): breach of 160 ken
+- Same (Hino Village, same district): breach of 100 ken
+- Same (Terada Village, Katakata District): breach of 65 ken
+- Same (Kawado Village, same district): breach of 160 ken
+- Kanakusa River (Takada Village, Tagi District): breach of 10 ken
+- Same (Yōrō Village, same district): breach of 10 ken
+
+---
+
+The following letter was sent by Representative Ōno of Gifu Prefecture to Mr. Minai, Secretary of the Kokumin Kyōkai (National Association), and is sufficient to convey a glimpse of the disaster's severity. It is therefore reproduced here:
+
+"As I reported to you earlier by telegraph, this flood disaster extends across both Nō [Mino] and Bi [Owari] Provinces, affecting a population of 288,390 people, 60,928 households, and an area of 67... [chō of farmland]. The breadth of its scope is unprecedented, and not a single river embankment retains its original form. Mountains have completely collapsed (what is known as 'yamanuke,' or mountain slides). As of today, there is no longer any strategy that can be implemented, and the prefectural office and all government agencies are engaged solely in the relief of destitute inhabitants. The damage in Hida appears to be considerably severe, but as all means of communication have been severed, even as of today there is no way of knowing the details. As for Mino Province, which still resembles a vast lake, a thorough investigation is naturally impossible, and what has been ascertained up to today is as shown in the attached table (however, this pertains only to embankments; damage to roads, drainage channels, and mountain collapses has not yet been determined). I send this for your reference.
+
+Furthermore, the number of destitute people who received emergency food relief (炊き出し, takidashi) over the two to three days following the disaster reached approximately 180,000 people per day. From this, please infer the extent of the devastation and the breadth of the affected area.
+
+Despite such circumstances, the Gifu floods are treated as if they were an ordinary occurrence, and they fail to attract the attention of people in other prefectures, which is truly regrettable. I myself witnessed the scene firsthand and was utterly shocked. As this was written in the midst of great confusion, I ask for your forgiveness regarding the disorderly writing. I have made a separate report to Viscount Shinagawa, and I humbly request that you also make an appropriate report to him. Respectfully yours."
+
+**Summary of damage:**
+- Total damaged locations: 244 sites　　Total length affected: 20,820 ken
+  - Of which, breaches: 136 sites　　　Of which, breach length: 14,026 ken
+  - Other damage (erosion etc.): 108 sites　　Other damage length: 6,794 ken
+- Damaged agricultural land: 1,235 chō, 5 tan, 7 se, 22 bu
+
+---
+
+The following is a detailed report by Mr. Endō Hayata, dispatched from Takegahana-machi, Nakashima District, Gifu Prefecture:
+
+Regarding the actual conditions of damage in Gifu Prefecture, the first area where I set foot among the flood-stricken areas — based on what I witnessed personally and what was told to me by prefectural officials — it is as follows: The extent of damage exceeds expectations, as previously reported by telegraph. Of the 24 districts under the prefecture's full jurisdiction, only the two districts of Ena and KamiiShizu have been spared even minor damage. Setting aside the minor damage in Toki District, and the as-yet-unknown situation in the three Hida districts and Kaji District, the remaining 17 districts are all at a glance devastatingly affected disaster areas. Investigating the causes: the districts of Atsumi, Haguri, and Nakashima were affected by the Kiso and Nagara Rivers; the two districts of Kaisai and Anpachi by the Kiso, Nagara, and Ibi Rivers; the districts of Kamo and Kakamu by the Kiso River; the districts of Mugi, Yamagata, Katakata, Motosu, and Ōno by the Nagara River; and the districts of Ikeda, Fuwa, Tagi, and Shimoisizu by the Ibi River — all brought to calamitous conditions through flooding and overflowing.
+
+Among these districts, I traveled today via Gifu to inspect the Masaki Wajū, Kuwabara Wajū, Ashichika Wajū and others, which span the two districts of Haguri and Nakashima, where damage has been particularly severe. I shall now record the conditions as follows:
+
+---
+
+### Embankment Breaches
+
+Before reporting on the conditions of embankment breaches, there is one matter I must first explain. In the districts and villages of Gifu Prefecture — particularly in Mino Province — there exist, in addition to the standard administrative divisions, consolidated districts formed by the cooperative union of several towns and villages. These districts were formed by the inhabitants of those towns and villages to defend against river flooding, from which they are almost unable to escape some degree of damage every year. The grouping of several towns and villages enclosed within a single ring of embankments is called a "wajū" (ring-embankment community). The Masaki Wajū that I inspected was formed by the union of fourteen villages, possessing more than 70,000 chōbu of farmland along the great embankment of the Kiso River. In this flood, the water level of the Kiso River increased by a full ten-odd jō [approx. 30+ meters], and since the 21st, the water pressure increased moment by moment, and reports came that the embankment protecting the Masaki Wajū was in increasingly grave danger. Accordingly, the people within the wajū all abandoned their sleep and meals, day and night, to work at preventing the breach — but to no avail. At 4 o'clock in the morning of the following day, the 22nd, the embankment at Ōura Village finally gave way for approximately 70 ken, and the floodwaters of the Kiso River rushed in with terrifying waves. Within moments, the fourteen villages of the Masaki Wajū were submerged; in particular, the houses facing the breach were for the most part swept away, and those that barely survived were visible only as faint rooftops above the surging muddy current. Throughout the rest of the wajū, the scene was as though one were gazing upon a lake, with what appeared to be small islands scattered here and there — these were the upper portions of houses that had escaped being swept away, together with the thickets surrounding them. Among these, dozens of rescue boats — some flying police insignia, others bearing the markings of volunteers — rowed in all directions, engaged in searching for drowned victims and retrieving lost property. By the afternoon of that day, the water pressure had begun to somewhat subside, but near the breach, muddy water continued to surge in with waves, and it was impossible to imagine when it would finally recede completely.
+
+The Masaki Wajū had thus been transformed into a lake in a single night. Yet the raging floodwaters of the Kiso River, still full of momentum, struck and breached the embankment of the adjacent Sakagawa River, then advanced further to also destroy the embankments of the Kuwabara Wajū. As a result, the several towns and villages within that wajū were likewise instantly converted into a lake. Even Takegahana-machi, where I had sought lodging for the night, was in large part still inundated, with water in the houses generally rising several shaku above the floorboards — a scene too wretched to behold.
+
+---
+
+### Deaths and Swept-Away Houses
+
+Until this morning, the number of deaths within the aforementioned two wajū areas was not clearly established. Since everyone had been thrown into panic when struck by the flood, one person would say, "The old man next door was clinging to the eaves and crying out for rescue — he probably died," while another would say, "The girl out back was too clumsy climbing onto the roof — there's no hope for her." Based on such accounts, if one were to estimate the death toll, it seemed it would be considerable even from just the two wajū areas. Yet, unexpectedly, the old man who had been crying out had managed to cling to a tree stump, and the young girl who had struggled to reach the roof had already been pulled aboard a rescue boat, and so the death toll continued to diminish, standing as of today at no more than approximately ten persons (of whom four or five bodies were discovered today). In contrast, the number of swept-away houses continues to increase as the waters gradually recede and surveys become more feasible, where they had initially been impossible due to the lake-like conditions.
+
+---
+
+### Survey by the Haguri-Nakashima District Office
+
+According to the survey conducted by the district office at 8 o'clock this evening, the approximate damage figures within its jurisdiction are as follows:
+
+- Affected towns and villages: 2 towns and 56 villages
+- Deaths by drowning or crushing: unknown
+- Swept-away houses: approximately 450
+- Flooded houses: approximately 8,000
+- Recipients of emergency food relief: approximately 50,000 people
+- Emergency food relief stations: 17 locations
+
+---
+
+### Destruction of Roads and Soaring Prices
+
+The well-maintained roads of Gifu Prefecture — known throughout as a point of local pride for their accessibility and regular upkeep — suffered damage of varying degrees on all routes without exception in this flood disaster. Particularly severe was the damage to the prefectural and rural roads connecting Hida to Etchū Province [modern Toyama]. In recent days, prefectural and district officials have split up and traveled to each town and village, urging residents to carry out emergency repairs, so that between Gifu and Takayama it has become barely possible to pass by rickshaw. However, the prefectural and rural roads between Takayama and Toyama still cannot accommodate the full passage of wheeled vehicles and horses. As a result, in a town such as Takayama, which had long depended on Etchū for its supply of rice, salt, and other major daily necessities, commodity prices have skyrocketed dramatically. A 4-to bale of unpolished rice, which had been 4 yen 20–30 sen before the flood, is now being quoted at over 5 yen with no stock available; salt, which had been 3 sen per shō, has risen to 6 sen; and kerosene, which had been 15–16 sen per shō, has risen to 27–28 sen. All other prices have likewise nearly doubled from pre-flood levels, causing indescribable hardship for the poorer inhabitants.
+
+---
+
+### Damage in Yoshiki District
+
+According to current surveys, of the three districts of Hida, the one that suffered the greatest damage appears to be Yoshiki District. And based on what I personally witnessed, even within that district, the area that suffered the most damage was along the left and right banks of the Miya River, which is said to be the flattest land in the entire province. In a village such as Kotakari on the left bank, there were three sites of mountain collapse, and setting aside the embankment breaches and road destruction…[continued]

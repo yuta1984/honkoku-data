@@ -1,0 +1,26 @@
+**[Right Page]**
+
+　　　　Since the offspring also give birth, the parents and offspring together become 98 mice.
+　　　　When they give birth once a month in this manner, if one asks
+　　　　how many mice there will be over the course of one year:
+　〇Total: 27,680,025,074,402 mice [2 jō, 7 jo, 6 gai, 8 kei, 2 chō, 5 oku, 74,402]
+　　　As the method: multiply 2 mice by 7, twelve times, and you will arrive at the above number.
+
+　※When asked how long a line these mice would form if laid end to end:
+　〇Length: 788,654 ri, 23 chō, 20 ken, 8 sun
+　　　1 ri = 36 chō　　　　1 chō = 60 ken
+　　　1 ken = 6 shaku 5 sun　　　　Length of one mouse = 4 sun
+
+**[Left Page]**
+
+Problem 34: Doubling One Unit Each Day
+
+　※Starting with a single poppy seed and doubling it every day,
+　　※after 30 days: (assuming 4,000,000 seeds fit in 1 shō)
+　　　Total becomes 1 koku, 3 to, 4 shō, 2 gō, 1 shaku, 7 sai, 7 satsu, 2 kei, 8 soku
+　　　　　The above number is:
+　　　　　　530,687,090,912 seeds
+　※Starting with 1 mon in coins and doubling every day,
+　　※after 30 days: (calculating at the rate of 96 mon per 100 mon, i.e., accounting for exchange fees)
+　　　Total: 559,240 kan, 532 mon, including exchange fees (mokusen)
+　　　　　The exchange fee (mokusen) amounts to 22,369 kan, 620 mon
