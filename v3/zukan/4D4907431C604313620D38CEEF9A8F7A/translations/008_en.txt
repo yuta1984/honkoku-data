@@ -1,60 +1,55 @@
-【Horsetail, Field Horsetail】
-Spring of Metal Snake year　Vegetable category
+## Horsetail / Field Horsetail (Tsukushi / Sugina — *Equisetum arvense*)
 
-Heavenly flower vegetable (Tenkuwasai)　Tsukutsukushi
-Earth brush
+Spring of Kanoto-Mi (1821) [Seal] Vegetables
 
-Yamato Honzo Appendix
-Grows in mountain valleys and wild areas. In spring month, first produces flowers. Like a brush.
-Separately produces stems and leaves. Named sugi-na (field horsetail). Resembles cedar. Chinese name
-not yet clear. Not yet seen in Chinese books. Perhaps
-it is said that in the Bencao Gangmu appendix to wood thieves there is "wen jing" (scouring rush).
-One name is "connecting grass." Could this be tsukushi (horsetail)?
-And so on.
+　Tenkwasai (天花菜) — Tsukutsukushi
+　Tsukushi (土筆 / horsetail sporophyte)
 
-Honzo Ikka-gen says
-Sugi-na has eleven names: ox lip, severed, lovesickness grass, heartbreak grass,
-sorrowful wife grass, frost grass, dormitory sand question, pressing continuing grass,
-water drain flower, brush-head vegetable. The name "water drain" is said to be incorrect.
-My consideration:
-The leaves are called sugi-na, the flowers are called tsukushi.
-Ephedra is male, field horsetail is female, and so on.
+From the appendix of the *Yamato Honzō*:
+　It grows in mountain valleys and fields. In spring, it first sends up flower-like stalks (spore-bearing shoots) resembling writing brushes. Separately, it produces stems and leaves, which are called *sugina* (杉菜, cedar grass), because they resemble cedar. The Chinese name is not yet known, and it has not been found in Chinese texts. Some say that in the *Bencao Gangmu* (*Honzō Kōmoku*), under the entry for *mokuзoku* (木賊, horsetail), there is a supplementary entry called *Wenjing* (問荊), also known as *Setsuzokusō* (接続草, "joint-connecting herb"), which may perhaps be the same as *tsukushi*.
 
-【Camellia】
-Flowering tree
+From the *Honzō Ikkagen* ("One Man's Views on Materia Medica"):
+　*Sugina* (蕒) has eleven alternative names: Gyūshin (牛脣), ■Dan, Sōshisō (相思草), Danchōsō (断腸草), Shūfusō (愁婦草), Sōsō (霜草), Ryōsamon (寮沙問), Anzokusō (按続草), Suishaка (水瀉花), and Hittōsai (筆頭菜). The name "Suisha" (水瀉) is said to be erroneous.
 
-Camellia flower
-Recorded in various books
-Mandala tree
-Mountain tea flower
+The author's own view:
+　The leaves are called *sugina* (杉菜) and the flower (spore-bearing stalk) is called *tsukushi* (土筆). Some say that *maōu* (麻黄, ephedra) is the male and *sugina* is the female.
 
-【Hirado Azalea】
-Flowering tree
-Spring day of Metal Dragon year
+---
 
-Wakan Sansai Zue, Poisonous Plants section says:
-Hirado azalea
-Ryukyu azalea
-Upon consideration, Hirado is a place name in Kyushu
-Originally came from Ryukyu. Named after this.
-White-flowered ones are called Ryukyu, purple-
-flowered ones are called azalea.
+## Camellia (*Tsubaki* — *Camellia japonica*)
 
-【Kirishima Azalea】
-Wakan Sansai Zue, Poisonous Plants section says:
-Yingshan hong (Kirishima)
-Red azalea
-Commonly called Kiri-shi-ma
+[Seal] Flowering trees
+　Recorded in various texts
 
-Bencao Gangmu: Mountain azalea (mountain pomegranate, cuckoo flower)
-Yingshan hong (red azalea) are considered one plant.
-Now separately considered as two plants.
+　Mandaraju (曼荼羅樹)
+　Sazanka (山茶花 — *Camellia sasanqua*)
 
-Zoho Tashiki-hen, Poisonous Plants section says:
-Mountain azalea (Santekichoku) Japanese name: now upon consideration, tsu-shi Additional name: red azalea
-Mountain pomegranate (Sekiryu) Yingshan hong (Yosanko) Cuckoo flower
+---
 
-Upon my consideration, that the herbal classics treat mountain azalea and yingshan hong as one plant is
-not without basis. That they are one plant can be known from the Tashiki-hen. Yingshan hong has
-deep red flowers, when blooming they spread across the entire mountain. Is this the source of the name? Is it
-a separate variety of mountain azalea that later had its different names separated into one name? Still requires further study of the books.
+## Hirado Azalea (*Hirado Tsutsuji* — *Rhododendron* × *mucronatum* 'Hirado')
+
+[Seal] Flowering trees
+　Spring of Kōshin (1820)
+
+The *Wakan Sansai Zue* (Illustrated Encyclopedia of Japan and China), in the section on poisonous plants, states:
+　Hirado Tsutsuji (平戸躑躅)
+　　Ryūkyū Tsutsuji (琉球躑躅)
+　
+　It is noted that Hirado is a place name in Kyushu. The plant originally came from the Ryukyu Islands, hence the name. The white-flowered variety is called *Ryūkyū* (Ryukyu azalea), and the purple-flowered variety is called *tsutsuji*.
+
+---
+
+## Kirishima Azalea (*Kirishima Tsutsuji* — *Rhododendron kiusianum* × *kaempferi*)
+
+From the *Wakan Sansai Zue*, in the section on poisonous plants:
+　Yōsankō (映山紅 — "red that reflects off the mountains")
+　　Kō-tsutsuji (紅躑躅 — crimson azalea)
+　　Commonly called *Kirishima* (岐利之末)
+
+　The *Bencao Gangmu* treats *Sanzetsuchoku* (山躑躅, mountain azalea; also known as Sansekiru / 山石榴 and Tsuken-ka / 杜鵑花) and *Yōsankō* (映山紅 / Kō-tsutsuji) as one and the same plant. Here, they are treated as two separate plants.
+
+From the *Zōho Tashiki-hen* (Expanded *Tashiki* encyclopedia), in the section on poisonous plants:
+　Mountain Azalea (山躑躅, Santeikichoku)　Japanese name: Considered to be "Tsutsuji" (豆豆志)　Expanded alternative names: Kō-tsutsuji (紅躑躅)
+　Sansekiru (山石榴), Yōsankō (映山紅), Tsuken-ka (杜鵑花)
+
+　The author's own view: The *Bencao Gangmu*'s treating of *Sanzetsuchoku* and *Yōsankō* as one plant is not without basis — indeed, the *Tashiki-hen* also indicates they are the same. Perhaps *Yōsankō* is so named because its flowers are a deep crimson red, and when in bloom they appear to suffuse an entire mountain with color. Or perhaps it is a distinct variety of *Sanzetsuchoku*, to which a separate name was later given as an alias. The matter warrants further investigation of the texts.

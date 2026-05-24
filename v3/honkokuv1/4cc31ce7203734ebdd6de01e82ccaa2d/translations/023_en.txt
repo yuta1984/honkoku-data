@@ -1,0 +1,36 @@
+The fourth [where "four" refers to the line of vertical edge of the board (ban) and the "miwakomi" sighting line, as described above] is the reduced scale of the "kyūtei" (the distance from the base station to the target point).
+
+The fifth [where "five" refers to the diagonal ink line on the board drawn in the "mikaeshi" (reverse sighting) method, as described above] is the reduced scale of the "kashaku" (the distance from the open ground station to the target point).
+
+(The above records the shape appearing on the surface of the board. What follows describes the method and procedure for using the konhatsu [compass/divider].)
+
+Now, the procedure for measuring and determining those distances using the konhatsu is as follows: first, open the mouth of the konhatsu and fit it to the reduced "three" measure (kōsun) of the "kaijo" (the distance from base to open station). Then, using that measured "kane" [i.e., the opening of the konhatsu; hereafter follow this usage] of the "three," measure the reduced "four" measure (kōsun) of the "kyūtei." By doing so, the distance sought—whether it be several tens of ken—will be known immediately.
+
+For example, when the interval (kensū) of the kaijo is ten ken, the "three" kōsun appearing on the board surface is a reduced representation of ten ken. Therefore, grip the said "three" kōsun in one grasp (hitosashimi) of the konhatsu mouth, and name this the "ten-ken kane." (Regarding gripping the "three" kōsun with the konhatsu to measure it: one need not be limited to a single grasp. If it is taken in two grasps, name it the "five-ken kane"; if taken in five grasps, it should be defined as the "two-ken kane." For the remainder, follow this pattern.)
+
+Using this konhatsu kane named "ten ken," measure the "four" kōsun. The "four" kōsun is the reduced-scale measurement of the distance (toosa) of the kyūtei.
+
+---
+
+**Diagram of the Method for Using the Konhatsu**
+
+The open mouth of this konhatsu is the kane having gripped the reduced "three" (▽△) of the kaijo of ten ken. When measuring the reduced "four" (○) of the kyūtei with this konhatsu mouth, there are three grasps. Three grasps means thirty ken. This is the interval (kensū) of the kyūtei. For all remaining cases, one should determine [the distance] by analogy with this.
+
+This diagram of the ban is the same as the one diagrammed below. It is diagrammed here once more in order to clarify the method of using the konhatsu.
+
+▽ — △　This distance is represented (modeled) in ▽△.
+○ — ○　This distance is represented in ○.
+　 — △　This distance is represented in △.
+In every surveying operation, the large [distances] of the actual terrain are thus drawn down and represented in the small [scale] of the board surface.
+
+---
+
+**Diagram of the Method for Using the Survey Board (Kenban)**
+
+▽△　This measure is called the "reduction of the kaijo." No matter how great the interval between the base station and the open ground station, it is drawn down and represented here.
+
+○　This measure is called the "reduction of the kyūtei." No matter how great the interval between the base station and the target, it is drawn down and represented here.
+
+△　This measure is called the "reduction of the kashaku." No matter how great the interval between the open ground station and the target, it is drawn down and represented here.
+
+In every surveying operation, measure the ▽△ with the konhatsu, and using that konhatsu opening, measure the ○; the distance (entei) will immediately become known. The △ is a "kashaku" — a provisional element — and therefore is not used after the main construction (taisei) is complete.

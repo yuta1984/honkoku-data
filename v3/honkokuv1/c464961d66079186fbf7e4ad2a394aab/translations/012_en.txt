@@ -1,0 +1,15 @@
+Chen states: One who wishes to calculate the solar eclipse of the Ji-Hai year (己亥, 1839) must first determine the winter solstice of the Wu-Xu year (戊戌, 1838). The accumulated middle value (中積, *chūseki*) is precisely the winter solstice of the Wu-Xu year. Therefore, the distance calculation (*kyosan*) of the Wu-Xu year is used. All other [calculations] follow this same principle.
+
+**Accumulated Total (通積, *tsūseki*):** 2,003,865,000,636 *fun* 36 *byō*
+
+**Method:** List the middle accumulation (中積), add the seasonal epoch value (気応, *kīō*) of 550,600, and obtain the accumulated total (通積).
+
+**Intercalary Accumulation (閏積, *juniseki*):** 2,003,825,101,886 *fun* 36 *byō*
+
+**Method:** List the middle accumulation (中積), add the intercalary epoch value (閏応, *jun'ō*) of 201,850 *fun*, and obtain the intercalary accumulation (閏積).
+
+**Heavenly Correct Intercalary Remainder (天正閏余, *Tenshō junyo*):** 50,357 *fun* 50 *byō*
+
+**Method:** List the intercalary accumulation (閏積), subtract from within the synodic month constant (策朔, *sakusaku*) of 295,305 *fun* 93 *byō*, and obtain the remainder as the Heavenly Correct Intercalary Remainder (天正閏余).
+
+Chen states: Listing the intercalary accumulation (閏積), whenever it is sufficient to fill the synodic month constant (策朔), remove it. The remainder is 50,357 *fun* 5 *byō*.

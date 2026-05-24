@@ -1,0 +1,25 @@
+**[Translation of the current page]**
+
+〔This "home position" (honza) uses the same location where the distance-measurement technique (enkinjutsu) was first performed.〕 Set the measuring board (ban) upright 〔the method of setting up the board is the same as before〕, insert the needle into the ruler (jōgi), and with the *Gen* (northeast) position of the board as the pivot point, sight diagonally toward the base of the far mountain and draw an ink line. ① Next, with the *Gen* position of the board as pivot, sight diagonally toward the base of the near mountain and draw an ink line.
+
+**[Boundary / Interface step]**
+
+Now, using the *Senban* method (board-cutting technique), align the ink line sighted toward the far mountain's base with the previously measured spatial-chord (kūkei) distance of seventy *ken* 〔this was measured and set aside at the outset as the seed value〕, using the distance-below-target technique. 〔Using the compass (kihatsū), pinch it to seven units, making a scale of ten *ken* per unit.〕 Using this scale (kane), measure off fifty-five *ken*—the previously measured spatial-chord distance of the near mountain's base 〔likewise measured and set aside as the seed value〕—along the ink line sighted toward the near mountain's base using the distance-below-target technique. 〔Measure fifty-five *ken* downward from the top of the ink line toward the near mountain's base. The remaining portion is discarded and not used.〕 From the endpoint of this near ink line 〔referring to the endpoint after measuring fifty-five *ken* along the near sighting line〕 to the endpoint of the far ink line 〔referring to the terminal end of the far sighting line, at the western edge of the board〕, draw a boundary line (kei) straight across horizontally, completing the diagram on the board surface.
+
+In the resulting diagram: the far ink line represents the scaled spatial-chord distance 〔seventy *ken*〕 to the base of the far mountain; the near ink line represents the scaled spatial-chord distance 〔fifty-five *ken*〕 to the base of the near mountain; and the horizontal boundary line just drawn represents the scaled value of the sought distance (kyūtei) 〔referring to the ground distance of the valley center between the two mountains〕. Using the same scale (kane) with which the spatial-chord distances were measured, when this horizontal boundary line is measured, it yields two units 〔each unit being ten *ken*〕. Two units equals twenty *ken*, which is the sought distance 〔the ground distance of the valley center between the mountains: twenty *ken*〕.
+
+---
+
+**[Method of Two Techniques for Measuring Height (Ryōkō Nijutsu-hō)]**
+
+This technique is used when standing on flat ground to measure heights—from great mountains and high peaks, down to castle towers, palaces, buildings, halls, pagodas, trees, bamboo, and all other objects whose height must be measured. Here, the procedure for measuring the vertical height of a mountain or peak is recorded, from which other cases may be inferred.
+
+〔This technique first uses the distance-measurement technique to determine the spatial-chord distance, and then at that same position performs the depth-and-height technique (kōshin-jutsu); thus the measurement is completed using two techniques—one first, one after.〕
+
+The technique states 〔as illustrated in the diagram below〕: First, from the home position—
+
+**[First Step]**
+Using the "distance-to-target-above" technique (meatē-agari no enkinjutsu) 〔The "target-above distance technique" means measuring distance with the far side of the board raised and the near side lowered. Full details are recorded in a separate volume and are therefore not repeated here.〕, measure the spatial-chord distance to the target at the mountain summit: the result is one hundred *jō*. This figure is taken as the seed value for the main technique. 〔The above procedure simply obtains the spatial-chord distance in units of measurement and serves no other purpose; therefore, once one hundred *jō* has been obtained, this board setting is no longer used.〕
+
+**[Second Step]**
+Now, at the home position 〔using the same position where the "target-above distance technique" was performed〕, set the board upright again 〔the method of setting up the board is detailed previously and is therefore omitted here〕.

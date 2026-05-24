@@ -1,0 +1,7 @@
+The author states: The "distance calculation" (距算, kyūsan) for the ninth year of Tenpō (戊戌, 1838) is 558 years. Therefore, if one uses the distance calculation for the preceding year, Tori (丁酉), it becomes 557 years; and if one uses the distance calculation for the following year,己亥 (Tsuchinoto-i), it becomes 559 years. Both past and future are to be reckoned in accordance with this. If, in the current year of 戊戌 (1838), one calculates 558 years into the past, there is no distance calculation; if one calculates 559 years into the past, the distance calculation becomes one year, which is added into the "year cycle" (歳周, saishu), and based on the distance calculation, this is made into the "accumulated middle value" (中積, chūseki). From this point onward, going further into the past, the years are increased one by one, and so on in this manner.
+
+○Calculation for the Solar Eclipse of the Tenth Year of Tenpō (己亥, 1839)
+　Distance calculation for the year 戊戌: 558 years
+One: Accumulated middle value — 2,003,805,003,636 fen (分), 36 seconds (秒)
+
+○The method states: List the year cycle value of 3,652,425 fen (分), subtract the distance calculation value of 5 fen 58 seconds (分五十八秒), and take the remainder as the "dividend" (実, jitsu). Use the distance calculation as the "multiplier" (方, hō). Multiply the dividend by the multiplier to obtain the accumulated middle value (中積).

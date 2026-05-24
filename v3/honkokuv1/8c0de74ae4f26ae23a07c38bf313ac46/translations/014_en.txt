@@ -1,19 +1,22 @@
-The reaction is strongly acidic, and the specific gravity is 1.0034 at 24 degrees Celsius. The amount of evaporation residue in one liter of this hot spring water (equivalent to about 5 go 5 shaku in Japanese units) is 2.870 grams (1 gram equals about 2 bu 6 rin 6 mo in Japanese units). Quantitative analysis was performed on this hot spring water, and the results are as follows:
+The reaction is strongly acidic, and the specific gravity at 24 degrees Celsius is 1.0034. The quantity of evaporation residue in one liter of this spring water (approximately 5 gō and 5 shaku in Japanese units) is 2.870 grams (one gram being equivalent to approximately 2 bu, 6 rin, and 6 mō in Japanese units). Upon conducting a quantitative analysis of this spring water, the results are as follows:
 
-Gram amounts of each component detected in one liter of this hot spring water:
-　Sulfuric acid　　　3.1176　　　Chlorine　　　　0.8312
-　Silicic acid　　　0.3680　　　Iron oxide　　　0.2000
-　Alumina　　　　　　0.4740　　　Lime　　　　　　0.1300
-　Magnesia　　　　　0.0130　　　Potash　　　　　0.0186
-　Sodium　　　　　　0.0566　　　Hydrogen sulfide 0.0061
-　Phosphoric acid　　trace amounts
+Quantities (in grams) of each component detected per one liter of spring water:
 
-When the above components are combined according to chemical principles, the results are as follows:
+　　　Sulfuric acid　　　3.1176　　　Chlorine　　　　0.8312
+　　　Silicic acid　　　　0.3680　　　Iron oxide　　　0.2000
+　　　Alumina　　　　　0.4740　　　Lime　　　　　　0.1300
+　　　Magnesia　　　　　0.0130　　　Potassium　　　0.0186
+　　　Sodium　　　　　　0.0566　　　Hydrogen sulfide　0.0061
 
-Gram amounts of salts contained in one liter of this hot spring water:
-　Potassium sulfate　　　　　(Saltpeter)　　　　0.0344
-　Sodium sulfate　　　　　　(Mirabilite)　　　　0.1296
-　Calcium sulfate　　　　　　(Gypsum)　　　　　　0.3157
-　Magnesium sulfate　　　　　(Epsom salt)　　　　0.0390
-　Ferrous sulfate　　　　　　(Green vitriol)　　0.3906
-　Aluminum sulfate　　　　　　　　　　　　　　　　1.5785
+　　　Phosphoric acid　　Trace
+
+When the above-listed components are combined according to chemical principles into their respective compounds, the results are as follows:
+
+Quantities (in grams) of salts contained per one liter of spring water:
+
+　　　Potassium sulfate　　　　　（Arcanite）　　　　　0.0344
+　　　Sodium sulfate　　　　　　（Mirabilite/Glauber's salt）　0.1296
+　　　Calcium sulfate　　　　　　（Gypsum）　　　　　　0.3157
+　　　Magnesium sulfate　　　　（Epsom salt）　　　　　0.0390
+　　　Ferrous sulfate　　　　　　（Green vitriol/Melanterite）　0.3906
+　　　Aluminum sulfate　　　　　　　　　　　　　　　　　1.5785

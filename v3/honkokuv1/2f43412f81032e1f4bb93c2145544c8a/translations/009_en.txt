@@ -1,0 +1,23 @@
+## Continuation of the Previous Section (Explanation of the 3-4-5 Method)
+
+Measure against the spacing of fifteen *ken* (the seed interval), and using that square〔note: this square is the square of the seed interval of fifteen *ken*. It is used solely to determine the distance of the *kaijo* (opening distance), and has no other use〕, measure the "four" side: there are two *kyō* (夾, span-units), and two *kyō* equals thirty *ken*. This is the measurement of the *kaijo* (opening distance).〔note: this thirty *ken* is named after the scaled "mouth" (*shukuguchi*) of the "three" from the base station, and is measured accordingly〕
+
+The 3-4-5 triangle on the west side of the surveying board represents the scaled form of the base station (*honza*), the target (*mokuteki*), and the opening ground (*kaichi*). Measure the "three" side against the thirty *ken* of the opening distance that was determined by means of the seed,〔note: regardless of the length of the "three" side's scaled mouth, one assigns the measured interval obtained through the seed and measures accordingly〕and using that square〔note: this is the square of thirty *ken*, obtained by clamping the "three" on the west side of the board to one *kyō*〕, measure the "four"〔note: the "four" appearing on the west side of the board is the scaled representation of the sought distance (*kyūtei*)〕: there are two and a half *kyō*〔note: each *kyō* equals thirty *ken*〕, and two and a half *kyō* equals seventy-five *ken*. This is the measurement of the sought distance (*kyūtei*).
+
+---
+
+## 【The Method of Correct Bilateral Opening (正当両開方, *Seitō Ryōkaihō*)】
+
+This method is used to measure long distances in cases where, between the base station (*honza*) and the opening ground (*kaichi*), there are marshes, rivers, paddy fields, or other such obstacles, making it impossible to accurately measure the opening distance; and where, even though one would wish to leave a seed mark (*tane-shirushi*) and open the distance as in the previous method, there are also numerous obstacles both in front of and behind the base station, making that approach impractical. The method involves establishing an additional small opening ground (*ko-biraki*) beyond the main opening ground, aligned precisely (*makane*), and using it to measure the opening distance〔note: the purpose of setting up this separate small opening is solely to measure the opening distance; there is no other special reason〕, and then determining the sought long distance. The details are recorded within the procedure itself. Refer also to the diagrams.
+
+**The Procedure States** 〔note: explained with reference to the diagram below〕:
+
+Following the prescribed method, carry out all preparatory calculations, then:
+
+㊀ Set the surveying board squarely at the base station, and sight the target (*mokuteki*) due west (*makane*) using the board.
+
+㊁ As is customary, erect a remaining mark (*nokoshi-shirushi*)〔note: the method for erecting this remaining mark is the same as in every other procedure〕at the base station, and at a distance of approximately five to seven *ken* from that mark, erect a tie mark (*tsunagi-shirushi*) in a direct line〔note: the distance between the remaining mark and the tie mark should be adjusted according to the location〕.〔note: if these two marks are not precisely aligned (*makane*), it will be impossible to determine the correct alignment at the opening ground. One must take great care in placing them〕
+
+Then, as if sighting through to the mark at the opening ground, use the board at the base station〔note: the board used to sight the target at the base station must not be moved at all〕to sight all three — the two marks and the straightedge on the board face — in a single precise alignment (*sanjo-issei*).〔note: this sighting in a straight line is precisely what is meant by "seeing through" (*mitori*)〕
+
+㊂ Proceed to the opening ground, provisionally set the board, and from the north side of the board re-sight (*futami*) the two marks so that all three are in a single alignment (*sanjo-issei*)〔note: when one shifts one's view until the two marks appear as one, the alignment is then precisely correct (*makane*)〕, and aligning very carefully——

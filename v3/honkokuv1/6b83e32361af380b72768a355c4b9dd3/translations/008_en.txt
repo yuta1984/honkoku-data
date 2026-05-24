@@ -1,0 +1,32 @@
+## Diagram showing the Milky Way on the Separate Wind Wheel (別風輪) spanning the entire sky
+
+**[Upper diagram]**
+The positions labeled with the Chinese cyclical characters 壬, 辛, 甲, 乙, 丙, 丁, 戌, 巳, and 庚 are arranged on the "Separate Wind Wheel" (別風輪), a cosmological layer in Buddhist cosmology. The North Pole and Purple Enclosure (紫微垣) are at the center, with the Milky Way extending toward the Southern Continent (南洲 / Jambudvīpa). At the 壬 position: "This direction is far, so it appears to sink below the horizon (地)." At the bottom: "Seen from the Southern Continent, it appears to sink below the horizon."
+
+---
+
+**[Middle diagram]** *Diagram of the Milky Way at Autumn Twilight*
+
+庚 is positioned at the western horizon (西没, "western setting"), 甲 at the eastern horizon (東出, "eastern rising"), with Mount Sumeru (須弥山) and the Separate Wind Wheel arranged relative to the north and south directions. The characters シビ (紫微) indicate the Purple Enclosure. The note reads: "The forking point of the Milky Way is at the southern edge of the sky at twilight."
+
+---
+
+**[Lower diagram]** *Diagram of the same night's Milky Way at midnight*
+
+The arrangement is similar to the middle diagram, but rotated. The note reads: "The forking point, which at midnight has shifted to the western edge of the sky."
+
+---
+
+"There is no discrepancy. One should verify this by reference to the diagrams."
+
+---
+
+## The Seventeenth Objection: Concerning the Width of Degrees of Measurement
+
+*Question:* "It has been argued and settled that the theory of a spherical Earth (地円説) put forward by the Western barbarians is fabrication and falsehood, and that the Buddhist teaching of a flat Earth is correct. This reasoning is not without merit; however, the theory of a spherical Earth also has compelling evidence that is difficult to shake.
+
+*Lixue Yiwen* [暦学疑問, *Questions and Doubts on Calendar Studies*] (composed by Mei Wending of the Qing dynasty), Volume 1 (folio 22), states: 'Westerners say (... middle omitted ...) that the Earth is perfectly spherical—there is no doubt. This is why, when one travels 250 *li* [里] southward, one sees the southern stars rise by one degree while the North Pole descends by one degree; and when one travels 250 *li* northward, the North Pole rises by one degree while the southern stars are seen one degree less. If the Earth were not perfectly spherical, how could this be so?' (The figure of 250 *li* is based on the old theory that the Earth's circumference is 90,000 *li*. According to the new standard as given in the *Bowu xinpian* [博物新篇], Volume 1, the circumference is 87,192 *li* on the outer figure, making one degree approximately 242 *li*. Both use the system of six *chō* [丁] per *ri* [里].)
+
+'As for water as a substance, its nature is to flow downward; with heaven on all four sides, the Earth resides at the center as the lowest point. Water takes the ocean as its channel, the ocean takes the Earth as its foundation, and there is nothing strange about water adhering to the Earth.' (This is an argument in support of the spherical Earth theory based on Western surveying.)
+
+'What is to be doubted about the Earth is this: if the Earth is already perfectly round (渾円), then those dwelling on the (lower half of the) Earth...'"

@@ -1,0 +1,50 @@
+《Figure 18》
+
+【Figure 1】
+Figure 1
+When the Sun is smaller than the Earth, the Earth's shadow expands (diverges)
+
+【Figure 2】
+Figure 2
+When the Sun and the Earth are the same size, the Earth's shadow is parallel (cylindrical)
+
+【Figure 3】
+Figure 3
+Solar Eclipse
+Lunar Eclipse
+The length of the Earth's shadow is 600,000 ri
+
+【Figure 4】
+Figure 4
+New Moon
+Full Moon
+Partial lunar eclipse
+
+【Figure 5】
+Figure 5
+When the Moon's shadow falls outside the North Pole, no solar eclipse occurs
+When the Moon's shadow falls outside the South Pole, no solar eclipse occurs
+When the Moon is outside the Earth's shadow, a lunar eclipse occurs [Note: likely meant "does not occur"]
+When the Moon is outside the Earth's shadow, no lunar eclipse occurs
+
+【Figure 6】
+Figure 6
+1　2　3　4　5　6　7　8　9　10　11　12
+Lunar path (Moon's orbit)
+Intersection of the lunar path and the solar path (ecliptic)
+11　10　9　8　7　6　5　4　3　2　1
+
+【Figure 7】
+Figure 7
+Moon
+Partial solar eclipse
+
+【Figure 8】
+Figure 8
+Moon
+Total solar eclipse
+
+【Figure 9】
+Figure 9
+Moon
+Annular solar eclipse

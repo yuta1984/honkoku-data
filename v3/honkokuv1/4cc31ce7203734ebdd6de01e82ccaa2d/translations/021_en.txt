@@ -1,0 +1,16 @@
+When a line of ink is drawn across the surface of the surveying board (ban), the reduced scale of the "seed interval" (tane-ai) is obtained. Using this reduced scale to measure the reduced scale of the open section (kaiyo), one can determine the width (sashiwatashi) of the swamp or river crossing that open section. (Here the general method is described; refer to the later volume for detailed instructions.)
+
+---
+
+**On the Names of the Parts of the Board Surface**
+
+The upper surface of the surveying board (kenban) has eight named positions: four sides and four corners. Specifically, the left side is called "Ban-tō" (Board-East); the right side is called "Ban-sei" (Board-West); the far side is called "Ban-nan" (Board-South); and the near side is called "Ban-hoku" (Board-North). The southeast (tatsu-mi) corner is called "Ban-son" (Board-Xun/Southeast); the southwest (hitsuji-saru) corner is called "Ban-kon" (Board-Kun/Southwest); the northwest (inu-i) corner is called "Ban-ken" (Board-Qian/Northwest); and the northeast (ushi-tora) corner is called "Ban-gon" (Board-Gen/Northeast). Although these are not names that have been used since antiquity, they have been newly established so that beginners will not be confused when indicating positions on the board. Students should be aware of this.
+
+【Diagram: Board Surface Nomenclature Diagram】
+(A diagram showing the eight directions on the board surface. Clockwise from top: Ban-ken, Ban-hoku, Ban-gon, Ban-tō, Ban-son, Ban-nan, Ban-kon, Ban-sei.)
+
+---
+
+**On the Procedures for the Surveying Board from Start to Finish**
+
+As described repeatedly on the right (in the preceding sections), using the preliminary surveying methods (senryō-hō) such as naked-eye observation (kūganshi) and visual inspection (kansatsu), one surveys in general the distance in ri, chō, tan, and ken from the base position (honza) to the target point, and according to that distance provisionally determines a 1/30 open section (kaijo) as the working scale. After all the various preparations are in order, the surveying board is placed squarely at the base position. A straightedge (jōgi) is placed on the vertical edge of the board surface (on the left edge when opening to the right; on the right edge when opening to the left). (The straightedge is placed on the board for every method and every board setting — for sighting, line-of-sight, re-sighting, and back-sighting — and serves as the square for the sight line.) One then sights toward the target point. This is called "mi-komi" (sighting in). Next, using a measuring rod (sao), one measures out the number of ken to the provisionally determined open position (kaichi). (For this interval, the traditional method uses 1/30 of the total distance. In general, the number of ken should be determined in accordance with this. This is the "seed" — i.e., the fundamental reference — of the surveying.) An opening marker (hiraki-shirushi) is placed at that position. (This marker is also placed provisionally.) Then, without disturbing the board that was first set down and used to sight the target (keeping it absolutely still), a straightedge is placed on the near edge of the board, and that marker (i.e., the opening marker) is sighted. This is called "mi-tōshi" (line-of-sight). Furthermore, that marker…

@@ -1,0 +1,22 @@
+(Continued from previous page: "...viewing the moon.")
+
+[Marginal note: Since both the earth and the moon are spherical clumps of earth, if there were people on the moon, their view of earth would be just as our view of the moon from earth's surface.]
+
+"Hakubutsu Shinpen" (A New Treatise on Natural Philosophy) states: "The sun resides at the center and never moves; the earth orbits around it in a circle. Observe the astronomical diagrams." This means the sun does not move; rather, the earth revolves around the outside of the sun in a circle, and the moon in turn revolves around the outside of the earth in a circle. According to this, as the earth moves, so too does the moon. This principle can be understood by examining the astronomical diagrams. [Marginal note: The astronomical diagrams are explained in detail below, in the section on the Second Objection regarding comets.]
+
+It also states: "The earth completes one orbit around the sun. The moon completes more than twelve orbits around the earth. On the day of the full moon (望日), the earth is in the center, with the sun and moon facing each other from east and west, and the moon's face fully receives sunlight. Therefore the moon appears as a bright, round disk like a mirror. On the day of the new moon (朔日), the sun and moon are in conjunction, with the moon in the center and earth and sun facing each other from east and west. From the earth, one cannot see the moonlit face turned toward the sun; only the side that faces away from the sun is visible. The reason the moon body cannot be seen even though it is amid the light is because the moon can only reflect light that it directly receives from the sun."
+
+(Right-side marginal note:)
+The earth completes one full orbit around the sun in one year, comprising over 365 days. The moon, as a satellite of the earth, orbits the earth in a circular path. The number of days for this is approximately 29 and a half days [Marginal note: the actual count for one lunar orbit is approximately 27 days], which constitutes one month. Thus, the moon is sometimes positioned in front of the earth and sometimes behind it. [Marginal note: "Front" refers to the side of the earth facing the sun, and "back" refers to the side turned away.] When the moon is behind the earth, observers on earth see the full face of the moon receiving sunlight — this is the full moon (望日). When the moon is in front of the earth, observers on earth cannot see the side of the moon that receives sunlight.
+
+[Diagram]
+Diagram showing the earth orbiting the sun and the moon orbiting the earth, forming the phases of new and full moon.
+
+(Diagram layout:)
+　　　　Moon
+　　　　　　Earth
+Moon　　　　　　　Moon
+　　Earth　　Sun　　Earth
+Full Moon (望)　　　New Moon (朔)
+　　　　　　Earth
+　　　　　　　　Moon

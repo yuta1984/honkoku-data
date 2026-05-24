@@ -1,0 +1,22 @@
+**[Diagram on right page]**
+A diagram measuring the distance of the sun's position at dawn/dusk and at midday according to the heliocentric (globe) theory, as measured from the zenith.
+
+"The sun at dawn and dusk is farther than at midday by only approximately 1 *bu* 3 *rin* [a very small measurement]"
+
+**[Main text]**
+
+Is this not so? The above has argued about heat and cold with respect to the two solstices—the winter and summer solstices. Now, considering ordinary days: according to the heliocentric (globe) theory, between midday and morning/evening, the distance from the earth to the sun is 33,250,000 *ri*, and the difference amounts to merely the earth's radius of approximately 13,846 *ri*.
+
+Converting 10,000 *ri* to a scale of 1 *bu*, the distance from the earth to the sun becomes 33 *jō* 2 *shaku* 5 *sun*, and the difference in distance between midday and morning/evening becomes a mere 1 *bu* 3 *rin* 8 *mō* 4 6. Therefore, by this reasoning, there should be no perceptible difference in warmth between the two times of day.
+
+Yet, why is it that the difference in temperature between midday and morning/evening is so great? According to the theory of the Sumeru world (*Shumikai*), at midday the sun is close—only 40,000 *yojana* away—and therefore warm, while at sunrise and sunset it is 360,000 *yojana* distant. This is precisely why the heat at midday differs so greatly from that at sunrise and sunset.
+
+*(The diagram will be presented in detail below the Second Objection.)*
+
+In that case, even within a single day, the Sumeru theory's account of heat and cold accords well with direct perceptual experience (*genryō*), whereas the heliocentric theory is greatly at odds with it, is it not?
+
+---
+
+**Ninth Objection: The Length of Day and Night**
+
+It is asked: In addressing the previous objections, [the respondent] has used Buddhist doctrine to defend [the faith] and has used Western theory to diminish it. One cannot help but be persuaded by the reasoning. However, in Buddhist doctrine, when explaining the length of day and night, one *day-and-night* is divided into thirty *mukūda* [this is a unit of time]...

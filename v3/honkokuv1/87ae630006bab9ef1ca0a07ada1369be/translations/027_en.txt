@@ -1,0 +1,59 @@
+**[Figure 25]**
+
+**[Upper Diagram: Atmospheric Refraction]**
+
+Atmospheric Refraction (the angular difference caused by the bending of light through the atmosphere)
+
+The atmosphere (蒙気) envelops the Earth
+[Illustrated with arrows circling the Earth from center, moving counterclockwise]
+
+True position of the Sun
+
+Apparent horizon
+Apparent position of the Sun
+
+At Sunset:
+　True position (actual position of the Sun)
+　Apparent position (observed position)
+
+At Noon:
+　Apparent position
+　True position
+
+At Sunrise:
+　Apparent position of the Sun
+　Apparent horizon
+　True position of the Sun
+
+---
+
+**[Lower Right Diagram: Relationship Between Planetary Heat and Distance from the Sun]**
+
+The Earth's orbit
+
+The ratio of increase and decrease of the heat received by a planet is equal to the ratio of the square of its distance from the Sun.
+
+(Horizontal axis) First power　Second power　Third power　Fourth power　Fifth power　Sixth power　Seventh power　Eighth power　Ninth power
+
+---
+
+**[Lower Left Diagram: Parallax]**
+
+The solar parallax is extremely small.
+
+Point D (丁)
+Point C (丙)
+Moon
+
+When observing the Moon from the horizon, the Moon appears to be on the inner side [of the celestial sphere].
+When observing the Moon from the meridian, the Moon appears to be at position D (丁).
+Point B (乙)
+Point A (甲)
+Parallax
+
+Mars
+
+When observing Mars from the meridian, Mars appears to be at position A (甲).
+When observing Mars from the horizon, Mars appears to be at position B (乙).
+
+Earth

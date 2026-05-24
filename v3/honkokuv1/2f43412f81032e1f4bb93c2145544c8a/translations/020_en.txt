@@ -1,0 +1,19 @@
+Place the surveying board (盤) so that it does not move. ② Toward the right, find the precise opening distance (開除) and set up the opening marker (開印).
+(The distance of this opening ground is not used as the seed [reference] for the sought distance. Therefore, any distance will do. However, approximately one-thirtieth of the distance to the seed target should be used as a guideline.) Place a straightedge on the north side of the board and sight through it, then set up a remaining marker (残印) at the main station. ③ Move to the opening ground (開地) and sight the remaining marker again to set the board precisely. ④ Using the northwest (乾) direction of the board as the pivot, draw a diagonal sighting line back toward the seed (reference) target. ⑤ Using the same point as the pivot, draw a diagonal sighting line back toward the main target.
+
+【Boundary marking】 Then, using the "board-cutting method" (剸盤法), draw a straight vertical boundary line from the stopping point of the return-sighting line on the south of the board to the north of the board. When this is done, the full figure appears on the board surface.
+
+The boundary line now appearing from the north of the board to the return-sighting line of the seed target represents the reduced measure (縮口) for the seed distance (the distance from the main station to the seed target)—one ri. The boundary line from the return-sighting line of the seed target to the stopping point of the return-sighting line of the main target on the south of the board is the reduced representation of the sought distance. Measure the reduced unit of the seed boundary against the one-ri town distance of the seed, (making this reduction one "pinch" [挟み] as the unit measure of one ri,) and measuring the boundary of the distant distance with this unit yields five and a half pinches. (Each pinch equals one ri.) Five and a half pinches equals five and a half ri.
+
+Adding the seed distance of one ri to this gives a total of six and a half ri. This is to be understood as the sought distance (the distance from the main station to the main target).
+
+---
+
+【Two-Station Repeated Opening Method (二地重開方)】
+
+This method is used when, around the main station—in front, behind, to the left, or to the right—terrain such as forests, steep ground, villages, or bamboo groves makes it impossible to find a suitable opening (base line extension) within one or two chō, or even within three or four chō, and one must measure a long distance. The method involves finding the opening ground cumulatively at two locations. Note that this differs in technique from the previously described "Two-Opening Method" (二開方). Details are recorded within the method description. Study it diligently.
+
+The method states (described with reference to the figure below): After completing all preliminary measurements (始計) according to procedure, ① set the board precisely at the main station and sight directly (east on the board) toward the target. ② Determine the distance diagonally toward the right-rear direction (diagonal opening: 2 chō), find the opening ground, and set up a sighting marker.
+(Although the rule for opening distances is always to use a right angle as ideal, here, because there are many obstructions in front, behind, left, and right, one uses a diagonal without debating whether it is proper or not. All cases using diagonal openings follow this principle. What follows conforms to this.)
+
+At the center of the east side of the board...

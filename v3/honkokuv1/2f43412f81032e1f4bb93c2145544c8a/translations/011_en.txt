@@ -1,0 +1,23 @@
+⑦ After this, return to the kaichi (base point/opening ground), set the measuring board (ban) level and square as before, place the ruler diagonally, and draw an ink line by sighting back to the main target point from the "gon" (northeast) direction of the board. When this is done, the 3-4-5 configuration appears and the board face is completed (taisei).
+
+In the configuration that now appears: "3" is the reduced representation of the kaiyo (river width to be cleared) [left straight opening: 4 chō]; "4" is the reduced representation of the kyūtei (distance to be found); and "5" is the reduced representation of the kashaku (auxiliary/borrowed line). Measure "3" against the river width of 4 chō [these 4 chō were separately measured by performing a small opening (kohiraki) as a seed measurement], [using the compass dividers, clamp this "3" to one夾 (hasamite/span), and whatever the width of that opening may be, it is called the矩 (kane/right-angle measure) for 4 chō obtained through the seed's "4"] and take that矩 (the矩 for the river width of 4 chō) and measure "4" — there are two夾 (hasamite/spans). [4 chō per span] Two spans is thus 8 chō. This should be understood as the interval measurement (masu) of the kyūtei (sought distance).
+
+---
+
+**Seisha Ryōkaiho (Method of Both Straight and Diagonal Openings)**
+
+　This technique is used to measure long distances in cases where, as in the previous technique, there are many obstacles to the front, rear, left, and right of the main station (honza), making it difficult to measure the interval of the kaiyo (clearing distance); and moreover, although one wishes to perform a straight kohiraki (small opening), the terrain at that location also has various obstructions making a straight opening difficult. The method involves finding the small opening diagonally and measuring from it. In broad outline, it should be understood by analogy with the previous technique [Seito Ryōkaiho / Method of Both Straight Openings].
+
+The procedure states [explained with reference to the diagram below]: After performing the preliminary calculations (shikei) according to the various established procedures,
+
+① Set the board squarely at the main station (honza), and sight the target directly (makane) from the east of the board.
+
+② As stated in the previous chapter, have two stakes planted at that location — a "remaining stake" (nokoshi-shirushi) and a "connecting stake" (tsunagi-shirushi) — and sight across all three points simultaneously. [This is the meaning of "sighting through."]
+
+③ Then move to the kaichi (opening ground) and, upon re-sighting, set the board precisely level and square.
+
+④ Using the "ken" direction (northwest) of the board as the pivot, sight back diagonally to the main target, and draw an ink line following the ruler. Using that ink line as a guide, fix the interval measurement toward the far side and plant a diagonal kohiraki stake. [Although it would be preferable to find the kohiraki position straight on, since such ground is not available here, one is compelled to follow this ink line and use the diagonal.] Also plant a remaining stake at the kaichi.
+
+⑤ Proceed to the kohiraki location, place the ruler against the diagonal ink line drawn from the board at the kaichi, re-sight the remaining stake of the kaichi [this remaining stake was originally the opening stake sighted through from the main station, but now serves as a remaining stake], and set the board squarely. [Also, when the main target is sighted back from this location, the board face becomes ever more precisely level and square.]
+
+⑥ Without moving (disturbing) that board, directly [sight] the remaining stake of the main station...

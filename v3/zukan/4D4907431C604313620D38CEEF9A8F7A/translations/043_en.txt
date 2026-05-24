@@ -1,72 +1,58 @@
-According to Zōho Tashiki-hen, Shrub section:
-　　Elaeagnus (Kotai)　Japanese name, upon current examination　　Alternative name: Roto-shi from Honzō Kōmoku　Hanhan-ganshun (same)
-　　　　　　　Kumi (Gumi)　　　　　　　　Supplementary alternative name: Hotai-shi from Kōmoku
-　　　　　　　　　　　　　　　　　　　　Jaku-niso from Hōsei　【Medicinal tree】
-　　　　　　　　　　　　　　　　　　　　Kōba-dai
+---
 
+## 【A Species of *Gumi* (グミ; *Elaeagnus*)】
 
+**According to the *Zoho Tashikiden* (増補多識編; *Expanded Nomenclature Compendium*), in the section on Shrubs (*Kanboku-rui*):**
 
-Yamato Honzō
-　　Elaeagnus (Kotai-shi)　Commonly called Higumi
-　　(Gumi)　　I say this is the true Nawi-gumi (nursery gumi)
-　　　　　　In Wamyō-shō it is called Moronari
+　　*Kotaishi* (胡頽子; *Elaeagnus*)　[Japanese name:] On investigation, *Kumi* / *Gumi* (久美)　[Alternative names:] *Rotoshi* (盧都子) [source: *Bencao Gangmu*]; *Hanganshun* (半含春; "half-open spring") [same source, expanded edition]; *Hotaishi* (蒲頽子) [source: *Bencao Gangmu*]; *Jakuniso* (雀児酥; "sparrow's butter") [source: *Paozha Lun* (炮炙論; *Treatise on Preparation of Medicinal Substances*)]; *Kōbadai* (黄婆嬭; "old woman's milk")
 
+[Seal: Medicinal Trees (薬木)]
 
+---
 
+**According to the *Yamato Honzō* (大和本草; *Japanese Materia Medica*):**
 
-Honzō Wakai
-　　　　　Sawa-gumi
+　　*Kotaishi* (胡頽子; *Gumi*) — In common parlance throughout the country it is called *Higumi*.
+　　　　　　[The author states:] This is indeed the true *Nawashiro-gumi* (苗代グミ; "seedbed *Elaeagnus*").
+　　　　　　　　　　　　In the *Wamyō-shō* it is listed as *Moronari* (もろなり).
 
-　　　Seeing this fruit ripen, farmers
-　　　know the time to prepare the fields. Therefore it is called
-　　　nursery elaeagnus
+**According to the *Honzō Wage* (本草和解; *Japanese Interpretation of the Materia Medica*):**
 
+　　*Sawa-gumi* (サワグミ; marsh *Elaeagnus*)
+　　　Farmers observe the ripening of this fruit to judge the appropriate time for preparing their seedbeds (*nawashiro*). For this reason it is called *Nawashiro-kotaishi* (苗代胡頽子; "seedbed *Elaeagnus*").
 
+---
 
+**The author's considered investigation states:**
 
-　　　　　　　　My consideration says:
-　　　　　　　　　Cornus also ripens when nurseries are prepared according to Honzō. Chinese people
-　　　　　　　　　say this is indeed cornus, but Chikin-shō includes
-　　　　　　　　　this illustration and records nursery gumi. Does cornus also ripen during nursery time?
-　　　　　　　　　Not yet known. The truth of this tree, perhaps the master of flower cultivation explains this
-　　　　　　　　　In Yamato Honzō, elaeagnus (Higumi) is a tree six to seven feet high, with flexible branches
-　　　　　　　　　Leaves resemble pear but are long and narrow. Surface green, underside white. Flowers bloom in second lunar month
-　　　　　　　　　Shape like cloves, drooping when in full bloom. This matches
-　　　　　　　　　this tree. Should inquire whether cornus can also be called nursery gumi
+　　Concerning *Sanshuyu* (山茱萸; *Cornus officinalis*; Japanese cornelian cherry): the *Honzō* (*Bencao*) also records that "its fruit ripens at the time of the seedbed preparation," and Chinese scholars have said "this is therefore *Sanshuyu*." However, the *Chikinsho* (地錦抄; *A Compendium of Garden Plants*) includes an illustration like this one and records it under the entry for *Nawashiro-gumi*. Whether *Sanshuyu* also ripens its fruit at the time of seedbed preparation — the truth of this matter regarding the present plant is not yet certain. Perhaps someone versed in horticulture might be able to explain it.
+　　[The description of] *Higumi* (胡頽子) in the *Yamato Honzō*: the tree grows to six or seven *shaku* in height; the branches are supple. The leaves resemble those of the pear (*nashi*) but are elongated and narrow; the upper surface is green and the underside is white. Flowers bloom in the first and second months; their form is like that of *chōji* (丁香; clove), and at their peak they droop downward — all of this accords well with the present plant. Whether *Sanshuyu* is also referred to as "*Nawashiro-gumi*" is a matter that should be inquired into.
 
+---
 
+**According to the *Wamyō Ruijushō* (和名類聚抄):**
 
+　　*Kotaishi* (*Moronari*) — According to *Ba Wan*'s (馬琬) *Shokkyō* (食経; *Classic of Food*) and *Yōjō Hiyō* (養生秘要; *Secret Essentials of Nurturing Life*), and others:
+　　　　*Kotaishi* [Japanese name: *Kumi* (久美); also called *Moronari* (毛呂奈里)]　[Note: The *Honchō-shiki* (本朝式; *Regulations of the Court*) uses the three characters 諸生子 (*Shoseishi*)]
 
+　　Sketched from nature on the thirteenth day of *Kosen* (姑洗; third lunar month), year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
 
+---
 
-According to Wamyō Ruijū-shō:
-　　　Elaeagnus (Moronari)　In Ba-gan's Shokukyō Yōjō Hiyō and others it says
-　　　　　　　　Elaeagnus　Japanese name Kumi　　One says
-　　　　　　　　　　　　Moronari　　In Honchō-shiki the three characters
-　　　　　　　　　　　　　　　　　　of Morō-sei-shi are used
+**It should be noted that the *Honzō Wage* states that the fruit of *Sanshuyu* is harvested in the ninth and tenth months. Although the mention that its fruit ripens at the time of the seedbed season is recorded as the basis of the name [and has been omitted here], the statement that it closely resembles *Kotaishi* suggests they may well be the same fruit.**
 
+---
 
+## 【A Species of *Kaidō* (海棠; Crabapple / *Malus* sp.)】
 
+　　*Kaitō* (海棠; crabapple)　[another variety]　　This is called *No-kaidō* (野海棠; "wild crabapple").
 
-　　　　　　　　　　　13th day of Koshō of Kinoe-Saru year, faithfully copied
+[Seal: Trees (木類)]
 
+**According to the *Zoho Tashikiden* (増補多識編), in the section on Mountain Fruits (*Sankwa-rui*):**
 
-　　　　　　　　　　　In Honzō Wakai, cornus fruits are taken in the 9th and 10th months
-　　　　　　　　　　　This should be known. Although it records that it ripens during nursery time,
-　　　　　　　　　　　saying it closely resembles elaeagnus suggests they are the same fruit
+　　*Kaikō* (海紅; "sea-red")　[Japanese name:] On investigation, *Kaitō* (加伊多宇; *Kaidō*)　[Alternative name:] *Kaidō-nashi* (海棠梨; "crabapple pear")
 
+　　Sketched from nature on the sixteenth day of *Kosen* (姑洗), the same season (year *Kinoe-Saru*) [Bunsei 7, 1824].
 
-
-　　　Crabapple　　　　　This is called wild crabapple
-　　　　　Also one species　　　　　　　　　　　　　　　　　　【Tree category】
-
-
-
-According to Zōho Tashiki-hen, Mountain Fruits section:
-　　　Kai-kō (Sea red)　Japanese name, upon current examination Ka-　　Alternative name: Kaidō-ri (Crabapple pear)
-　　　　　　　Itau　　　
-
-
-
-　　　　　　　　　　　　　　　　　　　　Same year, 16th day of Koshō
-　　　　　　　　　　　　　　　　　　　　Faithfully copied
+---

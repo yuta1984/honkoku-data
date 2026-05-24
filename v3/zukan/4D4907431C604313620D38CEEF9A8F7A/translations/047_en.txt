@@ -1,62 +1,90 @@
-【Shikimi】 *(Japanese star anise, Illicium anisatum)*
+---
 
-According to the Zōho Tashiki-hen (Expanded Polyglot Encyclopedia), Poisonous Plants section:
-　　Mōsō (莽草)　Japanese name: Shikimi (志幾美); also noted that in Suruga Province it is called Netsumikoro-shi (ネツミコロシ, "rat-killer"); another name is Nabewari (那倍和利).　Alternative name: Somō (鼠莽, "rat-herb")　Additional alternative names: Mō-sō (䒽草, pronunciation: Oka), Bōsō (芒草, from Shanhaijing)
+## 【*Shikimi* (シキミ; Japanese Star Anise, *Illicium anisatum*)】
 
-The Sansai Zue records two varieties—Mōsō and Mokumitsu—and states that Mōsō produces no flowers or fruit, etc. This should be examined carefully.
-The origin of the name "Nabewari" is unknown.
-Kōhon (鉤吻, Nabewari) is a different plant; refer to later volumes for clarification.
+### According to the *Zōho Tashiki-hen* (増補多識編), in the section on Poisonous Plants (*Dokusō-rui*):
 
-【Seal】 Miscellaneous trees
+　　*Mōsō* (莽草) [Japanese names:] *Shikimi* (志幾美), and also, upon investigation, *Netsumikoro-shi* (祢須美古呂志; "mouse-killer"), found in Suruga Province; alternate name: *Nabewari* (那倍和利). [Alternate names:] *Somō* (鼠莽; "mouse-wort"). [Additional alternate names from the expanded edition:] *Mōsō* (䒽草) [pronounced with the reading "oka"]; *Bōsō* (芒草) [from the *Shanhai Jing* (山海経)].
 
-Yamato Honzō
-　　Mōsō flower (Shikimi no hana)
-From the same work's Yakumyō Bengi (Clarification of Drug Names):
-　　Rat herb (鼠莽)
+---
 
-　　The character "樒" has been handed down through generations in Japanese custom as "Shikimi."
-　　Even in the Jun Wamyō it is read as Shikimi.
-　　In the Imyō Bunruishō it appears as Mōsō (ハナノキ, "flower tree").
-　　In the Wamyō Ruijushō it appears as Shikimi.
-　　In the Shinsen Jikyō it appears as Mohone.
-　　In the Wakan Sansai Zue:
-　　　　Mokumitsu (Shikimi; Chinese reading: Momitsu)　Also known as: Mikkō, Mokkō, Takakōboku, Asha
-　　　　　　　Shikimi (pronunciation: Tang-dynasty rhyme dictionary says "a fragrant tree"; Japanese name Shikimi)
-　　　　　Also, the Kenpho-nashi tree (枳椇, *Hovenia dulcis*) is also called Mokumitsu,
-　　　　　but it is not the same plant.
+In the *Sansai Zue* (三才図会), two varieties are listed: *Mōsō* (莽草) and *Mokumitsu* (木密). It states that "*Mōsō* has neither flowers nor fruit," among other things, which warrants further examination.
+Also, the name *Nabewari* (那倍和利) is unclear; *Kōhon* (鉤吻; *Nabewari*) is a different plant — see later volumes for clarification.
 
-　　　　　　　　　　　　　　　　　　　By national custom, this is offered as a Buddhist flower.
-　　　　　　　　　　　　　　　　　　　Or it is burned as powdered incense before Buddhist altars.
-　　　　　　　　　　　　　　　　　　　Both the bark and leaves are used.
+[Seal: Miscellaneous Trees (*Zatsuki*)]
 
-　　　　　　　　　　　　　　　　　　　Kinoe-Saru year, Kyōshō month (2nd lunar month), 10 days from the "mi" hour
-　　　　　　　　　　　　　　　　　　　Painted from life
+---
 
-According to the Wamyō Ruijushō:
-　　Shikimi (樒)　The Tang rhyme dictionary says, and the Kango-shō states: Shikimi (之岐美) is a fragrant tree.
-From the same work:
-　　Mōsō (莽草, Shikimi)　The commentary to the Shanhaijing says "mōsō,"
-　　　　The Wamyō Honzō calls it Shikimi (之木美),
+### According to the *Yamato Honzō* (大和本草):
+
+　　*Mōsō-ka* (莽草花; Flower of *Shikimi*)
+
+From the same work, "Yakumei Bengii" (薬名弁疑; "Clarification of Medicinal Names"):
+
+　　*Somō* (鼠莽; Mouse-Wort)
+
+　　The character 樒 has been passed down through the generations in popular Japanese usage as "*Shikimi*."
+　　In the *Wamyō Ruijushō* (*Jun Wamyō*) it is likewise read as "*Shikimi*."
+　　In the *Imyō Bunruishō* (異名分類抄), it appears as *Mōsō* (莽草), with the reading *Hanaki* (ハナノキ).
+　　In the *Wamyō Ruijushō* (和名類聚抄), it appears as *Shikimi*.
+　　In the *Shinsen Jikkyō* (新撰字鏡), it appears as *Mohone* (モホネ).
+　　In the *Wakan Sansai Zue* (和漢三才図会):
+
+　　　　*Mokumitsu* (木蜜) [Japanese name: *Shikimi*; Chinese pronunciation: *Momitsu*]
+　　　　　　[Alternate names:] *Mitsukō* (蜜香), *Motokō* (没香), *Takōboku* (多香木), *Ana* (阿㝹)
+　　　　　　　　*Mi* (櫁) [Pronounced, according to the *Tōin* (唐韻), as "a fragrant tree"; Japanese name: *Shikimi* (之木美)]
+　　　　　　Also, the tree *Kenhononashi* (枳椇; Japanese raisin tree) is likewise called *Mokumitsu* (木蜜),
+　　　　　　but it is not the same plant as this.
+
+　　　　　　　　In popular Japanese custom, this plant is offered as a Buddhist flower (*bussō*/*bukka*).
+　　　　　　　　It is also burned as powdered incense (*makkō*) before Buddhist altars.
+　　　　　　　　Both the bark and leaves are used.
+
+　　　　　　　　Sketched from life on the tenth day from the end of *Kyōshō* (夾鐘; the second lunar month), in the year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
+
+---
+
+### According to the *Wamyō Ruijushō* (和名類聚抄):
+
+　　*Shikimi* (樒) — The *Tōin* (唐韻) states, and the *Kangoshō* (漢語抄) says: "*Shikimi* (之岐美)," meaning "a fragrant tree."
+
+The same work also states:
+
+　　*Mōsō* (莽草; *Shikimi*) — The commentary to the *Shanhai Jing* (山海経注) cites "莽草 (*Mōsō*)."
+　　　　The *Wamyō Honzō* (和名本草) gives the name "*Shikimi*" (之木美).
 　　　　It is a plant that can be used to poison fish.
 
-　Shikimi grows abundantly in Musashi, Izu, Awaji, Tanba, and Harima provinces.
-　Branches are broken off and offered to the Buddha; the branches and leaves, when picked, are called "flowers." The bark and leaves are harvested and dried,
-　then burned as incense, called mattakō (powdered incense).
-　　　A poem from Oki Province:
-　　　　　さながらや仏の花に折せまじ
-　　　　　　　　　　　　　　　　—Retired Emperor Go-Toba
-　　　　　　　　　　　(How can I bear to break these branches even as Buddhist offerings—
-　　　　　　　　　　　　　　　white snow piling on the shikimi boughs)
+　　*Shikimi* is found in abundance in the provinces of Musashi, Izu, Awaji, Tanba, and Harima.
+　　Branches are broken off and offered before Buddhist altars; the branches and leaves are referred to as "flowers" (*hana*). The bark and leaves are harvested, dried, and burned as incense, which is called *makkō* (抹香; powdered incense).
 
-【Something in the Euphorbiaceae family, such as Takadoudai or Nourushi】
-Imyō Bunruishō:
-　　Taigeki (大戟, Euphorbium) (ノウシル)　(Taigeki)
-　　　Another variety also exists
+　　A poem composed in Oki Province:
 
-　　　　　　According to the Wamyō-shō: Hamahito-kusa, Nehisu
-　　　　　　　　　Also: Hara-kusa　It is said to be a product of Joshū (除州), but this seems doubtful (unstable identification).
+　　> *Sanagara ya / hotoke no hana ni / oru semaji /
+　　> Shikimi ga eda ni / tsumoru shirayuki*
+　　>
+　　> "Surely one ought not break these branches — not even as offerings to the Buddha —
+　　> for see how white snow piles upon the boughs of the *Shikimi*."
+　　>
+　　> — *Go-Toba-in* (後鳥羽院; Retired Emperor Go-Toba)
 
-【Seal】 Medicinal herbs
+---
 
-Third day of the mid-period of the Kyōshō month of the same year
-Painted from life in my medicinal herb garden
+## 【Possibly *Takadōdai* (タカドウダイ), *Nourushi* (ノウルシ), or another member of the Euphorbiaceae family】
+
+### According to the *Imyō Bunruishō* (異名分類抄):
+
+　　*Taikeki* (大戟; *Euphorbia* sp.) [Japanese name: *Nōshiru* (ノウシル)]
+　　　There is also a further variety.
+
+　　　　　The *Wamyō-shō* (和名抄) states: [Japanese names:] *Hamahitokusa* (ハマヒトクサ), *Nehisu* (ネヒス);
+　　　　　　　　and also: *Harakusa* (ハラクサ) is said to be a product of *Joshū* (除州),
+　　　　　　　　　　　　　though this seems uncertain (literally: "not entirely settled").
+
+[Seal: Medicinal Herbs (*Yakusō*)]
+
+---
+
+On the third day of the middle period of *Kosen* (姑洗; the third lunar month) of the same year [Bunsei 7, 1824, approximately the thirteenth of the third month],
+sketched from life at the medicinal plant garden (*yakuen*).
+
+---

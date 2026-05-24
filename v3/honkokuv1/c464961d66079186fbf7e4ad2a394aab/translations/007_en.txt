@@ -1,0 +1,27 @@
+## Diagram of the Conjunction After New Moon at the True Crossing Point
+
+【Diagram notes】
+- Angular difference (距差): 3 degrees 96 minutes
+- Fixed difference (定差): 10 degrees 70 minutes
+- Fixed limiting degree of the White Road from the North Pole: 84 degrees 48 minutes
+- This represents the degree by which the lunar mansion degree falls short of the east-west measurement
+- Distance from the Vermilion Road (朱道): 19 and a half degrees余
+- Vermilion Road limit after the winter solstice: 64 degrees and some fraction
+- Equator: 14 degrees 66 minutes
+
+(Directional labels in diagram: Post-conjunction true node, East, North Pole, West, Middle node, Ecliptic, Winter solstice middle node, Blue Road)
+
+---
+
+When the sun and moon conjoin (new moon) at the true crossing point of the winter solstice, it is as shown in the diagram. The three elements — the sun, the moon, and the center of the earth — are aligned in a straight line, but as seen from the surface of the earth, they are viewed obliquely. For this reason, when within 8 degrees before or after the lunar calendar node (交), the eclipse can be observed.
+
+## Diagram of the Sun-Moon Conjunction at the True Middle Node of the Winter Solstice
+
+【Diagram notes】
+- Altitude of the North Pole above the horizon: 40 degrees and more (太)
+- (Labels in diagram: North Pole, North, level ground, node, zenith, horizon, center of earth, oblique view of sun and moon, sun-moon node, level ground, South Pole, South)
+- Depth of the South Pole below the horizon: 40 degrees and more (太)
+
+---
+
+When the sun and moon conjoin at the true crossing point of the summer solstice, it is as shown in the following diagram. The three elements — the sun, the moon, and the center of the earth — are aligned in a straight line, but from the surface of the earth they are viewed from a high angle (looking up). For this reason, even within 6 degrees before or after the node in the solar calendar (陽暦), no eclipse occurs. This case is the reverse of the winter solstice example.

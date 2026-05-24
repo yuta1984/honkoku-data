@@ -1,0 +1,36 @@
+## Chapter Ten: On the Buying and Selling of Copper Cash (Zeni)
+
+**Problem 1**
+When the exchange rate is 19 momme 2 bu of silver per 1 kanmon of copper cash, how much copper cash can one get for 1 momme of silver?
+　　→ 50 mon per momme
+
+Method: Place 960 (mon) and divide by the exchange rate of 19 momme 2 bu; this gives the amount of copper cash per momme of silver.
+
+---
+
+**Problem 2**
+When exchanging at a rate of 50 mon of copper cash per momme of silver, what is the value of 1 kanmon in silver?
+　　→ 19 momme 2 bu
+
+Method: Place 960 (mon) and divide by 50 mon; this gives the silver value of 1 kanmon.
+
+---
+
+**Problem 3**
+When buying copper cash with 176 momme 8 bu 5 rin of silver, at an exchange rate of 18 momme per kanmon, how much copper cash can be obtained for this silver?
+　　→ 9 kanmon 824 mon
+
+Method: Divide the available silver by the exchange rate of 18 momme, which yields 9 kanmon 825 mon. Multiply only the remaining 25 mon by 0.96 (the "96 discount"), and the 25 mon is reduced to 24 mon.
+
+---
+
+**Additional Note (on applying the fractional discount)**
+When applying the discount to amounts under 100 mon, there is also a method of multiplying from below by 4 and subtracting. However, beginners may become confused about which decimal place to apply the reduction. For example, when discounting the 25 mon mentioned above, first calculate "4 × 5 = 20, subtract"; one must then judge whether this "20" represents 2 bu or 2 rin.
+
+---
+
+**Problem 4**
+Given 9 kanmon 824 mon of copper cash, at a rate of 18 momme per kanmon, what is the equivalent value in silver?
+　　→ 176 momme 8 bu 5 rin
+
+Method: Place 9 kanmon 824 mon; divide only the 24 mon portion by 0.96 (the "96 factor"), then multiply by the exchange rate of 18 momme to obtain the silver value stated above.

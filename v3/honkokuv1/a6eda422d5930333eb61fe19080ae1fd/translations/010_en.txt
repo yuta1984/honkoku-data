@@ -1,33 +1,33 @@
-**(Continued from the previous page)**
+**(Continued from previous page)**
 
-…corresponds to 3,440,000 tsubo (approximately 1,157 chō), equivalent to **an area of less than one ri square**. Compared to the total area of Tosa Province today, which is approximately 400 square ri, this amounts to roughly one four-hundredth of the province — not a figure that should cause particular astonishment. Nevertheless, if a flat expanse of farmland covering an area of one ri square were to sink to the ocean floor in a single earthquake, it would by any measure constitute an extraordinary natural catastrophe.
+...equating to 3,440,000 tsubo, approximately 1,157 chō. This corresponds to **an area of less than one ri square**. Compared to the total area of present-day Tosa Province—400 square ri—this amounts to roughly one four-hundredth, and is not so astonishing a figure. Nevertheless, the fact that in a single earthquake, farmland of one ri square in area sank to the ocean floor must be considered an extraordinary natural catastrophe by any measure.
 
-It was therefore not at all hasty for the provincial governor of Tosa to report this in alarm to the Imperial Court, or for the court historians to record it in the official history. I have thus come to believe that the accounts of the ancients are, surprisingly, quite reliable and ought not to be dismissed lightly. I am firmly convinced that the account of 500,000 *kei* (頃) of farmland sinking during the great Tosa earthquake is no mere rhetorical exaggeration of the disaster, but an entirely factual account admitting of no doubt.
-
----
-
-**(Section D) The Tsunami Following the Earthquake**
-
-Now, it is a well-established principle of geology that after such a great earthquake, until the ground regains stability, considerable strong tremors and major tsunamis continue for days or even months thereafter, even if they be aftershocks. Indeed, in the following month after the great earthquake — that is, in the entry for the eleventh month of Hakuhō 13 in the *Nihon Shoki* — the following record appears:
-
-> *Kōjutsu* (庚戌): The provincial governor of Tosa reported that the tides had risen greatly, the sea had flooded and surged, and many tribute ships were lost.
-
-The minor tremors and high tides following a great earthquake do not subside easily; they gradually settle over the course of months and years. It is therefore likely that such events were encountered daily, but given the antiquity of the times and the difficulty of communication, they were not recorded in written sources one by one. However, this report from the provincial governor, submitted one month after the event, certainly serves as proof of these facts, and must be regarded as a most interesting historical document.
+It is therefore no hasty action that the provincial governor (kokushi) of Tosa, in alarm, reported this to the Imperial Court, and that the court historians took up their brushes to record it in the official history. Here I am convinced that the records of our forebears are unexpectedly reliable and must not be discarded, and that the account of 500,000 kei of farmland sinking during the great Tosa earthquake is by no means a rhetorical exaggeration, but rather an entirely factual account beyond any doubt.
 
 ---
 
-**(Section E) Meteorological Changes Following the Great Earthquake**
+### (D) The Tsunami Following the Earthquake
 
-After the great Tosa earthquake of Hakuhō 13, minor earthquakes and meteorological disturbances throughout the country did not settle for some time. For reference, I will here excerpt records from the subsequent three years from the *Nihon Shoki*.
+Now, after such a major earthquake, it is a well-established principle in earth science that, until the ground regains stability, considerable aftershocks and great tsunamis will continue for days or even months. Indeed, in the entry for the eleventh month of Hakuhō Year 13 in the *Nihon Shoki*—the month following the great earthquake—the following record appears:
 
-1. Hakuhō 13, 11th month, *Bōshin* day: At dusk, seven stars all streamed toward the northeast and then fell.
-2. Same month, *Kōgo* day: At sunset, a star fell in the eastern sky, as large as a jug (*kame*). By the Hour of the Dog (approximately 8 p.m.), all the stars in the sky were blurred, and stars fell like rain. On this day, a comet appeared in the center of the sky, traveling alongside the Pleiades (*Subaru*), then disappearing at the end of the month.
-3. Hakuhō 14, 3rd month: This month, ash fell over Shinano Province and all the plants and trees withered.
-4. Same year, 4th month, *Kibō* day: The provincial governor of Kii reported that the hot spring at Muro had sunk and ceased to flow.
-5. Same year, 12th month, *Shinshi* day: An earthquake originating from the west.
-6. Shuchō 1st year, 3rd month, *Kōjutsu* day: Snow fell.
-7. Same year, 11th month, *Ki* day: An earthquake occurred.
+> *Kōjutsu*: The governor of Tosa Province reported that the great tide rose high, the seawater surged and swelled, and many tribute-carrying vessels were lost.
 
-Examining the situation during the three years following the great Hakuhō earthquake in this manner, one can see that it was truly an ill-fated period of natural disasters and geological upheaval, with minor earthquakes and volcanic eruptions occurring throughout the country as the earth's crust sought to regain stability — a continuous succession of calamities so relentless as to leave virtually no respite.
+Aftershocks and high tides following a great earthquake do not subside easily; they gradually settle over the passage of months and years. Such incidents were likely encountered daily during this period, but given the antiquity of the era and the poor state of communications, they were not recorded in documents one by one. However, this report from the provincial governor, submitted one month later, certainly substantiates those events and must be considered a fascinating historical source.
 
-Although there are many who study the Hakuhō earthquake, most focus their attention only on the immediate circumstances of the great earthquake recorded in the Hakuhō 13 entry of the *Nihon Shoki*…(continued on the next page)
+---
+
+### (E) Meteorological Changes After the Great Earthquake
+
+After the great Tosa earthquake of Hakuhō Year 13, minor earthquakes and meteorological anomalies across the country also remained unsettled for some time. For reference, I shall excerpt the records of the three subsequent years from the *Nihon Shoki*:
+
+1. Hakuhō Year 13, Eleventh Month: On the day *bōshin*, at dusk, seven stars all streamed toward the northeast and fell.
+2. Same year, same month: On the day *kōgo*, at sunset, a star fell in the eastern direction, as large as a jar (urn); until the hour of *inu*, the entire sky grew bright, and stars fell like rain. On this day, a comet appeared in the center of the sky and traveled alongside the Pleiades, disappearing at the end of the month.
+3. Hakuhō Year 14, Third Month: During this month, ash fell on Shinano Province, and all grasses and trees withered.
+4. Same year, Fourth Month: On the day *kimō*, the governor of Kii Province reported that the Muro hot spring had submerged and ceased to flow.
+5. Same year, Twelfth Month: On the day *kanshi*, an earthquake originated from the west.
+6. Shuchō Year 1, Third Month: On the day *kōjutsu*, snow fell.
+7. Same year, Eleventh Month: On the day *mizunoto* (癸), an earthquake occurred.
+
+Examining the conditions during the three years following the great Hakuhō earthquake in this manner, it is clear that this was truly a year of great natural calamities, with small earthquakes, volcanic eruptions, and other phenomena occurring across various regions as the earth's crust sought to regain stability, and their successive disasters left scarcely any time for response.
+
+Although there are many who study the Hakuhō earthquake, most focus only on the immediate circumstances of the great earthquake recorded in the Hakuhō Year 13 entry of the *Nihon Shoki*— *(continued on next page)*

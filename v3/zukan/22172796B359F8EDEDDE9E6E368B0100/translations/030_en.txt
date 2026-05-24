@@ -1,42 +1,47 @@
-Sukampo (Rumex)　I say:
-　　　　　　　　　　Because the taste is sour, it was named by the country's
-　　　　　　　　　　common usage. Therefore it has the name Yukambo.
-　　　　　　　　　　In the Wakan Sansai Zue, sorrel (Sukanho) and also
-　　　　　　　　　　the Japanese name for rhubarb is recorded as "sushi," both are
-　　　　　　　　　　the same.
+## 【SUIBA (Sorrel)】
+　　　Sukanbo (Common Sorrel)
+　　　　　　　　〔Genju states:〕
+　　　　　　　　　　Because its taste is sour, this name was coined by popular usage.
+　　　　　　　　　　Hence the name "Sukanbo" exists.
+　　　　　　　　　　In the *Wakan Sansai Zue*, it is recorded as "Sukanho (酸模)" and
+　　　　　　　　　　the Japanese name for *daio* (rhubarb) is given as "Sushi" — both refer to
+　　　　　　　　　　the same thing.
 
-The Zoho Tashikihen, in the section on poisonous plants, says:
-　Sorrel　Japanese name: sushi　Now considering what is commonly called　Sheep's sorrel (Yōtei)
-　　　　　　Sui-dai-uku-sa
-　Mountain rhubarb　■bu (Zanbu)　Sour mother (Sanmo)　Sour grass
-　Medicinal herb
+As recorded in the "Poisonous Plants" section of *Zoho Tashikuhen*:
+　　　酸模 (Sumo/Sorrel)　　[Japanese name:] "Sushi"; according to current usage, commonly called "Suidaiukusa"　　[Additional names from the expanded edition:] Mountain Sheep's Sorrel (Yōtei) [from *Bencao Gangmu*]
+　　　　Mountain Rhubarb [from *Shui Yi*]　　Zanbu (薞蕪) [from *Er Ya*]　　Sanmo (酸母) [from *Bencao Gangmu*]　　Jō (蓚) [same source]
+　　　　Tōyaku (当薬)
 
-　　　　　　　　　　　　　　　　　　　　　Kinoto-tori year, Kosen month, 18th day
+
+　　　　　　　　　　　　　　　　　　　　　Kinoto-Tori year, Kosen month, 18th day
 　　　　　　　　　　　　　　　　　　　　　Painted from life
 
-　　　　　　　　　　　　　　　　　　　　　　　【Grass category】
+　　　　　　　　　　　　　　　　　　　　　　　　【Seal】Grass/Herb Category
 
-　　　　　　　　　The Yamato Honzō records both apple (Rinkin) and quince as two varieties
-　　　　　　　　　They are not the same thing or of the same type
 
-The Zoho Tashikihen, in the mountain fruits section, says:
-　Quince (Rinbai)　Japanese name　Some people say Rimukimu (Rinkin), also called
-　　　　　　In Nanban language it is called Marumeru, which is this
+---
 
-　　　　　　　　　　　　　　　　　　　　　　　【Tree category】
+## 【MARUMERO (Quince)】
+　　　　　　　　　The *Yamato Honzō* lists two varieties: "柰 (Rinkin)" and "Marumeru," but
+　　　　　　　　　they are not the same thing, nor do they belong to the same category.
 
-　　　　　　　　　　　　　　　　　　　　　Kinoto-tori year, Kosen month, 19th day
-　　　　　　　　　　　　　　　　　　　　　Painted by breaking off a branch
+As recorded in the "Mountain Fruits" section of *Zoho Tashikuhen*:
+　　　榲桲 (Rinbai)　　[Japanese name:] One person says "Rinkin (利牟幾牟)"; another account says that in the Southern Barbarian lands it is called "Marumeru (末留米留)" — this is the same plant.
 
-The Honzō Ikkaigen says:
-　Quince (also called Marumero) Enimero tree
+　　　　　　　　　　　　　　　　　　　　　　　【Seal】Tree Category
 
-　　　　　　　　　This matches well with the explanation of Marumeru in Yamato Honzō. In the Honzō there is
-　　　　　　　　　quince (Unhōtsu), and someone says this must be Marumeru. However, in the Honzō
-　　　　　　　　　quince has a very sweet taste and its fragrance is aromatic. Also the flowers are white and
-　　　　　　　　　green in color. The various theories in the Honzō speak of white, fragrant flowers.
-　　　　　　　　　Marumeru has pale pink flowers, and both flowers and fruit are ineffective, the fruit tastes
-　　　　　　　　　astringent and sour. It is not quince. Quince does not exist in Japan.
-　　　　　　　　　Marumeru is probably a barbarian word. It came from barbarian countries and does not exist
-　　　　　　　　　in China, etc. ○Genjū says: From ancient times, doubts remain doubts,
-　　　　　　　　　but commonly used names should not be changed.
+　　　　　　　　　　　　　　　　　　　　　Kinoto-Tori year, Kosen month, 19th day — A branch cutting painted once
+
+
+As recorded in *Honzō Ikkagen*:
+　　　榲桲 (Marumero, also called "Enimero [遠仁女路]") — the tree
+
+　　　　　　　　　Comparing this with the explanation of Marumeru in the *Yamato Honzō*: In the *Honzō* (Bencao),
+　　　　　　　　　there is an entry for 榲桲 (Unhōtsu). Some say "this must be Marumeru." However, the *Honzō*
+　　　　　　　　　states that "榲桲 has an especially sweet taste, its fragrance is richly aromatic," and also says "the flower is white
+　　　　　　　　　and greenish." The various descriptions in the *Honzō* all speak of white flowers with fragrance.
+　　　　　　　　　Marumero, however, has pale pink flowers, and neither its flowers nor its fruit are fragrant; the fruit's taste is
+　　　　　　　　　astringent and sour. Therefore, it is not 榲桲. The 榲桲 does not exist in Japan.
+　　　　　　　　　"Marumeru" is likely a barbarian (foreign/Portuguese) word. It came from foreign lands, and does not exist in China,
+　　　　　　　　　so it is said. ○ Genju states: From ancient times, what has been considered doubtful should remain as doubtful, and
+　　　　　　　　　what has become established as a common name should not be changed.

@@ -1,0 +1,13 @@
+Question: Regarding the distances of the Seven Luminaries (sun, moon, and five planets) and the fixed stars from the Earth, there are methods of measurement and calculation. But what are the sizes of stars classified into six magnitudes?
+
+Answer: According to the Hunggai Tuxian (Celestial Measurement Charts), the sizes of fixed stars are measured and divided into six magnitudes. First-magnitude stars have a full diameter 68 times that of the Earth's full diameter. (The circumference of the Earth is approximately 90,000 li, and the diameter is 28,660 li and 36 zhang.) Among these, the largest are some 20 times greater still, and the smaller ones are proportionally reduced. Second-magnitude stars are 28 times the size of the Earth; third-magnitude stars are 11 times; fourth-magnitude stars are 4.5 times; fifth-magnitude stars are roughly equal to or slightly larger than the Earth; and sixth-magnitude stars are one-third the size of the Earth.
+
+Beyond the sixth magnitude, there are stars so faint they can barely be seen — they cannot be measured by the eye nor calculated by number. Among the Seven Luminaries, the Sun is the largest, with a diameter 165 and three-eighths times that of the Earth.
+
+[Marginal note by Youyan: This calculation is based on dividing each degree of the celestial circle into 60 minutes. The Sun measures approximately 30 minutes in apparent size. If the Earth were placed at the Sun's distance, it would appear only about 10-odd seconds. The same applies to other stars. Also, taking the Sun and Moon in their respective orbs, with half a degree as one full diameter, Fang Sube calculated using half a degree that the Sun's diameter is 138,248.5 li. If calculated using the factor of over 100 times, the Sun's diameter would be 4,884,035 li, corresponding to 27 degrees and 118,306 li in its orb. This is an error in the Chuhan (the original Western text), which Sube corrected.]
+
+Saturn is 22 times the size of the Earth; Jupiter is approximately the same as Saturn; Mars is less than Jupiter. The Earth is 36 and one-twenty-seventh times larger than Venus. Mercury, being at the lowest position, is exceedingly small. The Earth is 38 and one-third times larger than the Moon. Therefore, the Sun is 6,538 and one-fifth times larger than the Moon.
+
+I (the author) would note that what the human eye perceives — nearby objects appear large even when small, and distant objects appear small even when large. These figures are derived through theoretical reasoning, and if one seeks firm proof, there may be an element of over-speculation.
+
+(Next section) On the concealment of Venus and Mercury (inferior conjunction phenomena)

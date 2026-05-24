@@ -1,0 +1,12 @@
+**Horizon** — A ring placed horizontally.
+**Meridian (Shigo-ki)** — A ring placed along the north-south axis; this is the longitudinal line.
+**Prime Vertical (Bōyū-ki)** — A ring placed along the east-west axis; this is the latitudinal line.
+　　※ In a simplified celestial globe, this ring is omitted.
+
+When these three rings are combined, there are six points of intersection. This is called "three rings, six conjunctions" (sanrin rokugō). Therefore, the study of celestial phenomena is also called "the study of six conjunctions" or "the study of longitude and latitude."
+
+---
+
+**Discourse on Celestial Phenomena (Tenshō Wasetsu)**
+
+Article 1: The North Pole stands thirty-six degrees above the horizon, and the South Pole lies thirty-six degrees below the horizon. This is as observed from Edo. In Kyōto (the capital), it is slightly more than thirty-five degrees. In Hizen-Nagasaki, Higo-Kumamoto, Hyūga-Nobeoka, and similar places, it is thirty-two degrees. In Satsuma-Kagoshima, it is thirty-one degrees. In Ōshū-Matsumae, it is slightly more than forty-one and a half degrees. In Ryūkyū-Naha, it is twenty-seven degrees. In Korea... (continues)

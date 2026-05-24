@@ -1,0 +1,19 @@
+Using an estimate of seventy ken, one causes a provisional marker to be placed precisely in the target direction, and following the prescribed method of sighting, ① one measures exactly seventeen and a half ken of opening distance to the right, causes a sighting marker to be placed, and sights through it. A remaining marker is set at the base station. ② Moving to the measurement site, one re-sights the remaining marker and precisely determines the orientation of the board. ③ Placing a ruler along the fifth ink line set up initially, one sights through the target stake. (The "target stake" refers to the provisional marker stake set up for the purpose of determining the target point.)
+
+If the target stake does not align in a straight line with the ruler placed on the fifth ink line, one must move the target stake forward or backward as many times as necessary until the ink line and the stake are in perfect alignment.
+
+(Marginal note: In order to avoid losing accuracy when moving the target marker forward and backward, two markers — a "remaining marker" and a "connecting marker" — are set in advance at the base station. If the procedure of advancing and retreating is performed inaccurately, error will certainly arise in the calculation. One should take particular care before and after this step.)
+
+When proper alignment has been achieved, the target stake should be firmly planted at that location. This then becomes the marker for the measured distance of seventy ken in the desired direction.
+
+【Explanation of the diagram】
+"Completed Diagram"
+　▽△ represents the reduced scale of the opening distance of 17.5 ken
+　○ represents the reduced scale of the sought distance of 70 ken
+　△ represents the reduced scale of the provisional/borrowed measurement; since its measurement method is explained in detail above, it is omitted here.
+
+---
+
+**Method of Covertly Indicating Directions (Anshi Hōmen-hō)**
+
+This technique also, as described above, determines distances in any direction from the base station — however far — without using a measuring rope or measuring rod, while remaining in place. Although the preceding method (the "Muteki Teiken-hō," or Method of Determining Distance Without a Fixed Target) and this method may appear to be techniques of little practical use, they enable beginning students to attain free command of infinitely varied applications…

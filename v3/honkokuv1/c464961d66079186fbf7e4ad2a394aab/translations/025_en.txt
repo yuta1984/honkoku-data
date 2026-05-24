@@ -1,0 +1,9 @@
+True Node (正交): 357 degrees 64 minutes
+Middle Node (中交): 188 degrees 05 minutes
+　　　Yang calendar limit: 6 degrees　　Fixed divisor: 60
+　　　Yin calendar limit: 8 degrees　　Fixed divisor: 80
+
+Chen states: In the case of a solar eclipse, at the intersection of the true node and middle node, if the distance before or after the node reaches 6 degrees on the yang side (陽暦) or 8 degrees on the yin side (陰暦), a total eclipse will occur in all cases. If it exceeds 6 or 8 degrees, no eclipse will occur. If it does not reach 6 or 8 degrees, a partial eclipse of some fraction will occur.
+
+○The method states: When the fixed nodal degree (交定度) does not reach the middle node (中交), subtract the fixed nodal degree from the middle node value; the remainder becomes the "pre-node yang calendar" (交前陽暦). If it exceeds the middle node, subtract the middle node from the fixed nodal degree; the remainder becomes the "post-node yin calendar" (交後陰暦). When the fixed nodal degree does not reach the true node (正交), subtract the fixed nodal degree from the true node value; the remainder becomes the "pre-node yin calendar" (交前陰暦). If it exceeds the true node, subtract the true node from the fixed nodal degree; the remainder becomes the "post-node yang calendar" (交後陽暦). As in the case of the 8th month:
+List the middle node value of 188 degrees 05 minutes, and subtract the fixed nodal degree of 1 degree 23 minutes 10 seconds from it; the remainder yields 0 degrees 6… (minutes).

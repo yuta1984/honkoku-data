@@ -1,0 +1,34 @@
+## Kiku Daigenhou (規矩大元方): The Grand Origin Method of Compass and Square
+
+This technique is used when there are many obstacles in all four directions, making it difficult to extend the baseline (kaijo) in any of the four diagonal directions—left, right, front, or back.
+
+The method involves performing the tasks of sighting (mikomi) and line-of-sight (mitōshi) without leaving one's base position (honza), remaining stationary while using the measuring board (bandake) to carry out the full procedure.
+
+Indeed, this method and its underlying principle represent the very foundation of land surveying and the profound subtlety of the measuring board (kenban). Therefore, one who masters this method will naturally achieve proficiency in all other techniques without needing to study them separately. For this reason, it is named the "Grand Origin Method" (Daigenhou).
+
+The technique states (explained by reference to the diagram below):
+
+First, set the board at the base position, oriented correctly in the horizontal plane. (South of the board is to the right; North of the board is to the left; East of the board faces the distant target; West of the board faces the near side.)
+
+Place the ruler on the North side of the board and sight the target directly. Next, without moving from that position—(because this is the measuring board technique, the West side of the board is used as the baseline extension, and the seat is not moved)—use the Kon corner (southwest corner) of the board as the pivot point and sight the target again diagonally. Draw an ink line following the ruler.
+
+When this is done, a 3-4-5 configuration (right triangle)—(East of the board is 3; South of the board is 4; the diagonal ink line is 5)—appears spanning from the South to the East side of the board, and the board face is complete (taisen).
+
+In what has now appeared:
+- **3** is the reduced-scale representation of the baseline (kaijo) distance of 1 shaku 6 sun. (If the full length of the board is, for example, 1 shaku 6 sun, naming the reduced-scale 3 as "the mouth of 1 shaku 6 sun" carries the same meaning as in the usual method.)
+- **4** is the reduced-scale representation of the sought distance (kyūtei).
+- **5** is the reduced-scale representation of the auxiliary hypotenuse (kashaku).
+
+Measure the "3" against the board length of 1 shaku 6 sun (the baseline), and using that unit (kane)—(the kane of 1 shaku 6 sun on the board)—measure "4": there are fifty hasami (clippings/intervals). (Each hasami equals 1 shaku 6 sun.) Fifty hasami equals 8 jō. This should be understood as the distance (kyūtei) being sought.
+
+---
+
+**Description of Diagram:**
+
+Taisen (complete) — Dō no (moving) — Fu (not moving)
+
+The ▽△ in the diagram represents the reduced scale of the board length of 1 shaku 6 sun. The ○ represents the reduced scale of the sought distance of 8 jō. The △ represents the reduced scale of the auxiliary (kashaku). By measuring ○ with ▽△, the sought distance is obtained.
+
+Board length: 1 shaku 6 sun
+Moving [station]
+Not [moving] [station]

@@ -1,40 +1,53 @@
-According to the Wakan Sansai Zue, in the section on wet grasses:
-　　　　Japanese Forsythia (Warenkiyō)　The Honzō states that small forsythia grows in southern regions. What
-　　　　　　　　exists now in Japan is this variety. The original forsythia
-　　　　　　　　once existed but no longer does. Throughout all provinces it is simply called forsythia.
+---
 
-　　　　　　　　　　　　　　　　　　According to my investigation, what the Honzō calls small forsythia
-　　　　　　　　　　　　　　　　　　is indeed grass. It is what is called grass giyō.
-　　　　　　　　　　　　　　　　　　The harmonious explanation of Japanese and Chinese forsythia
-　　　　　　　　　　　　　　　　　　is this. Japanese forsythia should be examined.
+【Note: Rengyō (連翹; *Forsythia* sp. / Japanese Forsythia)】
 
+**From the *Wakan Sansai Zue* (和漢三才図会; *Illustrated Encyclopedia of Japan and China*), section on Aquatic Herbs (湿草類):**
 
-According to Honzō Ikka-gen:
-　　　　Forsythia　Re-entry
+　　**Wa-Renkyō (倭連翹; "Japanese Forsythia")**
 
-　　　　　　Small forsythia has drooping branches
-　　　　　　Small forsythia has upright branches
+　　　　The *Honzō* (本草; Chinese materia medica) states that "Shō-Renkyō (小連翹; Small Forsythia) originates from the southern regions." What is known as such in Japan today is precisely this plant. The domestically-produced (*honchō*) variety of Renkyō once existed in Japan but is no longer found. Throughout the various provinces, it is simply called "Renkyō" (連翹).
 
+　　　　　　　[Annotation by the author, Baien]: Upon my own consideration written above: what the *Honzō* calls "Shō-Renkyō" (小連翹; Small Forsythia) is a herbaceous plant, also referred to as "Kusagiyō" (草義陽). It is in this regard that the Chinese and Japanese accounts of Renkyō converge. The matter of *Wa-Renkyō* (倭連翹; Japanese Forsythia) warrants further investigation.
 
-　　　　　　　　　　　　Honzō Wage
-　　　　　　　　　　　　　　　Alternative names: Ren-ikyō, Kanrenshi (Drought lotus seed), Rangé (Orchid flower)
-　　　　　　　　　　　　　　　　　　The root is named Renshō, also named Chikkon (Bamboo root)
-　　　　　　　　　　　　　　　Japanese name: Itachikusa (Weasel grass)
+---
 
-　　　　　　　　　　　　　　　　　　　　　　The Kyūkō Honzō states that forsythia can
-　　　　　　　　　　　　　　　　　　　　　　correspond well
+**From the *Honzō Ikkagen* (本草一家言; *Personal Opinions on Materia Medica*):**
 
+　　Renkyō (連翹) — [repeated entry]
 
-According to Imyō Bunrui-shō:
-　　　　　　Itachihase　Wamyō Ruijū
-　　　　　　Itachihase
-　　　　　　Ahakusa　　Shinsen Jikyō
+　　　　Shō-Renkyō (小連翹; Small Forsythia): its branches droop downward.
+　　　　Dai-Renkyō (大連翹; Large Forsythia): its branches grow upward.
 
-According to Wamyō Ruijū-shō:
-　　Forsythia, the Honzō states forsythia, alternate name sanren-sō (three honest grass)
-　　Japanese name　Itachikusa
+---
 
+**From the *Honzō Wage* (本艸和解; *Japanese Interpretations of Materia Medica*):**
 
+　　Alternative names: Ren (連), Ikyō (異翹), Kanrenshi (旱蓮子), Range (蘭華), Sanren (三廉)
+　　The root is called *Renshō* (連軺); also named *Chikkon* (竹根).
+　　　　　　Japanese name: Itachigusa (伊多知久左; "Weasel Herb")
 
-　　　　　　　　　　　　　　　　　　　　　At this time, 7th year of Bunsei, kinoe-saru, spring, second month
-　　　　　　　　　　　　　　　　　　　　　Kakyō Shūkan true copy
+　　　　　　　　　[Note:] This accords well with the description of Renkyō in the *Kyūkō Honzō* (救荒本草; *Materia Medica for Relief from Famine*).
+
+[Seal: Medicinal Herbs (薬草)]
+
+---
+
+**From the *Imyō Bunruishō* (異名分類抄; *Classified Compendium of Alternative Names*):**
+
+　　　　Itachihase (伊多知波勢) — [sourced from] the *Wamyō Ruijushō* (倭名類聚抄)
+　　　　Ahakusa (アハクサ; "Foam Herb") — [sourced from] the *Shinsen Jikyō* (新撰字鏡)
+
+---
+
+**From the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Collected*):**
+
+　　Renkyō: The *Honzō* (本草) states: "Renkyō, also known by the name Sanrensō (三廉草)."
+　　Japanese name: Itachikusa (以多知久佐; "Weasel Herb")
+
+---
+
+Written in the spring of the year Kinoe-Saru (甲申), Bunsei 7 [1824], in the second lunar month (Kisaragi/如月):
+Sketched from life at the Kaganku-kan (花萼集館).
+
+---

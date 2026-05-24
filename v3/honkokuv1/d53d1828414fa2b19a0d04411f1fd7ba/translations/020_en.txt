@@ -1,0 +1,27 @@
+**[Method for Measuring the Width of a Valley Floor (Kōshin Ryōkōhō)]**
+
+This method is used for standing at a mountain peak to measure the width of a valley between mountains, or for knowing the width of a moat outside a castle from atop a tower. In general, it is a method for measuring the breadth or narrowness of low-lying ground from a high position. Here, the procedure for determining the width of a valley is recorded below. Other cases can be understood by analogy with this method.
+
+[Note: This "Method for Measuring the Width of a Valley Floor" involves performing the "Technique for Near and Far Distances Below the Target" twice to measure the distances (aerial/slant distances) to the bases of both the far and near mountains, then performing the "Depth-from-Height Technique" at that location to measure the whole. One should understand that it is completed through these three techniques in sequence.]
+
+The method states (described using the figure shown below):
+
+First — **[Step 1]** From the base station, using the "Technique for Near and Far Distances Below the Target" (the procedure for this technique is recorded in a separate chapter and is therefore not included here), sight toward the base of the opposite mountain and measure the aerial distance (slant distance); this is found to be 70 *ken*.
+
+**[Step 2]** Using the same technique, sight toward the base of the near mountain (on this side) and measure the aerial distance; this is found to be 55 *ken*.
+
+[Note: Even if one measures only the aerial distance to the base of either the near or the far mountain, the method would yield the same result; however, for the benefit of those not yet proficient, the method of measuring both sides is described here.]
+
+These aerial distances from both sides are used as the basis (seed) for the main technique.
+
+[Note: Up to this point, the procedure for measuring the aerial distances from the base station to both mountain bases (far and near) is a separate technique. Since it is not directly part of the main technique, its figures and explanations are omitted and not recorded here.]
+
+**[Step 3]** Now (from here, the procedure of the "Depth-from-Height Technique" is described): ① Base station
+
+---
+
+**[Diagram of the Complete Solution]** (Fixed/Invariant)
+
+The fixed ▽△ represents the scaled reduction of the aerial distance of 70 *ken* to the far mountain's base. The ✕ represents the scaled reduction of the aerial distance of 55 *ken* to the near mountain's base. The ○ represents the scaled reduction of the ground distance of 20 *ken* for the sought measurement. When one measures ○ using the *kane* (square) with which ▽△ and ✕ were measured, the answer will naturally be obtained.
+
+**Sought distance: 20 *ken***

@@ -1,0 +1,38 @@
+## Figure 4
+
+### Sunspots
+
+(Diagram description)
+- West
+- North　Sunspots (black spots) emerge from the east and set in the west　Solar meridian　Solar equator　Their shape changes repeatedly from rising to setting　South
+- East
+
+---
+
+### Diagram showing the times when Mercury and Venus transit across the Sun
+
+| Mercury Transits |
+|---|
+| November 12, 1861 |
+| May 6, 1878 |
+| November 10, 1894 |
+| November 9, 1848 |
+| December 8, 1848 |
+
+| Venus Transits |
+|---|
+| November 8, 1881 |
+| May 10, 1891 |
+| November 3, 1861 |
+
+(East side indicates the observational viewpoint)
+
+---
+
+### Cross-sectional diagram of the Sun showing why sunspots arise
+
+- Sunspot (black spot)
+- Solar body (the substance of the Sun)
+- The photosphere (光気, luminous layer) envelops the solar body
+
+(Diagram showing the position of sunspots)

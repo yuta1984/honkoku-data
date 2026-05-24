@@ -1,0 +1,12 @@
+(Continued from previous page) Stop here; dividing the remainder by the interval method (刻法) of 12, one obtains 3 intervals (刻), 7 parts (分), 7 hundredths (厘), with a remainder. For the eighth month, list 4,633 fen 64 seconds as the dividend (実), with the time-method (時法) 12 as the divisor (方); dividing the dividend by the divisor gives 3 units 8613.66 with a remainder. The 3 units, counted from zi (子), give the intervals of zi, chou, and yin (子・丑・寅). Stop here; dividing the remainder by the interval method of 12, one obtains 7 intervals, 1 part, 7 hundredths, 8 thousandths (毛), with a remainder.
+
+1. Fixed Crossing Degree (交定度, Corrected Node Degree)
+　February: 181 degrees, 31 minutes, 84 seconds
+　August: 1 degree, 23 minutes, 10 seconds
+
+○Method: List the "extinction days" (没日) of the eclipse month; multiply by the lunar motion multiplier (月行乗方) of 2,139; divide by 160. If the quotient yields a "fullness difference" (盈差), add it; if it yields a "contraction difference" (縮差), subtract it, to obtain the Fixed Crossing Degree.
+
+1. Yin-Yang Calendar (陰陽暦, Lunar Node Position)
+　February: Before the node, Yang Calendar (陽暦): 6 degrees, 73 minutes, 16 seconds
+　　Chen states: Being in the Yang Calendar and exceeding 6 degrees, there is therefore no eclipse.
+　August: Before the node, Yang Calendar (empty degree): 93 minutes, 80 seconds

@@ -1,0 +1,11 @@
+From the listed larger number, subtract the smaller number to obtain the *shi* (dividend/operand); multiply the *shi* by the *fang* (square/multiplier); obtain the quotient by five successive reductions; designate it as degrees using *yi* (hundred million), and this becomes the difference (*cha*).
+
+**I. Additive-Subtractive Difference (加減差, Jiājiǎn Chā)**
+　Additive difference for the 2nd month (Ying calendar): 0 degrees, 35 minutes, 90 seconds
+　Subtractive difference for the 8th month (Suo calendar): 0 degrees, 53 minutes, 95 seconds
+
+　　Chen states: Place the Ying difference (盈差) and Suo difference (縮差) on the right; place the slow difference (遅差) and fast difference (疾差) on the left. Compare left and right: when Ying and slow (遅) are paired together, or when Suo and fast (疾) are paired together, they are "same-name" (同名) and are added together. When Suo and slow (遅) are paired together, or Ying and fast (疾) are paired together, they are "different-name" (異名) and are subtracted from each other. When Ying is paired with slow, or Ying is paired with fast, this is called the "additive difference" (加差). When Suo is paired with fast, or Suo is paired with slow, this is called the "subtractive difference" (減差).
+　　In this method as well, the positional values follow the same standard as those used in seeking the Ying-Suo difference.
+
+○Method for finding the additive difference of the 2nd month:
+　List the Ying difference and the slow difference side by side on left and right — these are same-name. Add left and right together, divide by the transit-day transit-fixed-degree value of 14 units [×] 478; the resulting quotient is the additive difference.

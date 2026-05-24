@@ -1,0 +1,10 @@
+○The method states: Set out the accumulated total (通積, tōseki), subtract the Tensei intercalary remainder (天正閏余) from within, then remove the remainder by the sexagenary cycle unit of 600,000 until it cannot be divided further. Take the remaining value, treating every 10,000 units as one day, to obtain the Mean New Moon (経朔) of the eleventh month. Add the New Moon interval (朔策) of 295,305 fen 93 miao, and when it reaches the nodal cycle (交終日) of 27 days 2,122 fen 24 miao, remove it, making it the Mean New Moon of the twelfth month. Proceed in this manner, adding and subtracting successively, until reaching the eighth month.
+
+1. Entry into the Anomalistic Cycle (入転日)
+　2nd month: 25th day, 2,642 fen, 65 miao
+　8th month: 9th day, 5,656 fen, 23 miao
+
+○The method states: Set out the intermediate accumulation (中積, chūseki), add the anomalistic epoch constant (転応) of 131,900 fen, subtract the Tensei intercalary remainder from within, then remove the remainder by the anomalistic period (転終分) of 275,546 fen until it cannot be divided further. Take the remaining value as the entry into the anomalistic cycle (入転日) for the eleventh month. Add the anomalistic difference (転差) of 1 day 9,759 fen 93 miao; when it reaches the anomalistic period, remove it, obtaining the entry into the anomalistic cycle for the twelfth month. Proceed in this manner, adding and subtracting successively, until reaching the eighth month.
+
+1. Slow-Fast Calendar (遅疾暦)
+　2nd month: Slow calendar (遅暦), 11th day, 4,869 fen, 65 miao

@@ -1,0 +1,23 @@
+(Continued from the previous page)
+
+...apply wedges, and following the indications of leveling instruments such as the water level (referring to placing water on top of the compass board or its stand), the plumb needle (placed on the compass board with its needle mouth aligned; the instrument is illustrated below), and the plumb bob (fine threads hung from the four corners of the board, from which weights are suspended; the instrument is illustrated below),
+
+[Figure: Horizontal compass board]
+
+tighten or loosen the wedges beneath the stand to establish a level position.
+
+(If the location where the board is to be placed is uneven, one should carefully level the terrain, make it into a flat surface, and then place the board as described above.)
+
+Also, when there are many lines of sight to observe, or when the target is near but the cleared ground is far, the board should be placed horizontally. (Although the method of placing the board generally employs a vertical face, in cases such as this, the horizontal face is also used. This method is recorded in detail below.)
+
+[Figure: Vertical standing compass board]
+
+Furthermore, the elevation and depression of the target are adjusted using the surface of the compass board, while the elevation and depression of the cleared ground are adjusted using a straightedge.
+
+Each of these methods is recorded in detail in a separate volume.
+
+Regarding the method of using the compass board in mountain valleys: first, as stated above, level the terrain surface where the board is to be placed, and in advance, draw two straight ink lines vertically on the back of the board on the left and right sides, as shown in the figure, making sure they are sufficiently straight and true. Then insert the mortise-and-tenon joint (hozo-zan) on the back of the board into the post and push it up straight. Next, insert a small needle into the wooden end-grain of the board's north edge (when the board is pushed upright, the north end-grain becomes the top), hang the plumb bob from it, and align the previously drawn ink lines on the back of the board with the line of the thread now hanging down. By doing this, the board will stand perfectly upright.
+
+(This is called the "plumb bob method," also known as the "hanging thread method.")
+
+Alternatively, one may place the plumb needle on the board's edge (the board's edge refers to the north end-grain of the board) and align its needle mouth to establish a true vertical—this is also acceptable. Using the water level is likewise permissible. By doing any of these, the vertical alignment of the board is immediately determined. All other methods should be understood by analogy with the method of placing the surveying compass on flat land. Further details are recorded in a later chapter; one should consult and consider accordingly.

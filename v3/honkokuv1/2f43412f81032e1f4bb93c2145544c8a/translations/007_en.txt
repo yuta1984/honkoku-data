@@ -1,0 +1,33 @@
+【Continuation of the Forward-Opening Method (前当開方)】
+
+…Measure however many *ken* (units of length) are needed and plant the *hiraki-shirushi* (opening marker stake). (Note: Here, it is measured at 30 *ken* for the forward opening. It is also recommended that this forward-opening interval be one-thirtieth of the total.)
+
+At this time, leaving the surveying board (*ban*) at the home station (*honza*) as it is, as if sighting through it, it is even better if the target (*moku-teki*), this opening marker, and the straightedge (*jōgi*) can all be seen in one straight line from the east (front) of the board.
+
+Plant the *noko-shirushi* (remaining marker) at the home station.
+
+③ Now, move to the open ground (*kaichi*), look back at the remaining marker, and orient the board precisely in the correct direction.
+
+④ Using the *Gen* (northeast) corner of the board as the pivot point (taking the ink line first sighted at the home station as the reference), sight back to the provisional target, and draw an ink line along the straightedge. When this is done, in addition to the 3-4-5 shape (right triangle), a single "difference segment" (*sha-hitokuchi*) appears, and thus the board face is completed (*taisei*).
+
+The "3" that now appears is the scaled representation of the *kyūtei* (the distance to be measured). (Strictly speaking, according to the original theory, this "3" is not the scale of the *kyūtei*; however, using that strict method makes the procedure overly precise, so the abbreviated method is used here, taking "3" as the scale of the *kyūtei*.)
+
+"5" is the scale of the provisional value (*kashaku*). "4" is also the scale of the provisional value. (Strictly speaking, "4" is also not a *kashaku* according to original theory; however, applying the original theory makes the procedure too elaborate, so the abbreviated method is used, treating it as the scale of the provisional value.)
+
+The *sha-kō* (difference length) is the scale of the *kaijo* (the opening distance, i.e., 30 *ken* of the forward opening). Measure this *sha-kō* against the opening interval of 30 *ken* (using the *konpatsu* instrument, clamp the *sha-kō* into one grip-width, and make that the 30-*ken* measure). Using that measure (*kane*) to measure "3," one finds one-and-a-half grip-widths (each grip-width being 30 *ken*). One-and-a-half grip-widths equals 45 *ken*. Adding the 30 *ken* of the *sha-kō* to this,
+
+the total is 75 *ken*. This is the number of *ken* for the *kyūtei* (the distance from the home station to the target). (The above describes the forward-opening method. In the backward-opening measurement method, one measures "3" using the *sha-kō*, and that value directly becomes the *kyūtei*; the *sha-kō* is not added to the distance.)
+
+---
+
+【Zanshi Ichi-kaihō (残子一開方): The Single-Opening Method with Residual Seed】
+
+Here the method of leaving a "seed" (reference marker) behind is described. The method of leaving a "seed" ahead should also be inferred from this.
+
+This technique is used for measuring long distances in locations where there is a swamp or river between the home station and the open ground, making it impossible to measure the interval of the detour (*kaijo*). The method is as follows: in proportion to the interval of the detour, measure out a fixed number of *ken* either forward or backward from the home station in a straight line, and plant a *tane-shirushi* (seed marker). Upon reaching the open ground, look back at this seed marker to first determine the interval of the detour (treating the seed marker as the opening point to determine the distance of the open ground). After that, the *kyūtei* (the distance from the home station to the target) is calculated and determined. (Even when there is no obstacle such as a swamp or river in the detour interval, this method may be used when the detour distance is large. For further details, one should make an effort to learn.)
+
+The method states (as illustrated in the diagram below): After performing the initial setup (*shikei*) as prescribed by the procedure,
+
+① Place the board at the home station oriented correctly, and sight the target straight ahead from the east (front) of the board.
+
+② From the very center of the east face of the board…

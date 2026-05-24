@@ -1,12 +1,26 @@
-Beginning of Winter, Light Snow, Heavy Snow, Winter Solstice, Light Cold, Great Cold
+**(Continuation of the Twenty-Four Solar Terms)**
 
-The Twelve Zodiacal Houses
-Capricorn, Aquarius, Pisces, Aries, Taurus, Gemini
-Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius
+Rittō 立冬 (Start of Winter) · Shōsetsu 小雪 (Minor Snow) · Taisetsu 大雪 (Major Snow) · Tōji 冬至 (Winter Solstice) · Shōkan 小寒 (Minor Cold) · Daikan 大寒 (Major Cold)
 
-Alternative Names for the Twelve Earthly Branches
-Genkyō, Seiki, Sekiboku, Taika, Jushō, Jun'bi
-Jun'ka, Junshu, Jisshin, Tairyō, Kōrō, Shukushi
+---
 
-On the Minute Motion of the North Pole
-First, if one does not know that the North Star has minute motion, it becomes impossible to measure the altitude above the horizon in various countries. For example, when measuring in a country where the North Pole's altitude is thirty-five degrees, depending on the time, it may appear to be more than thirty-six degrees.
+**The Twelve Zodiacal Mansions (*Jūnikyū*)**
+
+| Capricornus 摩蝎 | Aquarius 宝瓶 | Pisces 双魚 | Aries 白羊 | Taurus 金牛 | Gemini 双児 |
+|---|---|---|---|---|---|
+| Cancer 巨蟹 | Leo 獅子 | Virgo 室女 | Libra 天秤 | Scorpius 天蝎 | Sagittarius 人馬 |
+
+---
+
+**Alternative Names for the Twelve Earthly Branches (*Jūnishi Imyō*)**
+[The traditional Chinese stellar division names (*xingci* 星次) corresponding to the Twelve Earthly Branches]
+
+| Xuánxiāo 玄枵 | Xīngjì 星紀 | Xīmù 析木 | Dàhuǒ 大火 | Shòuxīng 寿星 | Chúnwěi 鶉尾 |
+|---|---|---|---|---|---|
+| Chúnhuǒ 鶉火 | Chúnshǒu 鶉首 | Shíchén 実沈 | Dàliáng 大梁 | Jiànglóu 降婁 | Jūzī 娵訾 |
+
+---
+
+**A Discussion on the Subtle Movement of the North Pole Star (*Hokkyoku Bidō no Ben*)**
+
+When one is unaware that the North Pole Star undergoes subtle movement, it becomes impossible to accurately survey and measure the altitude of the celestial pole (*shutsuchi*, i.e., geographic latitude) in various regions. For example, when taking measurements in a country where the polar altitude is thirty-five degrees, depending on the time of observation, it may appear to be over thirty-six degrees…

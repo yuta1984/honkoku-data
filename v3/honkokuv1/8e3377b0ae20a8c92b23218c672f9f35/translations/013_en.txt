@@ -1,0 +1,23 @@
+...making it equal to 2 sun 9 bu [approximately 2.9 cm]. When viewed according to this argument, the latitudinal movement [of the sun] north and south in summer and winter would show no conspicuous difference, and it would appear as though the three paths travel along a single straight line—this is the logical reasoning. Yet, the directions of sunrise and sunset in winter and summer are vastly different, the north-south angular distance is large and expansive, and that the three paths are clearly distinguishable is entirely due to the action of the wind-energy (風気), as the scriptures state particularly clearly. And what is described as the inner and outer paths—traveling as if along a single straight line—being 290 yojana, has the profound meaning of being the fundamental source of the expansion/contraction (盈縮) and acceleration/deceleration (遅疾) [of the sun and moon's motion].
+
+In the *Rekigaku Gimon* (Doubts on Calendrical Studies), Volume 3, the epicycle (小輪) and the fixed-center wheel (不動心輪) are posited, and the expansion/contraction is discussed in detail. That explanation states: "The method of the small circle [epicycle] is that the original heavens (本天) of the sun and moon are all concentric with the earth, and around this original heaven there is also a small circle which serves as the dwelling place of the sun and moon. Therefore, the original heaven serves as the great circle [deferent], carrying the center of the small circle and moving eastward. The sun and moon reside on the circumference of the small circle (that is, its edge) and travel westward. When the great circle moves one degree, the sun and moon on the small circle also travel one degree. When the great circle completes one revolution, the small circle also completes one revolution. And so the degrees of expansion and contraction [of the calendar], and the distances of the highest and lowest points, all agree without calculation," so it is said. In this, "making the original heaven the great circle" means—
+
+【Diagram: Figure reproduced from *Rekigaku Gimon*】
+
+　甲 (jiǎ/kō) is the center of the small circle [epicycle] (i.e., the middle distance)　子 (zi/ne) is the center of the earth　子甲 is the radius of the original heaven (本天半径)
+　戊 (wù/bo) is the apogee (最高)　The distance 子戊 is farther than the radius
+　庚 (gēng/kō) is the perigee (最卑)　The distance 子庚 is closer than the radius
+　辛戊己 forms the upper half-circle, all traveling westward. 己庚辛 forms the lower half-circle, all traveling eastward. 己 and 辛 are both stationary points (留際).
+
+　　　　　己 (start of shrinkage / end of expansion)
+縮初 (start of shrinking)　　　縮末 (end of shrinking)
+戊　　　甲　　　庚　　　　子
+　　盈末 (end of growing)　　　盈初 (start of growing)
+　　　　　辛
+
+[Small Circle / Epicycle Diagram]
+
+　甲 is the degree of the center of the small circle, i.e., the degree of mean motion (平行)
+　戊 is the apogee, 庚 is the perigee; both coincide with the mean motion to form a single line
+　己 is the limit of maximum subtraction (減極の限), located to the west of the mean motion　　辛 is the limit of maximum addition (加極の限), located to the east of the mean motion
+　戊己庚 constitutes the half-revolution of the "shrinking calendar" (縮暦), all having subtractive degrees. 庚辛戊 constitutes the half-revolution of the "growing calendar" (盈暦), all having additive degrees.

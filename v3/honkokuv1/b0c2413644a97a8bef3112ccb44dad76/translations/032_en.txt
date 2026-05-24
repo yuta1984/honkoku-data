@@ -1,0 +1,55 @@
+**[Upper Section]**
+
+*[Caption for diagram: A circular diagram showing that the closer the Sun and Moon are to the Dragon's Head and Dragon's Tail, the greater the eclipse]*
+
+**[Upper Diagram]**
+Center of Earth
+
+(Sun) (Moon)　　Dragon's Head/Tail
+
+Sun　　Dragon's Head/Tail
+Moon
+
+Center of Earth
+
+**[Lower Diagram]**
+Center of Earth
+Dragon's Head/Tail
+Earth's Shadow
+Moon's Body
+
+Moon's Body　　Earth's Shadow
+
+Dragon's Head/Tail　　Center of Earth
+
+---
+
+**[Lower Section (Main Text)]**
+
+Tang Daomei said: Solar eclipses and lunar eclipses are inherently different from each other. A lunar eclipse appears the same to everyone throughout the world, but a solar eclipse does not. A solar eclipse occurs early in one place and late in another; it appears large (frequent) in one place and small (rare) in another; it appears shifted to the south in one place and shifted to the north in another. No two places experience it in the same way. A lunar eclipse, however, appears the same in size, the same in speed, and the same in duration to all observers anywhere on the face of the earth. Only those who reside on different meridians will observe it at different times. For once the Moon enters the shadow and loses the light it has borrowed [from the Sun], there is no place from which its light can be seen. Nevertheless, because there is variation in the angular distance [from the Dragon's Head/Tail nodes], lunar eclipses vary in size and duration. Moreover, because the Sun's distance from the Earth varies, the size of the Earth's shadow varies accordingly. Therefore, there are cases where an eclipse occurs and cases where it does not.
+
+---
+
+**[Upper Section]**
+
+*[Caption for diagram: A diagram showing that the zenith and meridian differ according to one's location on Earth]*
+
+**[Diagram]**
+(Outer circle characters): Rooster, Dog, Pig, Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey (repeated)
+
+Zenith
+丙 (Bing)
+
+Zenith　　乙 (Yi)　　丁 (Ding)　　Zenith
+
+甲 (Jia)
+
+Zenith
+
+(Sun)
+
+---
+
+**[Lower Section (Main Text)]**
+
+The *Tianwen Lüe* [Brief Survey of Astronomy] states: The Earth is a spherical body suspended in the void. Above, below, and on all four sides, people dwell. People in all directions each take the meridian of their own location as the hour of noon. When the Sun is at the eastern position 甲 (Jia), for those living in the east, it is noon, because the Sun's disc is at their zenith. For 乙 (Yi), one living in the west, it is the Hour of the Rabbit [approximately 6:00 a.m.], because the Sun's disc requires three hours [of travel] to reach the zenith. For 丙 (Bing), one living directly to the west, it is the Hour of the Rat [midnight], because the Sun's disc requires six hours to reach the zenith. As places are separated from east to west, it is invariably so for all. If two places are separated by 7,500 *li*, the time difference is one *shi* [one double-hour, approximately two hours]. From this, one can understand that when those living to the east reach noon, as one proceeds gradually westward from that point, it becomes the Hour of the Snake, then the Hour of the Dragon, then in turn the Hours of the Rabbit, Tiger, Ox, and Rat.

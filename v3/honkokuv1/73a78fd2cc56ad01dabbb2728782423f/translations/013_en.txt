@@ -1,0 +1,19 @@
+Each [celestial body] has its own proper motion (本行, *honkō*), so to determine the year, one must add this proper motion. The reason for this addition is that the eastward movement of the fixed stars is fixed at fifty-one arc-seconds per year.
+
+[Interlinear note by Youyan: The circumference of the sphere of fixed stars is 2 *zi* 0 *gai* 2 *jing* 8 trillion 8 hundred million 39,025 *li*. The total eastward movement of the fixed stars adds an additional 81,153.5 *li* per year. After approximately 25,000 years, the accumulated addition fills the full circumference. What is called "precession of the equinoxes" (歳差) actually has no discrepancy. This is calculated by dividing the *li* measurements into degrees.]
+
+This is what is called "precession of the equinoxes" (歳差, *saisa*). However, when recording years in the solar calendar, calculations are made using only whole days, without using fractional remainders. If one year is defined as the twelve conjunctions of the Sun with the Moon, this amounts to 354 days. Therefore, an intercalary month is inserted every two or three years.
+
+There are two types of months: one is determined by the Moon completing each new lunar cycle (朔, *saku*), called the "lunar month"; the other is determined by the Sun passing through one zodiacal mansion, called the "solar month." Since each is one-twelfth of a year, they are essentially the same.
+
+The distinction between a "long month" (大尽, *taijin*) and "short month" (小尽, *shōjin*) at the end of a month arises because the Moon meets the Sun in conjunction (合朔, *gassaku*) approximately every 29 days and 6 hours. For example, if the first new moon occurs at the midnight hour (*ne no sei*, the exact midnight), and after 29 days it has not yet reached the midnight of the 30th day, it is called "small" (小). If it has passed midnight, it is called "large" (大).
+
+Even if a month falls just short of 30 days, if the time has not reached [midnight], the calendar-maker cannot call it "large." Conversely, even if it is slightly more than 29 days, if the time has already passed [midnight], the calendar-maker cannot call it "small." Furthermore, since the degrees of longitude differ throughout the world, the size of months varies accordingly. For example, if in the capital city (Beijing), the second new moon falls at the second mark of the *ne* hour (*ko no sho ni koku*) and has not yet reached the exact midnight, that month is "small." However, in Xi'an, that same new moon would already be at the first mark of the exact midnight hour (*ne no sei sho koku*), and it should be considered "large." Large and small months, like the solar terms, differ by location.
+
+[Interlinear note by Youxiong: When discussing precise measurements down to minutes and seconds of arc, differences in solar terms and in large and small months arise between locations. If the capital is taken as the standard, then each locality need only preserve the underlying principle, and may simplify the method while following it, for the convenience of local customs. The same applies to the extent of solar and lunar eclipses and the timing of their depth.]
+
+This is why the lunar conjunction requires approximately 30 days minus a little, and thus constitutes one month. This is called the "lunar month."
+
+[Interlinear note: Because the month is determined by the conjunction (合朔), it is named the "lunar calendar" (太陰暦).]
+
+Then, taking the winter solstice as the mansion of the principal solar term, the twelve *chūki* (中気, median solar terms) are designated as the twelve mansions. [Interlinear note: That is, the ten (two mansions)…]

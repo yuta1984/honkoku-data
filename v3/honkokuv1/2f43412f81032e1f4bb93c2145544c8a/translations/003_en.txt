@@ -1,0 +1,37 @@
+### (Continued from the previous page)
+
+*(This refers to the procedures to be carried out before placing the surveying board. All subsequent procedures should follow the same pattern.)*
+
+Once all preparations are complete:
+
+**Step ①** Place the surveying board (kenban) at the base point (honza), oriented accurately in the correct direction and level.
+*Note: The south of the board faces "that direction" (the distant target); the north of the board faces "this direction" (the near side, toward the surveyor). The east of the board is designated "left," and the west is "right." This applies to every technique.*
+
+Using the ruler (jōgi/dōgi):
+*Note: The ruler should be used for all of the following operations: initial sighting (mikomi), alignment (mitori), re-sighting (futami), and back-sighting (mikaeri).*
+
+Sight the target accurately from the east (left) side of the board, and set the board so that it does not move.
+*Note: Until the alignment procedure is complete, the board at the base point must not be moved even slightly. This applies to every technique.*
+
+**Step ②** Using a measuring rod (sao), measure out the number of ken (intervals) precisely in a straight line to the right — specifically, one chō — to the baseline location (kaichi) that was provisionally determined during the initial calculation (shikei), and have a baseline marker (hiraki-shirushi) planted at that point.
+
+*Note: As shown in the diagram here, when the distance to be determined (kyūtei) is three chō, setting the baseline interval to six ken corresponds to the classical rule of one-thirtieth. However, since the diagram shown below is a small-scale illustration, it is difficult to mark such fine detail, so one-third is used as an approximation, and the baseline is set at one chō. The same simplification applies to the later chapters as well; readers should use their own judgment accordingly.*
+
+Then, place the ruler on the north side of the board and sight accurately through to the baseline marker.
+*Note: If the baseline marker and the ruler align exactly, that is correct. If they do not align, the marker should be moved forward or backward repeatedly until it aligns precisely with the ruler.*
+
+Then plant a "remaining marker" (nokoshi-shirushi) at the base point.
+*Note: When proceeding toward the baseline location, a remaining marker is always planted at the base point. This applies to every technique. Follow this procedure hereafter.*
+
+**Step ③** Upon arriving at the baseline location (kaichi), place the ruler on the north side of the board, re-sight (futami) the remaining marker, and orient the board accurately.
+*Note: If the remaining marker and the ruler align, that is correct. If they do not align…* (continues on next page)
+
+---
+
+### Explanation of the "Taisei-no-zu" (Diagram of Complete Synthesis)
+
+The symbols ▽△□ represent position ③. They show a reduced-scale representation of the baseline (kaiyo) of one chō.
+The symbol ○ represents position ④. It shows a reduced-scale representation of the sought distance (kyūtei) of three chō.
+Now, using the compass dividers (konpatsu), clamp the interval ▽△ in one spread, naming this "the one-chō square (kane)." When this measure is used to gauge ○, it spans three such intervals. Three intervals equals three chō. This is the number of chō of the sought distance.
+The symbol △ at position ⑤ is a provisional borrowing (karishaku) — a temporary object. Therefore, after the final synthesis (taisei) is complete, it is discarded and no longer used.
+In general, for all surveying procedures, one should comprehend each technique by following this proportional method. The details are recorded in the main text. One should also refer back to Volume One for a thorough understanding.

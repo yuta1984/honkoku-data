@@ -1,0 +1,14 @@
+(Continuing from the previous page, regarding the Plumb Needle)
+The size and quality should be left to one's own preference. Even if one prefers an unconventional design, as long as one understands its principles, there should be no hindrance in its use.
+
+**Ink Marker (Sumisashi)**
+The ink marker is an instrument used to draw ink lines along a straightedge on the surveying board surface. It is made from bamboo. As it is the same implement ordinarily used by craftsmen and carpenters, there is no need to describe it in detail here.
+
+**Measuring Rope (Ken-nawa)**
+The measuring rope is a tool for determining measurements of *ken*, *chō*, *sun*, and *shaku*. Its length should be approximately sixty *ken*, and its thickness about that of a needle case. It is made from high-quality hemp thread. Generally, it should be twisted tightly and braided into a three-ply cord, like a continuous fine rope. Coating it with wax or astringent persimmon tannin dye is also acceptable, as this prevents it from stretching or shrinking when wet. Marks should be placed at every *ken* interval for convenience in urgent situations. When stretching it over a distance of one *chō*, it will inevitably sag. One should be aware of this in advance. When storing it when not in use, it is best to wind it onto a reel.
+
+**Measuring Rod (Ken-sao)**
+The measuring rod is a tool for measuring and determining *ken*, *chō*, *sun*, and *shaku*. It is made from Japanese cypress (*hinoki*) or oak (*kashiwa/kashi*). Its length is nine *shaku*, with a square cross-section of two *sun*. It should be divided into three-*shaku* sections connected with metal ferrules. It is best to mark graduated scale on the flat surface. One end, for a length of three *shaku*, should be planed down by half its thickness, so that when measuring distances, two rods can be interlocked and used together. There are also many other designs. One should try them and adopt whichever proves most suitable.
+
+**Survey Stakes (Shirushi-gi / Hyōboku)**
+The survey stakes are tools used for various types of markers: the *hiraki-shirushi* (also called "line-of-sight markers"), the *nokosu-shirushi* (also called "base-point markers"), the *tane-shirushi* (seed markers), and the *tsunagi-shirushi* (connecting markers), and others. They are made from bamboo or wood. Their general dimensions are two to three *shaku* in length and approximately two *sun* in diameter. However, the length and size should follow whatever is appropriate for the occasion. These are not tools that need to be stored in advance; they should be made as needed. However, for markers used at distances of one *chō* or more in clearing/opening surveys, something conspicuous—whether paper or cloth—should be tied to the top of the stake…

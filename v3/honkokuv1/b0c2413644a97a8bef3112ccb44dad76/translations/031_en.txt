@@ -1,0 +1,54 @@
+## [Diagram of the Dark Moon, New Moon, Quarter Moons, and Full Moon]
+
+**[Diagram description]**
+A diagram showing the positions of the upper quarter (first quarter), new moon, moon, sun, earth, full moon, and lower quarter (last quarter).
+
+**[Marginal note]**
+The character "upper" (上) in "upper quarter" should read "lower" (下); the character "lower" (下) in "lower quarter" should read "upper" (上).
+(*A correction note indicating that the positions of the first and last quarter moons in the diagram are transposed.)
+
+**[Main text]**
+
+On the day of the new moon (saku), the sun and moon are at the same degree (same direction). The sphere of the moon is positioned precisely below the sphere of the sun. The sunlight illuminates only the upper half of the moon's face. People, being situated in between, look upward and can only see the lower half of the moon, which has no light. Therefore, on the day of the new moon, the moon appears to have no light at all. After the new moon, the sun and moon gradually separate. By the third or fourth day, the moonlight resembles an eyebrow [like the crescent shape of Mount Emei]. By the seventh or eighth day, one can see light on one half of the upper face of the moon — this is the first quarter (upper quarter). By the fifteenth or sixteenth day, the sun and moon illuminate each other from opposite sides, shining fully — this is the full moon (望, *bō*). After the full moon, they gradually move farther apart. By the twenty-third or twenty-fourth day, one can see light on one half of the lower face of the moon — this is the last quarter (lower quarter). The dark moon, new moon, quarter moons, and full moon all arise because the moon moves near to and far from the sun; therefore the moon's light is forever waxing and waning.
+
+---
+
+## [Diagram: The Moon Blocking Sunlight, Causing a Solar Eclipse]
+
+**[Diagram description]**
+
+At the time of the new moon, the moon travels below the sphere of the sun.
+
+Sun　Moon　Earth
+
+When [the moon] blocks the sunlight, this is called an "eclipse."
+
+---
+
+## [Diagram: Those on Earth Who See and Do Not See a Solar Eclipse]
+
+**[Diagram description]**
+
+A person at position *tei* (丁) sees the moon directly overlapping the sun, and therefore sees a total eclipse. A person at position *bo* (戊) sees the moon obliquely overlapping the sun, and therefore sees a partial eclipse. A person at position *shi* (巳) does not see the moon overlapping the sun at all, and therefore cannot see the solar eclipse at all.
+
+---
+
+## [Diagram: Earth's Shadow Covering the Moon, Causing a Lunar Eclipse]
+
+**[Diagram description]**
+
+When the sun goes below the earth (beneath the horizon) and the moon travels above in the sky, the earth in between blocks the sunlight. This is called an "eclipse."
+
+---
+
+## [Diagram: Dragon's Head, Dragon's Tail, and Solar and Lunar Eclipse]
+
+**[Diagram description]**
+
+The Dragon's Head and Dragon's Tail are the two boundary points of the sun's path, and they are the places through which the moon passes during eclipses.
+
+---
+
+**[Main text]**
+
+At the new moon, the sun and moon share the same ecliptic longitude and latitude, forming a single line. The moon receives sunlight from above, and the body of the moon blocks the sunlight below. This is the moon hiding the sun; when [the sun] appears to have no light, it is called a solar eclipse. Yet in reality, the light is never truly lost. At the full moon, the sun and moon face each other as if in a single line. The sunlight shines directly upon [the moon], and the body of the moon receives it directly. The earth, situated in between, happens to lie on that line, positioned between the sun and the moon. The body of the earth blocks the sunlight on the side facing the sun and casts its shadow on the side facing the moon. The moon, being within that shadow, loses the light it had borrowed [i.e., reflected sunlight]. This is called a lunar eclipse. The Dragon's Head and Dragon's Tail are the two boundary nodes of the sun's path and are the places through which the moon passes during eclipses. If [the moon] is more than a certain number of degrees away from the Dragon's Tail, no eclipse occurs. Furthermore, solar eclipses, depending on the distance of the earth, may be seen to varying degrees — more in some places and less in others.

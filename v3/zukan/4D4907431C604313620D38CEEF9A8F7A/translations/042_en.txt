@@ -1,49 +1,75 @@
-Two species
-Wood wisteria flower　　Banner flower (Kibushi)　　　16th day of Koshō of Kinoe-Saru year
-　　　　　　　　　　　　　　Faithfully copied in the style of Hitogaku-shū
-　　　　　　I say that banner flower is the original name of primrose
-　　　　　　The theory of wood wisteria flower requires examination
+---
 
+## 【Kibushi (キブシ; *Stachyurus praecox*, Japanese Stachyurus)】
 
+*Mokutōka* (木藤花; "Tree-Wisteria Flower") · *Seisetsuka* (旌節花; "Banner-Joint Flower") [*Kibushi*]
 
-Yamato Honzō
-　Violet (Noseri) vegetable flower　Called kan-kin (dry celery)
-　　　　　　Or calling this mama-hiki grass is incorrect
+Two varieties [recorded].
 
+　　　　The sixteenth day of *Kosen* (姑洗; third lunar month),
+　　　　year Kinoe-Saru (甲申) [Bunsei 7, 1824]:
+　　　　Sketched from nature, with reference to the *Kagakushū* (華萼集).
+　　　　　　The author states: *Seisetsuka* (旌節花) is in fact the original/proper name for *Sakurasō* (桜草; Japanese primrose, *Primula sieboldii*).
+　　　　　　The explanation regarding *Mokutōka* (木藤花) requires further investigation.
 
-According to Zōho Tashiki-hen, Pungent Vegetables section:
-　　Violet (Kin)　Japanese name: Sumire, current name: upon examination, Noseri　Alternative name: Bitter violet (Kukin) from Erya　Supplementary alternative name: Yellow mallow from Tang Honzō
-　　　　　　　Dry celery (Kankin) from Honzō Kōmoku　In Wakan Sansai Zue it is called bitter violet, violet as
+[Seal: Trees (木類)]
 
-　　　　　　　　　　　　According to Wamyō Ruijū-shō:
-　　　　　　　　　　　　　　Violet vegetable (Sumire)
+---
 
-　　　　　　　　　　　　According to Honzō:
-　　　　　　　　　　　　　　Violet vegetable　Commonly called violet mallow　The sound of violet is "kin"
-　　　　　　　　　　　　　　　　　　　　　　　　Japanese name: Sumire
+## 【Sumire / Yabu-Keman (菫菜 / 藪荷苞; Violet / *Corydalis incisa*)】
 
-　　　　　　　　I say:
-　　　　　　　　　In Wamyō-shō, violet vegetable (Noseri) is written as violet vegetable (Sumire). Sumire is purple flower earthworm
-　　　　　　　　　This is sumo-tori grass. This plant well matches the violet vegetable
-　　　　　　　　　mentioned in Yamato Honzō. The leaves resemble hōka-botan (Keman) but smaller. Like celery leaves
-　　　　　　　　　but larger. The flowers also resemble Keman. It grows in thickets. The stems and leaves are
-　　　　　　　　　soft. The flowers are purplish. It grows on land. Called dry celery. This is the plant in question. The pronunciation of violet (Su)
-　　　　　　　　　vegetable (Mire) requires examination. This is also called thicket hōka (Yabu-geman)
+**[Annotator's note: The illustration appears to depict *Murasaki-keman* (*Corydalis incisa*). The text conflates the violet (*Sumire*) and *Murasaki-keman*. "Sumō-tori" refers to the violet (so called because children interlink the flower stalks and pull — a game likened to sumo wrestling). "*Kankin*" (旱芹) is a term that in modern usage refers to celery, but here it is used differently.]**
 
+**According to the *Yamato Honzō* (大和本草; *Japanese Materia Medica*):**
 
+　　Flower of *Kinsai* (菫菜; *Noseri* / *Sumire*)
+　　　　This is called *Kankin* (旱芹).
+　　　　Some people call this plant *Mamahiki-gusa* (ママ引草), but that is incorrect.
 
-　　　　　　　　　　According to Wakan Sansai Zue, Wet Grasses section:
-　　　　　　　　　　　　Tōshū-jutsu (Peach vermillion technique)　Tōshū-jutsu
+---
 
-　　　　　　　　　　According to Bukō Sanbutsu-shi:
-　　　　　　　　　　　　Tōshū-jutsu
-　　　　　　　　　　　　(Yabu-geman)
+**According to the *Zoho Tashikiden* (増補多識編; *Expanded Nomenclature Compendium*), in the section on Pungent Vegetables (*Kunsai-rui*):**
 
-　　　　　　　　　　According to Honzō Kōmoku, Tōshū-jutsu is a type of indigo that grows in gardens
-　　　　　　　　　　The leaves are thin like celery, flowers purple, seeds form pods. When a mirror is held up and battled sideways
-　　　　　　　　　　the seeds discharge themselves. If collected on the 5th day of the 5th month and worn, it makes women
-　　　　　beloved by their husbands. Some say the flowers are yellow
-　　　　　The flowers, leaves and fruits of Tōshū-jutsu do not differ from the description in Honzō. When people touch the fruits, they each fly and
-　　　　　discharge. The pods split like thread rings. The yellow-flowered type
-　　　　　is celery-leaf hook-kiss (Momochidori). Same species but different plant
-　　　　　Does not match the lily-like flower described in Sansai Zue
+　　*Kin* (菫; violet)　[Japanese name:] *Sumire* (須美礼); on further investigation, *Noseri* (乃世利)　[Alternative name:] *Kukin* (苦菫; "bitter violet") [source: *Erya* (爾雅)]　[Additional names in the expanded edition:] *Kōki* (黄葵) [source: Tang-period herbal texts (*Tōhon*)]; *Kankin* (旱芹; "dry celery") [source: *Bencao Gangmu* (本草綱目)]　[Note: the *Wakan Sansai Zue* calls *Kukin* (苦菫) by the name *Sumire* (菫)]
+
+---
+
+**According to the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Collected*):**
+
+　　*Kinsai* (菫菜; *Sumire*)
+
+---
+
+**According to the *Honzō* (本草; Materia Medica):**
+
+　　*Kinsai* (菫菜) — commonly called *Kinki* (菫葵)　[The character 菫 is read *kin*; Japanese name: *Sumire* (須美礼)]
+
+---
+
+**The author states:**
+
+　　The *Wamyō-shō* (和名抄; *Wamyō Ruijushō*) identifies *Kinsai* (菫菜; *Noseri*) with *Sumire* (菫菜; violet). However, *Sumire* is in fact *Shika-jichō* (紫花地丁; *Viola mandshurica*).
+　　The plant called "Sumō-tori" (*Sumō-wrestler*; so named by children) corresponds well with the *kinsai* described in the *Yamato Honzō*. Its leaves resemble those of the *Keman* (荷苞牡丹; *Murasaki-keman* / *Corydalis incisa*) but are smaller, and are larger than those of *seri* (芹; Japanese parsley). Its flowers also resemble those of *keman* in appearance, and it grows similarly. The stems and leaves are soft. The flower is purple and grows on dry land. The plant called *Kankin* (旱芹) is indeed this plant. The reading of 菫菜 (*Sumire*) requires further investigation. This plant is also called *Yabu-keman* (藪荷苞; "thicket *keman*").
+
+[Seal: Herbaceous Plants (草類)]
+
+---
+
+**According to the *Wakan Sansai Zue* (和漢三才図会; *Japanese-Chinese Illustrated Encyclopaedia*), in the section on Wetland Grasses (*Shissō-rui*):**
+
+　　*Tōshujutsu* (桃朱術) — also known as *Tōshujutsu* (陶朱術)
+
+**According to the *Bukō Sanbutsushi* (武江産物志; *A Record of Natural Products of Edo*):**
+
+　　*Tōshujutsu* [= *Yabu-keman*]
+
+---
+
+**The *Honkō* (本綱; i.e., the *Bencao Gangmu*) states:** *Tōshujutsu* is a variety of *seishō* (青葙; *Celosia argentea*) that grows in gardens. Its leaves are fine and resemble *seri* (芹; parsley). The flowers are purple, and the seeds form in pods (capsules). When a mirror [or reflective surface] is held to the side of the plant, the pods burst open of their own accord. Collecting the seeds on the fifth day of the fifth month and wearing them on one's person is said to cause a woman to be loved by her husband. One account says the flowers are yellow. [And so on.]
+
+---
+
+**The author states:** As regards the flowers, leaves, and fruit of *Tōshujutsu*, there is no discrepancy with the account in the *Honzō*. The seed pods, when touched by a person (i.e., when touched), each burst open and the capsules split (*saite*), releasing something like threads in circular rings. The account that says "the one with yellow flowers" refers to *Kinyo-kōbun* (芹葉鉤吻; *Momochidori*; literally "parsley-leaved *gelsemium*"), which is of the same group but a distinct plant.
+The description in the *Sansai Zue* of something "resembling the flower of a lily (*Yuri*)" does not accord with this plant.
+
+---

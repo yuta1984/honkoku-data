@@ -1,0 +1,11 @@
+【Continuation from previous page — Chen's commentary】
+
+Taking the day as one positional unit is the same as usual. In general, within this method, whenever a "five-chain" (units of five) is filled, it is carried and removed. Thus, beyond the five-chain position, five units or more are carried up and designated as "strong" (強), while four units or less are discarded and designated as "weak" (弱). For quantities such as the cubic difference (立差), quadratic difference (平差), and constant difference (定差), one is taken as one positional unit.
+
+○ Method for the Initial Limit of the Shrinking Calendar (縮暦初限) and the Final Limit of the Expanding Calendar (盈暦末限):
+
+Set out the cubic difference "27" as the dividend (実). Take the initial or final limit of each eclipse month as the multiplier (方). Multiply the dividend by the multiplier, apply the five-unit rounding (五連収), then add the quadratic difference "22,100." Multiply this result by the multiplier, apply the five-unit rounding. At this point, compare with the constant difference "4,870,600": list the larger number and subtract the smaller number from it to obtain the dividend. Multiply the dividend by the multiplier to obtain the quotient, apply the five-unit rounding. Using 100,000,000 (一億) as the unit for degrees, obtain the difference (差). If it is the expanding calendar (盈暦), name it "expanding difference" (盈差); if it is the shrinking calendar (縮暦), name it "shrinking difference" (縮差).
+
+○ Method for the Initial Limit of the Expanding Calendar (盈暦初限) and the Final Limit of the Shrinking Calendar (縮暦末限):
+
+Set out the cubic difference "31" as the dividend. Take the initial or final limit of each eclipse month as the multiplier. Multiply the dividend by the multiplier, apply the five-unit rounding, then add the quadratic difference "24,600." Multiply this result by the multiplier, apply the five-unit rounding. At this point… (continues on the next page)

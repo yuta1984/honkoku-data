@@ -1,24 +1,47 @@
-According to Sanbutsu-shi: Shashi (Shidomi)　　　　According to Tashiki-hen, Five Fruits section:
-　　　　　　　　　　　　　　　　Shashi　Japanese names: Kobo, Chi　　Alternative name: Mokutō
+---
 
-According to Honzō Ikka-gen:　　　　　　　　　　　　　　　　　Waenshi
-　　Iron-stemmed begonia　Stem-clinging begonia　Rotten ground brocade
-　　　　　　　All-ground brocade　Grass quince
+## 【Kusaboke (草木瓜; Japanese Flowering Quince, *Chaenomeles japonica*)】
 
-Yamato Honzō
-　　Grass quince　(Shidomi)
+**According to the *Sanbutsushi* (産物志; *Records of Regional Products*):**
+　　*Shidomi* (樝子)
 
-　　　　　　　　　Same record
-　　　　　　　　　　The grass quince grows one to two feet tall and is abundant in fields. Its flowers are red and the plant has thorns.
-　　　　　　　　　　The fruit is small. In Musashino there is a grass quince called Shidomi, whose fruit
-　　　　　　　　　　is about the size of Higo strawberries. The local people use its vinegar. The fruit of the 
-　　　　　　　　　　Chinese quince is also said to be very small. This corresponds well to the plant in question.
-　　　　　　　　　　Two other varieties are recorded but I have not yet seen them. These are included in the quince section of this book.
+---
 
+**According to the *Tashikiden* (多識編; *Nomenclature Compendium*), in the section on Five Fruits (五果類):**
 
+　　*Shidomi* (樝子)　　[Japanese name:] *Koboke* (コボケ)　　[Alternative name:] *Mokutō* (木桃; "wood peach") [source: *Hiya* (埤雅)]
 
-　　　　　　　　　　　　　　　　　　　　　　　　Written on the 7th day of early Kōsen of the same year
+---
 
+The eighteenth day of the second lunar month (*Kisaragi*), year Kinoe-Saru (甲申) [Bunsei 7, 1824]:
+Sketched from nature at the writing desk.
 
+[Seal: Flowering Trees (花木)]
 
-　　　　　　　　Grass heron flower (Kusasagisō)
+---
+
+**According to the *Honzō Ikkagen* (本草一家言; *Personal Discourse on Materia Medica*):**
+
+　　*Tekkō-kaidō* (鉄梗海棠; "iron-stemmed crabapple") [alternative names: *Tenkan-kaidō* (貼幹海棠), *Ranchi-kin* (爛地錦), *Henchi-kin* (遍地錦), *Kusa-mokke* (草木瓜)]　　Japanese name: *Enshi* (円子)
+
+---
+
+**According to the *Yamato Honzō* (大和本草; *Japanese Materia Medica*):**
+
+　　*Kusa-mokke* (艸木瓜) [*Shidomi*]
+
+　　　　[The same text records:]
+　　　　The *kusa-mokke* (草木瓜) grows to a height of one to two *shaku* (approximately 30–60 cm), and is found abundantly in fields and wild places. The flowers are red, and the stems bear thorns. The fruit is small. In the Musashino region, there is a *kusa-mokke* called *shidomi*, whose fruit is approximately the size of a *Higo-ume* (肥後梅; a variety of plum from Higo Province). The local people make use of its sourness (vinegar-like quality). It resembles the *karin* (榠樝; *Pseudocydonia sinensis*; Chinese quince) in both leaf and fruit, though it is considerably smaller — so it is said. [This description] accords well with the present plant (kusaboke).
+　　　　The *Yamato Honzō* lists two additional varieties [of related species] beyond this, but [the author, Baien,] has not yet been able to examine them. [These entries] are recorded in the section on *mokke* (木瓜; quince) in that work.
+
+---
+
+## 【Murasaki-sagigoke (紫鷺苔; Purple Toadflax / Mazus miquelii)】
+
+Sketched on the seventh day of *Kosen* (姑洗; third lunar month) of the same year.
+
+*Kusa-sagisō* (草鷺花; "grass heron flower")
+
+[Seal: Kusaboke (クサボケ)]
+
+---

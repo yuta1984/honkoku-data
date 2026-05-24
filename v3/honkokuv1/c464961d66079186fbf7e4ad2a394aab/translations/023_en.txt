@@ -1,0 +1,15 @@
+Day 26: 14 units, 616
+Day 27: 14 units, 715
+　　　The above is to be used by cross-referencing with the number of days elapsed since entering the transit cycle, thereby obtaining the fixed transit degree for application.
+
+Section: Fixed New Moon (Teisaku)
+　Second month: 14th day, 7,743 fen, 59 miao (seconds)
+　Eighth month: 1st day, 4,633 fen, 64 miao (seconds)
+
+○ Method: List the經朔 (mean new moon) of each eclipse month, then add or subtract the correction difference (加減差) to obtain the fixed new moon (定朔).
+
+Section: Time Limit (刻限 — precise time of eclipse)
+　Second month: 3rd ke, 7 fen, 7 li of the Si (巳) hour [approx. 9:30–10:00 AM], with remainder
+　Eighth month: 7th ke, 1 fen, 7 li, 8 hao of the Yin (寅) hour [approx. 3:30–4:00 AM], with remainder — this is a "带食" (eclipse occurring at sunrise/sunset)
+
+○ Method: List the fen and miao of the fixed new moon, divide by the time-unit divisor of 12, to obtain the precise time (刻限). For example, for the second month: take 7,743 fen 59 miao as the dividend (実), with 12 as the divisor (法). Dividing the dividend by the divisor yields 6 units and 4529... with remainder. The 6 units, counted from Zi (子), are allocated equally through: Zi (子), Chū (丑), Yin (寅), Mao (卯), Chen (辰), Si (巳) — placing the result at the Si (巳) hour.

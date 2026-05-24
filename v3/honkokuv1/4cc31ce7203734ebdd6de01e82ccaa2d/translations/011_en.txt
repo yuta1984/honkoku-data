@@ -1,0 +1,17 @@
+(Continued from previous page) I cannot say I have no regrets, yet as my friends' requests have been so persistent, and having no grounds to refuse their repeated solicitations, I ultimately leave behind only the ridicule of being toyed with at others' fingertips.
+
+Written in the spring, on the upper days of the third month of Kyōhō 15 (1730), the Year of the Metal Dog, at the Shinbukan in Minami-Shiba, Tōto (Edo).
+— Murai Daiyū Masahiro
+
+---
+
+**Ryōchi Shinan (Guide to Land Surveying), Volume One**
+Compiled and written by Murai Masahiro, a reclusive scholar of Nansei (southern Ise Province)
+
+**On the Compass-Based Surveying Method: Preliminary Estimation**
+
+**On the Practice of Preliminary Estimation (Senryō)**
+
+"Preliminary estimation" (senryō) refers to the practice of using one's naked eye — commonly known as "medzumori" (visual estimation) — to roughly gauge the distance from one's base point to the target location before performing the main surveying technique. One estimates the general scale, whether in terms of *ri* and *chō*, or in tens and individual *ken*, in order to grasp an approximate sense of the distance in advance. By first estimating in this manner the approximate measure of distance, width, height, or depth to the target, and then proceeding to carry out the main surveying technique, no discrepancies whatsoever will arise. If one neglects this method and proceeds carelessly with the main technique, one may mistake ten *chō* for one *chō*, or measure ten *ri* as if it were one *ri*, and similar errors may occur.
+
+(Marginal note: Admittedly, errors as severe as these are unlikely to occur in practice; however, this is offered as an illustration to make beginners aware of the immense practical benefit of preliminary estimation.)

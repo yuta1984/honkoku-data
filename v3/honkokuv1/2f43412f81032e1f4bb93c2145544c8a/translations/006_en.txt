@@ -1,0 +1,21 @@
+## Method of Forward and Backward Perpendicular Opening (前後当開方, Zengo Tōkai-hō)
+
+*[Note: This section explains the technique of "forward perpendicular opening" (前当開, Zen-tōkai). The "backward perpendicular opening" (後当開, Go-tōkai) should be understood by analogy.]*
+
+This technique is used when measuring the distance to a far point from a base position (本座, honza) where the terrain—such as ridged footpaths between fields, embankments, paddy fields, narrow roads, or the tops of bridges—makes it difficult to establish auxiliary survey points (開地, kaichi) either perpendicularly or diagonally to the left or right. The method involves advancing or retreating in a straight line in whichever direction—forward or backward—is most convenient, in order to establish a survey point and take measurements. However, in this technique, in addition to the actual target point, a provisional target point is established, and the distance between these two target points is used as a base value (種, tane), which is then transferred to calculate the distance of advance or retreat. The details are described within the procedural instructions below.
+
+### The Procedure States:
+
+*[Note: The following is explained with reference to the diagram below.]*
+
+After completing the preparatory measurements (始計, shikei) according to the various established methods:
+
+㊀ Set the surveying board (盤, ban — a magnetic compass/surveying instrument) squarely and level at the base position, and sight the actual target point straight ahead from the East direction of the board. *[Note: The board must be kept steady without moving, as described previously.]*
+
+㊁ Using the Northeast direction (艮, gon) of the board as the pivot point, place the ruler diagonally and draw a line sighting toward the provisional target point. Then, taking care not to deviate from the straight line, extend the surveying rod (竿, sao) toward the far side...
+
+---
+
+### Diagram of the Complete Construction (大成之図):
+
+The mark ✕ represents the "difference" (差, sa) — it is the reduced-scale representation of the Opening Subtraction (開除, kaijo) distance of 30 ken. Combined with ▽△, it also represents the reduced-scale distance of the sought distance (求程, kyūtei). The mark ▽△ represents "three" (三); combined with ✕, it gives the interval count of the sought distance. Now, open the compass-divider (渾発, konpatsu) and clamp the ✕ span to one clamp-width (一夾, ikkō), naming it the 30-ken measure (矩, kane). Using this measure to measure the ▽△ span yields one and a half clamp-widths (一夾半, ikkō-han). One and a half clamp-widths equals 45 ken. Adding the ✕ value of 30 ken to this gives 75 ken — this is the interval count of the sought distance (求程). The mark ○ represents "four" (四) and is a provisional/borrowed value (仮借, kashaku). The mark △ represents "five" (五) and is also a provisional/borrowed value. The mark |△ represents "old five" (旧五) and is likewise a provisional/borrowed value.

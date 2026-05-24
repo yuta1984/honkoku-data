@@ -1,0 +1,9 @@
+Compare with the constant difference (定差) of 5,133,200. List the larger number, subtract the smaller number from within it, multiply the result (shi/実) by the fang (方), obtain the quotient, collect by five-連, use yi (億, 10^8) as the unit of degrees, and obtain the difference.
+
+1. Retardation-Acceleration Difference (遅疾差)
+　　Month 2 retardation difference (遅差): 2 degrees, 80 fen, 0 miao 69 seconds
+　　Month 8 acceleration difference (疾差): 4 degrees, 5,211 seconds
+
+　　Chen [the commentator] states: If in the retardation calendar (遅暦), it is called the retardation difference (遅差); if in the acceleration calendar (疾暦), it is called the acceleration difference (疾差). In this method, "xian" (限) constitutes the first positional unit. The remaining positional units follow the same format as in the method for the Expansion-Contraction Difference (盈縮差).
+
+○ The method states: List the retardation-acceleration calendar value (遅疾暦), multiply it by 12 xian 20 fen to obtain a number. Compare this with the initial-xian divisor of 84 xian: if equal to or below, treat it as the initial xian (初限). If above, subtract it from the mid-xian divisor of 168, and the remainder becomes the terminal xian (末限). Take each initial or terminal xian as the fang (方); list the立差 (立差, cubic coefficient) 325 as the shi (実, dividend); multiply the shi by the fang and collect by five-連; add the ping-cha (平差, linear coefficient) of 28,100; multiply the shi by the fang again and collect by five-連; at this point, [compare] with the ding-cha (定差, constant) of 11,110,000...

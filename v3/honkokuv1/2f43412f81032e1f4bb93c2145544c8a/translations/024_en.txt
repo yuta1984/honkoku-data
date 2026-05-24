@@ -1,0 +1,22 @@
+The "three" that appears [in the figure] is the reduced scale of the initial opening distance (shokkai); "four" is the reduced scale of the sought distance (kyūtei); and "five" is the reduced scale of the borrowed auxiliary distance (kashaku). Measure the "three" against the initial opening distance of two chō (the "three" is clamped in one clip, and this is called the "two-chō square"); then, measuring "four" with that square yields four clips (each clip being two chō). Four clips equals eight chō. This should be understood as the measured distance sought.
+
+(Marginal note: Techniques as precise and profound as this method are not easily written down and expressed in haste. Even if detailed annotations were added, it would not be something that beginners could easily understand and comprehend. For this reason, I have here outlined only the essentials, leaving the details for the reader to work out. This is entirely for the purpose of study, improvement, and ingenuity. By assiduously devoting day after day and month after month to diligent practice, one will naturally come to understand its principles, just as dawn gives way to broad daylight. If one merely thinks of it as being too deep and difficult and sets it aside, the moment of enlightenment will never come. Students should reflect carefully on this.)
+
+【Rui-kaku Shi-seihō: Method for Determining True Direction Across Multiple Intervals】
+
+This technique is used to accurately measure distant distances from a position where the target cannot be seen, being blocked by mountains, forests, villages, and the like in succession. It is to be used for tasks such as boring through a mountainside to channel valley water to one's side, or crossing over forests to determine the position of a stone-fire-arrow (cannon) emplacement, and similar undertakings.
+
+The technique states (explained with reference to the diagram below):
+① First, at Station 1, set the surveying board in true orientation according to the method. Determine the diagonal distance to Station 2 (right diagonal opening: 3 chō), plant an opening marker (this marker becomes the remaining marker, which serves as the re-sighting reference from Station 3), sight the marker diagonally from the center of the board's north side, and draw a line with the straightedge. (Since the target cannot be seen from this station, there is no procedure for sighting the target.) Plant a remaining marker at Station 1.
+
+② Move to Station 2, re-sight the remaining marker at Station 1, and orient the board to true north.
+
+③ Determine the diagonal distance to Station 3 (left diagonal opening: 4 chō), plant an opening marker (this marker also becomes a remaining marker, serving as the re-sighting reference from Station 4). Using the western end of the line drawn from Station 1 to Station 2 as the pivot, sight the marker at Station 3 and draw a line.
+
+④ Arrive at Station 3, re-sight the remaining marker at Station 2, and orient the board to true north.
+
+⑤ Determine the diagonal distance to Station 4 (right diagonal opening: 5 chō), plant an opening marker (since the target is visible from this point, this marker is not used as a remaining marker). Using the eastern end of the line drawn from Station 2 to Station 3 as the pivot, sight the marker at Station 4 and draw a line.
+
+⑥ Move to Station 4, re-sight the remaining marker at Station 3, and orient the board to true north.
+
+⑦ And then…

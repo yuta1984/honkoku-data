@@ -3,7 +3,7 @@ filename	status	image
 002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00002.tif/full/full/0/default.jpg
 003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00003.tif/full/full/0/default.jpg
 004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00004.tif/full/full/0/default.jpg
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00005.tif/full/full/0/default.jpg
+005.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00005.tif/full/full/0/default.jpg
 006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00006.tif/full/full/0/default.jpg
 007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00007.tif/full/full/0/default.jpg
 008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00008.tif/full/full/0/default.jpg
@@ -12,7 +12,7 @@ filename	status	image
 011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00011.tif/full/full/0/default.jpg
 012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00012.tif/full/full/0/default.jpg
 013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00013.tif/full/full/0/default.jpg
-014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00014.tif/full/full/0/default.jpg
+014.txt	editing	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00014.tif/full/full/0/default.jpg
 015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00015.tif/full/full/0/default.jpg
 016.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00016.tif/full/full/0/default.jpg
 017.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013470/v4/NIIP/WA6-0042/WA6-0042-00017.tif/full/full/0/default.jpg

@@ -1,0 +1,17 @@
+1. Botsu-nichi (days of "extinction" / intercalary blank days)
+2. Kei-saku (mean/elapsed new moon)
+3. Nyūten-nichi (day of entry into the anomalistic cycle)
+4. Chishitsu-reki (calendar of lunar velocity — slow and fast)
+5. Nyū-eishuku-reki (calendar of entry into the equation of the solar center)
+6. Shomatsu-gen (initial and final limits [of eclipse])
+7. Eishuku-sa (equation of the solar center / solar correction)
+8. Chishitsu-sa (equation of the lunar center / lunar velocity correction)
+
+9. Kagen-sa (additive and subtractive corrections)
+10. Tei-saku (true/corrected new moon)
+11. Koku-gen (time limits / time of day)
+12. Kō-tei-do (corrected degree of the lunar node)
+13. In'yō-reki (yin-yang calendar / latitude of the Moon)
+14. Shoku-bun (magnitude of the eclipse)
+
+The above eighteen items are what one must know in order to master the art of solar eclipse calculation.

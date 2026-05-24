@@ -1,64 +1,69 @@
-As recorded in the "Zōho Tashiki-hen" (Supplementary Multi-Knowledge Compilation) under marsh plants:
-　　Duck's foot grass　Japanese name　tsukikusa　also called　tsuyukusa
-　《Note: kōseki》　　name　kusa　Upon present examination　aobana
+## English Translation
 
-In the "Wamyō Ruijūshō" (Japanese Names Classified Collection) it says:
-　　Duck's head grass (tsukikusa)
-In "Yōshi Kango-shō":
-　　Duck's head grass《Note: tsuki｜kusa｜》
-In "Benshiki Rissei":
-　　Pressed red grass
-○"Kyūkō Yafu" (Famine Relief Wild Plant Manual)
-　　Mosquito net sedge (kayatsurigusa)
-　　Mosquito net sedge《Note: vernacular Japanese character｜》
-　　Sedge grass《Note: Alternative Names Classification｜》
-　　　　《Note: Wamyō Ruijūshō｜》
+**From the "Zoho Tashiki-hen" (Enlarged Encyclopedia of Many Things), section on marsh plants:**
+- **Yazhicao** (鴨跖草, *Commelina communis*): Japanese name: *Tsukikusa* (ツキクサ), also called *Tsuyukusa* (ツユクサ)
+- [*Kōseki*]: alternate name *Aohana* (アヲハナ, "blue flower") — upon reflection
 
-　　　　　　　《Note: Alternative｜names｜}}Qin chicken tongue grass《Note: Supplementary｜collection｜》　Blue bamboo seeds《Note: ｜same}}　Bamboo chicken grass《Note: ｜compendium｜catalog}}　Light bamboo leaves《Note: ｜same}}　
-　　　　　　　　　　　　　　　Earring grass《Note: same｜}}　Blue cicada grass{{Note: same｜}}　Blue lady grass
-　　　　　　　　　　　　　　　Bamboo leaf grass《Note: same｜}}
+---
 
-　　　　　　　　　　　　　　Listed in "Kyūkō Yafu," "Alternative Names Classification," "Yamato Honzō," etc.
-　　　　　　　　　　　　　　Same characters recorded, so not written here
+**From the "Wamyō Ruijushō" (Japanese Names Classified by Category):**
+- 鴨頭草 (*Tsukikusa*)
 
-　　　　　　　　　　　　　　Three species copied in the 6th month of the Mizunoe-Uma year
+**From the "Yōshi Kango-shō":**
+- 鴨頭草 (*Tsukikusa*)
 
-　　　　　　　　　　　　　In "Wakan Sansai Zue" (Illustrated Sino-Japanese Encyclopedia) under fragrant plants:
-　　　　　　　　　　　　　　　　　 　Menrokugiku - what plant this refers to is unstudied, but
-　　　　　　　　　　　　　　　　　　　　　　　　　mosquito net sedge
-　　　　　　　　　　　　　"Kyūkō Honzō"　　identifies this as mosquito net sedge. The form is roughly
-　　　　　　　　　　　　　similar but the flowers are quite different. In the above section, mosquito net sedge is
-　　　　　　　　　　　　　　　　　　illustrated. Is this a difference between Chinese and Japanese varieties?
+**From the "Benshoku Rissei":**
+- 押赤草 (*Ōsakasō*)
 
-　　　　　　　　　　　　　　　　I say:
-　　　　　　　　　　　　　　　　　Children tear mosquito net sedge and
-　　　　　　　　　　　　　　　　　pull apart the middle of the stem, using this to imitate fishing
-　　　　　　　　　　　　　　　　　nets as play. Perhaps this can be called
-　　　　　　　　　　　　　　　　　the male form of kōbushi? They all
-　　　　　　　　　　　　　　　　　resemble each other well.
+---
 
-　　　　　White hyacinth bean《Note: library collection｜}}
-　　　　　　　Hidden yuan cowpea (ingen sasage)
-　　　　　"Shokukyō" says:
-　　　　　Moth eyebrow bean (ingen mame)
+**〇 From the "Kyūkō Yafu" (Emergency Famine Relief Herbal):**
+- 鵝観草 (*Kayatsurigusa*, *Cyperus microiria*)
+- 蚊屋釣草 (*Kayatsurigusa*) — written in Japanese popular characters
+- 莎草 (*Sasō*) — also found in *Imyō Bunrui-shō* and *Wamyō Ruijushō*
 
-　　　　　　　　　　　　　　　　　My interpretation:
-　　　　　　　　　　　　　　　　　　White hyacinth bean refers to
-　　　　　　　　　　　　　　　　　　white flowers of moth eyebrow bean. It is not
-　　　　　　　　　　　　　　　　　　incorrect regarding ingen sasage. Moth
-　　　　　　　　　　　　　　　　　　eyebrow vine is wisteria
-　　　　　　　　　　　　　　　　　　bean - a different species.
+**Alternate names:**
+*Konteizetsusō* (芩鶏舌草) [from *Shūi*], *Hekichikushi* (碧竹子) [same], *Takenikiwasō* (竹鶏草) [from *Bencao Gangmu*], *Tanchikuyō* (淡竹葉) [same], *Nikansō* (耳環草) [same], *Hekizensō* (碧蝉草) [same], *Rankosō* (藍姑草), *Chikuyōsai* (竹葉菜) [same]
 
-I also say:
-"Wakan Sansai Zue" states: hyacinth bean (ingen mame) is
-namely moth eyebrow bean. Its flowers are purple, resembling
-wisteria flowers and face upward. Its pods are one to two inches long.
-The seeds are sometimes black or chestnut colored,
-large like black beans. This is commonly called wisteria bean.
-Also, white hyacinth bean is namely the white, flattened type of hyacinth bean.
-The flower color is white. This is the white variety of wisteria bean. Since none
-match the hidden yuan bean, I abbreviate here.
+> *Note: Items recorded in the same characters in the Kyūkō Yafu alternate name classification and Yamato Honzō are not repeated here.*
 
-　　　　　　The same book says:
-　　　　　　　　　This is recorded in "Kyūkō Honzō." In recent times, it came from China as a type of hyacinth bean.
-　　　　　　　　　Kyoto vernacular calls it ingen bean; Chikushi vernacular calls it nankyo bean, etc.
+> Three species recorded in the sixth month (*Rinshō*) of the *Mizunoe-uma* year (壬午). 　**[Miscellaneous grasses]**
+
+---
+
+**From the "Wakan Sansai Zue" (Illustrated Japanese-Chinese Encyclopedia), section on fragrant plants:**
+- ■■ (*Mosō*?), *Menronkiku* (麺碌碡) — it is said the plant identity is not yet determined
+- *Kayatsurigusa* (蚊屋釣草)
+- The "Kyūkō Honzō" (*Bencao* for famine relief) identifies ■■ as *Kayatsurigusa*. The general form is roughly similar, but the flowers differ greatly. *Kayatsurigusa* was illustrated in the entry above. It is unclear whether this refers to a Chinese or Japanese plant.
+
+---
+
+**I (Baien) say:**
+
+> The name *Kayatsurigusa* (蚊屋釣草, "mosquito net fishing grass") comes from children splitting the stem in the middle, pulling it open, and using it to pretend to make a mosquito net, as a form of play. I venture to say that this plant might be called the "male" of *Kobushi* (香附子, *Cyperus rotundus*). The two are quite similar in appearance.
+
+---
+
+**From the "Hakuhenbi" private collection:**
+- 隠元豇豆 (*Ingen sasage*, kidney bean / hyacinth bean)
+
+**From "Shokkyō" (Food Competition):**
+- 眉兒豆 (*Ingen mame*, kidney bean)
+
+---
+
+**I (Baien), explaining, say:**
+
+> "*Hakuhen-tō*" (白萹豆) refers to the white-flowered variety of *Gamei-tō* (蛾眉豆); it is not the same as *Ingen sasage*. To say so is an error. *Gamei-tō* (蛾眉藤) is in fact *Fujimame* (フジマメ, *Lablab purpureus*), a separate species. **[Grains] [Medicinal plants]**
+
+---
+
+**I further say:**
+
+> According to the "Wakan Sansai Zue," *Hentō* (藊豆, *Lablab purpureus*) is the same as *Gamei-tō*. Its flower is purple, resembling wisteria blossoms, and faces upward. The pods are one to two *sun* (approx. 3–6 cm) long; the seeds are black or chestnut-colored, about the size of black soybeans. This is also commonly called *Fujimame* (藤豆, "wisteria bean"). Additionally, *Hakuhen-tō* (白萹豆) refers to the white, flat-seeded variety of *Hentō*, with white flowers. This is the white-flowered *Fujimame*. Neither of these corresponds to the *Ingen* bean (*Phaseolus vulgaris*), and so I omit further discussion.
+
+---
+
+**The same work (Wakan Sansai Zue) says:**
+
+> This plant, as recorded in the *Kyūkō Honzō*, is of the *hentō* (扁豆) type that arrived in Japan from China in recent times. In Kyoto the common people call it *Ingenmame* (隠元豆), and in Tsukushi (Kyushu) the common people call it *Nankinmame* (南京豆), and so on.

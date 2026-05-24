@@ -1,0 +1,25 @@
+In every technique, the method is the same. Furthermore, when the "banmen taisei" (board-face completion) (※1) is achieved, this line of "mikoми" (sighting-in) is called either "shi" (four) or "ko" (hypotenuse). This is in fact an abbreviated term for "kyūtei" (※2).
+(Interlinear note: "Kyūtei" refers, in all techniques involving near and far distances, widths, heights, and depths, to the distance or extent being sought. It is the name given when the sighting-in is completed.)
+
+---
+**On Mitōshi (Sighting-Through) and Kaijo**
+
+"Mitōshi" (sighting-through) refers to the act of placing the surveying board (ban) — used to sight the target at the base station (honza) according to proper procedure — without moving it in the slightest, and then placing the ruler on the near edge of the board (※3) to sight diagonally across toward the "kaichi" (secondary station) (※4).
+(Interlinear note: The method of sighting is described in detail in the preceding chapter.)
+Whether measuring distant widths or determining heights and depths, the procedure is the same for every technique. Furthermore, when banmen taisei is achieved, the line of this mitōshi is called either "san" (three) or "kō" (base). This is an abbreviated term for "kaijo" (※5).
+(Interlinear note: "Kaijo" refers, in all techniques involving near and far distances, widths, and depths, to the number of interval units between the base station and the secondary station. It is the name given when the sighting-through is completed.)
+
+---
+**On Futami (Second Sighting)**
+
+"Futami" (second sighting) refers to the following procedure: after performing the mitōши (sighting-in) and mitōshi (sighting-through) techniques at the base station, one moves to the secondary station (kaichi), sets up the board squarely (※6) according to proper procedure, places the ruler on the near edge of the board, and then sights horizontally back toward the remaining mark (nokoshi-shirushi) (※7) at the base station, in the same manner as the mitōshi procedure.
+(Interlinear note: This technique is called "futami" because it repeats the mitōshi technique a second time. This method exists solely for the purpose of properly squaring the board at the secondary station and is not an essential technique.)
+
+Although this method is listed alongside the three techniques of mikoми (sighting-in), mitōshi (sighting-through), and mikaeshi (sighting-back), it is a provisional procedure and not for practical primary use. Nevertheless, it is not a technique to be discarded from any procedure, and so it is recorded here alongside the others. Its relative merits should be learned through practice.
+
+---
+**On Mikaeshi (Sighting-Back) and Kashaku**
+
+"Mikaeshi" (sighting-back) refers to the following procedure: after performing the sighting-in and sighting-through techniques at the base station, one moves to the secondary station, keeps the board — used for the second sighting of the base station — without moving it in the slightest, places the ruler on the board face, and then sights diagonally toward the target from that position.
+(Interlinear note: The method of sighting is described in detail in the preceding chapter.)
+Whether measuring distant widths or determining heights and depths, the procedure for every technique is the same... (continued on the next page)

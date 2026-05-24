@@ -1,0 +1,13 @@
+(Continuing from previous page) …there are five夾 (go-keu). Adding the 差口 (difference interval) of twenty間 (ken) to this, the total comes to eighty間. This is to be designated as the seed (basis) for what shall be called the true地径 (chikei, ground diameter) [the ground diameter refers to "four" on the surveying board]. Thereupon, one sets up a new矩 (kane, right-angle measure) [discarding the矩 used to measure "three" and the difference interval at the first step, one now sets up a separate矩 for the purpose of measuring "four"], and matches "four" against the ground diameter of eighty間 [opening the渾発 (konpatsu, compass/divider) anew, one clamps this "four" in eight夾, naming it a矩 of ten間]. Using that矩 to measure "three" once more [note: "three" is measured twice—first combined with the difference interval and used as the basis for the provisional ground diameter of eighty間, and here it is used to determine the number of間 for the求程 (kyūtei, sought distance/height)], there are five夾 [at ten間 per夾]. Five夾 is thus fifty間. This is the number of間 for the求程 [the vertical height of fifty間 rising straight up from the base of the mountain].
+
+---
+
+**Diagram of Completion (大成之図)**
+
+▽△ represents the差 (difference); it is the reduced scale of the開余 (kai-yo, opening remainder) of twenty間.
+It is also combined with 〇 to provisionally form the ground diameter, serving as the basis for naming the true ground diameter.
+〇 is "three"; provisionally combined and unified with ▽△, it serves as the basis for obtaining the true ground diameter.
+In actuality, it is the reduced-scale figure (縮口) of the求程's vertical height.
+一△ is the old "five"; it is a仮借 (kashaku, provisional/borrowed figure).
+△ is the new "five"; it is also a仮借.
+The measurement method should be considered in accordance with the main text.

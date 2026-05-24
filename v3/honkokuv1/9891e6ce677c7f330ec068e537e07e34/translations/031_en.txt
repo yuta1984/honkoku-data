@@ -1,0 +1,39 @@
+Answer: It forms a right angle with the Earth's axis, and all points on it are equidistant from both poles.
+
+Question: What is the meridian of a given location?
+
+Answer: It refers to the great circle that passes through that location and both poles.
+
+Question: How does a meridian divide the Earth?
+
+Answer: It divides it into two parts: the Eastern Hemisphere and the Western Hemisphere.
+
+Question: What is the latitude of a given location?
+
+Answer: It refers to the angular distance north or south from the equator.
+
+Question: How is this measured?
+
+Answer: It is measured using the meridian.
+
+Question: How far can latitude measure?
+
+Answer: Up to ninety degrees.
+
+Question: What location corresponds to ninety degrees of latitude?
+
+Answer: The poles.
+
+　　　　　Chapter 21　　Part 2　　Figure 7
+
+Question: What is called the prime meridian?
+
+Answer: It refers to the meridian from which longitude begins to be counted.
+
+Question: In the United States, which meridian is commonly used as the prime meridian?
+
+Answer: The meridian of London.
+
+Question: What is called the longitude of a given location?
+
+[Page ends here — question continues on the next page.]

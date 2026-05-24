@@ -1,0 +1,24 @@
+## Method for Measuring Great Distances (幽遠大量方, Yūen Tairyōhō)
+
+This technique is used to measure distances of ten *ri*, twenty *ri*, or even thirty to fifty *ri*, spanning multiple districts, provinces, and countries. The method involves setting up a small reference target called a "*tane*" (seed/reference point), using its measured distance as the baseline (*kyūtei*) to calculate and determine the distance to the main target.
+
+(For example, when measuring a great distance of thirty *ri*, while ancient methods suggest the baseline should be one *ri*, terrain where a full one-*ri* distance can be secured without obstruction to the line of sight would be rare even in a large province. For this reason, a small reference "*tane*" target is established, and its measured distance is used directly as the baseline to determine the total distance.)
+
+This is named the "Great Measurement Method" (*Tairyōhō*).
+
+**Explanation of the Technique** (explained using the diagram below)
+
+First, from the main station (*honza*, the surveying origin), use the naked eye to fix a target on a mountain summit. (When measuring distances of many *ri*, it is always best to use a mountain summit as the target.)
+
+Next, in front of (*temahe*, on the near side of) the main target, identify a "*tane*" (reference) target—whether a forest, a pagoda, or any structure—whose distance in *ri* and *chō* is already known. (If the distance to the reference target is not known in advance, one should first measure the reference distance when the time comes. Here we provisionally set that distance at one *ri*.)
+
+Next, determine the position of the *kaichi* (lateral base point) in whichever direction—left or right—allows both targets to be seen most easily. (The diagram below shows the case where the opening is made to the right.)
+
+After making this initial plan in such a manner,
+
+① Place the surveying board (*ban*) at the main station, oriented precisely to the cardinal directions, and sight from the east side of the board through the reference (*tane*) target to squarely fix the main target. Then…
+
+---
+**Diagram description:**
+
+The circle ○ represents the reduced scale of the reference distance of one *ri*. The triangle ▽△ represents the reduced scale of the target distance of five-and-a-half *ri*. Measuring ▽△ using ○, one finds five-and-a-half intervals (*kyō*). Five-and-a-half intervals equals five-and-a-half *ri*. This is the measured distance. Refer to the main text for full details.

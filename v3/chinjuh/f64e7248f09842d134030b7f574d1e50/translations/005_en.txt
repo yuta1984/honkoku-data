@@ -1,0 +1,11 @@
+《Ruby: 火の鳥｜フェニックス｜ひ》
+→ An example with "Phoenix" (フェニックス) as right-side ruby and "hi" (ひ) as left-side ruby over the word "Firebird" (火の鳥).
+
+《Ruby: 火の《Ruby: 鳥｜｜とり》｜フェニックス》
+→ An example of nested ruby: "tori" (とり) is applied as left-side ruby to "鳥" (bird), while "Phoenix" (フェニックス) is applied as right-side ruby to the entire phrase "火の鳥" (Firebird).
+
+《Ruby: 火の鳥｜フェニックス｜　　　とり》
+→ An example where "Phoenix" (フェニックス) is the right-side ruby and "tori" (とり) is the left-side ruby, with spaces inserted before "tori" in an attempt to align the left ruby closer to the position of "鳥" (bird).
+
+《Ruby: 火の鳥｜フェニックス｜ひ　　とり》
+→ An example where both "hi" (ひ) and "tori" (とり) are used as left-side ruby, with spaces inserted between them to attempt positional alignment across the characters of the word.

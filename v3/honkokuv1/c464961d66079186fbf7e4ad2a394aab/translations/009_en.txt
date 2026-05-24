@@ -1,0 +1,12 @@
+# Nisshoku-do (Degrees/Calculations of Solar Eclipses)
+
+Composed by Chen, of Heian (Kyoto), of the Sui Dynasty period
+
+## Table of Contents
+
+The following items are listed in the order of the introduction, presenting those which must necessarily be sought first:
+
+1. Chūseki (Accumulated Middle Value)
+2. Tsūseki (Accumulated Total Value)
+3. Junseki (Accumulated Intercalary Value)
+4. Tensei Jun'yo (Intercalary Remainder of the Heavenly Rectification)

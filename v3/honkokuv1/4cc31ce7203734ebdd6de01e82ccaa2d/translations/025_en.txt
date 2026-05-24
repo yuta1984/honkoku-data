@@ -1,0 +1,14 @@
+**[Continued from the Kenban (surveying board) section]**
+Nothing surpasses having a larger one. For further details, see the figure provided below.
+
+**Jōgi (Straightedge/Alidade)**
+The jōgi is an instrument placed on the surface of the surveying board, serving as the standard for sighting, alignment, re-sighting, and back-sighting. It is made of hinoki (Japanese cypress) or kashioki (oak). Its length is approximately one shaku eight sun, its width is just under one sun, and its thickness is three bu. This is its general specification. Note that the length should be adjusted according to the size of the kenban (surveying board). It goes without saying that this instrument must be made as straight as possible. Furthermore, it is said to be useful to engrave carpenter's square (kujira) graduations on one side, so as to be ready for unexpected needs.
+
+**Konhatsu (Proportional Dividers/Sector)**
+The konhatsu is an instrument used to measure figures that appear on the surveying board's surface, thereby determining distances (near and far), widths (broad and narrow), elevations (high and low), and depths (shallow and deep). (It can also be used as a compass, a square, for dividing, for ruling lines, as an awl, and for preliminary surveying, among other uses.) Instruments of this type that come from the Netherlands (Kōmōkoku, "Red-hair country") are considered of superior quality. It is made of ōdō (brass). It may also be made of iron. Each material has its advantages and disadvantages, so one need not stubbornly insist on either; make it as one sees fit. Its length is approximately five sun. Its shape resembles two upper ribs of a folding fan joined together. The head is made thick and the tip is made thin. The pivot (kaname) is placed approximately eight bu from the head. The pivot joint should be made firm. A ink groove (sumi-mizo) should be provided on the inner face of the tip. It is also good to engrave carpenter's square graduations on the outer face.
+
+**Chōkyoku (Plumb Bob)**
+The chōkyoku is an instrument used to determine the levelness of the surveying board's surface. Its construction consists of a needle fitted with a thread, from which a lead weight is suspended, and it is hung from the four corners of the board. (The straightness of this thread is used to determine the levelness of the board.) An ordinary sewing needle is used for the thread needle. The lead weight used is shaped like a musket ball (teppō-tama) weighing approximately three to four monme.
+
+**Suishin (Spirit Level/Plumb Indicator)**
+The suishin is an instrument used to precisely determine (極める) the levelness of the surveying board's surface. It is made of ōdō (brass). Its overall shape is as illustrated in the figure below. It resembles what is called a "needle-mouth" (hariguchi) used in a balance scale (tenbin). Its principle is likewise the same. [Regarding its construction... (continued)]

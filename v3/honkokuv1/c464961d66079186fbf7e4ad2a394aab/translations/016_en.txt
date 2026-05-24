@@ -1,0 +1,15 @@
+Eighth month: Rapid Calendar (Jì lì / Shitsureki) — 9 days, 5,656 fen, 23 seconds
+
+○ The method states: List each eclipse day and the lunar entry-into-revolution day (rù zhuǎn rì). Compare with the Revolution Mid-Method (zhuǎn zhōng fǎ) of 13 days and 7,773 fen. If it falls below the Revolution Mid-Method, it is designated as the Rapid Calendar (shitsureki / jì lì). If it is above, subtract the Revolution Mid-Method and stop. The remainder becomes the Slow Calendar (chì lì / chireki).
+
+Item: Entry into the Expanding/Contracting Calendar (nyū ei-shuku-reki)
+　Second month: Entry into the Expanding Calendar (nyū ei-reki) — 83 days, 5,560 fen, 029 seconds
+　Eighth month: Entry into the Contracting Calendar (nyū shuku-reki) — 78 days, 1,183 fen, 37 seconds
+
+　　Chen [the commentator] states: Eclipses occurring from the summer solstice to the winter solstice are entered into the Contracting Calendar. Eclipses occurring from the winter solstice to the [next] solstice day are entered into the Expanding Calendar.
+
+○ The method states: List the Half-Year Cycle (han-sai-shū) of 182 days and 6,212.5 fen, subtract the Heavenly Correct Intercalary Remainder (tensei jun-yo) within it, and the remainder becomes the entry into the Contracting Calendar for the eleventh month. Add the Conjunction Interval (saku-saku) of 295,305 fen and 93 seconds; when it reaches the Half-Year Cycle, remove it and stop. The remainder becomes the entry into the Expanding Calendar for the twelfth month. Continue adding and subtracting in this manner until reaching the eighth month.
+
+Item: Initial and Final Limits (shomatsu-gen)
+
+[The page ends here with the section heading, followed by blank space.]

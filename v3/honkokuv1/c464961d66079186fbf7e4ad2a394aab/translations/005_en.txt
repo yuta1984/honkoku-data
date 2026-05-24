@@ -1,0 +1,25 @@
+**Diagram of the True Node (正交) at the Autumnal Equinox**
+
+When the true node (正交) falls at the autumnal equinox, the vernal equinox becomes the mid-node (中交).
+
+[Contents of diagram:]
+- The vernal equinox becomes the mid-node
+- Celestial equator, ecliptic, North Pole (the lunar orbit is 122 degrees from the North Pole), lunar orbit, ascending/descending node (半交)
+- True node (no angular difference / 無距差)
+
+When the true node falls at the lodge (宿) of the autumnal equinox, the half-node (半交) extends 6 degrees beyond the ecliptic, and lies 30 degrees beyond the celestial equator.
+
+---
+
+**Diagram of the True Node (正交) at the Winter Solstice**
+
+From the node of the ecliptic to the node of the lunar orbit: the angular difference (距差) with respect to the celestial equator is 14 degrees 66 minutes.
+
+[Contents of diagram:]
+- Half-node, lunar orbit
+- Celestial equator; the lunar orbit is at 98 degrees (the fixed limiting degree) from the North Pole; North Pole; autumnal equinox point (正秋); true node (正交)
+- The angular difference is the same as above (on the right); ecliptic
+
+When the true node falls at the winter solstice, the lunar orbit extends 24 degrees beyond the celestial equator, and the half-node extends 6 degrees beyond the ecliptic.
+
+At the two cardinal equinox points (spring and autumn), the position that falls short of the true intersection of the ecliptic and celestial equator by 14 and 2/3 degrees to the east or west is defined as the angular difference (距差).

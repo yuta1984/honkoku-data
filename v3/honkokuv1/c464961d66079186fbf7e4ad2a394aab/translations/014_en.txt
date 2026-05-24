@@ -1,0 +1,13 @@
+8th Month: Empty day (Vacant/Missing day) — 820 fen, 009 miao
+9th Month: 2nd day — 4,003 fen, 78 miao
+10th Month: 4th day — 7,187 fen, 47 miao
+
+○ The method states: Arrange the "accumulated middle" (zhōngjī / 中積), add the "intersection epoch" (jiāoyìng / 交応, which is 260,187 fen 86 miao), subtract from it the "Heavenly Correct intercalary remainder" (tiānzhèng rùnyú / 天正閏余); when the remainder fills a complete "intersection cycle" (jiāozhōng rì / 交終日, i.e., 27 days, 2,122 fen 24 miao), remove it, and thereby obtain the "missing day" (没日) of the 11th month. Using the "syzygy cycle" (cèshuò / 策朔, which is 295,305 fen 93 miao), add it in; when it fills a complete intersection cycle, remove it,
+
+and this becomes the "missing day" of the 12th month. Proceed sequentially in this manner, adding and subtracting, until reaching the "missing day" of the 10th month.
+
+Chen states: Proceeding from last year's 11th month through to the current year's 10th month's "missing days," and seeking these according to the method, it is found that the new moon days (shuò) of the 2nd month and the 8th month are the eclipse days. Therefore, the various calculated values (諸具) for the 2nd and 8th months are sought as shown on the left.
+
+1. Mean New Moon (経朔 / jīngshuò)
+　2nd Month: 14th day, 7,707 fen 69 miao
+　8th Month: 1st day, 4,687 fen 59 miao

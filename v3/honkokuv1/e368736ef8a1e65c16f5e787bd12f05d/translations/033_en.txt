@@ -1,0 +1,19 @@
+【Right page: Two diagrams】
+
+【Upper caption】
+Figure 16
+As glass panes are stacked one upon another,
+the image appears increasingly distant
+
+【Lower caption】
+Figure 17
+When glass stands upright, the image appears near;
+when tilted, the image appears far
+
+【Left page, main text】
+
+As shown in the diagram, with only the glass prism labeled 卯 (Mao), the celestial image at point 甲 (A) appears at point 乙 (B). When the glass labeled 寅 (Tora) is added and stacked upright, the image at 甲 appears at point 丙 (C). When the glass labeled 丑 (Ushi) is further added and stacked, the image at 甲 appears at point 丁 (D). When the glass labeled 子 (Ne) is also added and stacked, the image at 甲 appears at point 戊 (E). This is a point of great importance in the discussion of astronomy, and one should be careful to keep it in mind.
+
+○ Figure 17 illustrates that even a single triangular glass prism exhibits changes in the apparent position of an image depending on the angle at which it is held. As shown in the diagram, when held perfectly upright, the displacement of the observed celestial image is small. When this glass is tilted, however, the displacement of the image becomes considerably greater.
+
+○ Figure 18: Up to this point, the discussion has concerned how objects with physical substance—such as glass and the surface of water—bend the line of sight (i.e., refract light rays). This figure is intended to demonstrate that air itself can also bend the line of sight. However, since the air that fills heaven and earth cannot even be grasped in one's hands, it is exceedingly difficult to discuss…

@@ -1,0 +1,49 @@
+**Polar Distances of the Twenty-Eight Lunar Mansions**
+[Angular distances from each Mansion to the North Celestial Pole]
+
+| Mansion | Polar Distance |
+|---------|---------------|
+| Jiao 角 (Horn) | 97.5° |
+| Kang 亢 (Neck) | 97.5° |
+| Di 氐 (Root) | 104.5° |
+| Fang 房 (Room) | 114.5° |
+| Xin 心 (Heart) | 114.5° |
+| Wei 尾 (Tail) | 127.5° |
+| Ji 箕 (Winnowing Basket) | 121.5° |
+| Dou 斗 (Dipper) | 119.5° |
+| Niu 牛 (Ox) | 108.5° |
+| Nü 女 (Girl) | 104.5° |
+| Xu 虚 (Emptiness) | 100.5° |
+| Wei 危 (Rooftop) | 96.5° |
+| Shi 室 (Encampment) | 80.5° |
+| Bi 壁 (Wall) | 80.5° |
+| Kui 奎 (Legs) | 72° |
+| Lou 婁 (Bond) | 75° |
+| Wei 胃 (Stomach) | 60.5° |
+| Mao 昴 (Pleiades) | 70° |
+| Bi 畢 (Net) | 77.5° |
+| Zi 觜 (Turtle Beak) | 82° |
+| Shen 参 (Orion) | 92.5° |
+| Jing 井 (Well) | 69° |
+| Gui 鬼 (Ghost) | 69.5° |
+| Liu 柳 (Willow) | 82.5° |
+| Xing 星 (Star) | 96° |
+| Zhang 張 (Extended Net) | 112.5° |
+| Yi 翼 (Wings) | 114° |
+| Zhen 軫 (Chariot) | 113.5° |
+
+---
+
+**The Twenty-Four Solar Terms (*Nijūshi Setsu*)**
+[The division of the year into twenty-four seasonal segments]
+
+| Spring | Summer | Autumn | Winter |
+|--------|--------|--------|--------|
+| Risshun 立春 (Start of Spring) | Rikka 立夏 (Start of Summer) | Risshū 立秋 (Start of Autumn) | [Rittō] |
+| Usui 雨水 (Rain Water) | Shōman 小満 (Grain Buds) | Shosho 処暑 (End of Heat) | [Shōsetsu] |
+| Keichitsu 啓蟄 (Awakening of Insects) | Bōshu 芒種 (Grain in Ear) | Hakuro 白露 (White Dew) | [Taisetsu] |
+| Shunbun 春分 (Spring Equinox) | Geshi 夏至 (Summer Solstice) | Shūbun 秋分 (Autumnal Equinox) | [Tōji] |
+| Seimei 清明 (Clear and Bright) | Shōsho 小暑 (Minor Heat) | Kanro 寒露 (Cold Dew) | [Shōkan] |
+| Koku-u 穀雨 (Grain Rain) | Taisho 大暑 (Major Heat) | Sōkō 霜降 (Frost's Descent) | [Daikan] |
+
+※ The original text lists only eighteen of the twenty-four solar terms, from *Risshun* through *Sōkō*. The remaining six winter terms (Rittō, Shōsetsu, Taisetsu, Tōji, Shōkan, and Daikan) are likely continued on the following page.

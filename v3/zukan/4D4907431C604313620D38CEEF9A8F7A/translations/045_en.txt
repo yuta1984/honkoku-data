@@ -1,34 +1,54 @@
-Crimson peach　　Two varieties
-　　　　　　　　　　　　　　　　　　　　　　　　　　　Fruit trees category
+---
 
-　　　　　　　　　　　　　　　　　　　　　　　　　Kinoe-Saru year, Koshō month, first day
-　　　　　　　　　　　　　　　　　　　　　　　　　True illustration during continuous rain
+## 【A Variety of Ornamental Peach: *Himomo* (緋桃; Scarlet/Crimson Peach)】
 
-According to Yamato Honzō:
-　　　Japanese horseradish　Japanese name　Wasabi　　　　　　According to Seika Hyakkyō:　
-　　　Also mountain ginger　This character used in Kango-shō　　　　　　　■-vegetable (Kanzai)　　
-　　　　　　　Chinese name unknown
+*Himomo* (緋桃; Crimson Flowering Peach)　— Two varieties
 
-According to Zōho Tashiki-hen, Pungent Vegetables section:
-　　　■-vegetable (Kanzai)　Japanese name　unknown　　Alternative names　■ (Tō) vegetable, Ratsubei vegetable
+[Seal: Fruit-Bearing Trees (*Kabo-rui*)]
 
-　　　　　　　　　　　　　　　　　　　　　　　Same year, Koshō month
-　　　　　　　　　　　　　　　　　　　　　　　Fifth day, on a stone dish on the desk
-　　　　　　　　　　　　　　　　　　　　　　　True illustration
+Sketched from life in the rain,
+on the first day (*tsuitachi*) of *Kosen* (姑洗; third lunar month), year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
 
-According to Wakan Sansai Zue, Pungent Vegetables section:
-　　　　Japanese horseradish (Wasabi)　Mountain ginger　Honchō-shiki
-　　　　　　　　Japanese name　Wasabi
+---
 
-　　　　　　Separately there exists something called mountain ginger, and also iris
-　　　　　　is named mountain ginger - three different things with the same name but different varieties
+## 【*Wasabi* (山葵; Japanese horseradish / *Eutrema japonicum*)】
 
-　　　Upon examination, its leaves resemble aoi (hollyhock) leaves, hence commonly called mountain aoi,
-　　　its root resembles sweet flag and galanga, hence commonly
-　　　called mountain ginger
+### According to the *Yamato Honzō* (大和本草):
 
-　　　　　　　　　　　　　　　In my opinion:
-　　　　　　　　　　　　　　　　Various books treat ■-vegetable and wasabi as one plant. The above books
-　　　　　　　　　　　　　　　　separate them into two plants, but their forms differ greatly, and flowers and leaves also differ,
-　　　　　　　　　　　　　　　　so it can be known they are not one plant. However, the root of ■-vegetable is also
-　　　　　　　　　　　　　　　　extremely pungent, which may cause this confusion
+　　*Wasabi* (山葵)　Japanese name: *Wasabi* (和佐美)
+
+　　　　　　[The *Seika Hyakkyō* (生花百競) states: *Kanzai* (蔊菜)]
+
+　　Also written with the characters "山薑" (*yamahajikami*). [These characters are used in the *Kangoshō* (漢語抄). The Chinese name is not yet known.]
+
+---
+
+### According to the *Zōho Tashikiden* (増補多識編), in the section on Pungent Vegetables (*Kunsai-rui*):
+
+　　*Kanzai* (蔊菜)　Japanese name: Unknown
+
+　　[Alternative names:] ■菜 (*Tōsai*) [pronunciation: possibly *Niku-sō*?]　*Ratsubei-sai* (辣米菜)
+
+---
+
+Also sketched from life on the fifth day of early *Kosen* (third lunar month),
+on a stone dish on the writing desk.
+
+---
+
+### According to the *Wakan Sansai Zue* (和漢三才図会), in the section on Pungent Vegetables (*Kunsai-rui*):
+
+　　*Wasabi* (山葵)　[Alternative name:] *Yamahajikami* (山薑)　[Source:] *Honchō-shiki* (本朝式)
+　　　　Japanese name: *Wasabi* (和佐比)
+
+　　Separately, there exists a plant also called "山薑," and furthermore *kakitsubata* (杜若; *Iris laevigata*) is also named "山薑" — three different plants sharing the same name, each being a distinct species.
+
+　　Upon examination: its leaves resemble those of *aoi* (葵; hollyhock/mallow), hence it is commonly called *yamaoi* (山葵; "mountain mallow"). Its root resembles *shōbu* (菖蒲; sweet flag, *Acorus calamus*) and *ryōkyō* (良薑; lesser galangal, *Alpinia officinarum*), hence it is also commonly called *yamahajikami* (山薑; "mountain ginger").
+
+---
+
+### The author's own observations (*yo kangae iwaku*):
+
+　　*Kanzai* (蔊菜) and *Wasabi* (山葵) have been treated as the same plant in many works; however, the books cited above distinguish them as two separate things. Their forms differ greatly, and their flowers and leaves are likewise different — it should be clear that they cannot be the same plant. Nevertheless, since the root of *kanzai* is also extremely pungent in taste, this is likely the reason why the two have been confused with one another.
+
+---

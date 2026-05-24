@@ -1,52 +1,57 @@
-Honzō Wage (Botanical Interpretation)
-Qu mai (Club wheat/Pink) - Tokonatsu (Eternal Summer) - Not recorded in
-　　　　　　　Seishi　　the Honzō　　　Copied on the 16th day of early summer, Mizunoe-uma year
-　　　　　　　Alternative names: Kyobaku, Kyokubaku, Tenkiku
-　　　　　　　　　　　　Dairan, Sekichiku, Nantenjikusō
+## Honzō Wakai (Commentary on the Materia Medica in Japanese)
 
-　　　　　　　　　　　　　Japanese names: Nadeshiko, Yamato-nadeshiko
-　　　　　　　　　　　　　　　　　　　　Sekichiku
+**Kubaku (Dianthus/Pink) — Tokonatsu (Everlasting Summer)**　*Note: The seeds (■子) are not listed in the Honzō (Materia Medica)*
 
-　　　　　　　　　　　　　　　　Yūsei-shō (commentary)
-　　　　　　　　　　　　　　　　According to Ōkagami Uragaki:
-　　　　　　　　　　　　　　　　　　Nadeshiko is the original name of this plant. Since
-　　　　　　　　　　　　　　　　Lady Sen'den was called "Nadeshiko no
-　　　　　　　　　　　　　　　　kimi," to avoid using her taboo name,
-　　　　　　　　　　　　　　　　it came to be called "tokonatsu no hana" (flower of eternal summer).
-　　　　　　　　　　　　　　　　Since tokonatsu blooms across autumn
-　　　　　　　　　　　　　　　　and winter seasons, it is called the flower of eternal summer.
-　　　　　　　　　　　　　　　　Tokonatsu means "eternal."
+**Alternative names:** Kyobaku, Kyokubaku, Tengiku (Heavenly Chrysanthemum), Tairan (Great Orchid), Sekichiku (Stone Bamboo), Nantenjikusō
 
-　　　　　　　　　　　　　In Bakuden-shō: "katami-gusa" (keepsake grass)
-　　　　　　　　　　　　　In Yūboku-shō: "katami-gusa"
-　　　　　　　　　　　　　Same as above
-　　　　　　　　　　　　　In Shinome-shō: "natsukashi-gusa" (nostalgic grass)
+*Transcribed on the sixteenth day of early summer, the year of Mizunoe-Uma (壬午)*　　【Medicinal Herb】【Flowering Plant】
 
-According to Yamato Honzō:
-　Qu mai (nadeshiko)
-　This is sekichiku, with the Japanese name
-　nadeshiko
-　Also called tokonatsu
-　I have detailed this in the lower section of the same record
-　In Gao Lian's Flower Manual,
-　the double-flowered variety is
-　called Luoyang flower
+**Japanese names:** Nadeshiko, Yamato-Nadeshiko, Sekichiku
 
-　　　　　　　　　　　　　　　　　　　　　　　　According to Jiuhuang Bencao:
-　　　　　　　　　　　　　　　　　　　　　　　　Shizhu-shi (Stone bamboo seed)
-　　　　　　　　　　　　　　　　　　　　　　　　According to Bencao:
-　　　　　　　　　　　　　　　　　　　　　　　　　Qu mai
-　　　　　　　　　　　　　　　　　　　　　　　　Also called Dumusō
-　　　　　　　　　　　　　　　　　　　　　　　　Ōbaku
-　　　　　　　　　　　　　　　　　　　　　　　　　(Pronounced Habaku)
+---
 
-　　According to Imyō Bunrui-shō:
-　　　　Nadeshiko - Hikurashi-gusa (day-long grass)
-　　　　In Bencao Gangmu: Qu mai's alternative name is given as Sekichiku
-　　According to Wamyō Ruijū-shō:
-　　　　　Qu mai (nadeshiko) - According to Bencao: Qu mai, also called Dairan (Japanese name: nadeshiko; alternatively: tokonatsu)
+### From the Yūsei Shō (Yūsei's Notes):
 
-My comment:
-Nadeshiko refers to the wild variety as qu mai, while the cultivated garden variety is called
-Luoyang flower. The qu mai mentioned in the Man'yōshū poem about the seven autumn grasses
-refers to the wild variety.
+According to the annotations of the *Ōkagami* (Great Mirror):
+"Nadeshiko" (瞿麦) is the original name of this plant. However, because the consort of the Somedono Palace was referred to as "Lady Nadeshiko," the name was avoided out of respect for her, and the flower came to be called "Tokonatsu no Hana" (Flower of Everlasting Summer). Since the Tokonatsu blooms across three seasons — summer, autumn, and winter — it is called the "Tokonatsu flower." The word "Toko" in Tokonatsu carries the meaning of "eternity" or "constancy."
+
+- The *Bakuden Shō* records it as "Katami-gusa" (Keepsake Plant)
+- The *Fuboku Shō* also records it as "Katami-gusa" (same)
+- The *Shinome Shō* records it as "Natsukashi-gusa" (Longing Plant)
+
+---
+
+### From the Yamato Honzō (Japanese Materia Medica):
+
+**Nadeshiko** 〈Sekichiku〉
+This is the Sekichiku (Stone Bamboo / Chinese Pink, *Dianthus chinensis*). Its Japanese name is Nadeshiko, and it is also called Tokonatsu. Further details are given in the lower section of the same text. Gao Lian's *Caōhua Pu* (Treatise on Flowers) states that the double-petaled variety is named "Luoyang Hua" (Luoyang Flower).
+
+---
+
+### From the Jiuhuang Bencao (Materia Medica for Relieving Famine):
+
+Shizhu-zi (Nadeshiko / *Dianthus*)
+
+According to the Honzō (Materia Medica):
+Kubaku is also known as Tubosō (Dumu Grass), Enbaku (Swallow Wheat), and ■-Mugi (with the phonetic reading of the characters 音/葉).
+
+---
+
+### From the Imyō Bunrui Shō (Classified Glossary of Alternative Names):
+
+撫子 (Nadeshiko) — also called Higurashi-gusa (Day-Passing Plant)
+
+The *Honkō* (Bencao Gangmu / Compendium of Materia Medica) gives "Sekichiku" (Stone Bamboo) as the explanatory name for Kubaku.
+
+---
+
+### From the Wamyō Ruijushō (Japanese Name Classified Glossary):
+
+Kubaku (Nadeshiko): According to the Honzō, also known as Tairan (大欄). Japanese name: Nadeshiko (奈天之古).
+〈Tokonatsu〉　Also recorded as: Tokonatsu (止古奈豆)
+
+---
+
+### Tamaki's Note:
+
+The Nadeshiko that grows wild is classified as Kubaku (瞿麦), while those cultivated from seedlings in household gardens are called Rakuyō-ka (Luoyang Flower). The Nadeshiko (Kubaku) that appears in the *Man'yōshū* poem enumerating the seven autumn plants refers to the wild variety.

@@ -1,45 +1,33 @@
-The Yamato Honzo states:
-　Spicebush (Karatachibana)
-　　　　　Dialect of Musashi Province: Tachibana
-　　　　　○Kyoto dialect: Karatachibana
-　　　　　○Chikushi dialect: Yabukarashi
+The Yamato Honzo (Japanese Materia Medica) states:
+　Karatachibana (Ardisia crenata / Coral Ardisia)
+　　　　　In the Musashi/Edo dialect, it is called "Tachi-hana"
+　　　　　◦In the Kyoto dialect, it is called "Kara-tachi-hana"
+　　　　　◦In the Tsukushi (Kyushu) dialect, it is called "Yabu-karashi"
 
-　　　　　　　　　　　　　　　　　　　Sixth day of early Rinsho, Year of Hinoe-inu
-　　　　　　　　　　　　　　　　　　　Copied
+Sixth day of the first month of Rinsho (sixth month), year of Hinoe-inu (1766 or 1826)
+Copied
 
-　　　　　　　　　　　　　　　　Listed in Yamato Honzo [Garden Trees]
+Recorded in Yamato Honzo【Seal: En-moku (Garden Trees)】
 
-Tamaki states:
-　What the common people call "tachibana" is this plant. The tachibana (orange tree) is
-　a general term for citrus species and is different from this. Since citrus is called
-　tachibana, this is called spicebush (karatachibana).
-　In the Chikushi dialect it is called yabukooji, which is very
-　easily confused. Yabukooji is a lowland tree, and while similar to
-　spicebush, the leaves differ, though the flowers and fruit are most
-　similar.
+The author's commentary states:
+　What is commonly called "Tachibana" in popular usage is this plant. "橘 (Tachibana)" is
+　the general name for citrus (mikan) varieties, and is a different plant from this one. Because citrus (mikan) is
+　called "Tachibana," this plant has come to be called "Kara-tachibana" (foreign tachibana).
+　In the Tsukushi dialect, it is called "Yabu-kōji," which leads to considerable
+　confusion. Yabu-kōji (Ardisia japonica) grows in flatland areas, and while it resembles karatachibana,
+　their leaves differ, though their flowers and fruits closely resemble each other.
 
-The Zoho Chikin-sho states that Chinese citrus is a different plant, referring to the daidai orange.
-It is a type of citrus. Though spicebush is commonly called tachibana,
-it does not have the character for "orange."
+The Zoho Chikinsho (Revised Illustrated Horticultural Guide) states: "Kara-橘 (Tang orange) is a separate plant altogether. Traditionally, 橘 has been used to refer to citrus, a type of kōji (mandarin orange), but although karatachi-bana is popularly called 'Tachibana,' the use of the character 橘 for it is inappropriate."
 
-Wild geranium grows abundantly in various mountains and fields. It grows in
-the plains of Sugamo and Tokumaru in Musashi Province. The leaves, stems, and flowers are shade-
-dried and powdered, then taken with hot water. It cures diarrhea and is
-most effective for dysentery. It can also be made into decoctions or ground into fine powder for pills.
-All are effective. Therefore it is called Gen-no-seuko. Though listed in materia medica as a toxic
-plant, it is non-toxic. For diarrhea, this wild geranium alone
-should be taken. The frequency should be limited. This is also recorded in Yamato Honzo for its
-efficacy.
+Ox-flat (Gyūhen / Geranium thunbergii) grows abundantly in mountain and field areas. It also grows in the fields of Sugamo and Tokumaru in Musashi/Edo. The leaves, stems, and flowers of this plant are all dried in the shade, ground into powder, and taken with hot water. It is effective in treating dysentery (diarrhea). It is especially effective for bloody dysentery. It can also be decocted into a tea, or finely powdered and made into pills. All methods are effective. For this reason, it is called "Gennoshōko" (lit. "verified efficacy"). Although it is listed in the materia medica under poisonous plants, it is in fact non-toxic, and for dysentery, taking this ox-flat alone is beneficial. It reduces the frequency of bowel movements. This efficacy is also recorded in the Yamato Honzo.
 
-　　　　　　　　　　　　　　　　　　　　　[Grass Category]
+【Seal: Grass Category】
 
-　　　Wild geranium (Yafuro) grass
-Kyuuko states:　Wild geranium (Ken-no-seuko)　Fighting bull herb　○Renke grass
-　　　　　　　　　　　　　○Houtsukebana
-　　　　　　　　　　　　　○Mikoshi grass
-　　　Geranium (Furo)　Haikuwa grass
-　　　　　　　　Ume-kae grass
+　　Yafu-rō-sō (Wild Geranium)
+Rescue Famine Materia Medica states: Māniú'ér (Geranium / Gennoshōko), Dòuniú'ér　
+　《Side note: ◦Renke-sō　◦Hōtsuke-bana　◦Mikoshi-kusa》
+　　　　Fūro (Geranium) 《Side note: Haika-sō, Ume-kahe-sō》
 
-The Wakan Sansai Zue and various books state:
-　　Wild geranium, Ken-no-seuko, and Furo are all recorded as three different things in confusion.
-　　These three things are one species. The true geranium is a separate species.
+The Wakan Sansai Zue (Japanese-Chinese Illustrated Encyclopedia) and other books state:
+　Gyūhen, Māniú'ér, and Fūrō are recorded as three separate plants, though all with considerable confusion.
+　In fact, these three are one and the same species. The true Fūro (扁特) is a separate species.

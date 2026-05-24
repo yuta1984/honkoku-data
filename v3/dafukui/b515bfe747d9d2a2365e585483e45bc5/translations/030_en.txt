@@ -1,20 +1,29 @@
-【Right page】
-One: Kyōhō 3, Year of the Dog (1718)
-　○It has been heard since last winter that there are those among the lower ranks of the domain retinue who appear to be engaging in gambling. As gambling has long been strictly prohibited, it is utterly outrageous that such conduct is occurring. Should an investigation reveal such activity, the master of the household concerned shall be held responsible for negligence. Therefore, each person must conduct thorough investigations and strictly order that nothing even resembling gambling be permitted. The above.
-　　　　　　　1st month, 22nd day　　To all　　　　　　　　　　　To the inspectors
-　　　Additionally, those with supervisory authority over groups must ensure this order is conveyed without fail. The above.
-　○Regarding fire hazards, orders have previously been issued on this matter, but as His Lordship is currently absent, it has been further ordered that strict fire precautions be enforced. Understand this intent and convey it strictly to subordinates. The above.
-　　　　　　　7th month, 26th day　　To all　　Additionally to groups～　　　To the inspectors
+【Right folio】
 
-One: Kyōhō 4, Year of the Boar (1719)
-　○Regarding the spring servant changeover for lower-ranking persons, notice was given previously [marginal note: "This is a standing official notice"], but it has since been heard that there are those who, in connection with the new gold and silver currency, are selfishly demanding higher wages, which is utterly outrageous. Regarding wages, whether in new gold or dry gold, servants are to be engaged by mutual agreement with their master based on the previously notified wage standards. If there are those who engage servants at higher wages, the master shall be held responsible for negligence. Furthermore, if there are those who make various demands from below, the details should be reported to the inspectors, who will investigate and issue orders accordingly. The above.
+Item: 3rd year of Kyōhō, Year of the Dog (1718)
 
-【Left page】
-　　　　　　　1st month, 21st day　　To all　　Additionally to groups～　　　To the inspectors
-　　　Note: It is reported that a notice has also been issued in Edo that servants must not be engaged at higher wages.
-　○Regarding fire hazards, the same as the notice from two years ago, the Year of the Rooster (Kyōhō 2).　2nd month, 14th day
+　○ It has been heard since last winter that there appear to be persons among the lower ranks of the domain's retainers who are engaging in something resembling gambling. As gambling has long been strictly prohibited, such conduct is utterly outrageous. Should an investigation reveal any such conduct, it will be considered a failing of the offender's master. Therefore, all persons are to conduct thorough investigations and strictly instruct those in their service not to engage in any conduct even resembling gambling. The above is hereby notified.
+　　　　　　22nd day of the 1st month　　To all　　　　　　　Inspectors
 
-　　　　　　　Memorandum
-　One: Engaging domain household servants at high wages has been prohibited since before, yet it is heard that year after year servants continue to seek higher wages, which is utterly outrageous. Up until now, this has been permitted because of the fluctuation in the value of gold and silver currency, but as new gold will be in circulation from next spring, servant wages are to be set in accordance with the standards that applied during the circulation of Keichō gold coins. However, because of the recent shortage of servants, the situation has been left as is. At the time of the spring changeover next year, servants should be engaged at the equivalent rate, calculated in terms of dry gold, of what was paid during the current Year of the Boar. If servants are engaged at higher wages in violation of this prohibition, the master shall be held responsible for negligence. Understand this accordingly.
-　One: At the time of the servant changeover for lower-ranking persons, there are those who cite unavoidable business or feign withdrawal from service, lying low for a time to create a shortage of servants, and then demand higher wages. Therefore, from this year's year-end, the town magistrates and district magistrates have been instructed that, starting from the first month of next year, those who have made such declarations and become merchants, or who have withdrawn ostensibly for rest, shall not be permitted to remain in that status beyond fifty days, even if they are parent, child, or sibling.
-　　　Addendum: Servants who are in poor health and have withdrawn from service since spring because they are unable to continue serving — even if they recover by summer — their
+　　　Additionally, those who have authority over groups are to strictly convey this. The above is hereby notified.
+
+　○ Although fire precautions have been previously ordered, as the lord is currently away, it has been further commanded that fire safety measures be strictly enforced. Take heed accordingly and strictly convey this instruction to those in your service. The above is hereby notified.
+　　　　　　26th day of the 7th month　　To all　　Additionally, to group leaders　　Inspectors
+
+Item: 4th year of Kyōhō, Year of the Boar (1719)
+
+　○ Regarding the spring changeover of servants in the lower ranks, as was previously announced [marginal note: "This is a standard periodic notice"], it has been heard recently that there are persons making unreasonable demands for higher wages in connection with the new gold and silver currency. This is the height of impudence. Regarding wages, whether in new gold or dried gold [乾金], servants are to be hired through mutual agreement between master and servant according to the previously announced wage standards. Should any person hire a servant at a higher wage, it will be considered the master's failing. Furthermore, if there are those among the lower ranks who make various complaints, the details are to be reported to the inspectors, and after investigation, strict measures will be taken accordingly. The above is hereby notified.
+
+【Left folio】
+　　　　　　21st day of the 1st month　　To all　　Additionally, to group leaders　　Inspectors
+　　　Note: It is said that there has also been a notice from Edo that servants are not to be hired at high wages there either.
+
+　○ The notice regarding fire precautions is the same as that of the Year of the Rooster two years prior (2nd year of Kyōhō). 14th day of the 2nd month.
+
+　　　　　　Memorandum
+
+　Item: Although it has long been prohibited to retain servants of the domain at high wages, it continues to be heard year after year that servants are seeking higher wages, which is utterly outrageous. Although this has been tolerated until now due to the confusion in the gold and silver currency, as new gold will be in circulation from next spring, wages for servants should be set in accordance with the standards that applied during the circulation of Keichō gold. However, as servants have been in short supply in recent years, this has been left as is. At the time of the servant changeover next spring, servants are to be hired with wages adjusted to the equivalent in dried gold [乾金], in accordance with the wages at which they were hired in the current spring of the Year of the Boar. Should anyone violate this prohibition and hire servants at high wages, it will be considered the master's failing. Take heed accordingly.
+
+　Item: At the time of the servant changeover for the lower ranks, because some servants make claims of unavoidable business or arrange to withdraw from service, thereby hiding away temporarily, causing a shortage of available servants and leading some to seek higher wages — therefore, from this coming winter, it has been ordered to the town magistrates and district magistrates that, beginning from next the 1st month, any person who declares their intention to become a merchant or withdraw from service for the purpose of rest shall not be permitted to remain idle for more than fifty days, even if the person is a parent, child, or sibling of someone in service. This has been declared.
+
+　　　Addendum: Servants who are in poor health and have withdrawn from service since spring due to difficulty in fulfilling their duties — even if they recover during the summer, their [case shall be handled as follows...]

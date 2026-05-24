@@ -1,28 +1,44 @@
-Cornus (Mountain Dogwood)　　According to Honzō Wakai:
-　　　　　　Alternative names　Shoku-sansō (Sichuan Sour Jujube)　Niku-sō (Flesh Jujube)　　■(Shi) Fruit　　Keisoku (Chicken Foot)　　Soshi (Mouse Droppings)
-　　　　　　Japanese names　Sahagumi　Yamagumi　　Said to closely resemble Gumi (Elaeagnus)
-　　　　　　　　　　　　　　　　　　　　　(Higumi)
+---
 
-　　　　According to Zōsho-ki:
-　　　　　　　　Sekisō (Stone Jujube)　(Also called) Sanshuyu　Japanese names: Yamagumi
-　　　　　　　　　　　　　　　　　　　Karagumi
+【Note: Sanshuyu (山茱萸; Japanese Cornelian Cherry, *Cornus officinalis*)】
 
-　　　　　　　　　　　　　　　　　　Bunsei 7th year (Kinoe) Saru, 1st month, 17th day
-　　　　　　　　　　　　　　　　　　Beginning compilation of this catalog, true-intention copy
+**Sanshuyu (Mountain Cornelian Cherry)**　　According to the *Honzō Wage* (本草和解):
+　　Alternative names: Shokusunsō (蜀酸棗), Nikusō (肉棗), ■-mi (■実), Keisoku (鶏足), Soshi (鼠失)
+　　Japanese names: Sahagumi (左波共美), Yamagumi (夜麻久美)
+　　　　Note: It closely resembles the Goumi / Higumi (胡頽子; *Elaeagnus multiflora*).
 
-According to Kyūkō Honzō:
-　　　Jitsusō-ji Tree
-　　　　Named in Honzō
-　　　　　　　as Sanshuyu
+According to the *Zōsho-ki* (蔵書記):
+　　Sekisō (石棗) — also known as Sanshuyu (山茱萸)
+　　Japanese names: Yamagumi (ヤマグミ), Karagumi (カラグミ)
 
-　　　　　　　　　　Yamato Honzō
-　　　　　　　　　　　　　　In Kyoto dialect called Nawashiro-gumi. In spring, when
-　　　　　　　　　　　　　　preparing rice seedbeds, the fruit ripens. Chinese people say this is indeed
-　　　　　　　　　　　　　　sanshuyu. According to my examination, it also matches well with the Chikin-shō section.
-　　　　　　　　　　　　　　However, there is also another variety called Nawashiro-gumi. Indeed,
-　　　　　　　　　　　　　　those later named with "shuyu" are Go-shuyu (Evodia),
-　　　　　　　　　　　　　　Shoku-shuyu (Edible Evodia), and San-shuyu (Cornus). Gumi (Elaeagnus),
-　　　　　　　　　　　　　　and Mokuhanke are all of the same family.
+---
 
-　Higan Cherry　　　　Same family as the red-flowered variety. The red-flowered variety
-　　　　　　　　was drawn first.
+Fifteenth day of the first lunar month (Shōgatsu), year Kinoe-Saru (甲申), Bunsei 7 [1824]:
+This is the first entry written for this collected floral record (集譜), sketched from life.
+
+[Seal: Medicinal Trees (薬木)]
+
+---
+
+According to the *Kyūkō Honzō* (救荒本草; *Materia Medica for Relief from Famine*):
+　　[This plant is called] Jitsusōjiju (実棗児樹).
+　　In the *Honzō* (本草; the main materia medica), it is named Sanshuyu (山茱萸).
+
+---
+
+According to the *Yamato Honzō* (大和本草):
+　　In the dialect of Kyoto, it is called *Nawashirogumi* (苗代茱萸; "seedbed goumi"), because its fruit ripens precisely when the rice seedbeds (苗代) are prepared in spring. People from China say that this is indeed the true Sanshuyu (山茱萸). Upon my own investigation, this accords well with the descriptions in the *Chikinsho* (地錦抄) as well. However, there is also a separate species called *Nawashirogumi*, which I will sketch later. Among plants bearing the name "Shūyu" (茱萸), there are: Goshūyu (呉茱萸; *Tetradium ruticarpum*), Shokushūyu (食茱萸; *Zanthoxylum ailanthoides*), and Sanshuyu (山茱萸; *Cornus officinalis*). Goumi (胡頽子; *Elaeagnus multiflora*) and Mokuhanка (木半夏; *Elaeagnus* sp.) are all related members of the *gumi* (グミ) family.
+
+---
+
+【Note: Higanzakura (彼岸桜; *Cerasus subhirtella* / Higan Cherry)】
+
+**Higan Cherry (彼岸桜)**
+　　　　It belongs to the same group as the red-flowered variety. The red-flowered variety was sketched first.
+
+[Seal: Flowering Trees (花木)]
+
+Same season (first month) — Kyōshō (夾鐘; second lunar month), twenty-ninth day:
+Sketched from life.
+
+---

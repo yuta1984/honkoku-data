@@ -1,0 +1,24 @@
+**Diagram of the Three Forms of the Sun, Moon, and Earth within the Celestial Sphere**
+
+**[Figure description]**
+North Pole　　This circle is the meridian ring (子午規)
+　　Summer Solstice
+　　　　　This is the celestial orbit circle of the Sun (太陽)
+Sun　　　Earth　　Moon
+　　　　This is the celestial orbit circle of the Moon (太陰)
+　　This circle is the Winter/Summer Solstice ring　Winter Solstice
+　　　　　　　　South Pole
+
+**[Lower text]**
+This is a diagram of the three forms — Sun, Moon, and Earth — within the celestial sphere (渾象, *konshō*). The outermost circle is the meridian ring (子午規) encompassing the full heavens. The second circle is the solstice ring (冬夏至規), tracing the path of the Sun at the winter and summer solstices. Through the two points where the solstice ring meets its extremities, a single axis is passed, forming the ecliptic axis (黄道軸). The smallest circle at the very center represents the form of the Earth (地球). The next circle outward passes through the axis and rotates, serving as the ring of the Moon's orbit (月輪規). Upon this is mounted the Moon's "wandering ring" (遊輪), with a diameter of twelve degrees. The center of this ring is fastened onto the orbit ring and can also rotate, thereby tethering the Moon (太陰). When this is rotated, it produces the nine paths (九道) of the Moon. These nine paths arise because the Moon inherently has its own wandering ring, and the lunar orbit ring must in turn follow and rotate with the ecliptic. The outermost circle, which is slightly larger, also passes through the inner axis and serves as the ring of the Sun's orbit (日輪規), tethering the form of the Sun. By means of these two rings (the solar and lunar orbit rings), one can discern the principles of solar and lunar eclipses. All of these constitute the image of the celestial sphere (渾天之象).
+
+---
+
+**Diagram of the Horizon Ring Receiving the Meridian Ring**
+
+**[Figure description]**
+Meridian ring (子午規)　　Horizon ring (地平規)
+(Around the circular ring, counter-clockwise from left): 子 (Zi), 壬 (Ren), 亥 (Hai), 乾 (Qian), 戌 (Xu), 辛 (Xin), 酉 (You), 庚 (Geng), 申 (Shen), 坤 (Kun), 未 (Wei), 丁 (Ding), 午 (Wu) / 巳 (Si), 巽 (Xun), 辰 (Chen), 乙 (Yi), 卯 (Mao), 甲 (Jia), 寅 (Yin), 艮 (Gen), 丑 (Chou)
+
+**[Lower text]**
+The Earth rests at the center of the heavens. The reason a horizon ring (地平規) is placed on the outside of the celestial sphere model is to demarcate the boundary between what lies above the ground and what lies below. The ring set upright on its side is the meridian ring (子午規). The elevation of the North Pole above the horizon (北極出地, the altitude of the North Pole) and the depth of the South Pole below the horizon (南極入地) can each be measured and determined according to one's geographic location. By placing the celestial sphere model within this horizon ring and using the two poles (South and North) as the pivots of the circular axle (円枢), and rotating it one full revolution per day, one can make it correspond to the actual movements and degrees of the celestial bodies.

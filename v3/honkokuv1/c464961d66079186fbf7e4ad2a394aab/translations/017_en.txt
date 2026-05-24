@@ -1,0 +1,12 @@
+The initial limit (shogen) for the 2nd month: 83 days, 5,560 fen, 0 29 seconds
+The initial limit for the 8th month: 78 days, 1,183 fen, 37 seconds
+The initial limit of "ying" (advance) / final limit of "suo" (recession): 88 days, 9,092 fen
+The initial limit of "suo" / final limit of "ying": 93 days, 7,120 fen
+
+○ The method states: When entering the ying-suo calendar (盈縮暦), if the value falls at or below the initial limit of "ying" / final limit of "suo," it is designated as the initial limit. If it exceeds this, subtract from the half-year cycle (182 days, 6,212.5 fen) and stop. The remainder is designated as the final limit. When entering under "suo," if it falls at or below the initial limit of "suo" / final limit of "ying," it is designated as the initial limit. If it exceeds this, subtract from the half-year cycle and stop. The remainder is designated as the final limit.
+
+I. Ying-Suo Difference (盈縮差, the equation of center)
+2nd month, "ying" difference: 2 degrees, 39 fen, 08 seconds
+8th month, "suo" difference: 2 degrees, 32 fen, 74 seconds
+
+Chen [the commentator] states: "Degree" (度) and "day" (日) are each a single unit. One always uses 10,000 (万) as the base unit for days and degrees. To obtain the quotient for the suo or ying difference, one uses 100,000,000 (億) as the unit of degrees. Since a degree is a single unit, if the quotient does not reach 100,000,000, it is treated as fen (分) or seconds (秒). Therefore, if the quotient of the ying-suo difference is 10,000,000 (千万), it is designated as "10 fen." The same applies in the case of initial and final limits.

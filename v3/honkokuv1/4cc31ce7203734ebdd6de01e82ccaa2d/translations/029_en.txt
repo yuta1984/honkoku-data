@@ -1,0 +1,42 @@
+## Diagram of the Disassembled Surveying Board (Kenban)
+
+(An exploded/disassembled view of the surveying board and its components)
+
+Component names:
+- Hozo-zan (tenon-type measuring rod)
+- Ushi-tome (pin hole for securing the support brace)
+- Hashira-tome (pin hole for securing the column/pillar)
+- Ban-ura (back face of the board)
+- Hashira (column/pillar)
+  - Ryūban san-mizo (groove for the measuring rod on the vertical board), ushi-iri-ana (hole for the brace), dai-iri-hozo (tenon for the base)
+  - Ushi-iri sen-ana (pin hole for the brace)
+  - Heiban san-mizo (groove for the measuring rod on the horizontal board), heiban sen-ana (pin hole on horizontal board), ryūban sen-ana (pin hole on vertical board)
+- Ushi (support brace/diagonal strut)
+  - San-iri sen-ana (pin hole for the measuring rod)
+  - San-hasami (measuring rod clamp), hashira-iri sen-ana (pin hole for the column)
+- Sen (pins/pegs)
+- Dai (base/stand)
+  - Hashira-ana (hole for the column)
+  - Kiri-kumi (interlocking joint/notched joint)
+
+---
+
+## Diagram of the Compass (Konhatsu) in the Closed Position
+
+- Length: 5 sun 5 bu; thickness: slightly over 3 bu (square cross-section)
+- When closed, the shape resembles a square pyramid (square cone)
+- The head is shaped like a dragonfly's head; however, this may be adjusted according to preference
+
+## Diagram of the Compass (Konhatsu) in the Open Position
+
+Component names:
+- Kaname (pivot/fulcrum)
+- Sumi-mizo (ink groove)
+
+---
+
+## Ruler (Jōgi)
+
+- Length: 1 shaku 8 sun 6 bu, graduated with carpenter's square (kanejaku) markings
+- Width: slightly under 1 sun
+- Thickness: 3 bu

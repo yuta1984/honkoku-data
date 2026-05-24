@@ -1,0 +1,14 @@
+○Method for calculating the "Reduction Difference" (減差, *gensa*) for the Eighth Month, which states:
+　Arrange the Contraction Difference (縮差, *shukusa*) and the Swift Difference (疾差, *shissa*) side by side on the left and right — they are of the same sign (同名). Add the left and right together, then divide by the Entry-into-Cycle Day's Fixed Daily Degree of Twelve-point-six-nine-four (12.694); the resulting quotient becomes the Reduction Difference.
+
+　　Chen states: In general, on the day of a solar eclipse, the Entry-into-Cycle Day (入転日, *nyūtenbi*) of the new moon varies according to the number of days, and the Fixed Daily Degree of the Cycle (転定度, *tenteido*) differs accordingly. Here, from the First Day through to the Twenty-seventh Day, all values are listed below for the convenience of beginning students.
+
+　Day 1　　Fixed Daily Degree　　14.557
+　Day 2　　　　　　　　　　　　14.402
+　Day 3　　　　　　　　　　　　14.213
+　Day 4　　　　　　　　　　　　13.987
+　Day 5　　　　　　　　　　　　13.727
+　Day 6　　　　　　　　　　　　13.444
+　Day 7　　　　　　　　　　　　13.235
+　Day 8　　　　　　　　　　　　12.947 *(corrected in red ink: "三" changed to "二")*
+　Day 9　　　　　　　　　　　　12.694

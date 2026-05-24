@@ -1,0 +1,17 @@
+**Main Text**
+
+Upon arriving at the open ground (kaichi), place the straightedge (jōgi) against the ink line drawn on the compass board (banmen) at the base station, re-sight the remaining marker (nokoru shirushi) to set the compass board squarely. (When the ink line on the board and the remaining marker do not align, straighten the board as many times as needed until it is properly squared, as described previously.)
+
+③ From the board's north (ban-boku), using board-Kon [southwest] as the crossing point (tsuji), sight back diagonally to the target, and draw an ink line following the straightedge. When this is done, the three-four-five triangle form appears diagonally (use the one appearing diagonally and small between board-west and board-Kon; do not use the one appearing between board-north and board-Ken [northwest]), and the board diagram is complete (taisei).
+
+Of the lines now revealed: the "three" is the reduced scale (shuku) of the measured distance (kaijo) [left diagonal opening: 25 ken]; the "four" is the reduced scale of the sought distance (kyūtei); the "five" is the reduced scale of the auxiliary distance (kashaku). Fit the "three" against the measured distance of 25 ken (as described before, open the proportional compass [konpatsu] and grip this "three" in one clasp, naming that opening the "square" [kane] of 25 ken), and with that square (the 25-ken square obtained by gripping the "three"), measure the "four": it yields two clasps and four-fifths. (Four-fifths means: divide the above 25-ken square into five equal parts and take four of them.) Two clasps and four-fifths equals 70 ken (two clasps = 50 ken; four-fifths = 20 ken; total: the sought distance is known to be 70 ken). This is to be known as the number of ken of the sought distance (kyūtei) — that is, the distance from the base station to the target.
+
+---
+
+**Diagram Explanation (Taisei no Zu)**
+
+This ▽△ opening represents the reduced scale of the left diagonal opening of 25 ken.
+This ○ mark is the reduced scale of the sought distance of 70 ken.
+Now, open the proportional compass and fit this ▽△ opening to 25 ken; measuring this ○ reduced scale with that square yields two clasps and four-fifths. As stated in the main text, two clasps and four-fifths equals 70 ken — this is the number of ken of the sought distance.
+Furthermore, this △ ink line is called the "kashaku" (auxiliary/hypothetical quantity) and is a provisional element; therefore it is not used.
+The procedure for both cases is the same as in the previous method. For further detail, refer to the first volume and consult accordingly.

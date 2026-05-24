@@ -1,0 +1,13 @@
+【Right Page Diagrams】
+
+Figure 8: A diagram showing that objects appear inverted when viewed beyond the focal point (chikiri) of a convex lens.
+
+Figure 9: A diagram demonstrating proof that the line of sight inverts when passing beyond the focal point (chikiri).
+
+【Left Page Main Text】
+
+Objects appear larger, as shown in the previous figure. Furthermore, at the position of the focal point (chikiri), since the upper and lower lines of sight form a cross, objects cannot be seen. Beyond this focal point, objects of any size will appear upside down. The same applies to left and right.
+
+Figure 9 demonstrates the evidence for the focal point (chikiri) position shown in the previous figure. First, pierce a small hole of slightly over two bu in a board, carefully determine the position of the focal point, and place it there. As shown in the figure, the upper and lower lines of sight converge at the center, form a cross, and emerge through the small hole, spanning broadly from earth to sky, allowing many objects to be seen. Consequently, no matter how large a mountain may be, it will appear entirely inverted when viewed through the small hole.
+
+Figure 10 demonstrates that a single object can appear as multiple objects. Up to the previous figure, we discussed how objects appear larger through a convex lens (glass with a curved surface). Now, by arranging glass in three facets…
