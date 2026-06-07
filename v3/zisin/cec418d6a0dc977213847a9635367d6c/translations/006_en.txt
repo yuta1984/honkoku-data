@@ -1,0 +1,13 @@
+Item: 407 koku, 5 to, 6 shō, 7 gō — Ōno District, Inuyamatani
+Item: 391 koku, 2 to, 1 shō — Same district, Natase Village
+Item: 2,495 koku, 7 to, 9 shō — Same district, Ichimanda-gō
+Item: 292 koku, 1 to, 2 shō, 1 gō — Same district, Miyazakitani
+Item: 1,122 koku, 1 to, 9 shō, 5 gō — Same district, Sakaishi Village
+Item: 2,192 koku, 3 to, 8 shō — Same district, Hirai-gō
+
+Item: 637 koku, 4 to, 3 shō — Same district, Izumi-gō
+Item: 767 koku, 4 to, 8 shō — Same district, Ashino-gō
+Item: 415 koku, 4 to, 3 shō — Same district, Hotada Village
+Item: 312 koku, 7 to, 6 shō, 6 gō — Same district, Kachimata Village
+Item: 525 koku, 7 to, 4 shō, 9 gō — Same district, Ōsatotani
+Item: 826 koku, 4 to, 9 shō, 5 gō — Same district, Hishida Village

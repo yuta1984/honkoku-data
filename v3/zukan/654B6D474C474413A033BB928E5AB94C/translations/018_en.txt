@@ -1,20 +1,21 @@
-According to Zōho Tashikihen, Poisonous Plants Section:
-　Iris (enbi) Japanese name: koyasu-kusa　　Additional alternative names
-　　　　According to current investigation: shyaga　　Chōen (from Honkyō)
-　　　　　　　　　　　　　　　　　　　　　　　　The root is called entō (iris head)
+## From the *Zōho Tashiki-hen* (Expanded Encyclopedia of Plant Names), Section on Poisonous Plants:
 
+**Enbī (鳶尾, *Iris japonica*)**
+- Japanese name: Koyasugusa (古也須久左)
+- Additional alternative names: Torizona 〈Honkei〉
+- Current identification: Shaga (志也加)
+- The root is named **Enbu (鳶頭)**
 
-　　According to Honzō Ikka-gen:
-　　　　Butterfly flower (shyaga)
-　　　　　　Copied in the fifth month of Mizunoe-uma year
+【Flowering Plant】
 
+---
 
+### From the *Honzō Ikke-gen* (Personal Opinions on the Materia Medica):
 
+**Kochōka (Butterfly Flower)**〈Shaga〉
 
+*Transcribed in Chūryo (the fourth lunar month) of the year Mizunoe-Uma (壬午)*
 
+---
 
-　　　　　　　Iris has been read as "shyaga" since ancient times. Iris is different from
-　　　　　　　ichihatsu (another iris species). It belongs to the same family as kakitsubata 
-　　　　　　　(rabbit-ear iris). Since shyaga is called butterfly flower,
-　　　　　　　ichihatsu is called purple butterfly. Unlike ichihatsu, shyaga is planted
-　　　　　　　leaning against the roof ridges of farmers' houses. The reason for this is unknown.
+The plant 鳶尾 (Enbī) has long been read as "Shaga" in Japanese. However, 鳶尾 and 一八 (Ichihatsu, *Iris tectorum*) are distinct plants. [The Shaga] belongs to the same family as the Kakitsubata (燕子花, *Iris laevigata*). Shaga is also known as Kochōka (Butterfly Flower). For this reason, 一八 (Ichihatsu) is called "Murasaki-kochō" (Purple Butterfly). Shaga and Ichihatsu are frequently planted together on the ridges of farmhouse rooftops, though the reason for this practice has not yet been heard.

@@ -1,23 +1,39 @@
-Alternative names: Shōri (about to part), Rishoku (pear eating)
-"Honzō Wakai" (Japanese Interpretation of Materia Medica): Byakujutsu (white atractylodes), Yoyō (remaining appearance)
-Peony: Sen (spade)
-Japanese name: kahoyokusa
+## [PEONY (Shakuyaku)]
 
-Mizunoe-uma year, mid-summer, 6th day
-Rain window - copied
+**From "Honzō Wakai" (Japanese Interpretation of Materia Medica):**
 
-"Wamyō Ruijushō" (Collection of Japanese Names)
-Peony (ebisukusuri): Friend of shaku-on chō-yaku
-[numikusuri] States in "Shinshō Honzō" (New Extract Materia Medica)
-Japanese name: ebisukusuri
-Also: numashōga, kusuri
+Peony (Shakuyaku / 芍薬)
 
-Recorded in "Zōho Tashikihen" (Expanded Multi-Knowledge Compilation), fragrant plants category, stating:
-Peony [Japanese name: upon examination, kaho] [Alternative names] Shōri
-[yokusa] [Kōmoku] Byakujutsu [Betsuroku] White ones are called golden peony
-[Zukyō] Red ones are called tree peony
-[Supplementary alternative names] Reishoku [Betsuroku]
-Yoyō [same] Sen [same]
+Alternative names: Shōri (将離, "parting"), Rishoku (梨食),
+　　　　　　　　Byakujutsu (白木), Yoyō (余容, "abundant grace"),
+　　　　　　　　En (鋋)
 
-In "Honzō Kōmoku" (Compendium of Materia Medica): For peony, white ones are called golden peony,
-red ones are called tree peony, and thousand-petaled ones are called small tree peony.
+Japanese name: Kahoyokusa (可保与久佐)
+
+Copied hastily by the rainy window on the 6th day of the 5th month (Churyo), Mizunoe-uma year.
+
+**"Yamato Honzō" states:**
+The flower of the peony is second only to the tree peony (botan) in beauty.
+Therefore, it is called "Kashō" (花相, "associate of flowers / floral companion").
+
+[Medicinal herb]
+
+**From "Wamyō Ruijushō" (Japanese Glossary of Chinese Terms):**
+Shakuyaku (Ebisu-kusuri / Numi-kusuri)
+　※ The reading of "芍" follows the fanqie spelling "張約の反"; as noted in "Shinshō Honzō"
+Japanese name: Ebisu-kusuri (衣比須久須里)
+Also: Numi-kusuri (沼姜久須里)
+
+**As recorded in the fragrant herbs section of "Zōho Tashikihen":**
+
+Peony (Shakuyaku)
+　Japanese name: Upon examination, Kahoyokusa (加保与久左)
+　Alternative names: Shōri [Kōmoku], Byakumoku [Betsuroku]
+　　White varieties are named Kin-shakuyaku (Gold Peony) [Zukyō/Illustrated Classics].
+　　Red varieties are named Moku-shakuyaku (Wood/Tree Peony) [Supplementary alternative names].
+　　Rishoku [Betsuroku], Yoyō [same], En [same]
+
+**In "Honzō Kōmoku" (Bencao Gangmu / Compendium of Materia Medica):**
+Among peonies, white varieties are called Kin-shakuyaku (Gold Peony).
+Red varieties are called Moku-shakuyaku (Wood Peony).
+Those with double/multiple petals (chiba) are called Ko-botan (Small Tree Peony).

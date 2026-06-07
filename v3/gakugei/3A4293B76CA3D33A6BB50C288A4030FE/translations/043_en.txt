@@ -1,19 +1,16 @@
-【Right Page】
+【Right Page (Headings/Index Entries)】
 
-Shōgen-ji Temple
-Gyōgan-ji Temple  
-Wakamiya Hachiman Shrine
+- Shōgenji Temple
+- Gyōganji Temple
+- Wakamiya Hachiman-gū Shrine
 
-【In the Illustration】
+【Labels within the Illustration (Right Page)】
 
-Gyōgan-ji Temple
+- Gyōganji Temple
 
-【In the Left Page Illustration】
+【Labels within the Illustration (Left Page)】
 
-Bettō (Temple Administrator)
-
-Shōgen-ji Temple
-
-Main Hall
-
-Hachiman
+- Shōgenji Temple
+- Main Hall (*Hondō*)
+- Bettō (Administrative Priest's Quarters)
+- Hachiman (Shrine)

@@ -1,19 +1,15 @@
-The following is a page from a Japanese-Ainu bilingual vocabulary glossary:
-
-| Japanese | Ainu |
-|----------|------|
-| To be wealthy/to prosper | Shianguru / Nishipa |
-| To sew together/to stitch | Teshikao |
-| To fight/to do battle | Uraikе |
-| To invite/to lure/to entice | Unnishike |
-| To fix/to correct | Guan / Iguan |
-| To pinch (with fingers) | Kamichinoiba |
-| To tear off (with hands) | Nochiтsuiba |
-| To brush aside/to ward off | Tsutuseka |
-| To omit/to leave out | Iyomaku / Ishiyumaku |
-| To grip/to grasp | Poi-poi |
-| To flee/to escape | Kira |
-| To travel/to make a journey | Iunkerai |
-| To wear away/to diminish/to decline | Ineure |
-| To look down/to hang one's head | Sehokiki |
-| To stretch/to spread taut | Tsuri |
+be rich / wealthy person　　　　　シアングル▲ニシパ (shianguru▲nishipa)
+stitch / sew together / compose　　テシカヲ (teshikao)
+fight / do battle　　　　　　　　ウライケ (uraike)
+invite / lure / entice　　　　　　ウンニシケ (unnishike)
+fix / correct / repair　　　　　　グアン▲イグアン (guan▲iguan)
+pinch (with fingers)　　　　　　　カミチノイバ (kamichinōiba)
+tear off / pull apart (with hands)　ノチツ゚イバ (nochituiba)
+sweep away / brush off / pay　　　ツ゚ツセカ (tsutuseka)
+omit / leave out / abbreviate　　　イヨマク▲イシユマク (iyomaku▲ishiyumaku)
+grip / grasp　　　　　　　　　　ポイポイ (poipoi)
+flee / escape / run away　　　　　キラ (kira)
+give / bestow / offer　　　　　　イウンケライ (iunkerai)
+diminish / waste away / decrease　イネウレ (ineure)
+look downward / hang one's head　セホキヽ (sehokiki)
+stretch / spread / tension　　　　ツ゚リ (tsuri)

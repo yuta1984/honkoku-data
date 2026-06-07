@@ -1,6 +1,6 @@
 filename	status	image
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00000.tif/full/full/0/default.jpg
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00001.tif/full/full/0/default.jpg
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00000.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00001.tif/full/full/0/default.jpg
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00002.tif/full/full/0/default.jpg
 004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00003.tif/full/full/0/default.jpg
 005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00004.tif/full/full/0/default.jpg
@@ -94,5 +94,5 @@ filename	status	image
 093.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00092.tif/full/full/0/default.jpg
 094.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00093.tif/full/full/0/default.jpg
 095.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00094.tif/full/full/0/default.jpg
-096.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00095.tif/full/full/0/default.jpg
-097.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00096.tif/full/full/0/default.jpg
+096.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00095.tif/full/full/0/default.jpg
+097.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100414424/v4/EDOM/EDOM-10517/EDOM-10517-00096.tif/full/full/0/default.jpg

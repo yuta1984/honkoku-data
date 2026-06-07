@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00718.tif/full/full/0/default.jpg
+001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00718.tif/full/full/0/default.jpg
 002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00719.tif/full/full/0/default.jpg
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00720.tif/full/full/0/default.jpg
 004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00721.tif/full/full/0/default.jpg
@@ -9,8 +9,8 @@ filename	status	image
 008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00725.tif/full/full/0/default.jpg
 009.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00726.tif/full/full/0/default.jpg
 010.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00727.tif/full/full/0/default.jpg
-011.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00728.tif/full/full/0/default.jpg
-012.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00729.tif/full/full/0/default.jpg
+011.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00728.tif/full/full/0/default.jpg
+012.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00729.tif/full/full/0/default.jpg
 013.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00730.tif/full/full/0/default.jpg
 014.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00731.tif/full/full/0/default.jpg
 015.txt	default	https://kokusho.nijl.ac.jp/api/iiif/200013146/v4/NIIP/YA6-0260/YA6-0260-00732.tif/full/full/0/default.jpg

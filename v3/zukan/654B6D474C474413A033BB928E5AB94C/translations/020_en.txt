@@ -1,46 +1,64 @@
-The "Jiuhuang Bencao" (Famine Relief Materia Medica) states:
-Oxalis (sui-mono-kusa) Also called yeast grass, dove sorrel grass
-(katabami) Commonly called small sour grass
+## Wood Sorrel (Katabami)
 
+**As stated in the *Jiuhuang Bencao* (Famine Relief Materia Medica):**
+Suimonokusa (wood sorrel / *Oxalis*), also known as Koubocao and Jiusuancao.
+[Katabami] — Commonly called "Kosanambo" (小酸茅).
 
-Oxalis flower (sui-mono-kusa) In the Wamyō Ruijushō　　　In Tsukushi dialect
-　　recorded　　　　　　　　　katabami　　　　yugako-gusa
-Also called dove sorrel (kyūsan), sparrow grass Mizunoe-uma year, 5th month, 12th day
+---
 
-　　　　　　　　　Rehmannia flower　Yamato rehmannia
-　　　　　　　　　　　　　　　Komadomegusa
-　　　　　　　　　　　　　　　Copied on the 1st day of the 4th month, Mizunoe-uma year
+Flower of Suimonokusa (wood sorrel) — From *Wamyō Ruijushō* [Zōki] — Tsukushi dialect name:
+　　　　　　　　　　　　　　　　　　Katahami　　　　　　　　　　　Koganegusa
+Also known as Kyūsan (鳩酸, "dove's sorrel") and Suzumegusa (雀兒草, "sparrow grass").
 
-　　　　　　　　　　　　　　　　　　Kan says:
-　　　　　　　　　　　　　　　　　　Yellow flowers are considered orthodox
-　　　　　　　　　　　　　　　　　　This herb has weak medicinal properties
-　　　　　　　　　　　　　　　　　　There are also white-flowered varieties
-　　　　　　　　　　　　　　　　　　called white rehmannia
-　　　　　　　　　　　　　　　　　　In Takaichi County, Yamato Province, Jio Village
-　　　　　　　　　　　　　　　　　　according to tradition, this was the place where
-　　　　　　　　　　　　　　　　　　rehmannia was first produced in ancient times
-　　　　　　　　　　　　　　　　　　and it still exists there, superior to those from other places
+　　　　　　12th day of Chūryo (5th lunar month), Mizunoe-uma year
+　　　　　　　　　　　　　　　　　　　　【Wild Grass】
 
-　　　　　　　　　　The Jiuhuang Bencao states:
-　　　　　　　　　　　Rehmannia seedlings
-　　　　　　　　　　　　commonly called "baba nai"
-　　　　　　　　　　Northern people call it
-　　　　　　　　　　　"cow milk flower"
-　　　　　　　　　　Herbalists call it
-　　　　　　　　　　　"komatome-gusa" (horse-stopping grass)
-　　　　　　　　　　The Enlarged Tashikihen, Wet Grass section states:
-　　　　　　　　　　　Rehmannia (chiō) Japanese name: saohime Alternative name: ko
-　　　　　　　　　　　　　　Qi (ki) pronunciation: ki　Earth marrow (sui) from the Basic Classic
-　　　　　　　　　　　　　　Since the Wamyō Ruijushō also records the same name
-　　　　　　　　　　　　　　this is abbreviated
+---
 
-The Wakan Sansai Zue, Mountain Herbs section states:
-　　Bletilla (shiran, shikei)　White supply　Sweet root　Linked grass
-　　Chinese pronunciation　　　The Suvarṇaprabhāsa Sūtra calls this "Gandharva-hasita"
-　　bekkyū　Commonly called purple orchid　Also called purple hui
-　　△Upon examination, bletilla is commonly called purple hui. Its flowers are reddish-purple like orchid flowers
+## Rehmannia Flower / Yamato Rehmannia
+### Komatome-gusa (Horse-stopping Grass)
 
-　　Bletilla (shiran)　Bletilla refers to the white-flowered variety
-　　hakushi
-　　　　Purple orchid (shiran)
-　　　　　　Copied on the 1st day of early summer, Mizunoe-uma year
+　　　　　　　　1st望 day of the 4th month, Mizunoe-uma year — Copied
+
+---
+
+【Medicinal Herb】
+
+**As stated by Kan (環):**
+Those with yellow flowers are considered the genuine variety. The medicinal potency of this plant's flowers is thin (mild). There are also those with white flowers, which are called "white rehmannia" (白地黄). In Kōchi-gun, Yamato Province, there is a village called Jioumura, which is said to have been the first place to produce rehmannia in ancient times; even now, those from that area surpass those from other places.
+
+---
+
+**As stated in the *Jiuhuang Bencao*:**
+The seedling of rehmannia is popularly called "Babami" (婆婆嬭, "grandmother's milk").
+
+Northern people call it "Gyūnyūshibana" (牛嬭子花, "cow's milk flower").
+
+**As stated by Honzōka (herbalists):**
+Komatome-gusa (胡面莾)
+
+**As stated in the "Moist Herbs" section of the *Zōho Tashiki-hen*:**
+Rehmannia (地黄, Chiwō) — Japanese name: Saohime (左於比米).
+[Alternate names] ■ (Ko, read as "Ko/To"), Ki (芑, read as "Ki/起"), Chizui (地髄, "marrow of the earth") [from the *Bencao Jing*].
+　　　　　　　※The same names are also recorded in the *Wamyō Ruijushō*, and are therefore omitted here.
+
+---
+
+## Bletilla / Chinese Ground Orchid (Shiran)
+
+**As stated in the Mountain Herbs section of *Wakan Sansai Zue*:**
+Bletilla (Shiran / Shikei). Alternate names: Hakkyū (白給), Kankon (甘根), Renkyūsō (連及草).
+[Tang-era Chinese pronunciation: Bekkyū] — In the *Konkōmyō-kyō* (Suvarṇaprabhāsa Sūtra), it is called "Gōdatsura Kasshita" (岡達羅喝悉多).
+Commonly known as Shiran (紫蘭, "purple orchid"), also called Shikei (紫蕙, "purple orchid").
+
+△ Upon reflection: Bletilla is commonly also called "Shikei." Its flowers are reddish-purple in color, resembling orchid flowers, and so on.
+
+---
+
+【Medicinal Herb】
+
+Bletilla / Shiran — "Bletilla" (白及) refers to the white-flowered variety.
+[Hakushi (白紫)]
+　　　Purple Orchid / Shiran (紫蘭)
+
+　　　　　　1st day of early summer, Mizunoe-uma year — Copied

@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162308/1132794.tiff/info.json
+001.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162308/1132794.tiff/info.json
 002.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162308/1132795.tiff/info.json
 003.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162308/1132796.tiff/info.json
 004.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162308/1132797.tiff/info.json

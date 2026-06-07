@@ -1,16 +1,16 @@
 [Right page]
 
-　Set up as "㈠ 21　㈡ 14 *sen*　㈢ three items — how much?": place 21 at the first position as ㈠; place its paired number, 14 *sen*, as ㈡; and in ㈢, place three — which is paired with the quantity sought and is of the same kind as ㈠. Multiply ㈡ (14 *sen*) by ㈢ (three) to get 42 *sen*. Divide by ㈠ (21), and the price of two *sen* is obtained.
+　Set up as "㈠ 21　㈡ 14 *sen*　㈢ three items — how much?", placing 21 at the first position as ㈠; place its paired number, 14 *sen*, as ㈡; and in position ㈢, place three — which is paired with the quantity sought and is of the same kind as ㈠. Multiply ㈡ (14 *sen*) by ㈢ (three) to get 42 *sen*. Divide by ㈠ (21), and the price is found to be 2 *sen*.
 
-○Next, when the price of three persimmons is 2 *sen*, and one asks the price of one persimmon:
-　Set up as "㈠ three items　㈡ 2 *sen*　㈢ one item — how much?": place three at the first position as ㈠; place its paired number, 2 *sen*, as ㈡; and in ㈢, place one — which is paired with the quantity sought and is of the same kind as ㈠. Multiply ㈡ (2 *sen*) by ㈢ (one) to get 2 *sen*. Divide by ㈠ (three), and the price of one persimmon is obtained as 6 *rin* 6 *mō* 666… with a remainder. By way of note, when multiplying or dividing by one,
+○Next, when the price of three persimmons is 2 *sen*, and one asks what the price of one persimmon is:
+　Set up as "㈠ three items　㈡ 2 *sen*　㈢ one item — how much?", placing three at the first position as ㈠; place its paired number, 2 *sen*, as ㈡; and in position ㈢, place one — which is paired with the quantity sought and is of the same kind as ㈠. Multiply ㈡ (2 *sen*) by ㈢ (one) to get 2 *sen*. Divide by ㈠ (three), and the price of one persimmon is found to be 6 *rin* 6 *mō* 666… with a remainder. Incidentally, it is noted: when multiplying or dividing by one,
 
 [Left page]
 
-　the result is always the same number; therefore, one need not perform the multiplication or division, but should simply change the denomination (*kurai*). The same applies in all other such cases.
+　the result is always the same number; therefore, one should not perform the multiplication or division but simply replace the unit of the item accordingly. All other similar cases should follow this example.
 
-○Further, if there are 21 persimmons for 14 *sen*, and one asks the price of one persimmon:
-　Set up as "㈠ 21　㈡ 14 *sen*　㈢ one item — how much?": place 21 at the first position as ㈠; place its paired number, 14 *sen*, as ㈡; and in ㈢, place one — paired with the quantity sought and of the same kind as ㈠. Multiply ㈡ (14 *sen*) by ㈢ (one) to get 14 *sen*. Divide by ㈠ (21), and the price of one persimmon is obtained as 6 *rin* 6 *mō* 666… with a remainder.
+○Further, if there are 21 persimmons for 14 *sen*, and one asks what the price of one persimmon is:
+　Set up as "㈠ 21　㈡ 14 *sen*　㈢ one item — how much?", placing 21 at the first position as ㈠; place its paired number, 14 *sen*, as ㈡; and in position ㈢, place one — which is paired with the quantity sought and is of the same kind as ㈠. Multiply ㈡ (14 *sen*) by ㈢ (one) to get 14 *sen*. Divide by ㈠ (21), and the price of one persimmon is found to be 6 *rin* 6 *mō* 666… with a remainder.
 
-○Further, if 21 persimmons cost 14 *sen*, and one asks how many persimmons there are for 1 *sen*:
-　Set up as "㈠ 14 *sen*　㈡ 21　㈢ 1 *sen* — how many?": place 14 *sen* at the first position as ㈠; place its paired number, 21, as ㈡; and in ㈢, place the paired value corresponding to the quantity sought —
+○Further, when the price of 21 persimmons is 14 *sen*, and one asks how many persimmons there are for 1 *sen*:
+　Set up as "㈠ 14 *sen*　㈡ 21　㈢ 1 *sen* — how many?", placing 14 *sen* at the first position as ㈠; place its paired number, 21, as ㈡; and in position ㈢, the place for the quantity sought

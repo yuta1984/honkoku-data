@@ -1,19 +1,15 @@
-The following is a page from a Japanese-Ainu bilingual vocabulary glossary:
-
-| Japanese | Ainu |
-|----------|------|
-| To raise/nurture (a child) | Reshika |
-| Face of astonishment/looking startled | Nankantsushite / Nankande |
-| To glare with white of the eye showing | Iboroshiyui |
-| To melt/dissolve | Rure |
-| To cast (metal) | Rurekaru |
-| To dye | Anomare |
-| To dye red | Fūreka |
-| To dye black | Kunneka |
-| Reproach/blame | Wakoyurushika |
-| Crime/sin | Rorumbe |
-| Punishment | Ashinbe (◯ note: means "servant/slave") |
-| To jump/leap | Dereke |
-| To jump up/leap into the air | Irikunodereke |
-| To grip/squeeze | Kishima |
-| Prosperity/flourishing | Yaiyurubefuanka |
+raise (a child) / nurture　　　　　　レシカ (reshika)
+face of astonishment / dumbfounded　ナンカンツシテ▲ナンカンデ (nankantsu shite▲nankande)
+glare / look with white eyes　　　　イボロシユイ (iboroshiyui)
+melt / dissolve　　　　　　　　　　ルレ (rure)
+cast (metal) / smelt　　　　　　　　ルレカル (rurekaru)
+dye / color　　　　　　　　　　　　アノマレ (anomare)
+dye red　　　　　　　　　　　　　フーレカ (fūreka)
+dye black　　　　　　　　　　　　クンネカ (kunneka)
+reproach / reprimand　　　　　　　ワコユルシカ (wakoyurushika)
+crime / sin　　　　　　　　　　　　ロルンべ (rorumbe)
+punishment (note: meaning "compensation")　アシンべ (ashinbe)
+jump / leap　　　　　　　　　　　デレケ (dereke)
+jump up / leap into the air　　　　イリクンデレケ (irikundерeke)
+grip / grasp / squeeze　　　　　　　キシマ (kishima)
+prosperity / thriving　　　　　　　ヤイユルベフアンカ (yaiyurube fuanka)
