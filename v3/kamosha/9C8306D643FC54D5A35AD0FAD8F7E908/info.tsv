@@ -131,7 +131,7 @@ filename	status	image
 130.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000130/full/full/0/default.jpg
 131.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000131/full/full/0/default.jpg
 132.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000132/full/full/0/default.jpg
-133.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000133/full/full/0/default.jpg
+133.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000133/full/full/0/default.jpg
 134.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000134/full/full/0/default.jpg
 135.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000135/full/full/0/default.jpg
 136.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000136/full/full/0/default.jpg

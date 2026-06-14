@@ -1,24 +1,21 @@
-【Right Page】
+## [Right Page]
 
-Saishōji Temple
+**Saishōji Temple**
+*(Title label for the illustration)*
 
-【In the Illustration】
+**Labels within the illustration:**
 
-Hōō Pond (Phoenix Pond)
+- 御仏殿 (*Ofutsuden*) — Shogunal Buddha Hall
+- 鳳凰池 (*Hōōchi*) — Phoenix Pond
+- 方丈 (*Hōjō*) — Abbot's Quarters
+- 経蔵 (*Kyōzō*) — Sutra Repository
+- 唐門 (*Karamon*) — Chinese-style Gate
 
-Imperial Buddha Hall
+## [Left Page]
 
-Hōjō (Abbot's Quarters)
+*(Continuation of the illustration labels:)*
 
-Sutra Repository
-Chinese Gate
-
-【Left Page】
-
-Buddha Hall
-
-Kitchen/Living Quarters
-
-Main Gate
-
-Bell Tower
+- 仏殿 (*Butsuden*) — Main Buddha Hall
+- 庫裡 (*Kuri*) — Kitchen / Domestic Quarters
+- 総門 (*Sōmon*) — Main Outer Gate
+- 鐘楼 (*Shōrō*) — Bell Tower

@@ -1,16 +1,14 @@
-【Modern English Translation: Japanese–Ainu Vocabulary Glossary】
-
-Clamorous/Noisy　Inebitar
-Ashamed/Embarrassed　Yai-shitoma・Yai-nikor-oshi・Yai-no-kannakaru
-Disagreeable/Unpleasant (No/Dislike)　Kochyan
-Malicious intent/Evil mind　Iyeboko・Fumunishite
-Lonely　Shimu・Shiyumu
-Sad/Sorrowful　Ihomashipi
-To hold in esteem/To respect　Itomoke-aynu・Ainokoru
-Eerie/Uncanny/Frightful　Yaikoshi-mu
-Medicine　Kusuri・Kushiri
-Poison　Shuruku
-Sweet　Rura・Rura-koru・Rura-birka
-Spicy/Hot (in taste)　Barukar・Runno
-Bland/Mild (in taste)　Jyan・Ban
-Sour　Nukai
+Noisy/Clamorous　　　　　　イネビタラ
+Embarrassed/Ashamed　　　　ヤイシトマ (or ヤイニコロシ, or ヤイノカンナカル)
+Disagreeable/No　　　　　　コチヤン
+Wicked heart/Evil intention　イヱボコ (or ラムニシテ)
+Lonely/Lonesome　　　　　　シヽム (or シヽユム)
+Sad/Sorrowful　　　　　　　イホマシイ
+To respect/hold in esteem　　イトモコケアイヌ (or アイノコル)
+Eerie/Frightening/Uncanny　　ヤイコシヽム
+Medicine　　　　　　　　　　クスリ (or クシリ)
+Poison　　　　　　　　　　　シユルク
+Sweet　　　　　　　　　　　ルラ (or ルラコル, or ルラビリカ)
+Spicy/Hot (flavor)　　　　　バルカル (or ルンノ)
+Bland/Mild (flavor)　　　　　ジヤン (or バン)
+Sour　　　　　　　　　　　　ヌカイ
