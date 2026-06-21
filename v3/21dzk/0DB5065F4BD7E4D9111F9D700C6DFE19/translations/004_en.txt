@@ -1,0 +1,86 @@
+## Right Page (Zoku Hossō-shū Shoshin Ryakuyō, Lower Volume — Section 6)
+
+### [Upper Section]
+
+Among the indeterminate mental factors (*aniyata-caitasika*, 不定心所), the two of remorse (*kaukṛtya*, 悔) and torpor/drowsiness (*middha*, 眠) [*Note: the annotation suggests "眼" is a scribal error for "眠"] are absent in the upper realms (form and formless realms). Of the two factors of applied thought (*vitarka*, 尋) and sustained thought (*vicāra*, 伺): the single factor of applied thought extends through the desire realm and the first *dhyāna*; the single factor of sustained thought extends through the intermediate *dhyāna* (*chūkanzenna*, 中間禅). The intermediate *dhyāna* refers to the third heaven within the first *dhyāna*. Applied thought (*vitarka*) is absent in this heaven. All the remaining mental factors extend universally throughout the three realms. Among the five sense consciousnesses, the olfactory and gustatory consciousnesses exist only in the desire realm. The visual, auditory, and tactile consciousnesses extend as far as the first *dhyāna*. In the second *dhyāna* and above, all five sense consciousnesses are entirely absent. As for discerning the extent (*tsūkyoku*, 通局) [*Note: "屈" appears to be a scribal error for "局"] of the associated mental factors, one should follow the analogy above.
+
+---
+
+### The Cognitive Obstruction (*jñeyāvaraṇa*, 所知障)
+
+The cognitive obstruction (*jñeyāvaraṇa*, 所知障) does not constitute a set of dharmas separate from the afflictive obstruction (*kleśāvaraṇa*, 煩悩障). At the base of each and every affliction there is a subtle aspect that is confused about the intrinsic nature (*svabhāva*, 法体) of dharmas — this is called the cognitive obstruction. Thus, the afflictive obstruction is confused about the **function** (*yō*, 用) of dharmas, while the cognitive obstruction is confused about the **intrinsic nature** (*tai*, 体) of dharmas.
+
+These two aspects obstruct different things: the aspect confused about function obstructs nirvāṇa, vexes and torments sentient beings, and causes them to remain in the cycle of birth and death. The aspect confused about intrinsic nature obstructs bodhi (awakening), covers the objects of knowledge, and prevents wisdom from arising. Therefore, the path for extinguishing them also has its respective limits [*Note: "眼" appears to be a scribal error for "限"]. This is why they are divided into two obstructions.
+
+In truth, the two obstructions are of the same substance (*dōtai*, 同体). To give an example: when a single instance of the affliction of greed arises as attachment toward a particular sentient being, at the base of this greedy attachment there is necessarily an aspect that is confused about the intrinsic nature of the five aggregates. If one were to realize that form and so forth are like illusions, how could one generate attachment and clinging to the composite and conventional [entity] of those forms and so forth? One should clearly understand that this greedy attachment arises with the aspect that is confused about the intrinsic nature of the five aggregates as its support (*soe*, 所依). This very "aspect confused about intrinsic nature" is precisely the cognitive obstruction within the affliction of greed. All the others may be understood by analogy.
+
+In general, one should understand that "conceptual cognition" (*sōen*, 想縁) and "particularized cognition" (*betsuen*, 別縁) are distinct. By "conceptual cognition" is meant conceiving of and clinging to the conglomeration of the five aggregates as a "self" and so forth. By "particularized cognition" is meant separately seizing upon the ālayavijñāna as a "self" and so forth.
+
+### [Lower Section]
+
+Grasping at function (*yō*) constitutes the grasping at self (*ātmagrāha*, 我執); grasping at intrinsic nature (*tai*) constitutes the grasping at dharmas (*dharmagrāha*, 法執). Reflecting on this repeatedly, one will come to understand.
+
+The afflictive obstruction has the view of self (*ātmadṛṣṭi*, 我見) as its foremost [element]; the cognitive obstruction has the view of a self of dharmas (*dharmaātmadṛṣṭi*, 法我見) as its foremost [element].
+
+However, since fundamental ignorance (*avidyā*, 無明) is more prominent on the side of the cognitive obstruction, the sūtras refer to it by the name "ground of fundamental ignorance" (*mumyō jūchi*, 無明住地). Speaking on the basis of the actual [full picture], the remaining views (*dṛṣṭi*, 見) and so forth are by no means absent [from the cognitive obstruction].
+
+As for this cognitive obstruction: seen from the perspective of the two vehicles (śrāvaka and pratyekabuddha), it is neutral and unobscured (*anivṛtāvyākṛta*, 無覆無記), since it is not *their* obstruction. Seen from the perspective of the bodhisattva, it is obscured and neutral (*nivṛtāvyākṛta*, 有覆無記), since it obstructs their awakening.
+
+The statement that the afflictive obstruction and the cognitive obstruction are, respectively, obstructions to nirvāṇa and bodhi is an account from one angle (*ichiyō no dan*, 一往談). The statement that the afflictive obstruction obstructs the emptiness of persons (*jinkū*, 生空) while the cognitive obstruction obstructs the emptiness of dharmas (*hōkū*, 法空) is likewise an account from one angle. Both of these discuss the primary use (*shōyō*, 正用) and predominant use (*shōyō*, 勝用). If one discusses the matter thoroughly, the afflictive obstruction also obstructs bodhi and obstructs the emptiness of dharmas, and the cognitive obstruction also obstructs nirvāṇa and obstructs the emptiness of persons. This constitutes the "accessory use" (*kenyō*, 兼用) and "inferior use" (*retsuyo*, 劣用).
+
+Regarding the relationship of support (*shoe*, 所依): the afflictive obstruction is the "dependent" (*nōe*, 能依) [i.e., the one that relies upon the other], and the cognitive obstruction is the "support" (*shoe*, 所依) [i.e., the one that is relied upon]. The afflictive obstruction is coarse; the cognitive obstruction is subtle. The power of the support necessarily surpasses that of the dependent, just as the force of the coarse necessarily reaches to the subtle.
+
+---
+
+### The Three Categories of Objects (*sanrui kyō*, 三類境)
+
+The verse of the Tripiṭaka Master [Xuanzang] states: *"Objects of reality do not follow the mind; shadow-only [objects] follow only the perceiving [aspect]; objects bearing substrate are common to subject and original [object]; nature, seed, and so forth correspond accordingly."*
+
+**Objects of reality** (*shōkyō*, 性境): their object has real function (*jitsuyō*, 実用) and does not follow the perceiving mind (*nōen*, 能縁), maintaining its own inherent nature. Therefore they are called "objects of reality." They have three kinds of "not-following":
+1. **Nature does not follow** (*shō fūzui*, 性不随): they do not necessarily follow the three natures (wholesome, unwholesome, neutral) of the perceiving mind (e.g., good, bad, etc.).
+2. **Seed does not follow** (*shu fūzui*, 種不随): they have a different seed (*bīja*, 種子) from the perceiving mind.
+3. **Binding does not follow** (*ke fūzui*, 繋不随): they do not necessarily follow the realm-binding (*kaikei*, 界繋) of the perceiving mind.
+
+When discussed in terms of consciousnesses, each group of the five sense consciousnesses cognizes
+
+---
+
+## Left Page (Zoku Hossō-shū Shoshin Ryakuyō, Lower Volume — Section 7)
+
+### [Upper Section]
+
+only objects of reality. The mind-king of the eighth consciousness likewise cognizes only objects of reality. The single group of the sixth consciousness sometimes cognizes objects of reality. The single group of the defiled seventh consciousness (*klisṭa-manas*, 有漏第七識) is entirely incapable of cognizing objects of reality.
+
+**Shadow-only objects** (*dokuyōkyō*, 独影境): their object has no real function and follows exclusively the perceiving mind; since it arises independently without any original substrate, it is called "shadow-only." They have three kinds of "following the mind":
+1. **Nature follows the mind**: the same nature as the perceiving mind.
+2. **Seed follows the mind**: the same seed as the perceiving mind.
+3. **Binding follows the mind**: the same realm-binding as the perceiving mind.
+
+When discussed in terms of consciousnesses, the single group of the sixth consciousness sometimes cognizes shadow-only [objects]. The mental factors associated with the eighth consciousness also constantly cognize shadow-only [objects]. The defiled five sense consciousnesses and the seventh consciousness are entirely non-cognizant of shadow-only [objects].
+
+**Objects bearing a substrate** (*taisshitsukyō*, 帯質境): these are neither like objects of reality (which do not follow the perceiving mind) nor necessarily like shadow-only objects (which follow the perceiving mind). They necessarily carry a substrate (*honshitsu*, 本質) and have an aspect that follows the substrate. Hence they are called "bearing a substrate." They have three kinds of "being common to subject and original [object]":
+1. **Nature is common to subject and original object** (*shō tsū jōhon*, 性通情本): they follow the three natures of the perceiving mind and also follow the three natures of the substrate.
+2. **Seed is common to subject and original object** (*shu tsū jōhon*, 種通情本): they follow the seeds of the perceiving mind and also follow the seeds of the substrate.
+3. **Binding is common to subject and original object** (*ke tsū jōhon*, 繋通情本): they follow the realm-binding of the perceiving mind and also follow the realm-binding of the substrate.
+
+When discussed in terms of consciousnesses, the single group of the seventh consciousness constantly cognizes this [kind of] object. The single group of the sixth consciousness also sometimes cognizes it. The remaining consciousnesses do not ordinarily cognize it.
+
+Regarding the above three types of objects, if one points to their actual substance: **objects of reality** are real form and real mind (*jisshiki shin*, 実色心). The commentary of the *Shūyō* [Yuishiki-shūyō] therefore states: "The form is true form; the mind is real mind" (and so forth). By "real form" is meant the five sense faculties (*pañcendriya*, 五根) and the five sense objects (*pañcaviṣaya*, 五境). The real form included in the *dharmadhātu* (*hōsho shoshō no jisshiki*, 法処所摂の実色) is also included — namely, the real form produced by meditative concentration, such as gold and silver and so forth transformed by the power of meditation with magnificent virtue (*idoku no jō*, 威徳定). As for "real mind": this includes the self-witnessing division (*svasaṃvittibhāga*, 自証分) cognizing the perceiving division (*darśanabhāga*, 見分), [and] the latter two divisions including image-cognition (*sōen*, 想縁), and so forth. With respect to such objects, the perceiving mind obtains the intrinsic characteristics (*svalakṣaṇa*, 自相) of the object. This clearly [demonstrates its capacity to] transform the image division (*nimitta-bhāga*, 相分).
+
+### [Lower Section]
+
+The commentary of the *Shūyō* therefore states: "Arising from a real seed, having real substance and function, with the perceiving mind obtaining its intrinsic characteristics — this is called an object of reality." (Quoted text.)
+
+**Shadow-only objects**: these are the image divisions (*nimitta-bhāga*, 相分) that appear in the mind when one cognizes [impossible objects like] turtle-hair and rabbit-horns and so forth. The perceiving mind is confused and disordered, and moreover the object has no original substrate whatsoever; it is carried entirely by the mistaken subjective mind (*mōjō*, 妄情). It is entirely a conventional dharma (without real substance).
+
+**Objects bearing a substrate**: when the seventh consciousness cognizes the perceiving division of the eighth consciousness, the image division transformed [thereby] — this constitutes the "original [object]" (*hon*, 本) of the object bearing a substrate. Although this image division has a real mind as its substrate, the perceiving mind cannot obtain the intrinsic characteristics of the object, and it is entirely non-valid cognition (*apramāṇa*, 非量). Nevertheless, the grasping of "self-self" (*gaga*, 我々) [by the seventh consciousness] does not cease. Therefore the nature, seeds, and so forth of the transformed image division are common to "subject" (*jō*, 情, i.e., the perceiving seventh consciousness) and "original object" (*hon*, 本, i.e., the eighth consciousness).
+
+Regarding how it is subsumed: since there is already a real substrate, it does not simply follow the perceiving mind alone. Therefore, its nature is adjudged as following the substrate — the eighth consciousness — and it may also be said to be "subsumed under unobscured-neutral (*anivṛtāvyākṛta*, 無覆無記)." This is why it differs from the shadow-only [object]. On the other hand, since there is also a perceiving mind, [that perceiving mind] cannot obtain the intrinsic characteristics [of the object], and it does not simply follow the substrate alone. Therefore, its nature is adjudged as following the perceiving mind — the seventh consciousness — and it may also be said to be "subsumed under obscured-neutral (*nivṛtāvyākṛta*, 有覆無記)." This is why it differs from the object of reality.
+
+Within a single moment of consciousness, both of these aspects are present simultaneously — this is called "nature common to subject and original object" (*shō tsū jōhon*, 性通情本).
+
+The seed that produces [the image division] is in reality a separate and distinct seed. However, since the current occurrence (*gengyō*, 現行) is subsumed as being common to subject and original object in this manner, the seed is also discussed in accordance with this logical import: it can be described either as "the seed of the perceiving mind" or as "the seed of the substrate [object]." It is called "arising from the seed of the perceiving mind" and also called "arising from the seed of the substrate [object]" — this is called "seed common to subject and original object" (*shu tsū jōhon*, 種通情本).
+
+As for "binding common to subject and original object" (*ke tsū jōhon*, 繋通情本): the current occurrences of the two consciousnesses, the seventh and the eighth, are necessarily bound to the same realm. Therefore, although the binding of subject and original object is the same, when viewed from either side respectively, it can equally be said to share the binding of the perceiving mind, and also equally be said to share the binding of the substrate. This import, too, can be understood. [*Annotation: However, the matter of binding-common-to-subject-and-original-object is not explained in detail here. Please consult the original text.*]
+
+The above has been a rough account of the meaning of the first three phrases of the verse. [Now, the] fourth [phrase]…

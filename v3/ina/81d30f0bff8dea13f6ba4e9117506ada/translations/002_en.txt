@@ -1,0 +1,27 @@
+**[Right folio]**
+
+　　　　　　　　　　　　　Fumide Village　　　Shimo-Kaneko Village
+　　　　　　　　　　　　　Nakakawara Village　Arai Village
+　　　　　　　　　　　　　Yamato Village　　　Uehara Village
+　　　　　　　　　　　　　Takagi Village
+
+　　　　　　　　　　　　　Total: 15 villages whose assessed yields are added together
+
+Item: Number of households within the post town — 204 households
+
+Item: Length of the post town
+　　　　North–South: 5 *chō*, 1 *ken*
+　　　　East–West: approximately 1 *chō*
+　　　　Open fields (*noma*): none
+
+**[Left folio]**
+
+Item: Length of the main highway (*ōkan-suji*) passing through the post town — 5 *chō*, 1 *ken*
+　　　　(Running from the border of Shimo-Kuwabara Village to the border of the same village)
+
+Item: There are no other roads (*kaidō*) within the post town.
+
+Item: This post town serves as a relay station (*tsūeki-ba*) on the Kōshū Highway (*Kōshū Ōkan*).
+　　　　However, there is no resting station (*tateba*).
+
+Item: In both the southward and northward directions from this post town toward the neighboring villages, the houses continue without interruption as far as Shimo-Kuwabara Village.

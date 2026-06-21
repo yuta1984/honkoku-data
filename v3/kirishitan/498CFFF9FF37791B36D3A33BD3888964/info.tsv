@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	initiated	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00001/full/full/0/default.jpg
+001.txt	completed	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00001/full/full/0/default.jpg
 002.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00002/full/full/0/default.jpg
 003.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00003/full/full/0/default.jpg
 004.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00004/full/full/0/default.jpg

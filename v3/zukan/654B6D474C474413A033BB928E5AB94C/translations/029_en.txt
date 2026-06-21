@@ -1,58 +1,73 @@
-The Tashiki-hen (Botanical Encyclopedia), Wetland Grasses section states: Copied on the 10th day of the third dekad of Rinshō month in the year Mizunoe-uma (1642)
-Senshun-ra (Chinese: Cut Spring Gauze) {{Japanese name: gamuhi}} Alternative name: Senhō-ra (Cut Red Gauze)
-{{Senshura}} Also called Ganpi (Eyelid). Hyakkyō states:
+【A species of Chinese pink (Dianthus). As explained in the text, the characters for "eyelid" (眼皮) are applied to it. This is distinct from the similarly pronounced plant "ganpi" (雁皮).】
 
-According to folk legend, when Dharma the Great Master was facing the wall for nine years, not wanting to sleep, he cut off his own eyelids and discarded the upper and lower lids onto the soil, whereupon this plant grew. Its flowers are flesh-red in color.
-Because of this resemblance, it is called Ganpi (Eyelid).
+Written on the tenth day of the latter part of Rinshō (sixth month), year Jingo. 【Seal】 Flowering Grasses
 
-The Wakan Sansai Zue (Sino-Japanese Illustrated Encyclopedia), Shrubs section states:
-Tōsei (Masaki/Japanese Spindle Tree) Tōsei
-{{Chinese pronunciation: tōntsuin}} {{Commonly called}} Misaki-ki
-An abbreviation of Sei-aoki
-{{Masa-aoki}}
-Commonly the character "masa" is used
-Also called Gyokutōhansui
+From the Tashikuhen, section on Marsh Grasses:
 
-Tōsei is called masaki, and also gyoku-tsubaki. Tōsei is the mochi tree; what is called gyoku-tsubaki
-is a type of tōsei. It is not
-a type of camellia, but a separate plant. Details are given
-in the tōsei entry.
+Sensh'unra (剪春蘿, Lychnis senno / Chinese campion)
+《Japanese name》《According to current investigation: Kamhi (眼皮, "eyelid")》　《Alternative name》 Senkōra (剪紅羅)
+　　Ganpi (眼皮, "eyelid")　《From the Hyakukyō》
 
-Heka (Masana) This is called mokumanjū
-{{Hekika}} A separate plant
-Flowers of Hei (Masaki)
-Copied on the same season, same day
+According to popular legend, when the Great Master Bodhidharma was meditating facing a wall for nine years, wishing not to fall asleep, he cut off his own upper and lower eyelids (mabuta) and cast them to the ground, whereupon this plant grew. The inside of its flower is red, and it was deemed to resemble eyelids (mabuta); hence it was named "Ganpi" (眼皮, "eyelid").
 
-Enlarged Tashiki-hen, Tall Trees section states:
-Tochū {{Japanese name: hahiyumi}}
-{{Alternative name}} Shichū {{Separate record}} Mokumen
-{{Enlarged alternative name}} Men Shisen {{Original path}}
 
-Yamato Honzō states:
-Tochū (Mayumi) Called masaki
-The leaves resemble orange leaves but are thick, and throughout the four seasons
-do not wither. Height does not
-exceed six feet, used for hedging. When the fruit ripens
-it splits and has red seeds inside, called masaki
-etc. The vines of masaki grow
-separately. Both leaves and fruit are the same. Vine-type
-masaki. Round ○ masaki vines are the same
-plant. One variety of hibari-masaki is not a vine.
-Also there are thin-leaf ○ white-leaf varieties.
-Tochū is mayumi (spindle tree). Those that produce cotton fiber when the stem
-is broken all
-bear the name tochū,
-it is said.
+【Masaki (Japanese spindle tree, Euonymus japonicus)】
 
-Kyūkō Honzō states:
-Irei-sen (Kugaisō) {{One name}} Nōshō
+From the Wakan Sansai Zue, section on Shrubs:
 
-Chikinhō states:
-Yamato Honzō states: Japanese common name: Kyūgai-sō
-Irei-sen Vehicle Thirty-seven
-Copied on Zuihin day of Mizunoe-uma year
+Tōsei (冬青, Masaki)　 Also: Tōsei (凍青)
+《Tang pronunciation: Tōn-tsuin》　《Commonly called》 Masaki (末左木)
+　　The name means an abbreviation of Masa-aoki (正青木, "true blue-green tree")
+　　Commonly written with the character 柾 (masa)
+　　Also called Tamatsubaki (玉豆波水)
 
-Enlarged Tashiki-hen, Vine Grasses section states:
-Irei-sen {{Japanese name: commonly called funahara, which is incorrect}}
+Tōsei is identified as Masaki, and also as Tamatsubaki. Tōsei is the holly (Ilex), and what is called Tamatsubaki is of the same family as Tōsei—it is not a species of camellia (tsubaki), but a distinct plant. Further details are given in the entry on Tōsei.
 
-The Honzō Kōmoku calls the fierce nature "i" (威) and the mystical quality "rei-sen" (霊仙).
+Hekigyō (薜茄, Masana)　《This is what is called Komanjū (木饅頭), a separate plant》
+Flower of Heki (薜, Masaki)
+　Written on the same day, same season
+
+From the Zoho Tashikuhen, section on Tall Trees:
+
+Tochū (杜仲, Eucommia ulmoides)　《Japanese name》 Hahimiyumi (波比未由美)
+《Alternative name》 Shichū (思仲)　《Betsuroku》 Momen (木綿)
+《Zoho alternative names》 Men (檰)　Shisen (思仙)《Honkyō》
+
+【Seal】 Miscellaneous Trees
+
+From the Yamato Honzō:
+
+Tochū (杜仲) (Mayumi / 正木)
+　The leaves resemble those of the orange and are thick; they do not
+　wither through the four seasons. The height does not
+　exceed six shaku; it is used as a hedge. When the fruit ripens,
+　it splits open to reveal red seeds within. Called Masaki,
+　etc. The trailing vine (kazura) of Masaki is a
+　separate growth of the same plant. Leaves and fruit are the same. The vine
+　Masaki ○ Masaki-no-katsura is the same
+　plant. One variety, Hibari-masaki, is not a vine. There are also thin-leaved ○ white-leaved
+　varieties. Tochū is Mayumi. Those whose stems
+　when broken produce filaments—all
+　bear the name Tochū,
+　so it is said.
+
+
+【Kugaisō (Veronicastrum sibiricum)】
+【Seal】 Medicinal Herbs
+
+From the Kyūkō Honzō (Famine Relief Materia Medica):
+　Iреisен (威霊仙, Kugaisō)　《One name》 Nōshō (能消)
+
+From the Yamato Honzō:
+　Ireisen (威霊仙)
+
+　　From the Jikinsho (地錦抄):
+　　Japanese popular name: Kyūkaisō (九蓋草)
+　　　　　　　　　　　　 Kurumasanshichi (車三七)
+
+Written on a day in Suihin (fifth month), year Jingo
+
+From the Zoho Tashikuhen, section on Vining Grasses:
+　Ireisen (威霊仙)　《Japanese name》　《Commonly called Funahara—this is an error》
+
+The Honzō Kōmoku named it "i" (威, "mighty") on account of its fierce potency, and "reisen" (霊仙, "divine immortal") on account of its miraculous efficacy.

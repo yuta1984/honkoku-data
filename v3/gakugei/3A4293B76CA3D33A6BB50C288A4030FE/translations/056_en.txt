@@ -1,21 +1,23 @@
-【Right Page - Text in the Illustrated Map】
+**【Right Page】** (List of headings for sites within the shrine precincts)
 
-Hōsen-ji Temple
+- Takata Inari (High Field Inari Shrine)
+- Bishamondō (Hall of Bishamonten)
+- Fujisan (Mount Fuji [miniature])
+- Shinsen (Sacred Spring)
+- Imori-ga-ike (Salamander/Gecko Pond)
+- Hōsen-ji (Hōsen Temple)
 
-Asama
+**【Within the Illustrated Map】** (Place names and facility names labeled on the precinct illustration)
 
-Takada Inari (Takada Inari Shrine)
-Bishamon-dō (Bishamon Hall)　　　Mount Fuji
-Mount Fuji (Fujisan)
-Shinsēn (Sacred Spring)　　　　　　　　　　　　　　　　　　　　　　　Back Gate　　　
-Shukyū-ike (Gecko Pond)　　　　　　　　　　　　　　Imori-ga-ike (Newt Pond)
-Hōsen-ji Temple (Hōsen-ji)
+- Hōsen-ji (宝泉寺)
+- Sengen (浅間; the subsidiary Sengen shrine)
+- Fujisan (富士山; the miniature Mt. Fuji)
+- Ura-mon (裏門; Rear Gate)
+- Imori-ga-ike (いもりか池; Salamander Pond)
+- Inari (いなり; Inari Shrine)
 
-Inari
+**【Left Page】** (Continuation of the illustrated map)
 
-【Left Page】
-
-Bishamon
-
-Front Gate
-Back Gate
+- Bishamon (毘沙門; Bishamonten Hall)
+- Ura-mon (裏門; Rear Gate)
+- Omote-mon (表門; Front Gate)

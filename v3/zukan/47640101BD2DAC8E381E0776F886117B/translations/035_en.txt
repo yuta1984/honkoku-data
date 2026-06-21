@@ -1,37 +1,48 @@
-"Kyūkō Honzō" says: Winter mallow (Kan-aoi)
-"Dōya-fu" says: Mallow (Fuyu-aoi)
+【Aoi (葵) / Fuyu-aoi (冬葵, Winter Mallow)】
 
-"Tashiki-hen" says:
-　Mallow《Japanese name: Aohi. Ancient name: Aohi》
-　　《Alternative name》Dew mallow
-　　　Smooth vegetable (Kwaisai)
+From the *Kyūkō Honzō* (Famine Relief Herbal): "Tōkisai" (冬葵菜, Winter Mallow Vegetable; read: kan-aoi)
+From the same work's *Yafu* (Wild Plants section): "Kui" (葵, Mallow; read: fuyu-aoi)
 
-　Upon examination, mallow sown in the first month is called spring
-　mallow, that sown in the sixth or seventh month is called autumn
-　mallow, and that sown in the eighth or ninth month is called winter mallow.
-　Shizhen's explanation is unclear, but autumn mallow is namely yellow hibiscus
-　(Sarukoma・Tororo-aoi). Winter mallow is exactly this. Spring mallow has not yet been
-　determined. Each is a separate species and is not sown in all four seasons.
-　According to herbal texts, this involves sowing mallow in autumn, covering and nurturing it,
-　passing through winter and reaching spring to bear seeds. Hence it is called winter mallow seed.
-　This survives winter, likely in warm countries. In "Nōgyō
-　Zensho," winter mallow seed is called small mallow. That which has
-　serrated leaves and flowers like plum blossoms that are reddish-purple
-　is coin mallow. True winter mallow is a different plant.
+From the *Tashikiben* (多識篇, Lexicon of Natural History):
+　Mallow (葵)　Japanese name: *Aoi* (阿於比) 〔Ancient name: *Aoi*〕
+　　　　　　　 Alternative name: *Rokuki* (露葵, "Dew Mallow")
+　　　　　　　　　　　　　　　　*Kwaisai* (滑菜, "Slippery Vegetable")
 
-Intercalary Rinshō (6th month) of the Year of the Fire Boar
-Written on the 28th day
-【Seal】Grass category
+---
 
-In common households it is called:
-　Grass hibiscus
-　　Also known as: Land laver (Okanori・Norikusa)
+Intercalary month (Rinshō / 6th month), 28th day, Year of Teigai (1827)
+Sketched/copied on this day
+【Seal】 Grass Category (草類)
 
-My observation:
-　The leaves are dried and thoroughly roasted,
-　mixed with soy sauce and eaten. The leaves
-　resemble the aroma of Asakusa laver. Hence
-　it got this name. Since I ate it, it has never
-　disappeared from the garden. Also, the leaves of hollyhock
-　are roasted and eaten. Their aroma is
-　quite similar.
+---
+
+From *Jinka* (人家, a household/garden reference work):
+　Kusa-fuyō (草芙蓉, "Grass Hibiscus")
+　Also known as: Okanori (陸苔菜) / Norikusa
+
+〔Author Baien's note:〕
+　The leaves are dried, then thoroughly roasted/toasted (炒り/炙り),
+　mixed with soy sauce, and eaten. The leaves
+　have a fragrance resembling that of Asakusa nori (浅草苔, a type of edible seaweed/laver),
+　hence the name (Okanori, "Land Nori"). I have eaten it myself, and it has not yet
+　disappeared from my garden plot.
+　It is also said that the leaves of Tachi-aoi (蜀葵, Hollyhock)
+　can be roasted and eaten, and that their fragrance
+　is the same.
+
+---
+
+〔Author's note:〕
+　Upon reflection: those sown in the 1st month (of the lunar calendar) are called "Spring Mallow" (春葵);
+　those sown in the 6th or 7th month are called "Autumn Mallow" (秋葵);
+　those sown in the 8th or 9th month are called "Winter Mallow" (冬葵).
+　This is Li Shizhen's theory, but I find it questionable.
+　"Autumn Mallow" (秋葵) is in fact the Yellow Shu Mallow (黄蜀葵, *Abelmoschus manihot*; called *sarukoma* or *tororo-aoi*),
+　and "Winter Mallow" (冬葵) is indeed this very plant. As for "Spring Mallow,"
+　this remains undetermined. Each is a distinct species, and it is not the case that one sows the same plant throughout all four seasons.
+　The *Honzō* (Bencao Gangmu / Compendium of Materia Medica) states that one sows mallow seeds in autumn, covers and nurtures them through the winter,
+　and they bear seeds upon reaching spring — hence the name "Tōkishi" (冬葵子, "Winter Mallow Seeds").
+　That this plant can survive winter may be because it is from a warm country.
+　In the *Nōgyō Zensho* (農業全書, Complete Book of Agriculture), "Tōkishi" (冬葵子) is called "Small Mallow" (小葵). Those who say its leaves
+　have forked/lobed incisions and that its flowers resemble plum blossoms and are red-purple —
+　those are referring to *Zeni-aoi* (銭葵, *Malva sylvestris*, Common Mallow). The true Winter Mallow is a separate plant entirely.

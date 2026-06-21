@@ -1,17 +1,17 @@
 【Modern English Translation: Japanese–Ainu Vocabulary Glossary】
 
-Suspicious/Doubtful/Something questionable　Oyamorite
-Mysterious/Strange/Incomprehensible/Wondrous　Irishikonna・Shomoshikarunno
-A clue/An inkling/Something coming to mind　Ishikoba・Chishikoba
-Disgrace/Humiliation/Shame　Shōya
-Pitiful/Pitiable/Pathetic [lit. "laborious/painful to witness"]　Iyochishiba
-Ingratitude/Failure to fulfill one's social obligations　Yaishiporore
-Mind/Will/Intention/Feeling　Ramu
-Feeling/Emotion/Sentiment/Compassion　Keutomo・Ramuchitetsukен
-Beloved/Dear/Adorable/Cherished　Itsua̍shikarapu
-To doubt/To suspect/To be suspicious of　Unbini・Unbihika
-To be frightened/To be terrified/To tremble with fear　Ramuchiri
-To be jealous/To be envious/To resent　Uebokuba・Ebokuba
-To surmise/To infer/To perceive/To sense　Chiyatarai
-Pity/Pathos/Sorrow/Compassion　Ihomaship
-Stingy/Miserly/Reluctant to part with one's belongings　Yautobepkare
+Suspicious/Doubtful/Dubious　Oyamorite
+Mysterious/Strange/Wondrous　Irishikonna・Shomoshikarunno
+To have an idea/Recollection/Inkling　Ishikoba・Chishikoba
+Shame/Disgrace/Humiliation　Shōya
+Pitiful/Pitiable/Sympathetic [lit. "laborious/painful to witness"]　Iyochishiba
+Ungrateful/Lacking in duty/Without proper obligation　Yaishiporore
+Will/Mind/Intention [lit. "heart/thought"]　Ramu
+Feeling/Emotion/Compassion　Kewtomo・Ramuchitetsken [Ramuwo? Tetsken]
+Beloved/Endearing/Dear/Lovable　Itsūashikarapu
+To doubt/To suspect　Unbini・Unbibiika
+To be frightened/To cower/To be intimidated　Ramuchiri
+To be jealous/To envy/To be envious [with gloss: "sone-mu"]　Webokuba・Ebokuba
+To perceive/To sense/To infer/To surmise　Chiyatarai
+Pity/Pathos/Sorrow/Compassion　Ihomashii
+Stingy/Miserly/Frugal [with gloss: "shiwai"]　Yautobokare
