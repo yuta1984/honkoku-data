@@ -1,54 +1,46 @@
 ---
 
-## 【A Variety of Ornamental Peach: *Himomo* (緋桃; Scarlet/Crimson Peach)】
+## 【*Himomo* (緋桃; Red Flowering Peach) — A Variety of Ornamental Peach (*Hanamomo*)】
 
-*Himomo* (緋桃; Crimson Flowering Peach)　— Two varieties
+　　*Himomo* (緋桃; Scarlet Peach) — Two varieties
 
-[Seal: Fruit-Bearing Trees (*Kabo-rui*)]
+[Seal: Fruit Trees (*Kamoku-rui*)]
 
-Sketched from life in the rain,
-on the first day (*tsuitachi*) of *Kosen* (姑洗; third lunar month), year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
-
----
-
-## 【*Wasabi* (山葵; Japanese horseradish / *Eutrema japonicum*)】
-
-### According to the *Yamato Honzō* (大和本草):
-
-　　*Wasabi* (山葵)　Japanese name: *Wasabi* (和佐美)
-
-　　　　　　[The *Seika Hyakkyō* (生花百競) states: *Kanzai* (蔊菜)]
-
-　　Also written with the characters "山薑" (*yamahajikami*). [These characters are used in the *Kangoshō* (漢語抄). The Chinese name is not yet known.]
+　　Sketched from nature on the first day (*sakujitsu*) of *Kosen* (姑洗; the third lunar month) in the year *Kinoe-Saru* (甲申) [Bunsei 7, 1824], amid continuous rain.
 
 ---
 
-### According to the *Zōho Tashikiden* (増補多識編), in the section on Pungent Vegetables (*Kunsai-rui*):
+## 【*Wasabi* (山葵; *Wasabia japonica*)】
 
-　　*Kanzai* (蔊菜)　Japanese name: Unknown
+**According to the *Yamato Honzō* (大和本草):**
 
-　　[Alternative names:] ■菜 (*Tōsai*) [pronunciation: possibly *Niku-sō*?]　*Ratsubei-sai* (辣米菜)
+　　*Sanki* (山葵) — Japanese name: *Wasabi* (和佐美)　[The *Seika Hyakukyō* (生花百競) states: *Kanzai* (蔊菜)]
 
----
-
-Also sketched from life on the fifth day of early *Kosen* (third lunar month),
-on a stone dish on the writing desk.
+　　[Also:] *Yamahajikemi* (山薑) — [This character is used in the *Kangoshō* (漢語抄). The Chinese name is unknown.]
 
 ---
 
-### According to the *Wakan Sansai Zue* (和漢三才図会), in the section on Pungent Vegetables (*Kunsai-rui*):
+**According to the *Zōho Tashikiden* (増補多識編), in the section on Pungent Vegetables (*Kunsai-rui*):**
 
-　　*Wasabi* (山葵)　[Alternative name:] *Yamahajikami* (山薑)　[Source:] *Honchō-shiki* (本朝式)
+　　*Kanzai* (蔊菜) — Japanese name: Unknown　[Aliases:] ■菜 (pronunciation uncertain)　*Ratsubei-sai* (辣米菜)
+
+　　Sketched from nature on the fifth day of the beginning of *Kosen* (the third lunar month) of the same year (甲申), on a stone dish (*ishizara*) on the desk.
+
+---
+
+**According to the *Wakan Sansai Zue* (和漢三才図会), in the section on Pungent Vegetables (*Kunsai-rui*):**
+
+　　*Wasabi* (山葵) / *Yamahajikemi* (山薑) — [Source:] *Honchō-shiki* (本朝式; *Regulations of the Imperial Court*)
 　　　　Japanese name: *Wasabi* (和佐比)
 
-　　Separately, there exists a plant also called "山薑," and furthermore *kakitsubata* (杜若; *Iris laevigata*) is also named "山薑" — three different plants sharing the same name, each being a distinct species.
+　　　　There exists separately a plant called *Yamahajikemi* (山薑), and moreover *kakitsubata* (杜若; *Iris laevigata*) is also called *Yamahajikemi* (山薑). These three things share the same name but are different plants.
 
-　　Upon examination: its leaves resemble those of *aoi* (葵; hollyhock/mallow), hence it is commonly called *yamaoi* (山葵; "mountain mallow"). Its root resembles *shōbu* (菖蒲; sweet flag, *Acorus calamus*) and *ryōkyō* (良薑; lesser galangal, *Alpinia officinarum*), hence it is also commonly called *yamahajikami* (山薑; "mountain ginger").
+　　　[Author's note:] Its leaves resemble those of *aoi* (葵; hollyhock/mallow), hence it is popularly named *Yamaoi* (山葵; "mountain mallow"). Its roots resemble *shōbu* (菖蒲; sweet flag) and *ryōkyō* (良薑; greater galangal), hence it is popularly also named *Yamahajikemi* (山薑; "mountain ginger").
 
 ---
 
-### The author's own observations (*yo kangae iwaku*):
+　　　　　　　　　　　**[The author's personal investigation states:]**
 
-　　*Kanzai* (蔊菜) and *Wasabi* (山葵) have been treated as the same plant in many works; however, the books cited above distinguish them as two separate things. Their forms differ greatly, and their flowers and leaves are likewise different — it should be clear that they cannot be the same plant. Nevertheless, since the root of *kanzai* is also extremely pungent in taste, this is likely the reason why the two have been confused with one another.
+　　　　　　　　　　　Many books treat *Kanzai* (蔊菜) and *Wasabi* (山葵) as a single entity. The books cited above distinguish them as two separate things, and indeed their forms differ greatly, and their flowers and leaves also differ. It should be understood that they are not the same thing. Nevertheless, since the root of *Kanzai* is also extremely pungent in flavor, it is by this similarity that they have been confused with one another.
 
 ---

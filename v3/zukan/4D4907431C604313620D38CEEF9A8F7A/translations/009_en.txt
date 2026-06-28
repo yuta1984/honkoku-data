@@ -1,100 +1,82 @@
-## Shijimibana (蜆花 / *Spiraea prunifolia*, Bridal Wreath Spirea)
+## Shijimibana / Kogomebana (笑靨花 — *Spiraea prunifolia*)
 
-Recorded in the *Wakan Sansai Zue* (Encyclopedia of Japan and China), section on shrubs.
-　Shōyō-ka (笑靨花, "laughing-dimple flower") — commonly called Shijimi-bana (蜆花).
-　*Dōsei Hassen* states: "The flowers of the *shōyō-ka* are tiny, like beans;
-　　a single branch bears a thousand blossoms, resembling a mound of pushed-together snow."
+From the *Wakan Sansai Zue* (Illustrated Encyclopedia of Japan and China), in the section on shrubs:
+　*Shōenka* (笑靨花, "dimple flower"), commonly called *Shijimibana* (蜆花, "clam-shell flower"). The *Dōsei Hassen* states: "The flowers of *Shōenka* are as fine and small as beans; along a single branch, a thousand flowers bloom, appearing as if snow had been pressed upon it."
 
-　Copied in the spring of Kanoto-Mi (文政 4, 1821).
+　Written in spring of Kanoto-Mi, the fourth year of Bunsei (1821).
 
-Kogome-bana (笑靨花): Per *Yamato Honzō*.
-Kogome-bana (糏花): Per *Saijiki*.
-Kogome-zakura (小米桜): Also called *Hase-zakura*.
-　　Two varieties recorded.
-Gyokusetsu (玉屑, Kogome-bana)
+*Kogome-bana* (笑靨花) — as recorded in the *Yamato Honzō*
+　*Kogome-bana* (糏花) — as recorded in the *Saijiki* (seasonal almanac)
+　*Kogome-zakura* (小米桜) — also called *Hasezakura*
+　　　Two varieties exist.
+　*Gyokusetsu* (玉屑, "jade flakes") — another name for *Kogomebana*
 
 ---
 
-## Karatachi (枸橘 / Trifoliate Orange, *Poncirus trifoliata*)
+## Karatachi / Trifoliate Orange (枳 — *Poncirus trifoliata*)
 
 [Seal] Flowering trees
 
-*Zōho Tashiki-hen* (Expanded Identification Compendium), section on shrubs, states:
-　*Ki* (枳): Japanese name "*Karatachi* (加羅多知)." Alternate names listed.
-　　Its fruit is called *Kijitsu* (枳実, per *Honkei*) or *Kikoku* (枳穀, per *Kaibō*).
+From the *Zōho Tashiki-hen* (Expanded Tashiki Encyclopedia), section on shrubs:
+　*Ki* (枳)　Japanese name: Karatachi (加羅多知)　Alternative names recorded.
+　Its fruit is called *Kishitsu* (枳実, *Zhishi*) [from the *Bencao* proper] or *Kikoku* (枳穀, *Zhiqiao*) [from the *Kaibao* materia medica].
 
-*Wamyō Ruijushō* states:
-　*Karatachi* (枳椇): According to the *Honzō* (Materia Medica):
-　　*Kiku* (枳椇; read with the two syllables *shi* and *ku*; Japanese name: *Karatachi*)
+From the *Wamyō Ruijushō* (Japanese Name Thesaurus):
+　*Kikyo* (枳椇, *Hovenia dulcis*, Japanese raisin tree): The *Bencao* states,
+　　*Kikyo* — read as "Shiku" in two syllables; Japanese name: Karatachi (加良太知).
 
-*Gyokuhen* (Jade Chapter, Chinese dictionary) states: "*Ki* (枳) refers to a citrus plant that is twisted and bent."
-*Shichimaки Shokkyō* (Seven-volume Food Classic) states: *Kuen* (枸櫞) — (*ku* is the same character as *gu/椇*).
-The author's note: *Kiku* (枳椇) is recorded in *Yamato Honzō* as "*Kenpōnashi*" (Japanese raisin tree). One of these identifications may be in error.
+The *Yupian* (Chinese character dictionary) states: *Ki* (枳) is a citrus that grows in a bent, twisted form. The *Seven-Volume Food Classic* (*Shichi-kan Shokukyō*) mentions *Kuen* (枸橼, citron); here, *ku* (枸) is the same character as *kyo* (椇).
 
-From *Yamato Honzō*:
-　*Kuki* (枸橘, *Karatachi-bana* / *Karatachi*); alternate name: *Shūkitsu* (臭橘, "stinking orange")
-　　Japanese name: *Karatachi*.
-　　In Tsukushi (Kyushu) it is called "*Gezu*."
-　　Since ancient times, it has erroneously been used
-　　in Japan as *Kikoku* (枳殻) or *Kijitsu* (枳実)
-　　for medicinal purposes — this is incorrect.
-　　*Sanji Zukai* states: In Japan too,
-　　if *mikan* (citrus) is planted in Ōshū (the Tōhoku region), it transforms
-　　into *Kikoku* (枳殻). This is a remarkable phenomenon.
-　　*Yamato Honzō* treats *Kuki* (枸橘, *Gezu*) as "*Karatachi*."
-　　"*Karatachi*" is thus equivalent to *Kikoku*.
-　　The illustration and explanation in the *Sansai Zue* accord with this.
-　　The view of a certain scholar merits consideration.
+The author's note: *Kikyo* is recorded in the *Yamato Honzō* as *Kenpō-nashi* (ケンポノナシ, *Hovenia dulcis*). It is unclear which identification is correct.
 
-Genju (the author, Mōri Baien) reflects and states:
-　There are two kinds of *Kikoku*. The *Karatachi* (狗橘) planted as hedgerows
-　has wood, leaves, and fruits smaller than ordinary *Karatachi*.
-　This is undoubtedly the "*Ku-kitsu*" (狗橘, "dog orange") described by (Li) Shizhen.
-　True *Kikoku* has wood, leaves, and fruit all
-　large, and is a different variety of the same family. Today, what apothecaries
-　　call "small *Kijitsu*" (小枳実)
-　　　is the fruit of the *Karatachi* (狗橘),
-　　　　and should not be used as medicine.
+From the *Yamato Honzō*:
+　*Kukitsu* / *Karatachibana* / *Karatachi* (枸橘)　Alternative name: *Shūkitsu* (臭橘, "malodorous citrus")
+　Japanese name: Karatachi
+　In Tsukushi (Kyushu), it is called *Gezu*.
+　Since ancient times, it has been a common error in Japan to use this plant as *Kikoku* (枳殻) or *Kishitsu* (枳実) in medicine — which is incorrect.
+　The *Sansai Zue* states: In Japan, if one plants a *mikan* (satsuma orange) in Ōshū (northeastern Japan), it transforms into *kikoku* — an unusual transformation of the same sort.
+　The *Yamato Honzō* takes *Kukitsu* (枸橘, Gezu) to be *Karatachi*. Since *Karatachi* is in fact *Kikoku*, this accords with the illustrations and explanations in the *Sansai Zue*. The opinions of certain scholars warrant further examination.
+
+The author Genjū (Mōri Baien) reflects:
+　There are two kinds of *kikoku*. The *Karatachi* (狗橘) planted as hedges has smaller wood, leaves, and fruit than ordinary *Karatachi*. There is no doubt that this is the *ku-kitsu* (狗橘) described by Li Shizhen. The true *kikoku* has larger wood, leaves, and fruit, and is a distinct variety of the same genus. What is sold today in pharmacies as "small *kishitsu*" (小枳実) is the fruit of the hedge *Karatachi* (狗橘) and is not suitable for medicinal use.
 
 ---
 
-## Shiro-sumomo (白李 / White Japanese Plum, *Prunus salicina*)
+## White Plum (*Shiro-sumomo* — *Prunus salicina*, Japanese plum)
 
 [Seal] Fruit trees
 
-Li-ka (李花, White Plum Blossom — *Shiro-sumomo*)
-　"*Kie-kate no yuki to miru made yamajiro no / kakiho no sumomo hana saki ni keri*"
-　　— Tameie
+*Ribana* (李花 — white plum blossoms)
 
-(Translation of the poem: "So difficult to melt away — just like snow, or so it seems — / the white plum blossoms blooming along the hedge of this mountain hamlet.")
+　*Kiegateniyuki to mirumade yamasato no*
+　　*kakiho no sumomo sakinikerikeri* — Tameie
 
----
-
-## Boke (木瓜 / Japanese Quince, *Chaenomeles speciosa*)
-
-*Honzō Wage* states:
-　Flower of *Mokka* (木瓜, *boke*)
-　　Japanese name: *Hoke* (保介, i.e., *Boke*)
-
-*Wamyō Ruijushō* states:
-　*Boke* (木瓜, *Hoke*): *Erya* commentary states that an alternate name for *boke* is "*Bō*" (楙; pronounced *sheng*).
-　The Japanese-name *Honzō* states that *boke* is written 毛介 (*Moke*).
-　Its fruit resembles a small melon.
+　(Translation: "So thick it is, one mistakes it for unmelting snow — / the white plum blossoms blooming on the mountain village's fence." — [Fujiwara no] Tameie)
 
 ---
 
-## Yamabuki (山吹 / Japanese Kerria, *Kerria japonica*)
+## *Boke* / Japanese Flowering Quince (木瓜花 — *Chaenomeles speciosa*)
 
-Also called *Tomibana* (荼靡花); also *Yamabuki*.
-The plant *Tobi* (酴醿) is sometimes called *Yamabuki*.
-In *Man'yōshū* and *Rōeishū*, "款冬花" (*kantōka*) is written and used to compose poems about *yamabuki* — but this is erroneous.
-*Kantō* (款冬) refers to "*fukinotō*" (butterbur shoots). (Per *Chikinsho*)
+From the *Honzō Wage* ("Japanese Interpretation of the Materia Medica"):
+　*Mokkwa* (木瓜) flower
+　　Japanese name: *Hoke* / *Boke* (保介)
+
+From the *Wamyō Ruijushō*:
+　*Mokkwa* (*Hoke*): The commentary to the *Erya* states that *mokkwa* has an alternative name *Bo* (楙) [pronounced *sheng*].
+　The *Wamyō Honzō* states: *Mokkwa* is called *Moke* (毛介) in Japanese; its fruit resembles a small melon/gourd.
+
+---
+
+## *Yamabuki* / Japanese Kerria (山吹・棣棠 — *Kerria japonica*)
+
+*Tomi-bana* (荼靡花)
+　Also called *Yamabuki*.
+　Furthermore, *Tobi* (酴醿) is sometimes read as *Yamabuki*; both the *Man'yōshū* and the *Wakan Rōeishū* write 欵冬花 (*kantōka*) and compose verses about *Yamabuki* — but this is an error. *Kantō* (欵冬) refers to *Fukinotō* (ふきのとう, butterbur sprout). — As stated in the *Chikinsho*.
 
 [Seal] Medicinal herbs
 
-*Yamato Honzō* states:
-　*Yamabuki* (棣棠)
-　　　Chinese names: *Kinwan* (金碗, "gold bowl")
-　　　　　　　　　　*Kisui* (喜水, "water-loving")
-　　Interpreting *Tobi* (酴醿) as *yamabuki* is incorrect.
-　　*Tobi* refers to the *goya-oki* (a type of wild rose).
+From the *Yamato Honzō*:
+　*Yamabuki* (棣棠 — *Kerria japonica*)
+　　Chinese names: *Kinwan* (金碗, "golden bowl") and *Kisui* (喜水, "water-loving")
+　Reading *Tobi* (酴醿) as *Yamabuki* is incorrect.
+　*Tobi* (酴醿) refers to *Goyōki* (五葉木 — a multi-petalled rose variety, likely *Rosa multiflora* or similar).

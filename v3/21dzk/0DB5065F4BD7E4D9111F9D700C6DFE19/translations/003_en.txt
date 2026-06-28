@@ -2,58 +2,37 @@
 
 ### [Upper Section]
 
-One should understand [all of the above]. The broad outline of distinguishing the four divisions within the eight consciousnesses is as set forth above.
+One should know that the differentiation of the four divisions (*caturbhāga*, 四分) within the eight consciousnesses is, in broad outline, as described above.
 
 ---
 
-### The Matter of the Two Truths (*Nitai*, 二諦)
+### The Two Truths (*Nigi*, 二諦)
 
-Our school [the Hossō/Yogācāra school] establishes **Four Levels of the Two Truths** (*shijū nikai*, 四重二諦). These are, respectively, the Four Levels of Conventional Truth (*sezoku*, 世俗) and the Four Levels of Ultimate Truth (*shōgi*, 勝義).
+Our school (the Hossō school) establishes the **Four-Layered Two Truths** (*shijū-nigi*, 四重二諦). These are the Fourfold Conventional Truth (*sezoku-shijū*, 世俗四重) and the Fourfold Ultimate Truth (*shōgi-shijū*, 勝義四重).
 
-The Four Levels of Conventional Truth are as follows:
-1. **Worldly conventional truth** (*seken sezoku*, 世間世俗): things such as pots, bowls, and so forth.
-2. **Reasoned conventional truth** (*dōri sezoku*, 道理世俗): the five aggregates (*skandha*, 五蘊), the twelve sense-fields (*āyatana*, 十二処), the eighteen elements (*dhātu*, 十八界), and so forth.
-3. **Realized conventional truth** (*shōtoku sezoku*, 証得世俗): the Four Noble Truths of suffering, arising, cessation, and the path.
-4. **Supreme conventional truth** (*shōgi sezoku*, 勝義世俗): the twofold emptiness (*niku*, 二空) and suchness (*tathatā*, 真如).
+The **Fourfold Conventional Truth** is as follows: (1) "Mundane conventional truth" (*seken-sezoku*, 世間世俗) — things such as jars and bowls; (2) "Rational conventional truth" (*dōri-sezoku*, 道理世俗) — things such as the five aggregates (*skandha*, 五蘊), twelve bases (*āyatana*, 十二処), and eighteen elements (*dhātu*, 十八界); (3) "Attained-through-realization conventional truth" (*shōtoku-sezoku*, 証得世俗) — the Four Noble Truths (*catvāry āryasatyāni*, 四諦) of suffering, origination, cessation, and the path; (4) "Ultimate conventional truth" (*shōgi-sezoku*, 勝義世俗) — the two-fold emptiness-suchness (*ni-kū-shinnyo*, 二空真如).
 
-The Four Levels of Ultimate Truth are as follows:
-1. **Worldly ultimate truth** (*seken shōgi*, 世間勝義): the three categories (*sankō*, 三科) of the five aggregates and so forth.
-2. **Reasoned ultimate truth** (*dōri shōgi*, 道理勝義): the Four Noble Truths of suffering and so forth.
-3. **Realized ultimate truth** (*shōtoku shōgi*, 証得勝義): the twofold emptiness and suchness.
-4. **Supreme ultimate truth** (*shōgi shōgi*, 勝義勝義): the principle of the one true *dharmadhātu* (*ichishin hōkai*, 一真法界).
+The **Fourfold Ultimate Truth** is as follows: (1) "Mundane ultimate truth" (*seken-shōgi*, 世間勝義) — the three categories (*sankа*, 三科) such as the five aggregates; (2) "Rational ultimate truth" (*dōri-shōgi*, 道理勝義) — the Four Noble Truths such as suffering; (3) "Attained-through-realization ultimate truth" (*shōtoku-shōgi*, 証得勝義) — the two-fold emptiness-suchness; (4) "Ultimate-of-the-ultimate truth" (*shōgi-shōgi*, 勝義勝義) — the principle of the one true *dharmadhātu* (*ichijin-hōkai*, 一真法界).
 
-This [schema of] abolishing and establishing [levels of truth] is an explanation combining [the perspectives of] the Three Vehicles. *(Please consult the commentary for the interpretation.)*
+Now this establishment and dissolution [of the two truths] is explained by combining all three vehicles (*triyāna*, 三乗). (One should consult the commentaries.) If we speak only with regard to the bodhisattva: (1) Real self, real dharmas, jars, armies, forests, etc. constitute the first conventional truth; (2) The ten skillful means (*daśakuśalāni*, 十善巧) such as the three categories and the Four Noble Truths constitute the second conventional / first ultimate; (3) The principles of the three natures (*trisvabhāva*, 三性), the three non-natures (*trinaihsvābhāvya*, 無性), and the Vijñaptimātratā (*yuishiki*, 唯識) constitute the third conventional / second ultimate; (4) The two-fold emptiness-suchness constitutes the fourth conventional / third ultimate; (5) The principle of the one true *dharmadhātu* of the twofold emptiness constitutes the fourth ultimate. Therefore, when dharmas are discussed, there are five layers.
 
-If one discusses this as applying solely to the bodhisattva (*bosatsu*, 菩薩), then:
-- Real self (*jitsunga*, 実我) and real dharmas (*jitsuhō*, 実法) — [illusory entities like] pots, armies, and forests — constitute the **first conventional truth**.
-- The ten skillful means (*jissen-gyō*, 十善巧) of the three categories, the Four Noble Truths, and so forth constitute the **second conventional / first ultimate truth**.
-- The three natures (*sansho*, 三性), naturelessness (*mushō*, 無性), and the principle of Consciousness-Only (*yuishiki*, 唯識), and so forth constitute the **third conventional / second ultimate truth**.
-- The twofold emptiness and suchness constitute the **fourth conventional / third ultimate truth**.
-- The principle of the one true *dharmadhātu* through the twofold emptiness constitutes the **fourth ultimate truth**.
-
-Therefore, when dharmas are discussed, there are **five levels**. Since truth and convention are mutually dependent [*Note: the marginal annotation suggests "形" (resemble/oppose) may be an error for "依" (depend upon)], these interrelated distinctions extend to **eight levels** [in total]. That is: the ultimate necessarily depends upon the conventional to be "ultimate," and the conventional necessarily depends upon the ultimate to be "conventional."
-
-"Ultimate truth" (*shin*, 真) refers to the inner reality (*jitsu*, 実) of a given phenomenon. If there were no such phenomenon, of what would it be the inner reality? Hence, the ultimate is the "home-ultimate" belonging to the conventional. "Conventional truth" (*zoku*, 俗) refers to the construction (*ke*, 假) erected upon the real (*jitsu*, 実). If there were no such real [*Note: the annotation suggests that "者" may have dropped out after "実"], of what would it be a construction? Hence, the conventional is the "home-conventional" belonging to the ultimate.
-
-Accordingly, within conventional phenomena there is necessarily an ultimate principle, and within the ultimate principle there are necessarily conventional phenomena. If one [of the pair] is lacking, both are necessarily lost. No dharma can stand independently. This is called the **Dharma-gate of mutual dependence of ultimate and conventional** (*shinsoku sōi no hōmon*, 真俗相依法門).
-
-That being the case: relying upon the **first conventional**, one establishes the **second ultimate**; relying upon the **first ultimate**, one establishes the **first conventional**. That is to say, the three categories, the Four Noble Truths, and so forth, compared to the imagined [entities] such as armies and forests, are somewhat deeper in principle — and this is true even of the first ultimate, so how much more so the remaining two levels. Therefore, relying upon the first conventional, one collectively establishes **four ultimates**.
+Since the ultimate and the conventional mutually depend upon each other [Note: "形" (*katachi*) may be a scribal error for "依" (*yoru*, "depend upon")], when they are laid out in relation to one another, this amounts to eight layers. That is to say: the ultimate is ultimate only in dependence upon the conventional; the conventional is conventional only in dependence upon the ultimate. The "ultimate" is the inner reality (*jitsu*, 實) of a thing. If there were no "thing," whose reality would it be? Therefore, the ultimate is an ultimate that has the conventional as its home. The "conventional" is a conventional fiction (*ke*, 仮) upon reality. If there were no "reality" [Note: "者" (*mono*) may be missing after "実" in the text], whose fiction would it be? Therefore, the conventional is a conventional that has the ultimate as its home. Thus, within conventional phenomena (*zokujи*, 俗事) there is invariably ultimate principle (*shingiri*, 真理), and within ultimate principle there is invariably conventional phenomena. If one is lacking, the other is necessarily lost as well. No dharma can stand alone independently. This is called the "gate of the mutual dependence of the ultimate and the conventional" (*shinjoku-sōe-no-hōmon*, 真俗相依法門).
 
 ### [Lower Section]
 
-Next, relying upon the **second conventional**, one establishes the **second ultimate**; relying upon the **second ultimate**, one establishes the **second conventional**. That is, the three natures and so forth, compared to the three categories and so forth, are progressively deeper in principle — and this is true even at the second ultimate, so how much more so at the subsequent two levels. Therefore, relying upon the second conventional, one collectively establishes **three ultimates**.
+In this way, taking the first conventional as a basis, the second ultimate is established; taking the first ultimate as a basis, the first conventional is established. That is to say: the three categories, the Four Noble Truths, etc., in relation to the imagined constructs of armies and forests, have a somewhat deeper principle — and even the first ultimate is like this; how much more so the other two layers! Therefore, taking the first conventional as a basis, four ultimates are established in total.
 
-Next, relying upon the **third conventional**, one establishes the **third ultimate**; relying upon the **third ultimate**, one establishes the **third conventional**. That is, the twofold-emptiness suchness, compared to the three natures and so forth, is still deeper in principle — and this holds even for the third ultimate, so how much more so for the remaining level. Therefore, relying upon the third conventional, one collectively establishes **two ultimates**.
+Next, taking the second conventional as a basis, the second ultimate is established; and taking the second ultimate as a basis, the second conventional is established. That is, the three natures etc., in relation to the three categories etc., have a progressively deeper principle — and even the second ultimate is like this; how much more so the latter two layers! Therefore, taking the second conventional as a basis, three ultimates are established in total.
 
-Next, relying upon the **fourth conventional**, one establishes the **fourth ultimate**; relying upon the **fourth ultimate**, one establishes the **fourth conventional**. That is, the principle of the one true *dharmadhātu*, compared to the twofold-emptiness suchness, is the deepest in principle of all. Therefore, relying upon the fourth conventional, one establishes the final **one ultimate**.
+Next, taking the third conventional as a basis, the third ultimate is established; and taking the third ultimate as a basis, the third conventional is established. That is, the two-fold emptiness-suchness, in relation to the three natures etc., has a still deeper principle — and even the third ultimate is like this; how much more so the latter one layer! Therefore, taking the third conventional as a basis, two ultimates are established in total.
 
-Thus, in the five levels of dharmas: the **first level** is solely conventional, not ultimate; the **fourth ultimate** is solely ultimate [while being grounded in] the conventional; the **three middle levels** are both ultimate and conventional. The above has been discussed proceeding from the shallow to the deep.
+Next, taking the fourth conventional as a basis, the fourth ultimate is established; and taking the fourth ultimate as a basis, the fourth conventional is established. That is, the principle of the one true *dharmadhātu*, being of the deepest principle in relation to the two-fold emptiness-suchness, — taking the fourth conventional as a basis, the last one ultimate is established.
 
-If one proceeds from the deep to the shallow: relying upon the fourth ultimate, one collectively establishes **four conventionals**; relying upon the four conventionals, one establishes only **one ultimate**. The "four conventionals, one ultimate" of the root treatise refers to this approach. The rest may be understood by analogy.
+Now among these five layers of dharmas: the first layer is solely conventional and not ultimate; the fourth layer is solely ultimate (and also conventional); the three intermediate layers are both ultimate and conventional. The above is the discussion proceeding from shallow to deep. If one proceeds from deep to shallow: taking the fourth ultimate as a basis, four conventionals are established in total; taking the four conventionals as a basis, only one ultimate is established. The formula "four conventionals, one ultimate" (*shisoku-ichishin*, 四俗一真) found in the root text belongs to this approach. The rest should be understood by analogy.
 
-Now, these eight levels are condensed into **four pairs of mutual opposition**:
-1. **Existence vs. Non-existence** (*umū sōtai*, 有無相対): The first conventional is "non-existent," since real self and real dharmas have no intrinsic nature. From the three categories up to the one reality (*ichijitsu*, 一実) is called "nominally existent" (*sōu*, 相有), since the dependent and perfected natures (*enichinishō*, 依円二性) have real substance.
-2. **Phenomenon vs. Principle** (*jiri sōtai*, 事理相対): Discussed within the prior [category of] "existence." The five aggregates and so forth are "phenomena" (*ji*, 事), being the substantial phenomena of dharmas. From the Four Noble Truths onward
+Now these eight layers are bundled into **four-layered mutual contrasts** (*shijū-sōtai*, 四重相対):
+(1) **Contrast of existence and non-existence** (*umu-sōtai*, 有無相対): the first conventional corresponds to "non-existence," since real self and real dharmas have no substantial nature. From the three categories up to the "one reality" (*ichijitsu*, 一実) — these are called "phenomenally existent" (*sōu*, 相有), since the dependent and perfected natures (*paratantra* and *pariniṣpanna*, 依円二性) have substance.
+(2) **Contrast of phenomena and principle** (*jiri-sōtai*, 事理相対): this is discussed within the foregoing "existent." The five aggregates etc. are "phenomena" (*ji*, 事) — as they are the phenomena that constitute the substance of dharmas. From the Four Noble Truths etc.
 
 ---
 
@@ -61,59 +40,36 @@ Now, these eight levels are condensed into **four pairs of mutual opposition**:
 
 ### [Upper Section]
 
-...to the one reality is "nature/principle" (*shō*, 性), being the profound principle of dharmas.
-3. **Shallow vs. Deep** (*sendin sōtai*, 浅深相対): Opened out within the preceding "principle." The Four Noble Truths and so forth are "shallow," their principle being comparatively accessible. The twofold emptiness and one reality are "deep," their principle being still more profound.
-4. **Expression vs. Intent** (*senshi sōtai*, 詮旨相対) [*Note: the annotation suggests "自" may be a scribal error for "旨"]: Opened out within the preceding. The twofold-emptiness suchness is the "expression" (*sen*, 詮), since it relies upon the gateway of the two no-self teachings to manifest dharma-nature. The one reality is the "intent" (*shi*, 旨), since [here] both mind and words are exhausted, and [the text] points directly at dharma-nature.
+...up to "one reality" are "nature/principle" (*shō*, 性) — as they are the deep principle of dharmas.
+(3) **Contrast of shallow and deep** (*senshindepth-sōtai*, 浅深相対): this is opened within the foregoing "principle." The Four Noble Truths etc. are "shallow" — their principle is somewhat shallow. The twofold emptiness and one reality are "deep" — their principle is still deeper.
+(4) **Contrast of expression and import** (*senshu-sōtai*, 詮旨相対) [Note: "自" may be a scribal error for "旨"]: this is opened within the foregoing (deep). The two-fold emptiness-suchness is "expression" (*sen*, 詮) — because it reveals the nature of dharmas (*dharmatā*, 法性) by way of the gate of the two forms of selflessness. The one reality is "import" (*shi*, 旨) — because both mental activity and verbal expression are exhausted, and it directly points to the nature of dharmas.
 
-To take blue color as an example, and to exhaust what is ultimately real in it, there are **four levels**:
-- To attach to it as substantially existent — the appearance arising before one's subjective mind — this is the **first conventional**. Since its intrinsic nature is entirely absent, we shall not discuss [the first conventional] for now.
-- The illusory blue color is the **second conventional / first ultimate**.
-- The principle of cause and effect within that color is the **third conventional / second ultimate**.
-- The suchness of the twofold no-self within that principle is the **fourth conventional / third ultimate**.
-- Abandoning the expression within that suchness and speaking of the intent (*shi*) — this is the **fourth ultimate**.
+To take the example of a single "blue color" and pursue its ultimate reality: there are four layers. Taking it as a real existent — this is the appearance arising from one's subjective projection, and this is the first conventional. (Since its substantial nature is entirely absent, we will not discuss it here.) That blue color [seen] as illusory is the second conventional / first ultimate. The principle of causation within that color is the third conventional / second ultimate. The *tathatā* (suchness) of the twofold selflessness within that principle is the fourth conventional / third ultimate. Within that suchness, setting aside expression and speaking of import — this is the fourth ultimate. All other dharmas follow the same pattern.
 
-All other dharmas follow this pattern. Turning toward a single sentient being: to attach to the apparent [self] as real, to attach to that person's form, smell, and so forth as real — these are, respectively, real self and real dharmas. These constitute the **first conventional**. The five aggregates [of that being], [understood as] illusory, are the **second conventional / first ultimate**. The remaining levels follow by analogy.
+Turning toward a single sentient being: we take the apparent one to be real; taking that person's form, scent, etc. to be real corresponds respectively to real self and real dharmas. This is the first conventional. That illusory collection of five aggregates is the second conventional / first ultimate. The remaining layers follow the same pattern.
 
-These five levels may be condensed into the **three natures** (*sansho*, 三性):
-- The first conventional is the **imagined nature** (*parikalpita*, 遍計所執性).
-- The three categories, the Four Noble Truths, and so forth are the **dependent nature** (*paratantra*, 依他起性). [*Annotation: As for the unconditioned and the twofold-emptiness suchness, we provisionally take the transformation of consciousness (識変) as the dependent nature.*]
-- The one-reality principle is the **perfected nature** (*pariniṣpanna*, 円成実性).
-
-Or they may be condensed into **phenomenon, principle, and suchness** (*ji, ri, nyo*, 事・理・如):
-- The five aggregates and so forth are "phenomenon" (*ji*).
-- Suffering, arising, and so forth are "principle" (*ri*).
-- The one reality is "suchness" (*nyo*).
-
-As for the twofold-emptiness suchness: discussed in terms of the transformation of consciousness, it is "principle"; discussed in terms of the original substrate, it is "suchness."
+These five layers, when bundled together, can be mapped onto the **three natures** (*trisvabhāva*): the first conventional is *parikalpita* (the imagined/imputedly-constructed nature, 遍計所執). The three categories, the Four Noble Truths, etc. are *paratantra* (the dependent nature, 依他起性) [*Note:* unconditioned dharmas and the two-fold emptiness-suchness are provisionally taken as *paratantra* in terms of consciousness-transformation]. The one reality-principle is *pariniṣpanna* (the perfected nature, 円成実性). Alternatively, they can be bundled into three: **phenomena** (*ji*), **principle** (*ri*), and **suchness** (*nyo*). The five aggregates etc. are "phenomena"; suffering and origination etc. are "principle"; one reality is "suchness." As for the two-fold emptiness-suchness: when discussing it in terms of consciousness-transformation (*shikihен*, 識変), it is "principle"; when speaking of its original substance (*honjichi*, 本質), it is "suchness."
 
 ---
 
-### The Three Natures of the Eight Consciousness-Groups (*hassō-ju sansho*, 八識聚三性)
+### The Three Natures of the Clusters (*isshu*, 聚) of the Eight Consciousnesses
 
-The **single group of the eighth consciousness**: throughout the causal stage (*in-i*, 因位), it is solely neutral and unobscured (*anivṛtāvyākṛta*, 無覆無記) — specifically, the retributive neutral (*vipāka-avyākṛta*, 異熟無記). It does not extend to any other nature whatsoever.
-
-The **single group of the seventh consciousness**: throughout the causal stage, it is solely obscured and neutral (*nivṛtāvyākṛta*, 有覆無記). It does not extend to any other nature whatsoever.
-
-The **single group of the sixth consciousness**: it extends to all three [natures]. At some times a single group is entirely wholesome (*kuśala*, 覆); at other times a single group is entirely unwholesome. Among the non-obscured [neutral mental factors], the four [kinds of] neutral [mental factors] should also be understood by analogy. The five sense consciousnesses, each as a single group, likewise extend to the three natures, and should be understood by analogy with the sixth consciousness. However, among the non-obscured [states], minds such as those of deportment (*iriyā-patha*, 威儀) probably cannot arise [in the five sense consciousnesses]. In general, the nature of all mental phenomena (*citta*) and mental factors (*caitasika*) within a single group must necessarily be the same. This is what is meant by the saying: "all associated dharmas necessarily share the same nature," and "actions (*karma*) are necessarily the same."
+The single cluster of the eighth consciousness, in the causal stage (*imii*, 因位), is entirely and solely neutral and unobscured (*anivṛtāvyākṛta*, 無覆無記) — specifically, the neutral maturation (*vipāka*, 異熟無記). It does not extend to any other nature (good or evil). The single cluster of the seventh consciousness, in the causal stage, is entirely and solely obscured-neutral (*nivṛtāvyākṛta*, 有覆無記). It does not extend to any other nature. The single cluster of the sixth consciousness extends through all three natures (wholesome, unwholesome, and neutral).
 
 ### [Lower Section]
 
-All pure (*anāsrava*, 無漏) mental phenomena and mental factors are entirely wholesome.
+At times the entire cluster [of the sixth consciousness] is obscured; at other times the entire cluster is unobscured. Among the unobscured, the four types of neutral [karma] should also be understood by analogy. Each individual cluster of the five sense consciousnesses likewise extends through the three natures and should be understood by analogy with the sixth consciousness. However, within the unobscured, minds of deportment (*igirojin*, 威儀路心) and the like probably cannot exist [in the five sense consciousnesses].
+
+In general, the mind (*citta*) and mental factors (*caitasika*) of a single cluster must invariably be of the same nature. The statement "all associated dharmas must be of the same nature" and the expression "actions and functions must invariably be the same" refer to precisely this. All unobscured (*anāsrava*) minds and mental factors are entirely wholesome.
 
 ---
 
-### Interaction of Attachment with the Eight Consciousness-Groups (*hassō-ju shūsōō*, 八識聚執相應)
+### Correspondence of the Eight Consciousnesses' Clusters with Attachment
 
-The groups of the **five sense consciousnesses** and the **eighth consciousness**: at all times they are entirely without attachment. The **single group of the seventh consciousness**: at all times it constantly has attachment — except in the pure stage (*murō*, 無漏). The **sixth consciousness**: at some times it has attachment, at other times it does not. In the pure [stage], it is entirely without attachment.
+The clusters of the five [sense] consciousnesses and the eighth consciousness are entirely free from attachment (*grāha*, 執) at all times. The single cluster of the seventh consciousness invariably has attachment at all times — except in the unobscured (*anāsrava*) [state]. The sixth consciousness sometimes has attachment and sometimes does not. All unobscured [states] are free from attachment.
 
 ---
 
-### Presence or Absence of the Eight Consciousnesses in the Nine Grounds (*hassō kyūji unmu*, 八識九時地有無)
+### Presence and Absence of the Eight Consciousnesses Across the Nine Temporal Stages (*kyūji*, 九時) and Grounds (*chii*, 地)
 
-The **seventh and eighth consciousnesses**: sentient beings throughout the three realms (*triloka*, 三界) and nine grounds (*bhūmi*, 九地) all possess them. Their associated mental factors (*caitasika*, 心所) are likewise without difference.
-
-The **sixth consciousness**: sentient beings throughout the three realms and nine grounds all possess it. As for its associated mental factors, there are differences depending on location:
-- Among the eleven wholesome [mental factors], the single factor of **pliancy** (*prasrabdhi*, 軽安) is absent in the desire realm (*kāmadhātu*, 欲界).
-- Among the six root afflictions (*kleśa*, 煩悩), the affliction of **aversion/anger** (*pratigha*, 瞋) is absent in the upper realms (form and formless realms).
-- Among the secondary afflictions (*upakleśa*, 随煩惱): the seven **minor secondary afflictions** [excluding *śāṭhya* (諂, dissembling), *māyā* (誑, deceit), and *mada* (憍, conceit)], and the **two middle secondary afflictions**, are absent throughout the three realms.
-- Among the minor [secondary afflictions], [the missing character] and the two dharmas of deceit (*māyā*, 誑) and dissembling (*śāṭhya*, 諂) are absent in the formless realm. [*Annotation: Deceit and dissembling extend through the form realm — the annotation suggests "与者" is an inversion — up to the first *dhyāna*, it seems.*]
+The seventh and eighth consciousnesses are present in sentient beings of all nine grounds of the three realms (*triloka*, 三界). Their associated mental factors are likewise invariant. The sixth consciousness is also present in sentient beings of all nine grounds of the three realms. However, regarding the associated mental factors, there are differences according to location. Among the eleven wholesome mental factors, the one factor of *pīti* / "mental pliancy" (*kyōan*, 軽安) is absent in the desire realm (*kāmadhātu*, 欲界). Among the six afflictions (*mūlakleśa*, 六煩悩), the affliction of "aversion" (*pratigha*, 瞋) is absent in the upper realms (the form realm and formless realm). Among the secondary afflictions (*upakleśa*, 随煩悩), the seven minor secondary [afflictions] [Note: excluding *śāṭhya* (dissimulation, 諂), *māyā* (deception, 誑), and *mada* (conceit, 憍)] and the two intermediate secondary [afflictions] are absent in all three realms. Of the minor secondary [afflictions], *māyā* (誑, deception) and *śāṭhya* (諂, dissimulation) are absent in the formless realm (*ārūpyadhātu*, 無色界). [Note: *māyā* and *śāṭhya* extend into the form realm — perhaps up through the first *dhyāna*.]

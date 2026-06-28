@@ -1,41 +1,35 @@
-【SENDAI-HAGI (Thermopsis lupinoides)】
-Herbalists say: Yaketsubō (Sendai-hagi)
-　　　　Sendai bush clover
+## 【Sendaihagi (Thermopsis lupinoides / Lupine-like Thermopsis)】
 
-Yamato Honzō says:
-　It is said that mokusetsu is probably Sendai-hagi, but this is incorrect.
-　Chikkinshō says the illustration of mokusetsu is completely different. It closely
-　resembles suimono grass.
+According to herbalists: Wild Juémíng (Sendaihagi)
+　　　Sendaihagi (Sendai bush clover)
 
-【Seal】Grass category
+According to *Yamato Honzō*:
+　It is suggested that mùxù (alfalfa/Medicago) might be Sendaihagi, but this is incorrect.
+　*Chikinsho* states: The illustration of mùxù is clearly a different plant; it resembles the plant called Yokusui-mono-kusa (a moisture-loving grass).
 
+【Seal】Grasses/Herbaceous plants
 
-Both species
-　Kinoe-Saru year, fifth month, eighth day
-　Painted from life
+Both varieties illustrated.
+　Kinoe-Saru year, [Shimotsuki month,] eighteenth day, painted from life.
 
+---
 
-【ENISHIDA (Cytisus scoparius, Scotch broom)】
-Imyō Bunruishō says:
-　Ketsubō (Enishida)
-　Chikkinshō: Enishida
-　Gunsho: reads as Enishida
+## 【Enishida (Scotch Broom / Cytisus scoparius)】
 
-Gunsho says:
-　Kinjakka (Enishida)　Needs investigation
+According to *Imyō Ruijushō*:
+　Juéming [read as: Enisuta]
+　*Chikinsho* gives the reading as Enisuta.
+　*Gunsho* reads it as Enshita.
 
-Yamato Honzō also says there are two types of ketsubō
-Is one type this? The two characters ketsubō (Enishida) are
-ketsubō. They are different things. It is rare to write ketsubō (ketsubō) as Enishida.
-In Wamyō Ruijushō there is the Japanese name "Ehisukusa."
-This is the autumn-blooming ketsubō. Later scholars should
-separate and consider these. Also, upon consideration, things called ketsubō
-are not limited to two types but are very numerous. In this section the language is complicated and
-does not come together clearly.
+In *Gunsho*:
+　Jīnquèhuā (金雀花) [read as: Enishida] — this should be investigated further.
 
+*Yamato Honzō* also states that there are two varieties of juéming (決明).
+　Is one variety this plant (Enisuta)? The two characters "決明" read as Enisuta — this is in fact ketsumei (a separate plant entirely). There is no book that records ketsumei (決明) as Enisuta. In the *Wamyō Ruijushō*, there is a Japanese name "Ebisukusa" (衣比須久佐). This is the ketsumei that blooms in autumn. This is a matter to be separately examined by later scholars. Furthermore, on reflection, there are far more than just two plants that bear the name "juéming/ketsumei" — they are exceedingly numerous. In this entry, the discussion has become too lengthy and cannot be exhaustively addressed here.
 
-Honzō Ikkagen says:
-　Enishida: The flowers resemble takagua (redama) and kinjakka
-　　I say:
-　　　Enishida and renju have the same name and are of the same type,
-　　　making them difficult to distinguish by their flowers
+According to *Honzō Ikkagen* (Personal Remarks on Materia Medica):
+　Enisuta (衛仁寸多): its flowers are said to resemble those of Redama (鷹爪/Genista) and Jīnquèhuā (金雀花/Kerria or Spartium).
+
+　　The author remarks:
+　　　Enisuta and Renju (連珠) belong to the same category by name,
+　　　but it is difficult to distinguish them by their flowers alone.

@@ -1,46 +1,58 @@
-【STRAWBERRY】
-According to Supplemented Tashiki Hen Vine Plant Section:
-　　　Fukubonshi (Covered Bowl Child)　Japanese name Kaufu-ri-ichigo, now examined as Kusa-ichigo (Grass Strawberry)　Supplementary alternative names: Kei (Book of Poetry), Ketsubon (same), Saikoku-gusa (Illustrated Classic)
-　　　　　　　Hireuka (same), Taibakubo, Sautenkou, Uhoushi (Compendium)
+## Raspberry / Strawberry (Ichigo / Fukubon-shi)
 
-According to Compendium of Materia Medica, berry types (cloudberry, apricot, raspberry, bramble, tree berry, mock strawberry) number about five varieties. Shizhen personally collected and examined them, finally obtaining accurate information. Many different theories from various schools are mostly unreliable. I say: although classified as five berry types by Shizhen, there are actually more than ten varieties. In China there may be five categories, which is puzzling. According to senior scholars' explanations, fukubon is the name for berry fruits.
+As stated in Zōho Tashiki-hen, Creeping Plants section:
+　Fukubon-shi (覆盆子, *Rubus* species) — Japanese name: Kōfuri-ichigo; upon investigation: Kusa-ichigo
+　Additional alternative names: Kei (茥) [Erya]; Ketsubon (鈌盆) [same]; Seikoku-sō (西国草, Western Province Grass) [Tujing (Illustrated Classics)]
+　　　　　　　　Hirōka (畢楞伽) [same]; Taibakobo (大麦苺, Great-Barley Berry); Sōtenhō (挿田藨, Field-Insert Berry); Uhōshi (烏藨子, Crow Berry) [Bencao Gangmu]
 
-Yamato Materia Medica records this plant as fukubon
-In Chikinsho it is called kenkoshi, worth investigating
-I record one variety of fukubonshi in photographs
-This is based on the diagrams in Chikinsho
-This plant follows Yamato Materia Medica
-The diagram in Wakan Sansai Zue greatly differs, but the explanation matches
+In the *Bencao Gangmu* (Compendium of Materia Medica), berry-type plants are listed as five species in total: [Penglei (蓬蘽) / Fukubon-shi (覆盆子) / Biāo (藨) / Tree Berry (樹苺) / Snake Berry (蛇苺)]. Li Shizhen himself collected and compared specimens for the first time and arrived at accurate identifications. The differing theories from various scholars are numerous, and none can readily be trusted.
+[Author Baien's note:] Even if one classifies berry-type plants into five species as Li Shizhen does, their actual varieties number over ten. In China (the Han lands), there may be five grades — this is uncertain. According to the theory of predecessors, "fukubon (覆盆)" is the name for the fruit of the berry plant.
 
-　2nd day of 3rd month, Hitsuji year
-　Faithfully copied
-　　　　　　　Fruit category
+In *Yamato Honzō* (Japanese Materia Medica), this plant is assigned to fukubon-shi.
+In *Chikinsho* (Landscape Garden Manual), it is assigned to kenkōshi (懸鈎子); this warrants further investigation.
+I (Baien) have depicted one species of fukubon-shi in my illustrated record.
+This is based on the illustration in *Chikinsho*.
+For this plant, I follow *Yamato Honzō*.
+The illustration in *Wakan Sansai Zue* (Japanese-Chinese Illustrated Encyclopedia) differs greatly, though the accompanying description agrees.
 
-【YEW, KARA, DOG NUTMEG】
-According to Yamato Materia Medica:
-　　Ichii tree (Yew)　　　　Kara tree (Kirabo)　Flowers are yellow-red, clustered like balls in one place, fruits are very small like thorns
+　　　2nd day of the 3rd month of spring, Mizunoto-Hitsuji (癸未) year
+　　　Copied faithfully
+　　　　　　　[Seal] Fruit-vine category
 
-According to Wakan Sansai Zue Fragrant Wood Section:
-　　Kara tree (Kyaraboku, Otsuko) common name
-　　　　Otsuko　Ainu name
-The indigenous people of Ezo Matsumae call it Otsuko. This tree has wood grain like aloes, so it is commonly called Kara tree.
+---
 
-18th day of 1st month, same year
-Garden sketch
+## Japanese Yew (Ichiinoki) / Kyara-boku / Inugaya
 
-Miscellaneous trees
+As stated in *Yamato Honzō*:
+　Ichiinoki (一位の木, *Taxus cuspidata*) — Kyara-boku (伽羅木)
+　　Flowers are yellow-red in color, resembling a ball, clustered together in one place.
+　　The fruit is [like a cluster], exceedingly small.
 
-　It is said that scepters are made from yew trees from Mount Kurai in Hida Province. According to Wamyo-sho, saku wood can be made into scepters.
+As stated in the Fragrant Woods section of *Wakan Sansai Zue*:
+　Kyara-boku (伽羅木 / キヤラボク; also called Otsuko) [common name]
+　　Otsuko (於豆古) [Ezo (Ainu) name]
+The indigenous people of Ezo (Hokkaido) and Matsumae call this tree "Otsuko." Since its grain resembles that of kyara (奇楠, agarwood), it is commonly called "Kyara-boku."
 
-Doso tree
-　Yew tree
-　Scepter tree
+　　　18th day of the 1st month of the same year
+　　　Sketched in the garden
 
-According to Dr. Matsuoka Joun's Materia Medica Independent Opinion:
-　Abotsusam　Bebegaya, Dog nutmeg (Inukaya)
-　　　　　Kara tree, also yew tree
+[Seal] Miscellaneous trees
 
-　In foreign language, this oil is called Horutokaruno oil, also called Asetona
+It is said that in Hida Province, on Mount Ichii, the wood of the ichiinoki is used to make ritual court batons (shaku). The *Wamyō Ruijushō* states: "The saku (柡) tree is suitable for making shaku."
 
-According to Toyoda Yokei's Shabenjo-roku:　Abotsusam　Bebegaya, Inukaya
-　　　　　　　　According to Wang's Detailed Annotations on Classified Garden: Abotsusam grows in Furin country, over one zhang tall, bark blue-white, leaves thin growing opposite in pairs resembling turnips, yellow seeds resembling black pepper in red color. When its branches are ground, the juice is like oil. Applied to scabies and ringworm, none fail to heal. This oil is extremely precious, worth a thousand gold pieces. Also appears in Curved Records Handbook. This is the Bebegaya tree of Goshu. Bebegaya, also called Dog-kaya, grows everywhere in the mountains. Mountain people extract oil for use by surgeons.
+---
+
+Dosso-boku (土穌木)
+　[Ichiinoki]
+　[Sakunoki]
+
+[As stated in Master Matsuoka Jokan's "Honzō Ikka-gen" (Personal Views on Materia Medica):]
+　Abotssan (阿勃参) — Bebékaya (辺々榧); Inugaya (狗榧, *Cephalotaxus*)
+　　　　　Kyara-boku; also: Ichiinoki
+
+　In a Western (barbarian) language, this oil is called "Portuguese oil." It is also called "Aceite-una (アセトウナ)."
+
+[As stated in Toyoda Yōkei's "Shabenhyoroku" (Notes on Materia Medica):]　Abotssan — [Bebékaya / Inugaya]
+
+　　　　　　Wang's *Huiyuan Xiangzhu* (Wang's Annotated Garden of Terms) states: Abotssan comes from the country of Furin (払林国, likely the Byzantine Empire or a Western land). It grows over one *jō* (approx. 3m) tall; the bark is greenish-white; the leaves are fine and face each other in pairs, resembling turnip greens; the seeds are bright yellow; the fruit resembles pepper and is red. When the branches are ground, the juice is oil-like; applied to scabies and ringworm, there is not one case that does not heal. This oil is extremely precious and its price equals a thousand gold pieces.
+　◦ It also appears in the *Kyokuseki Benran* (Reference Guide to Various Texts). The Bebékaya tree of Ōmi Province (江州, present-day Shiga Prefecture) is this plant. Bebékaya, also called Inugaya (*Cephalotaxus harringtonia*). It grows in various mountain locations. Mountain people press the oil from it, and it is used by surgeons (外科家).

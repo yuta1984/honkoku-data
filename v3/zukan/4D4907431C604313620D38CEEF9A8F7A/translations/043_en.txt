@@ -1,58 +1,65 @@
 ---
 
-## 【A Species of *Gumi* (グミ; *Elaeagnus*)】
+## 【Gumi (胡頽子; *Elaeagnus multiflora* / *Elaeagnus* spp.)】
 
 **According to the *Zoho Tashikiden* (増補多識編; *Expanded Nomenclature Compendium*), in the section on Shrubs (*Kanboku-rui*):**
 
-　　*Kotaishi* (胡頽子; *Elaeagnus*)　[Japanese name:] On investigation, *Kumi* / *Gumi* (久美)　[Alternative names:] *Rotoshi* (盧都子) [source: *Bencao Gangmu*]; *Hanganshun* (半含春; "half-open spring") [same source, expanded edition]; *Hotaishi* (蒲頽子) [source: *Bencao Gangmu*]; *Jakuniso* (雀児酥; "sparrow's butter") [source: *Paozha Lun* (炮炙論; *Treatise on Preparation of Medicinal Substances*)]; *Kōbadai* (黄婆嬭; "old woman's milk")
+　　*Kotaishi* (胡頽子; "Elaeagnus")　[Japanese name:] On further investigation: *Kumi* (*Gumi*)　[Alternative names:] *Rotoshi* (盧都子) [source: *Bencao Gangmu*]; *Hanganshun* (半含春; "half-open spring") [same source]
+　　　　　　　　　　　[Additional names in the expanded edition:] *Hotaishi* (蒲頽子) [source: *Bencao Gangmu*]; *Jakuniso* (雀児酥; "sparrow-child butter") [source: *Paozhi lun* (炮炙論)]
 
-[Seal: Medicinal Trees (薬木)]
+[Seal: Medicinal Wood (薬木)]
 
 ---
 
 **According to the *Yamato Honzō* (大和本草; *Japanese Materia Medica*):**
 
-　　*Kotaishi* (胡頽子; *Gumi*) — In common parlance throughout the country it is called *Higumi*.
-　　　　　　[The author states:] This is indeed the true *Nawashiro-gumi* (苗代グミ; "seedbed *Elaeagnus*").
-　　　　　　　　　　　　In the *Wamyō-shō* it is listed as *Moronari* (もろなり).
-
-**According to the *Honzō Wage* (本草和解; *Japanese Interpretation of the Materia Medica*):**
-
-　　*Sawa-gumi* (サワグミ; marsh *Elaeagnus*)
-　　　Farmers observe the ripening of this fruit to judge the appropriate time for preparing their seedbeds (*nawashiro*). For this reason it is called *Nawashiro-kotaishi* (苗代胡頽子; "seedbed *Elaeagnus*").
+　　*Kotaishi* (胡頽子) [*Gumi*] — in popular usage called *Higumi*.
+　　　　The author states: This is truly the "Nawashiro-gumi" (苗代グミ; "nursery-bed *Elaeagnus*").
+　　　　　　　The *Wamyō-shō* (和名抄) gives the name "Moronari."
 
 ---
 
-**The author's considered investigation states:**
+**According to the *Honzō Wage* (本草和解; *Vernacular Explanation of Materia Medica*):**
 
-　　Concerning *Sanshuyu* (山茱萸; *Cornus officinalis*; Japanese cornelian cherry): the *Honzō* (*Bencao*) also records that "its fruit ripens at the time of the seedbed preparation," and Chinese scholars have said "this is therefore *Sanshuyu*." However, the *Chikinsho* (地錦抄; *A Compendium of Garden Plants*) includes an illustration like this one and records it under the entry for *Nawashiro-gumi*. Whether *Sanshuyu* also ripens its fruit at the time of seedbed preparation — the truth of this matter regarding the present plant is not yet certain. Perhaps someone versed in horticulture might be able to explain it.
-　　[The description of] *Higumi* (胡頽子) in the *Yamato Honzō*: the tree grows to six or seven *shaku* in height; the branches are supple. The leaves resemble those of the pear (*nashi*) but are elongated and narrow; the upper surface is green and the underside is white. Flowers bloom in the first and second months; their form is like that of *chōji* (丁香; clove), and at their peak they droop downward — all of this accords well with the present plant. Whether *Sanshuyu* is also referred to as "*Nawashiro-gumi*" is a matter that should be inquired into.
-
----
-
-**According to the *Wamyō Ruijushō* (和名類聚抄):**
-
-　　*Kotaishi* (*Moronari*) — According to *Ba Wan*'s (馬琬) *Shokkyō* (食経; *Classic of Food*) and *Yōjō Hiyō* (養生秘要; *Secret Essentials of Nurturing Life*), and others:
-　　　　*Kotaishi* [Japanese name: *Kumi* (久美); also called *Moronari* (毛呂奈里)]　[Note: The *Honchō-shiki* (本朝式; *Regulations of the Court*) uses the three characters 諸生子 (*Shoseishi*)]
-
-　　Sketched from nature on the thirteenth day of *Kosen* (姑洗; third lunar month), year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
+　　*Sawa-gumi* (サハグミ; "marsh *Elaeagnus*")
+　　　　Farmers observe the ripening of this plant's fruit to know the time of year for making rice seedling beds (*nawashiro*). For this reason, it is called "Nawashiro-*Kotaishi*" (苗代胡頽子; "seedling-bed *Elaeagnus*").
 
 ---
 
-**It should be noted that the *Honzō Wage* states that the fruit of *Sanshuyu* is harvested in the ninth and tenth months. Although the mention that its fruit ripens at the time of the seedbed season is recorded as the basis of the name [and has been omitted here], the statement that it closely resembles *Kotaishi* suggests they may well be the same fruit.**
+**The author's investigation states:**
+
+　　The *Honzō* (本草; Materia Medica) also records, regarding *Sanshuyu* (山茱萸; Japanese cornelian cherry, *Cornus officinalis*), that "its fruit ripens at the time of making rice seedling beds," and people in China say "this is indeed the *Sanshuyu*." However, the *Chikinsho* (地錦鈔; a horticultural encyclopaedia) includes this illustration [i.e., the illustration of *Gumi*] and records it as "Nawashiro-gumi." Whether *Sanshuyu* also ripens its fruit at the time of *nawashiro* (seedling-bed preparation) — and thus whether this tree is truly one and the same — remains unclear. A certain expert in ornamental plants (*hanashoku no aruji*) has explained this matter.
+
+　　The *Yamato Honzō* states regarding *Kotaishi* (*Higumi*): the tree is six or seven *shaku* (approximately 180–210 cm) in height; the branches are supple. The leaves resemble those of a pear tree, being long and narrow. The upper surface of the leaf is green; the underside is white. The flowers bloom in the first and second months. The flower shape resembles that of *chōkō* (丁香; clove), and at its peak the flowers hang drooping — this description corresponds well with the present tree [observed here]. Whether *Sanshuyu* is also referred to as "Nawashiro-gumi" should be further investigated.
 
 ---
 
-## 【A Species of *Kaidō* (海棠; Crabapple / *Malus* sp.)】
+**According to the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Collected*):**
 
-　　*Kaitō* (海棠; crabapple)　[another variety]　　This is called *No-kaidō* (野海棠; "wild crabapple").
+　　*Kotaishi* (胡頽子; *Moronari*) — According to *Ba En*'s (馬琬) *Shokukyō* (食経; *Food Classic*), *Yōjō Hiyō* (養生秘要; *Secrets of Nourishing Life*), and other texts:
+　　　　*Kotaishi* — Japanese name: *Kumi* (久美); one text gives "Moronari" (毛呂奈里).
+　　　　　　[In the *Honchō-shiki* (本朝式; *Regulations of the Imperial Court*), the three characters 諸生子 (*Moronariko*) are used.]
+
+　　　　　　　　　　Sketched from nature, the thirteenth day of *Kosen* (third lunar month), year Kinoe-Saru (甲申) [Bunsei 7, 1824].
+
+---
+
+　　One should be aware that the *Honzō Wage* records that *Sanshuyu* "has its fruit harvested in the ninth and tenth months." Though the record that it "ripens at the time of rice seedling beds" is noted by that name, the statement that it "closely resembles *Kotaishi*" suggests that they may be one and the same fruit.
+
+---
+
+## 【Kaidō (海棠; Crabapple / *Malus* spp.)】
+
+　　*Kaidō* (海棠)　And another variety — this is called "Wild *Kaidō*" (*No-kaidō*; 野海棠).
 
 [Seal: Trees (木類)]
 
+---
+
 **According to the *Zoho Tashikiden* (増補多識編), in the section on Mountain Fruits (*Sankwa-rui*):**
 
-　　*Kaikō* (海紅; "sea-red")　[Japanese name:] On investigation, *Kaitō* (加伊多宇; *Kaidō*)　[Alternative name:] *Kaidō-nashi* (海棠梨; "crabapple pear")
+　　*Kaikō* (海紅; "sea-red"; crabapple)　[Japanese name:] On further investigation: *Kaitau* (*Kaidō*; 加伊多宇)　[Alternative name:] *Kaidōri* (海棠梨; "sea-crabapple pear")
 
-　　Sketched from nature on the sixteenth day of *Kosen* (姑洗), the same season (year *Kinoe-Saru*) [Bunsei 7, 1824].
+　　　　　　　　　　Same year (Kinoe-Saru), the sixteenth day of *Kosen* (third lunar month): sketched from nature.
 
 ---

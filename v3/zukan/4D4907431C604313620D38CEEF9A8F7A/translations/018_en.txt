@@ -1,96 +1,105 @@
-【KAIDO (Crabapple)】
-Yamato Honzō
-　Crabapple (Haitang)
+---
 
-　　In Jia Dan's Hundred Flowers Manual of the Tang dynasty,
-　　it is called the Immortal among flowers,
-　　and the people of China also call it
-　　the Noble Friend among flowers.
+## 【KAIDŌ — Crabapple / Flowering Apple (Malus species)】
 
-○According to Wakan Sansai Zue, Mountain Fruits section:
-　Haitang Pear　Haijang
-　Tang Chinese pronunciation:
-　　Haitanrii
+### From Yamato Honzō (Great Japanese Herbal):
+**Kaidō (海棠)**
 
-　　　　Generally, flowering trees named with the character "海" (sea/overseas)
-　　　　all came from overseas.
+In Tang Dynasty poet Jia Dan's *Hundred Flowers Manual (百花譜)*,
+it is called "the immortal spirit among flowers (花中の神仙),"
+and the people of China (Kaka / 華夏) also call it
+"the noble friend among flowers (花中の名友)."
 
-[Seal] Flowering Trees
+[Seal] Flowering Tree
 
-Copied on the fifth day after the full moon
-of Yayoi month, Mizunoe-Uma year
+〇 According to the *Wakan Sansai Zue* (Illustrated Encyclopedia of Japan and China), Mountain Fruits section:
+　Kaidō-nashi (海棠梨) — "Kaikō"
+　Tang Chinese pronunciation: Haitanrī (ハイタンリイ)
 
-According to Shen Li's Manual on Crabapple, only
-those of purple-brocade color are
-called Haitang (crabapple);
-the rest are merely pear-blossom flowers.
+　　　All flower or tree names containing the character "sea (海)"
+　　　have come from overseas.
 
+Copied on the fifth day after the first full moon of Yayoi (third month), Mizunoe-Uma year.
 
-Ju says:
-　What is called crabapple flower in the world refers to what is depicted in
-　illustrations. Its flowers are pale red and
-　said to resemble apple blossoms—these are called crabapple.
-　Those with short stems and large flowers, with blossoms of deep and
-　pale red, and long red stems that droop downward, are called
-　Weeping Crabapple (Suishi Kaido), considered the finest
-　of all crabapple flowers. There is also another variety called Du Zimei
-　Crabapple, known colloquially as Small Apple (Ko-ringo).
-　Its flowers are pale red to pink-white, and it bears
-　an abundance of fruit. There is yet another variety called
-　Xifu Crabapple. Crabapples that have been introduced in
-　recent times generally do not bear much fruit.
+According to Shen Li's *Treatise on Kaidō (海棠の譜)*:
+　Only the variety of purple-brocade color is truly called "kaidō (海棠)";
+　the rest are merely the flowers of the tō-nashi (棠梨, wild pear).
 
+---
 
-【KAEDE (Maple)】
+The author (Baien) states:
+　What the world calls the "kaidō flower" is the variety depicted here in the illustration.
+　Its flowers are pale red (淡紅色), and the variety said to resemble the apple (林檎) is called
+　"kaidō." Its stems are short and its flowers large. The variety whose flowers
+　range from deep to pale red, with long red stems that hang downward,
+　is called *Suishi-kaidō* (垂糸海棠, "Weeping-thread kaidō") and is considered
+　the finest of all kaidō flowers.
+　There is also a variety associated with Du Zimei (杜子美, the poet Du Fu),
+　known popularly in Japan as "ko-ringo (small apple / 小林檎)."
+　Its flowers are pale red or pink-white, and it bears a great abundance of fruit.
+　There is yet another variety called *Seifu-kaidō* (西府海棠).
+　Kaidō varieties that have been imported in recent times generally do not bear much fruit.
 
-According to Honzō Ikkagen:
-　Qi (榿)　also known as Ki (機)　Kaete (訶恵底)　Autumn red leaves (Momiji)
+---
 
-　Cockscomb Tree (Keikanji)
-　　　　According to Tashiki:
-　　　　　Japanese name: Kaite (加伊天)
+## 【KAEDE — Japanese Maple (Acer species)】
 
-　　　Copied in Kisaragi (Yayoi) month,
-　　　Mizunoe-Uma year, by Rokucho
+According to *Honzō Ikke-gen* (One School's Words on Materia Medica):
+　*Ki* (榿) — alternate name: *Ki* (機)　 *Kaete* (訶恵底)　 Red Leaves (紅葉)
 
-There are several varieties of Qi (榿), including the Maple (楓樹).
-◦ The Chinese maple is a distinct species, and their
-leaves are all different. The Japanese maple (楓樹) is
-rare in Japan; there is a large tree at Mt. Nikkō.
-In Edo, there is a large tree at the nursery
-Gunpōen.
-It has not been seen elsewhere.
+　　Keikanju (雞冠樹 / Maple)
+　　　　According to *Tashiki* (多識):
+　　　　　Japanese name: *Kaite* (加伊天)
 
-[Seal] Garden Trees
+　　Mizunoe-Uma year, Koshin (third month, archaic reading),
+　　Copied on the sixth day from life.
 
-According to Wakan Sansai Zue, Aromatic Trees section:
-　Cockscomb Tree (Kaede; Tang Chinese pronunciation: Momiji)
-　　Cockscomb Tree
-　　　　Man'yōshū: Frog-hand (Kaede) Tree
-　　　　Japanese name: Kabetenomizu　also called: Kahirutenoки
-　　　　　　　Commonly known as Momiji (毛美知)
-　　According to the Bencao Gangmu, the Cockscomb Tree has several varieties; the leaves have pointed lobes
-　　resembling the hand of a frog.
-　　Generally having seven or eight lobes, sometimes nine; those with thirteen leaves
-　　are called Jūni Hitoe (Twelve Single-layer).
+---
 
-Yamato Honzō
-　　　　Ki-no-ki (Kaede)
-　　　　　　Cockscomb Tree
-　In Japan, the character 楓 (fū/kaede) is mistakenly read as "Kaede."
-　In the Junnwamyō, the Cockscomb Tree (鶏冠木) is read as "Kaede."
-　It is also called "Kaerute." Its leaves
-　resemble the hand of a frog.
+*Ki* (榿, Maple) has several varieties. As for the *fūju* (楓樹, Chinese sweet gum/liquidambar):
+　・ The Chinese maple (唐楓) is an entirely different species, with leaves quite unlike the others.
+　The *fūju* is rare in Japan; there is a large tree on Mount Nikkō.
+　In Edo, the nursery and plant dealer "Gunpōen (群芳園)" also has a large tree.
+　Other than these, the author has not yet seen any elsewhere.
 
-[Seal] Garden Trees
+[Seal] Garden Tree
 
-According to Wamyō Ruijushō:
-　Cockscomb Tree (Kaede-no-ki)
-　　　According to Yōshi Kangoshō: Cockscomb Tree　Kabetenoki
-　　　According to Benshoku Rissei: Cockscomb Tree (鶏頭樹)　Kahirutenoki
-　　　Upon reflection, these are all names for the same tree.
+---
 
-Man'yōshū (Collection of Ten Thousand Leaves):
-　Each time I see the maple turning red in my garden,
-　　　　　I cannot help but think of my beloved,
-　　　　　　　longing for her without end.
+According to the *Wakan Sansai Zue*, Aromatic Trees section:
+　《Keikanboku (雞冠木) — read *Kaete*; Tang Chinese pronunciation: *Momichi* (モミチ)》
+　　Keikanju (雞冠樹)
+　　　　In the Man'yōshū: Kaetemoku (蝦蟇手木, "Frog-hand tree")
+　　　　Japanese name: *Kabete-no-ki* (加倍天乃木)　Alternate: *Kabirute-no-ki* (加比留提乃木)
+　　　　　　Commonly known as *Momichi* (毛美知, i.e., Momiji / 紅葉)
+　　According to the *Bencao Gangmu* (本草綱目, Compendium of Materia Medica):
+　　Keikanboku has several varieties; its leaves have pointed lobes like a frog's hand.
+　　They generally divide into seven or eight lobes, sometimes nine,
+　　and those with thirteen leaves are called "jūni-hitoe (十二一重, twelve-layered)."
+
+---
+
+*Yamato Honzō* states:
+　　*Kabete* (機木)
+　　　　Keikanboku (鶏冠木)
+
+　In Japan, the character "楓 (*fū*)" is mistakenly read as *kaete*.
+　In the *Wamyō Ruijū-shō*, "雞冠木" is read as *kaete*,
+　and it is also called *kaerute*. This is because its leaves resemble
+　the hands of a frog (*kaeru* / 蛙).
+
+[Seal] Garden Tree
+
+---
+
+According to the *Wamyō Ruijū-shō*:
+　《Keikanboku — read: *Kaete-no-ki*》
+　　Yōshi Kango-shō states: Keikanboku — *Kabete-no-ki* (加倍天乃木)
+　　Benshoku-rissei states: Keitōju — *Kabirute-no-ki* (加比留提乃木)
+　　The author's note: These are all names for the same tree.
+
+---
+
+From the *Man'yōshū* (Collection of Ten Thousand Leaves):
+　　Each time I see in my garden the maple (*kaede*) turning crimson (momijiru),
+　　　　　there is not a moment I do not think of you, my love, and yearn for you.

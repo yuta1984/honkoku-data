@@ -1,71 +1,62 @@
----
+## 【Niwatoko (Japanese Elderberry / Sambucus racemosa)】
 
-【Niwatoko (Japanese Elderberry / *Sambucus racemosa*)】
+**According to Yamato Honzō:**
+　Flowers of Tatsunoki (接骨木, elder tree)
+　　　　According to Chikinsho:
+　　　　　Ganboku
+　　　　　Niwatoko
 
-According to Yamato Honzō:
-　Flower of Setsukotsu-boku (椄骨木; Tatsunoki)
-　　　　　　According to Chikinkishō:
-　　　　　　　Ganboku
-　　　　　　　　Niwatoko
+**According to the Supplemented Tashiki-hen, section on Shrubs (灌木類):**
+　Sekkotsuboku (接骨木)
+　　Japanese name: Miyatsukoki (美也豆古幾); now called Ganboku (加牟保久)
+　　Additional alternative names: Zokukotsuboku (続骨木, from Bencao Gangmu); Moku Sakuteki (木蒴藋)
 
-According to the Supplemented Tashiki-hen, section on Shrubs (灌木類):
-　Setsukotsu-boku (椄骨木)
-　　Japanese name: Miyatsukoki (美也豆古幾); now commonly called Ganboku (加牟保久)
-　　Additional alternative names: Zokukotsumoku (続骨木) — from Bencao Gangmu (綱目); Mokusакuteki (木蒴藋)
-
-Copied hastily at the Ugan (雨庵) studio on the 25th day of Kosен (third lunar month), year Mizunoto-Hitsuji (癸未, 1823)
+Hastily copied at Uaan on the 25th day of Kosen (third lunar month), in the year Mizunoto-Hitsuji (癸未, 1823)
 [Seal] Miscellaneous trees (雑木)
 
-According to Wamyō Ruijushō:
-　Setsukotsu-boku (椄骨木) — Japanese name: Miyatsukoki
+**According to Wamyō Ruijushō:**
+　Sekkotsuboku (接骨木), read as Miyatsukoki
 
-According to Honzō (Bencao):
-　Setsukotsu-boku
-　　Japanese name:
-　　　Miyatsu
-　　　Koki
+**According to Honzō (Bencao):**
+　Sekkotsuboku
+　　Japanese name: Miyatsukoki (美夜都古木)
 
-According to Chikinkishō: Sakutō (蒴藋) is the tree commonly called Niwatoko. Its leaves resemble those of Riku'ei (陸英). Judging from the descriptions of its flowers and fruit, this identification is correct. The Bencao Gangmu states: "The leaves resemble those of Riku'ei; the tree grows one to two jō tall, and its body is light, hollow, and without a core (pith)." Riku'ei and Sakutō are originally the same species, but have been mistakenly treated as two. To read the leaves as Sakutō and the flowers as Riku'ei, as Sū Sòng told Lǐ Shízhēn, is an error. Riku'ei is a herb that grows from its perennial roots in spring, whereas Sakutō is a tree that grows larger year by year. △
+**According to Chikinsho:**
+Sakuchō (蒴藋) is the tree commonly known as Niwatoko. Its leaves resemble those of Rikuei (陸英, dwarf elder). Judging from the description of its flowers and fruits, it corresponds to this plant. According to the Bencao Gangmu: "The leaves resemble those of Rikuei; the tree reaches one or two jō in height, the wood is light, hollow, and without pith." It further states that Rikuei and Sakuchō are in fact the same species, but have been erroneously classified as two different species; the leaves are called Sakuchō and the flowers Rikuei — this interpretation passed down from Su Song to Li Shizhen is incorrect. Rikuei is an herb that grows from perennial roots in spring, whereas Sakuchō is a tree that grows larger year by year. △
 
-△ Both illustrations in the present record [this document] match this very well. However, the Yamato Honzō states: "Sakutō and Setsukotsu-boku (Tatsunoki) have the same leaves; the only difference is that one is a herb and the other a tree." Hence the name "Kusa-tatsu" (草タツ; herbaceous Tatsu). Even in the Wamyō Ruijushō, Setsukotsu-boku and Sakutō are listed separately, leading to considerable confusion. It is difficult to judge which is correct and which is wrong. The Sansai Zue states: "This tree has the virtue of mending injuries from fractures and reconnecting sinews and bones, hence its name [Setsukotsu-boku, 'bone-joining tree']."
+△ [Note] Furthermore, the two illustrations in the present work accord well with each other. However, Yamato Honzō states: "The leaves of Sakuchō and Sekkotsuboku (Tatsunoki) are identical; the only difference is that one is an herb and the other a tree." For this reason it is also called "Kusa-Tatsu" (草タツ, herb-Tatsu). The Wamyō Ruijushō likewise lists Sekkotsuboku and Sakuchō as separate entries, causing considerable confusion. It is difficult to determine which interpretation is correct and which is in error. The Sancai Tuhui states: "This tree has the virtue of mending broken bones and reconnecting sinews, and it is from this property that it takes its name (接骨木, 'bone-joining tree')."
 
 ---
 
-【Possibly Inuzansho (Wild pepper / *Zanthoxylum* sp.)】
+## 【Inu-Zansho / Shoku-shō (Sichuan Pepper varieties)】
 
-Flower of Shukushō (蜀椒; Sichuan pepper)
+**Flowers of Shoku-shō (蜀椒, Sichuan pepper / Zanthoxylum)**
 　　Shokkyō:
-　　　Shinshō (秦椒; Qin pepper)
-　　Japanese name: Fusahajikam
+　　　Shinshō (秦椒, Zanthoxylum bungeanum)
+　　Japanese name: Fusahajikani
 
-According to Honzō Wage:
-　　Alternative names: Bashō (巴椒)　Kanshō (漢椒)　Senshō (川椒)
-　　　　　　　南椒 (Nanshō)　Tōgi (蓎薿)　Tenshō (点椒)
-　　Japanese names: Naruhajikam (奈流波志加美)
-　　　　　　　　　Asamurasamu (安左久良佐武)
-　　　　　　　　　Shō (世宇)
+**According to Honzō Wage:**
+　　Alternative names: Ha-shō (巴椒) · Kan-shō (漢椒) · Sen-shō (川椒) · Nan-shō (南椒) · Tōgi (蓎薿) · Ten-shō (点椒)
+　　Japanese names: Naruhasikani (奈流波志加美)
+　　　　　　Asamurasamu (安左久良佐武) [possibly Asamurasaki]
+　　　　　　Shō (世宇)
 
-Shinsen (秦川), Kan (漢), Ha (巴), and Shoku (蜀) are all place names (states/regions). According to Yamato Honzō: "Ordinary sansho is called Binshō in Tanba. Asakura-sansho differs in its leaves from the ordinary variety, has no thorns, and has an especially fine fragrance. As for Shukushō (蜀椒) and Shinshō (秦椒): because they grow in the states of Shu (蜀) and Qin (秦), they are thought to be different; yet they are the same species, differing only in size. The varieties of sansho are exceedingly numerous."
+Shinsen (秦川), Kan (漢), Ha (巴), and Shoku (蜀) are all names of regions. According to Yamato Honzō: "Ordinary sanshō in the Tanba region is called Binshō (ビンセウ). Asakura-sansho differs from ordinary sansho in its leaves, has no thorns, and is especially fragrant. Shoku-shō and Shin-shō are thought to be different plants because they grow in the countries of Shu (蜀) and Qin (秦), but they are in fact the same species, differing only in size." The varieties of sanshō are exceedingly numerous.
 
-[Seal] Fruit-bearing trees (果木類)
-Copied at the Kan'utei (閑雨亭) studio, same season, same spring
+[Seal] Fruit trees (果木類)
+Copied at Kanūtei in the same season (spring)
 
-According to Wamyō Ruijushō:
-　　Shukushō (蜀椒): Sū Jìng's commentary to the Bencao states, "Shukushō is read with the sound Shō (蕭?)."
-　　　　Japanese name: Naruhajikam (奈流波之加美)
-　　　　　　　　　　　Fusahajikam (不佐波之加美)
+**According to Wamyō Ruijushō:**
+　Shoku-shō (蜀椒) — According to Su Jing's commentary in Honzō: "The pronunciation of 蜀椒 is Shō (蕭)"
+　　　　Japanese names: Naruhasikani (奈流波之加美)
+　　　　　　　　　　　Fusahasikani (不佐波之加美)
 
-According to Jiuhuang Bencao (救荒本草):
-　　Shōju (椒樹; pepper tree) / Shukushō (蜀椒)
-　　　　One name: Nanshō (南椒)
-　　　　One name: Bashō (巴椒)
-　　　　One name: Tōgi (蓎藙)
+**According to Jiuhuang Bencao (救荒本草):**
+　Shōjū (椒樹, pepper tree) = Shoku-shō; also known as Nan-shō (南椒), Ha-shō (巴椒), and Tōgi (蓎藙)
 
-According to the Supplemented Tashiki-hen, section on Flavors (味類):
-　Shinshō (秦椒)
-　　Japanese name: Kawahihajikam (加波〔和〕ヒ波志加美); now commonly referred to in vernacular as Samusō (左牟世宇)
-　　Alternative names: Daishō (大椒) — from Erya (尓雅); ■ Kashō (花椒); Kitsushō (橘椒) — from Wamyō
-　　Upon examination, it is also known as Yusamushō (由左牟世宇).
-　　The same book lists Shinshō (秦椒) and Shukushō (蜀椒) separately; however, since the Japanese names and alternative names for Shukushō are the same as those recorded in the entry above, they are omitted here.
-
----
+**According to the Supplemented Tashiki-hen, section on Flavors (味類):**
+　Shin-shō (秦椒)
+　　Japanese name: Kawahi-Hasikani (加波比波志加美); nowadays in common parlance called Samu-shō (左牟世宇)
+　　Alternative names: Daishō (大椒) — from Erya (尓雅); Kakashō (花椒); Kitsu-shō (橘椒) — from Wamyō
+　　Note: Also referred to as Yusamu-shō (由左牟世宇).
+　　The same book (Supplemented Tashiki-hen) lists Shin-shō (秦椒) and Shoku-shō (蜀椒) as separate entries; however, since the Japanese and alternative names for Shoku-shō are identical to those recorded in the preceding entry (Shin-shō), they are omitted here.

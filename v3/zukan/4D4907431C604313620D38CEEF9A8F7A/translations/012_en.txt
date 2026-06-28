@@ -1,53 +1,55 @@
-【FUKUJUSŌ (Amur Adonis / Pheasant's Eye)】
+---
 
-New Year's Day of the Bunsei Mizunoe-uma year (1822), first writing of the year
-Painted from life at the snow-lit window
+## 【FUKUJUSŌ (Pheasant's Eye / *Adonis amurensis*)】
 
-According to Yamato Honzō:
-　Fukujusō — also called "Fukuduku-sō"
-　　　　　　　　and "Ganjitsu-sō" (New Year's Day Herb)
+Written on New Year's Day of the Bunsei Mizunoe-uma year (1822), as the first brushwork of the year.
+Faithfully copied at the snow-lit window (Sessō).
 
-　　As recorded in various books:　Hōshunkyoku (報春菊) 〈Chinese name〉
-　　　Another name:　Saikyoku (歳菊, "year's chrysanthemum")
-　　　Also:　Kensaikyoku (献歳菊, Fukujusō) 〈Taiwan Fūzhi〉
+From *Yamato Honzō*:
+　Fukujusō — also called Fukuduku-gusa
+　　　　　　 Also known as Ganjitsu-gusa (New Year's Day Grass)
 
+　　　As recorded in various books: Hōshunkyoku (報春菊) — Chinese name
+　　　　Alternative name: Saikyoku (歳菊, "Year's Chrysanthemum")
+　　　　Also: Kensaikyoku (献歳菊, "Chrysanthemum offered at New Year") 〔*Taiwan Fuzhi*〕
 
-According to Seijō Monkenroku:
-　　Setsuren (雪蓮, "snow lotus") — [used to refer to Fukujusō]
+According to *Xicheng Wenjian Lu*:
+　　　Xue Lian (雪蓮, "Snow Lotus") — [refers to Fukujusō]
 
 ---
 
-【UME (Japanese Plum/Apricot)】
+## 【UME (Japanese Plum / *Prunus mume*)】
 
-As recorded in Wakan Sansai Zue, under the category of "Five Fragrant Fruits":
-　　Ume (梅; Tang Chinese pronunciation: Mui) 　[variant character for sound] 枝; 槑 [archaic character]
-　　　　　　Japanese name: Uma (宇女)
-　　　　　　Now also called "Mume" (牟女)
+As recorded in the Gokōka (Five Fragrant Fruits) section of *Wakan Sansai Zue*:
+　Ume (Japanese reading), Tang Chinese reading: Mui　〔phonetic gloss: zhī〕　槑 〔archaic character〕
+　　　Japanese name: Umetsu (宇女)
+　　　Currently also written/read as: Mume (牟女)
 
+According to *Sancai Tuhui*:
+There are four things to prize in the plum: prize rarity, not abundance; prize age, not youth; prize leanness, not fatness; prize the bud, not the open bloom.
 
-According to Sancai Tuhui:
-The plum tree has four qualities worthy of admiration: rarity is prized over abundance; age is prized over youth; slenderness is prized over stoutness; the bud is prized over the open bloom.
+○ According to *Helin Yulu*: In antiquity, the plum was valued for its fruit, and the beauty and fragrance of its flower were not spoken of. It was only from the Song dynasty onward that it began to be celebrated in poetry and prose.
 
-○ According to Helin Yulu: In ancient times, people praised the plum's fruit and fragrance, without speaking of the beauty of its flowers. It was not until the Song dynasty that it came to be celebrated in poetry and prose.
+○ In our country (Japan), in ancient times, when people said "flower" (hana), they meant the plum. Since the mid-Heian period, when people say simply "flower," they mean the cherry blossom.
 
-○ In Japan, in ancient times when people said "flower" (hana), they meant the plum; but since the middle ages, when people say simply "flower," they mean the cherry blossom.
+○ According to *Shoku Nihongi*: In the seventh month of the tenth year of Emperor Shōmu's Tenpyō reign (738), the Emperor pointed to the plum tree before the palace hall and said: "Since last spring, I have wished to appreciate this tree, but have not yet had the opportunity to enjoy it." He therefore commanded the men of letters each to compose a verse on the plum tree, and thirty men of letters all composed poems expressing the spirit of spring.
 
-○ According to Shoku Nihongi: In the seventh month of Tenpyō 10 (738 CE), Emperor Shōmu pointed to a plum tree in front of the palace and said: "Since last spring I have wished to admire this tree, yet I have not had the opportunity to enjoy it." He then commanded thirty scholars each to compose a poem on the plum tree, and all composed verses on the theme of spring:
+> *Haru no yo no / yami wa ayanashi / ume no hana*
+> *Iro koso miene / ka ya wa kakururu*
+>
+> (The darkness of a spring night is meaningless — though the color of the plum blossom cannot be seen, can its fragrance truly be hidden?)
 
-　　　　　　　Spring night's darkness — how unreasonable!
-　　　　　　　The plum blossoms' color cannot be seen,
-　　　　　　　Yet can their fragrance ever be hidden?
+---
 
-[Category: Flowering Tree]
+【Flowering Tree】
 
-The Baekje scholar Wang In praised the plum, calling it "this flower" (kono hana). Lord Sugawara no Michizane cherished the plum all his life and left behind the legend of the "Flying Plum" (Tobi-ume). From the words of the Jin dynasty Jijū-chū comes the name "Kōbunboku" (tree of literary refinement). From the poem of Tachibana no Naomoto comes the name "Ōshuku-bai" (plum where the warbler lodges). From the poem of Saigyō comes the name "Tomekokaishi no ume" (the plum one wishes would come to stay). Such examples are too numerous to list in full.
+Wang Ren of Baekje referred to the plum as "this flower." The god Sugawara (Sugawara no Michizane) always cherished the plum, leaving behind the name "Tobiume" (Flying Plum). From the words of the *Jǐjū* of the Jin dynasty came the name "Kōbunboku" (Tree of Literary Refinement). From the poem of Tachibana no Naokane came the name "Ōshuku-bai" (Plum where the warbler lodges). In the poems of Saigyō appears the plum of "Come and find me" (*tomeko kashi*). Such examples are too numerous to enumerate.
 
-According to Yamato Honzō, as recorded in the Baigo (Plum Catalogue) section:
-　Those growing in the wild that have not yet been
-　grafted or transplanted are called
-　"Kōbai" (江梅, "river plum") or
-　"Chokkyaku-bai" (直脚梅, "straight-stemmed plum").
-　Some also simply call these "Yabai" (野梅, "wild plum").
+According to *Yamato Honzō* 〔as recorded in the Baiko (Plum Section)〕:
+　Those growing wild that have not yet undergone cultivation or grafting
+　　are called "Kōbai" (江梅, river plum), and also
+　　named "Chokkyaku-bai" (直脚梅, straight-legged plum).
+　　Sometimes these are called simply "Nobai" (野梅, wild plum).
 
-Wild Plum (Yabai)
-　　Middle ten days of the intercalary first month, Mizunoe-uma year
+Wild Plum (Nobai)
+　　Middle ten days of the intercalary first month, Mizunoe-uma year (copied)

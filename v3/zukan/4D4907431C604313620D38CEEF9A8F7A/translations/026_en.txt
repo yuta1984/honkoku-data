@@ -1,59 +1,79 @@
-【FUKI (Butterbur, Petasites japonicus)】
+## 【FUKI (Japanese Butterbur / *Petasites japonicus*)】
 
-From the Zōho Tashikihen (Supplemented Encyclopedia of Natural History), section on Marsh Grasses:
-　Coltsfoot Flower (kantōka)
-　Japanese names:
-　　Yamabuki; also called "Ōha (large-leaved)." Upon investigation, also called "fuki." Further investigation reveals that since the water-growing variety bears the name "mizufuki (water butterbur)," the land-growing coltsfoot is called "yamabuki (mountain butterbur)." There is also a separate species whose flower resembles the Cherokee rose (Naniwa-ibara), which is also called "yamabuki," but although the Japanese names are the same, they are entirely different plants. The ancients frequently composed poems about its flowers in the Man'yōshū, borrowing the characters (山吹, yamabuki) merely for that purpose — it was not meant to equate the Cherokee rose-like plant with coltsfoot. The Man'yōshū contains no small number of such borrowed characters, and later generations failed to distinguish between them. That Kintō (Fujiwara no Kintō) included coltsfoot in his Rōei collection is already an error, let alone the case with other poems.
-　　　　Alternative names are listed in the relevant entry and are not recorded here.
+From *Zōho Tashikihen* [Expanded Identification Compendium], Wetland Herbs section:
 
-From Honzō Wagai (Herbal Commentary in Japanese):
-　Coltsfoot Flower (Kantōka)
-　　Alternative names: Kantō, Kadō, Shitō, Santō, Tokei-dakugo (莵奚槖吾), Koshu (虎鬚, Tiger's Whiskers)
-　　Japanese name: Fukinotō (butterbur sprout)
+**Kuǎndōng huā** [Coltsfoot Flower]
 
-【Seal】Medicinal herb
-【Seal】Vegetable category
+Japanese name: Yamabuki (also called Ōhoba). Upon investigation, it is called Fuki. Further investigation reveals that, in the yellow-flowered varieties, there is the name Mizufuki; hence, the款冬 (coltsfoot) that grows on dry upland (kurochi) is called Yamabuki. There is also a separate species whose flowers resemble the tea rose (*Tūmí* / Naniwa-ibara), which is likewise called Yamafuki. These two plants share the same Japanese name but are different species. Ancient poets frequently composed verses about its flowers in the *Man'yōshū*, and on those occasions simply borrowed the Chinese character for their phonetic value; this was never intended to identify the tea-rose-like plant as coltsfoot. Borrowed characters in the *Man'yōshū* are by no means rare, yet later scholars have failed to distinguish this. The inclusion of coltsfoot in Fujiwara no Kintō's *Rōei* [Anthology of Recitation Poems] is already in error — how much more so the other poems that reference it.
 
-From Wamyō Ruijūshō (Japanese Names Encyclopedia):
-　Fuki (蕗)
-　　From Cui Yushi's Shokukyō (Food Classic):
-　　Fuki is read with the sound "ro (路)"; Japanese name is "fufuki."
+　　Alternative names are recorded in the relevant entry and therefore not repeated here.
 
-Transcribed faithfully on the 7th day of Kyōshō (2nd lunar month), Mizunoto-Hitsuji year of Bunsei 6 (1823).
+From *Honzō Wage* [Japanese Explanation of Materia Medica]:
 
+**Kuǎndōng huā** [Coltsfoot Flower]
+
+　Alternative names: Kuǎndòng, Kěduǒ dōng, Shìdōng, Zuāndòng
+　　　　　　　　　 Tùxī tuógú (Tokei Dakugo), Hǔxū (Koshu / Tiger Whiskers)
+　Japanese name: Fukinotō (Fuki flower bud)
+
+【Seal: Medicinal Herb】
+【Seal: Vegetable Category】
+
+From *Wamyō Ruijushō* [Japanese Names Classified Dictionary]:
+
+　Lù (Fufuki)
+　From Cuī Yǔxī's *Shíjīng* [Food Classic]:
+　"Lù — pronunciation: Lù; Japanese name: Fufuki"
+
+Copied true-to-life on the seventh day of the second month (Kyōshō), Bunsei sixth year, Mizunoto-Hitsuji (1823).
 
 ---
 
-【SUGI (Japanese Cedar, Cryptomeria japonica)】
+## 【SUGI (Japanese Cedar / *Cryptomeria japonica*)】
 
-From Zōho Tashikihen, section on Fragrant Woods:
-　Sugi (杉, cedar)　Japanese name: sugi
-　Alternative names: San (煔, same sound as 杉)　Sha-boku (沙木)　Kei-boku (檠木, pronounced "kei")　Tan-choku-boku (丹桎木, "桎" pronounced "choku/jiki")
+From *Zōho Tashikihen*, Fragrant Woods section:
 
-From Yamato Honzō (Japanese Herbal):
-　Cedar Flower (Sugi no hana)
-　　Cedar is called "sugi" because the tree grows straight (sugu/suku).
-　　"Sugi" derives from "suku," meaning "to be straight/upright."
+**Shān** [Cedar] (San)　Japanese name: Suki (Sugi)
 
-From Wamyō Ruijūshō:
-　Sugi (cedar)　According to Erya Yinyi (Pronunciation and Meaning of the Erya), "sugi" (杉) is pronounced "san" (衫), with an alternate reading of "sen" (繊). Japanese name: "suki."
-　　Found in private commentaries on the Nihon Shoki. Upon investigation, the vulgar practice of using the character 榲 is incorrect (榲 being read as a fanqie of "matsu/shō," yielding "kei"). This is found in the Tōin (Tang rhyme dictionary).
-　　It resembles pine and grows in Jiangnan; suitable for use as shipbuilding timber.
+Alternative names: Shān (San) [pronunciation: Sugi]; Shā mù [Sand Wood] (Shamoku) [from *Bencao Gangmu*]
+　　　　　　　　Qíng mù (Keimoku) [pronunciation: Jìng]; Dān zhì mù (Chokumoku) [pronunciation of 桎: Zhí]
 
-　　Bunsei 7 (甲申), 7th day of Kosen (3rd lunar month).
-　　One branch plucked from the garden grove — faithfully copied while gazing through the rain.
+---
 
-From Nampō Sōmokujō (Flora of the Southern Regions), section on Trees:
-　Cedar — also called "Hisan (披煔)."
+From *Yamato Honzō* [Japanese Materia Medica]:
 
-The cedar is a tree that grows straight and upright. As a symbol of uprightness and integrity, it has long been revered as a sacred tree (shinboku) in Japan. While there are other trees also designated as sacred, the cedar is by far the most common.
+**Sugi flower** (Sugi no hana)
+　　The wood grows straight (sugu), hence the name Sugi.
+　　"Sugi" derives from "suku" (to be straight/upright).
 
-　　Sugi fukaki　katayama kage no　yūsuzumi
-　　　yoso ni zo meguru　yūdachi no sora
-　　（Deep amid cedars, evening cool in the mountain's shadow—
-　　　The summer storm passes elsewhere through the sky）
-　　　　— Gokyo-goku (Fujiwara no Yoshitsune, Regent of the Latter Kyōgoku)
+---
 
-【Seal】Garden tree
+From *Wamyō Ruijushō*:
 
-There are two varieties of cedar grown in residential gardens. The "Kara-sugi (Chinese/foreign cedar)" has soft needles. The "Edo-sugi (Edo cedar)" has small, hard needles, a lighter color, and turns red in mid-winter (around the 11th lunar month). By the third month it returns to green leaves, and many households use it as hedging.
+　Sugi (Suki) — According to the phonetic commentary of the *Erya*: "Shān" is pronounced "shān" (sam), with an alternate reading of "xiān" (sen). Japanese name: Suki.
+　　Found in the *Nihongi Shiki* [Private Commentary on the Chronicles of Japan]. Upon investigation, the common use of the character 榲 is incorrect; 榲 is pronounced with a fanqie spelling based on "sōn" (松/柗, an alternate form of 松) and "guì" (桂), as recorded in the *Táng Yùn* [Tang Rhyme Dictionary].
+
+　　Resembles pine; grows in the Jiangnan region; suitable for use as timber for boat-building.
+
+　　On the seventh day of the third month (Kōsen / Gosen), Kinoe-Saru year (Bunsei 7, 1824):
+　　I broke a branch from the garden grove and drew it true-to-life, gazing at the single leaves in the rain.
+
+---
+
+From *Nánfāng Cǎomù Zhuàng* [Records of Plants of the South], Wood section:
+　　Shān [Cedar] — also called Pīshān
+
+---
+
+Sugi (Japanese cedar) is a tree that grows perfectly straight. As a symbol of uprightness and integrity, it has long been revered as the sacred tree (shimboku) of this country. While other trees are also considered sacred, the sugi is by far the most common.
+
+> *Sugi-fukaki / katayama-kage no / yūsuzumi*
+> *yoso ni zo sugiru / yūdachi no sora*
+> — By Gokyo-goku (Fujiwara no Yoshitsune)
+
+*"Cooling oneself in the evening shade of the deep cedar grove on the hillside —
+the summer shower passes by somewhere far off in the evening sky."*
+
+【Seal: Garden Tree】
+
+There are two varieties of sugi cultivated in residential gardens. *Kara-sugi* (Chinese cedar) has soft needles. *Edo-sugi* has small, hard needles, a pale color, and turns red in mid-winter (around the eleventh month). It greens again in the third month. Many households use it for garden fences (hedges).

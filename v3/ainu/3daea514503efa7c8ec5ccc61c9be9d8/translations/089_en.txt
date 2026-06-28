@@ -1,15 +1,15 @@
-Straight grain (of wood)　　　　Nishyoshi・Chichimini・Mashya
-Door　　　　　　　　　　　　　　Abushita・Aba
-Bow (archery) / bow equipment　Upper end: Gunishi　Center: Gushi　Lower end: Shyaraha
-Arrow　　　　　　　　　　　　　Ai
-Target　　　　　　　　　　　　　Kan・Tsukankunifu
-Arrow [nock? — annotator queries: arrowhead?]　Rumu
-Arrow feathers (fletching)　　　Ratsupu・Airatsupu
-Layered rattan binding (on bow)　Karinba
-The part of the rattan that meets the arrow　Chiron
-Arrow tip　　　　　　　　　　　Makanitstse
-(Object) attached to the arrow tip　Aishyubi
-Arrow with wrapping applied　　Aichinka
-Bowstring　　　　　　　　　　　Gūka
-The loop end of the bowstring　　Gukashinkopu
-The knotted/tied end of the bowstring　Eubite
+Straight-grained wood (masame)　　　　　Nishyoshi・Chichimini・Mashya
+Door　　　　　　　　　　　　　　　　　　Abushita・Aba
+Bow　　[whole] Gu　upper part Gunishi　middle Gushi　lower Shyaraha
+Arrow　　　　　　　　　　　　　　　　　Ai
+Target　　　　　　　　　　　　　　　　　Gan・Tsukankunifu
+Arrow tip / arrowhead (note: refers to the arrowhead)　　Rumu
+Arrow fletching　　　　　　　　　　　　　Ratsuppu・Airatsuppu
+Shigeto (layered rattan binding on bow)　　Karinba
+The part of the rattan wrapping where the arrow sits　　Chiron
+Arrow tip (point)　　　　　　　　　　　　Makanitsute
+Fitting attached to the arrow tip　　　　　Aishyubi
+Paper wrapped around the arrow shaft　　　Aichinka
+Bowstring　　　　　　　　　　　　　　　　Gūka
+The loop end of the bowstring　　　　　　　Gukashinkoppu
+The knotted/tied end of the bowstring　　　Eubite

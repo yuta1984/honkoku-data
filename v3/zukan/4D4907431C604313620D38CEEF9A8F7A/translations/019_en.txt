@@ -1,61 +1,76 @@
-【JAPANESE AUCUBA (AOKI)】
+## 【AOKI (Japanese Laurel / Aucuba japonica)】
 
-Zoho Tashiki-hen, Trees section
-　　　　　Aoki
+Zōho Tashiki-hen, Trees Section
+　　　　　Aoki (阿於幾)
 
-[Seal] Garden tree
+[Seal] Garden Trees
 
-According to Yamato Honzo:
-　　　Tei (Ahaki/Aoki)　Also called　Ten-thousand-year branch
-　　　　　　　　　Also　Winter green
-　　　　　　　　This flower is called
-　　　　　　　　　Ten-thousand-year flower
-　　　　　　　　　　　Also aoki
+According to Yamato Honzō:
+　　Ahaki/Aoki (檍)　also known as: Mannen-eda (Everlasting Branch)
+　　　　　　　　　also: Tōsei (冬青, Winter Green)
+　　　　　　　　Its flowers
+　　　　　　　　　are called Mannen-hana (Everlasting Flower)
+　　　　　　　　　　　and also Aoki (青木, Green Tree)
 
-Peach-leaf coral, large-leaf aoki, small-leaf aoki,
-and long-leaf aoki are of the same family. Snow-in-coral
-is commonly called frost-fall aoki. Its leaves are mostly
-large-leafed, not variegated but solitary growing ones.
+The Tōyō-sango (Peach-leaf coral, i.e., large-leafed Aoki), the small-leafed Aoki,
+and the long-leafed Aoki are all of the same family. The Setsurisango (Yukizato-sango,
+"snow coral") is popularly known as Shimofuri-aoki (frost-speckled Aoki). Its leaves are
+mostly large, and it is not the variegated variety, but a naturally growing specimen.
 
-　　Mizunoe-Uma year, third month, sixth day
+　　Sixth day of Kisaragi (Yayoi month), Mizunoe-Uma year
 
-According to Wamyo Ruiju-sho:
-　　Tei (Ahaki)　Pronounced "oku." In the private records of Nihon-ki it says "Ahaki"
-　　　　　　　　　Upon examination now, this is also another name for kashiwa tree.
-　　　　　　　　　Seen in Erya commentary. It belongs to the catalpa family.
+According to Wamyō Ruijushō:
+　　Ahaki (檍)　Pronounced "oku." The Nihon Shoki Shiki states: "Ahaki (阿波木)."
+　　　　　　　　　Upon reflection, it also appears as an alternate name for the oak (Kashi).
+　　　　　　　　　The commentary of the Erya states: "It belongs to the catalpa (Azusa) family."
 
-According to Kihin-kyo and Honzo Ikka-gen:
-　Peach-leaf coral (Aoki)
 
-【FALSE NIPPLEWORT (POSSIBLY SPEEDWELL)】
-　Genpō-sai (False nipplewort) one variety
+According to Kihinkyō and Honzō Ikkagen:
+　Tōyō-sango (Peach-leaf coral / Aoki)
 
-[Seal] Herbaceous plants
 
-【SHEPHERD'S PURSE (NAZUNA)】
-According to Zoho Tashiki-hen, Soft and Smooth Plants section:
-　　Shepherd's purse (Sai) Japanese name　Natsu/Na　Alternative name　Life-protecting grass　The seeds are called sai
+---
 
-　　　　　　　　　　　Natsuna (Shinsenjikyo)　Shepherd's purse　Japanese name　Nani (Goyaku Honzo)
+## 【TABIRAKODAMASHI (False Tabirako)】
 
-　Kyuko Yahu (Famine Relief Wild Plant Guide)
-　　Sai-saiji (Nazuna) Chinese name
-　　　　　　　　　Mizunoe-Uma year, third month, ninth day
-　　Sai flower　Chicken-feather vegetable (Keimozai)　Wamyo-sho
+　Genhōsai (元寶菜 / Tabirakodamashi)　one variety
 
-　　　　　　　　　　　　　　　　　　　　　　[Seal] Vegetables
-　　　　　　　　　　　　　　　　　　　　　　[Seal] Medicinal herbs
-　According to Wamyo Ruiju-sho:
-　　　　Shepherd's purse　In Cui Yuxi's Shijing it says "sai," pronunciation "jikei," rising tone. Japanese name natsuna
+[Seal] Plant Category
+
+---
+
+## 【NAZUNA (Shepherd's Purse / Capsella bursa-pastoris)】
+
+Zōho Tashiki-hen, Soft and Smooth Plants Section:
+　　Nazuna (薺, Sai)　Japanese names: Natsu (那豆) / Na (那)
+　　Alternative name: Gosei-sō (護生草, "Life-protecting herb")
+　　The seed is called Sai (蒫)
+
+　　　　　　■Natsuna (荖蔍) 〔Shinsen Jikyō〕　Nazuna (薺)　Japanese name: Nani (那耳)〔Kyōyaku Honzō〕
+
+
+Kyūkō Yafu (救荒野譜):
+　　Nazuna (薺菜児) 〔Chinese name〕
+　　　　　　　　　Ninth day of Kisaragi (Yayoi month), Mizunoe-Uma year
+　　Nazuna flower　Keimōzai (鶏毛菜)　〔Wamyōshō〕
+
+
+[Seal] Vegetable Category
+[Seal] Medicinal Herb
+
+According to Wamyō Ruijushō:
+　　Nazuna (薺)　In Cui Yüxi's Shokukyō (食経), it states: "Sai (薺)" — the character is a combination of the readings of "ji" (辞) and "kei" (啓), upper-tone reading. Japanese name: Natsuna (奈都那).
 
 According to Wakan Sansai Zue:
-Buddhist monks take its stems to make
-lamp-tending sticks that can ward off mosquitoes and moths. Therefore it is named
-life-protecting grass. Its taste is sweet. Master Kuang said:
-When the year is to be abundant, sweet grass grows first (sweet
-grass refers to shepherd's purse). When the year is to be bitter, bitter grass grows
-first (bitter grass refers to draba).
-Upon examination, this is one of the seven herbs for the seventh day first month rice porridge.
-It bears triangular fruit, not yet large, with a narrow base, resembling
-a three-stringed instrument's plectrum. When children take two of them
-and rub them together, they produce sound. Therefore it is called three-string grass.
+Buddhist monks take its stems and use them as a tool for stirring up lamp flames,
+and it can also repel mosquitoes and moths. For this reason it is called Gosei-sō (護生草, "Life-protecting herb").
+Its taste is sweet. Shi Kuang (師曠) said:
+"When the year is about to be prosperous, the sweet herb (甘草) grows first"
+　[The sweet herb here refers to Nazuna.]
+"When the year is about to bring hardship, the bitter herb (苦草) grows first"
+　[The bitter herb here refers to Teireki (葶藶, field pennycress).]
+Note: It is one of the seven vegetables used in the seven-herb rice porridge (nanakusa-gayu) eaten on the seventh day of the first month.
+Its seedpods form a triangular shape, wider at the tip and narrow at the base,
+resembling the plectrum (bachi) of a shamisen.
+When children rub two of these pods together,
+they make a sound. For this reason, it is also called Sansen-sō (三線草, "Three-string herb").

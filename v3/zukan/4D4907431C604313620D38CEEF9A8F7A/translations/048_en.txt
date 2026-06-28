@@ -1,38 +1,77 @@
-【Though it belongs to the strawberry family, the leaf shape is different】
-According to Chikinsho:
-　　　Snake bud (Shakan) grass　According to Chikinsho, "kan" is not "gan" but "kan" (bud). The same book lists it as snake strawberry
+---
 
-【Mark】Listed in medicinal herbs【end】
+## 【*Jakanso* (蛇莟草) / *Kiransō* (キラン草); *Ajuga* sp., Lamiaceae】
 
-Kinoe-Saru year, mid-Koshō month, eighth day
-Painted from life
+> [Marginal note: "The leaf shape is too different for this to be classified among the *Hebiichigo* (strawberry-type plants)."]
 
-Baien says:
-　This should correspond to wolf fang. Perhaps it is the diagram from Chikinsho?
-　The form is designated as snake-holding plant
+---
 
-According to Yamato Honzō:
-　　　Kiran grass
+### According to the *Chikinsho* (地錦抄):
 
-According to Igen: There was a farmer who saw a snake that had been wounded.
-One snake held a grass in its mouth and placed it on the wound, and after one day passed,
-the injured snake departed. The farmer then took that grass and
-used it to treat snake wounds, and all were effective, so it was named snake-holding grass.
+　　*Jakanso* (蛇莟草; "Snake-含 Herb")
+　　[Annotation: The *Chikinsho* states that the character read *kan* here is not 含 (*kan*, "to hold in the mouth") but rather 莟 (*kan*, "bud"). The same book identifies this plant with the symbol ○ as *Hebiichigo* (ヘビイチゴ; False Strawberry, *Duchesnea indica*).]
 
-According to Honzō Kōmoku, female indigo is namely
-the root of snake-holding plant. There is another female indigo, named
-sparrow gourd. There are two types of female indigo, differing only
-between vine-growing and grass-growing varieties.
+[Seal: Medicinal Herbs (*Yakusō*)]　[The above entry is recorded here.]
 
-Snake bud　Japanese name: Uzumamekusa (horse hoof grass), also called Kiransō
+Sketched from life on the eighth day of the middle period of *Kosen* (姑洗; third lunar month),
+in the year *Kōshin* (甲申) [Bunsei 7, 1824].
 
-　　　Supplementary alternative names: Snake-holding (Kan), main classic: Wei snake (Daiming)
-　　　　　Small dragon sprout (Ryūke), Kōmoku: Purple-backed dragon fang (Zukei)
+---
 
-【Something from the mint family, Ajuga genus】
-A type of wound-healing small grass
-　　　Dragon fang vegetable (Ryūgezai)　This is white ryūkezai
-　　　　Also called: Jewel beetle grass (Tamamushisō)
+### Baien (the author) states:
 
-　　　　　　　　　　　　　　　　Same year, same month, nineteenth day, full moon
-　　　　　　　　　　　　　　　　Obtained from the mountain valley and painted from life
+　　This plant should correspond to *Rōga* (狼牙; "Wolf's Fang").
+　　Could this be the illustration in the *Chikinsho*?
+　　Its form is described as *Jakan* (蛇莟).
+
+---
+
+### According to the *Yamato Honzō* (大和本草):
+
+　　*Kiransō* (キラン草)
+
+---
+
+### According to the *Ien* (異苑):
+
+A village elder (*denpu*) observed a snake that had been wounded.
+Another snake took a certain herb in its mouth and applied it to the wound.
+After a day had passed, the wounded snake recovered and went on its way.
+The village elder then gathered that herb and used it to treat snake-bite wounds, with effective results in every case.
+For this reason, the herb came to be called *Jakanso* (蛇莟草; "Snake's Poultice Herb").
+
+---
+
+### According to the *Bencao Gangmu* (本草綱目):
+
+*Njosei* (女青; *Cynanchum cathayense* or related species) is the root of *Jakan* (蛇莟).
+There is a separate plant also called *Njosei*, known as *Jakuhyō* (雀瓢; "Sparrow Gourd").
+There are two varieties of *Njosei*, differing only in whether they grow as a vine (*tōsei*) or as a ground herb (*sōsei*).
+
+---
+
+### *Jakan* (蛇莟)
+
+[Japanese names]: *Uzumamekusa* (宇豆末米久左). Also known as *Kiransō* (幾羅牟左宇).
+
+　　[Additional alternative names]:
+　　　*Jakan* (蛇莟)　[cited from the *Honzōkyō* (本草経; *Shennong Bencao Jing*)]
+　　　*Ija* (威蛇)　[cited from the *Taimei* (大明; *Rihua Zhu Jia Bencao*)]
+　　　*Shōryūge* (小龍芽; "Small Dragon Sprout")　[cited from the *Gangmu* (綱目)]
+　　　*Shihairyūga* (紫背龍牙; "Purple-backed Dragon's Fang")　[cited from the *Zukyō* (図経; *Bencao Tujing*)]
+
+---
+
+## 【A species of the genus *Ajuga* (Lamiaceae)】
+
+One variety of *Kinsōshōsō* (金瘡小草; *Ajuga decumbens*):
+
+　　*Ryūgezai* (竜牙菜)　This is the "White *Ryūgezai*" variety.
+　　　Also called: *Tamamushisō* (玉虫草; "Jewel Beetle Herb")
+
+---
+
+Sketched from life on the nineteenth day (*望*, the full-moon period) of the middle period of the same month [*Kosen*, third lunar month, *Kōshin* year, Bunsei 7, 1824],
+having obtained the specimen from a mountain valley.
+
+---

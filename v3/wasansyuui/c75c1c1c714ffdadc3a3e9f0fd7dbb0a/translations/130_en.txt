@@ -1,0 +1,12 @@
+《Title: Taijū Kairitsu Meyasuwari (Cube Root Extraction with Accompanying Vertical Dimension — Target Divisor Method)》
+
+Nine-nine eighty-one: multiply by nine, subtract seven hundred twenty-nine, ninth advance.
+
+▲ Taijū Kairitsu (Cube Root Extraction with Accompanying Vertical/Height Dimension)
+
+Problem: Find the dimensions of a solid with 1,872 tsubo [cubic units], where the length and width are equal, but the height is one ken greater than the length/width.
+　　　Length and width: 12 ken
+　　　　　　　　　　　　　　— This is the answer.
+　　　Height: 13 ken
+
+Method: Examining the place values — a 10-ken square gives 100 tsubo [per unit height]; at 10 ken height that gives 1,000 tsubo. After one advance, subtract the 1,000 tsubo of "one advance," fix 10 ken as the base value, and set up the "one-three of three" from the cube root [algorithm] as the target guide. For the portion corresponding to the height being one ken greater, subtract 100 tsubo; the remaining 772 tsubo — using the target guide of "three," determine this as the second of six advances, i.e., 2 ken. Subtract 600 tsubo; the remainder is 172 tsubo. Taking the "two" of the two ken and the "three" of cube root [algorithm], and setting up "two-three of six" as the target guide, comparing this six with the "two" of two ken — [calculate] "two-six" of 120 tsubo, and subtract it from the three corner positions. For the portion where the height is one ken greater, with one side—

@@ -1,54 +1,57 @@
 ---
 
-【Note: The plant currently known as Tagarashi (= Ushizeri) differs in the shape of its leaves near the flowers. Plants of the same family Ranunculaceae — Kitsune-no-botan (*Ranunculus japonicus*) or Ke-kitsune-no-botan (*Ranunculus cantoniensis*) — are closer to this identification.】
+【Note by the transcriber/annotator: The plant currently called Tagarashi (= Ushizeri) differs in the shape of the leaves near the flowers. Among the same family Ranunculaceae, Kitsune-no-botan (*Ranunculus japonicus*) or Ke-kitsune-no-botan (*Ranunculus cantoniensis*) are closer to this.】
 
-**Sekiōryūzui / 石竜芮 (Takaraji / Ushizeri)**　[From] Chikinkishō
+**Sekiryūzui (石竜芮; Takarashi / Ushizeri)**　[From Chikinkishō]
 
 According to Yamato Honzō:
-　In the Kyoto dialect:
-　　Also called Takarashi, or
-　　Tazeri
-　In Tsukushi (Kyushu):
-　　Called Ushizeri
-　　or Ubazeri
-　In Wamyō Ruijushō:
-　　Fukazumi
+　In the Kyoto dialect, it is called
+　　"Takarashi" or alternatively
+　　"Tazeri."
+　In Tsukushi (Kyushu), it is called
+　　"Ushizeri" or
+　　"Ubazeri."
+　In the Wamyō Ruijushō, it appears as
+　　"Fukazumi."
 
-In the Chikinkishō, this plant is referred to as Tagarashi; there are especially many varieties. [The author] verified this through personal investigation.
+In the Chikinkishō, this plant is referred to as "Tagarashi (多賀良之)," and there are very many varieties. [The author] has examined this personally and corrected the record accordingly.
 
-Listed in the Yamato Honzō [Seal: Aquatic plants (水艸)], in the section on water plants.
-[Seal: Medicinal herbs (薬草)]
+Listed in the Water Plants (水草) section of the Yamato Honzō.
+[Seal: Medicinal Herbs (薬草)]
 
-Copied at the Ugasōan (雨草庵) studio in the latter ten days of Kōsen (third lunar month), year Mizunoto-Hitsuji (癸未, 1823).
-
----
-
-According to Wamyō Ruijushō:
-　Sekiōryūzui (石竜芮) — Japanese name: Fukazumi (フカツミ)
-　　According to Honzō (Bencao): Sekiōryūzui
-　　(Reading: *rú ruì fǎn*; Japanese name) Fukazumi (布加豆三)
-
-According to Jiuhuang Bencao (救荒本草):
-　Huíhuí suàn (回回蒜); one name is Shuǐ hújiāo (水胡椒; water pepper), also named Xiēhǔ cǎo (蠍虎草; gecko herb)
+Copied at the Ukōan (雨草庵) studio during the latter part of the third lunar month (Kōsen / Gosen), year Mizunoto-Hitsuji (癸未, 1823).
 
 ---
 
-According to the Supplemented Tashiki-hen, section on Poisonous Herbs (毒草類):
-　Sekiōryūzui (石竜芮)
+According to the Wamyō Ruijushō:
+　Sekiryūzui (石竜芮) — read "Fukazumi"
+　　The Bencao (Honzō) states: "Sekiryūzui"
+　　[Pronunciation: read as "Ruì" (如鋭反)]
+　　Japanese name: Fukazumi (布加豆三)
+
+According to the Jiuhuang Bencao (救荒本草):
+　Kaikai-san (回回蒜; "Muslim garlic")
+　　One name: Mizu-koshō (水胡椒; "water pepper")
+　　Another name: Sasorikogusa (蠍虎草; "scorpion lizard plant")
+
+---
+
+According to the Supplemented Tashiki-hen (増補多識編), section on Poisonous Plants (毒草類):
+　Sekiryūzui (石竜芮)
 　　Japanese name: Fukazumi (布加豆美)
-　　Alternative names: Tendzu (天豆) — from Bielu (別録); Sekinō (石能) — from the same source
+　　Alternative names: Tento (天豆) — from Bieilu (別録); Sekinō (石能) — from the same
 　　Additional alternative names:
-　　　Chishin (地椹) — from Benjing (本経/Shennong Bencao Jing)
-　　　Rokuwanō (魯果能) — from Bielu (別録)
-　　　Suikin (水菫; water violet) — from Erya (尓雅)
-　　　Kukin (苦菫; bitter violet) — from the same source
-　　　Kinki (菫葵) — from Guo Pu (郭璞)
-　　　Koshōsai (胡椒菜; pepper vegetable) — from Jiuhuang (救荒)
-　　　Hōkon (彭根) — from Bielu (別録)
+　　　Chijin (地椹) — from Bencao (本径 [径 likely error for 經])
+　　　Rokuwanō (魯果能) — from Bieilu
+　　　Suikin (水菫; "water violet") — from Erya (尓雅)
+　　　Kukin (苦菫; "bitter violet") — from the same
+　　　Kinkei (菫葵) — from Guo Pu (郭璞)
+　　　Koshōsai (胡椒菜; "pepper vegetable") — from Jiuhuang (救荒)
+　　　Hōkon (彭根) — from Bieilu
 
 ---
 
-According to Jiuhuang Yepu (救荒野譜):
-　Yóuzhuózhuó (油灼灼; Takarashi) grows beside water and has glossy leaves. There is also Hújiāo cài (胡椒菜; Takarashi), also known by one name as Shuǐ jǐn (水菫; water violet). This is what Zhou Xianwang's Bencao refers to. [I find that] the forms differ considerably, but the illustration of Yóuzhuózhuó matches this [plant] in meaning. This is therefore the Yóuzhuózhuó / Sekiōryūzui of the preceding volume. The alternative name "Hújiāo (胡椒)" is derived from its taste, while "Yóuzhuózhuó (油灼灼)" is named after its color [or glossy appearance]. It is probable that these three [names] refer to a single species under three different names. [I consider this] to be most reasonable. Both illustrations are included in the present volume.
+According to the Kyūkō Yafu (救荒野譜):
+　"Yushakushaku (油灼灼; Takarashi)" grows along the water's edge, and its leaves are glossy. There is also "Koshōsai (胡椒菜; Takarashi)," also known as "Suikin (水菫)." The Bencao of Prince Zhōu-xiàn-wáng refers to it as such, but [in my view] its form differs considerably. The illustration of "Yushakushaku" does, however, agree with this plant [Sekiryūzui]. This is indeed the "Yushakushaku = Sekiryūzui" of the preceding volume. The alternative name "Koshō (胡椒; pepper)" derives from its flavor, while "Yushakushaku" derives from its color (glossy/oily appearance). In sum, these three items are one and the same species with three different names — [I] find this very persuasive. Both illustrations are included in the present volume.
 
 ---

@@ -1,33 +1,37 @@
 The Yamato Honzo (Japanese Materia Medica) states:
-　Karatachibana (Ardisia crenata / Coral Ardisia)
-　　　　　In the Musashi/Edo dialect, it is called "Tachi-hana"
-　　　　　◦In the Kyoto dialect, it is called "Kara-tachi-hana"
-　　　　　◦In the Tsukushi (Kyushu) dialect, it is called "Yabu-karashi"
+　Karatachibana (Ardisia crenata / coral ardisia)
+　　　　In the dialect of Buko (Edo/Tokyo), it is called "Tachi-hana"
+　　　　〇 In the Kyoto dialect, it is called "Karatachi-hana"
+　　　　〇 In the Chikushi (Kyushu) dialect, it is called "Yabukarashi"
 
-Sixth day of the first month of Rinsho (sixth month), year of Hinoe-inu (1766 or 1826)
-Copied
+　　　　　　　　　　　　　　　　　　　Sixth day of Rinsho (6th month), year of Hinoe-inu (1826)
+　　　　　　　　　　　　　　　　　　　Copied
 
-Recorded in Yamato Honzo【Seal: En-moku (Garden Trees)】
+　　　　　　　　　　　　Recorded in the "Garden Trees" section of the Yamato Honzo
 
-The author's commentary states:
-　What is commonly called "Tachibana" in popular usage is this plant. "橘 (Tachibana)" is
-　the general name for citrus (mikan) varieties, and is a different plant from this one. Because citrus (mikan) is
-　called "Tachibana," this plant has come to be called "Kara-tachibana" (foreign tachibana).
-　In the Tsukushi dialect, it is called "Yabu-kōji," which leads to considerable
-　confusion. Yabu-kōji (Ardisia japonica) grows in flatland areas, and while it resembles karatachibana,
-　their leaves differ, though their flowers and fruits closely resemble each other.
+The commentary (Wa/Kan) states:
+　What is commonly called "Tachibana" in popular parlance refers to this plant. The tachibana (橘)
+　is a general name for the citrus (mikan) family and is a different plant from this one. Since the
+　citrus (mikan) is called "Tachibana," this plant came to be called "Karatachibana."
+　In the Chikushi dialect, it is called "Yabuköji" (Ardisia japonica), and the two are very easily
+　confused. The yabuköji grows in flat lowland areas; compared to karatachibana,
+　the leaves differ while the flowers and fruit closely resemble each other.
 
-The Zoho Chikinsho (Revised Illustrated Horticultural Guide) states: "Kara-橘 (Tang orange) is a separate plant altogether. Traditionally, 橘 has been used to refer to citrus, a type of kōji (mandarin orange), but although karatachi-bana is popularly called 'Tachibana,' the use of the character 橘 for it is inappropriate."
+The Zoho Jikinsho (Expanded Jikinsho botanical encyclopedia) states: The Chinese tachibana (唐橘) is a different plant. It has been passed down through generations as belonging to the citrus (tachibana/kōji) category, but although karatachifruit is commonly called "tachibana," the Chinese character for tachibana (橘) does not apply to it.
 
-Ox-flat (Gyūhen / Geranium thunbergii) grows abundantly in mountain and field areas. It also grows in the fields of Sugamo and Tokumaru in Musashi/Edo. The leaves, stems, and flowers of this plant are all dried in the shade, ground into powder, and taken with hot water. It is effective in treating dysentery (diarrhea). It is especially effective for bloody dysentery. It can also be decocted into a tea, or finely powdered and made into pills. All methods are effective. For this reason, it is called "Gennoshōko" (lit. "verified efficacy"). Although it is listed in the materia medica under poisonous plants, it is in fact non-toxic, and for dysentery, taking this ox-flat alone is beneficial. It reduces the frequency of bowel movements. This efficacy is also recorded in the Yamato Honzo.
+The genbianzi (Geranium thunbergii / Genno-shoko) grows abundantly in many places in the mountains and fields. It also grows in the fields of Sugamo and Tokumarugatahara in Buko (Edo). The leaves, stems, and flowers of this plant are all shade-dried, powdered, and taken with hot water. It is effective in treating dysentery and is particularly effective for bloody dysentery. It can also be made into a decoction or finely powdered and formed into pills. All methods are effective. For this reason, it is called "Gennoshoko" (literally: "verified evidence"). Although the Bencao (Chinese materia medica) classifies it under poisonous plants, it is in fact non-toxic. For dysentery, taking this Genno-shoko alone is sufficient; it stops the frequency of symptoms. This is also recorded in the Yamato Honzo as having this efficacy.
 
-【Seal: Grass Category】
+　　　　　　　　　　　　　　　　　　　[Grass/Herb Category]
 
-　　Yafu-rō-sō (Wild Geranium)
-Rescue Famine Materia Medica states: Māniú'ér (Geranium / Gennoshōko), Dòuniú'ér　
-　《Side note: ◦Renke-sō　◦Hōtsuke-bana　◦Mikoshi-kusa》
-　　　　Fūro (Geranium) 《Side note: Haika-sō, Ume-kahe-sō》
+Wild Furoshiba (yafu-uro) grass
+The Jiuhuang (Rescue from Famine Materia Medica) states: Muuji (Gennoshoko / Geranium thunbergii), Tougyuji
+　　　　〇 Renkeso
+　　　　〇 Houtsukehana
+　　　　〇 Mikoshikusa
+　Hentoku (Furo / wild geranium)
+　　　Haikuwaso
+　　　Umegaeso
 
-The Wakan Sansai Zue (Japanese-Chinese Illustrated Encyclopedia) and other books state:
-　Gyūhen, Māniú'ér, and Fūrō are recorded as three separate plants, though all with considerable confusion.
-　In fact, these three are one and the same species. The true Fūro (扁特) is a separate species.
+The Wakan Sansai Zue (Japanese-Chinese Illustrated Encyclopedia) and various other books state:
+　Genbianzi, muuji, and furoshiba are all recorded as three separate things,
+　but in fact these three are the same plant. The true Hentoku is a single distinct species.

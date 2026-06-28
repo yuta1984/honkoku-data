@@ -1,44 +1,71 @@
-The Illustrated Sino-Japanese Encyclopedia, Five Fruits section states:　5th day of 5th month, Mizunoe-uma year
-　　　　　　　Chestnut flowers　　　　　　　　　　Copied during medicinal plum rains
-　　　　　　　　　fall during the May rains, so commonly
-　　　　　　　　　chestnuts and plum rains are associated
+---
 
-　　　　　The Wamyō Ruijushō states:
-　　　　　　　　Chestnut (kuri)
+　　　　　　　　　　　　The 5th day of the 5th month, Mizunoe-uma year (1822)
+　　　　　　　　　　　　Copied faithfully during a break in the early summer rains (梅雨)
 
-　　　　　The Kenmei'en states:
-　　　　　　　　Chestnuts are friends of blade quality, also called selected seeds
-　　　　　　　　　　Japanese name　Ku-ri
+---
 
-　　The Enlarged Tashikihen, Five Fruits section states:
-　　　Chestnut (ritsu) (Japanese name Ku-ri) ○ Thatch chestnut (bōritsu)　　　　(Japanese name, upon current examination, Shi-ha-ku-ri)
-　　　　(Supplementary alternative names) Bamboo grass chestnut (yuritsu)　　Hot chestnut (retsuritsu)
-　　　　Board chestnut ○ Mountain chestnut (sanritsu) ○ Awl chestnut (suiritsu) ○ Shin chestnut (shinritsu)
+**Chestnut (栗, Kuri)**
 
-Mountain Hermit Collection
-　Mountain winds blow the peak's small chestnuts, scattering
-　　falling abundantly in the garden of Ōhara village
+From the *Wakan Sansai Zue* (Japanese-Chinese Illustrated Encyclopedia), Fruits section:
+　　The flowers of the chestnut
+　　　fall during the rainy season (梅雨) of the fifth month. Therefore, in common usage,
+　　　"kuribana-chiru" (栗花落, "chestnut blossoms falling") has become a reading for "tsuyu" (梅雨, the rainy season).
 
+From the *Wamyō Ruijushō*:
+　　　Kuríko (栗子, chestnut)
 
+From the *Kenmyōen*:
+　　　The chestnut is "a companion of the sword's quality" (刀質の友); alternate name: *Senshi* (撰子)
+　　　　Japanese reading: Kuri (久利)
 
-　　　　　　　　　　　　　A certain book states:
-　　　　　　　　　　　　　In the 4th year of Emperor Keikō's reign, in Ōmi Province
-　　　　　　　　　　　　　there was a dead tree whose crown pierced the sky and entered the clouds. When asked about its origin,
-　　　　　　　　　　　　　the provincial elder said it was a chestnut tree from the age of gods. Because this tree's
-　　　　　　　　　　　　　branches aligned with the mountains, it was called Namie Mountain, and because of the
-　　　　　　　　　　　　　connected high peaks, it was called Hira Mountain.
-　　　　　　　　　　　　　The soil formed from fallen leaves was entirely chestnut leaves.
-　　　　　　　　　　　　　The name of Kurimoto County also originates from this.
+---
 
+From the *Enlarged Tashikihen*, Five Fruits section:
 
+　Chestnut (栗, *ritsu*)　Japanese name: Kuri (久利)
+　　〇 Kashiwa-chestnut / Bō-chestnut (茅栗, *bōritsu*)　Japanese name: upon examination, Shibakuri (志波久利)
+　　Supplementary alternative names: Yuritsu (栭栗), ■Ritsu (■栗), Hanritsu (板栗)
+　　〇 Mountain chestnut (山栗) 〇 Awl chestnut (錐栗) 〇 Shin chestnut (莘栗)
 
-　　　　　　　　　　　　　There is one type called valley chestnut, a local name, abundant in
-　　　　　　　　　　　　　the wetlands of the Kiso mountains. Its fruit and leaves do not differ from ordinary chestnuts.
-　　　　　　　　　　　　　The wood grain is finer than ordinary chestnuts, making it good for crafting utensils. The fruit is
-　　　　　　　　　　　　　small but there are many large trees. It is a type of thatch chestnut.
-　　　　　　　　　　　　　Bamboo grass chestnuts (sasa-kuri) refers to small ones - small chestnuts. Also called brushwood chestnuts.
-　　　　　　　　　　　　　The Erya commentary states "In Jiangdong, small chestnuts are called bamboo grass chestnuts."
-　　　　　　　　　　　　　In Cui Yuxi's Dietary Classic, they are called pillow seeds.
-　　　　　　　　　　　　　Brushwood chestnuts are less commonly sold like large chestnuts, but
-　　　　　　　　　　　　　are often used as dried chestnuts for New Year celebrations.
-　　　　　　　　　　　　　The method for making pounded (kachi) chestnuts is detailed in fruit manuals.
+---
+
+**From the *Sankashū* (Mountain Hermit's Verse Collection):**
+
+　"In the mountain wind, the tiny chestnuts of the peak —
+　　scattering, scattering down,
+　　　they carpet the garden of Ōhara village."
+
+---
+
+　　　　　　　　　　　　An old text states:
+　　　　　　　　　　　　In the fourth year of Emperor Keikō's reign, in the province of Ōmi (近江),
+　　　　　　　　　　　　there stood a withered tree whose crown pierced the sky,
+　　　　　　　　　　　　entering the clouds. When an elder of the province was asked
+　　　　　　　　　　　　about this, he replied: "This is a chestnut tree from the Age of the Gods.
+　　　　　　　　　　　　Because its branches stand level with the mountains,
+　　　　　　　　　　　　it is called 'Naraeda (並枝) Mountain'; and because it
+　　　　　　　　　　　　aligns with the high peaks, it is called 'Hirayama (並聯山).'
+　　　　　　　　　　　　The fallen soil and everything within the earth is entirely chestnut leaves."
+　　　　　　　　　　　　And so on. The name of Kurimoto District also perhaps
+　　　　　　　　　　　　originates from this.
+
+---
+
+　　　　　　　　　　　　　　　　　　　　　　　　　【Tree Category】
+
+---
+
+　　　　　　　　　　There is a variety called Sawaguri (沢栗, "marsh chestnut"). This is a folk name;
+　　　　　　　　　　it grows abundantly in the mountains of Kiso and along marshes.
+　　　　　　　　　　Its fruit and leaves are no different from the ordinary chestnut.
+　　　　　　　　　　Its wood is superior to that of the common chestnut, and is used for making utensils and implements.
+　　　　　　　　　　The fruit is small, but it often grows into a large tree. It belongs to the category of club-like trees.
+　　　　　　　　　　The term *Sasaguri* (栭栗, "small chestnut") refers to the small variety — it is simply a small chestnut.
+　　　　　　　　　　It is also called *Shibaguri* (柴栗). The commentary of the *Erya* notes that
+　　　　　　　　　　"in the Jiangdong region of China, small chestnuts are called 栭栗 (*yuritsu*)."
+　　　　　　　　　　In Cui Yushi's *Shokukyō* (Food Classic), it is called *Chinshi* (枕子).
+　　　　　　　　　　Shibaguri is sold as if it were large-fruited chestnut, but supply is limited;
+　　　　　　　　　　most are used as *Kachiguri* (搗栗, pounded dried chestnuts) — a traditional food
+　　　　　　　　　　offering for the New Year season, for which it is widely used.
+　　　　　　　　　　The method of preparing Kachiguri is described in detail in the *Jitsupū*.

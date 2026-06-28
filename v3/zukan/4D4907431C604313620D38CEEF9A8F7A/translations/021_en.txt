@@ -1,69 +1,72 @@
-## Dandelion (Tanpopo)
+## 【DANDELION (Taraxacum)】
 
-Dandelion (Hōkōei) — As stated in Jijiki (Seasonal Record):
-　　　◦ Drum-grass (Tsutsumigrass) 　　◦ Yellow-flowered varieties: (Yellow Drum Nail / Yellow Flower Ground Spike)
-　　　White Drum Nail (Hakukotei) refers to the white-flowered variety (as noted in Jiukōu Yepǔ / Famine Relief Field Manual)
+Dandelion (Hōkōei / 蒲公英), According to Saijiki (almanac):
+　　　○ Also called Tsutsumikusa (鞁草, "wrapping grass")
+　　　○ The yellow-flowered variety is called Kō-hōtei (黄鞁釘) or Kōka-jichō (黄花地丁)
+　　　The white-flowered variety is called Haku-yūtei (白鞁釘), referring to the white-flowered kind, as noted in Kyūkō Yafu
 
-　　　　　　　　　　　　　　26th day of the third month (Kisatsu/Gōshin), Mizunoto-Hitsuji year
-　　　　　　　　　　　　　　Copied again faithfully
+　　　　　　　　　　　　　　　26th day of the third month (Koshi), Mizunoto-Hitsuji year
+　　　　　　　　　　　　　　　Copied again from the original
 
-As stated in Jiùhuāng Běncǎo (Famine Relief Materia Medica):
-　Bobodingcai (Tanpopo) — also called Yellow Flower Seedling (Huanghua miao)
+According to Kyūkō Honzō (救荒本草):
+　Tanpopo (孛孛丁菜)　Also called Kōka-byō (黄花苗, "yellow-flowering seedling")
 
-As stated in Wamyō Ruijushō (Japanese Name Classified Glossary):
-　Pugong grass — Materia medica says: Pugong grass; Japanese name: Fuchina, alternatively called Tana
-　　　　　Another name: Gounoucao — upper character read "Kōkō-han," lower character read "Dōzu-han"
+According to Wamyō Ruijushō (和名類聚抄):
+　Hōkō-sō (蒲公草)　According to the Honzō: Hōkō-sō, Japanese name: Fujina (不知奈), also called Tana (太奈)
+　　　　　One name: Kōdoku-sō (耩耨草); the upper character read by fanqie of "kō" and "kō," the lower character by fanqie of "nu" and "dou"
 
-As stated in Zōho Tashiki-hen, Soft and Moist Herbs section:
-　Dandelion (Hōkōei) — Japanese name: Tana; upon investigation: Tampopo
-　　Alternative names: Gold Hairpin Grass (Bencao Gangmu)
-　　Additional alternative names: Gounoucao (pronounced Kō)
-　　Waxy / Yellow Flower Ground Spike (Wōkwachichō) — Common name: Fukōei (Qianjin); Hōkōei (Tujing)
-　　　　　　Hokkōei (Yuce); Hōkōchō; ○ Ground Gall Grass (Chitan-sō)
+According to Zōho Tashiki-hen, Soft and Smooth Herbs section (増補多識篇柔滑類):
+　Dandelion (蒲公英, Hōkōei):
+　　　Japanese names: Tana (多那); upon investigation, Tanpopo (多牟保々)
+　　　Alternative names: Kinsankusa (金簪草) [from Bencao Gangmu]; Kōdoku-sō (耩耨草) [read as "Kō"]
+　　　　　　Kōka-jichō (黄花地丁) [common name]; Fukōei (鳬公英) [from Qianjin Fang]; Hōkōei (僕公罌) [from Tujing]
+　　　　　　Hokkō-ei (鵓鴣英) [from Yuce]; Hōkō-chō (蒲公丁); ○ Chitan-sō (地胆草)
 
-As stated in Bencao Gangmu (Compendium of Materia Medica):
-　The purple-flowered variety is called "Dading Grass"
-　Something similar to it but bearing no flowers is called
-　"Ground Gall Grass"
+According to Bencao Gangmu (本草綱目):
+　Those bearing purple flowers are named Daichō-sō (大丁草)
+　Those similar in form but bearing no flowers are named
+　Chitan-sō (地胆草)
 
-As stated in Nóngzhèng Quánshū (Complete Treatise on Agricultural Administration):
-　It is called Bobodingcai (Tanpopo)
-　Its flowers open in the morning and wither after noon
-　This occurs every day, and by this means
-　it endures through winter
+According to Nōsei Zensho (農政全書):
+　It is called Tanpopo (孛孛丁菜)
+　Its flowers open in the morning and wilt
+　after noon each day;
+　this happens daily, yet the plant
+　endures for a long time
 
 ---
 
-## Cudweed (Hahakogusa)
+## 【CUDWEED (Gnaphalium / Pseudognaphalium)】
 
-As stated in Kankaishokyōku (Food Competition While Carrying):
-　Mouse-koji grass (Hahakogusa) — read as "Hahako-gusa"; also
-　　　named Five-Element Wormwood (Gogyō-yomogi) — one of the Seven Spring Herbs of Jinjitsu (New Year's Day, 7th of the first month)
+According to Kankai Shokkyō (巻懐食競):
+　Cudweed (鼠麹草, Hahakogusa)　Read as Hahakogusa, also
+　　　　called Gogyō-yomogi (五行蒿); it is one of the Seven Herbs of Jinjitsu (New Year's seventh day)
 
-As stated in Imina Bunruishō (Classified Glossary of Alternative Names):
-　Upon examining the explanatory names for Mouse-koji in Bencao Gangmu:
-　it says Buddha's Ear, Mouse's Ear, etc. — it is an "ear vegetable"
-　Wamyōshō lists it as Ankoshi (Hahako); Bencao Leibian lists it as
-　Horse-head Wormwood
-　Also added to the Seven Spring Herbs as Gogyo (御形), also written Gogyo (五行蒿)
-　[Author Baien's note:] "Ear vegetable" is a separate species
-　　　— to be copied later
+According to Imyō Bunruishō (異名分類抄):
+　Upon examining the entry on Sōkiku (鼠麹) in the Bencao Gangmu,
+　it lists "Butsuni" (仏耳) and "Soni" (鼠耳), and so forth — it is also called "Mimina" (ear-herb)
+　The Wamyō-shō gives the name Ankoshi (菴蘆子, read as Hahako);
+　the Honzō Ruihen names it Basenkkō (馬先蒿)
+　It is also added to the Seven Herbs of Jinjitsu as Gogyō (御形), or Gogyō-yomogi (五行蒿)
+　The author's note: Mimina (耳菜) is a separate species
+　　　　To be transcribed later
 
-As stated in Yamato Honzō (Japanese Materia Medica):
-　Mouse-koji grass (Gogyō)
-　　Another name: Buddha's Ear Grass
-　　Japanese name: Mother-child grass (Hahakogusa)
-　To equate it with
-　　Yellow Flower Wormwood, or to regard it as
-　False Wormwood, are both incorrect
+According to Yamato Honzō (大和本草):
+　Cudweed (鼠麹草, Gogyō)
+　　One name: Butsunisō (仏耳草, "Buddha's ear plant")
+　　Japanese name: Hahakogusa (母子草, "mother-and-child grass")
+　Some identify it as
+　　Kōkayomogi (黄花蒿, mugwort with yellow flowers)
+　But identifying it as
+　　Jakō (邪蒿, "false mugwort") is incorrect
 
-As stated in Tashiki-hen, Wet Grasses section:
-　Mouse-koji grass (Sōkiku) — Japanese name: upon investigation, "Hahakogusa"
-　　Alternative name: Mushin-sō (Listless Grass) (Bielu)
-　　Additional alternative names: Rice-koji (Beikiku) (Bencao Gangmu); Mouse's Ear (Sōji) (Bielu); Buddha's Ear Grass (Butsujisō) (Faxiang); Fragrant Thatch (Kōbō) (Shiyi); Yellow Wormwood (Kōkō) (Huibian); Soft Mother (Jōni)
-　　[Song Emperor Huizong composed a poem titled "Soft Mother (Rong Mu)"]
+According to Tashiki-hen, Wet Grass section (多識篇湿草類):
+　Sōkiku-sō (鼠麹草):
+　　Japanese name: Upon investigation, Hoohokusa (保於己久左)
+　　Alternative names: Mushinsō (無心草) [Bieroku]; 
+　　Additional alternative names: Beikiku (米麹) [Gangmu]; Soni (鼠耳) [Bieroku]; Butsuni-sō (仏耳草) [Hōshō]; Kōbō (香茅) [Shūi]; Kōhō (黄蒿) [Kaihен]; Jōni (茸母)
+　　　　　　　※ There exists a poem on Jōni (茸母) by Emperor Huizong of Song
 
-In former times in Japan, on the third day of the third month, Mouse-koji grass was used to make rice cakes
-Therefore in Japanese custom it is called "Mochigusa" (Rice-cake grass)
-
-　　　　　　　　27th day of the third month of spring, Mizunoto-Hitsuji year — copied faithfully
+In ancient Japan, cudweed was used on the third day of the third month to make kusa-mochi (herb rice cakes);
+hence the plant came to be called "Mochi-gusa" (餅草, "rice cake grass") in Japanese custom.
+　　　　　　　　27th day of the third month of spring, Mizunoto-Hitsuji year — copied faithfully from the original

@@ -1,53 +1,52 @@
 ---
 
-【Note: Rengyō (連翹; *Forsythia* sp. / Japanese Forsythia)】
+【Note: Rengyō (連翹; Forsythia, *Forsythia suspensa* / *F. viridissima*)】
 
-**From the *Wakan Sansai Zue* (和漢三才図会; *Illustrated Encyclopedia of Japan and China*), section on Aquatic Herbs (湿草類):**
+**From the *Wakan Sansai Zue* (和漢三才図会; "Illustrated Sino-Japanese Encyclopedia"), section on Moisture-Loving Herbs (湿草類):**
 
-　　**Wa-Renkyō (倭連翹; "Japanese Forsythia")**
+　Wa-renkyō ("Japanese Renkyō / Japanese Forsythia"; 倭連翹)
+　　The *Bencao* (本草) states that the "Small Renkyō" (小連翹) originates in the southern regions. What is called "Renkyō" in Japan today is precisely this plant. The variety that was the original "Renkyō" in Japan (本朝) once existed but is no longer found. Throughout the various provinces, people now simply refer to it as "Renkyō" (連翹).
 
-　　　　The *Honzō* (本草; Chinese materia medica) states that "Shō-Renkyō (小連翹; Small Forsythia) originates from the southern regions." What is known as such in Japan today is precisely this plant. The domestically-produced (*honchō*) variety of Renkyō once existed in Japan but is no longer found. Throughout the various provinces, it is simply called "Renkyō" (連翹).
-
-　　　　　　　[Annotation by the author, Baien]: Upon my own consideration written above: what the *Honzō* calls "Shō-Renkyō" (小連翹; Small Forsythia) is a herbaceous plant, also referred to as "Kusagiyō" (草義陽). It is in this regard that the Chinese and Japanese accounts of Renkyō converge. The matter of *Wa-Renkyō* (倭連翹; Japanese Forsythia) warrants further investigation.
-
----
-
-**From the *Honzō Ikkagen* (本草一家言; *Personal Opinions on Materia Medica*):**
-
-　　Renkyō (連翹) — [repeated entry]
-
-　　　　Shō-Renkyō (小連翹; Small Forsythia): its branches droop downward.
-　　　　Dai-Renkyō (大連翹; Large Forsythia): its branches grow upward.
+　　〔Author's note〕Upon reflection, what the *Bencao* calls "Small Renkyō" (小連翹) is, in fact, an herbaceous plant (草本). It is the one known as "Kusayōyō" (草義陽). This is the point where the Japanese and Chinese accounts of Renkyō converge and correspond with each other. The nature of the Japanese Renkyō warrants further investigation.
 
 ---
 
-**From the *Honzō Wage* (本艸和解; *Japanese Interpretations of Materia Medica*):**
+**From the *Honzō Ikkagen* (本草一家言; "Personal Discourse on the Herbals"):**
 
-　　Alternative names: Ren (連), Ikyō (異翹), Kanrenshi (旱蓮子), Range (蘭華), Sanren (三廉)
-　　The root is called *Renshō* (連軺); also named *Chikkon* (竹根).
-　　　　　　Japanese name: Itachigusa (伊多知久左; "Weasel Herb")
+　Renkyō (連翹)　　(Re-entry / appearing again)
 
-　　　　　　　　　[Note:] This accords well with the description of Renkyō in the *Kyūkō Honzō* (救荒本草; *Materia Medica for Relief from Famine*).
+　　The Small Renkyō (小連翹) has drooping branches.
+　　The Large Renkyō (大連翹) has upright branches.
+
+---
+
+**From the *Honzō Wage* (本草和解):**
+
+　Alternative names: Ikyō (連異翹; 異翹), Kanrenshi (旱蓮子), Range (蘭華), Sanren (三亷)
+　The root is named Renshō (連軺; *lián zhāo*), and is also called Chikkon (竹根; "bamboo root").
+　Japanese name: Itachigusa (伊多知久左; "weasel plant")
+
+　　　　　　The *Jiuhuang Bencao* (救荒本草; Famine Herbals) entry for Renkyō corresponds well with this plant.
 
 [Seal: Medicinal Herbs (薬草)]
 
 ---
 
-**From the *Imyō Bunruishō* (異名分類抄; *Classified Compendium of Alternative Names*):**
+**From the *Imyō Bunrui Shō* (異名分類抄; "Classified Collection of Alternative Names"):**
 
-　　　　Itachihase (伊多知波勢) — [sourced from] the *Wamyō Ruijushō* (倭名類聚抄)
-　　　　Ahakusa (アハクサ; "Foam Herb") — [sourced from] the *Shinsen Jikyō* (新撰字鏡)
-
----
-
-**From the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Collected*):**
-
-　　Renkyō: The *Honzō* (本草) states: "Renkyō, also known by the name Sanrensō (三廉草)."
-　　Japanese name: Itachikusa (以多知久佐; "Weasel Herb")
+　　Itachihase (伊多知波勢)　　 [Source:] *Wamyō Ruijushō* (倭名類聚抄)
+　　Awakusa (アハクサ; "foam plant")　　[Source:] *Shinsen Jikyō* (新撰字鏡)
 
 ---
 
-Written in the spring of the year Kinoe-Saru (甲申), Bunsei 7 [1824], in the second lunar month (Kisaragi/如月):
-Sketched from life at the Kaganku-kan (花萼集館).
+**From the *Wamyō Ruijushō* (和名類聚抄; "Japanese Names Classified and Collected"):**
+
+　Renkyō: The *Bencao* states: "Renkyō, also known by the name Sanrensō (三廉草; 'three-edge plant')."
+　Japanese name: Itachikusa (以多知久佐)
+
+---
+
+Written in the spring, second lunar month (如月; *kisaragi*) of Bunsei 7, the year Kinoe-Saru (甲申; 1824),
+Sketched from life at Kagaku Shūkan (花萼集館; "Flower Calyx Collection Hall").
 
 ---

@@ -1,19 +1,28 @@
-Kenkōshi (Raspberry/Bramble) Flower
-　　Ōmomijichigo (Large Maple-leaf Raspberry)
-　　Tōichigo (Chinese Raspberry)
+## Flower of Kenkōshi (懸鈎子 / Kiichigo, Wild Raspberry/Bramble)
+　　[Also known as:] Ōmomiji-ichigo (Large Maple-leaf Raspberry)
+　　[Also known as:] Tō-ichigo (Chinese Raspberry)
 
-　　　　　　According to Shokkyō [a culinary reference]:
-　　　　　　　Among Japanese customs, there is one called "Karaichigo" (Korean/Chinese raspberry).
-　　　　　　　There is also one called "Tōichigo" (Tang raspberry). They are the same species.
-　　　　　　　What is called "Kiichigo" (yellow raspberry) in the Jikinsho is this plant.
+---
 
-10th day of the first part of Koshō month, Mizunoto-Hitsuji year, true drawing and copy
-【Seal】 Category: Gourds and Fruits (Kako-rui)
+[According to Shokkyō (食競):]
+　In Japanese popular usage, there is a plant called Kara-ichigo (韓伊知己, "Korean raspberry").
+　There is also a plant called Tō-ichigo (唐伊知己, "Chinese raspberry"), which is of the same species.
+　What the Jikinsho (地錦抄) calls Kiichigo (黄苺, "yellow raspberry") is precisely this plant.
 
-According to the Creeping Plants (Mankusō) category of the Zōho Tashikihen:
-　　　Kenkōshi　[Japanese name] [Now considered to be "Kiichigo"] [Alternative name] Sanbo (Mountain Raspberry) [Er Ya]
-　　　　[Additional alternative names] Enkōshi [Nichiyō]　Sen [Er Ya]
-　　　　　　　　　Mokubo [Guo Pu]　Jubo [Nichiwa]
+Sketched faithfully from nature on the 10th day of Koshō month, Mizunoto-Hitsuji year
+【Seal】 Fruit/Berry Category (蓏類)
 
-According to the commentary in Wakan Sansai Zue:
-The mokubo (tree raspberry) has leaves resembling those of the hōzuki (ground cherry), which are hard and deep green in color, and its stem has no thorns. What Li Shizhen speaks of is the stem and leaves of the snake strawberry (hebiichigo). This plant corresponds correctly to that description. In Yamato Honzō, it is called "Tōichigo" (Chinese raspberry).
+---
+
+According to the Zōho Tashikihen (増補多識編), Climbing Plants Category:
+　Kenkōshi (懸鈎子)
+　　Japanese name: According to current investigation, "Ki-ichigo (幾伊知古)"
+　　Alternative names: Sanbo / Yamanoichigo (山苺, "mountain raspberry") [from Erya (爾雅)]; Enkōshi (沿鈎子, "trailing hook plant") [from Nichiyō (日用)]; Sen (葥) [from Erya (爾雅)];
+　　　　　　　　　　　　 Kibo / Kinomichigo (木苺, "tree raspberry") [from Guo Pu (郭璞)]; Jubo (樹苺, "shrub raspberry") [from Nichiwa (日華)]
+
+---
+
+According to the commentary in Wakan Sansai Zue (和漢三才図会):
+　The Kibo (木苺) has leaves resembling those of the grape vine (蒲萄), hard in texture, deep green in color, and its stem bears no thorns.
+　What Li Shizhen (時珍) describes refers to the stem and leaves of the snake strawberry (蛇苺, Hebi-ichigo / Duchesnea indica).
+　This plant (Kibo/木苺) is the correct identification. The Yamato Honzō (大和本草) refers to this plant as Tō-ichigo (唐苺, "Chinese raspberry").

@@ -1,15 +1,13 @@
 ---
 
-## 【*Shikimi* (シキミ; Japanese Star Anise, *Illicium anisatum*)】
+## 【*Shikimi* (樒 / 莽草; Japanese Star Anise, *Illicium anisatum*)】
 
-### According to the *Zōho Tashiki-hen* (増補多識編), in the section on Poisonous Plants (*Dokusō-rui*):
+### According to the *Zoho Tashiki-hen* (増補多識編), in the section on Poisonous Plants (*Dokusōrui*):
 
-　　*Mōsō* (莽草) [Japanese names:] *Shikimi* (志幾美), and also, upon investigation, *Netsumikoro-shi* (祢須美古呂志; "mouse-killer"), found in Suruga Province; alternate name: *Nabewari* (那倍和利). [Alternate names:] *Somō* (鼠莽; "mouse-wort"). [Additional alternate names from the expanded edition:] *Mōsō* (䒽草) [pronounced with the reading "oka"]; *Bōsō* (芒草) [from the *Shanhai Jing* (山海経)].
+　　*Mōsō* (莽草) [Japanese names]: *Shikimi* (志幾美). Also, upon investigation: *Netsumikoro-shi* (祢須美古呂志; "mouse-killer"). This plant is found in Suruga Province. One name: *Nabewari* (那倍和利).
+　　[Alternative names]: *Somō* (鼠莽; "rat's bane"). [Additional alternative name from the *Zoho* supplement]: *Mōsō* (䒽草). *Bōsō* (芒草) [cited from the *Shanhai Jing* (山海経)].
 
----
-
-In the *Sansai Zue* (三才図会), two varieties are listed: *Mōsō* (莽草) and *Mokumitsu* (木密). It states that "*Mōsō* has neither flowers nor fruit," among other things, which warrants further examination.
-Also, the name *Nabewari* (那倍和利) is unclear; *Kōhon* (鉤吻; *Nabewari*) is a different plant — see later volumes for clarification.
+> The *Wakan Sansai Zue* (和漢三才図会) lists two varieties — *Mōsō* (莽草) and *Mokumitsu* (木蜜) — but states that *Mōsō* bears neither flowers nor fruit. This deserves further investigation. Furthermore, the name "*Nabewari*" is uncertain. *Kōfun* (鉤吻; *Gelsemium elegans*, a distinct poisonous plant) is a different species entirely; see later volumes for details.
 
 [Seal: Miscellaneous Trees (*Zatsuki*)]
 
@@ -17,74 +15,76 @@ Also, the name *Nabewari* (那倍和利) is unclear; *Kōhon* (鉤吻; *Nabewari
 
 ### According to the *Yamato Honzō* (大和本草):
 
-　　*Mōsō-ka* (莽草花; Flower of *Shikimi*)
+**Flowers of *Shikimi* (莽草花 / シキミノハナ)**
 
-From the same work, "Yakumei Bengii" (薬名弁疑; "Clarification of Medicinal Names"):
+The same book's section "Yakumei Bengī" (薬名弁疑; "Examination of Drug Names") states: "*Somō*" (鼠莽).
 
-　　*Somō* (鼠莽; Mouse-Wort)
+> The character 樒 (*shikimi*) has been read and transmitted as *shikimi* by popular custom in Japan.
+> In the *Junwamyō* (順和名) it is likewise read as *shikimi*.
+> In the *Imyō Bunruishō* (異名分類抄), it appears as "*Mōsō* (莽草)" with the reading *hanano-ki* (ハナノキ).
+> In the *Wamyō Ruijushō* (和名類聚抄), it is given as *shikimi*.
+> In the *Shinsen Jikyō* (新撰字鏡), it appears as *mohone* (モホネ).
+> According to the *Wakan Sansai Zue* (和漢三才図会):
+>
+> 　　*Mokumitsu* (木蜜) [Japanese name: *Shikimi*; Tang Chinese reading: *Momitsu*]
+> 　　　　Also known as: *Mikkō* (蜜香), *Mokkō* (没香), *Takōboku* (多香木), *A-* [character unclear].
+> 　　　　[Pronunciation] According to the *Tang Yun* (唐韻): "It is a fragrant tree." Japanese name: *Shikimi* (之木美).
+> 　　　　Furthermore, the *Kenpōnashi* (枳椇; Japanese Raisin Tree, *Hovenia dulcis*) is also called *Mokumitsu*, but it is not the same plant as this one.
 
-　　The character 樒 has been passed down through the generations in popular Japanese usage as "*Shikimi*."
-　　In the *Wamyō Ruijushō* (*Jun Wamyō*) it is likewise read as "*Shikimi*."
-　　In the *Imyō Bunruishō* (異名分類抄), it appears as *Mōsō* (莽草), with the reading *Hanaki* (ハナノキ).
-　　In the *Wamyō Ruijushō* (和名類聚抄), it appears as *Shikimi*.
-　　In the *Shinsen Jikkyō* (新撰字鏡), it appears as *Mohone* (モホネ).
-　　In the *Wakan Sansai Zue* (和漢三才図会):
+---
 
-　　　　*Mokumitsu* (木蜜) [Japanese name: *Shikimi*; Chinese pronunciation: *Momitsu*]
-　　　　　　[Alternate names:] *Mitsukō* (蜜香), *Motokō* (没香), *Takōboku* (多香木), *Ana* (阿㝹)
-　　　　　　　　*Mi* (櫁) [Pronounced, according to the *Tōin* (唐韻), as "a fragrant tree"; Japanese name: *Shikimi* (之木美)]
-　　　　　　Also, the tree *Kenhononashi* (枳椇; Japanese raisin tree) is likewise called *Mokumitsu* (木蜜),
-　　　　　　but it is not the same plant as this.
+　　　　　　By popular custom, this plant is offered as a flower (*butsu-ka*) before the Buddha.
+　　　　　　It is also burned as powdered incense (*makkō*) before Buddhist altars.
+　　　　　　Both the bark and the leaves are used.
 
-　　　　　　　　In popular Japanese custom, this plant is offered as a Buddhist flower (*bussō*/*bukka*).
-　　　　　　　　It is also burned as powdered incense (*makkō*) before Buddhist altars.
-　　　　　　　　Both the bark and leaves are used.
-
-　　　　　　　　Sketched from life on the tenth day from the end of *Kyōshō* (夾鐘; the second lunar month), in the year *Kinoe-Saru* (甲申) [Bunsei 7, 1824].
+　　　　　　Sketched from life on the tenth day of the final period of *Kyōshō* (夾鐘; second lunar month),
+　　　　　　in the year *Kōshin* (甲申) [Bunsei 7, 1824].
 
 ---
 
 ### According to the *Wamyō Ruijushō* (和名類聚抄):
 
-　　*Shikimi* (樒) — The *Tōin* (唐韻) states, and the *Kangoshō* (漢語抄) says: "*Shikimi* (之岐美)," meaning "a fragrant tree."
+　　*Shikimi* (樒)　According to the *Tang Yun* (唐韻); also stated in the *Kangoshō* (漢語抄): "*Shikimi* (之岐美) is a fragrant tree."
 
-The same work also states:
+The same book also states:
 
-　　*Mōsō* (莽草; *Shikimi*) — The commentary to the *Shanhai Jing* (山海経注) cites "莽草 (*Mōsō*)."
-　　　　The *Wamyō Honzō* (和名本草) gives the name "*Shikimi*" (之木美).
+　　*Shikimi* (莽草)　According to the commentary on the *Shanhai Jing* (山海経注): "*Mōsō*" (莽草).
+　　　　According to the *Wamyō Honzō* (和名本草): "*Shikimi*" (之木美).
 　　　　It is a plant that can be used to poison fish.
-
-　　*Shikimi* is found in abundance in the provinces of Musashi, Izu, Awaji, Tanba, and Harima.
-　　Branches are broken off and offered before Buddhist altars; the branches and leaves are referred to as "flowers" (*hana*). The bark and leaves are harvested, dried, and burned as incense, which is called *makkō* (抹香; powdered incense).
-
-　　A poem composed in Oki Province:
-
-　　> *Sanagara ya / hotoke no hana ni / oru semaji /
-　　> Shikimi ga eda ni / tsumoru shirayuki*
-　　>
-　　> "Surely one ought not break these branches — not even as offerings to the Buddha —
-　　> for see how white snow piles upon the boughs of the *Shikimi*."
-　　>
-　　> — *Go-Toba-in* (後鳥羽院; Retired Emperor Go-Toba)
 
 ---
 
-## 【Possibly *Takadōdai* (タカドウダイ), *Nourushi* (ノウルシ), or another member of the Euphorbiaceae family】
+　*Shikimi* is found in abundance in the provinces of Musashi, Izu, Awaji, Tamba, and Harima.
+　Its branches are broken off and offered to the Buddha; the branches and leaves are called "flowers" (*hana*). The bark and leaves are gathered, dried, and burned as incense, which is known as *makkō* (抹香; powdered incense).
+
+---
+
+### A poem composed in Oki Province:
+
+> *Sana kara ya / hotoke no hana ni / oresemaji /
+> Shikimi ga eda ni / tsumoru shirayuki*
+>
+> "How could one bear to break it as an offering to the Buddha —
+> the white snow piling upon the branches of the *shikimi*."
+> — Retired Emperor Go-Toba (後鳥羽院)
+
+---
+
+## 【*Taikeki* (大戟; *Euphorbia* sp.) / *Nōurushi* (野漆)】
 
 ### According to the *Imyō Bunruishō* (異名分類抄):
 
-　　*Taikeki* (大戟; *Euphorbia* sp.) [Japanese name: *Nōshiru* (ノウシル)]
-　　　There is also a further variety.
-
-　　　　　The *Wamyō-shō* (和名抄) states: [Japanese names:] *Hamahitokusa* (ハマヒトクサ), *Nehisu* (ネヒス);
-　　　　　　　　and also: *Harakusa* (ハラクサ) is said to be a product of *Joshū* (除州),
-　　　　　　　　　　　　　though this seems uncertain (literally: "not entirely settled").
-
-[Seal: Medicinal Herbs (*Yakusō*)]
+　　*Taikeki* (大戟) [Reading: *Nōshiru* / *Nōurushi*]
+　　　Also, one further variety exists.
 
 ---
 
-On the third day of the middle period of *Kosen* (姑洗; the third lunar month) of the same year [Bunsei 7, 1824, approximately the thirteenth of the third month],
-sketched from life at the medicinal plant garden (*yakuen*).
+　　　　According to the *Wamyōshō* (和名抄): "*Hamahito-kusa*" (ハマヒトクサ). Also called *Nehisu* (ネヒス).
+　　　　Also stated therein: "*Hara-kusa*" (ハラクサ). It is said to be a product of Joshu (除州), though this identification is not yet fully settled.
+
+[Seal: Medicinal Herbs (*Yakusō*)]
+
+Sketched from life at the medicinal herb garden (*yakuen*),
+on the third day of the middle period of *Kosen* (姑洗; third lunar month), the same year [*Kōshin*, Bunsei 7, 1824].
 
 ---

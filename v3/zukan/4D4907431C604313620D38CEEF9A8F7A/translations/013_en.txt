@@ -1,60 +1,79 @@
-Peach (tō) flower - According to Honzō Wage:
-　Japanese name: Momo (peach)
-　　　　　　　　　　　　　　　　　　　　　　　Tree category
-　　　　　　　　　　　　　　　　　　　　　　　Medicinal herbs
+---
 
-　Mizunoe-Uma year, middle day of second month
-　　　　　　　　　　　　　　　　　　　　　　　Yamato Honzō
-　　　　　　　　　　　　　　　　　　　　　　　Recorded in fruit trees category
+## 【MOMO (Peach / *Prunus persica*)】
 
-　　　　According to Yamato Honzō:
-　　　　　According to Matsue Fushi: peach flower
-　　　　　Those with many petals and large red ones
-　　　　　are named ■-peach, those that are ■ red
-　　　　　are called scarlet peach, and white ones are called
-　　　　　green peach
+Peach (Tō) Flower — As recorded in *Honzō Wage*
+　　　Japanese name: Momo (毛茂)
+　　　Copied in the middle of the second month (February), Mizunoe-uma year (1822)
 
-　　　　　　　　　　　　　　　According to a certain book:
-　　　　　　　　　　　　　　　　Izanagi-no-mikoto picked three peach fruits
-　　　　　　　　　　　　　　　　and struck fire ■■, and all evil soldiers
-　　　　　　　　　　　　　　　　departed. By imperial decree, the peach tree was named
-　　　　　　　　　　　　　　　　Itsu-no-kashi Kamitomi-no-mikoto. Also,
-　　　　　　　　　　　　　　　　in the Nihon-ki there is an account of using peaches
-　　　　　　　　　　　　　　　　to drive away demons, and the facts in Japan and China are the same
+〔Seal: Wood Category〕
+〔Seal: Medicinal Herb〕
 
-　　　　According to Wamyō Ruijushō: peach fruit (momo)
-　　　　According to Kan Bunaiden: the Queen Mother of the West's peaches
-　　　　bear fruit once every three thousand years. The Queen Mother of the West is the name of a hermit
-　　　　Peach has the sound "tō," Japanese name: momo
-　　　　According to Yōshi Kango-shō: brocade peach
-　　　　Man'yōshū: Under the early peach tree at my dwelling, I saw the moonlit night
-　　　　　　　　The heart I saw was good, how troublesome these days - Hitomaro
+According to *Yamato Honzō*:
+　　According to *Sōngjiāng Fǔzhì* (Songjiang Prefectural Gazetteer): Among peach blossoms,
+　　those with many petals (double-flowered), large, and red in color
+　　are named "Féng Táo" (縫桃, Sewn Peach).
+　　Those of deep crimson are called "Hibai" (緋棑, Scarlet Peach).
+　　Those that are white are called "Bì Táo" (碧桃, Green/Azure Peach).
 
-　　　　Plum flower - Two varieties
-　　　　　　One variety has white flowers
+　　According to *Wamyō Ruijushō*: Peach (momo)
+　　According to *Hanwu Neizhuan*: The peach of the Queen Mother of the West (Xīwángmǔ) bears fruit once every three thousand years. Xīwángmǔ is the name of an immortal.
+　　The character 桃 is read "Tō" (from Chinese "Táo"); Japanese name: momo.
+　　According to *Yōshi Kango Shō*: Nishiki-momo (Brocade Peach / 錦桃)
+
+　　　　From the *Man'yōshū*:
+　　　　　"Waga yado no hayamomo no shita ni tsukiyo mishi
+　　　　　　mita kokoro yoshi utate kono goro"
+　　　　　(At the early-ripening peach tree in my garden I watched the moonlit night —
+　　　　　 how pleasant it was to see; how troubling it is these days)　— Hitomaro
+
+*Yamato Honzō* 〔recorded in the Fruit Tree section〕
+
+A certain book says:
+　　The deity Izanaki-no-Mikoto took three peach fruits
+　　and struck the evil spirits (*hisamé*) with them; the wicked demons all
+　　fled. Therefore, by imperial decree, the peach tree was named
+　　"Itsunokamu-Tomi-no-Mikoto" (稜威神富の命, the August Spirit of Power).
+　　Furthermore, in the *Nihon Shoki* (Chronicles of Japan),
+　　there is the account of driving away demons with the peach —
+　　and this is a matter found in both Japanese and Chinese tradition alike.
+
+---
+
+## 【SUMOMO (Japanese Plum / *Prunus salicina*)】
+
+Plum (Li) Flower — Two varieties
+　　　One variety has white flowers
 　　　　　　Copied on the twenty-fifth day of the second month of the same year
 
-　　　　　　　　　　　　According to Zōho Tashiki-hen, Five Fruits category:
-　　　　　　　　　　　　　Plum (ri) Japanese name: Sumo
-　　　　　　　　　　　　　　　　　　Momo (alternative name) Kakei
-　　　　　　　　　　　　　　　　　　　　　　　　fruit
+〔Seal: Fruit Tree Category〕
 
-Equinox cherry blossoms
-　Mizunoe-Uma year, middle day of second month
+According to *Zōho Tashiki-hen*, Five Fruits section:
+　　Li (り)　Japanese name: Sumomo　Alternative name: Kakei-shi (嘉慶子)
 
-　　　　　　　　　　　According to Wamyō Ruijushō:
-　　　　　　　　　　　　Plum fruit (sumomo)
+According to *Wamyō Ruijushō*:
+　　Li-shi (Sumomo)
 
-　　　　　　　　　　　According to Ken Myōen:
-　　　　　　　　　　　　Plum has the sound "ri," also called Ōkitsu
-　　　　　　　　　　　　Japanese name: Sumomo
+According to *Kenmyō-en*:
+　　The character 李 is read "Ri"; alternate name: Kōkichi (黄吉)
+　　Japanese name: Sumomo
 
-　　　　　　　　　　　Wakan Sansai Zue, Five Fruits category records:
-　　　　　　　　　　　　Plum (sumomo) sound: Kakeishi
-　　　　　　　　　　　　(Tang pronunciation: rii) ri Kyoryōga Sanskrit
-　　　　　　　　　　　　　Japanese name: Sumomo
-　　　　　　　　　　　　　Variant plum
-　　　　　　　　　　　　　Japanese name: Samomo
+As recorded in *Wakan Sansai Zue*, Five Fruits section:
+　　Li (Sumomo; Tang Chinese reading: Rī)　〔Reading: Ri〕
+　　　　Kakei-shi (嘉慶子)
+　　　　Kuryōka〔Sanskrit / Brahmanic writing〕
+　　　　Japanese name: Sumomo
+　　　Mugi-sumomo (Wheat Plum / 麦李)
+　　　　Japanese name: Sa-momo (左毛々)
 
-　　　　　　　　　　　Plums are shaped like peaches but have a sour taste, therefore
-　　　　　　　　　　　they are called sour peach (sumomo)
+　　The plum resembles the peach in shape but has a sour taste. Hence
+　　it is called "Suan Táo" (酸桃, Sour Peach) — which became "Sumomo."
+
+---
+
+## 【HIGAN-ZAKURA (Equinox Cherry / *Prunus subhirtella*)】
+
+〔Seal: Flowering Tree〕
+
+Higan-zakura (彼岸桜) Flower
+　　Copied in the middle of the second month, Mizunoe-uma year (1822)

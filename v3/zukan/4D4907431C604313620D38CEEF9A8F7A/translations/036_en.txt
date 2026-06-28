@@ -1,73 +1,91 @@
 ---
 
-【Note: A plant of the family Euphorbiaceae (*Euphorbia* sp.).】
+【Editor's note: This appears to depict a species of the family Euphorbiaceae, likely a *Euphorbia* species.】
 
-**Taikeki / 大戟 (Euphorbia)**
-　Alternative names: Kyōkyo (邛鉅), Gebasen (下馬仙)
-　Japanese name: Hamahitogrusa (波末比登久佐) — according to Honzō Wage (本草和解)
-　　　　(Note: There are other plants of the same type besides this one.)
+**Taigeki / 大戟 (Euphorbia)**
+
+　Alternative names: Kōkyo (功鉅), Gebasen (下馬仙)
+　Japanese name: Hamahitogusa (波末比登久佐 / ハマヒトグサ)
+　According to *Honzō Wage* (本草和解): "There are other grasses similar to this one."
 
 [Seal: Medicinal herbs (薬草)]
 
-Drawn on the seventh day of Yayoi (third lunar month), year Mizunoto-Hitsuji (癸未; 1823).
+Painted on the 7th day of the third lunar month (Yayoi), year Mizunoto-Hitsuji (癸未, 1823).
 
 ---
 
-【Note: Jinchōge (*Daphne odora*; winter daphne).】
+【Editor's note: Jinchouge (沈丁花), i.e., *Daphne odora*, family Thymelaeaceae.】
 
-**According to Yamato Honzō:**
-　Zuikō / Ruixiang (瑞香; Chinchōge / Jinchōge), also called Sanbanka (山礬花; Kenchōge). Also known as Shichiri-kō (七里香; "seven-league fragrance").
-　The name "Jinchōge" (沈丁花) is a name coined in Japanese popular usage.
+**According to Yamato Honzō (大和本草):**
+
+　Zuikō (瑞香 / Jinchouge) is also called Sanbanke (山礬花 / Kenchōge), and also Shichiri-kō (七里香; "seven-league fragrance").
+　The name "Jinchouge" (沈丁花) is a name created in Japanese popular usage.
 
 [Seal: Flowering trees (花木)]
 
-Drawn from life in the rain (雨居真写; "rainy-day true sketch") in the latter decade of Kyōshō (夾鐘; second lunar month), year Mizunoto-Hitsuji (癸未; 1823).
+Painted faithfully on a rainy day during the final ten days of the second lunar month (Kyōshō / 夾鐘), year Mizunoto-Hitsuji (癸未, 1823).
 
 ---
 
-**According to the Wakan Sansai Zue, section on Fragrant Trees:**
+**According to Wakan Sansai Zue (和漢三才図会), section on Fragrant Trees:**
 
-　Zuikō / Ruixiang (瑞香; Tang-dynasty Chinese reading: Tsui Hyan; Japanese: Rinchōge)
-　　Alternative name: Bokkō (睦香; "harmonious fragrance")
-　　Common name: Jinchōge (沈丁花)
-　　Note: Calling it "Rinchōge" (里牟知也宇介) is an error.
+　Zuikō (Rinchōge) — Chinese pronunciation: Zuì Xiāng (ツイ・ヒャン)
+　　Also: Bōkō (睦香) — [according to the *Wuzazu* (五雑爼)]
+　　Commonly called: Shinteuge (沈丁花)
+　　Erroneously referred to as: Rinchōge (里牟知也宇介)
 
-　The Wuzazu states:
-　　It is said that a Buddhist monk of Mount Lu (廬山) was napping beneath a mountain rock when he caught the scent of an unusual fragrance. Upon waking, he followed the scent and found this flower. It was therefore named "Suikō" (睡香; "sleeping fragrance"). Later, a person fond of such things considered it an auspicious omen and renamed it "Zuikō" (瑞香; "auspicious fragrance").
+According to the *Wuzazu* (五雑爼): It is said that a monk on Mount Lu (廬山) was napping beneath a mountain rock when he was awakened by an unusual fragrance. He followed the scent and found this flower. He therefore named it *Suikō* (睡香; "sleeping fragrance"). Later, a person of refined taste considered it an auspicious omen (祥瑞) and changed the name to *Zuikō* (瑞香; "auspicious fragrance").
 
----
+**I (Baien) note:**
 
-**[The author, Baien, states:]**
-
-　The Sansai Zue lists Sanbanka (山礬) and Zuikō (瑞香) as two separate species, but the majority of texts treat them as a single undivided species. Sanbanka does not lose its leaves in winter; it opens white flowers in the third month. Because its blossoms are numerous and its fragrance is rich, it is named "Un" (芸). Its leaves resemble those of the gardenia (梔子; Kuchinashi) and are serrated. The leaves of Zuikō also resemble those of the gardenia but lack serration. It is probable that Sanbanka and Zuikō are of the same type, differing only in flower color — white versus purple — and in petal number — six for Sanbanka and four for Zuikō. Zuikō, too, does not lose its leaves in winter.
+　The *Wakan Sansai Zue* lists Sanban (山礬) and Zuikō (瑞香) as two separate entries; however, most other books treat them as a single species without distinction. Sanban does not shed its leaves in winter, blooms with white flowers in the third month, and its abundant blossoms carry a rich fragrance — hence the name "Yun" (芸). Its leaves resemble those of the gardenia (*Gardenia jasminoides* / 梔子) and have serrated edges. The leaves of Zuikō are also similar to gardenia leaves, but without serration. I suspect that Sanban and Zuikō belong to the same category, differing only in that one bears white flowers and the other purple. Sanban flowers have six petals, while Zuikō flowers have four — a minor difference. Zuikō likewise does not shed its leaves in winter.
 
 ---
 
-**According to the Supplemented Tashiki-hen, section on Shrubs:**
+**According to the Supplemented *Tashiki-hen* (増補多識編), section on Shrubs (灌木類):**
 
-　Sanbanka / 山礬 (Han)
-　　Japanese name: Upon reflection, Rinchōge (里牟知也宇介). Found at Hata Temple (秦寺) in Yamashiro Province (present-day Kyoto), where it opens white flowers and bears fruit resembling black pepper (胡椒).
-　　Alternative name: Shunkei (春桂; "spring laurel") [popular name]
-　　Additional alternative names: Unkō (芸香) [reading: Un], Teika (掟花) [reading: Tei/Jō], Teika (柘花) [reading: Tei/Zheng], Chōge (瑒花) [reading: Yáng], Shichiri-kō (七里香)
-
----
-
-**According to the Honzō Ikka-gen (本草一家言):**
-
-　Sanbanka (山礬) — also known as: Teika (鄭花), Gyokuzuika (玉蘂花), Shichiri-kō (七里香), Kaidō (海洞), Chōge (瑒花).
-
-　Kotobuki [the author, Baien] states:
-　　There are three things that bear the name "Kaidō" (海洞): Kaidōka (海洞花) [Tobera; *Pittosporum tobira*], Sanbanka (山礬), and Harikiri (刺桐; *Aralia elata* or similar) [also called Kaidō].
+　Sanban (山礬 / Han)
+　　《Japanese name》Upon my consideration: Rinchōge (里牟知也宇介 / リンチョウゲ); found at Hatadera Temple (秦寺) in Yamashiro Province. Bears white flowers and produces fruit resembling pepper.
+　　《Alternative names》Shunkei (春桂; "spring laurel") — popular name
+　　《Additional alternative names》Unkō (芸香 / 雲香) — Chinese reading: Yún
+　　Teika (掟花) — Chinese reading: Dìng (定)
+　　Teika (柘花) — Chinese reading: Zhèng (鄭)
+　　Chōge (瑒花) — Chinese reading: Yǎng (瑒)
+　　Shichiri-kō (七里香; "seven-league fragrance")
 
 ---
 
-**[The author, Baien, further states:]**
+**According to the *Bencao Gangmu* (本草綱目):**
 
-　Zuikō (瑞香) and Sanbanka (山礬) appear to be the same species — as in the case of red-flowering variants, there are variations.
+　Zuikō (Jintōge / 瑞香):
+　　　　Hanakonsō (ハナコンゼウ)
+　　　　Chigosō (チゴセウ)
+　　　　　　　　(These are regional dialect terms of a certain province)
 
-　Yellow Zuikō (黄瑞香) — [Mitsumata; *Edgeworthia chrysantha*]
-　White Zuikō (白瑞香) — [Onishibari / Natsuhōzu; *Daphne pseudomezereum*] (two further sub-varieties exist)
+---
 
-　The yellow variety (Mitsumata) is of a greatly different species. The white variety, though it closely resembles the others, is nonetheless a distinct species. Among these, there are those that flower in spring without leaves, and those in which leaves and flowers appear together.
+**According to *Honzō Ikkagen* (本草一家言):**
+
+　Sanban (山礬) — alternative name: Teika (鄭花); also: Gyokuzuika (玉蘂花)
+　　　　also: Shichiri-kō (七里香); also: Kaidō (海洞)
+　　　　also: Chōge (瑒花)
+
+　**Ju (寿 / Baien) notes:**
+　　Things named "Kaidō" (海洞) are of three kinds:
+　　　　Kaidōka (海洞花) — Tobera (*Pittosporum tobira*)
+　　　　Sanban (山礬)
+　　　　Shidō (刺桐) — also called "Kaidō" — Harigiri (*Kalopanax septemlobus*)
+　　　　These are the ones referred to.
+
+---
+
+**I (Baien) note further:**
+
+　Zuikō (瑞香) and Sanban (山礬) both seem to belong to the same category, and it appears there may even be a variety with red flowers.
+
+　Kizuikō (黄瑞香; yellow Zuikō) — Mitsumata (*Edgeworthia chrysantha*)
+　Shirozuikō (白瑞香; white Zuikō) — Ōnishibari (*Daphne pseudomezereum* / ヲニシバリ) and Natsuhōzu (ナツホウズ); additionally, there are two further distinct varieties.
+
+　The Kizuikō differs greatly in its nature/character from the others. The Shirozuikō, while closely resembling (Zuikō), is nonetheless a separate species. Those that bloom in spring before their leaves emerge are eventually followed by their leaves — that is, the leaves come out after the flowers, in succession.
 
 ---

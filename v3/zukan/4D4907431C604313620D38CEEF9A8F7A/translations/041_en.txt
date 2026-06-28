@@ -1,64 +1,66 @@
 ---
 
-## 【Shidareyanagiite (枝垂柳; Weeping Willow, *Salix babylonica*)】
+## 【Shidariyanagiー(枝垂柳; Weeping Willow, *Salix babylonica*)】
 
-**According to the *Chikinsho* (地錦抄; *Illustrated Manual of Garden Plants*):**
-　　*Dokuyōryū* (独榣柳; Weeping Willow, *Shidareyanagiite*)
-
-[Seal: Garden Trees (園木)]
+**According to the *Jikinsho* (地錦抄; *Compendium of Garden Plants*):** *Shidariyanagiー* (独榣柳; Weeping Willow)　[Category:] Garden Trees (園木)
 
 ---
 
 **According to the *Yamato Honzō* (大和本草; *Japanese Materia Medica*):**
 
-　　Willow Flower (*Ryūka* / 柳花) · *Yōryū* (楊柳; willow)
+　　*Ryūka* (柳花; "willow flower") / *Yōryū* (楊柳; "poplar-willow")
 
-　　　　"*Yōryū*" (楊柳) is the general name for willows, but when used with particular distinction, it refers specifically to the weeping willow (*Shidareyanagiite*).
-　　　　Li Shizhen [in the *Bencao Gangmu*] states: The *yōryū* (willow) is supple and drooping, its branches hanging down and swaying like flowing water — hence it is called *ryū* (柳; "willow").
-　　　　This is therefore the *yōryū* (楊柳; the Weeping Willow / *Shidareyanagiite*).
-
----
-
-　　　　　　　　　　The twenty-ninth day of the last part of *Kyōshō* (夾鐘; second lunar month),
-　　　　　　　　　　year Kinoe-Saru (甲申) [Bunsei 7, 1824]:
-　　　　　　　　　　Sketched from nature at the Ukantel (雨閑亭; "Rain-Leisure Pavilion").
+　　　　"Yōryū" is the common general name; when used specifically, it refers to the *Shidariyanagiー* (weeping willow).
+　　　　Li Shizhen (時珍) states: "The *yōryū* is pliant and drooping, flowing downward; hence it is called *ryū* (柳; willow)."
+　　　　This is precisely the *yōryū* (楊柳 / *Shidariyanagiー*, weeping willow).
 
 ---
 
-**According to the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Collected*):**
-
-　　Willow (*Shidareyanagiite*)　　[The *Kenmeien* (兼名苑) states:] The willow (*ryū*) has an alternative name: *Shōyō* (小楊; "small poplar/willow").
-　　　　The reading of the character 柳 (*ryū*): the *fanqie* spelling is *kaku* (加久ノ反).
-　　　　Japanese name: *Shitariyanaranoki* (之太里夜奈良木)
+Sketched from nature at the *Ukantel* (雨閑亭; "Rain Leisure Pavilion"), on the ninth day of the latter part of *Kyōshō* (夾鐘; second lunar month), year Kinoe-Saru (甲申) [Bunsei 7, 1824].
 
 ---
 
-**According to the *Zoho Tashikiden* (増補多識編; *Expanded Nomenclature Compendium*), in the section on Tall Trees (*Kyōboku-rui*):**
+**According to the *Wamyō Ruijushō* (和名類聚抄; *Japanese Names Classified and Assembled*):**
 
-　　*Ryū* (柳; willow)　　[Japanese name:] *Shidari-yanagi* (志多利也那岐)　　[Alternative names:] *Shōyō* (小楊; "small poplar") [source: *Shuowen* (説文)]; *Yōryū* (楊柳; willow); *Nikuridamoku* (尼倶律陀木) [source: Buddhist texts]
+　　*Ryū* (柳; *Shidariyanagiー*)
+　　　　[The *Kenmeien* (兼名苑) states:] "Willow (*ryū*) has the alternative name *shōyō* (小楊; 'small poplar')."
+　　　　The pronunciation of 柳 (*ryū*) is the *fanqie* spelling "kaku no han" (加久ノ反; combining initial *ka* + final *ku*).
+　　　　Japanese reading: *Shitariyanarakiー* (之太里夜奈良木)
 
 ---
 
-This species (i.e., willow) is exceptionally numerous in its varieties. The author, *Hisatoshi* (寿), states:
+**According to the *Zoho Tashikiden* (増補多識編; *Expanded Nomenclature Compendium*), in the section on Tall Trees (喬木類):**
 
-　　　　○ Willow (*Shidare-yanagi*): The *yōryū* (楊柳) is in fact the *yō* (楊; "round-leafed willow" [*Maru-ba-yanagi*], whose branches do not droop). The *mizuyanagiite* (水楊) is the [*Kawayanagiite* / *Inokoyanagiite*]. The *hakuyō* (白楊; white poplar) is the [*Hakoyanagiite*]. The *ibu* (栘枎) is the [*Shideyanagiite*]. The *teiryū* (檉柳) is in fact the *gyoryū* (御柳; *Tamarix chinensis*). The *koryū* (杞柳) is the [*Kobuyanagiite*], and so on.
+　　*Ryū* (柳; willow)
+　　　[Japanese names:] *Shistari* / *Shidari* (志多利), *Yanagiー* (也那岐)
+　　　[Alternative names:] *Shōyō* (小楊; "small poplar") [source: *Setsumun* (説文; *Shuowen Jiezi*)]；　*Yōryū* (楊柳)；　*Nikuridamoku* (尼倶律陀木) [source: Buddhist scriptures]
+
+---
+
+This species [the weeping willow] is particularly numerous [in variety]. The author *Kotobuki* (寿; Baien Chokkyaku) remarks:
+
+　〇 *Ryū* (柳; *Shitariyanagiー*)
+　　　*Yōryū* (楊柳) refers to the *yō* (楊; poplar; round-leafed willow, *maruba-yanagiー*, whose branches do not droop).
+　　　*Suiyō* (水楊; "water willow") refers to *kawa-yanagiー* (カワヤナキ; river willow) and *inoko-yanagiー* (イノコヤナキ).
+　　　*Hakuyō* (白楊; "white poplar") refers to *hako-yanagiー* (ハコヤナキ; box poplar / *Populus sieboldii*).
+　　　*Ifu* (栘枎) refers to *shide-yanagiー* (シデヤナキ; hop-hornbeam willow).
+　　　*Teiryū* (檉柳) is the same as *Gyoryū* (御柳; tamarisk, *Tamarix chinensis*).
+　　　*Kiryū* (杞柳) refers to *kobu-yanagiー* (コブヤナギ; basket willow / *Salix koryanagi*), and so on.
 
 [Seal: Flowering Trees (花木)]
 
 ---
 
-## 【Higanzakura (彼岸桜; Higan Cherry, *Prunus subhirtella*)】
+## 【Higan-zakura (彼岸桜; Higan Cherry, *Prunus subhirtella* / *Cerasus subhirtella*)】
 
-　Higan Cherry (彼岸桜)
+　*Higan-zakura* (彼岸桜)
 
 **According to the *Honzō Ikkagen* (本草一家言; *Personal Discourse on Materia Medica*):**
 
-　　*Hōshi-kaidō* (帚子海棠; "broom-cluster crabapple")　　[The variety whose branches grow upright (*ki-shi-sha*; 起枝者): Higan Cherry (*Higanzakura*)]
+　　*Sōshi-kaidō* (帚子海棠; "broom-branch crabapple") — [specifically,] the upright-branching form — *Hikan-zakura* (ヒカンザクラ; Higan cherry)
 
 ---
 
-　　　　　　　　　　The first day after the new moon (望; *mochizuki*; i.e., the fifteenth day)
-　　　　　　　　　　of *Sen* (洗; third lunar month) of the same year [Kinoe-Saru / Bunsei 7, 1824]:
-　　　　　　　　　　Sketched from nature during a long rain (霖雨).
+The sixteenth day (望一日) of the beginning of *Senso* (洗初; the opening of the same season, i.e., the third lunar month [*Kyōshō*]), during continuous rains (*rinmu*): sketched from nature.
 
 ---

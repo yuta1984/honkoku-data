@@ -1,55 +1,53 @@
-## Mitsumata (三杈木 / Edgeworthia chrysantha)
+## Mitsumata (Oriental Paperbush)
 
-Listed in the "shrubs" section of the *Wakan Sansai Zue* (Japanese-Chinese Illustrated Encyclopedia of Three Realms).
-The correct character writing is uncertain.
+*Listed in the "Wakan Sansai Zue" (Japanese-Chinese Illustrated Encyclopedia), section on shrubs*
+　　三杈木 (Mitsumata tree) — the correct character form is uncertain
 
-　Appears in *Chaseki Sōkashū* (Collection of Flower Arrangements for Tea Gatherings).
-　　　　　　　　　　　　　　　　[Also known as] Kekkō (Mitsumata)
-　　　　　　　　　　　　　　　　[Also known as] Kizuikō (Yellow Daphne / Mitsumata)
+　　Also cited in "Chaseki Sōkashū" (Collection of Flower Arrangements for Tea Ceremony)
+　　　　　　　　as: 結香 (Mitsumata) and 黄瑞香 (Yellow Daphne / Mitsumata)
 
-　Bunsei 4th year, Kanoto-Mi (1821)
-　　Copied in the second month (February)
+　　Copied in the second month of Bunka 4 (1807), the year of Kanoto-Mi (辛巳)
 
----
-
-　　　　　　　　　　[Seal: Vegetable Category]
-　　　　　　　　　　[Seal: Medicinal Herb]
-　　　　Copied in the spring of Kōshin year
-Eika: copied again at a later date
+　　　　　　　[Seal: Vegetable category]
+　　　　　　　[Seal: Medicinal herb]
+　　　Copied on a spring day of Kanoe-Tatsu (庚辰) year
 
 ---
 
-## Broad Bean (蚕豆 / Vicia faba)
-
-*Shokkyō* states:
-　　This is edible and fit for use.
-
-*Yamato Honzō* states:
-　　The plant was named thus because its pods face skyward (空, sora).
-
-Also written as 空豆 (Soramame). In western Japan (Saikoku), it is called "Tō-mame" (Chinese bean).
-　Copied in the spring of Kōshin year
-　　　　【Seal: Grain Category】
-　　　　【Seal: Medicinal Herb】
-
-*Zōho Tashiki* (Expanded Polylingual Terminology), under the legumes section, states:
-　　Broad Bean (Sanzumame):
-　　　　Japanese name: Soramame (曽羅末米)
-　　　　Alternative names: Kōzu (胡豆, "Foreign Bean")
-　　　　　　　　　　　　　Oyatarashi-mame [or Oyataoshi-mame]
-　　　　　　　　　　　　　Yukiwari-mame ("Snow-breaking bean")
-　　　　　　　　　　　　　　　　(Names used by farming households)
-
-　　It is commonly cultivated in Yamato province, and therefore also called "Yamato-mame."
-　　In the western provinces, it is called "Tō-mame."
-
-　　　　【Seal: Medicinal Herb】
-　　(Recorded in various texts)
+## (A Brassicaceae plant)
+"Eiwa" (Blossom) — copied at a later date
 
 ---
 
-## Forsythia (連翹 / Forsythia suspensa)
+## Broad Bean (Fava Bean)
 
-　　Also written as 連喬 (Renkyō).
-　　Japanese name: Itachi-gusa (Weasel Grass)
-　　　　Copied again at a later date
+蚕豆 (Soramame / Broad bean)
+　　*From "Shokukyō" (Food Competition/Records):*
+　　　This may be used [as food]
+　　*From "Yamato Honzō" (Yamato Materia Medica):*
+　　　Named so because its pods face upward toward the sky (空, sora)
+
+　　空豆 (Soramame) — In the western provinces it is called "Tō-mame" (Chinese bean)
+　　　Copied on a spring day of Kanoe-Tatsu (庚辰) year
+　　　　　　[Seal: Grain category]
+　　　　　　[Seal: Medicinal herb]
+
+*From "Zōho Tashiki" (Expanded Polyglot Encyclopedia), section on legumes:*
+　　　蚕豆 (Sanmame) — Japanese name: Soramame (曽羅末米) — Alternative name: Kōzu (胡豆)
+　　　　　　◦ Oyatarashi-mame (also written Oyataoshi-mame)
+　　　　　　　Yukiwari-mame (Snow-splitting bean)
+　　　　　　　　　　　[Names used by farming households]
+
+　　　　　　　Called "Yamato-mame" because it is widely cultivated in Yamato Province
+　　　　　　　In the western provinces, called "Tō-mame" (Chinese bean)
+
+---
+
+## Forsythia (Rengyō)
+
+　　　　　　[Seal: Medicinal herb]
+　　Cited in various records
+連翹 (Forsythia)
+　　Also written as 連喬
+　　Japanese name: Itachi-gusa (Weasel grass)
+　　　　　　Copied at a later date

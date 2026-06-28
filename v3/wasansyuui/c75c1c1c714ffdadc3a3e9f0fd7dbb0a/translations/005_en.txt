@@ -1,0 +1,24 @@
+When distributing the above four types of purchased goods
+　proportionally according to each merchant's contributed silver:
+
+64 kanme, 800 monme of silver (Kyoto merchant's share):
+　　　　　　　　Ginseng: 101 kin, 10 ryō
+　　　　　　　　Aloes wood: 28 kin, 14 ryō
+　　　　　　　　Silk thread: 3,402 kin
+　　　　　　　　Rolled goods: 113 rolls, 1 jō, 5 shaku, 2 sun
+　The allocation for the remaining two merchants need not be written out.
+　The above method is made clear in the Jinkōki.
+
+Dividing the four goods according to 64 kanme, 800 monme of silver:
+
+　Among these, what is the unit price in silver
+　for each of ginseng, aloes wood,
+　silk thread, and rolled goods?
+
+Ginseng: 101 kin, 10 ryō
+　Silver for this: 16 kanme, 200 monme
+　Unit price: 160 monme of silver per kin
+
+Aloes wood: 28 kin, 14 ryō
+　Silver for this: 16 kanme, 199 monme, 9 fun, 8 rin (and a remainder)
+　Per kin: 571 monme, 4 fun, 2 rin, 8 mō, 4 shi
