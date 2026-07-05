@@ -1,20 +1,22 @@
 【Right Page】
-1. Area of Angular Diamond Shape    1. Angular Long Object Conversion
-1. Flat Long Object Conversion      1. Round Long Object Conversion
-1. Triangular Round Long Object     1. Arrow-notch Long Object
-1. Double Arrow-notch Long Object   1. Sword-tip Long Object
-1. Saddle Shape Area                1. Circular Area / Square Conversion
-1. Angular Area Triangle Volume     1. Extraction of Cube Root of Circle Method
-1. Chōma Area Calculation           1. Wide Room Volume Calculation
+
+- The area of an angular diamond shape　　　- Correcting an angular long object
+- Correcting a flat long object　　　　　　　- Correcting a round long object
+- A triangular round long object　　　　　　- An arrowhead-notch long object
+- A double arrowhead-notch long object　　　- A sword-point long object
+- The area of a saddle shape　　　　　　　　- Correcting a round area to square measure
+- Calculating an angular area as a triangle　　- The foundational method for the cube root of a circle
+- Calculating a town-block area　　　　　　- Calculating a wide room
 
 【Left Page】
-　　▲ Nagasaki Purchase: Division of Principal Silver Among Three Merchants
 
-Ginseng: 250 kin　　　Aloes wood: 70 kin
-Rolled goods: 280 rolls　　Silk thread: 8,400 kin
-　　The above four types of goods were purchased together
-　　for 160 kanme of silver. Three merchants each contributed silver.
+　　▲ Purchases in Nagasaki: Dividing the Principal Silver Among Three Persons
 
-64 kanme, 800 monme of silver → contributed by a Kyoto merchant
-52 kanme, 300 monme of silver → contributed by a Sakai merchant
-42 kanme, 900 monme of silver → contributed by an Osaka merchant
+Ginseng: 250 kin　　　Aloe wood (jinkō): 70 kin
+Scrolls: 280 rolls　　　Silk thread: 8,400 kin
+
+The above four kinds of goods were purchased together for 160 kanme of silver. Three merchants contributed the silver as follows:
+
+64 kanme, 800 monme — contributed by the Kyoto merchant
+52 kanme, 300 monme — contributed by the Sakai merchant
+42 kanme, 900 monme — contributed by the Osaka merchant

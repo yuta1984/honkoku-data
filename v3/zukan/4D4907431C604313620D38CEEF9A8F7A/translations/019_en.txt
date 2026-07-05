@@ -1,76 +1,94 @@
-## 【AOKI (Japanese Laurel / Aucuba japonica)】
+---
 
-Zōho Tashiki-hen, Trees Section
+## 【AOKI — Japanese Laurel (Aucuba japonica)】
+
+From the *Zōho Tashiki-hen* (Expanded Encyclopaedia of Plant Names), Trees section:
 　　　　　Aoki (阿於幾)
 
-[Seal] Garden Trees
+[Seal] Garden Tree
 
-According to Yamato Honzō:
-　　Ahaki/Aoki (檍)　also known as: Mannen-eda (Everlasting Branch)
-　　　　　　　　　also: Tōsei (冬青, Winter Green)
-　　　　　　　　Its flowers
-　　　　　　　　　are called Mannen-hana (Everlasting Flower)
-　　　　　　　　　　　and also Aoki (青木, Green Tree)
+According to *Yamato Honzō* (Great Japanese Herbal):
+　　《Ahaki (檍) / Aoki》　Alternate name: Mannenbranch (万年枝, "Ten-thousand-year branch")
+　　　　　　　　　Also called: Tōsei (冬青, "Winter-green")
+　　　　　　　　　Its flower is called:
+　　　　　　　　　　Mannen-hana (万年花, "Ten-thousand-year flower")
+　　　　　　　　　　　Also simply: Aoki (青木, "Green tree")
 
-The Tōyō-sango (Peach-leaf coral, i.e., large-leafed Aoki), the small-leafed Aoki,
-and the long-leafed Aoki are all of the same family. The Setsurisango (Yukizato-sango,
-"snow coral") is popularly known as Shimofuri-aoki (frost-speckled Aoki). Its leaves are
-mostly large, and it is not the variegated variety, but a naturally growing specimen.
+The *Tōyō-sango* (桃葉珊瑚, "peach-leaf coral plant") belongs to the same category
+as *Ōba-aoki* (large-leaved aoki), *Koba-aoki* (small-leaved aoki),
+and *Nagaba-aoki* (long-leaved aoki).
+The *Setsuri-sango* (雪裏珊瑚, "coral-in-snow") is commonly called
+*Shimofuri-aoki* (霜降青木, "frost-speckled aoki") in Japan;
+its leaves are mostly found on large-leaved varieties,
+and it is not a variegated (spotted) variety but grows as a solitary (non-pollinating) plant.
 
-　　Sixth day of Kisaragi (Yayoi month), Mizunoe-Uma year
+　　Mizunoe-Uma year, Koshin (third month), sixth day.
 
-According to Wamyō Ruijushō:
-　　Ahaki (檍)　Pronounced "oku." The Nihon Shoki Shiki states: "Ahaki (阿波木)."
-　　　　　　　　　Upon reflection, it also appears as an alternate name for the oak (Kashi).
-　　　　　　　　　The commentary of the Erya states: "It belongs to the catalpa (Azusa) family."
-
-
-According to Kihinkyō and Honzō Ikkagen:
-　Tōyō-sango (Peach-leaf coral / Aoki)
-
+According to the *Wamyō Ruijū-shō* (Japanese Name Thesaurus):
+　　*Ahaki* (檍) — pronounced "oku (億)." The *Nihongi Shiki* records it as "Ahaki."
+　　　　　　　　　On reflection, it is also recorded as an alternate name for the *kashi* (oak/holm oak),
+　　　　　　　　　as found in the *Erya* commentary; it belongs to the catalpa (*azusa*) family.
 
 ---
 
-## 【TABIRAKODAMASHI (False Tabirako)】
-
-　Genhōsai (元寶菜 / Tabirakodamashi)　one variety
-
-[Seal] Plant Category
+According to *Kihinkyō* (Mirror of Rare Plants) and *Honzō Ikke-gen*:
+　《*Tōyō-sango* (桃葉珊瑚) — read: Aoki》
 
 ---
 
-## 【NAZUNA (Shepherd's Purse / Capsella bursa-pastoris)】
+## 【TABIRAKODAMASHI (resembling Tabirako; possibly Veronica / Speedwell — *Veronica persica*?)】
 
-Zōho Tashiki-hen, Soft and Smooth Plants Section:
-　　Nazuna (薺, Sai)　Japanese names: Natsu (那豆) / Na (那)
-　　Alternative name: Gosei-sō (護生草, "Life-protecting herb")
-　　The seed is called Sai (蒫)
+　*Genpō-sai* (元宝菜, "treasure-coin herb") — one variety
 
-　　　　　　■Natsuna (荖蔍) 〔Shinsen Jikyō〕　Nazuna (薺)　Japanese name: Nani (那耳)〔Kyōyaku Honzō〕
+[Seal] Grass/Herb Category
 
+---
 
-Kyūkō Yafu (救荒野譜):
-　　Nazuna (薺菜児) 〔Chinese name〕
-　　　　　　　　　Ninth day of Kisaragi (Yayoi month), Mizunoe-Uma year
-　　Nazuna flower　Keimōzai (鶏毛菜)　〔Wamyōshō〕
+## 【NAZUNA — Shepherd's Purse (Capsella bursa-pastoris)】
 
+From the *Zōho Tashiki-hen*, Soft and Smooth Herbs section:
+　　*Sai* (薺) — Japanese names: *Natsuna* (那豆那) / *Na* (那)
+　　　　　　　　　Alternate name: *Gosei-sō* (護生草, "life-protecting herb")
+　　　　　　　　　　The seed/fruit is called *sai* (蒫).
+
+　　　　　　　　　■ *Natsuna* (荖蔍) 《*Shinsen Jikyō*》　*Sai* (萕/薺) 《Japanese name reading》　*Nani* (那耳) 《*Gōyaku Honzō* (Regional Medicines Herbal)?》
+
+---
+
+From *Kyūkō Yafu* (Wild Plants for Famine Relief):
+　　*Saisa-ji* (斉菜児, "Nazuna" — Chinese name)
+　　　　　　　　　Mizunoe-Uma year, Koshin (third month), ninth day
+　　*Saika* (斉花)　《*Keimō-zai* (鶏毛菜, "chicken-feather herb")》　《*Wamyō-shō*》
 
 [Seal] Vegetable Category
 [Seal] Medicinal Herb
 
-According to Wamyō Ruijushō:
-　　Nazuna (薺)　In Cui Yüxi's Shokukyō (食経), it states: "Sai (薺)" — the character is a combination of the readings of "ji" (辞) and "kei" (啓), upper-tone reading. Japanese name: Natsuna (奈都那).
+---
 
-According to Wakan Sansai Zue:
-Buddhist monks take its stems and use them as a tool for stirring up lamp flames,
-and it can also repel mosquitoes and moths. For this reason it is called Gosei-sō (護生草, "Life-protecting herb").
-Its taste is sweet. Shi Kuang (師曠) said:
-"When the year is about to be prosperous, the sweet herb (甘草) grows first"
-　[The sweet herb here refers to Nazuna.]
-"When the year is about to bring hardship, the bitter herb (苦草) grows first"
-　[The bitter herb here refers to Teireki (葶藶, field pennycress).]
-Note: It is one of the seven vegetables used in the seven-herb rice porridge (nanakusa-gayu) eaten on the seventh day of the first month.
-Its seedpods form a triangular shape, wider at the tip and narrow at the base,
-resembling the plectrum (bachi) of a shamisen.
-When children rub two of these pods together,
-they make a sound. For this reason, it is also called Sansen-sō (三線草, "Three-string herb").
+According to the *Wamyō Ruijū-shō*:
+　　*Sai* (薺) — As recorded in Cui Yushi's *Shokukyō* (Dietary Classic):
+　　　"*Sai* (斉/薺)" is pronounced using the fanqie notation "ji-kei (辞啓)" reversed,
+　　　in the upper-deflected tone (ascending tone), heavy reading.
+　　　Japanese name: *Natsuna* (奈都那).
+
+---
+
+According to the *Wakan Sansai Zue* (Illustrated Sino-Japanese Encyclopedia):
+　Buddhist monks (priests) take its stem and use it as a poker
+　to stir and tend the flame of an oil lamp.
+　Because it can repel mosquitoes and moths,
+　it is called *Gosei-sō* (護生草, "life-protecting herb").
+　Its flavor is sweet.
+　The ancient Chinese sage *Shi Kuang* (師曠) said:
+　　"When the year is about to bring an abundant harvest,
+　　the sweet herb (*amakusa*) sprouts first"
+　　　　(*amakusa* here refers to *nazuna* / shepherd's purse)
+　　"When the year is about to bring hardship,
+　　the bitter herb (*nigakusa*) sprouts first"
+　　　　(*nigakusa* here refers to *teireki* / pepperwort, *Lepidium* sp.)
+　Note: This is one of the seven herbs used in the Seven-Herb Rice Porridge (*nanakusa-gayu*)
+　eaten on the seventh day of the first month.
+　Its fruit (seed pod) is triangular in shape, not yet large when formed,
+　narrowing at the base, and resembles the plectrum (*bachi*) of a three-stringed instrument (*shamisen*).
+　Children rub two of its seed pods together, which produces a sound,
+　and for this reason it is also called *Sansen-sō* (三線草, "three-string herb").

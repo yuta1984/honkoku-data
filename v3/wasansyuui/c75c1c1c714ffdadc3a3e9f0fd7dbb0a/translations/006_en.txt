@@ -1,0 +1,14 @@
+Rolled goods: 113 rolls, 1 jō, 5 shaku, 2 sun
+　Silver for this: 16 kanme, 199 monme, 9 fun, 7 rin (and a remainder)
+　　Per roll: 142 monme, 8 fun, 5 rin, 7 mō, 1 shi
+
+Silk thread: 3,402 kin
+　Silver for this: 16 kanme, 199 monme, 9 fun, 8 rin (and a remainder)
+　　Unit price: 47 monme, 6 fun, 1 rin, 9 mō per kin
+
+【Method】
+Dividing the original silver of 160 kanme into four equal parts gives 40 kanme. Dividing this 40 kanme by 250 kin (the total quantity of ginseng) gives the unit price of 160 monme per kin. For ginseng's 101 kin and 10 ryō:
+
+Multiply 10 ryō by 4 to convert to monme, yielding 40 monme. This means the quantity is 101 and 40/160 kin, i.e., 101 and 1/4 kin. Multiply this by the unit price per kin (160 monme) to obtain the answer. Likewise for aloes wood: dividing 40 kanme by 70 kin gives 571 monme, 4 fun, 2 rin, 8 mō, 4 shi per kin. For 28 kin and 14 ryō: convert the ryō in the same manner as for ginseng, yielding 28 and 35/something kin, then multiply by the unit price per kin to obtain the answer.
+
+For rolled goods as well: dividing 40 kanme by 280 rolls gives 142 monme, 8 fun, 5 rin, 7 mō, 1 shi per roll.

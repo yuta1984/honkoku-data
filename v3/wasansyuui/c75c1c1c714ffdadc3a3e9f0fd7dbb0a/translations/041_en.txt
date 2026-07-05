@@ -1,0 +1,17 @@
+## [Calculation for Finding Moat Width: Solution Method]
+
+By the method: from the second ring to the outermost ring, the combined measurement of the four rings is **3,002 *ken***.
+
+The circumference of the central 100-*ken* area is **316 *ken***. Adding 3,002 *ken* to this gives 3,318 *ken*. Dividing this equally among 5 rings:
+
+　　Result: **663.6 *ken*** per ring.
+
+However, subtracting the central circumference of 316 *ken* from the above leaves a remainder of **347.6 *ken***. Since this exceeds [what is accounted for by] the 5 rings, multiply by 10:
+
+　　Total: **1,738 *ken***, with a remainder.
+
+Distributing equally among all 5 rings gives **316 *ken* each**, totaling 10.
+
+Taking the central 316 *ken* as the base, add 1 (*sai*) to the second ring, 2 to the third, 3 to the fourth, and 4 to the fifth. The sum of the added values 1 + 2 + 3 + 4 = 10.
+
+Dividing the remaining 1,738 *ken* by this gives **173 *ken* to be added** for each unit.

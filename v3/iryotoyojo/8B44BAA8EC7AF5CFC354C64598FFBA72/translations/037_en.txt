@@ -1,0 +1,15 @@
+Beyond the seven *ritsu* (fundamental pitches) there are no other tones. From the cubic solid, six *inverse* (retrograde, *gyaku*) and eight *forward* (*jun*) intervals are obtained; counting these yields the twelve *ritsu* (tones of the chromatic scale), as shown on the left.
+
+---
+
+Tomonobu [Chishin] states: "The conventional practice of diagramming the angles of the twelve *ritsu* in a linearly diminishing sequence is incorrect. Rather, they ought to be depicted in an oval (egg-shaped) arrangement, arrayed in a row." This view corresponds to the theory of Martin [Martini?]. Recently, when I had occasion to examine a work produced by Lord Ogura Saisho (Kintsure), I found that it did indeed take a circular form. This diagram is therefore based on such precedents. Thinking in terms of the notion that "the terrestrial realm is egg-shaped (ovoid)," this seems entirely reasonable—although, since [Lord Ogura] has not made a deep study of pitch theory, his discussion remains at the level of general principles only.
+
+Reconsidering the matter: even in the explanation of how multiplying by two, three, and four gives rise to the practical application of the *ritsu*, if one takes *gong* (宮, the tonic pitch) as equivalent to one and four, and thirteen as two, then placing six at the true center as three would be derived from the spreading of proportional ratios (*kōbai*). It would therefore be fitting for the curve to take the gentle form of an ovoid.
+
+---
+
+**The numbers of the pitch degrees:** Beginning at one and ending at sixty-four, a diagram in which one and sixty-four are adjacent to each other.
+
+---
+
+The *gong* of *Huangzhong* [黄鐘, Yellow Bell], nine *sun* [寸, a unit of length]. (Nine is, in other words, one.) This is the origin (*hajime*) of the *ritsu* [pitch system]. In *downward generation* (*kasei*), subtract one; in *upward generation* (*jōsei*)...

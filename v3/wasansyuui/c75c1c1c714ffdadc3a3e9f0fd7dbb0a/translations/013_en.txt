@@ -1,0 +1,17 @@
+**Topic: Diagram of Round Objects**
+
+　Correction for Round Objects (circular timber)
+　　　Thickness: 1 sun
+　　　Volume: 399 tsubo, 9 gō, 3 shaku, 7 sai, remainder
+
+Method: Divide the circumference of 7 shaku, 1 sun, 1 bu by 3.6 (an approximation of π), rounding down, to find the diameter (sashi-watashi): 2 shaku, 2 sun, 5 bu. Multiplying this (by itself) gives 5.0625.
+
+Multiply this by 0.79 to find the volume.
+
+---
+
+**Topic: Volume of a Sphere (Tama-nari)**
+
+　Volume: 399 tsubo, 9 gō, 9 shaku, 8 sai, remainder
+
+Method: Divide the circumference of 2 shaku, 9 sun, 1 bu, 4 rin, 2 mō, 1 shi by 3.6, obtaining a diameter (sashi-watashi) of 9 sun, 2 bu, 2 rin, 2 mō, 1 shi, remainder. Digits below shi (the smallest unit) are discarded. Multiplying together gives 85 tsubo, 0(gō), 4(shaku), 7 sai; then multiply by the height...

@@ -1,0 +1,11 @@
+## [Volume Calculation of a Truncated Cone (continued) · Summary]
+
+[Continuing from the previous page:] Multiplying by 3 *sun* gives 48 *tsubo*. Dividing this by two gives 24 *tsubo*. Multiplying this by the aforementioned 9,816 *tsubo* 6 *gō* 6 *shaku* gives 235,600 *tsubo*.
+
+Furthermore, multiplying the upper-end thickness of 1 *shaku* 2 *sun* by the sagitta (*ya*) of 2 *sun* at the same location gives 24 *tsubo*. Adding this to the aforementioned 48 *tsubo* gives 72 *tsubo*. Using this as the reference value (*meyasu*), dividing 235,600 *tsubo* by it gives the true volume (*hon-tsubo*) of 3,272 *tsubo* 2 *gō* 2 *shaku*.
+
+---
+
+The above [three] □ (*maki*?): this method exists for practice (*keiko*). In the four volumes of *Enpo* (the Circle Method), there is yet more; the above [content] is written out in greater detail.
+
+　　　　　　　　　　As shown in the diagram,

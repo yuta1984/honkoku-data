@@ -1,0 +1,12 @@
+## [Accumulated Results for Each Ring]
+
+| Ring | Circumference (*ken*) | Calculation |
+|------|-----------------------|-------------|
+| 1st ring | **316 *ken*** | (Base value) |
+| 2nd ring | **489.8 *ken*** | 316 *ken* + 173.8 *ken* × 1 |
+| 3rd ring | **663.6 *ken*** | 316 *ken* + 173.8 *ken* × 2 |
+| 4th ring | **837.4 *ken*** | 316 *ken* + 173.8 *ken* × 3 |
+| 5th ring (outermost) | **1,011.2 *ken*** | 316 *ken* + 173.8 *ken* × 4 |
+
+Total of the 2nd, 3rd, 4th, and 5th rings (the four outer rings):
+　　Sum: **3,002 *ken***

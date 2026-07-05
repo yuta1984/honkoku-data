@@ -1,0 +1,11 @@
+*(Continued from previous page: Area of a Half-Rhombus)*
+
+…15 tsubo, totaling 400 tsubo, and thus the area of the half-rhombus is obtained. To find the hypotenuse (gen) of 1 shaku 6 sun 4 bu, multiply the shorter leg (ku) of 1 shaku by itself to obtain 100 tsubo, and multiply the longer leg (ko) of 1 shaku 3 sun by itself to obtain 169 tsubo. The combined total of 269 tsubo is then resolved using the square root method (kaihei-hō) to obtain 1 shaku 6 sun 4 bu.
+
+---
+
+**Topic: Area of a Diagonal Rhombus (Kado-hishi-nari)**
+
+　　Volume: 400 tsubo, with remainder [rei] 0.01499
+
+By the method: Add 6 sun to 2 shaku 4 sun to make 3 shaku. Divide this into two equal parts to obtain 1 shaku 5 sun. Multiply this by 2 shaku 6 sun 7 bu 666, yielding 400 tsubo (with remainder [rei] 0.01499).

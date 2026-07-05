@@ -1,25 +1,30 @@
-【Left Page】
-　　　　　　Itayama-tsuki
-Income: 8 ryō 2 bu　For chestnut wood
+[Left page]
+                        Itayama District
+Received 8 ryō 2 bu gold       Chestnut wood fee
 
-　　　　　　Nakamura
-Income: 2 ryō　　　Same as above
+                        Nakamura
+Received same, 2 ryō            Same as above
 
-Income: 2 ryō　　Nakamura Bunzō
-　　　　　　Itayama Village domain forest
-　　　　　　For chestnut wood
-Income: 10 ryō　　Ōshimakura Village
-　　　　　　　Genshirō
+Received same, 2 ryō            Nakamura Bunzō
+                        Itayama Village, honorable forest
+                        Chestnut wood fee
 
-Income: 10 ryō　　Same person
+Received same, 10 ryō           Ōshimakura Village
+                            Genshirō
 
-Income: 1 ryō　　Itamachi Village Ei
-　　　　　　For chestnut wood
-　　　　　　　Jirōzaemon
-Income: 20 ryō　　Same as above
+Received same, 10 ryō           Same person
 
-Income: 7 ryō 2 bu 3 shu　Same as above
-　　Remainder: 248 mon
+Received same, 1 ryō            Itamachi Village, Sakae district
+                        Chestnut wood fee
+                            Jirōzaemon
 
-Income: 30 ryō　　Miyata North Division
-　　　　　　　For domain forest housing/buildings
+Received same, 20 ryō           Seba-futo [area]
+                            Honorable ■ bamboo grove fee
+
+Received same, 23 ryō           Same as above
+
+Received same, 7 ryō 2 bu 3 shu     Same as above
+    Remainder: 248 mon
+
+Received same, 30 ryō           Miyata Kitagawa [North district]
+                        Honorable forest ■■ fee

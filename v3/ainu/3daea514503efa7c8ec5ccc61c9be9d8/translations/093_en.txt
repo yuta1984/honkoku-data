@@ -1,15 +1,15 @@
-Ceramics/pottery (setomono)　　　　　　　　　　　　Kenmara
-Fishhook (tsuribari)　　　　　　　　　　　　　　　Abu・Nā
-Mortar/hand mill (usu)　　　　　　　　　　　　　　Nishyū
-Arrowhead (yajiri)　　　　　　　　　　　　　　　　Echiushi
-Pestle (kine)　　　　　　　　　　　　　　　　　　　Yutani
-Shackles/fetters (kase)　　　　　　　　　　　　　　Honiue
-Oar/sculling oar (ro)　　　　　　　　　　　　　　　Omoshyui
-Earring/ear ornament (mimikane)　　　　　　　　　　Mimikane・Ninkari
-Needle (hari)　　　　　　　　　　　　　　　　　　　Kemu
-Wooden clogs (geta)　　　　　　　　　　　　　　　　Piraka
-Copper pot (dōnabe)　　　　　　　　　　　　　　　　Kabarushyu・Fūreshyu
-Cooking stove/hearth furnace (kamado)　　　　　　　Toishyū
-Snow boots/snow footwear (yukigutsu)　　　　　　　Keri　[Sakhalin Island variant:] Kiro
-Tea kettle/teapot (chakan)　　　　　　　　　　　　Chyashyne
+Ceramic ware/pottery (setomono)　　　　　　　　　Kenmara
+Fishing hook (tsuri-bari)　　　　　　　　　　　　Abu・Nā
+Mortar (usu)　　　　　　　　　　　　　　　　　　Nishyū
+Arrowhead (ya-jiri)　　　　　　　　　　　　　　　Echiushi
+Pestle (kine)　　　　　　　　　　　　　　　　　　Yutani
+Shackles/fetters (kase)　　　　　　　　　　　　　Honiwe
+Oar/scull (ro)　　　　　　　　　　　　　　　　　Omoshyui
+Earring/ear ornament (mimi-kane)　　　　　　　　　Ninkari
+Needle/pin (hari)　　　　　　　　　　　　　　　　Kemu
+Wooden clogs (geta)　　　　　　　　　　　　　　　Piraka
+Copper pot/pan (dō-nabe)　　　　　　　　　　　　Kabarushyu・Fūreshyu
+Cooking stove/hearth (kamado)　　　　　　　　　　Toishyū
+Snow boots (yuki-gutsu); in Karafuto (Sakhalin): 　Keri・Kiro
+Kettle (yakan) [from "ca-su," meaning "tea pot"]　　Chyashyū
 Sunken hearth/irori fireplace (irori)　　　　　　　Abeshyamu・Inunbe

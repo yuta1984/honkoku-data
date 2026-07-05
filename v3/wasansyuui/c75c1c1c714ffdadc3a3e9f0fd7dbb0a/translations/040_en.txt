@@ -1,0 +1,11 @@
+## [Karigin Risoku-zan: Continuation of Solution Method]
+
+*(Continued from previous page)* Dividing 1 *kan* 464 *monme* using the standard method factor of "3令5" (*sanreigo*) as a guide gives 480 *monme*. Multiplying this by 25% (*niwaihan*) gives 120 *monme*. Adding the principal of 480 *monme* gives a result of 600 *monme*.
+
+---
+
+## 《Problem Title: Diagram for Finding Castle Moat Widths》
+
+### ▲ Hori Haku Chiji (Calculation for Finding Moat Width)
+
+In a castle of this configuration, there are two concentric moats. Between the moats there are two stone walls, making four rings in total. The combined measurement of each respective width amounts to 3,002 *ken*. The flat open ground in the center has a width of 100 *ken* (measured across a bridge). The width (*hagu*) of the moats and stone walls are equal. What is the width of the moat?

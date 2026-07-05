@@ -1,0 +1,10 @@
+This gives 38 *ken* 3, 7, *shi* 4, 2, 8, 4. Multiplying this figure of 3, *shi* 4, 2, 8 by 6 yields 2 *shaku* 2 *sun* 2 *bu* 8 *rin* 5 *mō* 7 *shi* 2. Now, to find the area in *tsubo*: divide the fractional portion below the *ken* value by 6, then multiply 38 *ken* 3, 7, *shi* 4, 2, 8 by 70 *ken*, incorporating the residual (dust/*hokori*), to obtain 2,686 *tsubo*. Dividing this in two yields 1,343 *tsubo*.
+
+　▲ Rice bales: 77,250 bales
+
+《Title: Calculation for Filling Storehouses (*Kura-zumori*)》
+
+When storing these in eight storehouses, each storehouse has a height of 2 *ken*, and each successive storehouse is made □ (narrower) by 1.5 *ken* less than the previous one. The question asks: how many *ken* square is the largest (first) storehouse? The stipulation is that 75 bales are stacked per 1-*ken* face (six-sided unit).
+
+　　　　No. 1 (Largest storehouse)
+　　　　Area: 310□ *tsubo* 5 *gō*

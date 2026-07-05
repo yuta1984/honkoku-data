@@ -1,54 +1,63 @@
----
+## 【Hageito / Amaranthus】
 
-**Senninkoku (Yōraku Keitō)** — Name used in Satsuma Province
-　　　　Coméchius [phonetic transcription]
-　　　　Amaranthus — [Latin / Raden]
+**Senninkoku (Yōraku Keitō)**
+*(Name used in Satsushū [Satsuma Province]. Latin: Cometus Amaranthus)*
 
-　　　　　　Transcribed during Rinshō (sixth month), Mizunoe-uma year
+　　　　　Transcribed in Rinshō (sixth lunar month), Mizunoe-uma year
 
----
-
-**Kanzō (Hemerocallis / Daylily)**　　Alternative name: Rokusō (鹿葱)
-　　Drawn with leaves　　　　　　　　【Vegetable category】
-
-　　　　Transcribed during Zuihin (fifth month), Mizunoe-uma year,　　　【Medicinal herb category】
-　　　　　　on the last fifth day
-
-　　　　　　　　　　　　　　　　　　Yamato Honzō
-　　　　　　　　　　　　　　　　　　　　　recorded in the 【Flowering Plants】 section
+【Seal: Grain category】【Seal: Medicinal herb】
 
 ---
 
-**Kango Shō** (Glossary of Chinese Terms) states:
-　　Japanese name: Wasure-gusa (わすれぐさ, "Forgetting Grass")
+## 【Yabu-kanzō / Daylily (Hemerocallis fulva)】
 
-**Kemmeien** (Dictionary of Names) states:
-　　Kanzō (萱草)
-　　Also known as: Bōyū (忘憂, "Dispelling Sorrow")
+**Kanzō (萱草)**　*(Alternative name: Rokusō [鹿葱, "Deer Onion"])*
 
-In my personal library, it is written as 藼草 (kanzō),
-and also as 蕿草, 諼草, and 忘憂草 — all referring to the same plant.
+　　Transcribed together with leaves
+　　　　Suihin (fifth lunar month), Mizunoe-uma year
+　　　　　　Transcribed on the last five days of the month
 
----
+【Seal: Vegetable category】【Seal: Medicinal herb】
 
-　　　　　　　Also in my personal library:
-　　　　　　　Ginan-sō (冝男草)　　Kijo-sō (妓女草)
+> Recorded in the *Yamato Honzō*, section on Flowering Plants.
 
 ---
 
-　　　　　　　I (Baien) observe:
-　　　　　　　　　The Bencao Gangmu (Compendium of Materia Medica) states that kanzō
-　　　　　　　　　comes in three varieties: red, yellow, and purple. However,
-　　　　　　　　　the purple-flowered variety remains uncertain to me.
-　　　　　　　　　That said, kanzō does indeed come in several varieties;
-　　　　　　　　　I myself have observed six kinds.
+**Kango Shō** (Sino-Japanese Glossary) states:
+　　Japanese name: Wasuregusa (Forget-me plant)
+
+**Kemyōen** (Encyclopedia of Names) states:
+　　Kanzō (Daylily)
+　　Alternative name: Bōyū (忘憂, "Forgetting Sorrow")
+
+The author's
+　own collection of books records it as: *Kansō* (藼草)
+
+Also recorded as:
+　*Kensō*, *Kensō* (蕿草・諼草), and
+　*Bōyūsō* (忘憂草), etc. — all refer to the same plant.
 
 ---
 
-**Zōho Tashikiben** (Supplemented Encyclopedia of Knowledge), Marsh Grasses section, states:
-　　Kanzō (萱草)
-　　Japanese name: Wasure-gusa (和須礼久左)
-　　《Alternative names》Tankoku (丹棘)《Kojin Chū》
-　　　　　　　　　　　　Rokusō (鹿葱)《Kayū》
-　　《Additional alternative names》Bōyū (忘憂, "Dispelling Sorrow")《Setsumon》　Ryōshū (療愁, "Curing Grief")《Kōmoku》
-　　　　　　　　　　　　　　　　　Roken (鹿剣)《Doshuku》　Kijo (妓女)《Gōshin》　Kinan (冝男)
+Also, in the author's collection of books, it is recorded as:
+　*Ginan-sō* (宜男草, "Herb for Bearing Sons")　and　*Gijyo-sō* (妓女草, "Courtesan Herb")
+
+The author remarks:
+　The *Bencao Gangmu* (Compendium of Materia Medica) states that the Kanzō has three varieties: red, yellow, and purple. The purple-flowered variety remains uncertain (not confirmed by the author).
+　Nevertheless, there are several varieties of Kanzō, and the author has personally seen six kinds.
+
+---
+
+**Zōho Tashikiben** (Supplemented Encyclopedia of Knowledge), Section on Marsh Grasses (*Shitsusō*), states:
+
+　Kanzō (萱草)
+　　*Japanese name:* Wasuregusa (わすれぐさ)
+　　*Alternative names:*
+　　　　Tankyoku (丹棘)　《Kokon-chū》
+　　　　Rokusō (鹿葱, "Deer Onion")　《Kayū》
+　　*Additional alternative names:*
+　　　　Bōyū (忘憂, "Forgetting Sorrow")　《Setsumon》
+　　　　Ryōshū (療愁, "Curing Grief")　《Kōmoku》
+　　　　Roken (鹿剣, "Deer Sword")　《Doshuku》
+　　　　Gijyo (妓女, "Courtesan")　《Go-Shin》
+　　　　Kinan (宜男, "Auspicious for Sons")

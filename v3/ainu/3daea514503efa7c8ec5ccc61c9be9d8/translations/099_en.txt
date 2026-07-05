@@ -1,17 +1,15 @@
-【Ainu Language Equivalents for Clothing and Tools】
-
-Headband (hachimaki): Haunbe ▲ Baminapu
-Jittoku [a type of men's outer garment]: Chiyoshikeimi
-Seam: Ikiri
-Hemp/Linen: Asakara
-Indigo (dye): Kahai
-Ohyō (Ulmus laciniata) bark [used for attush cloth]: Atsu
-Shinanoki [Japanese linden/basswood (Tilia japonica)]: Nibeshi ▲ Kuberikep
-Willow bark: Nikaunai ▲ Meromai (dialect of the Sōya area)
-Hat/headgear: Konji
-　This shape [of hat, type 1]: Ikari Konji
-　This shape [of hat, type 2]: Iyane Konji
-　This shape [of hat, type 3]: Watanbushi
-Arrow case [possibly a quiver]: Ikayup ▲ Bushi
-Kanjiki [snowshoes]: Teshima
-Mountain knife/hatchet (nata): Tashiro
+Hachimaki/headband (cloth wrapped around the forehead)　　　　　　　　　　　　　　　Haunbe ▲ Baminapu
+Jittoku (jittoku; a men's over-garment) [Note: a type of traditional Japanese outer garment for men]　　Chiyoshikeimi
+Seam (nuime; a sewn seam)　　　　　　　　　　　　　　　　　　　　　　　　　　　　Ikiri [ikir]
+Hemp/ramie fiber (asa; hemp plant fiber used for textiles)　　　　　　　　　　　　　　Asakara
+Indigo dye (ai; blue dye plant)　　　　　　　　　　　　　　　　　　　　　　　　　　Kahai
+Ohyō bark (ohyō-kawa; bark of the Japanese elm/Ulmus laciniata, used for fiber)　　　　Atsu
+Shina/linden (shina; fiber from the Japanese linden/Tilia japonica)　　　　　　　　　　Nibeshi ▲ Kuberikep
+Willow bark (yanagi-kawa) [dialect of the Sōya region]　　　　　　　　　　　　　　　Nikaunai ▲ Meromai
+Hat/headgear (kaburimono; something worn on the head)　　　　　　　　　　　　　　　Konji
+　　This shape [of hat] is called　　　　　　　　　　　　　　　　　　　　　　　　　Ikarikonji
+　　This shape [of hat] is called　　　　　　　　　　　　　　　　　　　　　　　　　Iyanekonji
+　　This shape [of hat] is called　　　　　　　　　　　　　　　　　　　　　　　　　Watanbushi
+Quiver (yanagui; container for arrows; possibly arrow tube/yazutsu)　　　　　　　　　　Ikayupu ▲ Bushi
+Kanjiki (snowshoes; footwear for walking in snow)　　　　　　　　　　　　　　　　　Teshima
+Mountain knife/hunting blade (yama-gatana; a knife used in the mountains)　　　　　　Tashiro

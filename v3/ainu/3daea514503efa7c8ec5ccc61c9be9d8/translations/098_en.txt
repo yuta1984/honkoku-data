@@ -1,15 +1,15 @@
-Garment / kimono (kimono)　　　　　　　　　　　　　　　　Mianbe ▲ Chimipu ▲ Mipu
-Leather/hide garment (kawa goromo)　　　　　　　　　　　　Uri ▲ Katsukoro ▲ Uru
-Carrying garment / load-bearing wrap (renchaku)　　　　　　Tare　【ninawa (carrying rope)】
-Thread / yarn (ito)　　　　　　　　　　　　　　　　　　　　Kā
-Loincloth (fundoshi)　　　　　　　　　　　　　　　　　　　Chyōsuke　　in heat/rut (sakari): Beraketsu
-Woman's loincloth (onna no fundoshi)　　　　　　　　　　　Ishima ▲ Inashi
-Mat/rush mat used as bedding (shikimono no toma)　　　　　Chitarupe
-Sash / belt (obi)　　　　　　　　　　　　　　　　　　　　　Kutsuchi ▲ Kutsu
-Sleeve (sode)　　　　　　　　　　　　　　　　　　　　　　　Tsuchya
-Collar / neckline (eri)　　　　　　　　　　　　　　　　　　Okushyakon ▲ Sumushyamu
-Edging / border / hem (heri)　　　　　　　　　　　　　　　Nuishyamu
-Hem / skirt edge (suso)　　　　　　　　　　　　　　　　　　Chinki
-Okumi (front panel of a garment)　　　　　　　　　　　　　Yarushi
-Tasuki (sleeve-tucking cord)　　　　　　　　　　　　　　　Shimakunta ▲ Fushyuyorai
-Sleeve opening / cuff (sodeguchi)　　　　　　　　　　　　　Shyakeshi
+Kimono/garment (kimono; general term for clothing)　　　　　　　　　　　　　　　　　　　Mianbe ▲ Chimipu ▲ Mipu
+Leather/hide garment (kawa-goromo; clothing made of animal hide)　　　　　　　　　　　　Uri ▲ Katsukoro ▲ Uru
+Carrying cord/rope attachment (tare; load-rope) [Note: possibly read as "Tashi" or "Tan"; may be a miswriting of "Kushi"]　　　　Tare
+Thread/yarn (ito)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Kā
+Loincloth/fundoshi　[Berakestu: (indicating a state of vigor/arousal)]　　　　　　　　　　Chiyōsuke　Berakestu
+Women's loincloth (onna no fundoshi)　　　　　　　　　　　　　　　　　　　　　　　　　Ishima ▲ Inashi
+Woven mat used as a floor covering (shiki-mono no toma; coarse rush/straw mat)　　　　　Chitarupe
+Sash/belt (obi)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[Ku]tsuchi ▲ Kutsu
+Sleeve (sode)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Tsutchiya
+Collar/neckline (eri)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Wokushiyakon ▲ Sumushiyamu [Numushiyamu]
+Edging/border trim (heri; decorative border)　　　　　　　　　　　　　　　　　　　　　Nuishiyamu
+Hem (suso; lower edge of a garment)　　　　　　　　　　　　　　　　　　　　　　　　　Chinki
+Okumi (the overlapping front panel of a kimono)　　　　　　　　　　　　　　　　　　　Yaruushi
+Tasuki (cord used to tuck up the sleeves of a kimono when working)　　　　　　　　　　Shimakunta ▲ Fushiyuyorai
+Sleeve opening/cuff (sode-guchi)　　　　　　　　　　　　　　　　　　　　　　　　　　Shiyakeshi

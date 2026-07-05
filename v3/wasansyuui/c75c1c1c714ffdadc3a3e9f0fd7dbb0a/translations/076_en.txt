@@ -1,0 +1,10 @@
+## Hōen Hiken Shū, Volume Two (Lower)
+
+▲ Suppose five people sell five kinds of grain — rice, soybeans, azuki beans, wheat, and buckwheat — and each of the five people receives the same amount of silver. The question asks: how many *koku* (石) did each person sell?
+
+**Market Prices:**
+- Rice: 45 *monme* (匁) of silver per *koku* (石)
+- Soybeans: 30 *monme* of silver per *koku*
+- Azuki beans: 27 *monme* of silver per *koku*
+
+*(The page continues with additional commodity prices and the solution on the following page.)*

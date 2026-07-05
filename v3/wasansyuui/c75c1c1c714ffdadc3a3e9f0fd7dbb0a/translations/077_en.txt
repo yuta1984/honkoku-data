@@ -1,0 +1,18 @@
+| Commodity | Unit | Price |
+|-----------|------|-------|
+| Wheat | per 1 *koku* | 25 *monme* |
+| Buckwheat | per 1 *koku* | 20 *monme* |
+
+The total quantity of all five kinds of goods is 101 *koku*, 6 *shō*, and 5 *gō*, and the question asks how many *koku* each person sold.
+
+To find the quantity (*kokudaka*), first take rice at 10 *koku* as the basis, which yields 450 *monme* of silver. Using this equal share of silver (450 *monme*) as the standard, calculate the quantity of each of the five commodities that corresponds to this value at their respective prices:
+
+| Commodity | Quantity | Silver |
+|-----------|----------|--------|
+| Rice | 10 *koku* | 450 *monme* |
+| Soybeans | 15 *koku* | 450 *monme* |
+| Adzuki beans | 16 *koku*, 6 *to*, 6 *shō*, 6 *gō*, 6 *shaku*, 6 *sai* | 450 *monme* |
+| Wheat | 18 *koku* | 450 *monme* |
+| Buckwheat | 22 *koku*, 5 *to* | 450 *monme* |
+
+As shown above, for soybeans, divide 450 *monme* by the price of soybeans…  *(continues on next page)*

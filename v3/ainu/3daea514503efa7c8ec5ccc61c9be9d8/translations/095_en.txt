@@ -1,15 +1,15 @@
-Sandals/zori (zoori)　　　　　　　　　　　　　　　　Monokushiya
-Bailer for removing bilge water from a boat　　　　Bekep・Watsukake
-Household goods/furnishings (juumotsu)　　　　　　　Iyurube
-Rare/treasured household goods　　　　　　　　　　　Shishiyakutomikamui
-Reward/prize (hoobi)　　　　　　　　　　　　　　　　Keiratsuppu・Iramie・Odeki
-Pillow (makura)　　　　　　　　　　　　　　　　　　Chienuibe・Chienenu
-Armguard/gauntlet of armor (kote)　　　　　　　　　Tantsunbe [with handakuten]
-Armor/body armor (yoroi)　　　　　　　　　　　　　　Hayokupe
-Condolence/funeral offering (kouden)　　　　　　　　Utsube shino
-Loom/weaving frame (hata)　　　　　　　　　　　　　Kaworunbe
-Reed/heddle beater of a loom (osa)　　　　　　　　　Osa
-Shuttle of a loom (hi)　　　　　　　　　　　　　　　Aunkani
-Board struck like a shuttle (weaving beater board)　Kutsupeete
-Lease sticks/heddle sticks (ayatake)　　　　　　　　Pushi
-Front placement/preface? (maeoki?)　　　　　　　　　Ikutsuni [with handakuten]
+Sandals/zōri (straw sandals)　　　　　　　　　　　　　　　　　Monokushya
+Bailer for removing bilge water from a boat (fune no aka wo toru utsuwa)　Bekep・Watsukake
+Household goods/furnishings (jūmotsu)　　　　　　　　　　　　　Iyurube
+Rare/treasured household goods or sacred vessels (chinki no jūmotsu)　Shishyaku-tomi-kamui
+Reward/gift (hōbi)　　　　　　　　　　　　　　　　　　　　　　Keiratsup・Iramiye・Wodeki
+Pillow (makura)　　　　　　　　　　　　　　　　　　　　　　　Chiye-nuibe・Chiyenenu
+Gauntlet/armored sleeve of armor (gusoku no kote)　　　　　　　Tantsunbe
+Armor/suit of armor (yoroi)　　　　　　　　　　　　　　　　　　Hayokupe
+Condolence offering/funeral gift (kōden)　　　　　　　　　　　　Utsubeshino
+Loom (hata; weaving loom)　　　　　　　　　　　　　　　　　　Kaworunbe
+Reed/beater of a loom (osa)　　　　　　　　　　　　　　　　　　Osa
+Shuttle of a loom (hi)　　　　　　　　　　　　　　　　　　　　Aun-kani
+Board used like a shuttle for beating (hi no gotoku utsu ita)　　　Kutsupete
+Heddle rod/lease rod of a loom (aya-take)　　　　　　　　　　　Pushi
+Apron/front covering (mae-kake)　　　　　　　　　　　　　　　　Ikutsuni

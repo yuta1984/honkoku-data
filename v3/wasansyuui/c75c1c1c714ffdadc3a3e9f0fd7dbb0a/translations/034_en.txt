@@ -1,0 +1,15 @@
+## [Calculation of the Cubic Volume of Round Logs (continued)]
+
+**Method:** Divide the chord in half, multiply the halves together, divide by the sagitta measurement, then add the sagitta to obtain the full circumference (*enman*). For a truncated cone (*en-dai*) with lower [circumference] 3 *shaku*, upper [circumference] 2 *shaku*, and height 5 *shaku*, the total tsubo volume is:
+
+**25,016 *tsubo*, 6 *gō*, 6 *shaku*, 6 *sai***
+
+To find this tsubo value: first, divide the base chord of 2 *shaku* 4 *sun* in half, giving 1 *shaku* 2 *sun*; multiply this by itself to get 1.44 (*ichi-shi-shi*). Divide by the sagitta of 6 *sun* to obtain 2 *shaku* 4 *sun*; add the sagitta of 6 *sun* to get 3 *shaku*. Do the same for the tip end to obtain:
+
+The full circumference (*enman*) of 2 *shaku*.
+
+Next: multiply the lower circumference of 3 *shaku* by itself → 9. Multiply the upper circumference of 2 *shaku* by itself → 4. Add this to 9 → 13. Further, multiply the lower 3 *shaku* by the upper 2 *shaku* → 6. Add this [to 13] → 19. Divide by 3 → 6.33333…. Multiply by the length of 5 *shaku* → 31.6666...55. Multiply this by the circular correction factor *enpo* 79 (i.e., 0.79):
+
+**25,016 *tsubo*, 6 *gō*, 5 *shaku*, 7 *sai*** — found by the method of *sanki* (three-return division).
+
+Furthermore, multiplying the circumference (*enman*) of 3 *shaku* by itself gives 900 *tsubo*… (continues)

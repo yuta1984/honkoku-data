@@ -1,0 +1,22 @@
+| Commodity | Quantity | Silver |
+|-----------|----------|--------|
+| Soybeans | 18 *koku*, 4 *to*, 5 *shō* | 553 *monme*, 5 *fun* |
+| Adzuki beans | 20 *koku*, 5 *to* | 553 *monme*, 5 *fun* |
+| Wheat | 22 *koku*, 1 *to*, 4 *shō* | 553 *monme*, 5 *fun* |
+| Buckwheat | 27 *koku*, 6 *to*, 7 *shō*, 5 *gō* | 553 *monme*, 5 *fun* |
+
+▲ Alternatively, with silver of 338 *monme* 2 *fun* ... *(text appears incomplete or continues into next problem)*
+
+---
+
+**[Problem Title: Calculation of Cedar Round Logs]**
+
+When purchasing cedar round logs (*sugi marutaki*), how many logs are in Grade 1? This is the question posed.
+
+| Grade | Condition on number of logs | Unit price per log |
+|-------|----------------------------|-------------------|
+| Grade 1 | (baseline) | 5 *monme*, 5 *fun*, 5 *rin* |
+| Grade 2 | 1 fewer than Grade 1 | 4 *monme*, 8 *fun* |
+| Grade 3 | 2 fewer than Grade 2 | 4 *monme*, 5 *fun* |
+| Grade 4 | 5 more than Grade 3 | 4 *monme* |
+| Grade 5 | Half of Grade 4 | 3 *monme*, 7 *fun* |

@@ -1,0 +1,24 @@
+## Table of Contents (continued)
+
+- Converting soybean *koku* quantities into rice equivalents
+- Stone/masonry volume calculation; cube root method
+- Cut-volume calculation for hills, slopes, and flat ground
+- Calculation for cutting into a mountain to draw water into a rice field
+- Diagram of arc (*ko*), arrow/sagitta (*ya*), and chord (*gen*)
+- Calculation for finding the corner-cut and the central *shaku* of a triangle
+- Determining the total bay-count and tsubo area of a castle from the measurement of one side
+
+---
+
+## [Calculation of the Cubic Volume of Round Logs]
+
+▲ Round log calculations — (There are four volumes on circular methods.)
+
+　　　　Base chord: 2 *shaku* 4 *sun*　　Circumference (full circle): 3 *shaku*
+　　　　　　　　Sagitta: 6 *sun*
+　　　　Tip chord: 1 *shaku* 6 *sun*　　Circumference (full circle): 2 *shaku*
+　　　　　　　　Sagitta: 4 *sun*
+
+The question is: what is the tsubo volume?
+
+　Answer: **3,272 tsubo, 2 *gō*, 2 *shaku***

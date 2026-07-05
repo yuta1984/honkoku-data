@@ -1,15 +1,15 @@
-Wood used for making twill/patterned weave (aya)　　　Renka
-Warp thread (tate-ito)　　　　　　　　　　　　　　　　Ashika
-Weft thread (yoko-ito)　　　　　　　　　　　　　　　　Afunka
-Treasure/precious object (takaramono)　　　　　　　　　Tsumikamoi [with handakuten]
-Cord/strap on a sword hilt (katana no tsuka no o)　　　Emoshiatsu
-Pommel/hilt cap (tsukagashira)　　　　　　　　　　　　Sayatsura
-Small knife / sasuri (small blade)　　　　　　　　　　　Tamutomushibe
-Menuki (ornamental rivet on sword hilt)　　　　　　　　Shītsu
-　Copper/metal of this kind　　　　　　　　　　　　　　Ishinekane
-　Copper/metal of this kind　　　　　　　　　　　　　　Yūpakane
-　Copper/metal of this kind　　　　　　　　　　　　　　Sayatsura
-Box (hako)　　　　　　　　　　　　　　　　　　　　　　Shihopu
-Tobacco pouch/case (tabako-ire)　　　　　　　　　　　　Tanhakopu
-Cord fastener / ojime (cord tightener for pouch)　　　　Tanhakotsumokotsuppe [with handakuten]
-Netsuke (toggle/fastener)　　　　　　　　　　　　　　　Kutsutomokotsuppe
+Wood used for making patterns in weaving (aya ni iru ki; rod for creating twill patterns on a loom)　　Renka
+Warp thread (tate-ito)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Ashika
+Weft thread (yoko-ito)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Afunka
+Treasure/precious objects (takara-mono)　　　　　　　　　　　　　　　　　　　　　　　　　Tsumikamoi
+Cord/wrap of a sword hilt (katana no tsuka no o)　　　　　　　　　　　　　　　　　　　　　Yemoshi-atsu
+Pommel/cap at the top of a sword hilt (tsuka-gashira)　　　　　　　　　　　　　　　　　　Sayatsura
+Small knife/utility knife (ko-gatana; sasuri)　　　　　　　　　　　　　　　　　　　　　　　Tamutomushibe
+Menuki (decorative metal ornaments on a sword hilt)　　　　　　　　　　　　　　　　　　　Shītsu
+　　Metal of this kind (copper/metal)　　　　　　　　　　　　　　　　　　　　　　　　　　Ishinekane
+　　Metal of this kind (copper/metal)　　　　　　　　　　　　　　　　　　　　　　　　　　Yūpakane
+　　Metal of this kind (copper/metal)　　　　　　　　　　　　　　　　　　　　　　　　　　Sayatsura
+Box (hako)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Shihop
+Tobacco pouch/case (tabako-ire)　　　　　　　　　　　　　　　　　　　　　　　　　　　　Tanhakopu
+Cord fastener/toggle for a pouch (o-jime; fastener for a tobacco pouch or purse)　　　　　　Tanhakokotsupe
+Netsuke (decorative toggle/pendant worn below the cord fastener)　　　　　　　　　　　　　Kutsukotsupe

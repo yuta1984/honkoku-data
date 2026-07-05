@@ -1,15 +1,15 @@
-Forked wood at the tip of a fishing spear (yasu)　　Uni
-Sword (katana)　　　　　　　　　　　　　　　　　　Imushi・Imushibo
-Sword: Sayamaki (scabbard-wrapped sword)　　　　　Saimaki
-Sword: Ebo-no-tachi (lacquered tachi sword)　　　　Tannepu
-Sakuri (ridge/back-stop fitting on blade)　　　　　Pōpai
-Shitodome (cord-end eyelet/stopper fitting)　　　　Shyungo
-Sageo (hanging cord of scabbard)　　　　　　　　　Imushiatsu
-Habaki (blade collar/scabbard-mouth fitting)　　　Setsupakutsuchyare
-Tsuka (sword handle/hilt)　　　　　　　　　　　　　Imushiunitsu
-Saya (scabbard)　　　　　　　　　　　　　　　　　　Shirika
-Seppa (spacer washer between guard and habaki)　　Kosetsupa
-Fuchi (collar ring of hilt)　　　　　　　　　　　　Paku・Kutsupaku
-Tsuba (sword guard)　　　　　　　　　　　　　　　　Setsupa
-Suribachi (grinding mortar bowl)　　　　　　　　　Mishyonoi・Isebachi
-Hi-uchi-dai (fire-striking stand/tinder stand)　　Piuchi
+Forked wood at the tip of a harpoon (yasu no saki no futamata no ki)　　Uni
+Sword/Katana (katana)　　　　　　　　　　　　　　　　　　　　　　　Imushi・Imushibo
+Sword: saya-maki (wrapped scabbard style)　　　　　　　　　　　　　Saimaki
+Sword: efu no tachi (a long sword worn at the waist)　　　　　　　　　Tannepu
+Sakuri (collar/sleeve fitting on a sword handle)　　　　　　　　　　　Pōpai
+Shitodome (metal eyelet on sword cord fitting)　　　　　　　　　　　Shyungo
+Sageo (hanging cord of a sword scabbard)　　　　　　　　　　　　　　Imushiatsu
+Habaki (blade collar/sword collar fitting)　　　　　　　　　　　　　Setsupachyare
+Tsuka (sword handle/hilt)　　　　　　　　　　　　　　　　　　　　　Imushinitsu
+Saya (scabbard/sword sheath)　　　　　　　　　　　　　　　　　　　Shirika
+Seppa (sword spacer/washer between guard and collar)　　　　　　　　Kosetsupa
+Fuchi (collar at the base of the sword hilt)　　　　　　　　　　　　　Paku・Kutsupaku
+Tsuba (sword guard)　　　　　　　　　　　　　　　　　　　　　　　Setsupa
+Suribachi (grinding mortar bowl)　　　　　　　　　　　　　　　　　　Mishyonoi・Isebachi
+Hiuchi-dai (fire-striking stand/tinderbox stand)　　　　　　　　　　　Piuchi

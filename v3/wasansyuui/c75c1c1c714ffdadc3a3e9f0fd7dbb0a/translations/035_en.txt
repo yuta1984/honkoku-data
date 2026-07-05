@@ -1,0 +1,12 @@
+## [Finding Chord and Circumference of a Truncated Cone (continued), and Volume of Square Timber]
+
+Multiplying the chord of [the circumference (*enman*) of 3 *shaku*] — namely 2 *shaku* 4 *sun* — by itself gives 576 *tsubo*. Subtracting this from 900 *tsubo* leaves 324 *tsubo*. Taking the square root (*kaihei*) gives 1 *shaku* 8 *sun*.
+
+Multiplying the tip circumference (*enman*) of 2 *shaku* by itself gives 400 *tsubo*. Multiplying the chord of 1 *shaku* 6 *sun* gives 256 *tsubo*. Subtracting this from 400 *tsubo* leaves 144 *tsubo*. Taking the square root gives 1 *shaku* 2 *sun*.
+
+When using such [calculations] to determine the volume of a *kobudai* (truncated cone form), both upper and lower [measurements] along the length use the naturally derived chord value (*tsuranoten-nari*).
+
+Within [a truncated cone of] lower [diameter] 3 *shaku* and upper [diameter] 2 *shaku*, if one takes the inscribed square (i.e., fits a square cross-section within the circle), there exists a square-sectioned timber of the following dimensions.
+
+　　**Volume (*tsubo*-count) of this square timber:**
+</translation_ja>

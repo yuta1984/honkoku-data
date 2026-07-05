@@ -1,0 +1,16 @@
+## [Finding the Number of *Ken* from Corner to Corner of the *Tatenawa* (Vertical Rope / Baseline)]
+
+The question asks: from the corner of this *tatenawa* to the diagonal corner, how many *ken* is it?
+　　Answer: **67.5 *ken***.
+
+**Method:** Multiply 30 *ken* by 50 *ken* to obtain 1,500 *tsubo*; multiply 20 *ken* by 60 *ken* to obtain 1,200 *tsubo*. Combining these gives 2,700 *tsubo*. Dividing by the width of 40 *ken* yields the *tatenawa* measurement of **67.5 *ken***.
+
+---
+
+《Title: Calculation for Determining the Structure of a Rhombus (*Hishi*) Formation》
+
+　▲ The question asks: how many *ken* is the southern measurement?
+
+**38 *ken* 2 *shaku* 2 *sun* 2 *bu* 8 *rin* 5 *mō* 7 *shi* 2**
+
+**Method:** Double 1,343 *tsubo* to obtain 2,686 *tsubo*, then divide by 70 *ken* to get——

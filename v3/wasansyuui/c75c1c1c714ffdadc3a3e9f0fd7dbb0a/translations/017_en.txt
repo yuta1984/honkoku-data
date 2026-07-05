@@ -1,0 +1,11 @@
+*(Continued from previous page: Calculating the diagonal of a diagonal rhombus)*
+
+To find the diagonal length (corner to corner), multiply 2 shaku 6 sun 7 bu 6 rin 6 mō 6 shi by itself to obtain 71,645 with remainder 87,556. Multiply 1 side of 6 sun by itself to obtain 36. Adding this gives 75,245 with remainder 87,556. Dividing this by the square root method (kaihei-hō), one obtains 2 shaku 7 sun 4 bu 3 rin with remainder 45 [shi].
+
+To find the corner-to-corner diagonal from a base of 2 shaku 4 sun: multiply 2 shaku 4 sun by itself to obtain 576. Adding the squared length value of 71,645 with remainder 87,556, the combined total becomes 129,245 with remainder 8,756. Dividing this by the square root method yields 3 shaku 5 sun 9 bu 3 [rin] 64.
+
+---
+
+**Marginal note: Conversion of Diagonal Rectangular Shapes (Kado-naga-mono Naoshi)**
+
+　　　　Area: 400 tsubo

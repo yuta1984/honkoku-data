@@ -1,55 +1,55 @@
----
+## 【FUKUJUSŌ (Pheasant's Eye / Adonis ramosa)】
 
-## 【FUKUJUSŌ (Pheasant's Eye / *Adonis amurensis*)】
+New Year's Day of the Year Bunsei Rinjō (1822), first writing of the year
+True sketch (sha-sha) at the snowy window
 
-Written on New Year's Day of the Bunsei Mizunoe-uma year (1822), as the first brushwork of the year.
-Faithfully copied at the snow-lit window (Sessō).
+From Yamato Honzō:
+　Fukujusō — also called: Fukuzuku-gusa
+　　　　　　　　and: Ganjitsu-sō (New Year's Day plant)
 
-From *Yamato Honzō*:
-　Fukujusō — also called Fukuduku-gusa
-　　　　　　 Also known as Ganjitsu-gusa (New Year's Day Grass)
+　As recorded in various books:
+　　Hōshunkyoku (報春菊, "Heralding-spring chrysanthemum") [Chinese name]
+　　Alternative name: Saikyoku (歳菊, "Year's chrysanthemum")
+　　Also: Kensaikyoku (献歳菊, "Year-offering chrysanthemum") [Taiwan Fūzhi]
 
-　　　As recorded in various books: Hōshunkyoku (報春菊) — Chinese name
-　　　　Alternative name: Saikyoku (歳菊, "Year's Chrysanthemum")
-　　　　Also: Kensaikyoku (献歳菊, "Chrysanthemum offered at New Year") 〔*Taiwan Fuzhi*〕
 
-According to *Xicheng Wenjian Lu*:
-　　　Xue Lian (雪蓮, "Snow Lotus") — [refers to Fukujusō]
-
----
-
-## 【UME (Japanese Plum / *Prunus mume*)】
-
-As recorded in the Gokōka (Five Fragrant Fruits) section of *Wakan Sansai Zue*:
-　Ume (Japanese reading), Tang Chinese reading: Mui　〔phonetic gloss: zhī〕　槑 〔archaic character〕
-　　　Japanese name: Umetsu (宇女)
-　　　Currently also written/read as: Mume (牟女)
-
-According to *Sancai Tuhui*:
-There are four things to prize in the plum: prize rarity, not abundance; prize age, not youth; prize leanness, not fatness; prize the bud, not the open bloom.
-
-○ According to *Helin Yulu*: In antiquity, the plum was valued for its fruit, and the beauty and fragrance of its flower were not spoken of. It was only from the Song dynasty onward that it began to be celebrated in poetry and prose.
-
-○ In our country (Japan), in ancient times, when people said "flower" (hana), they meant the plum. Since the mid-Heian period, when people say simply "flower," they mean the cherry blossom.
-
-○ According to *Shoku Nihongi*: In the seventh month of the tenth year of Emperor Shōmu's Tenpyō reign (738), the Emperor pointed to the plum tree before the palace hall and said: "Since last spring, I have wished to appreciate this tree, but have not yet had the opportunity to enjoy it." He therefore commanded the men of letters each to compose a verse on the plum tree, and thirty men of letters all composed poems expressing the spirit of spring.
-
-> *Haru no yo no / yami wa ayanashi / ume no hana*
-> *Iro koso miene / ka ya wa kakururu*
->
-> (The darkness of a spring night is meaningless — though the color of the plum blossom cannot be seen, can its fragrance truly be hidden?)
+According to Seijō Kenmonroku:
+　　Setsuren (雪蓮, "Snow lotus") — [name for Fukujusō]
 
 ---
 
-【Flowering Tree】
+## 【UME (Japanese Plum / Prunus mume)】
 
-Wang Ren of Baekje referred to the plum as "this flower." The god Sugawara (Sugawara no Michizane) always cherished the plum, leaving behind the name "Tobiume" (Flying Plum). From the words of the *Jǐjū* of the Jin dynasty came the name "Kōbunboku" (Tree of Literary Refinement). From the poem of Tachibana no Naokane came the name "Ōshuku-bai" (Plum where the warbler lodges). In the poems of Saigyō appears the plum of "Come and find me" (*tomeko kashi*). Such examples are too numerous to enumerate.
+Recorded in the "Five Fragrant Fruits" section of Wakan Sansai Zue:
+　Ume (梅; Tang Chinese pronunciation: Mui) — phonetic reading: "Shi"; ancient character form: 槑
+　　Japanese name: U-me (宇女)
+　　Now also written/read as "Mu-me" (牟女)
 
-According to *Yamato Honzō* 〔as recorded in the Baiko (Plum Section)〕:
-　Those growing wild that have not yet undergone cultivation or grafting
-　　are called "Kōbai" (江梅, river plum), and also
-　　named "Chokkyaku-bai" (直脚梅, straight-legged plum).
-　　Sometimes these are called simply "Nobai" (野梅, wild plum).
+
+According to Sansai Zue:
+　There are four things to be prized in plum (trees): rarity is prized over abundance; old age is prized over youth; leanness is prized over fatness; the bud is prized over the fully-opened flower.
+
+○ According to Kakurin Gyokuro: In ancient times, people spoke only of the plum's fruit and its growth; no one spoke of the beauty or fragrance of its flowers. It was not until the Song dynasty that plum blossoms began to be celebrated in poetry and prose.
+
+○ In our country (Japan), in ancient times, when people said "hana" (flower), they meant plum. Since the middle ages, when people say "hana," they refer exclusively to cherry blossoms.
+
+○ According to Shoku Nihongi: In the seventh month of the tenth year of Emperor Shōmu's Tenpyō era (738 CE), the emperor pointed to the plum tree in front of the palace hall and said: "Since last spring I have wished to admire this tree, and yet I have not had the occasion to do so." He then commanded thirty men of letters each to compose a poem on the plum tree, and all composed verses on the theme of spring. Among the poems:
+
+　　Haru no yo no　yami wa ayanashi　ume no hana
+　　　　iro koso miene　ka ya wa kaeruru
+
+　*(The darkness of a spring night is meaningless — though the color of the plum blossom cannot be seen, can its fragrance be hidden?)*
+
+〔Category: Flowering tree〕
+
+Wani of Baekje praised the plum, calling it "this flower." Lord Sugawara no Michizane loved plum trees throughout his life, leaving behind the legendary name "Tobiume" (Flying Plum). From the words of Jin dynasty's Jūkyochū came the epithet "Kōbunboku" (Tree that loves literature). From a poem by Tachibana no Naokimi came the name "Ōjaku-bai" (鶯宿梅, Plum where the warbler sleeps). From a poem by Saigyō came the name "Tomekokaishi no ume" (the plum one longs to have come to one). Such examples cannot be fully enumerated.
+
+
+According to Yamato Honzō, in the section on plum records (Baifutsuki):
+　Those growing in the wild, not yet having undergone grafting (saisetsu),
+　are called "Kōbai" (江梅, River plum). They are also
+　named "Chokkyakubai" (直脚梅, Straight-legged plum).
+　Or, these are sometimes simply called "No(bai)" (野, Wild plum).
 
 Wild Plum (Nobai)
-　　Middle ten days of the intercalary first month, Mizunoe-uma year (copied)
+　　Sketched during the middle ten-day period of the intercalary first month of the Rinjō year (1822)

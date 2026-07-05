@@ -1,64 +1,74 @@
----
+## 【YUSURA-UME (Nanking Cherry / *Prunus tomentosa*, or a related member of the Rosaceae family)】
 
-## 【NIWAZAKURA / YUSURA-UME (Prunus tomentosa and related Rosaceae shrubs)】
+From *Wamyō Ruijushō* [Japanese Names Classified Dictionary]:
 
-From the **Wamyō Ruijūshō** (Japanese Names Encyclopedia):
-　Shuo-ying (朱櫻, hahaka) [Niwazakura]
-　The Honzō (Materia Medica) states: another name for sakuranashi (桜棑) is Shuo-ying (朱櫻).
-　　Japanese name: "Hahaka (波々加)"; one source also gives "Niwazakura (迩波佐久良)."
+**Zhū yīng** [Red Cherry] (Hahaka / Niwa-sakura)
 
-　Cherry blossom flower (桜桃花): Niwazakura (仁和佐久羅)
-　　In the Yamato Honzō, this character is read "Yutsura (ゆすら)."
-
-From **Kankai Shokkei** (Dietary Compendium):
-　One theory reads the name as "Yusura (由須良)"; the mountain cherry (山桜桃) is read "Niwazakura (仁和佐久羅)." Another reading gives "Niwa-ume (仁和宇女)." These three names refer to things that are broadly similar in form but slightly different. Nevertheless, their species are very closely related.
-
-From the **Zōho Tashikihen** (Supplemented Encyclopedia), section on Mountain Fruits:
-　Ōtō (桜桃, cherry)　Japanese name: Niwazakura (仁和左久羅)
-　　Alternative names: Kantō (含桃, "containing peach") [from Yueling/Monthly Ordinances]；Kei-ka (荊花)
-　　[Supplementary] alternative name: Ōtō (鸎桃, "oriole peach") [from annotations to the Rites of Zhou]
-　The Sansai Zukai also lists these alternative names under the entry for "cherry (Yutsura)."
-
-　　Transcribed on the 15th day (full moon) of the last spring month, Mizunoe-Uma year (Bunsei 5, 1822).
-　　Copied with faithful intent.
-
-From **Wakan Sansai Zukai** (Illustrated Encyclopedia of Japanese and Chinese Things), section on Mountain Fruits:
-　Mountain Cherry (Niwazakura, 山桜桃)　— also: Rai-ō, Mugi-eidō, Sumomo-momo [Li Tao], "Niwa-zakura" [common name]
-　[A separate variety known as "Niwa-ume (庭梅)" also exists; to be copied in a separate volume]
-
-【Seal】Fruit trees
-
-In the **Yamato Honzō** (Japanese Herbal):
-　Mountain cherry-pear (Niwazakura, 山桜棑) is listed,
-　with a separate entry also included for cherry-pear flower (桜棑花).
-
-　　Transcribed directly on the 27th day of the latter part of Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).
-
-【Seal】Trees
+From the *Honzō* [Materia Medica]: Yīng pái — alternate name: Zhū yīng (Red Cherry).
+　Japanese name: Hahaka; alternatively called Niwa-sakura (Nihabakura).
+　Cherry blossom flower: Niwa-zakura (Niwazakura)
+　　In *Yamato Honzō*, this character is rendered as "Yutsura."
 
 ---
 
-## 【YABUDEMARI (Viburnum plicatum f. plicatum — Japanese snowball)】
+From *Kankai Shokkyō* [Pocket Compendium of Foods]:
 
-From the **Honzō Kōmoku** (Bencao Gangmu / Compendium of Materia Medica):
-　Mountain peony (山牡丹)；Kyo (椐, gonedzu) [Yabudemari]；Reijumoku (霊壽木, longevity wood)；Fukōshi (扶老枝, elder-support branch)；Yabu-fundan-ka (藪粉団花, "snowball flower of the thicket")
-
-From the **Minsho** (Gazetteer of Fujian Province):
-　Jūhasssen (聚八仙, "gathering of the eight immortals") [= Yabudemari]
-
-From the **Tenshoku Benran** (Encyclopaedic Reference Compendium):
-　Butterfly tree (蝴蝶樹) [= Yabudemari]
+　One explanation reads this as *Yusura*, saying it resembles the mountain cherry-peach (*Prunus tomentosa*) and is read as *Niwa-sakura*; another reading gives *Niwa-ume*. These three things are largely similar in form, with only slight differences. However, their species classifications are very closely aligned.
 
 ---
 
-## 【HIKIO KOSHI (Isodon japonicus — Japanese rabdosia / "life-extending herb")】
+From *Zōho Tashikihen* [Expanded Identification Compendium], Mountain Fruits section:
 
-From the **Yamato Honzō**:
-　Sainei (薺薴, hikio-koshi) — also called "Yama-hakka (山薄荷, mountain mint)."
-　Enmei-sō (延命草, "life-extending herb") = hikio-koshi.
+**Yīng táo** [Cherry] (Ōtō)　Japanese name: Niwasaku-ra (Niwazakura)
 
-【Seal】Miscellaneous herbs
+Alternative names: Hán táo (Kantō) [from *Yueling* / Monthly Ordinances]; Jīng huā (Keika)
+Additional alternative names: Yīng táo (Ōtō / Warbler Peach) [from *Lǐjì zhù* / Commentary on the Rites]
+　This alternative name also appears under the entry for "Yīng táo (Yutsura)" in the *Wakan Sansai Zue* [Japanese-Chinese Illustrated Encyclopedia of the Three Powers].
 
-At the gate of Bian Que (扁鵲), the legendary physician of antiquity, the enmei-sō (life-extending herb) was planted. Those who saw it were said to uphold goodness, avoid evil, and thus enjoy a long extension of life. This plant corresponds to the sainei (薺薴), i.e., hikio-koshi.
+Copied true-to-life around the twentieth day of the third month (Kōshun), Mizunoe-Uma year.
 
-　　Copied in the latter part of Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).
+---
+
+From *Wakan Sansai Zue* [Japanese-Chinese Illustrated Encyclopedia], Mountain Fruits section:
+
+**Mountain Cherry-Peach** (Niwa-sakura) — also known as: Lěi yīng [Coming-Spring Cherry], Mài yīng dòu [Wheat Cherry-Bean], Lǐ táo [Plum-Peach]; commonly called *Niwa-zakura* in the vernacular.
+(There is also a separate plant called *Niwa-ume* [Garden Plum], to be depicted in a later volume.)
+
+【Seal: Fruit Tree Category】
+
+In *Yamato Honzō*,
+　Mountain Cherry-Peach (Niwa-sakura)
+　is also separately listed
+　as "Cherry-Peach Flower."
+
+Copied directly on the twenty-seventh day of the latter ten days of the third month (Kōsen), Mizunoto-Hitsuji year (Bunsei 6, 1823).
+
+【Seal: Tree Category】
+
+---
+
+## 【YABU-DEMARI (*Viburnum plicatum* / Japanese Snowball)】
+
+**Mountain Tree-Peony** [from *Bencao Gangmu*] — Jǔ (Gonezu) [Yabu-demari]
+　Língshòu mù [Spirit-Life Tree]; Fúlǎo zhī [Elder-Support Branch]; Yabu-fundan-ka [Grove Snowball Flower]
+
+From the *Minshu* [Gazetteer of Fujian Province]:
+　**Jù bā xiān** [Gathering of Eight Immortals] (Yabu-demari)
+
+From *Tenshoku Benran* [Guide to Classical Texts]:
+　**Húdié shù** [Butterfly Tree] (Yabu-demari)
+
+---
+
+## 【HIKIO-KOSHI (*Isodon japonicus* / Japanese Rabdosia)】
+
+From *Yamato Honzō* [Japanese Materia Medica]:
+
+**Qí nǐng** (Hikiokoshi) — also called "Mountain Mint" (*Yama-hakka*).
+延命草 (Enmei-sō / Life-Extending Herb) — Hikiokoshi
+
+【Seal: Miscellaneous Herbs】
+
+At the gate of Biǎn Què [the legendary physician], the Enmei-sō (Life-Extending Herb) is planted. Those who see it are said to cultivate virtue, avoid evil, and enjoy greatly prolonged life. This corresponds to the plant known as Hikiokoshi (*Qí nǐng*).
+
+Copied by hand in the latter ten days of the third month (Kōsen), Mizunoto-Hitsuji year (Bunsei 6, 1823).

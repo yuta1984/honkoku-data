@@ -1,0 +1,15 @@
+## [Tsutamaki-zan (Vine-Winding Calculation)]
+
+　　Length: 5 *shaku*
+　　　　　Upper end (*sue*)
+▲ Tsutamaki (vine winding)
+
+《Title: Tsutamaki-zan》
+
+The question: what is the length of the vine (winding around the log)?
+
+The vine winds 8 times.
+Length of the log: 2 *jō*
+Circumference at the base (*moto*): 3 *shaku* 5 *sun*
+
+The length of this vine: 3 *jō* 4 *shaku* 4 *sun*　[coefficient/factor] 令六四

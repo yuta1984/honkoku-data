@@ -1,15 +1,15 @@
-Mouth harp / jaw harp (kuchi biwa)　　　　　　　　　　　　Mutsukuri
-Ladder / stepladder (hashigo)　　　　　　　　　　　　　　　Nikari　【hashigo】
-Footwear — leather/hide　　　　　　　　　　　　　　　　　　Keri　　Karafuto (Sakhalin): Kiro
-　　　　　　salmon skin　　　　　　　　　　　　　　　　　　Shitsukeri
-　　　　　　tree bark　　　　　　　　　　　　　　　　　　　Keriunbe
-Habaki (blade collar / leg gaiter)　　　　　　　　　　　　　Kinahoshi ▲ Hoshi
-　　made with twill/figured weave (aya)　　　　　　　　　　Shyakohoshi
-Edging / border / hem (heri)　　　　　　　　　　　　　　　　Tsuishyama ▲ Inumushyama
-Broom (hōki)　　　　　　　　　　　　　　　　　　　　　　　Shyōkanuipu
-Brushwood broom (shiba bōki)　　　　　　　　　　　　　　　Muishyaptepu ▲ Munamukep
-Hand luggage / personal baggage (te nimotsu)　　　　　　　　Kinkai
-Merchant's/trade goods baggage (shōbai nimotsu)　　　　　　Chyoki
-Silk (kinu)　　　　　　　　　　　　　　　　　　　　　　　　Shyaranbe
-Cotton cloth (momen)　　　　　　　　　　　　　　　　　　　Senkaki ▲ Teba
-Cotton thread (momen ito)　　　　　　　　　　　　　　　　　Nuito
+Mouth harp/jaw harp (kuchi-biwa; instrument played at the mouth)　　　　　　　　　　　　Mutsukuri
+Ladder (hashigo)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nikari
+Footwear made of hide/leather (haki-mono; kawa)　　　　　　　　　　　　　　　　　　　　Keri　[Karafuto dialect:] Kiro
+　　　　Made of salmon skin (sake-kawa)　　　　　　　　　　　　　　　　　　　　　　　　Shitsukeri
+　　　　Made of tree bark (ki-kawa)　　　　　　　　　　　　　　　　　　　　　　　　　　Keriunbe
+Leg wrappings/gaiters (habaki; cloth wrapped around the lower leg)　　　　　　　　　　　　Kinahoshi ▲ Hoshi
+　　Made with twill/patterned weaving (aya-ori)　　　　　　　　　　　　　　　　　　　　Shiyakohoshi
+Edging/border/trim (heri; border on cloth or mats)　　　　　　　　　　　　　　　　　　　Tsuishiyama ▲ Inumushiyama
+Broom (hōki)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Shiyōkanuipu
+Brushwood broom (shiba-hōki; broom made of brushwood)　　　　　　　　　　　　　　　　Muishiyaputepu ▲ Munamakepu
+Hand baggage/personal luggage (te-nimotsu)　　　　　　　　　　　　　　　　　　　　　　Kinkai
+Merchandise/trade goods (shōbai-nimotsu; goods carried for trade)　　　　　　　　　　　　Chiyoki
+Silk (kinu)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Shiyaranbe
+Cotton cloth (momen)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Senkaki ▲ Teba
+Cotton thread (momen-ito)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Nuito

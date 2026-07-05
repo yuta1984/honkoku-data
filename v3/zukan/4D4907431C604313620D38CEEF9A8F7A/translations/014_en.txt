@@ -1,61 +1,75 @@
-## 【SAKURA (Cherry Blossom)】
+---
 
-**From the Wamyō Ruijushō (Dictionary of Japanese Names):**
-Cherry (Sakura): According to the Monjishūryaku (文字集略), "cherry" [Japanese reading: Sakura]. The fruit is as large as that of the cypress, with specimens having red, white, and black coloration at the tips.
+## 【SAKURA (Cherry Blossom / *Prunus* spp.)】
 
-**From the Zōho Tashikiden (Expanded Encyclopedia of Names), Section on Trees:**
-Cherry blossom (pronunciation: Ōei) — Japanese name: Sakura (左久羅)
+According to *Wamyō Ruijushō*:
+　　Sakura (桜) — The *Mojishūryaku* states: the character 桜 〔fanqie reading: "Ūkei no han"; Japanese name: Sakura (佐久良)〕
+　　The fruit is about the size of a cypress nut (柏), and comes in red, white, and black varieties.
 
-In Tang China, it seems as though cherry blossoms do not exist, as they are not recorded in the herbals (honzō), the Sancai Tuhui (三才図会), or the Sōmoku Gafu (草木画譜), and Chinese poets likewise do not praise them.
+According to *Zōho Tashiki-hen*, Section on Trees:
+　　Sakura 〔Reading: Ō / Ei〕　Japanese name: Sakura (左久羅)
 
-[Seal] Flowering Tree
+　In China (Tang), it appears that the cherry blossom does not exist, as it is not recorded in the *Honzō* (materia medica), *Sansai Zue* (Encyclopaedia of Three Realms), *Sōmoku Gafu* (Illustrated Album of Plants), or similar works, and Chinese poets also did not compose verses in its praise.
 
-Written on the 27th day of the second month (February), in the year Jingo (壬午, 1822).
+〔Seal: Flowering Tree〕
+
+　　　Copied from life on the twenty-seventh day of the second month, Mizunoe-uma year (1822)
 
 ---
 
-**A poem by Song Lian (宋景濂):**
-The appreciation of cherry blossoms is far greater in Japan than in Tang China.
-They are as if covered by the glory of both peony and crabapple combined.
-It is likely even Zhao Chang would have difficulty painting them.
-When the spring breeze barely stirs up the snow, it blows forth their fragrance.
+### A poem by Sòng Liǎn (宋景濂) on cherry blossoms:
 
-**A poem by Wang Jing Gong (Wang Anshi, 王荊公) on the Mountain Cherry:**
-The mountain cherry embraces the rocks, casting shade upon the pine branches.
-Compared to other flowers, it blooms the latest of all.
-Only the spring wind, disliking its solitude,
-Blows its fragrance across the water to let people know it is there.
-
-○ Looking at this, we can see that in China too, cherry trees are not entirely absent.
+　　In Japan, the appreciation of cherry blossoms flourishes more than in China;
+　　It is as if the glory of the peony combines with the beauty of the crabapple.
+　　This is perhaps what even Zhào Chāng could not paint —
+　　When the spring breeze just stirs, it blows the snow-like petals and carries their fragrance.
 
 ---
 
-**Emperor Heizei composed the first poem on cherry blossoms:**
-Long ago, dwelling beneath a secluded cliff,
-Its radiant brilliance illuminated all four directions.
-Suddenly encountered when someone reached to pluck it,
-It smiled and spread throughout the three months of spring.
-It sends forth its spirit in varying abundance,
-Its shading branches long and short.
-How is it that this single thing
-Commands the entire stage of the long spring as it pleases?
+### A poem on mountain cherries by Wáng Jīnggōng (Wang Anshi / 王荊公):
+
+　　The mountain cherry clings to the rocks, casting shade upon the pine boughs;
+　　Compared to other flowers, it blooms the latest.
+　　Only the spring wind, disliking the solitude,
+　　Blows its fragrance across the water to let people know it is there.
+
+　○ From these poems, it is evident that China was not entirely without cherry trees.
 
 ---
 
-**The Nihon Kōki (日本後記) states:**
-In the second month of the third year of Kōnin (弘仁三年, 812 AD) of Emperor Saga's reign, there was an imperial excursion (miyuki) to the Shinsen'en Garden. The Emperor viewed the flowering trees and had men of letters compose poems. The tradition of the Flower Banquet (Hana no En) began from this occasion.
+Emperor Heizei composed the first known Japanese imperial poem on cherry blossoms:
+
+　　Dwelling long ago beneath the secluded cliffs,
+　　Its brilliant light illuminated the four directions.
+　　Suddenly encountering those who would pluck its branches,
+　　It smiles through the three months of spring.
+　　The fragrance it sends forth — now much, now little —
+　　Its drooping shade falling from branches long and short.
+　　How is it that this singular thing
+　　Holds such beauty sovereign over the spring scene?
 
 ---
 
-## 【KAWAZAKURA (Birch-bark Cherry)】
-
-Kawazakura (樺桜) — Pronunciation: Wa; Japanese names: Kawa (加波) or, in another account, Kaniwa (加仁波)
-
-This is what is known as the single-petaled cherry. Separately, there is a tree called "Kaba" (birch), which is distinct from the cherry. It is listed in the Yamato Honzō (大和本草) under miscellaneous trees.
-The Zihui (字彙) states: "Kaba (樺) is the name of a tree whose bark is used for covering bows." Thus it is a separate species of tree. In the Wamyōshō (倭名抄) as well, it appears to be listed as a separate species. However, beyond the bark of the cherry tree, the author had not yet encountered anything that could be called "kaba."
+The *Nihon Kōki* (Later Chronicles of Japan) states: In the second month of the third year of Kōnin (弘仁三年, 812), Emperor Saga made an excursion to Shinsen-en Garden, where he viewed the flowering trees and commanded men of letters to compose poems on the flowers. The banquet of flowers (*hana no en*) is said to have originated from this occasion.
 
 ---
 
-**From the Yamato Honzō (大和本草):**
-In the poem "Early Departure from Ding Shan" (早発定山) by Shen Xiuwen (沈休文) in the Wenxuan (文選), the line reads: "The mountain cherry blossoms open, as if about to burst into flame." The commentary states: "It is the name of a fruit tree; the flower's vermilion color is like fire about to ignite."
-Wang Jing Gong's poem states: "The mountain cherry embraces the rocks, reflected in the pine branches." Sima Wen Gong's poem states: "The red cherry scatters, and the apricot blossoms open." This shows that what China calls "cherry" (sakura) refers to a red-flowered tree. The cherry known in Japan does not exist in China. During the Enpō era (1673–1681), a Chinese visitor came to Nagasaki, and He Qingfu stated: "If it existed in China, it would have been recorded in Chinese books and celebrated in poetry and prose. The statement that there is no such tree in China is likely to be the truth." It is said that the tree exists in Korea, where it is called "Naki" (奈木).
+## 【KAWASAKURA (Birch-bark Cherry / *Prunus jamasakura* or similar)】
+
+Kawasakura (樺桜)　〔Reading: Wa; Japanese name: Kawa (加波); also called Kaniwa (加仁波)〕
+
+　This is what is referred to as the single-petaled cherry (hitoe-zakura). Separately,
+　there is a tree called "Kaba" (樺, birch), which is a different species from the cherry.
+　It is recorded in the miscellaneous trees (*zatsumoku*) section of *Yamato Honzō*.
+　The *Jìhuì* (字彙, Chinese character dictionary) states: "Kaba (樺) is a tree name; its bark is said to be suitable for wrapping bows."
+　This suggests it may be an entirely separate kind of tree. In the *Wamyō Shō* (Wamyō Ruijushō) it is also treated as a separate species, yet apart from cherry bark, I have yet to see any other tree that could properly be called "Kaba."
+
+---
+
+According to *Yamato Honzō*:
+　　In the poem "Setting Out Early from Dìngshān" (早発定山) by Shěn Xiūwén (Shěn Yuē / 沈休文) in the *Wénxuǎn* (Anthology of Literature), the line reads: "The mountain cherry opens, as if about to burst into flame." The annotation explains: "A fruit-tree by name. Its flowers are vermillion, like fire about to ignite."
+　　In a poem by Wáng Jīnggōng (Wang Anshi): "The mountain cherry clings to the rock and is reflected in the pine branches."
+　　In a poem by Sīmǎ Wēngōng (Sima Guang / 司馬温公): "The red cherry scatters as the apricot blossoms open."
+　　From these, it is clear that what China calls "cherry" (桜) refers to a tree with vermillion flowers.
+　　The cherry as known in Japan (with white or pale pink flowers) does not exist in China; in the Enpō era (1673–1681), He Qīngfǔ, who came to Nagasaki, reportedly said: "If such a tree existed in China, it would certainly have been recorded in Chinese books and celebrated in poetry." This [observation about *kawasakura*] would appear to be a well-founded account.
+　　In Korea, the tree is said to exist and is called "Naki" (奈木).

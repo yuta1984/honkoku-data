@@ -1,0 +1,18 @@
+(Continued from previous page)
+
+For 3 fans arranged: multiplying the fan width of 1 shaku, 8 sun by 3 gives 5 shaku, 4 sun. Subtracting this from the circumference (6 shaku, 3 sun, 8 bu, 3 rin, 2 mō) leaves a deficit of 9 sun, 8 bu, 3 rin, 2 mō.
+
+For 4 fans arranged: multiplying 1 shaku, 8 sun by 4 gives 7 shaku, 2 sun. (Compared to the circumference,) there is an excess of 8 sun, 1 bu, 6 rin, 8 mō.
+
+《Diagram: Figure showing the deficit when fans are arranged》
+
+　　　(Figure showing the excess for arrangement of 4 fans)
+
+《Diagram: Square object》
+
+---
+
+▲ A problem from the same collection: Given a single square board assigned a tsubo (area) value, make various shapes from that same tsubo (area). No method (formula) is given for any of these.
+
+　　　　Thickness: 1 sun
+　　　　Area (tsubo): 400 tsubo

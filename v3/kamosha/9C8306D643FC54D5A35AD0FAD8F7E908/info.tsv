@@ -165,10 +165,10 @@ filename	status	image
 164.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000164/full/full/0/default.jpg
 165.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000165/full/full/0/default.jpg
 166.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000166/full/full/0/default.jpg
-167.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000167/full/full/0/default.jpg
-168.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000168/full/full/0/default.jpg
-169.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000169/full/full/0/default.jpg
-170.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000170/full/full/0/default.jpg
+167.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000167/full/full/0/default.jpg
+168.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000168/full/full/0/default.jpg
+169.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000169/full/full/0/default.jpg
+170.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000170/full/full/0/default.jpg
 171.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000171/full/full/0/default.jpg
 172.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000172/full/full/0/default.jpg
 173.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000173/full/full/0/default.jpg

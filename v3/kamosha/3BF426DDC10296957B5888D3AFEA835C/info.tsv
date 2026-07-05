@@ -104,10 +104,10 @@ filename	status	image
 103.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000103/full/full/0/default.jpg
 104.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000104/full/full/0/default.jpg
 105.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000105/full/full/0/default.jpg
-106.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000106/full/full/0/default.jpg
-107.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000107/full/full/0/default.jpg
-108.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000108/full/full/0/default.jpg
-109.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000109/full/full/0/default.jpg
+106.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000106/full/full/0/default.jpg
+107.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000107/full/full/0/default.jpg
+108.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000108/full/full/0/default.jpg
+109.txt	initiated	https://dl.ndl.go.jp/api/iiif/2540529/R0000109/full/full/0/default.jpg
 110.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000110/full/full/0/default.jpg
 111.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000111/full/full/0/default.jpg
 112.txt	default	https://dl.ndl.go.jp/api/iiif/2540529/R0000112/full/full/0/default.jpg

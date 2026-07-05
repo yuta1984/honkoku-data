@@ -1,12 +1,14 @@
 【Right Page】
-However, among these four collections, there are many mathematical problems where the methods are inadequately explained. Though it may be presumptuous of me, with my foolish mind, to name this work "Hōen Hiken-shū" (Secret Insights into Square and Circle Methods) and record matters similar to existing computational methods—and though showing this to others might be embarrassing, and my abilities as an author may be meager—I compile these writings hoping that they might serve as practice aids for those even more foolish than myself.
+
+Such is what this book aims to be. Yet there are many methods of calculation that are not covered in the four collections. For a person of such shallow learning as myself to name this work the *Hōen Hiken-shū* (Secret Compendium of Square and Round [Calculations]) and write down things resembling those methods may well seem presumptuous to other eyes, and may even serve to diminish the ingenuity and efforts of those earlier authors. Nevertheless, I have compiled this collection in the hope that it might perhaps serve as some small aid in study and practice for those even less learned than myself.
 
 【Left Page】
 　　　　　Table of Contents
-1. Nagasaki Trading Calculations    1. Circular Volume of Fans
-1. Area Conversion of Square Boards 1. Volume of Paper Construction
-1. Volume of Round Logs of          1. Hexagonal Flat Object Volume
-   Various Sizes (Top/Bottom)       1. Triangular Long Object Conversion
-1. Round Object Conversion          1. Square Object Conversion
-1. Spherical Area                   1. Hamakoshi Construction Area
-1. Diamond Shape Volume             1. Half-Diamond Shape Area
+
+- Calculations for purchases in Nagasaki　　　- Calculating the volume of a fan shape
+- Correcting the area of a square board　　　- Calculating a ground-paper shape
+- Calculating the volume of round timber　　　- Calculating a flat hexagonal object
+　　(large and small, top and bottom)　　　　- Correcting a long triangular object
+- Correcting a round object　　　　　　　　- Correcting a square object
+- The area of a sphere shape　　　　　　　　- The area of a beach-crossing shape
+- Calculating a diamond (rhombus) shape　　- The area of a half-diamond shape

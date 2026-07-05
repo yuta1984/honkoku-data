@@ -1,0 +1,25 @@
+(Continued from previous page)
+
+As the method: multiplying by 1 shaku, 2 sun, 4 bu, 8 mō gives 1.539584640…. Multiplying this by the hexagonal coefficient 0.2598 to find the volume (tsubo).
+
+---
+
+**Topic: Triangular Objects**
+
+　▲ Long triangular object (triangular prism-shaped timber)
+　　　　　Thickness: 1 sun
+　　　　　Volume: 400 tsubo
+
+Method: Take 3 shaku, 2 sun; halve 2 shaku, 5 sun (dividing by two),
+
+then multiply by 1 shaku, 2 sun, 5 bu to find the volume.
+
+---
+
+**Topic: Corrected Square Object (四角物直し)**
+
+　　　　　Thickness: 5 sun
+　　　　　Volume: 399 tsubo
+　　　　　　　　　　　9 (bu) and 7 rin, remainder
+
+Method: Multiplying by 8 sun, 9 bu, 4 rin, 4 mō gives 0.799995136… (approximately 0.8). Multiplying this by the thickness of 5 sun to find the volume.

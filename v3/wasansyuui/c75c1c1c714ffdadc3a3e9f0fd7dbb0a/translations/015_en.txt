@@ -1,0 +1,12 @@
+*(Continued from previous page: Area/Volume of a Rhombus)*
+
+By the method: for the base of 1 shaku 8 sun, the triangles on both sides multiply 1 shaku 8 sun by itself, yielding 324. Multiply this by 0.43, obtaining 142.92. Furthermore, for the upper measurement of 2 shaku 8 sun 8 bu and 5 sun 6 rin 4 mō, take half of the central diagonal (middle line) of 1 shaku 8 sun, discarding the half-portion, and multiply by 9 sun, yielding 259 tsubo, 7 gō, [rei] 796. Combining both volumes gives 399 tsubo, 9 gō, 9 shaku, 9 [sai], 96, obtaining the volume of the rhombus.
+
+---
+
+**Topic: Area/Volume of a Half-Rhombus (Han-hishi-nari)**
+
+　　Volume: 400 tsubo
+
+By the method: for 6 shaku 7 sun, take half of the width of 1 shaku — that is, 5 sun (discarding the remainder) — and multiply by 5 sun, yielding a lower portion of 335 tsubo. For the upper portion, 1 shaku 3 sun multiplied by half of 1 shaku (5 sun) gives 6[5 tsubo…] *(continues on next page)*
+</translation_ja>

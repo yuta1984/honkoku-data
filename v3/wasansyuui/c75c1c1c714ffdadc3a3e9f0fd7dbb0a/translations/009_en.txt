@@ -1,0 +1,16 @@
+(Continued from previous page)
+
+**Calculation for the Square Board**
+
+By the method: multiplying 2 shaku by 2 shaku gives 400 tsubo (in sun-tsubo units), as is known.
+
+To find the diagonal (corner to corner), one uses the kōko-gen (勾股弦) method — i.e., the Pythagorean theorem. Multiply one side of 2 shaku by itself to get 4 (i.e., 2² = 4), and likewise multiply the other side by itself to get 4 (i.e., 2² = 4). Sum both values to obtain 8. Applying the square root method (開平法) to this gives 2 shaku, 8 sun, 2 bu, 8 rin, 4 mō.
+
+---
+
+　　　　　Thickness: 1 sun
+　　　　　Area (tsubo): 399 tsubo, 9 bu, 9 rin, 8 mō, 6 shi
+
+By the method: adding 7 sun, 5 bu to 1 shaku, 2 sun gives 1 shaku, 9 sun, 5 bu.
+　　Dividing this by 2 gives 9 sun, 7 bu, 5 rin, which is taken as the height.
+　　Multiplying by 4 sun, 1 bu, 2 mō, 5 shi, 5 (momme) 5 (bu) gives the (area).

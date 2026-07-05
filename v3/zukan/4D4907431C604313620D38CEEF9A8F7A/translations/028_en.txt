@@ -1,61 +1,63 @@
-## 【RINGO (Apple, Malus pumila / Malus asiatica)】
+---
 
-From the Zōho Tashikihen (Supplemented Encyclopedia), section on Mountain Fruits:
-　Apple blossom (林檎花)　Japanese name: Ringō (利牟古宇); commonly also called "Ringo" (利牟古).
-　Alternative name: Raikin (来禽, "incoming bird") [from the Hōjō (法帖, calligraphy copybooks)]
-　Additional alternative name: Bunrinrōka (文林郎果, "Fruit of the Wenlin Scholar")
+## 【RINGO (林檎 — Apple, Malus pumila)】
 
-From the Wamyō Ruijūshō (Japanese Names Encyclopedia):
-　Rinkō (林檎): The Bencao (Honzō) commentary states that the character 林檎 is read with the sound of 禽 (kin/qin), and its Japanese name is Riukōu (利宇古宇).
+From the **Zōho Tashikihen** (Supplemented Encyclopedia), section on Mountain Fruits:
+　Apple flower (林檎花)　Japanese name: Ringō (利牟古宇); commonly also called "Ringo (利牟古)."
+　　Alternative name: Raikin (来禽, "coming bird") [from the Hōjō / Model Calligraphy Texts]
+　　[Supplementary] alternative name: Bunrinrōka (文林郎果, "Fruit of Lord Bunrin")
 
-From the Saijiki (歳時記, Seasonal Record):
-　This is the plant known in Japan as "kaidō" (海棠, crabapple/flowering apple).
-　It is said that it was first found floating down a river, whereupon a person named "Bunrin-soku" retrieved it and planted the seeds. The fruit was therefore named after him (Bunrinrōka, "Fruit of the Wenlin Scholar"). [From the Wakan Sansai Zue]
+From the **Wamyō Ruijūshō** (Japanese Names Encyclopedia):
+　Ringo / Riūkō (林檎)　The annotations to the Honzō (Materia Medica) state: the character 檎 is read "kin (禽)"; the Japanese name is "Riūkō (利宇古宇)."
 
-　Transcribed faithfully on the 10th day of Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).
-　【Seal】Tree category
+From the **Saijiki** (Almanac of Annual Events):
+　In Japan, what is called "Kaidō (海棠)" refers to this plant (the apple).
+　At first, [the fruit or seed] floated down from a river; a man named Bunrin (文林) picked it up and planted it, and the name "Bunrin" accordingly became associated with it. [From the Wakan Sansai Zukai]
+
+　　Transcribed faithfully on the 10th day of early Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).
+　　【Seal】Trees
 
 ---
 
-## 【NASHI (Pear, Pyrus pyrifolia)】
+## 【NASHI (梨 — Pear, Pyrus pyrifolia)】
 
-From the Zōho Tashikihen, section on Mountain Fruits:
+From the **Zōho Tashikihen**, section on Mountain Fruits:
 　Pear (梨, ri)　Japanese name: Nashi (那志)
-　Alternative names: Kaika (快果, "refreshing fruit"), Kasō (果宗, "chief of fruits"), Gyokunyu (玉乳, "jade milk"), Mitsufu (蜜父, "honey father")
+　　Alternative names: Kaika (快果, "refreshing fruit")；Kasō (果宗, "foremost of fruits")；Gyokunyū (玉乳, "jade milk")；Mitsufu (蜜父, "honey father")
 
-　Pear blossom [from the same work]: also called "Tōri-ka" (棠梨花, Pyrus calleryana blossom). [Note: Tōnashi (棠梨) has three-lobed leaves and shares the name with kaidō (海棠).]
+　Pear blossom (梨花) — also from the same source, and Tōri-ka (棠梨花, wild pear blossom) [Note: the "棠梨" (wild pear) shares its name with the "three-leafed kaidō (三葉海棠)"].
 
-　　　　　[From the Kokin Wakashū (古今和歌集, Collection of Ancient and Modern Japanese Poetry):]
-　　　　　　At Afu no Ura, a pear tree spreading its single bough wide—
-　　　　　　whether it bears fruit or not, let us lie beneath and lean upon it.
-　　　　　　(Anonymous)
+　　　　　　[From the Kokin Wakashū or related anthology:]
+　　　　　　　　In the bay of Ō, a pear tree extending its single bough —
+　　　　　　　　Whether it bears fruit or not, let us lie together beneath its spreading branches.
+　　　　　　　　(Anonymous)
 
-From the same work, Tashikihen, same category:
-　　◦ Gari (鵞梨, "goose pear")　Japanese name, tentatively: Kokanashi (古加那志)　Alternative name: Menri (綿梨, "cotton pear")
-　　◦ Kōsuiri (香水梨, "fragrant water pear")　Japanese name, tentatively: Tsunashi (豆那志)　Alternative name: Shōri (消梨, "melting pear")
-　　◦ Kanshōri (含消梨, "melt-in-the-mouth pear")
+From the same text (Tashikihen), same category:
+　◦ Gari (鵞梨)　Japanese name: as I judge, "Kokanashi (古加那志)"　Alternative name: Menri (綿梨, "cotton pear")
+　◦ Kōsuiri (香水梨, "fragrant water pear")　Japanese name: as I judge, "Tsunashi (豆那志)"　Alternative name: Shōri (消梨, "melting pear")
+　◦ Kanshōri (含消梨, "melt-in-the-mouth pear")
 
-Transcribed faithfully on the following morning of the same spring month, after washing the ink stone.
-【Seal】Fruit and tree category
+　　Transcribed faithfully the following morning of the same spring, after washing the inkstone.
+　　【Seal】Fruit trees
 
-From the Wamyō Ruijūshō: Nashiko (梨子, nashi — pear)
-From the Tōin (唐韻, Tang Rhymes dictionary): The character 梨 is formed by the fanqie (反切) combination of 刀 and 指, and its Japanese name is Nashi (奈之).
-From the Kenmeien (兼名苑, Garden of Combined Names): Nashiko (梨子); alternative name: Kanshō (含消, "melt-in-the-mouth").
+From the **Wamyō Ruijūshō**: Pear (梨子, nashi)
+From the **Tōin** (Tang Rhyme Dictionary): The character 梨 has the fanqie reading "dāo-zhǐ (刀指)"; Japanese name "Nashi (奈之)."
+From the **Kenmeien** (Chinese synonym dictionary): Pear (梨子); alternative name "Kanshō (含消, 'dissolving in the mouth')."
 
 ---
 
-## 【HEBI-ICHIGO and related plants (Snake Strawberry, Duchesnea indica and related species)】
+## 【HEBIICHIGO (蛇苺 — Snake Strawberry / Mock Strawberry, Duchesnea indica and related species)】
 
-From the Jiuhuang Bencao (救荒本草, Famine Relief Herbal):
-　Kekkanка (鶏冠果, Kuchinawa-ichigo — "snake strawberry"):
-　　Alternative name: Noyōbai (野楊梅, "wild waxberry")
+From the **Jiuhuang Bencao** (Materia Medica for Relieving Famine):
+　Cockscomb Fruit (鶏冠果, Kuchinawaichigo / "snake strawberry")
+　　Alternative name: Wild bayberry (野楊梅, Yaōbai)
 
-Snake strawberry (蛇苺, Jahō):
-　From the Jikinsho (地錦鈔, Notes on Ground Brocade):
-　　The flower of hebi-ichigo (snake strawberry) is also called "o-hebi-ichigo" (male snake strawberry). "Jakan" (蛇含, snake-embracing plant) shares the same name.
+**Jaichigo / Snake Strawberry (蛇苺)**
+　　From **Chikinsho** (Landscape and Plant Reference):
+　　　The flower of the hebiichigo (snake strawberry) is called "hebiichigo." The name "蛇含 (jagan / snake-holding)" is also used for the same plant.
 
-　From the Zōho Tashikihen, section on Climbing Plants (蔓草類):
-　　Snake strawberry (蛇苺, jahō)　Japanese name, tentatively: Hebi-ichigo (倍比伊知古)
-　　Additional alternative names: Jahō (蛇藨, snake bramble); Jiichigo (地苺, "ground strawberry") [from the Kaihен (会編, Compiled Encyclopedia)]; Sanpō (蚕苺, "silkworm strawberry")
+　　From the **Zōho Tashikihen**, section on Creeping Plants:
+　　　Snake strawberry (蛇苺)　Japanese name: as I judge, "Hebi-ichigo (倍比伊知古)"
+　　　[Supplementary] alternative names: Jahō (蛇藨, "snake bramble")；Jiichigo (地苺, "ground strawberry") [from the Kaien / encyclopedic compilation]；San-ichigo (蚕苺, "silkworm strawberry")
 
-Transcribed faithfully on the 25th day of Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).
+　　　Transcribed faithfully on the 25th day of Kosen (3rd lunar month), Mizunoto-Hitsuji year (Bunsei 6, 1823).

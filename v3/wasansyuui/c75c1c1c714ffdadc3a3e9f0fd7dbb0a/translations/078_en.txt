@@ -1,0 +1,13 @@
+Divide by the market price of soybeans, 30 *monme*, to obtain 15 *koku*; for adzuki beans, divide 450 *monme* by 27 *monme*; for wheat, divide the same silver amount (450 *monme*) by 25 *monme*; and for buckwheat, divide by 20 *monme* to find the respective quantities.
+
+The combined total of the five commodities is 82 *koku*, 1 *to*, 6 *shō*, 6 *gō*, 6 *shaku*, and 6 *sai*.
+
+Using this as a reference (*meyasu*), dividing the total of 101 *koku*, 1 *shō*, 6 *gō*, and 5 *shaku* gives the quantity of rice as 12 *koku* and 3 *to*.
+To find the silver value, multiply by the market price to obtain 553 *monme* and 5 *fun*.
+
+The quantity of soybeans is found by taking the rice quantity of 12 *koku* 3 *to*, adjusting for proportion (*kurai*), and multiplying by 15 *koku*. For adzuki beans, multiply the rice quantity by 16 *koku* 6 *to* 6 *shō* 6 *gō*. For wheat, multiply the rice quantity by 18 *koku*, and for buckwheat, multiply by 22 *koku* 5 *to*. To find the silver value, multiply each quantity by its respective unit price.
+
+| Commodity | Quantity | Silver |
+|-----------|----------|--------|
+| Rice | 12 *koku*, 3 *to* | 553 *monme*, 5 *fun* |
+| Soybeans | 18 *koku*, 4 *to*, 5 *shō* | *(continues on next page)* |

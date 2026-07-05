@@ -1,0 +1,13 @@
+## [Calculation of Square Timber Volume (continued) and Finding the Sagitta of the Truncated Cone]
+
+[Volume of the square timber:] 15,200 *tsubo*
+
+　As the method: Multiplying the lower [dimension of] 2 *shaku* 4 *sun* by the upper [dimension of] 1 *shaku* 2 *sun* gives 288. Multiplying the lower 1 *shaku* 8 *sun* by the upper 1 *shaku* 6 *sun* also gives 288. Multiplying the lower 2 *shaku* 4 *sun* by 1 *shaku* 8 *sun* gives 432. Multiplying the upper 1 *shaku* 6 *sun* by 1 *shaku* 2 *sun* gives 192. Adding the two instances of 288 together gives 576; dividing by two gives 288. Adding [this] to 432 and 192 — three terms in total — gives 9[12]. Multiplying by the length of 5 *shaku* gives 45,600 *tsubo*,
+
+　which is then divided by three to find the volume. [This is the] three-part division (*sansō*).
+
+　Subtracting 15,200 *tsubo* from the total volume of 25,[2]16 *tsubo* 6 *gō* 6 *shaku* leaves a remainder of 9,816 *tsubo* 6 *gō* 6 *shaku*.
+
+Subtracting the thickness of 1 *shaku* 8 *sun* from the lower width of 2 *shaku* 4 *sun* leaves 6 *sun*. This is understood to be the combined sagitta (*ya*) of both circles; dividing by two gives a sagitta of 3 *sun* each.
+
+The tip [upper end] is determined in the same manner, giving a sagitta of 2 *sun* each. Furthermore, to the upper [chord of] 1 *shaku* 6 *sun*, [one adds] the base sagitta [of 3 *sun*]…

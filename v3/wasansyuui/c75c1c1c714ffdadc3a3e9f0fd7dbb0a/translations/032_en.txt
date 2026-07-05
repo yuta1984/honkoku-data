@@ -1,0 +1,10 @@
+## Hōen Hiken Shū, Volume 2 — Table of Contents
+
+- Calculation of the cubic volume of round logs
+- Tsutamaki calculation (spiral/coil measurement)
+- Interest calculation
+- Excavation volume calculation
+- Calculation for determining the dimensions of long-and-short rhombus shapes
+- Warehouse/storehouse volume calculation
+- Finding the properties (formulas) of rhombus shapes
+- Calculation of horse fodder fees and soybean quantities

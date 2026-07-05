@@ -1,85 +1,74 @@
-## Dōdan-tsutsuji (ドウダンツツジ / Enkianthus, *Enkianthus perulatus*)
+## Dōdan-tsutsuji / White Enkianthus (躑躅 — *Enkianthus perulatus*)
 
 [Seal] Flowering trees
-Copied in the third month (spring) of Kanoto-Mi (文政 4, 1821).
-
-Called *Tōtan* (躑躅).
+Written in the third month (*Yayoi*) of Kanoto-Mi, the fourth year of Bunsei (spring 1821).
+*Tsutsuji* (躑躅, called "Dōdan")
 
 ---
 
-## Matsu (松 / Japanese Pine, *Pinus* spp.)
+## Matsu / Pine (松 — *Pinus* spp.)
 
-*Wakan Sansai Zue* (Encyclopedia of Japan and China), section on fragrant trees, states:
-　*Matsu* (松, pine; Tang-dynasty reading: *Son*). Phonetic gloss: *shōyō-setsu* (祥容切).
-　*Sho* (枩, alternate character, same meaning). *Yōboku* (容木, same). Japanese name: *Matsu* (万豆).
-　*Shōkō* (松黄, "pine yellow"): commonly called *Midori* (美止利, "green").
-　*Zui* (蕤; reading: *zui*/橤). *Zui* (甤, same) ■ — refers to the place where the stamens/pine catkins grow.
+From the *Wakan Sansai Zue* (Illustrated Encyclopedia of Japan and China), section on aromatic woods:
+　*Matsu* (pine; Tang Chinese pronunciation: *Son*) [fanqie spelling: Shōyō]
+　*Shō* (枩, variant character); *Yōboku* (容木, same); Japanese name: *Matsu* (万豆)
+　*Shōkō* (松黄, "pine yellow" — pine pollen); commonly called *Midori* (美止利, "green/vitality")
+　*Zui* (蕤) [pronounced *zui*]; *Zui* (甤, same character) — the place where ■*zui* grows [i.e., the pollen-bearing stamen/catkin]
 
-　　　The pine does not change color even when subjected to frost and snow;
-　　　it is therefore compared to *teishin* (貞心, a steadfast, loyal heart)
-　　　and called *teiboku* (貞木, "a tree of steadfast virtue").
+　The pine does not change color even after passing through frost and snow; comparing this to a person of steadfast heart, it is called "the tree of fidelity" (*tēiboku*).
 
-*Wamyō Ruijushō* states:
-　　　*Matsu* (松): The *Kanjo* (漢書, Book of Han) uses it in the sense of "planting green pines."
-　　　　　The character is a *fanqie* spelling of "Shōyō" (祥容); also written as 榕, as seen
-　　　　　in the *Tōin* (唐韻, Tang Rhymes dictionary). Japanese name: *Matsu* (万豆).
+From the *Wamyō Ruijushō*:
+　*Matsu* (松): The *Hanshu* [Book of Han] mentions "planting green pines."
+　The fanqie spelling "Shōyō" is also written as 榕 (*yong*), as seen in the *Tōin* [*Tang Yun*, a Tang dynasty phonological dictionary].
+　Japanese name: *Matsu* (万豆).
 
-*Nōgyō Zensho* (Complete Book of Agriculture) states:
-　The pine is the chief (長) among all trees; hence the character is written with the wood radical (木偏) and the character *kimi* (公, "lord/noble").
-　There are two-needle, three-needle, and five-needle varieties, none of which change color through the four seasons.
-　Both in Japan and China, the pine is greatly admired and treasured.
-　Beneath a thousand-year-old pine, *bukuryō* (茯苓, *Poria cocos*, a medicinal fungus) is to be found;
-　likewise on the pine grows *nenashikazura* (兎糸子, dodder, *Cuscuta japonica*);
-　and in the roots, amber (琥珀) is said to be found. All of these are excellent medicines.
-　Pine resin, when refined, is applied to bowstrings. Beyond that, it has countless uses in medicinal plasters and other preparations.
-　The word "*Matsu*" carries the meaning of "*tamotsu*" (保つ, "to preserve/maintain"), with the first part abbreviated.
-　Originally interchangeable with "*mato*," it is a tree that long preserves life.
-　The *Shiki* (史記, Records of the Grand Historian), "Turtle Strategy" (*Kisakuden*) chapter, states: "Pine and cypress are the chiefs among all trees, and they guard the gates and lanes of homes."
-　According to the *Shiki*, when the First Emperor of Qin climbed Mount Tai and a sudden violent storm arose, he took shelter beneath a certain tree.
-　He thereupon conferred upon that tree the title of "Five Grand Masters" (*go-taifu*).
-　The historical record did not initially specify what kind of tree it was;
-　Ying Shao (応劭) was the first to state that it was a pine, and so
-　(the pine) came to receive the rank of Grand Master.
+From the *Nōgyō Zensho* (Complete Book of Agriculture):
+　The pine is the chief of all the hundred trees; its character is written with the "tree" radical (*kibhen*) combined with the character for "lord" (*kimi*, 公).
+　There are varieties with two, three, and five needles, and none of them change color through the four seasons.
+　Both in Japan and China, the pine is admired and treasured.
+　Beneath a pine of a thousand years grows *bukuryō* (茯苓, *Poria cocos*, a medicinal fungus);
+　likewise, above it grows *nenashi-kazura* (兎糸子, *Cuscuta japonica*, Japanese dodder);
+　and at its roots, amber (*kohaku*) can be found. All of these are fine medicines.
+　Pine resin (*shōshi*), when refined, is applied to bowstrings; it also has countless other uses in plasters and medicines.
 
-*Yamato Honzō*:
-　Pine (松)
+　The word *matsu* derives from *tamotsu* ("to preserve"), with the initial syllable dropped.
+　*Moto* and *mato* are interchangeable. It is a tree that long preserves its vitality and longevity.
+　The *Records of the Grand Historian* (*Shiji*), "Treatise on Divination by Tortoise and Stalks," states: "The pine and cypress are the chiefs of all the hundred trees, and they guard the gates of towns and villages."
+　The *Shiji* also records: When the First Emperor of Qin climbed Mount Tai, a sudden violent storm arose, and he took shelter beneath a tree. He thereupon enfeoffed that tree with the title of "Five-Grade Grandee" (*Godaifu*). The historical account originally did not specify what kind of tree it was; it was Ying Shao who first stated it was a pine — and so the pine came to receive the rank of Grandee.
 
-*Shokumostu Honzō* (Food Materia Medica), commentary states:
-　Pine flower (松花)
-　Alternate name: Pine yellow (松黄)
+From the *Yamato Honzō*:
+　Pine
+
+From the commentary to the *Shokumotsuhonzō* (Food Materia Medica):
+　Pine flower (*shōka*)
+　Alternative name: *Shōkō* (松黄, "pine yellow")
 
 [Seal] Garden trees
 
 ---
 
-## Tanpopo (タンポポ / Dandelion, *Taraxacum* spp.)
+## Tanpopo / Dandelion (蒲公英 — *Taraxacum* spp.)
 
 [Seal] Medicinal herbs
-
-*Hokōei* (蒲公英, dandelion; recorded in various texts)
-　Japanese names: *Tsuzumigusa* (鞁草, "drum plant")
-　　　　*Kuchina* · *Kigina* · *Kuchikuchina*
-　　　　*Kujina*
+*Hokōei* (蒲公英, dandelion) [recorded in various texts]
+　Japanese name: *Tsuzumigusa* (鞁草, "drum herb")
+　Also called: *Kuchina*, *Kigina*, *Kuchikuchina*, *Kujina*
 
 ---
 
-## Sumire (スミレ / Violet, *Viola* spp.)
+## Sumire / Violet (菫 — *Viola* spp.)
 
-[Seal] Flowering plants
+[Seal] Flowering herbs
 
-*Yamato Honzō* states:
-　*Shika-jichō* (紫花地丁, "purple-flowered ground nail"); Japanese name: *Komahiki-gusa* (コマヒキクサ)
-　Also: *Kin-ka* (菫花, *Sumiregusa*)
-　　　　In Kyoto, called "*Sumōtori*" (相撲取り, "sumo wrestler")
-　　　　In Tsukushi (Kyushu), called "*Tono-no-uma*" (殿の馬, "the lord's horse")
+From the *Yamato Honzō*:
+　*Shikahejitei* (紫花地丁, "purple-flowered earth nail") — Japanese name: *Komahikikusa* (コマヒキクサ)
+　Also: *Kinka* / *Sumiregusa* (菫花)
+　　　In Kyoto, called *Sumōtori* (スマウトリ, "sumo wrestler")
+　　　In Tsukushi (Kyushu), called *Tono-no-uma* (トノノ馬, "lord's horse")
 
-The author (Genju/Mōri Baien) reflects and states:
-　The name *sumire* (菫) appears in various forms across different texts.
-　The *Jiukuang Bencao* (*Kyūkō Honzō*, Famine Relief Materia Medica) records it as "*Kinkinsai*" (菫々菜) and "*Sentōsō*" (箭頭草, "arrowhead plant"). This is identified
-　in the *Wakan Sansai Zue* as "*Kinkinsai*" (ヤハズソウ, arrowhead plant) — [having compared various accounts with "kin-ka" (菫花)]. The same work also records *sumire* (菫) as "*aoi*" (葵), "*ku-kin*" (苦菫), and "*ku*" (苦).
-　*Yamato Honzō* treats *Shika-jichō* (*Sumire*, *Komahiki-gusa*) as a separate species with the alternate name *Kinkinsai*.
-　The *Wakan Sansai Zue* regards *Shika-jichō*, *Kinkinsai*, and *Kin* (菫) as three distinct species.
-　However, the name "Sentōsō" (箭頭草, arrowhead plant) also appears under *Shika-jichō*.
-　These three are in fact all the same single species.
-　As for "*Kinsai*" (菫菜), it is a separate plant entirely — it refers to *nozeri* (野芹, wild parsley/water dropwort, *Oenanthe javanica*).
-　The various names for *sumire* recorded across different texts remain a matter of uncertainty and confusion.
+The author's note:
+　The names for *sumire* (violet) are recorded in various ways across different texts. The *Jiuhuang Bencao* (救荒本草, *Bencao for Relieving Famine*) lists it as *Kinkinsai* (菫々菜) and *Zentōsō* (箭頭草, "arrowhead herb"). The *Wakan Sansai Zue* identifies this as *Yahazusō* (菫々菜, "arrowhead-leafed herb") [comparing the *Shūsetsu* with *kinka* (菫花)]. The same work also lists *Sumire* (菫) [also written 葵], *Kukink* (苦菫), and *Ku* (苦) as entries.
+　The *Yamato Honzō* identifies *Shikahejitei* (紫花地丁, violet) as *Komahikikusa*, with the alternate name *Kinkinsai* (菫々菜).
+　The *Wakan Sansai Zue*, however, treats *Shikahejitei*, *Kinkinsai*, and *Kinka* (菫) as three separate species.
+　Nevertheless, since the name *Zentōsō* (箭頭草) appears under *Shikahejitei*, all three names refer to the same plant.
+　*Kinsai* (菫菜) is a different plant altogether — it is *Nozeri* (野芹, field parsley/wild parsley, *Oenanthe javanica*).
+　The various names for *sumire* as recorded across different texts are a source of considerable confusion.

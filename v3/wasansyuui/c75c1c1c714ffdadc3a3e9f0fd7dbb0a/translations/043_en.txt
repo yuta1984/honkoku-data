@@ -1,0 +1,16 @@
+## [Calculating the Diameter and the Width of Stone Walls and Moats]
+
+Now, to find the *sashiwatashi* (diameter): divide the circumference of the 5th (outermost) ring, 1,011.2 *ken*, by 3.16, and one obtains the diameter of 320 *ken*. From this diameter, subtract 100 *ken* for the central area, leaving 220 *ken*. Dividing this by eight — that is, four rings on each side (both directions) — one obtains the width of one ring of stone wall or moat: **27.5 *ken***.
+
+　▲ Calculation of measurements for long-short and rhombus (*hishi*) formations
+
+---
+
+《Title: Accumulation of Measurements for Long-*chi* Rhombus Formations》
+
+　20 *ken*
+　30 *ken*
+　40 *ken*
+　50 *ken*
+　60 *ken*
+</translation_ja>

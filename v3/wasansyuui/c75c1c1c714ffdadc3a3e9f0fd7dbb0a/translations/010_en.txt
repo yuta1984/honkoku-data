@@ -1,0 +1,23 @@
+(Continued from previous page)
+
+　　　　　Area (volume): 399 tsubo
+　　　　　　　　　　　　7 gō, 9 shaku, 5 sai
+
+---
+
+**Calculation for a Round Log with Different Upper and Lower Diameters**
+
+By the method: add 1 shaku, 8 sun to 1 shaku, 9 sun, 4 bu to obtain 3 shaku, 7 sun, 4 bu. Divide this by 2 to obtain the average circumference of 1 shaku, 8 sun, 7 bu. Divide by 3.16 (written as "三市六", i.e., the approximation of π used here) to find the diameter (指渡し, sashiwatashi).
+
+This gives a diameter of 5 sun, 9 bu, 2 rin. Squaring this gives 0.350464 (approximately). Multiplying by the height (length) of 1 shaku, 4 sun, 4 bu, 4 rin gives 500.(…) tsubo, 7 shaku. Multiplying further by the circular factor "七丸" (i.e., approximately 0.7854, the ratio of a circle's area to its circumscribed square) yields the answer of 399 tsubo, 7 gō, 9 shaku, 5 sai.
+　　　This is the result by the "narashi-tsubo" method (calculation by average cross-section).
+
+---
+
+**Alternative Method: Using the Sanki (三帰) Division Method**
+
+Dividing the diameter of 1 shaku, 9 sun, 4 bu by 3.16 gives 6 sun, 1 bu, 3 rin, 9 mō (the radius or a related measure).
+
+Dividing the diameter of 1 shaku, 8 sun by 3.16 gives 5 sun, 6 bu, 9 rin, 6 mō.
+
+Multiplying these together gives 32.(…) (continued on the next page)

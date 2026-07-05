@@ -1,0 +1,22 @@
+(Continued from previous page)
+
+Multiplying 0.444444… [the Sanki coefficient, i.e., 4/9] by 6 sun, 1 bu, 3 rin, 9 mō gives 0.3768732…. Then multiplying 6 sun, 1 bu, 3 rin, 9 mō by 5 sun, 6 bu, 9 rin, 6 mō gives 0.34967744.
+
+The sum of the three terms (三口〆) totals 1.05099948….
+Dividing by 3:
+0.350333…. Multiplying this by the height (length) of 1 shaku, 4 sun, 4 bu, 4 rin gives 505 tsubo, 8 gō, 7 shaku, 8 sai. Multiplying further by the circular factor 0.79:
+
+The answer is 399 tsubo, 6 gō, 4 shaku, 3 sai. This is the result by the Sanki method.
+
+---
+
+As for the square cross-section method (四角問答):
+With a height (length) of 1 shaku, 5 sun, 4 bu, 9 rin, the volume comes out slightly over. However, an alternative method should be applied.
+
+---
+
+**Topic: Hexagonal Objects**
+
+　　　　▲ Flat hexagonal object (regular hexagonal prism, flat-plate form)
+　　　　　　Thickness: 1 sun
+　　　　　Volume: 399 tsubo, 9 bu, 8 rin, 4… (continued on next page)

@@ -1,0 +1,18 @@
+## [Tsutamaki-zan: Solution Method]
+
+**Method:** Multiply the circumference of the log (3 *shaku* 5 *sun*) by the number of windings (8), which gives 2 *jō* 8 *shaku*. Multiplying these together yields 784 *tsubo* (square units). Then multiply by the length of the log (2 *jō*), which gives 400 *tsubo*. Adding the two quantities together gives 1,184 *tsubo*; taking the square root (*kaibyō*) of this yields 3 *jō* 4 *shaku* 4 *sun* [coefficient: 令六四]. This is the method for finding the length of the vine.
+
+---
+
+## [Karigin Risoku-zan (Calculation of Interest on Borrowed Silver)]
+
+Silver: 1 *kan* 171 *monme* 2 *bu*,
+with an interest rate of 25% (*niwaihan*), over 3 years,
+with interest applied and repaid in equal annual installments—
+how much must be paid each year?
+
+　→　Answer: 600 *monme* of silver per year.
+
+**Method:** Multiply 1 *kan* 171 *monme* 2 *bu* by 25% (2.5 tenths), which gives 292 *monme* 8 (*bu*). Adding this to the principal gives 1 *kan* 464 *monme*... *(continued on next page)*
+
+</translation_ja>

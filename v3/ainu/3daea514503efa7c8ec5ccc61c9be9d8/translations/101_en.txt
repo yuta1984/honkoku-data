@@ -1,12 +1,10 @@
-| Japanese Term | Ainu Language Equivalent |
-|---|---|
-| Tin (suzu) | Yaykane; variant: Yayne |
-| Bronze/Brass (karakane) | Barakane; variant: Karankani |
-| Shakudō (copper-gold alloy) | Shakyunto |
-| Purple copper / Pure copper (shidō) | Abeshyakyunto |
-| Mercury | Shirokanewatsuka |
-| Silver foil | Shirokanewatsuka |
-| Gold foil | Konkanewatsuka |
-| Sake barrel | Masashintoko |
-| Spear (yari) | Opu |
-| Strand of beads worn around the neck (necklace) | Shitsutoki; variant: Imutattsu |
+Tin (suzu; tin metal)　　　　　　　　　　　　　　　　　　　　　　　　　　　Yaikane ▲ Yayane [Yayaneni?]
+Karakane/Bronze (karakane; bronze or copper alloy)　　　　　　　　　　　　　Barakane ▲ Karankani
+Shakudō (shakudō; an alloy of gold and copper, dark-patinated)　　　　　　　　Shakyunto
+Shidō/Purple copper (shidō; pure copper or a type of copper alloy)　　　　　　　Abe-shakyunto
+Mercury (suigin; liquid silver/quicksilver)　　　　　　　　　　　　　　　　　Shirokane-watsuka
+Silver foil (ginpaku; beaten silver leaf)　　　　　　　　　　　　　　　　　　Shirokane-watsuka
+Gold foil (kinpaku; beaten gold leaf)　　　　　　　　　　　　　　　　　　　　Konkane-watsuka
+Sake barrel (saka-oke; a barrel for storing rice wine)　　　　　　　　　　　　Masashintoko
+Spear (yari; a spear or lance)　　　　　　　　　　　　　　　　　　　　　　　Wopu
+String of beads worn around the neck (a necklace of strung beads)　　　　　　　Shittoki ▲ Imutatu
