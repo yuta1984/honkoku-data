@@ -1,0 +1,14 @@
+(Continued from previous page)
+
+…finding 1 gō, 1 shaku.
+
+**[Problem Title: Square Tsubo — Triangular Area Calculation]**
+
+Given 791 tsubo, 1 gō, 1 shaku as a equilateral triangle — what is the length of one side?
+
+　　This area is 791 tsubo, 1 gō, 1 shaku.
+
+**Method:**
+Divide 791 tsubo, 1 gō, 1 shaku by the triangular coefficient (san-kaku no hō) .433, yielding decimal .82704 (令＝zero), with a remainder of .38 (decimal). Apply the square root method (kaihei-hō) to this, obtaining 42 ken .743, with remainder .7895 (decimal). Multiply this by 3 and carry into .744; multiply by 6 shaku 5 sun, and one obtains 42 ken, 4 shaku, 8 sun, 3 bu, 6 rin as the length of one side.
+
+To verify by working back to the area: divide 4 shaku, 8 sun, 3 bu, 6 rin by 6 shaku 5 sun; multiply by 42 ken, 7 bu, 4 rin, 4 mō; then multiply by the triangular coefficient .433 — and one recovers 791 tsubo, 1 gō, 1 shaku (confirming the calculation).

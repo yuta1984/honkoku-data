@@ -1,0 +1,11 @@
+**(Continued from previous page: "On the Calculation of Town-Area Measurements")**
+
+**[Calculation Procedure]**
+
+Using the standard base unit of 6 shaku — the foundational unit for *chō* and *ken* measurements — and multiplying it on all four sides (i.e., squaring it) yields 39.69. When viewed diagonally (i.e., taking the diagonal/hypotenuse), dividing by the *kane* (carpenter's square) value of 4 *bu* 4 *rin* 1 *mō* gives 900 shaku. Since 6 shaku 5 sun (= 1 *ken*) is divided by 0.65, one obtains 138 *ken* 3 shaku; converting this to *chō* by dividing by 6 yields the answer of 2 *chō*, 18 *ken*, and 3 shaku.
+
+---
+
+　　On Wide/Large Space Measurements — New Calculation Method
+
+*[Section Title: Wide Space Measurements (Hirōma-zumi)]*

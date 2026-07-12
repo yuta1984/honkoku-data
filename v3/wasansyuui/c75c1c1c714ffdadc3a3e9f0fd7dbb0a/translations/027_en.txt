@@ -1,0 +1,17 @@
+**(Continued from previous page)**
+
+**On the Rationale for Using the Go-ichi (0.5) Coefficient:**
+
+The reason for using the go-ichi (0.5) coefficient is as follows. The boundary value (threshold/reference figure) for the cubic root of a sphere is taken as 0.255 (ni-go-ichi-go). Adding the base unit of 1 to this gives 1.2515. Using this as the divisor and dividing 1 shaku by it yields 7 sun 9 bu 9 rin. Multiplying this result twice over (i.e., squaring it) gives 51 tsubo. It is for this reason that 0.51 (approximated as 0.5) is used.
+
+**On the Rationale for Using the Coefficient 0.4934:**
+
+The reason for using 0.4934 is as follows. Taking 100 tsubo, applying the circular coefficient of 0.79, and extracting the cube root three times yields approximately 0.49339. It is for this reason that 0.4934 is used.
+
+---
+
+**[Section on Town/Area Measurements (Machi-zumi no Koto)]**
+
+　　On the Calculation of Town-Area Measurements
+
+Given: a distance (depth/length) of 2 chō, 18 ken, and 3 shaku…

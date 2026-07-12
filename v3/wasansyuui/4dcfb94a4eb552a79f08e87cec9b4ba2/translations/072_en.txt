@@ -1,0 +1,15 @@
+**Method:** Set 882 mon (with the "丁/目" unit adjustment applied, yielding 850 mon in standard copper cash), then divide by 12 monme 5 bu to find the answer.
+
+○ Problem: If 800 monme of silver is converted into gold, how much does it amount to?
+
+　**Answer: 13 ryō, 1 bu, and 5 monme.**
+
+**Method:** Divide 800 monme by 60 monme to get 1.3333333. Following the same method as in the previous rice calculation: carry 13 upward as 13 ryō; from the next digit 3, subtract 2.5 (i.e., half a bu) to yield 1 bu; then multiply the remaining 0.833 by 60 monme to obtain 5 monme.
+
+○ Problem: What is the gold equivalent of 80 kan mon in copper cash? (Given that 1 ryō of gold exchanges for 4 kan 800 mon.)
+
+　**Answer: 16 ryō, 2 bu, and 800 mon.**
+
+**Method:** Divide 80 kan mon by 4 kan 800 mon to get 1.6666. As before, take 16 as 16 ryō; subtract 5 (i.e., 0.5, representing the half-bu adjustment) to yield 16 ryō 2 bu; then multiply the remaining 0.1666 by 4 kan 800 mon to obtain 800 mon.
+
+○ Problem: When the exchange rate for koban gold coins in Kyoto is 56 monme, goods purchased in Kyoto converted to Edo using the 60-monme silver standard — what would an item costing 10 monme amount to?

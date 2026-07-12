@@ -1,24 +1,35 @@
-Same species
-　　White flower variety
+## Hasu (Lotus) — continued
 
-The *Bencao Gangmu* (Compendium of Materia Medica) states:
-　　Hantan (lotus bud)
-　　(Marginal note: lotus flower)
+**Same species:**
+　There is one variety with white flowers.
 
-The *Imyō Bunruishō* (Classification of Alternative Names) states:
-Lotus
-　tsumana-shi-kusa
-　tsurenashi-kusa
-　mizu-no-hana
-　tsuyu-tae-kusa
-　mizu-tae-kusa
-　According to Cui Bao's *Gujin Zhu* (Notes on Ancient and Modern):
-　Furong (hibiscus/lotus)
-　Also called hehua (lotus flower)
-　Also called shuihua (water flower) (and so forth)
+---
 
-I previously stated:
-Regarding "stone lotus seeds," the *Bencao* by Su Song states: "When they turn black in autumn and sink in water, they are called stone lotus seeds." Shi Zhen states: "Stone lotus refers to scraping away the black shell, which is called lotus meat."
-The *Kenmyōen* states: "A lotus flower that has already opened is called furong, and one that has not yet bloomed is called hantan."
-Those growing on land are called wood hibiscus (mukuge). This is what the common people have long called furong.
-Those growing in water are called water hibiscus. These are lotus flowers.
+**From *Honzō Kōmoku* (本草綱目, *Bencao Gangmu*, Compendium of Materia Medica):**
+
+　　菡萏 (*Kantан* / the unopened lotus bud)
+　　　[Japanese name: *Hasu no hana*]
+
+---
+
+**From *Imyō Bunruishō* (異名分類抄, Classified Collection of Alternative Names):**
+
+Alternative names for the lotus (*ren* / 蓮):
+- *Tsumanashi-kusa* (妻無し草, "husbandless herb")
+- *Tsurenashi-kusa* (連れ無し草, "unaccompanied herb")
+- *Mizu no hana* (水ノハナ, "water flower")
+- *Tsuyu-kan-kusa* (ツユ堪クサ, "dew-bearing herb")
+- *Mizukan-sō* (水堪草, "water-bearing herb")
+
+　Upon reflection, Cui Bao's *Gujin Zhu* (崔豹『古今注』, *Commentary on Things Ancient and Modern*) states:
+　"*Fukyō* (芙蕖); another name is *kōka* (荷花, lotus flower); another name is *suika* (水花, water flower)," and so on.
+
+---
+
+**The author further states (in addition to what was said earlier):**
+
+Concerning "*Sekiren-shi*" (石蓮子, "stone lotus seeds"): According to Su Song (蘇頌) in the *Honzō Kōmoku*, the [seeds], upon reaching autumn, turn black and sink into the water, becoming *sekiren-shi*. Li Shizhen (李時珍) further states: "What remains after cutting away the black husk of the stone lotus is called *rennniku* (蓮肉, lotus flesh/meat)."
+
+○ The *Kenmei-en* (兼名苑, *Jianming Yuan*) states: A lotus flower that has already opened is called "*fuyō*" [芙■; character partially illegible], while one that has not yet unfurled is called "*kantан*" (菡萏).
+
+○ That which grows on land (*oka*) is called "*Moku-fuyō*" (木芙蓉, "woody *fuyō*" / *Hibiscus mutabilis*), and it has long been the custom in this country to simply call it "*fuyō*." That which grows in water is called "*Sui-fuyō*" (水芙蓉, "water *fuyō*"), and this is the lotus flower (*renka*).

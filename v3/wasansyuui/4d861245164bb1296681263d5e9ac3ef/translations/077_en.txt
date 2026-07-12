@@ -1,0 +1,25 @@
+Four mon, and doubling in this manner for all thirty-three Kannon pilgrimage sites, one asks what the total offering amount would be.
+
+　　　Total offerings: 8,947,848 kan 531 mon
+
+　　Answer:
+　　　Converted to 12-monme coins: 107,374 kan 182 monme 3 bu and a remainder
+
+**Method:**
+To find the offering at the 33rd site, first place the 4 mon (the offering at the 3rd site) on both sides and multiply it by itself to get 16. This is the offering at the 5th site. Place this on both sides and multiply to get 256. This is the offering at the 9th site. Place this on both sides and multiply to get 65,536. This is the offering at the 17th site. Place this on both sides and multiply to get 4,294,967,296. This is the offering at the 33rd site. Double this to get 8,589,934,592. Subtract 1 from this, then divide the portion of 100 and above by 9 bu 6 rin, yielding 8,947,848 kan 530
+
+mon plus 1 mon, giving the total offering sum. The remainder below 100 is also divided by 9 bu 6 rin, then multiplied by 12 monme to obtain the total silver amount.
+
+---
+
+**Problem 12: The Matter of Rice Grains Doubling on Every Square of a Shogi Board**
+
+Suppose one places rice grains on the squares of a small shogi board: 1 grain on the first square, 2 grains on the second, 4 grains on the third, and so on, doubling each time, until all 81 squares are filled. How many grains of rice would there be in total?
+
+　　Answer:
+　　　2 *kei* (京), 4,178 *man* (万) 5,163 *chō* (兆), 9,229 *man* (万)
+　　　2,583 *oku* (億), 4,941 *man* (万) 2,351 grains
+
+　　Furthermore, when converting this number of rice grains into volume (in *masu* measure):
+　　38 *chō* (兆) 5,745 *man* (万) 3,157 *oku* (億) 6,727 *man* (万) 1,593 *koku* 7 *to*
+　　1 *shō*, with a remainder of 38,071 grains not filling a full measure.

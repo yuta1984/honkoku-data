@@ -1,0 +1,20 @@
+Those who cannot exhaust the meaning and do not know the rules are practitioners of the "Way of Calculation" (sandō). Those who cannot exhaust the meaning but do know the rules are practitioners of "Calculation Beyond" (sangai). The Way of Calculation involves investigating the root to arrive at principle, while Calculation Beyond involves applying methods without investigating the source. Thus, these two approaches together are called the "Art of Subtle Measure" (myōken no jutsu). Students should make clear the correct numbers of these matters. Such a person is called a "divine sage and true person of the Way of Calculation."
+
+---
+
+**End of Lower Volume: "Shoshin Sanpō Hayadenaju"**
+
+---
+
+**Supplement to "Shoshin Sanpō Hayadenaju" — Composed by Kanchūsen**
+
+○ Edo Calculation Method
+　　※ Since this calculation method was composed entirely based on the koban (gold coin) standard, it is named "Edo Calculation." All matters relating to the koban standard in the eastern provinces should be applied accordingly.
+
+　　**Rice Market Calculation**
+
+○ Suppose that rice is currently exchanged at the rate of 1 *koku* 2 *to* 5 *shō* per 1 ryō of gold. What is the price per *shō*? Note: the exchange rate for coins is 5 *kanmon* per 1 ryō.
+
+　　**Answer:** The price per *shō* is 38 *mon* and 4 *bu*.
+
+　　**Method:** First, subtract the *okime* (fixed deduction) from 5 *kanmon* to convert it to *chōsen* (adjusted coins), which gives 4 *kanmon* 800 *mon*. This is then divided by 1 *koku* 2 *to*...

@@ -1,0 +1,28 @@
+**Answer: 70 mon and 4 bu (approximately).**
+
+**Method:** Multiply 1 kan 100 mon by the standard factor of 6.4 to find the answer.
+
+**Plain Explanation:**
+The origin of the factor 6.4 is as follows: dividing 96 mon by 15 monme yields 6.4, and so this is used as the standard factor.
+
+○ Problem: If 1 monme is worth 72 mon, how much copper cash is 1 ryō worth?
+
+　**Answer: 4 kan 600 mon.**
+
+**Method:** Multiply 72 mon by 60 monme, then convert the unit (adjust the place value) to find the answer.
+
+○ Problem: If 1 ryō of gold is worth 4 kan 800 mon in copper cash, at how many monme should 100 mon be used?
+
+　**Answer: 1 monme 2 bu 5 rin.**
+
+**Method:** Set 60 monme and divide by 4 kan 800 mon to find the answer.
+
+○ Problem: If 100 mon of copper cash is set at 1 monme 2 bu 5 rin, what is the exchange rate of this gold in copper cash per ryō?
+
+　**Answer: 4 kan 800 mon.**
+
+**Method:** Divide 60 monme by 1 monme 2 bu 5 rin to find the answer.
+
+○ Problem: If 12 monme 5 bu of silver converts to 8[00-and-some] 82 mon in copper cash, how much is 1 monme worth?
+
+　**Answer: [■] 68 mon.**

@@ -1,0 +1,21 @@
+## Catalog of Kanchūsen's Secret Mathematical Methods
+
+### Myōken-jutsu (The Art of Wondrous Measurement)
+
+This method deals entirely with matters beyond ordinary reason and logic, and therefore has neither conventional law nor conventional technique. When employing its methods, one uses *endan* (extended calculation steps) derived from the eight arithmetic operations (*hasan*) to obtain accurate numbers. Though ancient works contain methods dealing with topics such as "a person in a bucket," "an elephant," and "a ship," these are all matters of intuition (*kan*), and are therefore set aside here. In the *Sangaku Tanki* (Notes on Mathematical Learning), there are excellent problems: the first asks how to precisely measure the flow of a hot spring day and night; the second asks about the range illuminated by a candle before one's eyes; the third asks about the distance at which a drum can be heard — and similar problems. All of these belong to domains of mathematical inquiry that methods such as *endan* cannot reach. I have recorded the answers and techniques, and dedicated them before the great shrine of Atsuta Kōtaijingū in Ayuchi District, Owari Province.
+
+Beyond these, the measurement of ships at sea, trees on distant mountains, the depth of the ocean floor, or obtaining the accurate time without a clock — all of these arise from this method. Perhaps it resembles what is said in the *Lièxiān Zhuàn* (Biographies of Immortals): "sometimes appearing, sometimes concealing." For this reason, it is called *Myōken-jutsu*.
+
+### Ki-jutsu (The Art of the Compass)
+
+This is a method of calculation using the *ki* (compass) applied to triangles and polygons of any number of sides. *A volume of secret transmission exists.*
+
+### Ku-jutsu (The Art of the Square)
+
+This is a method of using the *ku* (carpenter's square/right-angle ruler) to divide any indivisible or difficult quantity, and to resolve problems involving various angles. *Same as the above.*
+
+The above two methods will be published in due course in the *Kiku Chōhōki* (Treasury of Compass and Square).
+
+### Machimi-jutsu (The Art of Surveying)
+
+*Genho-mi* (chord-based viewing), *Teki-mi* (target viewing), *Sora-mi* (aerial viewing) — what has not yet been released to the world is the *Machimi-jutsu* (Art of Land Surveying). The *Machimi-jutsu* of *Myōken* can reach distances of tens of thousands of *ri*.

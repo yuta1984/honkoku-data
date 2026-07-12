@@ -1,42 +1,55 @@
-In the "Wakan Sansai Zue" (Illustrated Encyclopedia of China and Japan), in the section on aquatic plants, it says:
-Brasenia (junsai) 《small text: nunaha》　蓴　Same alternative name
-《small text: Chinese pronunciation "chien"》　Same　Abbreviated later
+## 【Junsai / Watershield (*Brasenia schreberi*)】
 
-In the "Bencao Gangmu" (Compendium of Materia Medica) it says: Brasenia, because its nature follows water and is slippery, is named "brasenia vegetable." The tender stems of spring and summer that have not yet
-《small text: slimy》
-become stems are called "elegant vegetable." Those with long extending leaf tips
-are named "thread brasenia," and when they become old in autumn, they are
-called "mallow brasenia."
+The *Wakan Sansai Zue* (Illustrated Encyclopedia of Japan and China), under the category of aquatic grasses, states:
+　　*Junsai* (蒪) [interlinear note: *Nunaha*]　蓴　[These are] different names for the same plant.
+　　[Interlinear note: Tang Chinese pronunciation: *Chien*]　Same as above. Details omitted below.
 
-In the "Tashikihen" (Compilation of Many Identifications), in the aquatic plants section, it says:
-Brasenia (sen) 《small text: Japanese "nuna"》《small text: "ha"》《small text: alternative name》 water mallow 《small text: from poetry》 horseshoe grass
-Bou (riu) 《small text: two pronunciations mou-riu》　dew mallow 《small text: from Gangmu》
+---
 
-In the "Wamyo Ruijusho" (Japanese Names Classified Collection) it says:
-Brasenia (nunaha)　According to Yaō's investigation, brasenia is a friend of Shirun, the Japanese name is nunanaha
-It is a water vegetable
+The *Bencao Gangmu* (Compendium of Materia Medica) states: The *chun* (蒪) plant, being by its nature slippery (*namerakana*) following the water, is therefore named *chuncai* (蓴菜). The young stems in spring and summer, before they have become uniformly slippery [interlinear note: *numeri*], are called "*yacai*" (雅菜). Those whose leaf tips have stretched and extended are called "*sijunsai*" (絲蒪, "thread watershield"). When they have aged into autumn [past their prime], they are called "*kuijun*" (葵蒪).
 
-In Su Jing's commentary on materia medica: From the 3rd-4th months to
-the 7th-8th months it is generally called "thread brasenia,"
-and from after frost falls until the 2nd month it is called
-"circular brasenia."
+---
 
-Illustration of underwater [plant]
-4th day of early 6th month, Kinoto-Tori year　Drew the middle stem from life
+The *Tashikiden* (Encyclopedia of Identifications), under the category of aquatic grasses, states:
+　　蒪 (*sen*)　Japanese name: *Nunaha* (奴那波)
+　　　　　　　Alternative names: *Suiki* (水葵, water mallow) [source: a poetry work ■], *Batei-so* (馬蹄草, horsehoof herb)
+　　　　　　　*Mao* (茆, *riu*) [interlinear note: two readings — *u* and *ryu*], *Rokki* (露葵) [source: *Bencao Gangmu*]
 
-Recorded in "Kyuko Yafu" (Famine Relief Wild Plant Manual):
-Brasenia vegetable (nunaha)
+---
 
-In the "Yamato Honzo" it says: Brasenia 《small text: nunaha, shunsai》 The Japanese name is nunaha. It grows in marshes,
-the stem is long and resembles rope. The meaning should be "marsh rope" (nunaha).
-Today's common people have changed the pronunciation to call it brasenia vegetable (shunsai).
+The *Wamyō Ruijushō* (Japanese Names for Things, Classified) states:
+　　蒪 (*Nunaha*): Yewang [i.e., the compiler Minamoto no Shitagō] notes that the character 蒪 has the *fanqie* (reverse cutting) reading of *shi-lun*. The Japanese name is *Nunahа* (沼奈波). It is an aquatic herb.
 
-Small-leaf ophiopogon (shoyou-bakumondo)
-Commonly called dragon's beard　"Jikinsho"
+　　Su Jing's commentary on the *Bencao* (Materia Medica) states: From the third and fourth months through to the seventh and eighth months, it is generally called "*sijun*" (絲蒪, "thread watershield"). From the Frost's Descent (霜降, around late October) through to the second month, it is called "*kanjun*" (環蒪, "ring watershield").
 
-Same year, same season, garden
-Drew from life in the same manner
+---
 
-In the "Shaben Joroku" it says:
-Dragon's beard　Kaiszen grass
-《small text: Jauno-hige》
+　　　　　　　　　　　　Illustration: In water
+　　　　　　　　　　　　Kinoto-Tori year, Rinshō (sixth month), fourth day of the first ten days, painted from life ■ in [water/pond]
+　　　　　　　　　　　　Stems painted from life
+　　　　　　　　　　　　　　　【Aquatic Grasses】
+
+---
+
+The *Kyūkō Yafu* (Wild Provisions for Famine Relief) includes an entry on *Junsai* (*Nunaha*).
+
+---
+
+The *Yamato Honzō* states: 蒪 [interlinear note: *Nunaha* / *Junsai*]. The Japanese name is *Nunaha*. It grows in swamps (*numa*), and its stem is long and resembles rope (*nawa*). The name presumably carries the meaning of "swamp rope" (*numa-nawa* → *nunaha*). Nowadays in common speech, the sound has shifted and it is called *Junsai* (蒪菜).
+
+---
+
+## 【Kobano-janohige / Dwarf Lilyturf (*Ophiopogon japonicus*)】
+
+　Common name: *Ryū no Hige* (龍の髭, "Dragon's Beard") [Source: *Jikinsho*]
+
+---
+
+　　　　　　　　　　　　Same year, same season (Kinoto-Tori, Rinshō), painted from life in the garden
+　　　　　　　　　　　　One sketch from life
+
+---
+
+The *Shaben Joroku* states:
+　　Dragon's Beard (*Ryū no Hige*)　*Kaizen-sō* (揩前草)
+　　　　　　[Interlinear note: *Jō no Hige*]

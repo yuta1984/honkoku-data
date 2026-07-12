@@ -1,0 +1,11 @@
+**[Method for Wide Space Measurements (continued)]**
+
+Using the town-area (*chō*-zumi) method to determine distance (depth) and width: as shown in a diagram, whether the base unit (*dai*) is 1 shaku, 1 *ken*, or 1 sun, the procedure is the same. One looks at the lateral measurement, multiplies it by the depth measurement, and thereby obtains the width of the far side. To the depth, one also adds the shaku value of the preceding base unit.
+
+The same principle applies to determining heights — whether of timber or anything else. What has been measured/accumulated broadly is here converted into and calculated as something accumulated vertically (i.e., horizontal measurements are transposed into vertical ones).
+
+---
+
+**[Colophon / Editor's Note]**
+
+The calculations presented above are all to be found in the *Shikakushū* ("Collection of Square/Rectangular Calculations"); however, among those treated above, the portions to which no formal method (*hō*) was attached — i.e., those left without full explanation — have been written down here for the benefit of those who are unfamiliar with them.

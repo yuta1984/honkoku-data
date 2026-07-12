@@ -1,0 +1,16 @@
+**[Problem Title: Fundamental Principles of the Cubic Root Method for Circular/Spherical Calculation]**
+
+**Cubic Root Method for Spheres (Kairitsu Enpo)**
+
+Volume: 13,770 tsubo
+
+**Method:**
+
+To find the volume of a sphere (tama) of 13,770 tsubo:
+
+Using the spherical coefficient (tama no hō) of .5 (go-ichi) to divide, one obtains the cubic volume (kaku-tsubo) of 27,000 tsubo. Applying the cube root method (kairitsu-hō) to this figure, one finds the diameter (sashi-watashi) to be 3 shaku.
+
+Conversely, to find the spherical volume of a sphere with a diameter of 3 shaku: multiply 3 shaku together to obtain 900 (i.e., 3×3=9, ×100), then place the height of 3 shaku, yielding 27,000 tsubo. Applying the coefficient of .5 to this gives the spherical volume of 13,770 tsubo.
+
+**Supplementary Note:**
+There are various schools of thought regarding the spherical coefficient. The *Shikaku-shū* (a compendium of square/cubic methods) uses .5. The *Enpo Shikan* (a four-volume work on circular methods) uses the coefficient .4934. Each reflects the reasoning of its respective mathematical authority. (Continued on next page…)

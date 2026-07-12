@@ -1,0 +1,24 @@
+**Answer: 10 monme 7 bu.**
+
+**Method:** Divide 10 monme by the Kyoto exchange rate of 56 monme to get 1.7857. Multiply this by 60 monme to find the answer.
+
+○ Problem: When one piece of chōgin silver bullion is valued at 2 bu in gold plus 14 monme 2 bu in silver, what is the exchange rate (in monme per ryō)?
+
+　　　　　**Answer: 57 monme 6 bu.**
+
+**Method:** Set the standard weight of one chōgin piece at 43 monme; subtract the fractional amount of 14 monme 2 bu, leaving 28 monme 8 bu; double this to obtain the exchange rate of 57 monme 6 bu.
+
+
+**[Section Title: Buying and Selling Oil]** **[Side note: These are calculations for all goods shipped from Osaka to Edo.]**
+
+○ Problem: If 10 barrels of oil exchange for 12 ryō, what is the price of 8 barrels?
+
+　　　　　**Answer: 9 ryō, 2 bu, and 6 monme.**
+
+**Method:** Multiply 12 ryō by 8 barrels to get 96. Subtract 95 (i.e., apply the conversion factor to extract whole ryō and bu) and carry upward as 9 ryō 2 bu; then multiply the remaining 1 by 60 monme.
+
+○ Problem: If 10 barrels exchange for 12 ryō, what is the price of 1 shō (unit of volume)?
+
+　　　　　**Answer: 22 monme, 2 bu, 5 rin.**
+
+**Method:** Multiply 12 ryō by 60 monme to obtain 720 monme, and…[continued on next page]

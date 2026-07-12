@@ -1,0 +1,22 @@
+【Continuation from the previous problem】
+The method is the same as before: divide 1,680 koku by 8 to 5 sho, yielding 197647. Of this, 1,976 ryō is recorded as the amount thus far; subtracting 2-and-a-half from within the 4 and raising it to 1 bu leaves a remainder of 22. Multiply this by 65 to find the answer.
+
+---
+
+**Section Title: Gold and Silver Currency Exchange**
+*(Note: In this volume, the koban is set at 60 monme, and all exchange items are recorded without exception.)*
+
+○ Problem: If 1 ryō of gold is worth 4 kan 500 mon in copper cash, how much is 1 monme worth?
+
+　**Answer: 72 mon.**
+
+**Method:** Multiply 4 kan 500 mon by the standard factor of 16 to find the answer.
+
+**Plain Explanation:**
+There are two ways to find the value of 1 monme:
+1. Multiply the market rate per ryō by 16.
+2. Double the market rate per ryō and multiply by 8.
+
+The origin of the factor 16 is as follows: dividing 96 mon (the value of 100 mon) by 60 monme yields 1.6, hence the factor of 16 is used. The reason for doubling and multiplying by 8 is that dividing 16 into two parts gives 8; therefore, the dividend (jitsu) is doubled while the divisor (hō) is halved.
+
+○ Problem: If 1 bu of gold is worth 1 kan 100 mon in copper cash, how much is 1 monme worth?

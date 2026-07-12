@@ -1,10 +1,49 @@
-Bingo Province, Kōnu District, Yano Village: The spring water contains sulfur. Therapeutic effects are unknown in detail. The spring flow is not abundant.
+**Bingo Province — Kōnu District — (Local) Yanomura**　Spring quality contains sulfurous vapor. Therapeutic effects are unknown. The spring output is not abundant.
 
-Aki Province, Numata District, Yagi Village: Spring quality unknown in detail. Effective for epidemic eye disease (conjunctivitis). Saeki District, Wada Village (also known as Kinsui or Hei-no-yu): Spring quality unknown in detail. Effective for headaches, hot flashes, etc.
+---
 
-Suō Province, Yoshiki District, Yuda: Located at the western edge of Yamaguchi town, with seven springs within approximately 20 ken. The spring water emerges from alluvial soil. (1) Temperature 107.6°F (2) 109.4°F (3) Same as above (4) 111.2°F (5) 113°F (6) 114.8°F (7) 123.8°F. All springs contain abundant hydrogen sulfide and are effective for scabies and skin diseases. Each bath tub is about 45 cubic shaku, and the water is changed three times daily at intervals of 5-6 hours. Based on this, the spring flow must be quite limited.
+**Aki Province — Nuta District — (Local) Yagimura**　Spring quality unknown. Recommended for epidemic/contagious eye disease (*hayarime*; conjunctivitis).
 
-Nagato Province, Ōtsu District, Yumoto: Located in Fukawa village. The spring contains alum and is effective for gout, cold injuries, and wounds. Same district, Yumachi: Located in Tawarayama village. Spring quality and therapeutic effects same as above. Toyoura District, Yuya town: Located in Kawayanagi village. Spring quality and therapeutic effects same as above.
+**Saeki District — (Local) Wadamura**　Also known as *Kinsui* ("golden water"), and alternatively as *Minochinoyu*. Spring quality unknown. Recommended for headaches and head congestion/hot flushes.
 
-Nankaidō (Southern Sea Circuit)
-Kii Province, Hidaka District, Ryūjin: Located in Ryūjin village. Temperature 119.8°F. The spring water is saline and alkaline, very clear, colorless and odorless. Similar to Izu Atami and Ise Komono, but slightly stronger than both. See pages 7 and 5. Therapeutic effects similar to Ise Komono. Same district, Kamba: Located in Kaise village. Contains sulfur, is a cold spring that is heated for use. Effective for minor sores, hemorrhoids, etc. Muro District, Kanayama (also called Yuzaki): Located in Kanayama village. Spring quality and therapeutic effects equal to Ryūjin hot spring. The following seven springs are called the Kanayama Seven Hot Springs. (1) Hamayu: Temperature 106°F, has an alkaline taste with carbonic acid, shows alkaline reaction that increases when boiled, but produces no sediment. (2) Awayu: 93°F, clear, colorless, odorless. Produces bubbles when agitated. (3) Moto-no-yu: 83°F, spring quality same as above. (4) Saki-no-yu: Temperature unclear, spring quality and below are similar. (5) Kō-no-yu: 110°F. (6) Senki-yu: 122°F. (7) Yakata-yu: Temperature same as above. Same district, Hamayu: Located in Yukawa village, contains sulfur, effective for beriberi, paralysis, etc.
+---
+
+**Suō Province — Yoshiki District — (Ra) Yuda**　Located in the western corner of Yamaguchi town. Within a span of approximately twenty *ken*, there are seven springs. The spring water issues from alluvial soil (*alluvium*).
+
+(1) Temperature: 107.6°F　(2) Same: 109.4°F　(3) Same as above　(4) Same: 111.2°F　(5) Same: 113.0°F　(6) Same: 114.8°F　(7) Same: 123.8°F
+
+The spring quality in all cases contains a considerable quantity of hydrogen sulfide, and is recommended for scabies and skin diseases. ○ Each bathing tub (*yuburne*) has a capacity of approximately 45 cubic *shaku*, and the water is apparently changed three times per day at intervals of roughly five to six hours. Judging from this, the volume of the spring output must be extremely small.
+
+---
+
+**Nagato Province — Ōtsu District — (Local) Yumoto**　Located in Fukagawa Village. Spring quality contains alum (*ban*) vapors. Recommended for gout, chills/cold injuries, and sword cuts/wounds.
+
+**Same (Local) Yumachi**　Located in Tawarayama Village. Spring quality and main therapeutic uses same as above.
+
+**Toyoura District — (Reference work "Ge") Yuya-machi**　Located in Kawayagi Village. Spring quality and main therapeutic uses same as above.
+
+---
+
+**Nankaidō (Nankai Road / Region)**
+
+**Kii Province — Hidaka District — (Reference work "Ge") Ryūjin**　Located in Ryūjin Village. Temperature: 119.8°F. The spring quality contains salt and is of an alkaline nature; it is remarkably clear, colorless, and odorless. It is similar to Atami in Izu Province and Komono in Ise Province, though somewhat stronger than both. Refer to pages 7 and 5. Its therapeutic effects are similar to those of Komono in Ise.
+
+**Same (Local) Kanba**　Located in Kaise Village. Spring quality contains sulfurous vapor; it is a cold spring and is heated before use. Recommended for minor sores and hemorrhoidal disease.
+
+**Muro District — (Reference work "Ge") Kanayama**　Also known as Yuzaki. Located in Kanayama Village. Spring quality and therapeutic effects are equal to those of Ryūjin-yu. The following seven springs are collectively referred to as the "Seven Springs of Kanayama" (*Kanayama Shichi-yu*).
+
+(1) *Hamayu* (Shore/Beach Spring)　Temperature: 106°F. Has a lye-like taste (*aku*; alkaline), carries carbonic vapor, and exhibits an alkaline reaction that further intensifies upon boiling. No precipitate forms.
+
+(2) *Awayu* (Foam/Millet Spring)　Same: 93°F. Clear, colorless, and odorless. When agitated/shaken, it produces bubbles.
+
+(3) *Moto-no-yu* (Original/Main Spring)　Same: 83°F. Spring quality same as above.
+
+(4) *Saki-no-yu* (Cape/Point Spring)　Temperature unclear. Spring quality is similar to the following ones.
+
+(5) *Mabu-no-yu* (Mine Spring)　Same: 110°F.
+
+(6) *Senkiyu* (Hernia/Colic Spring)　Same: 122°F.
+
+(7) *Yakata-yu* (Pavilion Spring)　Temperature same as above [122°F].
+
+**Same (Local) Hamayu**　Located in Yukawa Village. Spring quality contains sulfurous vapor. Recommended for beriberi, apoplexy/stroke, and related conditions.

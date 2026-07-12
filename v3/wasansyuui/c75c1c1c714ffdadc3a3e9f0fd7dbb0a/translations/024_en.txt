@@ -1,0 +1,10 @@
+(Continued from previous page)
+
+…91 tsubo, 1 gō, 1 shaku — converting this circular area into a square figure, how many ken on each side?
+
+This area is 791 tsubo, 1 gō, 1 shaku.
+
+**Method:**
+Apply the square root method (kaihei-hō) to 791 tsubo, 1 gō, 1 shaku. This yields 28 ken with decimal fraction .266, and a remainder of 437,244. Multiply the decimal portion ".266" by 6 shaku 5 sun, and one obtains 28 ken, 8 sun, 2 bu, 2 rin, 9 mō as the length of one side.
+
+To verify by multiplying back to obtain the area: divide 8 sun 2 (bu) and 2 rin 9 mō by 6 shaku 5 sun, multiply by 28 ken decimal .266, then add the remainder 437,244 — and one recovers 791 tsubo (confirming the calculation).

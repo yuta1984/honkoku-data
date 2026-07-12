@@ -1,26 +1,26 @@
-Yokota Gonnosuke's yoriki (mounted retainer): Okada Tasaburō, Shiraishi Jūrōemon, Arakawa Jūemon
-　　O-azukari-sho Moto-iri-yaku (Administrator of the Entrusted Territories), Wari-tsukiban (Rotating Duty Officers), O-mochizutsu-gumi (Musket-Bearer Unit), O-fudasho Dōyaku (Colleagues of the Register Office), O-azukari-sho Kōri-bugyō (District Magistrate of Entrusted Territories)
-　　O-saki Monogashira Tsukiban (Monthly Duty Vanguard Commander), O-hata Bugyō (Banner Magistrate), O-fushin Bugyō (Construction Magistrate), O-rusu Monogashira (Absentee Commander)
-　　Ryō O-sakuji Bugyō (Both Construction Magistrates), O-uma-mi Gashira (Horse Inspection Commander)
-　　Yori-tsukiban (Associate Monthly Duty Officers), O-kainoshu Gashira (Boatmen's Commander), O-sugigata Bugyō (Cedar Formation Magistrate), O-nagate Bugyō (Long-handled Spear Magistrate), Kōri-bugyō (District Magistrate)
-　　Itō Sōhachi, O-kuchi no mono (Personal Attendants)
-　　Takagi Shōemon, O-tsuki O-kōnin (Attached Foot Soldiers), O-yama Dōgu (Mountain Equipment [Officers]), O-kusatori (Grass-clearing [Workers]), O-omote [staff]
-　　Same as above: Itō Kanbei, O-omote O-kago no mono (Outer Palanquin-Bearers)
+Yokota Gonnosuke's yoriki (mounted retainer): Okada Sukesaburō, Shiraishi Jūroemon, Arakawa Jūemon
+　　O-azukari-sho moto-iri-yaku (official of the entrusted domain), Wari-tsukiban (duty rotation officer), O-mochizutsu O-gumi (musket-bearer unit), O-fudadokoro dōyaku (colleague of the register office), O-azukari-sho kōri-bugyō (district magistrate of the entrusted domain)
+　　O-sakimono-gashira tsukiban (monthly duty squad leader of the vanguard unit), O-hata-bugyō (flag magistrate), O-fushin-bugyō (construction magistrate), O-rusu-mono-gashira (caretaker squad leader)
+　　Both O-saku-bugyō (works magistrates), O-umami-gashira (horse inspection captain)
+　　Yori-tsukiban (close-retainer duty officer), O-kakoigashira (boatmen's captain), O-sugikata-bugyō (cedar-form magistrate), O-nagae-bugyō (long-handled spear magistrate), Kōri-bugyō (district magistrate)
+　　Itō Sōhachi, O-kuchi no mono (attendants)
+　　Takagi Shōemon, O-tsuki o-kōnin (attached minor servants), O-yama-dōgu (mountain equipment [officers]), O-kusaritoru (grass-cutters), O-omote (outer quarters [officials])
+　　Same as above — Itō Kanbee, O-omote o-kago no mono (outer-quarters palanquin bearers)
 　　　　　End
 
-Item: Bunka 6, Year of the Snake (1809)
-　Item: On the 14th day of the 9th month, Tagaya Gonnosuke reported the following: Lord Matsudaira Sakon'e-no-kami has changed his name to Shuridaifu. Henceforth, he is to be accorded the honorific treatment of "Ryō-keii" (dual-direction salutation). It was communicated that this matter should be relayed to the relevant officials as guidance, and accordingly it was conveyed to each of them.
+Item: Bunka 6th year, Year of the Snake (1809)
+　Item: On the 14th day of the 9th month, Tagaya Gonnosuke communicated the following: His Lordship Matsudaira Sakonoe-no-kami has changed his title to "Shuri-no-daibu." Henceforth, the honorific dual-respect protocol (ryōkei) is to be applied in addressing him. This matter is to be communicated to all officials so that they are duly informed, and accordingly, notice was given to each party.
 　　　　　End
 
-　Item: On the same day, Matsudaira Yōnin reported the following: Upon the passing of the Ryūtoku-in (a deceased person of high standing), as a bequest, each of the officials was privately granted one horse bridle (kutsuwa). Regarding the expression of gratitude for this gift, it was communicated that a letter should be sent to the O-chūrō (Senior Councillor) in Edo.
+Item: On the same day, Matsudaira Yōnin communicated the following: Upon the passing of Lady Ryūtokuin, a horse bit (kutsuwa) was discreetly bestowed upon each of the officials as a personal bequest (imotsu). Regarding the expression of gratitude for this gift, it was communicated that a letter of thanks should be submitted to the Senior Councillor (chūrō) in Edo.
 　　　　　End
 
-Bunka 7, Year of the Horse (1810)
-　Item: On the 11th day of the 1st month, Amemori Genshirō reported the following: As set forth in the attached document, this is to be understood accordingly.
-　Item: Lord Hyōe-no-suke has changed his name to Lord Hyōe-no-kami.
-　Item: It has been agreed in private with Lord Kuki Izumi-no-kami regarding the "Ryō-keii" (dual-direction salutation). For matters concerning the inner household (O-naka-muki) and official public-facing affairs (kōhen), the previous single-direction salutation (kata-umai) is to continue as before; for all other matters, the dual-direction salutation (ryō-keii) is to apply.
+Bunka 7th year, Year of the Horse (1810)
+　Item: On the 11th day of the 1st month, Amemori Genshirō communicated the following: As decreed per the attached separate document, all parties are to take note accordingly.
+　Item: His Lordship Saheiza-no-suke has changed his title to "Saheiza-no-kami."
+　Item: Regarding the internal honorary protocol (go-naibu) for His Lordship Kuki Izumi-no-kami, the dual-respect honorific (ryōkei) has been mutually agreed upon. For matters pertaining to the inner quarters (naka-mukai) and official public affairs (kōhen no tsuku), the previous one-sided protocol (kataage) continues as before; all other matters are to employ the full dual-respect protocol (ryōkei).
 　　　　　End
 
-Item: On the 26th day of the 10th month, Nagami Taemon reported the following: In accordance with the attached document, the relevant understanding is to be conveyed to Kasuya Naiki and all those of equivalent rank and above under his jurisdiction. Accordingly, the matter was communicated to Naiki and also to the O-kachi-metsuke (Foot Inspector).
-　Item: At the time of the martial arts review (Bugei O-ran), officials are to attend as much as possible without claiming exemption on grounds of duty. However, in cases where unavoidable official business arises, the matter is to be inquired of one's fellow duty-officers, and a prior determination is to be made as to what shall be classified as an excused duty absence.
+Item: On the 26th day of the 10th month, Nagami Taemon communicated the following: In accordance with the attached separate document, and with the intention of informing Kasuya Naiki and all persons of equivalent or higher standing under his jurisdiction, notice was also given to Naiki and the O-kachi-metsuke (inspectors of foot soldiers).
+　Item: On the occasion of the martial arts review (bugei o-ran), officials are to attend as much as possible without claiming exemption from duty (yōhiki). However, in cases of unavoidable official duties, one should consult with colleagues of the same post (dōyaku-chū), and arrangements for duty exemption are to be settled and established in advance.
 　　　　　End
