@@ -98,10 +98,10 @@ filename	status	image
 097.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F097.tif/info.json
 098.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F098.tif/info.json
 099.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F099.tif/info.json
-100.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F100.tif/info.json
-101.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F101.tif/info.json
-102.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F102.tif/info.json
-103.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F103.tif/info.json
+100.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F100.tif/info.json
+101.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F101.tif/info.json
+102.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F102.tif/info.json
+103.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F103.tif/info.json
 104.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F104.tif/info.json
 105.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F105.tif/info.json
 106.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F050_ni_01%2F106.tif/info.json

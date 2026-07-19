@@ -1,30 +1,43 @@
-The "Tashikihen" in the poisonous plants section states:
-　　　Riro (Veratrum)　Japanese name: Shishikuhiki
-　　　　　　　　　　　　In my humble opinion: Omo　Alternative name: Sanso (Betsuroku)
-　　　　　　　Sozen (same)　Sotan (pronounced tan)　Soki (Go Futsu)
-　　　　　　　Horo (same)　Kanso (Gangmu)　Rokuso
+【Shiroso (Veratrum album / False Hellebore)?】
 
-Shizhen says that black color is called rei, and its lu has black skin inside, hence the name. The root base resembles scallion, and is commonly called Sogkan-riro. Northern people call it Kanso, southern people call it Rokuso.
+As listed in the "Tashikiben" (Encyclopedia of Identifications), section on poisonous plants:
+　　Rirō (藜蘆, *Veratrum*)　Japanese name: Shishinokubiki (志々乃久比幾)
+　　　　○ The author's note: possibly Ōmoto (於毛土)
+　　　Alternate names: Sansō (Mountain Onion)〔from the *Bielu* / "Supplementary Records"〕
+　　　　Sōzen 〔same source〕　Sōsen (read as "毯")　Sōki 〔from *Wupu*〕
+　　　　Hōro (豊蘆) 〔same〕　Kansō (憨葱) 〔from the *Bencao Gangmu*〕　Rokusō (鹿葱)
 
-　　　　　　　　　　　　　　　　　　　　　　　Kinoto-Tori year, 6th month, 19th day
+Li Shizhen states: The color black is called "Rei" (黎). Since the rhizome (蘆) of this plant has black skin, it is thus named. Because the base of the root resembles a scallion (negi), it is commonly called "Sōkan Rirō" (Scallion-tube Veratrum), which is correct. People of the North call it "Kansō" (foolish onion), while people of the South call it "Rokusō" (deer onion).
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　【Seal】 Medicinal Herb
+
+　　　　　　　　　　　　　　　　　　　　　　　Kinoto-Tori year, Rinshō (6th month), 19th day
 　　　　　　　　　　　　　　　　　　　　　　　Drawn from life
 
-The "Wamyō Ruijushō" states:
-　　　Riro (Amauhara)　　　　The "Honzō" says riro, the upper character is pronounced rei
-　　　(Shishinokuhiki)　　　　Japanese name: Yamiuhara
-　　　　　　　　Also called: Shishinokuhiki
+---
 
-Riro　Now called Shurosō　Hohotsukuri
-　　　Nikkō-ran
-　There are several varieties　Leaves〇long leaves　This illustrated one has roots with
-　Connected beads〇bamboo-made, rootless beads〇platform-made
-　One root, one leaf, resembling pinellia root
+From the "Wamyō Ruijushō" (Japanese Names Classified):
+　　Rirō (藜蘆)　(Japanese readings: Yamauara / Shishinokuhinoki)
+　　　Based on the Honzō's entry for Rirō　〔The first character is read "Rei"〕
+　　　Japanese name: Yamauara (夜未宇波良)
+　　　Another source gives: Shishinokuhinoki (之々乃久比乃木)
 
-　　　　　　　I say:
-　　　　　　　　 　To read riro as "omoto" is incorrect. Omoto is
-　　　　　　　　 　Rohdea japonica and is a different plant. Riro has leaves
-　　　　　　　　 　resembling purple orchid and white orchid, so it's called Nikkō-ran. This name is most commonly used among the people.
-　　　　　　　　 　Perhaps it has the name Nikkō because it grows abundantly on Mount Nikkō. To call it omoto has
-　　　　　　　　 　no basis. The "Wakan Sansai Zue" calling riro "ebine"
-　　　　　　　　 　is also incorrect. Tayusō (ebine) is a different plant. Ri-
-　　　　　　　　 　ro, summer section, volume 7, second year rare specimens
+Rirō — nowadays called Shiroso (シュロソウ, *Veratrum maackii*). Also known as Hohotsukuri
+　　　and Nikkō-ran (Nikkō Orchid).
+　Several varieties exist: round-leaved type 〇 long-leaved type. The plant illustrated here has roots
+　with connected nodes (like a string of beads) 〇 bamboo-grass type roots without nodes 〇 stalk type,
+　one root with one leaf, resembling the root of Hange (*Pinellia ternata*).
+
+---
+
+　　　　　　The author states:
+　　　　　　　　To read Rirō (藜蘆) as "Ōmoto" is incorrect. Ōmoto refers to
+　　　　　　　　Manyūsei (*Rohdea japonica*, Sacred Lily), which is an entirely different plant.
+　　　　　　　　Because the leaves of Rirō resemble those of Shiran (*Bletilla striata*, Purple Orchid)
+　　　　　　　　and Hakuran (White Orchid), it is called "Nikkō-ran" (Nikkō Orchid). This name is
+　　　　　　　　the most widely understood in common usage.
+　　　　　　　　Perhaps it received the name "Nikkō" because it grows abundantly on Mt. Nikkō.
+　　　　　　　　Rendering it as "Ōmoto" is without any basis.
+　　　　　　　　Furthermore, the identification of Rirō as Ebine (*Calanthe*, 他楡草) in the
+　　　　　　　　*Wakan Sansai Zue* is also incorrect — Ebine is an entirely separate plant.
+　　　　　　　　Rirō will appear again in Summer Volume, Scroll 7 (or Book 2), under "Rare Specimens."

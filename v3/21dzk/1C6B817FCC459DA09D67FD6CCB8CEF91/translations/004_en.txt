@@ -1,75 +1,91 @@
-**Right Page Upper Section**
-　　　Biography of Vinaya Master Mingdao of Tiangong Temple, Luozhou, Tang
-　　　Biography of Vinaya Master Tanguang of Jing'ai Temple, Luozhou, Tang
-　Volume Five
-　　Chinese Masters
-　　　Biography of Great Master Chengzhao of Fengde Temple, Zhongnan Mountains, Tang
-　　　Biography of Vinaya Master Xuanyun Shi of Ximing Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Daocheng of Hengji Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Manyi of Chongfu Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Zhou of Tang
-　　　Biography of Vinaya Master Zhiren of Guangming Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Daci of Ximing Temple, Tang
-　　　Biography of Vinaya Master Wengang of Chongsheng Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Yilang of Tang
-　　　Biography of Vinaya Master Huining of Tang
-　　　Biography of Vinaya Master Tanguang of Tang
-　　　Biography of Vinaya Master Xuankui of Tang
-　　　Biography of Vinaya Master Zhihong of Tang
+## [Page 6]
 
-**Right Page Lower Section**
-　　　Biography of Vinaya Master Huaisu of Xi Dayuan Temple, Tang
-　　　Biography of Vinaya Master Hengjing of Longxing Temple, Tang
-　　　Biography of Vinaya Master Tansheng of Tang
-　　　Biography of Vinaya Master Rongji of Tang
-　　　Biography of Vinaya Master Daoshen of Tang
-　　　Biography of Vinaya Master Chongfu of Tang
-　　　Biography of Vinaya Master Xiu of Shili Temple, Anzhou, Tang
-　　　Biography of Vinaya Master Mingke of Tang
-　　　Biography of Vinaya Master Lingqiu of Chongde Temple, Tang
-　　　Biography of Vinaya Master Zhihai of Tang
-　　　Biography of Vinaya Master Falin of Tang
-　　　Biography of Vinaya Master Daoheng of Kaiyuan Temple, Suzhou, Tang
-　　　Biography of Vinaya Master Zhengu of Tang
-　　　Biography of Vinaya Master Dingbin of Zhenguo Temple, Mount Song, Tang
-　　　Biography of Vinaya Master Zhiming of Tang
-　　　Biography of Vinaya Master Dao'an of Longxing Temple, Kuaiji, Tang
-　　　Biography of Vinaya Master Zhichan of Tang
+### [Upper Section]
 
-**Left Page Upper Section**
-　　　Biography of Vinaya Master Chongye of Ximing Temple, Tang
-　　　Biography of Vinaya Master Fayan of Tang
-　　　Biography of Vinaya Master Fashen of Longxing Temple, Yangzhou, Tang
-　　　Biography of Vinaya Master Faxing of Tang
-　　　Biography of Vinaya Master Xuanyan of Fahua Temple, Yuezhou, Tang
-　　　Biography of Vinaya Master Dexiu of Lingzhi Temple, Hangzhou, Tang
-　　　Biography of Vinaya Master Aitong of Kaiye Temple, Tang
-　　　Biography of Vinaya Master Quan of Mount Wutai, Tang
-　　　Biography of Vinaya Master Daoguang of Huayan Temple, Hangzhou, Tang
-　Volume Six
-　Chinese Masters
-　　　Biography of Vinaya Master Jueyin Yi of Kaiyuan Temple, Kuaiji, Tang
-　　　Biography of Vinaya Master Huiqin of Tang
-　　　Biography of Vinaya Master Jinpyo of Geumsan Temple, Baekje, Tang
-　　　Biography of Vinaya Master Yuan Zhenyi of Chengxin Temple, Yuezhou, Tang
-　　　Biography of Vinaya Master Rujing of Anguo Temple, Jingzhao, Tang
-　　　Biography of Vinaya Master Jianyuan of Kaizhao Temple, Hanzhou, Tang
+　　　Biography of the Vinaya Master Mingdao of Tiangong Monastery, Luozhou, Tang Dynasty
+　　　Biography of the Vinaya Master Tanguang of Jing'ai Monastery, Luozhou, Tang Dynasty
 
-**Left Page Lower Section**
-　　　Biography of Vinaya Master Chengru of Anguo Temple, Tang
-　　　Biography of Vinaya Master Yuanzhao of Ximing Temple, Tang
-　　　Biography of Vinaya Master Jiandao Zhi of Lingyin Temple, Hangzhou, Tang
-　　　Biography of Vinaya Master Yixuan of Xingning Temple, Changzhou, Tang
-　　　Biography of Vinaya Master Yanjun of Daming Temple, Hongzhou, Tang
-　　　Biography of Vinaya Master Zhixiang of Tang
-　　　Biography of Vinaya Master Langran of Zhaoyin Temple, Runzhou, Tang
-　　　Biography of Vinaya Master Qingfa of Tang
-　　　Biography of Vinaya Master Bianxiu of Kaiyuan Temple, Tang
-　　　Biography of Vinaya Master Weiqian of Tang
-　　　Biography of Vinaya Master Fazheng of Yunfeng Temple, Nanyue, Tang
-　　　Biography of Vinaya Master Huichao of Tang
-　　　Biography of Vinaya Master Bianchang of Tang
-　　　Biography of Vinaya Master Hengdu Hao of Baoshan, Wu Commandery, Tang
-　　　Biography of Vinaya Master Yiwei of Chanding Temple, Tang
-　　　Biography of Vinaya Master Dajue of Tang
-　　　Biography of Vinaya Master Lingyi of Yifeng Temple, Yuhang, Tang
+**Volume 5**
+　　Eminent Masters of Zhēndān (China)
+
+　　　Biography of the Great Master Chengzhao of Fengde Monastery, Zhongnan Mountains, Tang Dynasty
+　　　Biography of the Vinaya Master Xuanyunshi of Ximing Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Daocheng of Hengji Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Manyi of Chongfu Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Zhou, Tang Dynasty
+　　　Biography of the Vinaya Master Zhiren of Guangming Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Daci of Ximing Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Wengang of Chongsheng Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Yilang, Tang Dynasty
+　　　Biography of the Vinaya Master Huining, Tang Dynasty
+　　　Biography of the Vinaya Master Tanguang, Tang Dynasty
+　　　Biography of the Vinaya Master Xuankui, Tang Dynasty
+　　　Biography of the Vinaya Master Zhihong, Tang Dynasty
+
+---
+
+### [Lower Section]
+
+　　　Biography of the Vinaya Master Huaisu of Western Dayuan Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Hengjing of Longxing Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Tansheng, Tang Dynasty
+　　　Biography of the Vinaya Master Rongji, Tang Dynasty
+　　　Biography of the Vinaya Master Daoshen, Tang Dynasty
+　　　Biography of the Vinaya Master Chongfu, Tang Dynasty
+　　　Biography of the Vinaya Master Xiu of Shili Monastery, Anzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Mingke, Tang Dynasty
+　　　Biography of the Vinaya Master Linglan of Chongsheng Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Zhihai, Tang Dynasty
+　　　Biography of the Vinaya Master Falin, Tang Dynasty
+　　　Biography of the Vinaya Master Daoheng of Kaiyuan Monastery, Suzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Zhengu, Tang Dynasty
+　　　Biography of the Vinaya Master Dingbin of Zhenguo Monastery, Songshan, Tang Dynasty
+　　　Biography of the Vinaya Master Zhiming, Tang Dynasty
+　　　Biography of the Vinaya Master Dao'an of Longxing Monastery, Kuaiji, Tang Dynasty
+　　　Biography of the Vinaya Master Zhichan, Tang Dynasty
+
+## [Page 7]
+
+### [Upper Section]
+
+　　　Biography of the Vinaya Master Chongye of Ximing Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Fayan, Tang Dynasty
+　　　Biography of the Vinaya Master Fashen of Longxing Monastery, Yangzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Faxing, Tang Dynasty
+　　　Biography of the Vinaya Master Xuanyan of Fahua Monastery, Yuezhou, Tang Dynasty
+　　　Biography of the Vinaya Master Dexiu of Lingzhi Monastery, Hangzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Aitong of Kaiiye Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Quan of Mount Wutai, Tang Dynasty
+　　　Biography of the Vinaya Master Daoguang of Huayan Monastery, Hangzhou, Tang Dynasty
+
+**Volume 6**
+　　Eminent Masters of Zhēndān (China)
+
+　　　Biography of the Vinaya Master Jueyinyi of Kaiyuan Monastery, Kuaiji, Tang Dynasty
+　　　Biography of the Vinaya Master Huiqin, Tang Dynasty
+　　　Biography of the Vinaya Master Jinpyo of Geumsan Monastery, Baekje, Tang Dynasty
+　　　Biography of the Vinaya Master Yuanzhenyi of Chengxin Monastery, Yuezhou, Tang Dynasty
+　　　Biography of the Vinaya Master Rujing of Anguo Monastery, Jingzhao, Tang Dynasty
+　　　Biography of the Vinaya Master Jianyuan of Kaizhao Monastery, Hanzhou, Tang Dynasty
+
+---
+
+### [Lower Section]
+
+　　　Biography of the Vinaya Master Chengru of Anguo Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Yuanzhao of Ximing Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Jiandaozhi of Lingyin Monastery, Hangzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Yixuan of Xingning Monastery, Changzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Yanjun of Daming Monastery, Hongzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Zhixiang, Tang Dynasty
+　　　Biography of the Vinaya Master Langran of Zhaoyin Monastery, Runzhou, Tang Dynasty
+　　　Biography of the Vinaya Master Qingfa, Tang Dynasty
+　　　Biography of the Vinaya Master Bianxiu of Kaiyuan Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Weiqian, Tang Dynasty
+　　　Biography of the Vinaya Master Fazheng of Yunfeng Monastery, Nanyue, Tang Dynasty
+　　　Biography of the Vinaya Master Huichao, Tang Dynasty
+　　　Biography of the Vinaya Master Bianchang, Tang Dynasty
+　　　Biography of the Vinaya Master(s) Hengduhao of Baoshan, Wujun, Tang Dynasty
+　　　Biography of the Vinaya Master Yiwei of Chanding Monastery, Tang Dynasty
+　　　Biography of the Vinaya Master Dajue, Tang Dynasty
+　　　Biography of the Vinaya Master Lingyi of Yifeng Monastery, Yuhang, Tang Dynasty

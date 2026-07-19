@@ -1,9 +1,10 @@
-Boat Diagram
+Diagram of a (Small) Boat
+
 The construction varies slightly
-in different places, near and far.
-The shape is also
-the same way. Wood is carved to make
-the framework, and bark is used
-to attach planks. Moss is stuffed
-into the joints to prevent
-water from entering.
+depending on the location, near or far,
+and the shape likewise differs.
+Wood is carved to form the hull bottom,
+and planks are bound together
+with tree bark. To prevent water
+from entering, moss is packed
+into the seams where the planks are joined.

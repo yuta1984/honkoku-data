@@ -1,10 +1,17 @@
-【Right Folio】
-Composed by Master Takei Ranzan
-《Title: Onkun Kokujikaku (A Guide to On and Kun Readings of Characters)》
+【Right Page】
 
-The iroha syllabary of our country is also called "women's script" (onna-moji), and as long as one knows the forty-seven characters, there is nothing in the world one cannot communicate. However, each Chinese character has its own inherent reading (on), and particularly because there are distinctions of weight (light and heavy) among native kana such as "i/wi," "o/wo," and "e/we," there are many cases where the characters do not match up correctly. Therefore, this work records the distinctions in kana usage for both on (Chinese-derived) and kun (Japanese native) readings, and extends even to the matters of kan-on, go-on, and tō-on, matching these to the characters, so as to make known where there is no error.
+Written by Master Takei Ranzan
 
-【Left Folio】
-Preface to Onkun Kokujikaku　【Square Seal】
+《Title: Onkun Kanazukai (A Guide to the On and Kun Readings of Japanese Characters)》
 
-First there was spoken language, and afterward characters were created. First there were characters, and afterward on and kun readings came into being. On and kun readings are themselves, again, a form of language. That which can be understood when sharing the same seat is the spoken word. That which can convey meaning even across nations separated by distance is the written character. In the deep antiquity of old, from the simplicity of knotted cords and bird-track script, to the refined harmony of literary form and substance, to the flourishing of the many script styles [such as seal, standard, and cursive], how could the differences be confined to a single court alone? Change and circulation reaches ten thousand lands, as if in a single day. As for our own 〔country…〕
+The Japanese iroha syllabary is also known as "women's script," and if one knows its forty-seven characters, there is nothing in the world one cannot communicate. However, Chinese characters each have their own inherent readings, and in particular, since Japanese kana distinguishes between characters of similar sound—such as "i/wi," "wo/o," and "e/we"—there are many cases where matching characters to readings goes awry. Therefore, this work records the distinctions in kana orthography for both on (Chinese-derived) and kun (native Japanese) readings, and by correlating kan-on, go-on, and tō-on with their respective characters, it aims to make clear where no error exists.
+
+---
+
+【Left Page】
+
+**Preface to Onkun Kanazukai**
+
+It is only after language exists that characters come into being. It is only after characters exist that on and kun readings come into being. On and kun readings are, in turn, language itself. That which communicates between people sharing the same seat is "speech"; that which reaches across the boundaries of nations is "writing." In the most ancient times, things were simple—like the knotted cords and bird-track marks of primitive writing—but refined in both form and substance, and arriving at the beauty of seal script, large-seal script, regular script, and cursive script: these things do not merely belong to foreign courts alone. They have spread and circulated throughout ten thousand lands as if in a single day. In our own [country…]
+
+*(Text continues on the next page.)*

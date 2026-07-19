@@ -1,75 +1,95 @@
-**Right Page Upper Section**
-　　　Biography of Vinaya Master Bengsong of Song
-　Volume Nine
-　　Chinese Masters
-　　　Biography of Great Wisdom Vinaya Master of Lingzhi Chongfu Temple, Song
-　　　Biography of Vinaya Masters Daobiao and Zhijiao of Song
-　　　Biography of Vinaya Master Simin of Song
-　　　Biography of Vinaya Master Xingshen of Mingqing Temple, Song
-　　　Biography of Vinaya Master Qingzhao Heng of Yanshou Temple, Song
-　　　Biography of Vinaya Master Yongqin of Qibao Academy, Song
-　　　Biography of Vinaya Master Daoyan of Song
-　　　Biography of Vinaya Master Ze'an of Song
-　　　Biography of Vinaya Master Fachi of Huadu Temple, Song
-　　　Biography of Vinaya Master Miaosheng of Song
-　　　Biography of Vinaya Master Weiyue of Song
-　　　Biography of Vinaya Master Yuanzhao of Huxin, Song
-　　　Biography of Vinaya Master Du of Zhuoan, Song
-　　　Biography of Three Vinaya Masters Weiyi, Fazheng, and Fajiu of Song
+## [Page 10]
 
-**Right Page Lower Section**
-　　　Biography of Vinaya Master Ruan Hong of Jingfu Temple, Siming, Song
-　　　Biography of Three Vinaya Masters Liaoran, Zhirui, and Miaoyin of Song
-　　　Biography of Vinaya Master Miaolian of Guangfu Temple, Huxin, Song
-　　　Biography of Vinaya Master Tieweng Yi of Rishan Temple, Song
-　　　Biography of Vinaya Master Xingju of Shilin, Song
-　　　Biography of Vinaya Master Wensi of Mingqing Temple, Lin'an, Song
-　　　Biography of Vinaya Master Shixiang Yuanming of Great Puqing Temple, Jingzhao, Yuan
-　　　Biography of Vinaya Master Huiwen of Yuan
-　　　Biography of Vinaya Master Yongming of Puti Temple, Ming
-　　　Biography of Vinaya Master Rushisi of Purple Cloud, Ming
-　Volume Ten
-　　Japanese Masters
-　　　Biography of Great Master Jianzhen, Founder of Shosha Temple, Nanto
-　　　Biography of Vinaya Master Daoxuan
-　　　Biography of Vinaya Master Fajin of Kaidan-in, Nanto
-　　　Biography of Three Vinaya Masters Renhan, Fake, and Tanjing
-　　　Biography of Vinaya Master Situo
+### [Upper Section]
 
-**Left Page Upper Section**
-　　　Biography of Two Vinaya Masters Fazai and Yijing
-　　　Biography of Four Vinaya Masters Facheng, Zhiwei, Lingyao, and Huaiqian
-　　　Biography of Two Vinaya Masters Eirui and Fusho
-　　　Biography of Vinaya Master Kuhatsu Un of Yashima Temple
-　　　Biography of Vinaya Master Nyoho of Shosha Temple
-　　　Biography of Four Vinaya Masters Eryo, Edatsu, Ejo, and Eki
-　　　Biography of Vinaya Master Dochu
-　　　Biography of Two Vinaya Masters Shoichi and Ezen
-　　　Biography of Vinaya Master Zenshun of Daian Temple
-　　　Biography of Vinaya Master Hoan of Shosha Temple
-　　　Biography of Vinaya Master Myoyu
-　　　Biography of Vinaya Master Jitsubon of Nakagawa Temple
-　Volume Eleven
-　　Japanese Masters
-　　　Biography of Great Kojo Shoho National Master, Founder of Sennyu Temple, Kyoto
-　　　Biography of Vinaya Master Tansho Go, Founder of Kaiko Temple
-　　　Biography of Vinaya Master Shisen of Sennyu Temple
+　　　Biography of the Vinaya Master Bensong, Song Dynasty
 
-**Left Page Lower Section**
-　　　Biography of Vinaya Master Kugetsu Kai
-　　　Biography of Four Vinaya Masters Shishin, Shosen, Shikyo, and Raison
-　　　Biography of Vinaya Master Raien Shun of Sennyu Temple
-　　　Biography of Vinaya Master Getsuou Kyo of Raikoin
-　　　Biography of Two Vinaya Masters Gaen and Risho
-　　　Biography of Vinaya Master Bunyou Kai
-　　　Biography of Vinaya Master Seisa In of Kaiko Temple
-　　　Biography of Two Vinaya Masters Kenchi and Engetsu
-　　　Biography of Vinaya Master Sonsho Sei of Fuku-in, Nanto
-　　　Biography of Great Compassion Bodhisattva of Shosha Temple
-　Volume Twelve
-　　Japanese Masters
-　　　Biography of Kosho Bodhisattva of Saidai Temple, Nanto
-　　　Biography of Vinaya Master Kaie Tei of Kairyuo Temple, Nanto
-　　　Biography of Vinaya Master Shokaku Nin of Kairyuo Temple
-　　　Biography of Vinaya Master Shingan Hen of Daijo Chikurin Temple, Ikoma
-　　　Biography of Vinaya Master Eshin Ku, Founder of Daitsu Temple, Kyoto
+**Volume 9**
+　　Eminent Masters of Zhēndān (China)
+
+　　　Biography of the Great Wisdom Vinaya Master (Dazhi Lüshi) of Chongfu Monastery, Lingzhi, Song Dynasty
+　　　Biographies of the Two Vinaya Masters Daobiao and Zhijiao, Song Dynasty
+　　　Biography of the Vinaya Master Simin, Song Dynasty
+　　　Biography of the Vinaya Master Xingshen of Mingqing Monastery, Song Dynasty
+　　　Biography of the Vinaya Master Qingzhaoheng of Yanshou Monastery, Song Dynasty
+　　　Biography of the Vinaya Master Yongqin of Qibao Cloister, Song Dynasty
+　　　Biography of the Vinaya Master Daoyan, Song Dynasty
+　　　Biography of the Vinaya Master Zean, Song Dynasty
+　　　Biography of the Vinaya Master Fachi of Huadu Monastery, Song Dynasty
+　　　Biography of the Vinaya Master Miaosheng, Song Dynasty
+　　　Biography of the Vinaya Master Weiyue, Song Dynasty
+　　　Biography of the Vinaya Master Huxin Yuanzhao, Song Dynasty
+　　　Biography of the Vinaya Master Zhuoan Du, Song Dynasty
+　　　Biographies of the Three Vinaya Masters Weiyi, Fazheng, and Fajiu, Song Dynasty
+
+---
+
+### [Lower Section]
+
+　　　Biography of the Vinaya Master Ruan Hongof Jingfu Monastery, Siming, Song Dynasty
+　　　Biographies of the Three Vinaya Masters Liaoran, Zhirui, and Miaoyin, Song Dynasty
+　　　Biography of the Vinaya Master Miaolian of Guangfu Monastery, Huxin, Song Dynasty
+　　　Biography of the Vinaya Master Tiewengyi of Rishan Monastery, Song Dynasty
+　　　Biography of the Vinaya Master Shilin Xingju, Song Dynasty
+　　　Biography of the Vinaya Master Wensi of Mingqing Monastery, Lin'an, Song Dynasty
+　　　Biography of the Vinaya Master Shixiang Yuanming of Dapuqing Monastery, Jingzhao, Yuan Dynasty
+　　　Biography of the Vinaya Master Huiwen, Yuan Dynasty
+　　　Biography of the Vinaya Master Yongming of Puti Monastery, Ming Dynasty
+　　　Biography of the Vinaya Master Ziyun Rushisi, Ming Dynasty
+
+**Volume 10**
+　　Eminent Masters of Fūsō (Japan)
+
+　　　Biography of the Great Master Jianzhen (Ganjin), Founder of Tōshōdaiji (Chōdaiji), Nanto (Nara)
+　　　Biography of the Vinaya Master Dàoxuán (Dōsen)
+　　　Biography of the Vinaya Master Hōshin of the Ordination Platform Precinct (Kaidanin), Nanto
+　　　Biographies of the Three Masters Jinkan, Hōka, and Tanjō
+　　　Biography of the Vinaya Master Situo (Sittoku/Shitaku)
+
+## [Page 11]
+
+### [Upper Section]
+
+　　　Biographies of the Two Masters Hōsai and Gijō
+　　　Biographies of the Four Vinaya Masters Hōjō, Chii, Ryōyō, and Eiken
+　　　Biographies of the Two Masters Yōei (Eiryō) and Fushō (Fusho)
+　　　Biography of the Vinaya Master Kūhatsuun of Yashima Monastery
+　　　Biography of the Vinaya Master Nyohō of Tōshōdaiji
+　　　Biographies of the Four Vinaya Masters Eryō, Eidatsu, Eijō, and Eiki
+　　　Biography of the Vinaya Master Dōchū
+　　　Biographies of the Two Masters Shōichi and Ezan
+　　　Biography of the Vinaya Master Zenshun of Daianji
+　　　Biography of the Vinaya Master Hōan of Tōshōdaiji
+　　　Biography of the Vinaya Master Myōyū
+　　　Biography of the Vinaya Master Jitsuhan of Nakagawa-dera (Nakagawa Monastery)
+
+**Volume 11**
+　　Eminent Masters of Fūsō (Japan)
+
+　　　Biography of the National Master Daikō Shōbō (Great Flourishing of the True Dharma), Founder of Sennyūji, Kyoto
+　　　Biography of the Vinaya Master Tanjōgyō, Founder of Kaikōji
+　　　Biography of the Vinaya Master Shisen of Sennyūji
+
+---
+
+### [Lower Section]
+
+　　　Biography of the Vinaya Master Kūgetskai
+　　　Biographies of the Four Vinaya Masters Shishin, Jōsen, Shikyō, and Raison
+　　　Biography of the Vinaya Master Raiennshun of Sennyūji
+　　　Biography of the Vinaya Master Getsōkyō of Raigōin
+　　　Biographies of the Two Masters Gaen and Rīshō
+　　　Biography of the Vinaya Master Monnyōkai
+　　　Biography of the Vinaya Master Seisain of Kaikōji
+　　　Biographies of the Two Masters Kenchi and Engetsu
+　　　Biography of the Vinaya Master Sonshōsei of Fukū-in, Nanto
+　　　Biography of the Great Compassionate Bodhisattva (Daihi Bosatsu) of Tōshōdaiji
+
+**Volume 12**
+　　Eminent Masters of Fūsō (Japan)
+
+　　　Biography of the Bodhisattva Kōshō (Eison), Saidaiji, Nanto
+　　　Biography of the Vinaya Master Kaiei-tei of Kairyūōji, Nanto
+　　　Biography of the Vinaya Master Shōkaku-nin of Kairyūōji
+　　　Biography of the Vinaya Master Shingan-hen of Takayama Taishō, Chikurinji
+　　　Biography of the Vinaya Master Kaishin-kū, Founder of Daitsūji, Kyoto
