@@ -1,11 +1,11 @@
 filename	status	image
 001.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F001.tif/info.json
-002.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F002.tif/info.json
+002.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F002.tif/info.json
 003.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F003.tif/info.json
 004.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F004.tif/info.json
 005.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F005.tif/info.json
-006.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F006.tif/info.json
-007.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F007.tif/info.json
+006.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F006.tif/info.json
+007.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F007.tif/info.json
 008.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F008.tif/info.json
 009.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F009.tif/info.json
 010.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F118_yo_01%2F010.tif/info.json

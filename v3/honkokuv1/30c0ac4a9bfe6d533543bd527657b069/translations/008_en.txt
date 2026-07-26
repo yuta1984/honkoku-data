@@ -1,7 +1,29 @@
-These are the limits of the two solstices. Calculating by 360 degrees: dividing into twelve yields the "palaces" (宮, gong/signs of the zodiac); dividing into twenty-four yields the "qi" (seasonal nodes); dividing into seventy-two yields the "hou" (micro-seasons). Dividing still more finely yields 365 and one-quarter degrees, and therein the twenty-eight lunar mansions are arrayed. Generally, the monthly establishments (月建) and the palace boundaries always differ by about five degrees. The reason the ecliptic is divided into twelve palaces is that the sun and moon, chasing each other on the ecliptic, meet twelve times in a year, and within a year's four seasons there are twelve changes; the number twelve is taken as the basis, and its significance is most refined. Halving this gives six; tripling gives four; quadrupling gives three. The movements of all the luminaries and the changes of the four seasons all fall within this framework. The cold, heat, flourishing, and withering of the world all originate from the ecliptic. Since China is located north of the equator, when the sun travels along the ecliptic, the northern lands are warm and the myriad things are born, while the southern lands are cold and the myriad things die. (Huang Zi says: For countries located south of the equator, when the sun travels through the southern lands, the reverse is true.) The ecliptic, as one great circle, has four uses: First, to regulate the degrees of retrograde and right-turning motion of the seven luminaries and the lunar mansions. (On the ecliptic, only the sun travels along the central correct line; the others each have their own epicycles, hence the variations of slow, fast, occultation, and retrogression.) Second, to investigate the limits of solar and lunar eclipses. (The moon's path has nine roads; generally, when it is near the ecliptic, an eclipse occurs.) Third, to determine the length of day and night across the world based on how much of the ecliptic rises above the horizon. Fourth, to distinguish the north and south of the lunar mansions and to record their latitudinal degrees.
+(Continued from previous page) …these are the limits of the two solstices. Computing from 360 degrees: dividing into twelve yields the "palaces" (宮, *miya* / *gū*); dividing into twenty-four yields the "breaths" or solar terms (気, *ki*); dividing into seventy-two yields the "seasonal phases" (候, *kō*). Dividing still more finely yields 365 and one-quarter degrees, along which the twenty-eight lunar lodges are arrayed.
 
-　　The North and South Celestial Poles
+In general, the monthly establishments (月建, *gekken*) and the boundaries of the palaces always differ by approximately five degrees. The reason the ecliptic is divided into twelve palaces is that the Sun and Moon, pursuing one another, conjoin upon the ecliptic twelve times in a year, and within one year's four seasons there are twelve changes. The number twelve is chosen because its significance is most refined and precise. Half of twelve is six; a third of it is four; a quarter of it is three. The movements of all the luminaries and the changes of the four seasons are entirely contained within this.
 
-Question: Astronomers say that the north and south poles correspond to each other. They also say that the north pole is above the horizon and the south pole is below the horizon. If so, is there a difference in elevation between them? Or do they truly correspond to each other?
+The cold and heat, the flourishing and withering of all under Heaven, all derive from the ecliptic. China is situated to the north of the equator; therefore, when the Sun travels along the ecliptic, the northern lands are warm and the ten thousand things come to life, while the southern lands are cold and the ten thousand things perish.
 
-Answer: The north and south celestial poles are the two eternal, immovable points of the celestial sphere, upon which the entire heaven leans as upon a pivot for its circular revolution. Hence they are called "poles." (You Yan says: The pole is like the hub of a wheel, or like the navel of a millstone. It is not a star. What is called the "pole star" merely refers to the star nearest to the pole.) At the center there exists a place that does not rotate, which serves as the heart of the poles. Therefore, in the north and south there exist immovable…
+[Interlinear note: Master Huang (黄子) said: "If a country is situated to the south of the equator, when the Sun travels through the southern lands, the result is the reverse of this."]
+
+The single circle of the ecliptic has four uses. First, to regulate the degrees of retrograde motion and rightward rotation of the Seven Luminaries and the arrayed lunar lodges.
+
+[Interlinear note: The ecliptic is the central, true line of the Sun's path. The remaining bodies each separately possess epicycles, and it is for this reason that they exhibit differences of slow and fast motion, occultation, and retrogradation.]
+
+Second, to ascertain the limits of solar and lunar eclipses.
+
+[Interlinear note: The Moon's path comprises nine roads; generally speaking, when it approaches the ecliptic, an eclipse occurs.]
+
+Third, to determine the length of day and night across the world, based upon how much of the ecliptic rises above the horizon. Fourth, to distinguish the north and south of the arrayed lunar lodges, and to record their latitudinal degrees.
+
+---
+
+**The North and South Celestial Poles**
+
+*Question:* Astronomers say that the north and south celestial poles are directly opposed to each other. Yet they also say that the North Pole is above the horizon, while the South Pole is below it. Does this mean that one is low and the other high? Or are they truly opposite one another?
+
+*Answer:* The north and south celestial poles are the two permanently immovable points of the celestial body (Heaven), upon which the entire heavens depend as the pivots of their circular revolution. For this reason they are called "poles" (極, *kyoku*).
+
+[Interlinear note: Youyan (游燕) said: "The poles are like the hub of a wheel, or the navel of a millstone. They are not stars. When people speak of 'pole stars,' they are simply pointing to the stars that lie close to the pole and naming them accordingly."]
+
+At the centre (of the celestial sphere) there lie stationary points that serve as its heart. Therefore, to the south and north there are immovable… (continues on next page)

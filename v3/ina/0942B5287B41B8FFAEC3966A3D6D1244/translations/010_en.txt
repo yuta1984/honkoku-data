@@ -1,0 +1,42 @@
+[Right Folio]
+　　　　　Secretary
+　Nodayama Entrance Benchmark　　To: Mr. Shimizu Yoshikata
+
+[Seal: Hara]
+　Benchmark 《Bearing: S68°15'E / Elevation angle: 3°30'》 — Line of sight to: Ina District, Shirakuzure-dake Peak
+[Seal: Misawa]
+
+[Seal: Hara]
+　Benchmark 《Bearing: N54°E / Elevation angle: 2°20'》 — Line of sight to: Saku District, Tateshina-dake Peak
+[Seal: Misawa]
+
+[Seal: Hara]
+　Benchmark 《Bearing: N69°45'W / Elevation angle: 10°》 — Line of sight to: Ina, ■ga-sawa Mountain Peak
+[Seal: Misawa]
+
+[Seal: Hara]
+　Communal Mountain Boundary, No. 1 — Meiji Year 11 (1878), May
+[Seal: Misawa]
+
+　　The benchmark post is to be erected with its four faces
+　　oriented so that the face bearing the date faces toward the
+　　main thoroughfare.
+
+
+[Left Folio]
+　Nodayama Entrance
+　　　　　Benchmark　　Eye height: 4 shaku 6 sun (approx. 139 cm)
+
+[Seal: Hara]
+　　Ina District　　Shirakuzure-dake　《Bearing: approx. E by N (7/10 past Uto, i.e., ENE) / Elevation angle: 1°10'》
+[Seal: Misawa]
+[Seal: Hara]
+　　Saku District　　Tateshina-dake　《Bearing: approx. NNE (8/10 past Ushi, i.e., NNE) / Elevation angle: 0°50', from approx. 6 ri》
+[Seal: Misawa]
+[Seal: Hara]
+　　Ina District　　■ga-sawa Peak　《Bearing: approx. WSW (6.5/10 past Nishi, i.e., WSW) / Elevation angle: 3°20'》
+[Seal: Misawa]
+
+The bearings from the above survey by Mr. Kawachi Nesaku and Iwasaki Hakushū are in agreement. The method of measuring bearings using the unit of 12 jō is not found in current surveying practice, and therefore government officials revised the notation to the style as written on the benchmark — namely "degrees east of south" and "degrees east of north." Regarding the elevation angles as well, there was a notice sent to Ueda indicating that in Hakushū's surveying method, 1 degree of elevation (ten) is equivalent to 3 degrees in the standard method; accordingly, Kawachi corrected all of these in accordance with the benchmark records.
+　　Line-of-sight (estimated) distances: Shirakuzure — just under 5 ri; Tateshina — just over 11 ri; ■ga-sawa Ridge — just under 1 ri.
+The above line-of-sight distances were estimated by Hakushū and have not been formally submitted as an official report.

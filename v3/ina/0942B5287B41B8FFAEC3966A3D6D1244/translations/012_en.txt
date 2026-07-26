@@ -1,0 +1,31 @@
+[Right Folio]
+[Seals: Hara / Misawa]　　　　　　　　　　4 bu 3 rin 6
+[Row 9] (No. 11): 《Bearing: Mi 4.5/10　13 minutes 5 / Elevation angle: 9 degrees》 — Distance: 21 ken 5 shaku
+
+[Seals: Hara / Misawa]　　　　　　　　　　4 bu 5 rin 6
+[Row 10] (No. 11): 《Bearing: Te 5.6/10　16 minutes 8 / Elevation angle: 8 degrees》 — Distance: 22 ken 5 shaku
+
+[Seal: Hara (only)]　　　　　　　　　　　 7 bu 3 rin 3
+[Row 11] (No. 14): 《Bearing: Te 1.5/10　4 minutes 5 / Elevation angle: just under 8 degrees》 — Distance: 36 ken 4 shaku
+
+[Seals: Hara / Misawa]　　　　　　　　　　4 bu 2 rin
+[Row 12] (No. 15): 《Bearing: Hitsuji 6.5/10　19 minutes 5 / Elevation angle: 6.5 degrees》 — Distance: 21 ken
+
+　　Defendant [Seals: Hara / Misawa]　　3 bu 7 rin 6
+　　　　　　　《Bearing: W 1.5/10 (Tori)　4 minutes 5 rin / Elevation angle: 2.5 degrees》 — Distance: 13 ken 4 shaku 8 sun
+
+[Left Folio]
+　　Defendant [Seals: Hara / Misawa]　　4 bu 7 rin 6
+　　　　　　　《Bearing: Kinoe 8/10　24 minutes / Elevation angle: 3 degrees》 — Distance: 23 ken 5 shaku
+
+　　His (other party's) [Seals: Hara / Misawa]　　3 bu 4 rin 3
+　　　　　　　《Bearing: Hitsuji 9.5/10　28.5 minutes / Elevation angle: (corrected: just over 0 degrees 5 minutes → just over 0.5 degrees)》 — Distance: 17 ken 1 shaku
+
+　　　　　　[Seals: Hara / Misawa]　　　　　　　　　　6 bu 5 rin 3
+　　His (other party's) 《Bearing: Ushi 6/10　18 minutes / Elevation angle: 1 degree》 — Distance: 8 ken 5 shaku
+
+　　　　　　[Seals: Hara / Misawa]　　3 bu 8 rin 1
+　　His (other party's) 《Bearing: Mi 6.5/10　19.5 minutes / Elevation angle: 2 degrees》 — Distance: 19 ken 0 shaku 5 sun
+
+　　[Seals: Hara / Misawa]
+From Marker 《No. 20 / No. 13》: 《Bearing: Tora 9/10　27 minutes / Depression angle: just over 9 degrees》 — Distance: 60 ken

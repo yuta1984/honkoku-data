@@ -1,0 +1,17 @@
+(Continued from previous page) ...should both be perfectly round (fully illuminated). Why, then, does the Moon wax gradually after the new moon, and wane gradually after the full moon, so that at the first and last quarter, the waxing and waning are each exactly half? One might suspect that the Moon is a living thing, capable of emitting light on its own, and thus inherently able to darken and fill, diminish and grow.
+
+Answer: The celestial bodies are like glass (玻璃). The Moon and the stars are solid, condensed, spherical objects within that glass. A spherical body that is solid and condensed cannot transmit light through itself. The fire of the Sun fills the entire heavens. Those celestial bodies that transmit light directly cannot emit light themselves. Those that are solid and condensed, like the stars and the Moon, reflect the Sun's light and shine by returning it. Therefore, when the Sun's light reaches and illuminates the body (of the Moon), it is bright; when it does not reach it, it is dark. If the Moon had light of its own, whether it were near or far from the Sun, its light would be constantly uniform, and it would absolutely never diminish or grow.
+
+On the day of the new moon (朔), the Sun and Moon are at the same degree, and the Moon is positioned directly below (in front of) the Sun. The Sun's light illuminates the upward-facing side of the Moon but does not illuminate its downward-facing side. People on the Earth can only see the lower face that has no light; they cannot see the upper face that has light. Therefore, on the day of the new moon, the Moon appears to have absolutely no light.
+
+After the new moon passes, the Moon moves eastward and gradually separates from the Sun, while the Sun remains in the west and the Moon's light gradually waxes. When it is ninety degrees from the Sun, the Sun illuminates the lower lateral half of the Moon, and people on the Earth can only see that lower lateral half-face. This is called the first quarter (上弦, "upper string").
+
+When the Moon is one hundred and eighty degrees from the Sun, the Sun and Moon directly face each other, and the spherical body of the Moon receives the Sun's light in full. This is the full moon (望).
+
+After the full moon passes, although the Moon continues to move eastward, this means it is gradually receding and lies to the west, while the Sun is now to the east. The Moon's light gradually wanes. When it is ninety degrees from the Sun, the Sun illuminates the upper lateral half of the Moon. This is called the last quarter (下弦, "lower string"). After the last quarter, the Moon's light gradually diminishes until it reaches a state of no light. This is called the last day of the lunar month (晦).
+
+---
+
+　　Qi Ying (氣盈), Shuo Xu (朔虛), and Intercalary Remainder (閏余)
+
+　Question: The solar periods (気) already follow the seasonal nodes (節) in succession—why, then, is there a surplus (盈)? The new moon (朔) has a fixed number—why, then, is there a deficit (虚)? Furthermore, it is because of this surplus and deficit that intercalary months (閏) are later inserted. If surplus and deficit were not established, would it then be unnecessary to insert intercalary months at all?

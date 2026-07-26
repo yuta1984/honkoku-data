@@ -41,7 +41,7 @@ filename	status	image
 040.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00039.tif/full/full/0/default.jpg
 041.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00040.tif/full/full/0/default.jpg
 042.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00041.tif/full/full/0/default.jpg
-043.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00042.tif/full/full/0/default.jpg
+043.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00042.tif/full/full/0/default.jpg
 044.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00043.tif/full/full/0/default.jpg
 045.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00044.tif/full/full/0/default.jpg
 046.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00045.tif/full/full/0/default.jpg
@@ -76,10 +76,10 @@ filename	status	image
 075.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00074.tif/full/full/0/default.jpg
 076.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00075.tif/full/full/0/default.jpg
 077.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00076.tif/full/full/0/default.jpg
-078.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00077.tif/full/full/0/default.jpg
-079.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00078.tif/full/full/0/default.jpg
-080.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00079.tif/full/full/0/default.jpg
-081.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00080.tif/full/full/0/default.jpg
-082.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00081.tif/full/full/0/default.jpg
+078.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00077.tif/full/full/0/default.jpg
+079.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00078.tif/full/full/0/default.jpg
+080.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00079.tif/full/full/0/default.jpg
+081.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00080.tif/full/full/0/default.jpg
+082.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00081.tif/full/full/0/default.jpg
 083.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00082.tif/full/full/0/default.jpg
 084.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100269581/v4/KYOT/KYOT-02836/KYOT-02836-00083.tif/full/full/0/default.jpg

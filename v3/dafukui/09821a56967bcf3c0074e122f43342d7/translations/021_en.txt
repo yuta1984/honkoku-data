@@ -1,38 +1,43 @@
-**(Continued from previous page: Notice Regarding Express Messengers)**
+**(Continued from the previous page's Memorandum)**
 
-- Regarding packages and letters for those on garrison duty (rusuiyaku) in Edo: these shall be kept as light and compact as possible. If letters and packages are left undelivered or pile up, it will cause inconvenience and delay in each person's affairs.
+- Regarding the luggage and letters of those remaining in Edo (while their lords are in the home domain): these shall be made as light and compact as possible. After all, if letters are left behind, it will cause inconvenience to each person's affairs.
 
-- For those on permanent Edo assignment (jōfu) and their relatives, as well as those receiving payments related to stipend estimates (gigi-saku), unavoidable business matters and correspondence with other locations are exceptional (and thus exempt). However, for all other matters — New Year's greetings, announcements of fixed matters, auspicious and inauspicious events, and petitions to one's supervisors — ordinary and routine correspondence is absolutely prohibited.
+- For those permanently stationed in Edo (jōfu) and their relatives, as well as those receiving stipend rice allotments (gigi-saku) and the like: unavoidable business matters and correspondence with other places shall be treated as exceptions. Outside of these exceptions, ordinary correspondence—whether for New Year's greetings, summer or winter salutations, matters of celebration or condolence, or petitions to one's superiors—shall absolutely not be conducted.
 
-The above has been communicated previously, but as compliance has become lax and disorderly, this notice is hereby reissued; there must be no misunderstanding.
+The above points have been repeatedly communicated previously, but as discipline has slackened and things have become disorderly, this notice is hereby issued anew. Ensure there are no misunderstandings.
 
-　　　　〆 (End of notice)
+〆 [End of Memorandum]
 
 ---
 
 **Tenmei 1st Year (1781), Year of the Ox**
 
-On the 3rd day of the 6th month, Hashiba Oribu communicated the following: Regarding pilgrimages to the ancestral temples in Edo and the matter of proxy worship (omyōdai), in the same manner as practiced in the home domain, it has henceforth been decreed that visits be made to both temples (Zōjō-ji and Tentoku-ji). The following separate written notice was accordingly handed over:
+On the 3rd day of the 6th month, the following was communicated by Inaba Oribu: Regarding temple visits (go-sankei) and the sending of proxy representatives (go-naidai) in Edo, it was decreed that—as in the home domain (Fukui)—henceforth the same shall apply to both temples in Edo. The separate written document was handed over as follows:
 
-**(List of Pilgrimages and Proxy Worship in Edo)**
+**Monthly Visits**
 
-| Posthumous Title | Timing | Temple(s) |
-|------|----------|------|
-| Jōkō-in | Every month | Zōjō-ji / Tentoku-ji |
-| *(When the above pilgrimage is postponed, the senior councillors [karō] shall serve as proxy)* | | |
-| Ryūhō-in | Memorial day / 1st, 5th, 9th months | Zōjō-ji / Tentoku-ji |
-| Tangen-in | Memorial day / 1st, 5th, 9th months | Nansen-ji / Tentoku-ji |
-| Seijō-in | Memorial day / 1st, 5th, 9th months | Reigan-ji / Tentoku-ji |
-| *(When the above pilgrimage is postponed, the senior councillors [karō] shall serve as proxy)* | | |
-| Ōbai-in | Memorial day / 1st, 5th, 9th months | Tentoku-ji |
-| Keiju-in | Memorial day / 1st, 5th, 9th months | Dentsu-in / Tentoku-ji |
-| Shōkei-in | Memorial day / 1st, 5th, 9th months | Nansen-ji / Tentoku-ji |
-| Seishō-in | Memorial day / 1st, 5th, 9th months | Reigan-ji / Tentoku-ji |
-| Chōshō-in | Memorial day / 1st, 5th, 9th months | Tentoku-ji |
-| Seiryō-in | Memorial day / 1st, 5th, 9th months | Tenryū-ji / Tentoku-ji |
-| Kōshō-in | Memorial day / 1st, 5th, 9th months | Nansen-ji / Tentoku-ji |
-| Chikō-in | Memorial day / 1st, 5th, 9th months | Shōhō-ji / Tentoku-ji |
+| Posthumous Title | Temple(s) |
+|------|------|
+| Jōkō-in | Zōjō-ji / Tentoku-ji |
 
-The above proxy worship (for all those listed through to Chikō-in) shall be performed by the middle councillors (chūrō).
+→ The above shall be visited in person. However, when visits are postponed, the senior councillors (o-karō-chū) shall act as proxy representatives.
 
-However, as communicated to the senior councillors: we (the goyōnin, senior administrators) had previously, in the home domain, attended both temples with one colleague each, but in Edo we have been instructed to attend alone and perform our duties directly. Furthermore, the foot inspectors (okachi-metsuke) have also been instructed to do the same — this was communicated to Lord Okabe Sazen, who replied that matters should proceed accordingly.
+**Memorial Days and 1st, 5th, and 9th Month Visits**
+
+| Posthumous Title | Temple(s) |
+|------|------|
+| Ryūhō-in | Zōjō-ji / Tentoku-ji |
+| Tangen-in | Nansen-ji / Tentoku-ji |
+| Seijō-in | Reigan-ji / Tentoku-ji |
+| Ōbai-in | Tentoku-ji |
+| Keiju-in | Dentsu-in / Tentoku-ji |
+| Shōkei-in | Nansen-ji / Tentoku-ji |
+| Seishō-in | Reigan-ji / Tentoku-ji |
+| Chōshō-in | Tentoku-ji |
+| Seiryō-in | Tenryū-ji / Tentoku-ji |
+| Kōshō-in | Nansen-ji / Tentoku-ji |
+| Chikō-in | Shōhō-ji / Tentoku-ji |
+
+→ The above proxy pilgrimages (go-daihai) shall be performed by the middle councillors (chūrō).
+
+However, the following was communicated to the senior councillors: "In the home domain (Fukui), we [the middle councillors] each stationed one colleague per temple at both temples; however, here in Edo, each person shall perform the duty directly and alone. Furthermore, it was communicated to Lord Okabe Sazen that the foot inspectors (okachi-metsuke) should similarly be instructed, and we were informed that they should carry out their duties accordingly."

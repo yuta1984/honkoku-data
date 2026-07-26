@@ -180,8 +180,8 @@ filename	status	image
 179.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000179/full/full/0/default.jpg
 180.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000180/full/full/0/default.jpg
 181.txt	initiated	https://dl.ndl.go.jp/api/iiif/2541509/R0000181/full/full/0/default.jpg
-182.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000182/full/full/0/default.jpg
-183.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000183/full/full/0/default.jpg
+182.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000182/full/full/0/default.jpg
+183.txt	completed	https://dl.ndl.go.jp/api/iiif/2541509/R0000183/full/full/0/default.jpg
 184.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000184/full/full/0/default.jpg
 185.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000185/full/full/0/default.jpg
 186.txt	default	https://dl.ndl.go.jp/api/iiif/2541509/R0000186/full/full/0/default.jpg

@@ -1,0 +1,29 @@
+[Interlinear note: (The Pole Star) is at the precise centre of the zenith. If one continues further, it again gradually descends from the centre. There is no principle by which the North Pole could pass to the south of (the observer) or the South Pole could pass to the north. This is because the Earth is spherical.]
+
+If one wishes to measure east and west, one must first fix upon a single location to serve as the starting point of the boundary.
+
+[Interlinear note: If one is located at a certain place, then that place is taken as the starting point.]
+
+Only then can measurement proceed. If there were no method of measurement, the seasons of cold and heat would have no fixed reference, and east and west could not be distinguished.
+
+---
+
+**The Ecliptic and the Equator (Kōsekidō)**
+
+*Question:* The celestial body (Heaven) has no boundary and is difficult to measure with instruments. The Sun, Moon, and Five Planets have visible forms and can be calculated by astronomical reckoning. The two circles—the ecliptic and the equator—have no shadow or visible form whatsoever. To what, then, do they point when these names are given?
+
+*Answer:* The equator is that which divides the celestial sphere equally into north and south, being equidistant from both the north and south celestial poles, lying along the boundary of the exact midpoint, and tracing a single fine path called the "equator" (Sekidō).
+
+[Interlinear note: Master Zhu Xi said: "The celestial sphere resembles a round box. The equator is the single line at the seam where the two halves of the box meet together."]
+
+It extends across the middle of the sky and has not changed since ancient times. All those who perform astronomical calculations rely upon it entirely as their standard.
+
+Li Zhenzhi (Ri Shinshi) said: This circle is divided into 360 degrees, distributed among the twelve chronological divisions (jūni-shin), and marked off into 96 temporal intervals (刻, koku).
+
+[Interlinear note: Calculated on the basis of eight koku per (double-)hour; fractional remainders are not listed.]
+
+It has seven uses. First, to measure the motion of the heavens completing one revolution per day. Second, to determine the duration—longer or shorter—of the divisions of day and night. Third, to equalise the range of the ecliptic's excursion north and south. Fourth, to delimit the gnomon shadows at the spring and autumn equinoxes. Fifth, to distinguish the north and south of the celestial path. Sixth, to establish the calculation of north-south latitudes. Seventh, to record the spherical extent of the lands of the world.
+
+The ecliptic (Kōdō) is established in accordance with the path traced by the Sun in its annual revolution, and serves to record the courses traversed by the Moon and the Five Planets. In essence, the orbital track followed by the Sun as it traverses the heavens over the course of one year revolves and forms a circle, which is called the "ecliptic" (Kōdō, literally "Yellow Path").
+
+This path is inclined and wraps around the equator, as though two rings were laid one upon the other. Half of it extends to the south of the equator; its southernmost boundary, approximately twenty-three and a half degrees of latitude, is designated the winter solstice. Half extends to the north of the equator; its northernmost boundary, approximately twenty-three and a half degrees of latitude, is designated the summer solstice. The points where the two circles intersect are the spring and autumn equinoxes. Dividing the whole into four equal parts yields four quadrants, each measuring ninety degrees. These are precisely the two equinoxes and…

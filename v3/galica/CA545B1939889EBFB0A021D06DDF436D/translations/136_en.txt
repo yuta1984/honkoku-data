@@ -1,13 +1,12 @@
-The Thirteen Buddhas
+## The Thirteen Buddhas (Jūsan Butsu)
 
-1. Fudō Myōō (Acalanātha) - First Seven Days Memorial Buddha
+| Number | Deity | Memorial Service Day | Notes |
+|--------|-------|----------------------|-------|
+| 1 | Acalanātha (Fudō Myōō) | 7th day | First Memorial Deity |
+| 2 | Śākyamuni (Shaka Nyorai) | 14th day | |
+| 3 | Mañjuśrī (Monju Bosatsu) | 21st day | |
+| 4 | Samantabhadra (Fugen Bosatsu) | 28th day | |
+| 5 | Kṣitigarbha (Jizō Bosatsu) | 35th day | |
+| 6 | Maitreya (Miroku Bosatsu) | 42nd day | |
 
-2. Shaka Nyorai (Śākyamuni Buddha) - Second Seven Days
-
-3. Monju Bosatsu (Mañjuśrī Bodhisattva) - Third Seven Days
-
-4. Fugen Bosatsu (Samantabhadra Bodhisattva) - Fourth Seven Days
-
-5. Jizō Bosatsu (Kṣitigarbha Bodhisattva) - Fifth Seven Days
-
-6. Miroku Bosatsu (Maitreya Bodhisattva) - Sixth Seven Days
+*(Page continues with remaining seven deities on the following page)*

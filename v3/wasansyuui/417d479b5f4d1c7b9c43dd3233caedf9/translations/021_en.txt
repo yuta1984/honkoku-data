@@ -1,0 +1,19 @@
+**From here, matters concerning the exchange of gold, silver, and coins are recorded. As this is something many people frequently need, it is presented in detail as a list of items.**
+
+▲When the exchange rate for 1 kanmon of coins is 12 monme 5 fun of silver, how many mon of coins can one monme of silver buy?
+　　　Answer: 76 mon 8 fun
+
+　　　[Method] Place 960 mon, then divide by the exchange rate of 12 monme 5 fun.
+
+▲When 1 monme of silver exchanges for 76 mon 8 fun, what is the silver value of 1 kanmon of coins?
+　　　Answer: 12 monme 5 fun
+
+　　　[Method] Place 960 mon, then divide by 76 mon 8 fun to find the answer.
+
+▲When there are 8 kan 748 mon of coins and the exchange rate is 13 monme 8 fun, how much silver is this worth?
+　　　Answer: 120 monme 7 fun 5 rin of silver
+
+　　　[Method] Place 8 kan 748 mon; divide the portion below 100 mon by 96, then multiply by 13 monme 8 fun to find the answer.
+
+▲When there is 120 monme 7 fun 5 rin of silver and the exchange rate is 13 monme 8 fun, how many coins does this equal?
+　　　Answer: 8 kan 748 mon

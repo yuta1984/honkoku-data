@@ -1,0 +1,24 @@
+○Method: When dividing silver amounts by the exchange rate, multiply by 0.96 below the hundred.
+
+▲When receiving 75 momme of silver in exchange for 5 kan 312 mon of copper cash, how many mon per momme of silver is this?
+　　Answer: 68 mon
+
+○Method: Set down 5 kan 312 mon, multiply by 0.96 above the hundred, then divide by 75 momme.
+
+▲When there are 5 kan 312 mon of copper cash and one pays 68 mon per momme of silver, how much silver is the equivalent?
+　　Answer: 75 momme
+
+○Method: Set down 5 kan 312 mon, multiply by 0.96 above the hundred, then divide by 68 mon.
+
+▲When receiving copper cash in exchange for 75 momme of silver, calculated at 68 mon per momme, how much is it?
+　　Answer: 5 kan 312 mon
+
+○Method: Multiply 75 momme by 68 mon, then divide from the first digit to the hundred by 0.96.
+
+▲For 85 ryō 3 bu of gold at an exchange rate of 59 momme per ryō, how much silver is the equivalent?
+　　Answer: 5 kan 59 momme 2 bu 5 rin
+
+○Method: Set down 85 ryō 3 bu, divide the amount below ryō by 4, then multiply by the exchange rate of 59 momme to find the answer.
+
+▲For 5 kan 59 momme 2 bu 5 rin of silver at an exchange rate of 59 momme [per ryō], what is the equivalent in gold?
+　　Answer: 85 ryō 3 bu
