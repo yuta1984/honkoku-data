@@ -1,0 +1,32 @@
+**Answer:** 91 mon 4 bu
+
+**Method:** Multiply 10 monme 5 bu by the factor (inbō) 9. Subtract from within the product (jitsu) of 185 monme 9 bu.
+
+---
+
+*(From 8 monme 4 bu to 8 monme 8 bu)*
+Factor: 13　　　Product: 227 monme 4 bu
+
+*(From 8 monme 8 bu 5 rin to 9 monme 1 bu 5 rin)*
+Factor: 12　　　Product: 218 monme 6 bu
+
+*(From 9 monme 2 bu to 9 monme 4 bu)*
+Factor: 11　　　Product: 209 monme 5 bu
+
+*(From 9 monme 4 bu 5 rin to 10 monme)*
+Factor: none　　Product: 20 monme
+
+*(From 10 monme 1 bu to 10 monme 5 bu)*
+Factor: 9　　　　Product: 185 monme 9 bu
+
+*(From 10 monme 6 bu to 11 monme 5 bu)*
+Factor: 8　　　　Product: 175 monme 3 bu
+
+*(From 11 monme 6 bu to 11 monme 9 bu)*
+Factor: 7　　　　Product: 163 monme 9 bu
+
+*(From 12 monme to 12 monme 2 bu)*
+Factor: 7　　　　Product: 164 monme
+
+*(From 12 monme 3 bu to 12 monme 6 bu)*
+Factor: 6　　　　Product: 151 monme 8 bu

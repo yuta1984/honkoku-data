@@ -1,27 +1,27 @@
-**Method:** Set down 384 mon. Subtract the internal copper coin deduction *(interlinear note: 3/4)* of 12 mon, leaving 372 mon. Divide by 95 mon to get 3 monme 9 fun. The fractional remainder is 1.5 mon. ○ This demonstrates that a small amount of copper coin may remain after converting to silver.
+Method: Set down 384 mon. Subtract the "uchime-zeni" (interior deduction coins) of 3/4, which is 12 mon, leaving 372 mon. Divide by 95 mon to get 3 monme 9 bu. The fractional remainder is 1 mon 5 bu. ○ This demonstrates a case where there is a remainder in coins after calculating the silver amount.
 
 ---
 
-## [Section 5] Calculations for Exchanging Copper Coins into Gold
+## [Section 5] Calculation for Converting Coins (Zeni) to Gold
 
-There are 25 kan 200 mon in copper coins. At a rate of 6 kan 300 mon per ryō, how much gold is the equivalent? (Exchange rate: 60 monme.)
+**Problem:** There are 25 kan 200 mon in coins. At an exchange rate of 6 kan 300 mon per ryō, what is the equivalent in gold? (Market rate: 60 monme)
 
-　　**Answer:** 4 ryō
+**Answer: 4 ryō**
 
-　**Method:** Set down the total copper coin amount and divide by 6 kan 300 mon.
-
----
-
-There are 31 kan 224 mon in copper coins. At a rate of 4 kan 876 mon per ryō, how much gold is the equivalent? (Gold exchange rate: 60 monme.)
-
-　　**Answer:** 6 ryō, 1 bu — with a remainder of 9 monme 1 fun ○ 8 mō in silver
-
-　**Method:** Set down 31 kan 224 mon. Multiply the portion above 100 mon by 0.96, yielding 29 kan 986 mon *(interlinear note: 700-something)*. Use this as the dividend (実, *jitsu*). Separately, set down 4 kan 876 mon, and likewise multiply the portion above 100 mon by 0.96, giving 4 kan 684 mon. Use this as the divisor to divide the dividend. From the result, subtract 6 ryō 0.25 (i.e., 6 ryō 1 bu), then multiply the remainder by 60 monme.
+Method: Set down the coin amount and divide by 6 kan 300 mon.
 
 ---
 
-## [Section 6] Calculations for Exchanging Gold into Copper Coins
+**Problem:** There are 31 kan 234 mon in coins. At an exchange rate of 4 kan 876 mon per ryō, what is the equivalent in gold? (Gold market rate: 60 monme)
 
-There are 5 ryō of gold. At a rate of 4 kan 870 mon per ryō, how much in copper coins is the equivalent?
+**Answer: 6 ryō 1 bu, with a remainder of 9 monme 1 bu ○ 8 mō in silver**
 
-　　**Answer:** 24 kan 362 mon (and 5 fun)
+Method: Set down 31 kan 234 mon in coins. Multiply the portion of 100 mon and above by 0.96, yielding 29 kan 986 mon (700 mon). Use this as the dividend (jitsu). Separately, set down 4 kan 876 mon and likewise multiply the portion of 100 mon and above by 0.96, yielding 4 kan 684 mon. Use this as the divisor to divide the dividend. From the result, subtract 6.25 ryō (representing 6 ryō 1 bu), then multiply the remainder by 60 monme.
+
+---
+
+## [Section 6] Calculation for Converting Gold to Coins (Zeni)
+
+**Problem:** There are 5 ryō of gold. At an exchange rate of 4 kan 870 mon per ryō, what is the equivalent in coins?
+
+**Answer: 24 kan 362 mon** *(continued on next page)*

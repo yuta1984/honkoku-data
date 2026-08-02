@@ -1,37 +1,37 @@
-(Continued from previous page) …divide.
+**(Continuation of Section 7: Calculating the Coin Exchange Rate from a Coin Transaction)**
+
+…divide 60 monme (by the above figure).
 
 ---
 
-## [Section 8] Calculations for Determining the Gold Exchange Rate When Receiving Silver
+## [Section 8] Calculation for Determining the Gold Exchange Rate from a Silver Transaction
 
-When 3 kan 363 monme of silver is received in exchange for 57 ryō of gold, find the gold exchange rate.
+**Problem:** When 3 kan 363 monme of silver is received in exchange for 57 ryō of gold, what is the exchange rate for gold?
 
-　　**Answer:** Gold exchange rate: 59 monme
+**Answer: Gold exchange rate = 59 monme**
 
-　**Method:** Divide 3 kan 363 monme of silver by 57 ryō of gold.
-
----
-
-## [Section 9] Calculations for Determining the Gold Exchange Rate When Receiving Gold
-
-When 58 ryō 1 bu of gold plus a surplus of 5 monme of silver is received in exchange for 3 kan 500 monme of silver, find the gold exchange rate.
-
-　　**Answer:** Gold exchange rate: 60 monme
-
-　**Method:** Set down 3 kan 500 monme. From this, subtract the surplus silver of 5 monme, leaving 3 kan 495 monme. Divide this by 58.25 ryō (i.e., 58 ryō 1 bu expressed decimally).
+Method: Divide 3 kan 363 monme of silver by 57 ryō of gold.
 
 ---
 
-When 17 ryō 2 bu of gold and 6 monme of silver is received in exchange for 1 kan 52 monme 5 fun of silver, find the gold exchange rate.
+## [Section 9] Calculation for Determining the Gold Exchange Rate from a Gold Transaction
 
-　　**Answer:** Gold exchange rate: 59 monme 8 fun
+**Problem:** When, in exchange for 3 kan 500 monme of silver, one receives 58 ryō 1 bu of gold plus a remainder of 5 monme of silver, what is the exchange rate for gold?
 
-　**Method:** Set down 1 kan 52 monme 5 fun of silver. From this, subtract 6 monme, leaving 1 kan 46 monme 5 fun. Divide this by 17.5 ryō (i.e., 17 ryō 2 bu expressed decimally).
+**Answer: Gold exchange rate = 60 monme**
+
+Method: Set down 3 kan 500 monme. Subtract the remainder silver of 5 monme from this, leaving 3 kan 495 monme. Divide this by 58.25 ryō (i.e., 58 ryō 1 bu = 58.25 ryō).
 
 ---
 
-## [Section 10] Calculations Involving *Nishu-gin* (Two-*shu* Silver Coins)
+**Problem:** When, in exchange for 1 kan 52 monme 5 bu of silver, one receives 17 ryō 2 bu of gold plus 6 monme of silver, what is the exchange rate for gold?
 
-Eight *nishu-gin* coins are equivalent to one gold *koban* (小判). Therefore, setting down one *koban* as 1 and dividing by 8 gives 0.125. Based on this, the *nishu-gin*…
+**Answer: Gold exchange rate = 59 monme 8 bu**
 
-(Continues on the next page)
+Method: Set down 1 kan 52 monme 5 bu of silver. Subtract 6 monme from this, leaving 1 kan 46 monme 5 bu. Divide this by 17.5 ryō (i.e., 17 ryō 2 bu = 17.5 ryō).
+
+---
+
+## [Section 10] Calculation Involving Ni-shu Silver Coins
+
+Eight pieces (tsun) of ni-shu silver are equivalent to one koban (small gold coin of 1 ryō). Therefore, set down 1 ryō and divide by 8 to obtain 1.25 (monme). By this, ni-shu silver… (continues on next page)

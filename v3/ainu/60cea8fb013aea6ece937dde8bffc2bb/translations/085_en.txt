@@ -1,0 +1,13 @@
+## (Right folio — main text)
+
+…I believe this (the lack of familiarity with astronomy and mathematical reckoning) is due to neglect of these fields. The north polar altitude (*hokkyoku shutsuchi*, i.e., latitude) of Edo is slightly more than 35.5 degrees, while that of Matsumae is 42 degrees. The difference between them is 6.5 degrees. Following the theory set forth in the world atlas (*Yochizu*) and multiplying 32 *ri* (per degree) by 6.5, one obtains 208 *ri*. However, the figure recorded in the *Bukan* (the official directory of feudal lords) is 300 *ri*, and so this (world atlas) figure is inconsistent with that record. According to Shimaya's theory, the distance works out to 284-odd *ri*, which is roughly in accord with the figure given in the *Bukan*. Now, the Dutch take five poles (*sao*) per *rin* (rope unit) as one *ri*, assigning 24 such *ri* to one degree of the earth's north-south latitude. One Dutch pole, when measured in Japanese *kanejaku* (carpenter's square measure), amounts to exactly 1 *jō* and 2 *sun*. Converted into Japanese units of distance, one degree of latitude thus equals 28 *ri* and 12 *chō*.
+
+## (Left folio — main text)
+
+Furthermore, the Russians call their unit of length a "Arshin" (*arushin*). This is equivalent to 2 *shaku* and 4 *sun* in Japanese measure. Three "Arshin" combined equal 7 *shaku* and 2 *sun*, and this is established as the length of one pole (*sao*). The pole is an instrument for measuring land, while the *shaku* is an instrument for measuring cloth — in this respect there is no difference from our own country. One pole is called a "Sazen" (*sasen*). Five hundred "Sazen" equal ten *chō* in Japanese measure. This unit is called a "Versta" (*uerusuta*). One hundred and five "Versta" are taken as one degree of the earth's latitude. Converted into Japanese measure, this equals 29 *ri* and 6 *chō*.
+
+〔Summary comparison of the various theories〕
+
+Under Shimaya's theory, one degree equals 43 *ri*, 7 *bu*, and 5 *rin*; multiplied by 6.5 degrees, this yields 284 *ri*, 3 *bu*, 7 *rin*, and 5 *mō*. Under the Dutch calculation, one degree equals 28 *ri* and 11–12 *chō*; multiplied by 6.5, this yields 184 *ri*…
+
+*(The passage continues.)*

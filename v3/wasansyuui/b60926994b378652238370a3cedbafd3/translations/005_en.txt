@@ -1,0 +1,19 @@
+## Table of Contents for "Sanpō Dōji Mondō" — End
+
+---
+
+## Sanpō Dōji Mondō, Volume One (First Volume)
+### Section: Commerce (Shōko)
+
+**[Problem 1] Quick Calculation Methods for Money Exchange (Zeni-wari Hayasan-yō)**
+*(For exchange rates from 8 monme 4 bu to 12 monme 6 bu, calculated to the bu digit)*
+
+**Problem:** When the exchange rate for copper coin (*zeni*) is 9 monme 4 bu 5 rin, how many *mon* of copper coin can one obtain per 1 monme of silver?
+
+**Answer:** 105 *mon* 5 *bu*
+
+**Method:** Set the base value (*jitsu*) at 20 monme, then subtract the current exchange rate of 9 monme 4 bu 5 rin from it, and the answer follows directly.
+
+> The above method applies when the exchange rate is between 9 monme 4 bu 5 rin and 10 monme. When the rate exceeds 10 monme, multiply by the corresponding factor (*inhō*) for the given rate, then subtract that amount from the base value (*jitsu*) of the given rate, and the answer follows directly.
+
+**Example Problem:** When the exchange rate for copper coin is 10 monme 5 bu, how many *mon* of copper coin can one obtain per 1 monme of silver?

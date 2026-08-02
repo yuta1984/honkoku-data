@@ -1,27 +1,29 @@
-**Method:** Set down 4 kan 870 mon. Take only the portion above 100 mon — that is, 4 kan 800 mon — and apply the 0.96 reduction, then add the remaining fraction of 62 mon, giving 4 kan 678 mon. Multiply this by 5 ryō to get 23 kan 390 mon *(interlinear note: this is the "chō-hyaku" / long hundred)*. Divide this by 96/16 (i.e., 0.96 ÷ 16) to obtain 96-hyaku (960), and the answer is thus known.
+**(Continuation of Section 6: Calculation for Converting Gold to Coins)**
+
+Method: Set down 4 kan 870 mon. Apply the 0.96 multiplier only to the portion of 100 mon and above — that is, 4 kan 800 mon — then add the fractional remainder of 62 mon, yielding 4 kan 678 mon. Multiply this by 5 ryō to obtain 23 kan 390 mon (this is the "long hundred" amount). Divide this by 0.96 (i.e., 960 mon) to obtain the answer.
 
 ---
 
-There are 13 ryō 2 bu of gold. At a rate of 4 kan 900 mon per ryō, how much in copper coins is the equivalent?
+**Problem:** There are 13 ryō 2 bu of gold. At an exchange rate of 4 kan 900 mon per ryō, what is the equivalent in coins?
 
-　　**Answer:** 66 kan 150 mon
+**Answer: 66 kan 150 mon**
 
-　**Method:** Set down 13 ryō 2 bu as 13.5 ryō, and multiply by 4 kan 900 mon to get 66 kan 150 mon.
-
----
-
-## [Section 7] Calculations for Determining the Exchange Rate When Receiving Copper Coins
-
-When 9 kan 824 mon in copper coins is received in exchange for silver worth 117 monme 9 fun, find the remaining exchange rate.
-
-　　**Answer:** Exchange rate: 12 monme
-
-　**Method:** Set down 9 kan 824 mon. To the fractional amount of just 24 mon, add 1 mon as the *mesen* (目銭, internal deduction fee) calculated at the 0.96 rate, making it 9 kan 825 mon. Use this as the divisor (法, *hō*), and divide into the silver amount of 117 monme 9 fun.
+Method: Set down 13.5 ryō (13 ryō 2 bu = 13.5 ryō) and multiply by 4 kan 900 mon to obtain 66 kan 150 mon.
 
 ---
 
-When 6 kan 248 mon in copper coins is received in exchange for 60 monme of silver, find the copper coin exchange rate.
+## [Section 7] Calculation for Determining the Coin Exchange Rate from a Coin Transaction
 
-　　**Answer:** Exchange rate: 9 monme 6 fun
+**Problem:** When 9 kan 824 mon in coins is received in exchange for 117 monme 9 bu of silver, what is the remaining exchange rate (i.e., how many monme of silver per kan of coins)?
 
-　**Method:** Set down 6 kan 248 mon. To the fractional amount of 48 mon, add 2 mon as the *mesen*, making 6 kan 250 mon. Use this as the divisor, and divide into 60 monme…
+**Answer: Exchange rate = 12 monme**
+
+Method: Set down 9 kan 824 mon. Add the uchime-sen (handling deduction) of 1 mon — applied only to the fractional amount of 24 mon at the 0.96 rate — to obtain 9 kan 825 mon. Use this as the divisor to divide the silver amount of 117 monme 9 bu.
+
+---
+
+**Problem:** When 6 kan 248 mon in coins is received in exchange for 60 monme of silver, what is the coin exchange rate?
+
+**Answer: Exchange rate = 9 monme 6 bu**
+
+Method: Set down 6 kan 248 mon. Add 2 mon of uchime-sen (handling deduction) applied only to the 48 mon fractional portion, yielding 6 kan 250 mon. Use this as the divisor to divide 60 monme… (continues on next page)

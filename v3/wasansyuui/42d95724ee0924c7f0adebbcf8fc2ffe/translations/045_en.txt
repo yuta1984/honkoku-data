@@ -1,0 +1,52 @@
+**Answer: 1 koku, 2 to, 5 shō of rice**
+
+Method: Divide the rice (35 koku) by the payment (28 ryō) to obtain the amount of rice per 1 ryō of gold.
+
+---
+
+**Problem: If 175 bales containing 2 to 5 shō each are exchanged for bales containing 4 to 3 shō each, how many bales will there be?**
+
+**Answer: 142 bales, with a remainder of 1 to 9 shō of rice**
+
+Method: Multiply the number of bales (175) by the volume per bale (2 to 5 shō) to get the total volume in koku (61 koku 2 to 5 shō). Divide this by the new volume per bale (4 to 3 shō), stopping the quotient at the ones place, to obtain the new number of bales.
+[Note: "Stopping the quotient at the ones place" means: when dividing 61 koku 2 to 5 shō by 4 to 3 shō, one obtains a quotient of 142 bales and then stops the division, leaving a remainder of 1 to 9 shō undivided.]
+
+---
+
+**Problem: When the money-changing rate is 6 kan 548 mon, what is the exchange value in mon for 1 momme of silver? (Given: the standard exchange silver is 60 momme.)**
+
+**Answer: 108 mon, 8 bu**
+
+Method: Take the exchange amount (6 kan 548 mon), divide by the fixed rate for amounts below 10 mon (9 bu 6 rin) to obtain 6 kan 550 mon. Multiply this by the fixed rate (1 rin 6 mō) to obtain the value in mon per 1 momme of silver.
+[If the result exceeds 100 mon, add 4 mon commission fee (mesen) per 100 mon.]
+
+· For the exchange value of 1 bu of gold: (divide by the standard rate of 9 bu 6 rin for amounts below 10 mon) and multiply by the fixed rate (6 rin 4 mō). [If the result exceeds 100 mon, add 4 mon per 100 mon.] This gives the value per 1 momme of silver.
+
+· For the exchange value of 2 shu of gold: (divide by the standard rate of 9 bu 6 rin for amounts below 10 mon) and multiply by the fixed rate (6 rin 4 mō), then double the result. [If the result exceeds 100 mon, add 4 mon per 100 mon.] This gives the value per 1 momme of silver.
+
+　[Explanation: First, take 100 mon as the standard exchange amount; multiply by 9 bu 6 rin to get 96 mon (adjusted currency). Divide by exchange silver of 60 momme to obtain 1 rin 6 mō as the value per 1 momme of silver. This is used as the fixed rate.]
+
+　The above method applies only in regions where "shōsen" (省銭, a reduced-denomination currency) is in circulation, with the standard exchange silver fixed at 60 momme. If the exchange silver fluctuates or if the region uses "chōsen" (調銭, adjusted currency), use the following method instead.
+
+---
+
+**Problem: When the exchange amount is 6 kan 864 mon and the exchange silver is 64 momme, what is the value in mon per 1 momme of silver?**
+
+**Answer: 107 mon**
+
+Method: Take the exchange amount (6 kan 864 mon), multiply by the standard rate for amounts of 100 mon and above (9 bu 6 rin). (In regions using chōsen, do not multiply by 9 bu 6 rin.) Divide by the exchange silver (64 momme) to obtain the value in mon per 1 momme of silver.
+[If the result exceeds 100 mon, add 4 mon per 100 mon. If chōsen is in use, do not add this.]
+
+---
+
+**Problem: When the value of 1 momme of silver is 108 mon, what is the value in mon of 4 momme 5 bu of silver?**
+
+**Answer: 484 mon**
+
+Method: From the value of 1 momme of silver (108 mon), subtract the commission fee (mesen) of 4 mon to obtain the adjusted currency value (chōsen) of 104 mon. Multiply by the silver amount (4 momme 5 bu), then divide by the standard rate for amounts of 100 mon and above (9 bu 6 rin) to obtain the final exchange value.
+
+---
+
+**Problem: When the value of 1 momme of silver is 112 mon, what is the silver value of 1 kan 966 mon?**
+
+(Answer continues on next page)

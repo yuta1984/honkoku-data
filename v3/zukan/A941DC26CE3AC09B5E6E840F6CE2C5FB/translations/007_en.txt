@@ -1,20 +1,35 @@
-On the Bon festival day of the 7th month, Itsuyu year, observed and sketched at Asai waterside
+## Section on Water Plants
 
-The *Yamato Honzō* states:
-　　　Omodaka (arrowhead)
-　　　　　Hime-omodaka (small arrowhead)
+**[Inscription on illustration]**
+On the Bon festival day of the seventh month of the year *Kinoto-Tori* (乙酉, 1825), drawn from life (*shasei*) while viewing the water's edge at Asai (Shallow Well/Shore).
 
-　　　　　　　　　　　　　　　*Bencao Gangmu* (Compendium of Materia Medica)
-　　　　　　　　　　　　　　　　　　Water lily　hitsujigusa
-　　　　　　　　　　　　　　　　　　(Marginal note: korenge)
+　　　　　　　　　　　　　　[WATER PLANTS]
 
-　　　I state:
-　　　　　I have not yet seen the correct characters for omodaka. Common people all mistakenly write it as takusha (Alisma plantago-aquatica).
-　　　　　This is incorrect. Takusha belongs to medicinal plants and produces shoots in spring. In shallow water, its leaves are
-　　　　　like an ox's tongue. It opens white flowers when autumn arrives. The reason omodaka is confused with taku-
-　　　　　sha is that the Japanese name of takusha is called omodaka, and this false identification has persisted for a long time.
-　　　　　There is also jikosō (sashi-omodaka). Its leaves resemble takusha but the roots are not those of takusha.
-　　　　　Also, aginashi and atori resemble omodaka. Their flowers are also like omodaka's,
-　　　　　white flowers with three petals. Calling these "small omodaka" certainly makes sense.
+---
 
-　　　　　　　　　　　　　　　　　Truly sketched at Mochii-gashira pond on the 6th day of the 9th month, Itsuyu year
+**From *Yamato Honzō* (大和本草):**
+
+　*Omotaka* (arrowhead / *Sagittaria trifolia*)
+　　*Hime-Omotaka* (小ヲモダカ, dwarf arrowhead)
+
+---
+
+**From *Honzō Kōmoku* (本草綱目):**
+
+　睡蓮 (*Suiren*, water lily) → Japanese name: *Hitsujigusa* (未草, "ram's-hour grass")
+　　[Alternative name: *Ko-renge* (小蓮花, "small lotus flower")]
+
+---
+
+**The author states:**
+
+The correct Chinese character(s) for *Omotaka* have not yet been determined. Common usage has, erroneously, universally adopted the character 澤瀉 (*Takusha*) for this plant. However, this is incorrect. *Takusha* (澤瀉) is a medicinal plant: it produces shoots in spring, grows in shallow water, has leaves resembling an ox's tongue, and opens white flowers in autumn. The reason *Omotaka* has long been mistakenly written as 澤瀉 is that the Japanese reading of 澤瀉 happens to be "*Omotaka*," and this confusion has been perpetuated over a long period of time.
+
+There is also a plant called *Sashi-Omotaka* (薢草, "piercing arrowhead"). Its leaves resemble those of *Takusha*, but its root is different from *Takusha*.
+
+Furthermore, there is a plant called *Aginashi*, which resembles *Omotaka*. Its flower, too, is similar to that of *Omotaka* — white, with three flat petals. It has been said that this is what is referred to as "small *Omotaka*" (*Ko-Omotaka*), and this view carries some credibility.
+
+---
+
+**[Inscription on illustration]**
+On the sixth day of the ninth month of *Kinoto-Tori* (乙酉, 1825), drawn directly from life (*shinsha*) at the pond's edge at Inokashira (井頭) pond.

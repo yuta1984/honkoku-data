@@ -1,0 +1,43 @@
+**Answer: 17 momme 5 bu of silver** (※1)
+
+**Method:** From the cash value per 1 momme of silver (112 mon), subtract the handling fee (mejisen) of 4 mon to obtain the adjusted cash value (shirabesen) of 108 mon, which serves as the divisor. Take the given cash amount (1 kan 966 mon), multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain the adjusted cash (1 kan 890 mon). Divide by the divisor to obtain the silver equivalent.
+
+---
+
+**Problem:** Given an exchange rate of 6 kan 560 mon, what is the gold equivalent of 3,445 kan 312 mon in cash?
+
+**Answer: 525 ryō of gold** (※2)
+
+**Method:** Take the exchange money (6 kan 560 mon) and multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (6 kan 300 mon), which serves as the divisor. Take the cash amount (3,445 kan 312 mon), multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (3,307 kan 500 mon). Divide by the divisor to obtain the gold equivalent.
+
+---
+
+**Problem:** Given an exchange rate of 6 kan 768 mon, what is the cash equivalent of 916 mon in *ei* (永)?
+
+**Answer: 6 kan 202 mon** (※3)
+
+**Method:** Take the exchange money (6 kan 768 mon) and multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (6 kan 500 mon). Multiply by the *ei* amount (916 mon), then divide by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain the cash equivalent.
+
+---
+
+**Problem:** Given that 3 momme of silver is worth 324 mon, what is the cash value of 6 momme 8 bu of silver?
+
+**Answer: 735 mon 2 bu** (※4)
+
+**Method:** Take the cash value (324 mon), multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (312 mon). Multiply by the new silver amount (6 momme 8 bu), divide by the original silver amount (3 momme), then divide again by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain the cash equivalent.
+
+---
+
+**Problem:** Given an exchange rate of 6 kan 532 mon, what is the cash equivalent of 648 ryō 2 bu 3 shu of gold?
+
+**Answer: 4,238 kan 088 mon** (※5)
+
+**Method:** Take the exchange money (6 kan 532 mon) and multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (6 kan 272 mon), which serves as the divisor. Multiply the gold amount (648 ryō = 687 mon 5 bu in *ei*) by the divisor, then divide by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain the cash equivalent.
+
+---
+
+**Problem:** Given exchange silver of 60 momme and exchange money of 6 kan 584 mon, what is the silver equivalent of 80 kan 693 mon in cash?
+
+**Answer: 735 momme of silver** (※6)
+
+**Method:** Take the exchange money (6 kan 584 mon) and multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (6 kan 324 mon), which serves as the divisor. Take the cash amount (80 kan 693 mon), multiply by the fixed rate of 9 bu 6 rin (for amounts over 100 mon) to obtain adjusted cash (77 kan 469 mon). Multiply by the exchange silver (60 momme), then divide by the divisor to obtain the silver equivalent.

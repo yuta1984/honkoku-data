@@ -1,47 +1,43 @@
-## [Section 2] Calculations for Exchanging Gold into Silver
+## [Section 2] Calculation for Converting Gold to Silver
 
-There are 12 ryō of gold. At an exchange rate of 60 monme per ryō, how much silver is the equivalent?
+**Problem:** There are 12 ryō of gold. At a market rate of 60 monme per ryō, what is the equivalent in silver?
 
-　　**Answer:** 720 monme
+**Answer: 720 monme**
 
-　**Method:** Set down 12 ryō and multiply by 60 monme.
-
----
-
-There are 15 ryō and 3 bu of gold. At an exchange rate of 58 monme per ryō, how much silver is the equivalent?
-
-　　**Answer:** 913 monme 5 fun
-
-　**Method:** Set down 15.75 ryō.
-　*(Interlinear note: 1 bu = 0.25; 2 bu = 0.50; 3 bu = 0.75 — set these values accordingly.)*
-　Then multiply by 58 monme.
+Method: Set down 12 ryō and multiply by 60 monme.
 
 ---
 
-## [Section 3] Calculations for Exchanging Silver into Gold
+**Problem:** There are 15 ryō 3 bu of gold. At a market rate of 58 monme per ryō, what is the equivalent in silver?
 
-There are 1 kan 593 monme of silver. At a gold exchange rate of 59 monme per ryō, how much gold is the equivalent?
+**Answer: 913 monme 5 bu**
 
-　　**Answer:** 27 ryō
-
-　**Method:** Set down the silver amount of 1,593 monme and divide by 59 monme.
-
----
-
-There are 1 kan 628 monme of silver. At an exchange rate of 60 monme per ryō, how much gold is the equivalent?
-
-　　**Answer:** 27 ryō, 1 bu — with a remainder of 3 monme silver
-
-　**Method:** Set down 1,628 monme and divide by 60 monme; this gives 27.3. From this, subtract 27.25
-　*(Interlinear note: 0.25 corresponds to 1 bu of gold.)*
-　Multiply the remaining 0.05 back by 60 monme to find the remainder of 3 monme in silver.
+Method: Set down 15 ryō 3 bu as 15.75.
+　　(1 bu of gold = 0.25; 2 bu = 0.50; 3 bu = 0.75)
+　　Multiply by 58 monme.
 
 ---
 
-## [Section 4] Calculations for Exchanging Copper Coins into Silver
+## [Section 3] Calculation for Converting Silver to Gold
 
-There are 384 mon in copper coins. At a rate of 95 mon per monme of silver, how much silver is the equivalent?
+**Problem:** There are 1 kan 593 monme of silver. At a gold market rate of 59 monme per ryō, what is the equivalent in gold?
 
-**Answer:** 3 monme 9 fun, with a remainder of 1.5 mon
+**Answer: 27 ryō**
 
-*(Signature or seal: 海原閑鯰溺 — "Kaigen Kannendeki," possibly a pen name or reviewer's mark)*
+Method: Set down 1 kan 593 monme of silver and divide by 59 monme.
+
+---
+
+**Problem:** There are 1 kan 628 monme of silver. At a market rate of 60 monme per ryō, what is the equivalent in gold?
+
+**Answer: 27 ryō 1 bu, with a remainder of 3 monme silver**
+
+Method: Set down 1 kan 628 monme of silver and divide by 60 monme, giving 27.3. From this, subtract 27.25 (since 0.25 represents 1 bu of gold); multiply the remaining 0.05 by 60 monme to convert back, and the remainder is found to be 3 monme of silver.
+
+---
+
+## [Section 4] Calculation for Converting Coins (Zeni) to Silver
+
+**Problem:** There are 384 mon in coins. At an exchange rate of 95 mon per 1 monme of silver, what is the equivalent in silver?
+
+**Answer: 3 monme 9 bu and 1 mon 5 bu (remainder)**

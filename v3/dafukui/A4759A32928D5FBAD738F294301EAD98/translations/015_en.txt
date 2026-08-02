@@ -1,0 +1,14 @@
+| Grade/Type of Land | Area | assessed yield (kokudaka) | Registered Holder |
+|---|---|---|---|
+| Lower-grade dry field (shimo-hatake) | 1 tan | 1 koku | Rokurōemon |
+| Upper-grade dry field (kami-hatake) | 9 se 3 bu | 1 koku 9 shō 2 gō | Gorōemon |
+| Upper-grade paddy (kami-ta) | 1 se 21 bu | 2 to 7 shō 2 gō | Yosuke |
+| Upper-grade paddy (sic) | 2 se 9 bu | 3 to 2 shō 2 gō | Shinzaemon |
+| Upper-grade dry field | 3 se | 3 to 6 shō | Yosuke |
+| Upper-grade paddy | 4 se 11 bu (sic) | 7 to 2 shō | Yasuke |
+| Upper-grade paddy | 4 se 9 bu | 6 to 8 shō 8 gō | Yosuke |
+| Upper-grade dry field | 9 se 18 bu | 1 koku 1 to 5 shō 2 gō | Same person (Yosuke) |
+| 　　[Abandoned/fallow land (ara)] | | | |
+| Upper-grade paddy | 3 se 18 bu | 3 to 6 shō | I■■■ [Iemon?] |
+| 　　[Adjacent fallow land (tsuke-ara)] | | | |
+| Mid-grade dry field (naka-hatake) | 2 se 12 bu | 2 to 6 shō 8 gō (sic) | Nakaemon-no-suke |

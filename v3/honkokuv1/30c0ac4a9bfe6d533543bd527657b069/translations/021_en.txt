@@ -1,0 +1,25 @@
+(Continued from previous page) ...what would happen if one were to change and alter those numbers?
+
+Answer: In the system of the armillary sphere (渾天), the standard number (常数) for one year is three hundred and sixty. The Sun, in making one complete circuit of the ecliptic (黄道) along the ring of seasonal nodes (節気), takes three hundred and sixty-five days and three hours. Compared to the standard number, this is five days and three hours more. This excess is called qi-ying (気盈, "solar surplus").
+
+One month takes twenty-nine days and sixty-three ke (刻, time units) plus a fraction to complete a conjunction of the Moon (合朔, one synodic month). Twelve months together yield three hundred and fifty-four days, four hours, and four ke. Compared to the standard number, this is five days, seven hours, and four ke less. This deficit is called shuo-xu (朔虚, "lunar deficit").
+
+When shuo-xu is compared to the standard number, the standard number is greater. When the standard number is compared to the seasonal nodes, the seasonal nodes are greater. Combined, the excess amounts to ten days, ten hours, and four ke. This is called the "surplus days" (余日). These surplus days are accumulated at the end, and when they amount to one full month, an intercalary month (閏) is inserted. Approximately every thirty-two months there is one intercalary month, and in nineteen years there are seven intercalary months.
+
+In an intercalary month, the Sun does not reach (the point of) transiting into the next celestial mansion (宮), and there is necessarily no "middle qi" (中気). If there were no qi-ying, the standard numbers would not align. If there were no shuo-xu, the last day of the month (晦) and the full moon (望) could not be determined accurately. If no intercalary month were inserted, the summer months would fall in spring nodes, and the winter months would coincide with autumn seasons.
+
+The measurements of the ancient sages contain not even a thread's or hair's worth of error. Therefore, the seven intercalary months conclude in the zi (子) and chou (丑) months of the nineteenth year, at which point the solar periods (気) and the lunar months (朔) become perfectly aligned—this constitutes the fixed rule of one zhang (一章, the 19-year cycle).
+
+---
+
+　　On the Slow and Fast Visibility of the Moon
+
+　Question: The measurement of the Moon (太陰) should be without omission. Then, after the conjunction (合朔, new moon), when the Moon is seen in the west at dusk, one would expect it always to appear uniformly, and yet the timing of its appearance varies—sometimes early, sometimes late—and in extreme cases there is a difference of one or two days. Why is this?
+
+Answer: The reason why the Moon that people observe appears to be closer to or farther from the Sun—creating this discrepancy—is that the Moon rises and sets while moving along a path that is sometimes oblique and sometimes upright. There are three reasons for this.
+
+First, it depends on the degree of the Moon's apparent motion (視行). When the apparent motion is in a "fast phase" (疾段), the Moon is seen early; when it is in a "slow phase" (遅段), it is seen late.
+
+Second, it depends on whether the ecliptic (黄道) is ascending or descending obliquely or directly. When it is upright (direct), the Moon is invariably seen earlier; when it is oblique, it is invariably seen later.
+
+Third, it depends on whether the lunar path (白道) is situated to the south of a given latitude, or is at that latitude... (continued on next page)

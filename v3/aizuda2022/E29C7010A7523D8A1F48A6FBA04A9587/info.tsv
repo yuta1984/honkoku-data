@@ -49,8 +49,8 @@ filename	status	image
 048.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F048.tif/info.json
 049.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F049.tif/info.json
 050.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F050.tif/info.json
-051.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F051.tif/info.json
-052.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F052.tif/info.json
+051.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F051.tif/info.json
+052.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F052.tif/info.json
 053.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F053.tif/info.json
 054.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F054.tif/info.json
 055.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F072_wo_06%2F055.tif/info.json
