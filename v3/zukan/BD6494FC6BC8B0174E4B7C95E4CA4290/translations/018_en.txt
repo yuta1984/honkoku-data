@@ -1,52 +1,53 @@
-【MYŌGA (Japanese Ginger)】　[Category: Vegetables/Edible Plants]
+---
 
-**Flower of Jōgashi (蘘荷子花, *shōgashikuwa* / *mega no ko no hana*)** — "茗荷 (myōga)" is the commonly used character today.
+**【Vegetable/Herb Category】**
+
+**Shōga-shika (蘘荷子花) — Flower of the Myōga Ginger Fruit** [Mega-no-ko-no-hana]
+　※ "茗荷 (Myōga)" is the currently common written form.
+
+According to the *Wakan Sansai Zue* (和漢三才図会), in the section on "Moist Herbs" (湿草類):
+
+　Myōga (蘘荷) [Tang Chinese pronunciation: Jiāng Hé] — Alternate names: Fukuzo, Hakusho, Jōsō, Fukusho, Kisō.
+
+　　The Japanese name is "mika (米加)." Writing it as "茗荷" is not the original character. "茗 (mei)" simply means tea.
+
+Myōga is commonly called "茗荷" in popular usage. It bears a slight resemblance to bamboo and its shoots, and because it resembles bamboo shoots (*ko*), it is called "Myōga-no-ko" (名荷笋).
+
+In *Shokukyō* (食競), Li Shizhen states:
+　　"Myōga (蘘荷)" refers to the root, while "Jōsō (蘘草)" refers to the leaves, and so forth.
+　　Regarding the clustered flowers of the myōga fruit (*myōgashi-gunka*): I (Baien) previously painted this, intending to depict the plant with soil removed.
+
+According to the *Wamyō Ruijushō* (和名類聚抄):
+　　"Myōga (蘘荷)": According to Ma Yuan's *Shokukyō* (食経), the name is "Myōga" [pronounced as 穰何], and the Japanese name is "mika (米加)."
+　　The *Kenmyōen* (兼名苑) states: one alternate name is "■苴 [two pronunciations: fuku and sha]." The *Tōin* (唐韻) states: "蒪 (ku) sha [upper tone, kasu]," which is the name for *Dai-myōga* (大蘘荷, large myōga).
+
+　　　　　　　Copied on the eighth day of the latter period of the Sanpuku (三伏, the hottest days), in the month of Rinshō (林鐘, sixth lunar month), in the year Kisubi (癸未, 1823).
 
 ---
 
-From the *Wakan Sansai Zue* (和漢三才図会, *Illustrated Encyclopedia of Japan, China, and the World*), section on Moisture-loving Herbs:
+**Konotegashiwa (側柏, Oriental Arborvitae)** 　[Alternate name] Kiku (椈) — Source: *Honzō* (本草)
 
-　Jōga (蘘荷, *meuka*; Tang Chinese reading: *Jiāng hé*) — Alternate names: *Fukuso* (覆爼), *Hakusha* (搏苴), *Jōsō* (蘘草), *Fukusha* (葍苴), *Kisō* (喜草).
-　The Japanese name is *Meka* (米加). Writing it as 茗荷 is incorrect, for "*myō* (茗)" means tea.
+　According to the *Jikinsho* (地錦抄):
+　　Flowers on both faces.
 
-　Jōga is commonly called "*Myōga-take* (茗荷竹)." Its shoots somewhat resemble bamboo shoots (*takenoko*), hence it is also called "*Myōga-sun* (名荷笋)."
+**【Tree Category】**
 
----
+　The leaves of this tree grow densely as though two hands are pressed together (*te wo awaseta*), and for this reason it is called "Konotegashiwa" (木の手柏, "hand-leaf cypress"). The "Sokuhaku (側柏)" is said to refer to the common cypress — whether this is the same or a different plant from Konotegashiwa requires further investigation.
 
-From Li Shizhen's *Shijian* (食鑑, *Dietary Reflections*):
+　What is illustrated here has the dense foliage omitted for the purpose of making the form of the flowers easier to see; please bear this in mind when viewing.
 
-　"*Mega* (蘘荷)" refers to the root; "*Jōsō* (蘘草)" refers to the leaves… etc.
-　As for the clustered flowers of the myōga shoots, I (Baien) have previously made a drawing of them showing the plant removed from the soil.
-
----
-
-From the *Wamyō Ruijushō* (和名類聚抄, *Japanese Names Classified and Annotated*):
-
-　蘘荷 (*meka*): According to Ma Wan's *Shokukyō* (食経, *Food Canon*), "蘘荷 [reading: Jōka] — Japanese name: *Meka* (米加)."
-　The *Kenmeien* (兼名苑) states: "Alternate name: ■苴 [readings: *Fuku* and *Sha*]." The *Tōin* (唐韻, *Tang Rhyme Dictionary*) states: "*Kurasha* (蒪且) [upper tone/reading: *kasu*] is the name for the large variety of *jōga*."
-
-　　　　　Drawn on the eighth day of the late *Sanpuku* (三伏, the hottest period), in the month of *Rinshō* (林鐘, sixth lunar month), in the year *Kisubi* (癸未, 1823).
+　　　　　　　Copied on the fifth day of the middle period of early summer (初夏中), in the year of the Monkey (申年).
 
 ---
 
-**Konotegashiwa (側柏, *Platycladus orientalis*)** — Alternate name: 椈 (*kiku*). Source: *Honzō* (本草). [Category: Trees]
+**[Addendum on Konotegashiwa]**
 
-From the *Chikinsho* (地錦抄):
-　It bears flowers on both sides (front and back).
+According to the *Honzō Wage* (本草和解):
 
-　The leaves of this tree appear as though pairs of hands are pressed together in prayer, and it grows very densely — hence the name "*Konotegashiwa*" (meaning "hand-leaf oak"). *Sokuhaku* (側柏, *Konotegashiwa*) is said to refer to the common cypress/arborvitae. Whether it is the same plant or a different one from the ordinary *kashiwa* shall be investigated further.
+**Qilin Jie (騏驎竭, Dragon's Blood Resin)** — Works well in combination with Mitsudassō (蜜陀僧, litharge). [Alternate name] Ketsuketsu (血竭) [Japanese name] Akayani (安可夜尓)
 
-　The illustration here is drawn with the intention of omitting the dense foliage in order to make the flower form easier to see. Please view it with this in mind.
+○ In Japan, it is mistakenly said to be the blood of a grey-dappled horse. In fact, it is the resin (*nikawa*) of a tree called the "blood tree (血樹)." Its fragrance resembles that of the gardenia (*kuchinashi*), and its color is like blood. The genuine article is that which, when burned, produces red sap that wells up and eventually returns to its original color after some time. Anything with a salty taste and a raw, fishy smell is "sea-creature blood (海母血, *kaiboketsu*)" — though it closely resembles the real thing, it must not be used.
 
-　　　　　Drawn on the fifth day of the middle period of early summer, in the year of *Saru* (申, 1836).
+There are several grades available as medicinal supplements; the one called "chimaki-te" is considered the finest. It is called "chimaki-te" because it is kneaded, hardened, and wrapped in grass leaves (like a *chimaki* rice dumpling). It is difficult to distinguish genuine from imitation, and so forth.
 
----
-
-【KONOTEGASHIWA (Oriental Arborvitae)】
-
-From the *Honzō Wage* (本草和解, *Japanese Explication of the Materia Medica*):
-
-**Kirin-ketsu (騏驎竭, Dragon's Blood resin)** — It combines well with *Mitsudasō* (密陀僧, litharge/lead monoxide). Alternate name: 血竭 (*Kekketsū*, "blood congealed"). Japanese name: *Akayani* (安可夜尓).
-
-○ The claim in Japan that this substance is the blood of a dapple-grey horse (*ashige-uma*) is mistaken. It is the resin (gum) of a tree called the "blood tree" (*ketsuju*). Its fragrance resembles that of the gardenia (*kuchinashi*), its color is like blood, and when burned in fire a red sap wells up; after some time it returns to its original color — this is considered the genuine article. If it tastes salty and has a raw, fishy smell, it is *Kaibo-ketsu* (海母血, jellyfish blood), which closely resembles the genuine article but must not be used.
-　Among medicine merchants, several varieties are sold; the type called "*chimaki-te*" (粽手, "dumpling-wrapped hand") is considered the finest. It is kneaded, hardened, and wrapped in grass leaves — hence the name "*chimaki-te*." It is said to be difficult to distinguish genuine from fake… ○ I, Genju (元寿, the author Baien), having consulted various texts on the blood tree (*ketsuju*), find that while it appears in numerous books, none describe the tree's form; it appears only in sections on aromatic substances. Here, one Yōkei of Toyoda in Bōshū (周防国, Suō Province) — an admirer of the scholarly legacy of Master Matsuoka Jokan — composed one volume of the *Shahemiyoroku* (赭鞭余録). Within that volume, he cultivated a specimen of the *Kirinketsu* tree, and Master Matsuoka remarked that "○ it may well be *Konotegashiwa*." However, he stated that he had not yet tested whether resin could be extracted from it. I, too, merely append my name to the postscript of that theory, and the question remains unresolved.
+○ Reflecting on this myself (Baien, *Genju*): Although the blood-tree (*ketsuketsu-ju*) appears in various texts, none of them describe the form or appearance of the tree — it is only listed among aromatic substances. Here, one Yōkei of Toyoda in Bōshū (Suō Province) [present-day Yamaguchi Prefecture], inspired by the scholarly spirit of Master Matsuoka Jōan (松岡恕庵), authored a single volume called *Shabenbeyoroku* (赭鞭余録). In that volume, he cites the Qilin blood-tree and notes that Master Matsuoka suggested it may be the *Konotegashiwa*. However, he added that the place from which the resin exudes has not yet been tested. I, too, have merely appended my name to the afterword of that theory; the question remains unresolved.

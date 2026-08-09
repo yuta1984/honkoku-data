@@ -1,0 +1,73 @@
+## Right Page (p. 100, Section Four)
+
+### Upper Section
+
+(Continued from Hōshi/Fan) The *Jūha* states: Master Fan further says: "To explain 'acting upon the aspect-part (*xiangfen*/相分) as the cognitive act (*xingxiang*/行相)' fails to accommodate the case of the wisdom of correct cognition (*zhengzhi*/正智), since such wisdom lacks an aspect-part. Moreover, as certain texts make clear, the functions of reception (*lǐngnà*/領納) and so forth each differ from one another. By this reasoning, the term *xingxiang*, meaning 'that which proceeds through a phenomenal state,' constitutes a *chiyè* (持業釈, *karmadhāraya*-type) compound. Since reception and the like belong solely to the witness-part (*jiǔ zhèngfen*/自証分) only as functions of the perceiving-part (*jianfen*/見分), there is no principle by which the witness-part and above would each have a separately distinct cognitive act. Therefore, there is no confusion of categories" (etc.).
+
+**The view of Master Cè (測 = Woncheuk/圓測):** "This 'cognitive act (*xingxiang*)' and 'object of cognition (*suoyuan*)' concern the relational meaning between mind and objective reality. The *Yogācārabhūmi* (瑜伽師地論), fascicle one, states: 'The dharmas of mind and mental factors share a single object of cognition (*suoyuan*) but do not share a single cognitive act (*xingxiang*) — unlike the Hīnayāna view that sharing one object means sharing one cognitive act.' Based on this passage, there are three interpretations:
+
+**First interpretation:** 'Sharing one object of cognition' refers to the direct-object-base (*bēnzhì*/本質境), while 'not sharing one cognitive act' refers to the image-object (*yǐngxiàng*/影像境). The reason is as follows: take for instance the mind and mental factors of the eye-consciousness — they are said to 'share one object of cognition' because they all cognize the same direct-object-base of blue and so forth. But since the image-aspect-parts (*xiangfen*) each separately projected by mind and mental factors are individually different, they are said to 'not share one cognitive act.' According to this interpretation, *xíng* (行, 'proceeding') refers to the perceiving-part (*jianfen*), and *xiàng* (相, 'aspect') refers to the aspect-part (*xiangfen*), and the term *xingxiang* means 'the aspect traversed by the perceiving-part' — a *yīzhǔ* (依主釈, *tatpuruṣa*-type) compound. One should not raise the objection that the eighth consciousness (*ālayavijñāna*) has no direct-object-base; this is because it takes the aspects projected by others' eighth consciousness as its direct-object-base.
+
+**Second interpretation:** Considering only the image (*yǐngxiàng*) that is divided into two (perceiving-part and aspect-part), each (mind and mental factor) projects something that resembles the same one, so it is called 'sharing one object of cognition.' Yet in reality, they are not truly one; hence the term 'not sharing one cognitive act.' The explanation of *xingxiang* is the same as in the preceding interpretation.
+
+*Question:* The wisdom of correct cognition (*zhengzhi*) cognizes suchness (*tathatā*). The object-body is one. How can it be said to 'resemble'? Since it directly cognizes the direct-object-base, should it not lack a cognitive act entirely?
+
+*Answer:* The *Yogācārabhūmi* is for now speaking of ordinary minds. In reality, the wisdom of correct cognition itself uses suchness (*tathatā*) as
+
+### Lower Section
+
+its object of cognition. The mind and mental factors associated with the wisdom of correct cognition each have individually distinct modes of cognizing, and hence are called 'not sharing one cognitive act.'
+
+**Third interpretation:** 'Sharing one object of cognition' has two senses: (1) sharing because it is singular, as in the object of suchness; and (2) sharing because of resemblance, as in the image-object. However, the cognitive acts of mind and mental factors are individually distinct — consciousness uses 'discriminating-discernment' (*liǎobié*/了別) as its cognitive act, feeling (*vedanā*) uses 'reception' (*lǐngnà*/領納) as its cognitive act, and so forth. The reason: according to the first interpretation, cognizing the object of suchness would fail the condition of 'not sharing one cognitive act,' since there is no distinct aspect-part. According to the second interpretation, cognizing the object of suchness would also fail both conditions: within a single suchness there is no quality of 'resemblance,' so no aspect-part is projected and hence there is no cognitive act. Although there are three interpretations, the present treatise-master (i.e., Dharmapāla/護法) agrees with the third interpretation" (etc.). Further interpretations exist, as elaborated in that text.
+
+---
+
+### The Section on the Dissimilarity of Cognitive Acts Between the Greater and Lesser Vehicles
+
+Among the eighteen schools of the Hīnayāna (小乗), with the exception of the Sāṃmitīya (正量部), all hold the following view: when mind and so on cognize an object, there are three aspects — (1) the object of cognition (*suoyuan*/所緣), (2) the cognitive act (*xingxiang*/行相), and (3) the self-substance (*tǐshì*/体事). The Sāṃmitīya does not posit an aspect-part (*xiangfen*). Their view is that mind and so forth directly cognize the external world beyond the mind, so there is no need to additionally establish an aspect-part of the external world. In the various Hīnayāna schools' view, the external world beyond the mind is called the 'object of cognition'; what Mahāyāna calls the 'aspect-part' is called the 'cognitive act'; and what Mahāyāna calls the 'perceiving-part' is called the 'self-substance (*tǐ*).' 'Substance (*tǐ*)' means the substantial aspect (*tǐxiàng*). 'Event (*shì*)' is the substantial aspect of the aspect-part of mind and mental factors.
+
+*Question:* Among the Hīnayāna schools, are the names 'aspect-part' and 'perceiving-part' (相見分) used?
+
+*Answer:* Xīmíng's (西明 = Woncheuk's) commentary says: "There are two interpretations. The first says that those schools also use the terminology of 'aspect and perceiving parts' (*xiangjiànfēn*), but the meaning differs. The second says that we apply the Mahāyāna terminology to accommodate what those schools say." That is to say,
+
+## Left Page (p. 101, Section Five)
+
+### Upper Section
+
+our Mahāyāna's two parts — aspect-part and perceiving-part — correspond in those (Hīnayāna) schools respectively to 'cognitive act' and 'event.' This does not mean that those schools also use the terms 'aspect-part' and 'perceiving-part.' Yet their 'perceiving' (*jiàn*) and 'event (*shì*)' are largely equivalent to what Mahāyāna calls the 'perceiving-part.' As for the cognitive act, there is a difference. Regarding the cognitive act as taught by the Sarvāstivāda (薩婆多) school, two interpretations have been transmitted from old:
+
+**First interpretation:** Take, for instance, the mind and so forth cognizing 'impermanence' and so on: the cognized form (*rūpa*) is called 'sharing one object of cognition,' and the distinct meaning on the object-ground of suffering, impermanence, and so forth is called 'one cognitive act.'
+
+**Alternative interpretation:** 'Sharing one object of cognition' is as explained above. The mind and mental factors together making 'the cognition of blue' is called 'sharing one cognitive act,' and so on.
+
+In the Mahāyāna school — excluding those such as Bhāviveka (清弁) who have not yet penetrated the doctrine of Vijñaptimātratā — the remaining profound adherents explain that the self-projected aspect (*zisuobiàn xiàng*/自所変相) is the object of cognition (*suoyuan*). They do not, like the various Hīnayāna schools, call the aspect-part the 'cognitive act.' The cognizing perceiving-part is called the cognitive act (*xingxiang*). The mode of cognitive understanding (*xíngjǐe xiàngmào*/行解相貌; the original text reads *xiàngzhuàng*/相状) is called the 'cognitive act' — this is a *chiyè* (*karmadhāraya*-type) compound — as distinguished previously. The self-substance-part is called 'event (*shì*),' because 'event' is 'substance.'
+
+---
+
+### The Section on Measure, Measurer, Measured Object, and Measurement Result (能所量果門)
+
+The three types — aspect-part, perceiving-part, and self-substance-part — correspond respectively to the measured object (*suǒliàng*/所量), the measurer (*néngliàng*/能量), and the measurement-result (*liàngguǒ*/量果). To assign them in order: just as when using a ruler and *zhang* (丈, unit of length) to measure an object — the object is the measured object (= aspect-part), the ruler is the measurer (= perceiving-part), and the wisdom that understands the count is the measurement-result (= self-witness-part/自証分). When mind and so forth measure an object, it should be analogous. What is the meaning of the 'three kinds of result'? It is the meaning of fulfilling a cause. The perceiving-part's cognizing of the aspect serves as the measurer, but what benefit is there in the measurer measuring the object? It is like a person measuring an object and thereby producing the cognitive understanding of the measurement (*liàngjiě*/量解). In the Hīnayāna, the measurement-result is the perceiving-part itself. The cognitive act is the measurer and the external aspect is the measured object — this is somewhat different from the above. In the case of the various non-Buddhist schools (*tīrthika*/外道), the object is the measured object, wisdom is the measurer, and the self (*ātman*/我) is the measurement-result, since they posit the self as the knower.
+
+Master Fan's view: (Note: the text as quoted in the *Ki* reads: "Master Fan sets out two interpretations: first, the direct-object-base is the measured object, the aspect-part is the measurer, the perceiving-part is the measurement-result; second, [etc.]." The present interpretation is offered, and there may be a variant text.)
+
+When positing two parts (二分): the aspect-part is the measured object (Note: the *Ki* quotation reads 'direct-object-base' for 'aspect-part'), the perceiving-part is the measurer, and the decisive clarity of that very perceiving-part is the measurement-result. Master Kuiji's (基/窺基) view is the same.
+
+When positing three parts (三分): the aspect-part is the measured object, the perceiving-part is the measurer, the self-witness-part is the measurement-result.
+
+When positing four parts (四分): the aspect-part is the measured object, the perceiving-part is the measurer, the self-witness-part is the measurement-result. Also: the perceiving-part is the measured object, the self-witness-part is the measurer, the witness-of-the-witness-part (証自証分) is the measurement-result. Also: the witness-of-the-witness-part is the measured object, the self-witness-part is the measurer, and the witness-of-the-witness-part itself is the measurement-result (etc.).
+
+*Question:* The perceiving-part could serve as the measurement-result of the third part (self-witness-part). Why must we additionally establish the fourth part as the result of the third part?
+
+*Answer:* Because it is impermissible for a non-valid cognition (*fēiliàng*/非量) to serve as the result of a direct perception (*xiànliàng*/現量). It is impermissible for the perceiving-part to be an inferential or non-valid cognition when cognizing the aspect, and then when it turns back to cognize the self-witness-part, be a direct perception.
+
+*Question:* If so, the perceiving-part cognizing the aspect may be either valid cognition or inferential cognition (*bǐliàng*/比量). Since the self-witness-part is consistently direct perception, what is wrong with taking the self-witness-part as the result? The self-witness-part is solely direct perception; even if the measurer is inference or non-valid cognition, can it not still produce a result?
+
+*Answer:* The self-substance of the mind in direct perception must have its result exclusively as direct perception. Inference and non-valid cognition — these two kinds — do not cognize the substance. How could they serve as the result of direct perception? Direct perception may be the result of inference, but inference does not serve as the result of direct perception.
+
+---
+
+### The Section on Distinguishing Inner and Outer (内外分別門)
+
+The treatise states: "Among these four parts, the first two are outer and the latter [two] are inner."
+
+*Question:* Since the perceiving-part already pervades both [inner and outer] …

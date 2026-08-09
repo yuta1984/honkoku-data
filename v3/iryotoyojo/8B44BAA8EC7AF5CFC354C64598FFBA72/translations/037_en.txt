@@ -1,15 +1,16 @@
-Beyond the seven *ritsu* (fundamental pitches) there are no other tones. From the cubic solid, six *inverse* (retrograde, *gyaku*) and eight *forward* (*jun*) intervals are obtained; counting these yields the twelve *ritsu* (tones of the chromatic scale), as shown on the left.
+[Diagrams omitted]
 
----
+There are no notes (*on*) outside the seven *ritsu* (pentatonic scale degrees). From the cubic body (*hōtai*), one obtains six descending (*gyaku*, "reverse/downward generation") and eight ascending (*jun*, "forward/upward generation") pitches. Counting these produces the twelve *ritsu* (chromatic pitches), as shown below.
 
-Tomonobu [Chishin] states: "The conventional practice of diagramming the angles of the twelve *ritsu* in a linearly diminishing sequence is incorrect. Rather, they ought to be depicted in an oval (egg-shaped) arrangement, arrayed in a row." This view corresponds to the theory of Martin [Martini?]. Recently, when I had occasion to examine a work produced by Lord Ogura Saisho (Kintsure), I found that it did indeed take a circular form. This diagram is therefore based on such precedents. Thinking in terms of the notion that "the terrestrial realm is egg-shaped (ovoid)," this seems entirely reasonable—although, since [Lord Ogura] has not made a deep study of pitch theory, his discussion remains at the level of general principles only.
+**[Left side of diagram in upper right folio]**
+This is the semitone neighboring the *kyū* (gong/tonic).
 
-Reconsidering the matter: even in the explanation of how multiplying by two, three, and four gives rise to the practical application of the *ritsu*, if one takes *gong* (宮, the tonic pitch) as equivalent to one and four, and thirteen as two, then placing six at the true center as three would be derived from the spreading of proportional ratios (*kōbai*). It would therefore be fitting for the curve to take the gentle form of an ovoid.
+**[Lower right folio]**
+Tomonobu (*Chishin*) states: The conventional practice of drawing the angles of the twelve *ritsu* progressively shorter in a linear sequence is unsuitable. I had said that they ought to be arranged in an oval (*tamago-nari*) circular formation, and this has turned out to coincide with the theory of Martin [*Marutin*]. Recently, upon viewing what Lord Ogura Saishō Kintsure had made, it was indeed laid out in a circular form. This diagram follows those precedents, and when considered from the perspective that the earthly realm (*chikai*) takes the form of an oval ellipse, it is entirely reasonable — however, since I have not deeply studied the subject of *ritsu* (musical tuning), I can only discourse on its principles here.
 
----
+Reconsidering further: even in explaining how two, three, and four are multiplied to perform the function of the *ritsu* — if one takes the *kyū* (tonic, value one) as four, and takes thirteen as two, then to make six the central mean (the "three" at the midpoint), one obtains this through the spread of a geometric ratio (*kōbai*), and so an oval elliptical form would be more fitting and gentle.
 
-**The numbers of the pitch degrees:** Beginning at one and ending at sixty-four, a diagram in which one and sixty-four are adjacent to each other.
+**[Left folio]**
+A diagram in which the numbers of *ritsu* degrees begin at one and end at sixty-four, with one and sixty-four neighboring each other.
 
----
-
-The *gong* of *Huangzhong* [黄鐘, Yellow Bell], nine *sun* [寸, a unit of length]. (Nine is, in other words, one.) This is the origin (*hajime*) of the *ritsu* [pitch system]. In *downward generation* (*kasei*), subtract one; in *upward generation* (*jōsei*)...
+The *kyū* (tonic) of *Huangzhong* (*Ōshō*) is nine *sun* (nine being equivalent to one) — this is the origin of the *ritsu* system. In downward generation (*ka-sei*), one is removed; upward…

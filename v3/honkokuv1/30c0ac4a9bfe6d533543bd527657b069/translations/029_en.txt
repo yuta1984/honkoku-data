@@ -1,0 +1,23 @@
+(Continued from previous page)
+
+**On Rāhu, Ketu, Apogeon of the Moon, and Purple Vapor (continued)**
+
+The point at which [the lunar path] intersects the ecliptic is called *Luó* (羅, Rāhu). This point has its own proper motion, rotating leftward (i.e., eastward) by a little over three fen per day. The point directly opposite to Rāhu is called *Jì* (計, Ketu). These are the so-called "Dragon's Head and Dragon's Tail," or the "Inner Path Opening and Outer Path Opening."
+
+In general, when two [great] circles obliquely interweave, one of the two intersection points must be precisely opposite the other.
+
+The *Yuèbó* (月孛, lunar apogee) is the highest and most distant point on the circle along which the Moon travels. When the Moon departs from this point, its motion becomes extremely slow and its apparent size appears extremely small. The term *bó* (孛) refers to the meaning of the two motions of the intersecting orbits mutually diverging (*bèi*, 背, opposing each other). Accordingly, its mean motion proceeds rightward (i.e., westward), advancing a little over seven fen per day.
+
+These three points (Rāhu, Ketu, and the lunar apogee) also exist on the proper orbital circles of Saturn, Jupiter, Mars, and the other planets. The difference is simply that their motions are not the same [as the Moon's]. Since there is no need to calculate eclipses (交食) or the phases of the Moon (晦朔) for these planets, these points are not established for them.
+
+[Interlinear note: Zhao Xidu (趙希度) said: "The Four Remainders are said to be the remainders of Fire [Mars], Earth [Saturn], Wood [Jupiter], and Water [Mercury] — but why does Metal [Venus] alone have none? From this it can be known that they are not [real] stars. Moreover, when one measures [these points] at the degree where they should be passing a certain fixed star, their form and appearance cannot be seen at all. My teacher's explanation of the underlying principle is supremely clear, and directly dispels the doubts of past and present alike."]
+
+As for *Zǐqì* (紫気, Purple Vapor): in the original calculations it was said to arise from the intercalary remainder (閏余); or it was taken to be the place where Jupiter and Saturn meet in conjunction; or the ancients used it simply to mark the years. Thus, over twenty-eight years, the intercalary remainder of the Moon completes one full cycle of *qì* (気) — and all of this is derived from the accumulated calculations of eclipses.
+
+---
+
+**Precession of the Equinoxes (歳差)**
+
+[Question:] A visitor asked about the precession of the equinoxes, saying: "Each year, the Sun's degree of travel always has a fixed number. Why then is there precession? The solar terms of the ecliptic must take the Sun as their standard. And yet it is said that each year at the winter solstice, the Sun's position falls short of [reaching the previous year's winter solstice point] by a small remainder, and after accumulating over several decades, the difference amounts to one degree — this is called 'solar retrogression' (日退). Furthermore, examining the degrees and fen recorded throughout successive dynasties, some are greater and some lesser, with no fixed rule. For example, when Han's Deng Ping reformed the calendar, Luoxia Hong said: 'After one hundred years, there will be a divergence of one degree.' At the end of the Han dynasty, Liu Hong [note: the character 'Qí' 淇 in the text appears to be an error for 'Hóng' 洪] composed the *Qianxiang Calendar* (乾象暦), which contained a method for auditing the year. Jin dynasty's Yu Xi was the first to treat Heaven (the fixed stars) as Heaven, and the year (the solar year) as the year [distinguishing the two], establishing a difference [i.e., precession] to track its changes, setting it at one degree per fifty years. He Chengtian increased this figure to approximately one degree per one hundred years..." (continued on next page)
+
+[Marginal note at top:] ※1 The character "Qí" (淇) should read "Hóng" (洪).

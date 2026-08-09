@@ -246,7 +246,7 @@ filename	status	image
 245.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00245/full/full/0/default.jpg
 246.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00246/full/full/0/default.jpg
 247.txt	completed	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00247/full/full/0/default.jpg
-248.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00248/full/full/0/default.jpg
+248.txt	initiated	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00248/full/full/0/default.jpg
 249.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00249/full/full/0/default.jpg
 250.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00250/full/full/0/default.jpg
 251.txt	default	https://api.digitale-sammlungen.de/iiif/image/v2/bsb00117901_00251/full/full/0/default.jpg

@@ -1,0 +1,71 @@
+## Right Page (p. 98): *Yuishiki Bunryō-ketsu* (Section 2)
+
+### [Upper Section] (Continuation of the Answer in the "Gate of Clarifying Names and Resolving Doubts")
+
+...(the *Saṃdhinirmocana-sūtra* judges the Prajñāpāramitā scriptures) as the teaching of no-characteristics (*mushō-kyō*, 無相教) because it follows the majority perspective. This case is likewise [Note: 且 appears as 亦 in the *ki*].
+
+**Question:** If Asaṅga and Vasubandhu established "two divisions," is there a textual basis for this?
+
+**Answer:** The *Mahāyānasaṃgraha* [Note: 説 appears as 云 in the *ki* citation] states, "There are only two kinds of dependent-nature (*paratantra*)." From this it is clearly known that only "two divisions" are established — namely, the aspect-division and the seeing-division.
+
+**Question [Note: 答 is probably 若]:** If so, how does Vasubandhu's *Triṃśikā* (Thirty Verses) say: "[Note: 玄 is probably a superfluous character] the transformation of these consciousnesses is discrimination and what is discriminated," and so forth? This already speaks of a triune text. How can one say "two divisions" only?
+
+**Answer:** In Vasubandhu's intention, the three elements of the verse implicitly expound "four divisions." Therefore, Dignāga and Dharmapāla, obtaining Vasubandhu's [elucidation — □, probably 彰], established three or "four divisions." However, the reason Vasubandhu established "two divisions" was that he followed his predecessor, the master Asaṅga [Note: 順 is unclear in the original, supplied from the *ki*]. This is like Bodhisattva Dignāga following ancient teachers, naming it "the subject of inference capable of proof" (*nengon*), and so forth.
+
+**Question:** If Vasubandhu's intention implicitly expounds "four divisions," does Dignāga's establishment of only "three divisions" not contradict Vasubandhu's intention?
+
+**Answer:** Because Dignāga briefly set forth Vasubandhu's intention, he established only "three divisions." Because Dharmapāla extensively set forth Vasubandhu's intention, he additionally [Note: 異 is probably 亦] established one further division.
+
+**Question:** If Vasubandhu explicitly taught "three divisions," how did he not contradict his master Asaṅga?
+
+**Answer:** Speaking in terms of the actual principle, Asaṅga's intention also establishes the "doctrine of three divisions." The reason only "two divisions" appear is that the Tathāgata briefly taught the self-nature division (*svabhāga*, 自體分) of consciousness without teaching its function. Asaṅga, awakening to the Buddha's intention, extensively taught its function and therefore established "two divisions." He did not cite the self-nature division, attributing it to the Tathāgata, and therefore [Note: 来故 is unclear in the original, supplied from the *ki*] did not mention it.
+
+By this principle, Asaṅga, Vasubandhu, Dignāga, Dharmapāla, and Bandhuprabhā and others are [□□□, probably 諸師同] of one taste with no contradiction. How do we know this? In the collected works of Shenbǎng [Note: 防 is probably 昉, referring to Shénfǎng/神昉], there is a passage narrating the doctrine of Master Guān: "Each and every defiled consciousness (*sāsrava*) appears resembling the characteristics of the object-apprehended (*ālambana*) and the apprehender (*grāhaka*). One should not wonder how two divisions can be established when above the self-nature there separately appear two divisions, making three divisions."
+
+### [Lower Section]
+
+Rather, Asaṅga and others, addressing those of middling spiritual capacity (*zhōngyōng jī*), relied on the *Ghanavyūha-sūtra* and selectively cited [□, probably 之] it to explain "one division" and thereby establish the principle of Consciousness-Only (*vijñaptimātratā*). Because there are no external objects, the meaning of "only" (*wei*/唯) is established. Because consciousness is opened into the aspect-division and seeing-division, the meaning of "consciousness" (*shiki*/識) is established. Therefore, "two divisions" are established. This does not mean that the earlier masters all denied the existence of the one, three, and four divisions — because the sūtras teach them. Since it is already said that the one, three, and four divisions are not obstructed, it is known that the masters have no contradiction with one another.
+
+---
+
+### Gate of Differences in Establishing the Divisions (立分不同門)
+
+Combining the distinctions among four masters: some establish "one division" (such as Sthiramati [Anhuì/安慧] and others); some establish "two divisions" (such as Nanda [Nándá/難陀], Jinaputra [Qīnshèng/親勝], and others); some establish "three divisions" (such as Dignāga and others); some establish "four divisions" (such as Dharmapāla, Bandhuprabhā, and others). Among these, Dharmapāla only spoke of "three [□, probably 分]," treating the Witness-of-Witness Division (*zhèng zìzhèng fēn*/證自證分) as a separately established meaning, because the significance of this division was still obscure. This is why it was presented in abbreviated form.
+
+**Question:** How did Sthiramati and Nanda deviate from their root teacher's (Vasubandhu's) intention to establish "one division" or "two divisions" respectively?
+
+**Answer:** Master Sthiramati exclusively upheld the Buddha's intention, and therefore established "one division" — namely, the self-witnessing division (*svāsaṃvedana*/自證分). Master Nanda exclusively upheld Asaṅga's intention, and therefore established "two divisions" — namely, the aspect-division and the seeing-division. Whether one upholds the substance (*tai*/体) or the function (*yō*/用), their intentions differ from each other. Accordingly, the validity or invalidity of each interpretation also differs. Dignāga and Dharmapāla both obtained the fundamental intention, subtly awakened to its meaning, comprehensively maintained both substance and function, and extensively expounded the three- and four-division doctrines. It is by this that the correct doctrine is made manifest here. Were it otherwise, why would the treatise refute the doctrines of Sthiramati and Nanda?
+
+Regarding the two divisions of aspect and seeing: the positions established by both inner (Buddhist) and outer (non-Buddhist) schools are not uniform. In terms of their substances, there are four positions (*shiku*/四句):
+
+**First: Establishing seeing but not aspect** (as with the Saṃmatīya [Zhèngliàngbù/正量部] — □□□□ [Note: probably "師心等縁" or "等且如縁"] — when cognizing the object of blue and so forth): apart from blue and so forth, there is no separate mental aspect.
+
+## Left Page (p. 99): *Yuishiki Bunryō-ketsu* (Section 3)
+
+### [Upper Section] (Continuation of the Gate of Differences in Establishing the Divisions)
+
+**Second: Establishing aspect but not seeing** (as with □□□ [Note: probably Bhāviveka/Qīngbiàn 清弁, or "Master Qīngbiàn"] — [Note: 縁 is probably a superfluous character]): according to his position, from the standpoint of ultimate truth (*paramārtha*), both seeing and aspect are non-existent; from the standpoint of conventional truth (*saṃvṛti*), both exist. However, following the characterization, aspect exists while seeing does not. For example, when the eye-consciousness cognizes blue and so forth, blue is itself mind; apart from blue and so forth there is no separate cognitive subject (*nengon*/能縁), and therefore "only the object" (*yuijing*/唯境) is established.
+
+**Third: Establishing both aspect and seeing** (such as the Sarvāstivāda (*Sappōda*/薩婆多) and others, or in Mahāyāna, Vasubandhu and others).
+
+**Fourth: Both divisions are non-existent** (such as nihilistic non-Buddhists (*gedō*/外道) who eliminate (deny) external objects).
+
+---
+
+### Gate of Divergent Theories on the Cognitive Mode (*gyōsō*/行相) (行相異説門)
+
+Regarding this cognitive mode (*ākāra*/行相), the explanations of the six masters — Kuījī (基), [□ — Note: 側 is probably 測, i.e., Yuance/圓測], Guān (観), Fàn (範), Zhèng (証), and Fǎng (昉) — differ from one another. Here, we will first set forth the doctrines of the two masters Kuījī and Yuance [Note: same as above].
+
+**Within Master Kuījī's explanation, there are altogether three views:**
+
+**First view:** The self-nature division of consciousness takes "discriminative cognition" (*ryōbetsu*/了別) as its cognitive mode; therefore the cognitive mode is the seeing-division [Note: the 疏 has four characters 数体亦然 below this]. "Aspect" (*sō*/相) means substance (*tai*/体). That is to say, the object [Note: 是境 appears as 謂境相 in the 疏] acting upon the characteristic of the object (*kyōsō*/境相) is called the "cognitive mode." Explanation: the intent of this view [□□, probably 者謂] is that the seeing-division is called the "cognitive mode." Because the seeing-division as cognitive subject acts upon the substance of the object, it is called the "cognitive mode." By this principle, correct wisdom (*shōchi*/正智) is also subsumed under the name "cognitive mode."
+
+**Second view:** "Aspect" (*sō*/相) means [Note: the 疏 has the character 相 here] appearance or form. Acting upon the phenomenal characteristics (*sōjō*/相状) of the object is called the "cognitive mode." Explanation: the intent of this view [□, probably 此] is that phenomenal characteristics means the phenomenal characteristics of the object-cognized — that is, the aspect-division. When the cognizing seeing-division acts upon the object, those phenomenal characteristics are called the "cognitive mode." By this principle, correct wisdom is *not* called the "cognitive mode," because it has no aspect-division.
+
+**Third view:** The phenomenal mode (*sōmō*/相貌) of the discursive understanding (*gyōge*/行解) that acts upon the object is called the "cognitive mode." Explanation: the phenomenal mode of the seeing-division's cognitive function and discursive understanding is called the "cognitive mode." This interpretation also does not apply to non-discriminative wisdom (*mufunbetsu-chi*/無分別智). Discursive understanding always operates upon the aspect-division. Within correct wisdom there is no aspect-division.
+
+### [Lower Section]
+
+Therefore, one cannot [□, probably 名 or 作] say "discursive understanding." Hence correct wisdom is excluded. Among these three views, the one that names "cognitive mode" by the meaning of "acting upon the aspect" [Note: □□□□ — probably 本解非名 — the *ki* has no characters 名字] is the meaning of "discursive understanding." In Master Kuījī's present intention, there must necessarily be two kinds of cognitive mode: first, the seeing-division is named "cognitive [□□, probably 相]"; second, the reflected image (*eizō*/影像) is named "cognitive mode." If only the seeing-division alone were taken as the "cognitive mode," how could it be said of the eighth consciousness's five simultaneously arising [Note: □□ probably 時五] mental factors (*shinshohō*/心所法) that they have "the same object of cognition but not the same cognitive mode"? Therefore there must necessarily be two cognitive modes. How do we know this? In the third fascicle of Kuījī's commentary it says: "However, there are two kinds of cognitive mode: first, the seeing-division (as the treatise says, 'this function of discriminative cognition is subsumed under the seeing-division') — that is, all consciousnesses and so forth all have this cognitive mode; it is necessarily present with respect to the object-cognized. Second, the reflected image's aspect-[division □, probably 分] is called the 'cognitive mode' — for all consciousnesses it is sometimes present and sometimes absent, and the object-cognized is not fixed. When the present treatise [Note: 疏 writes 此且] says to take only the seeing-[□□, probably 分為] cognitive mode, this is an explanation based on what is necessarily present in all consciousnesses. Or, from the perspective of those who distinguish the substance from Hīnayāna, explaining that [□□□, probably 影像相] is the cognitive mode, this is because it is the same in Hīnayāna. However, if only the first explanation is accepted and the second is absent, then concerning the five mental factors simultaneously arising with the eighth consciousness at the [same] time, how could one say 'same object of cognition but not the same phenomenal characteristic (*shosō*/所相)'? Therefore there must necessarily be [□, probably 二] explanations, and [the position] taking the reflected image aspect as the cognitive [Note: 行 — the character 相 is probably missing in the 疏] comes from the *Pramāṇasamuccaya*." Based on this textual evidence, Master Kuījī's intention is that one must invoke two kinds and call them "cognitive mode."
+
+However, Master Fàn objected to Master Kuījī's interpretation, saying: "Aspect (*sō*) refers to the aspect-division. Because the seeing-division traverses (*gyōreki*/行歴) the preceding aspect, it is called the 'cognitive mode.' If one says 'object-characteristic' (*kyōsō*/境相), or 'the substantial characteristic of the object-cognized,' or 'the phenomenal characteristic of the object-cognized,' these extend to the other divisions (*yo no bun*/餘分) as well, and therefore only the aspect-division is taken. If one says 'because of the phenomenal mode of discursive understanding,' how would there be no difference between the aspect-division and the self-witnessing division and so forth?" Master Shénfǎng (神昉)... (continues on next page)

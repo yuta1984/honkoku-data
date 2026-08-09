@@ -316,7 +316,7 @@ filename	status	image
 315.txt	completed	https://dl.ndl.go.jp/api/iiif/954691/R0000315/full/full/0/default.jpg
 316.txt	completed	https://dl.ndl.go.jp/api/iiif/954691/R0000316/full/full/0/default.jpg
 317.txt	initiated	https://dl.ndl.go.jp/api/iiif/954691/R0000317/full/full/0/default.jpg
-318.txt	default	https://dl.ndl.go.jp/api/iiif/954691/R0000318/full/full/0/default.jpg
+318.txt	initiated	https://dl.ndl.go.jp/api/iiif/954691/R0000318/full/full/0/default.jpg
 319.txt	default	https://dl.ndl.go.jp/api/iiif/954691/R0000319/full/full/0/default.jpg
 320.txt	default	https://dl.ndl.go.jp/api/iiif/954691/R0000320/full/full/0/default.jpg
 321.txt	default	https://dl.ndl.go.jp/api/iiif/954691/R0000321/full/full/0/default.jpg

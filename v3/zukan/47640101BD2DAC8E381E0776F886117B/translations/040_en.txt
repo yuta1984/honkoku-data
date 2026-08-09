@@ -1,27 +1,28 @@
-The Wakan Sansai Zue (Illustrated Sino-Japanese Encyclopedia) states in the section on wet grasses:
-　　Seikō (Artemisia annua) 《Alternative names》 Kusagao, Hōkai, Ken
-　　　　Kōgao, Jingao
-　　　　　Commonly called: Kusayomogi (stinking wormwood) 《Also called》 Kusaninjin (stinking carrot)
-　　　　　The Tashiki states:
-　　　　　　　Karayomogi
-◦Kawaraninjin
-◦Noninjin from the Book of Songs
+**From the *Wakan Sansai Zue* (和漢三才図会), Section on Moisture-Loving Herbs (*Shitsusōrui*):**
 
-Teii year, intercalary 6th month, 26th day
-Sketched in the garden
+　*Seikō* (青蒿, *Artemisia annua*)　Alternative names: *Sōkō* (草蒿), *Hōkai* (方潰), *Ken* (菣; pronounced like "Ken/Qian"), *Kōkō* (香蒿), *Jinkō* (𤜢蒿)
 
-The Kyūkō Yafu (Famine Relief Flora) states:
-　Seikōji (Kawarayomogi)
-　　《namely》 Inchinko (Artemisia capillaris)
+　　○ *Kawara-ninjin* (River-bank carrot/wormwood)
+　　○ *No-ninjin* (Field carrot/wormwood) — name appearing in the *Shijing* (毛詩)
 
-Yamato Honzō
-【Seal】Listed in the
-　　　fragrant herbs section
+　　　　Colloquially called "*Kusa-yomogi*" (臭蒿, "stinking mugwort"), and also "*Kusa-ninjin*" (臭胡蘿蔔, "stinking carrot").
+　　　　The *Tashikiben* (多識篇) states: "*Kara-yomogi*" (加羅与毛岐)
 
-I (Mōri Baien) say:
-　The Kyūkō's classification of seikō as inchin is incorrect.
-　Inchin and seikō are different species. Inchin has leaves that are
-　bluish-white like inchin and has no fragrance. Seikō has green leaves that are
-　thick and luxuriant with a slight fragrance. The Wakan Sansai Zue states that seikō
-　has no branching, but this is not detailed. Seikō collected on the 6th day of the 6th month
-　can be prepared into divine medicine as seen in the Honzō
+---
+
+Sketched in the garden on the 26th day of the intercalary 6th month, Year *Teigai* (1827).
+
+---
+
+**The *Kyūkō Honzō* (救荒本草) states:**
+
+　*Seikō-ji* (青蒿児, *Kawara-yomogi*) is
+　　the same as *Inchinko* (茵陳蒿, *Artemisia capillaris*).
+
+　　　　　　　(Reference: *Yamato Honzō*) 【Seal: Listed under *Hōsō* (Fragrant Herbs) category】
+
+---
+
+**I (Baien) say:**
+
+The *Kyūkō Honzō*'s identification of *Seikō* (青蒿) as *Inchin* (茵陳蒿) is incorrect. *Inchin* and *Seikō* are distinct species. *Inchin* has leaves that are blue-white in color and has no fragrance. *Seikō* has green, lush leaves and possesses a faint aroma. The statement in the *Wakan Sansai Zue* that "*Seikō* has no branching" is uncertain and questionable. It is noted in the *Honzō* (本草) that *Seikō* is harvested on the 6th day of the 6th month and used in preparing *shinkyoku* (神麯, a fermented medicinal preparation).

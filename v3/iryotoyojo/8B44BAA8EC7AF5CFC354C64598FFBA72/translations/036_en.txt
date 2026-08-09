@@ -1,25 +1,25 @@
-**[A] Point:**
-The center of the sun and moon, or the center of the earthly realm, the center of the human body—indeed, the center of all things without exception—all arise from this single point.
+**A (Kinoe)**
+**Point (·)** — The center of the sun and moon, the center of the earthly realm, the center of the human body, and the center of all things in the universe — all arise from this single point.
 
-**[B]** (Lines, basic forms) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[C]**
-**Line:** Horizontal line · Vertical line · Arc &nbsp;&nbsp;&nbsp;&nbsp; Two lines [vertical] · Two lines [diagonal] · Two lines [broken/bent]
+**B (Kinoto)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C (Hinoe)**
+**Line** — Horizontal, Vertical, Arc &nbsp;&nbsp;&nbsp;&nbsp; Two lines [vertical] · Two lines [diagonal] · Two lines [broken/angular]
 
-**[D]**
-**Triangle (as form):** Triangle [tall isosceles] · Triangle [wide isosceles] · Triangle
+**D (Hinoto)**
+**Triangle** — As a form: Triangle [tall isosceles] · Triangle [wide isosceles] · Triangle [scalene or other]
 
-**[E/K (庚)]**
-**Surface:** Right triangle (gōko) · Equilateral triangle · Rhombus · Rectangle · Square · Circle
+**E (Kanoe)**
+**Surface** — Right triangle (kōko) · Equilateral triangle · Rhombus · Rectangle · Square · Circle
 
-**[F/K (辛)]**
+**F (Kanoto)**
 **Solid**
 
-It is only upon reaching the solid that form is first truly determined. Among solids, the cube is taken as the standard (正). Therefore, the fact that musical pitch (ritsu) emerges from this cube—with its top, bottom, four sides, and six equal faces—was discovered independently, without relying on Tomonobu's book on mathematical principles, which is likewise a remarkable thing.
+It is only upon reaching the solid that form is truly determined. Among solids, the cube (the six-faced body with equal faces on all sides — top, bottom, and four directions) is taken as the standard (*sei*). That Tomonobu independently discovered that musical tuning (*ritsu*) derives from this cube — with its six equal faces — without relying on any written treatise on mathematical principles, is also a most remarkable thing.
 
 ---
 
-**A diagram showing that the triangle is the beginning of all mathematical operations.**
+**A diagram showing that the triangle is the beginning of all mathematical operations**
 
 Four lines · Four lines (long and short) · Five lines · Six lines (long and short) · Eight lines
-[The ways in which multiple lines form shapes are various, as shown here.]
+[The ways in which multiple lines form figures are various, as illustrated here.]
 
-Any figure of four lines or more can be divided into triangles; but when a triangle is divided, only lines remain, and no shape is formed. Therefore it cannot be further divided. Thus, the triangle is a naturally occurring shape that inherently contains the principles (ri) of all shapes. It is for this reason that three gives rise to all things. Astronomy, calendar science, solar and lunar eclipses, and all forms of arithmetic make use of this principle of three—this is an immovable, fixed principle of heaven and earth, and it is the very reason why the study of pitch and tuning (ritsuryō) takes heaven and earth as its model.
+Any figure made of four or more lines can be divided into triangles; but when a triangle is further divided, only lines remain and no figure (*katachi*) is formed. Therefore, a triangle cannot be divided further. Hence, the triangle is a natural form that inherently contains the principles (*ri*) of all figures, and this is the reason why three gives rise to all things. That the number three is used in astronomy, calendar-making, solar and lunar eclipses, and all manner of arithmetic is an immovable, fixed principle of heaven and earth — and it is the very reason why the study of musical tuning (*ritsuryō*) takes its law from heaven and earth.
