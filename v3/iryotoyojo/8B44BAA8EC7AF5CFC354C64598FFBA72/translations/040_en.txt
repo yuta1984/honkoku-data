@@ -1,0 +1,20 @@
+**[Diagram C (丙) — Explanation]**
+Starting from the cubic form (*hōtai*) obtained by multiplying one by nine, to show the beginning of its movement in forming the *ritsu* (pitch-pipes/musical scales): by adding one and subtracting one, four, three, and two emerge — these are what become sound.
+
+**[Diagram D (丁) — Explanation]**
+This is a provisional illustration showing the principle by which sounds of differing length, brevity, high pitch, and low pitch come to form musical phrases (*fushi*).
+
+---
+
+In the *Gakki* ("Record of Learning") section of the *Liji* (礼記, *Book of Rites*), it is said: "The drum has no correspondence among the five tones (*goshō*)." That is, the sounds of the large drum (*taiko*) and hand drum (*tsuzumi*), which are not constrained by any particular pitch or key, should be contemplated in light of this diagram and its underlying principle.
+
+**[Diagonal annotation]**
+This diagonal line is five *sun* in length. That numbers possess this natural quality has been self-evidently clear since ancient times.
+
+---
+
+Even in reaching the application of three, four, and five, to know that there exists a natural mathematical principle (*sūri*), one should reflect carefully on the meaning of this diagram. In this diagram, there are fifteen horizontal lines arranged in five tiers, and sixteen vertical lines arranged in four columns, making thirty-one lines in total when horizontal and vertical are combined — a number which coincides with the count of characters (*mojikazoku*) in a *waka* poem. Stated in terms of mathematics (*sangaku*): if one side is taken as one *sun*, then vertical is four *sun* and horizontal is three *sun*; drawn with red lines (*shubiki*) as in Diagrams A and B (*kō-otsu*), the hypotenuse (*gen*) measures five *sun* in length. This is precisely the "three-four-five" calculation of the *gōkoGen* (勾股弦) — that is, the right-triangle theorem (analogous to the Pythagorean theorem). From these observations too, one can know how essential mathematical principles are to the practical work and learning of the present day.
+
+---
+
+I, Chishin (智信, the author Hirano Shigeshige's literary name), have found a convenient and accessible shortcut (*hayamichi*) by which one can come to understand that musical temperament (*onritsu*) depends upon numerical ratios (*dosū*). The method is as follows: Remove all the strings from a *sangen* (三絃, three-stringed instrument; *shamisen*), and in their place affix three strands of a new second type of string side by side. The regular bridge (*koma*) is used as it is, but in addition three small bridge-pieces (*chiisaki ji*) are inserted — one per string — toward the neck (*sao*). The first is placed at the position of "four": the interval between the old bridge (*koma*) and the small bridge (*ji*) is calculated by multiplying four by nine (the *gong* [宮, fundamental tone] of *Huangzhong* [黄鐘, *Ōshō*]), yielding four times nine equals thirty-six. The second is placed at the position of "three": [multiplied by] three... *(continues on the next page)*

@@ -1,0 +1,101 @@
+## Right Page (p. 102, Section Six)
+
+### Upper Section
+
+(Continuing from the previous page's "Section on Distinguishing Inner and Outer")
+
+Among the three types of cognition (*sānliàng* 三量: direct perception, inference, non-valid cognition): even if the perceiving-part (*jiànfēn* 見分) does not cognize the third part (self-witness-part/自証分) during inference or non-valid cognition, during direct perception it should still cognize the third part. If this is admitted, then when the perceiving-part is a direct perception (Note: "時現量" should probably be "現量時"), it should function as the result of the third part.
+
+*Answer:* It is simply because the perceiving-part resembles the external and cognizes the external that it is called "outer." It is not that its substance is outer. Therefore, even this direct perception of the perceiving-part does not cognize the third part. The latter two parts (self-witness-part and witness-of-the-witness-part) are called "inner" because their substance is inner and they cognize the inner.
+
+*Question:* Regarding the uncontaminated (*anāsrava*/無漏) perceiving-part and so forth — some say it cognizes the third part, others say it cognizes the fourth part. By what principle is "inner" determined in those cases?
+
+*Answer:* There are two interpretations here. The first says that it is precisely by this principle that the aspect-part is "outer," while the remainder (perceiving-part, self-witness-part, witness-of-the-witness-part) pervade both inner and outer, since each of them can cognize both inner and outer objects. The second says that even if the object of cognition pervades three or four parts, when distinguishing inner and outer, it is explained in conformity with the contaminated (*sāsrava*/有漏) case, because it follows the classification of contaminated inner and outer. Moreover, the treatise does not separately distinguish contaminated from uncontaminated. (Note: In the *Ki*, the quoted text reads "jiǎnbié 簡別" rather than "biéjiǎn 別簡.")
+
+---
+
+### Section on Cognizer and Cognized (*néng-suǒ yuán* 能緣所緣門)
+
+The treatise states: "The first (aspect-part) is solely the cognized. The latter three pervade both (cognizer and cognized)."
+
+Commentary: Even if something cognizes mind, if mind is taken as the aspect (*xiàng*/相), it is still solely the cognized, because the mind that constitutes the aspect-part cannot function as a cognizer.
+
+*Question:* The perceiving-part cognizes the external and is called "outer" following the object. The perceiving-part cognizes what is "solely the cognized" (the aspect-part). Following "solely the cognized," (the perceiving-part) is called "the cognized."
+
+*Answer:* □ (one character missing) That too may be so. The intention of the treatise concerns the type of image-representations. (Note: "類/lèi" in疏 reads "顯/xiǎn," which is correct.) Therefore there is no fault. The present intention is to show that because (Note: "yóu" may be missing the character "jiàn/見") of cognizing the external, one cannot turn back to cognize (the third part), and hence to establish the fourth part — that is why the name "outer" is established. □ (Note: In the commentary, □ reads "lǐ 理.") In reality it is not outer.
+
+*Question:* If the self-witness-part cognizes the perceiving-part, then the mind that is an aspect-part should not be capable of cognizing it, since it is a mind that is merely cognized — just like the mind constituting an aspect-part.
+
+*Answer:* This reasoning is incorrect. The self-witness-part's cognizing the perceiving-part is because, within the single capacity of "being a cognizer," the meanings are separately divided. If something constitutes an aspect-part, it necessarily is not a single cognitive-subject (*néngyuántǐ*/能緣体), because it is either another person's mind or a prior or subsequent (different-moment) mind. Precisely because of this, it necessarily lacks the nature of being a cognizer. Minds such as the perceiving-part are therefore capable of cognizing and deliberating. The aspect-mind is not so.
+
+### Lower Section
+
+*Question:* The second part (perceiving-part) takes the third part (self-witness-part) as its result and itself functions as the measurer. The third part cognizes the perceiving-part, takes the fourth part (witness-of-the-witness-part) as its result, and itself functions as the measurer. When (the self-witness-part) cognizes the fourth part, what does it take as its result? It cannot take the fourth part itself as its result — just as when the perceiving-part cognizes (the perceiving-part's aspect), the perceiving-part itself is not the result. (Note: "見見分分" appears to be an archaic form of "見分見分.")
+
+*Answer:* Kuiji (基/窺基) says: "This point deserves careful consideration. One takes the cognized fourth part itself as the result. This is analogous to the case of the fourth part cognizing the third part and taking it as its result — the principle is the same. Functionally this is acceptable. If one were to continue positing further parts, the regress would be infinite. □ (Note: □ is probably "gù 故.") It is sufficient only to the extent of what there is" (reading the *furigana*: *soyobaku nomini shite*, i.e., "only just so much").
+
+*Question:* If the reason for positing a fourth part is that the third part cognizes the perceiving-part with the fourth part as its result, then in cases such as the Buddhas, or the fifth and eighth consciousnesses in the causal stage, which are solely direct perceptions, one should need only three parts, with the perceiving-part being able to serve as the result of the third part. (Note: the two characters "應但" in the original appear as "𣵀" in the base text, but this seems to be an error; the text is emended here following the commentary.)
+
+*Answer:* (Note: The commentary text has the character "此" after "答.") That is not so. This is because inner and outer are fixed. The function of the perceiving-part in cognizing the external is also an outer function. (Note: "用外" may be a dittographic error.) It cannot again serve as the result of cognizing the inner. The function of the perceiving-part within a single mind cannot again pervade and cognize both inner and outer dharmas, and so forth. (etc.)
+
+*Question:* If the aspect-part is solely the cognized, the aspects that are solely the cognized are already not one (i.e., there are multiple aspects). Is the perceiving-part that cognizes them one or many?
+
+*Answer:* Fǎng's (昉/道昉) *Collection* gives two interpretations. The first says that one single perceiving-part pervades and cognizes many aspects. The second says that in accordance with the multiplicity of aspects, the functions of the perceiving-part are also many. The latter view is correct. The reason is this: the two grasping tendencies — grasping at self (*ātmagrāha*/我執) and grasping at dharmas (*dharmagrāha*/法執) — divide into two in accordance with their respective functions. How could the perceiving-part's function of cognizing blue and other aspects fail to become multiple?
+
+*Question:* If the perceiving-part becomes multiple in accordance with the differences among aspects such as blue, then the self-witness-part that cognizes the perceiving-part should also become □ (Note: □ is probably "duō 多/multiple") in accordance with the perceiving-part.
+
+*Answer:* There are two interpretations.
+
+## Left Page (p. 103, Section Seven)
+
+### Upper Section
+
+The first says: in accordance with the differences among aspects such as blue, the perceiving-part that cognizes them becomes multiple; but the functions of the perceiving-part have no distinctly different aspects, so the self-witness-part does not become multiple.
+
+The second says: just as the perceiving-part is multiple, the self-witness-part also becomes multiple.
+
+*Question:* If so, the witness-of-the-witness-part should also become multiple.
+
+*Answer:* If this becomes a problem, it should lead to an infinite regress, since the third and fourth parts mutually (Note: "手" is probably a miswriting for "互/hù, mutually") cognize each other and each divides into many. Like the net of Indra (*tóluó wǎng*/陀羅網), there would be endless (reflections). The present interpretation: the fourth part only cognizes the function of cognizing the perceiving-part; it does not cognize the function of cognizing the fourth part — hence there is no infinite regress. Although there are two interpretations, the first is correct.
+
+---
+
+### Section on Distinguishing the Three Types of Cognition (三量分別門)
+
+Among the four parts, the perceiving-part pervades the three types of cognition (Note: "通" appears to be missing "三" below it). The remaining two parts (self-witness-part and witness-of-the-witness-part) are solely direct perception (*xiànliàng*/現量). The aspect-part does not belong to any of the three types of cognition.
+
+Xīmíng (西明 = Woncheuk/圓測) in his commentary says: "The second part (perceiving-part) only cognizes the first (Note: the base text reads 'second part/二分,' but this is likely an error), cognizing external objects; therefore, among valid and non-valid cognition, it has two kinds. Among those classified as valid cognition, it pervades direct perception (*xiànliàng*) and inference (*bǐliàng*). As in the *Pramāṇasamuccaya* (集量論/Dignāga's *Compendium of Valid Cognition*), that which possesses three characteristics is classified as direct perception: (1) it is not inverted (*diāndǎo*/顚倒, i.e., free from distortion), (2) it is not tentative (*yóuyù*/猶予, i.e., free from hesitation/deliberation), and (3) it is not re-cognizing (*chóngyuán*/重緣, i.e., not a secondary cognition).
+
+Commentary: 'Not re-cognizing' is meant to exclude searching-examination (*xúnqiú*/尋求) and so forth. The searching-examination and determination induced by the five sense-consciousnesses (i.e., subsequent mental deliberation) are re-cognitions and hence are not classified as direct perception, etc." (etc.)
+
+*Question:* Since the second part (perceiving-part) cognizes external objects, it possesses two kinds among valid and non-valid cognition, and so forth. Since the third part (self-witness-part) cognizes external functions, there should also be two kinds among its valid and non-valid cognitions. If that is admitted, would the self-witness-part not then pervade the three parts (i.e., three types of cognition)?
+
+*Answer:* Although the third part cognizes external functions, because it possesses the three characteristics, it does not pervade inference and non-valid cognition. Those three characteristics are: not being inverted (*fēi diāndǎo*) (Note: □ is probably "fēi 非"), and so on. The second perceiving-part follows external cognition, and hence sometimes possesses the three characteristics and sometimes lacks them. Therefore it pervades the three types of cognition.
+
+*Question:* If the perceiving-part cognizing the aspect can yield three types of cognition, do they occur simultaneously in a single moment of mind-perceiving, or successively?
+
+### Lower Section
+
+*Answer:* There are two interpretations. The first says: these three types of cognition are mutually contradictory (Note: "互/hù" in the base text is written as "手" but emended following the *Ki*'s quotation). Within a single moment of mind-perceiving, they cannot arise simultaneously; (the *Yogācārabhūmi* states — Note: the character "云" may be missing after "伽") "A single dharma cannot have two kinds of action with distinctly different aspects."
+
+*Question:* If so, why is it that the self-witness-part's direct perception can arise together with inference and non-valid cognition?
+
+*Answer:* Although they are of a single substance (*yītǐ*/一体), the events they are directed toward differ. One is directed toward external events, the other is directed toward the self-substance — hence they can have contradictory functions arising simultaneously. When the perceiving-part of a single mind is uniformly directed toward external aspects and object-conditions, contradictory functions cannot arise simultaneously.
+
+The second says: in a single mind, the perceiving-part's direct perception and inference can arise simultaneously. Just as when the ear-consciousness arises (*shuāirán*/率爾 — in its very first, unreflective moment) and simultaneously the (five-concomitant) mental consciousness double-cognizes (*shuāngyuán*/雙緣) sounds and names □ (Note: □ is probably "jù 句/phrases"), etc.: the function of cognizing sound is called direct perception (since it cognizes real existents), while the function of cognizing names is called inference (since it cognizes conventional existents).
+
+*Question:* If a single mind's perceiving-part has both direct perception and inference simultaneously, then the two natures of good and evil should also coexist in a single mind.
+
+*Answer:* Direct perception and inference are functions of mind (*xīnyòng*/心用); therefore they can arise together in a single mind. (Note: "三/sān" is probably "善惡/good and evil.") Because their essential natures are (distinctly) fixed natures (Note: the doubled "性" is probably a scribal repetition), they cannot stand together at the same time.
+
+Master Hōng (弘法師 — Note: likely referring to a master by this title; see annotation) judges (Note: "志/zhì" does not appear in the *Ki*'s quotation) the first view to be correct.
+
+*Question:* If direct perception and inference can coexist in the perceiving-part of a single mind, how should one reconcile this with the passage from the *Yogācārabhūmi* quoted earlier?
+
+*Answer:* The second master's reconciliation says: "The statement in the *Yogācārabhūmi* — 'A single dharma cannot have two kinds of action with distinctly different aspects' — excludes the sixth mental consciousness with strong discriminative thought, and refers to the remaining five consciousnesses, the eighth consciousness, etc. Therefore there is no contradiction." Furthermore, (this master) admits that the mental consciousness concomitant with the five (sense-consciousnesses) can in a single moment cognize the eighteen elements (*aṣṭādaśadhātu*/十八界). How could one not admit that the five faculties and so forth can have direct perception?
+
+---
+
+### Section on Distinguishing the Four Conditions (四緣分別門)
+
+*(Continues on next page)*

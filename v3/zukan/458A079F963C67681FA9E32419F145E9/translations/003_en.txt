@@ -1,0 +1,31 @@
+## [Right Page]
+*Title: Honzō Zufu* (Illustrated Encyclopedia of Natural History)
+
+**Library Label:**
+- Category: Natural History
+- Class: Plants
+- Volume: 91
+- Case: 11
+
+---
+
+## [Left Page]
+
+### *Honzō Zufu*, Volume 88 — Table of Contents
+
+#### Shrubs (灌木類, *Kanboku-rui*)
+
+| Chinese Name (Reading) | Japanese Name | Figure No. |
+|---|---|---|
+| 郁李 *Yùlǐ* (*ikuri*) | Niwaume (庭梅) | 1 |
+| — [variety] | Niwazakura (庭桜) | 2 |
+| — [variety] | *(not specified)* | 3 |
+| 鼠李 *Shǔlǐ* (*sori*) | Nahecōshi (クロウメモドキ属) | 4 |
+| — [variety] | Kuroumemodoki | *(no number)* |
+| 女貞 *Nǚzhēn* (*jotei*) | Nezumimochi | 5 |
+| — [variety] | *(not specified)* | 6 |
+| 冬青 *Dōngqīng* (*tōsei*) | Mochinoki | 7 |
+| — [variety] | Nananoki / Nanamino-ki | 8 |
+| — [variety] | Fukuramochi | 9 |
+| — [variety] | Mokukeishi (木茘枝) | 10 |
+| 枸骨 *Gǒugǔ* (*kukotsu*) | Hiiragi | 11 |

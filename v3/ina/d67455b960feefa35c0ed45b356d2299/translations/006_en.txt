@@ -1,0 +1,20 @@
+Right Book (Right Section):
+　　Entry 1: Frontage: 2 ken 3 shaku　　　Labor duty: half-role　　Fujinoya
+　　　　　　 Depth: 22 ken　　　　　　　　　　　　　　　　　　　　Manzaemon
+
+　　Entry 2: Frontage: 5 ken　　　　　　 Labor duty: full-role　　　Same person (Manzaemon)
+　　　　　　 Depth: 22 ken
+
+　　Entry 3: Frontage: 5 ken 6 sun　　　Labor duty: half-role　　Minatoya
+　　　　　　 Depth: 22 ken　　　　　　　　　　　　　　　　　　　　Heibei
+
+Left Book (Left Section):
+
+　　Entry 1: Frontage: 7 ken 2 shaku 3 sun　　Labor duty: full-role　　Kamiya
+　　　　　　 Depth: 20 ken 2 shaku 5 sun　　　　　　　　　　　　　　 Soemon
+
+　　Entry 2: Frontage: 5 ken　　　　　　Labor duty: 3 bu 3 rin　　Same person (Soemon)
+　　　　　　 Depth: 8 ken　　　　　　　　　　　　　　　　　 6 mo
+
+　　Entry 3: 5 ken (width)　　　　　　　　　　　　　　　　　　Miyachi (shrine land)
+　　　　　　 3 ken (depth)

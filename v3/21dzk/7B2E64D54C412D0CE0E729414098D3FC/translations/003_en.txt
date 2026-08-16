@@ -1,73 +1,87 @@
-## Right Page (p. 100, Section Four)
+## Right Page (p. 100): *Yuishiki Bunryō-ketsu* (Section 4)
 
-### Upper Section
+### [Upper Section] (Continuation of the Gate of Divergent Theories on the Cognitive Mode)
 
-(Continued from Hōshi/Fan) The *Jūha* states: Master Fan further says: "To explain 'acting upon the aspect-part (*xiangfen*/相分) as the cognitive act (*xingxiang*/行相)' fails to accommodate the case of the wisdom of correct cognition (*zhengzhi*/正智), since such wisdom lacks an aspect-part. Moreover, as certain texts make clear, the functions of reception (*lǐngnà*/領納) and so forth each differ from one another. By this reasoning, the term *xingxiang*, meaning 'that which proceeds through a phenomenal state,' constitutes a *chiyè* (持業釈, *karmadhāraya*-type) compound. Since reception and the like belong solely to the witness-part (*jiǔ zhèngfen*/自証分) only as functions of the perceiving-part (*jianfen*/見分), there is no principle by which the witness-part and above would each have a separately distinct cognitive act. Therefore, there is no confusion of categories" (etc.).
+[Shénfǎng] collects [the foregoing arguments] and refutes [them, saying]: Furthermore, Master Fàn says: one who explains that "acting upon the aspect-division constitutes the cognitive mode" ends up not extending this to correct wisdom (*shōchi*/正智), because correct wisdom has no aspect-division. Moreover, [as the text indicates,] the functions of receptive sensation (*ryōnō*/領納) and so forth each differ; by this principle, the interpretation that "acting upon the phenomenal characteristic constitutes the cognitive mode" is a *jigōshaku* (持業釈, *karmadhāraya* compound interpretation) [Annotation 1]. And since receptive sensation and the like belong not to the self-witnessing division and so forth but solely to the function of the seeing-division, there is no reason for the self-witnessing division and so forth to each have a separate cognitive mode. Therefore, there is no risk of confusion [etc.].
 
-**The view of Master Cè (測 = Woncheuk/圓測):** "This 'cognitive act (*xingxiang*)' and 'object of cognition (*suoyuan*)' concern the relational meaning between mind and objective reality. The *Yogācārabhūmi* (瑜伽師地論), fascicle one, states: 'The dharmas of mind and mental factors share a single object of cognition (*suoyuan*) but do not share a single cognitive act (*xingxiang*) — unlike the Hīnayāna view that sharing one object means sharing one cognitive act.' Based on this passage, there are three interpretations:
+**The Doctrine of Master Yuance [Woncheuk]:** Now, regarding this cognitive mode and the object of cognition, there is the meaning of mind and object standing in relation to each other. The *Yogācārabhūmi-śāstra*, fascicle one, says: "The mind and mental factors (*citta* and *caitasika*) have the same object of cognition but not the same cognitive mode. Unlike the Hīnayāna view [Note: the character 不 may be missing after 縁], [they do] not [have] the same cognitive mode for the same object of cognition." Based on that passage, there are three school interpretations:
 
-**First interpretation:** 'Sharing one object of cognition' refers to the direct-object-base (*bēnzhì*/本質境), while 'not sharing one cognitive act' refers to the image-object (*yǐngxiàng*/影像境). The reason is as follows: take for instance the mind and mental factors of the eye-consciousness — they are said to 'share one object of cognition' because they all cognize the same direct-object-base of blue and so forth. But since the image-aspect-parts (*xiangfen*) each separately projected by mind and mental factors are individually different, they are said to 'not share one cognitive act.' According to this interpretation, *xíng* (行, 'proceeding') refers to the perceiving-part (*jianfen*), and *xiàng* (相, 'aspect') refers to the aspect-part (*xiangfen*), and the term *xingxiang* means 'the aspect traversed by the perceiving-part' — a *yīzhǔ* (依主釈, *tatpuruṣa*-type) compound. One should not raise the objection that the eighth consciousness (*ālayavijñāna*) has no direct-object-base; this is because it takes the aspects projected by others' eighth consciousness as its direct-object-base.
+**First interpretation:** "Same object of cognition" refers to the original substantial object (*honjitsu-kyō*/本質境), and "not the same cognitive mode" refers to the reflected image object (*eizō-kyō*/影像境). Why is this? For example, in the case of the mind and mental factors of the eye-consciousness, they all cognize [Note: □ is probably 緣] one and the same object that is the original substance — blue and so forth — and therefore it is said they have "the same object of cognition." Yet since the reflected image aspect-divisions (*sōbun*/相分) produced by each of the mind and mental factors respectively differ, it is said they "do not have the same cognitive mode." According to this interpretation, "action" (*gyō*/行) refers to the seeing-division, and "aspect" (*sō*/相) is the aspect-division. Since [the reflected image] is the aspect of the seeing-division, it is [Note: □ is probably 名] called the "cognitive mode." This is a *eishushaku* (依主釈, *tatpuruṣa* compound interpretation) [Annotation 2]. One should not raise the objection: "The eighth consciousness has no original substance [Note: the character 質 seems to be missing after 本]; how then can one speak of a same object of cognition?" — because the aspects transformed by the [other person's] eighth consciousness are used as the original substance.
 
-**Second interpretation:** Considering only the image (*yǐngxiàng*) that is divided into two (perceiving-part and aspect-part), each (mind and mental factor) projects something that resembles the same one, so it is called 'sharing one object of cognition.' Yet in reality, they are not truly one; hence the term 'not sharing one cognitive act.' The explanation of *xingxiang* is the same as in the preceding interpretation.
+**Second interpretation:** Taking only the reflected image [aspect-divisions], because they are divided into two [Note: 故 is probably 句], each transforms in a way that resembles one [Note: it appears that 為 is missing after 名, and 一 is missing after 同], and therefore they are called "the same object of cognition." Yet in reality they are not one. Therefore, it is said that "the cognitive mode is not the same." The interpretation of the meaning of "cognitive mode" is the same as the preceding master's explanation.
 
-*Question:* The wisdom of correct cognition (*zhengzhi*) cognizes suchness (*tathatā*). The object-body is one. How can it be said to 'resemble'? Since it directly cognizes the direct-object-base, should it not lack a cognitive act entirely?
+**Question:** When correct wisdom cognizes suchness (*tathatā*/真如), the substance of the object is one. How can it be called "resembling"? If it directly cognizes the original substance, should there not be no cognitive mode?
 
-*Answer:* The *Yogācārabhūmi* is for now speaking of ordinary minds. In reality, the wisdom of correct cognition itself uses suchness (*tathatā*) as
+**Explanation:** The *Yogācārabhūmi* is provisionally speaking about other forms of consciousness. In reality, correct wisdom uses suchness as
 
-### Lower Section
+### [Lower Section]
 
-its object of cognition. The mind and mental factors associated with the wisdom of correct cognition each have individually distinct modes of cognizing, and hence are called 'not sharing one cognitive act.'
+[Note: it appears that 一 is missing after 為] its object of cognition. The mind and mental factors associated with correct wisdom each separately perform their discursive understanding. This is what is called "not having the same cognitive mode."
 
-**Third interpretation:** 'Sharing one object of cognition' has two senses: (1) sharing because it is singular, as in the object of suchness; and (2) sharing because of resemblance, as in the image-object. However, the cognitive acts of mind and mental factors are individually distinct — consciousness uses 'discriminating-discernment' (*liǎobié*/了別) as its cognitive act, feeling (*vedanā*) uses 'reception' (*lǐngnà*/領納) as its cognitive act, and so forth. The reason: according to the first interpretation, cognizing the object of suchness would fail the condition of 'not sharing one cognitive act,' since there is no distinct aspect-part. According to the second interpretation, cognizing the object of suchness would also fail both conditions: within a single suchness there is no quality of 'resemblance,' so no aspect-part is projected and hence there is no cognitive act. Although there are three interpretations, the present treatise-master (i.e., Dharmapāla/護法) agrees with the third interpretation" (etc.). Further interpretations exist, as elaborated in that text.
-
----
-
-### The Section on the Dissimilarity of Cognitive Acts Between the Greater and Lesser Vehicles
-
-Among the eighteen schools of the Hīnayāna (小乗), with the exception of the Sāṃmitīya (正量部), all hold the following view: when mind and so on cognize an object, there are three aspects — (1) the object of cognition (*suoyuan*/所緣), (2) the cognitive act (*xingxiang*/行相), and (3) the self-substance (*tǐshì*/体事). The Sāṃmitīya does not posit an aspect-part (*xiangfen*). Their view is that mind and so forth directly cognize the external world beyond the mind, so there is no need to additionally establish an aspect-part of the external world. In the various Hīnayāna schools' view, the external world beyond the mind is called the 'object of cognition'; what Mahāyāna calls the 'aspect-part' is called the 'cognitive act'; and what Mahāyāna calls the 'perceiving-part' is called the 'self-substance (*tǐ*).' 'Substance (*tǐ*)' means the substantial aspect (*tǐxiàng*). 'Event (*shì*)' is the substantial aspect of the aspect-part of mind and mental factors.
-
-*Question:* Among the Hīnayāna schools, are the names 'aspect-part' and 'perceiving-part' (相見分) used?
-
-*Answer:* Xīmíng's (西明 = Woncheuk's) commentary says: "There are two interpretations. The first says that those schools also use the terminology of 'aspect and perceiving parts' (*xiangjiànfēn*), but the meaning differs. The second says that we apply the Mahāyāna terminology to accommodate what those schools say." That is to say,
-
-## Left Page (p. 101, Section Five)
-
-### Upper Section
-
-our Mahāyāna's two parts — aspect-part and perceiving-part — correspond in those (Hīnayāna) schools respectively to 'cognitive act' and 'event.' This does not mean that those schools also use the terms 'aspect-part' and 'perceiving-part.' Yet their 'perceiving' (*jiàn*) and 'event (*shì*)' are largely equivalent to what Mahāyāna calls the 'perceiving-part.' As for the cognitive act, there is a difference. Regarding the cognitive act as taught by the Sarvāstivāda (薩婆多) school, two interpretations have been transmitted from old:
-
-**First interpretation:** Take, for instance, the mind and so forth cognizing 'impermanence' and so on: the cognized form (*rūpa*) is called 'sharing one object of cognition,' and the distinct meaning on the object-ground of suffering, impermanence, and so forth is called 'one cognitive act.'
-
-**Alternative interpretation:** 'Sharing one object of cognition' is as explained above. The mind and mental factors together making 'the cognition of blue' is called 'sharing one cognitive act,' and so on.
-
-In the Mahāyāna school — excluding those such as Bhāviveka (清弁) who have not yet penetrated the doctrine of Vijñaptimātratā — the remaining profound adherents explain that the self-projected aspect (*zisuobiàn xiàng*/自所変相) is the object of cognition (*suoyuan*). They do not, like the various Hīnayāna schools, call the aspect-part the 'cognitive act.' The cognizing perceiving-part is called the cognitive act (*xingxiang*). The mode of cognitive understanding (*xíngjǐe xiàngmào*/行解相貌; the original text reads *xiàngzhuàng*/相状) is called the 'cognitive act' — this is a *chiyè* (*karmadhāraya*-type) compound — as distinguished previously. The self-substance-part is called 'event (*shì*),' because 'event' is 'substance.'
+**Third interpretation:** "Same object of cognition" has two meanings: (1) same because it is *one*, as in the case of the suchness-object; (2) same because it *resembles*, as in the case of the reflected image object. Yet the cognitive modes of the mind and mental factors are [Note: □ is probably 各] each distinct. Consciousness takes "discriminative cognition" (*ryōbetsu*/了別) as its cognitive mode, sensation takes "receptive sensation" (*ryōnō*/領納) as its cognitive mode, and so forth. Why? In the case of the first interpretation, when cognizing the suchness-object, the element of "not having the same cognitive mode" is lacking, because there is no separate aspect-division. In the case of the second interpretation, when cognizing the suchness-object, both meanings are absent: in the one suchness there is no element of "resembling," no aspect-division is transformed, and there is no cognitive mode. Although there are three interpretations, the present treatise-master (Kuījī) agrees with the third [etc.]. There are further interpretations, as explained extensively in that [commentary].
 
 ---
 
-### The Section on Measure, Measurer, Measured Object, and Measurement Result (能所量果門)
+### Gate of Differences in Cognitive Mode Between the Two Schools of Greater and Lesser Vehicle (大小二宗行相不同門)
 
-The three types — aspect-part, perceiving-part, and self-substance-part — correspond respectively to the measured object (*suǒliàng*/所量), the measurer (*néngliàng*/能量), and the measurement-result (*liàngguǒ*/量果). To assign them in order: just as when using a ruler and *zhang* (丈, unit of length) to measure an object — the object is the measured object (= aspect-part), the ruler is the measurer (= perceiving-part), and the wisdom that understands the count is the measurement-result (= self-witness-part/自証分). When mind and so forth measure an object, it should be analogous. What is the meaning of the 'three kinds of result'? It is the meaning of fulfilling a cause. The perceiving-part's cognizing of the aspect serves as the measurer, but what benefit is there in the measurer measuring the object? It is like a person measuring an object and thereby producing the cognitive understanding of the measurement (*liàngjiě*/量解). In the Hīnayāna, the measurement-result is the perceiving-part itself. The cognitive act is the measurer and the external aspect is the measured object — this is somewhat different from the above. In the case of the various non-Buddhist schools (*tīrthika*/外道), the object is the measured object, wisdom is the measurer, and the self (*ātman*/我) is the measurement-result, since they posit the self as the knower.
+Among the eighteen schools of Hīnayāna [Annotation 3], excepting the Saṃmatīya (*Shōryōbu*/正量部), all advance the following doctrine: when the mind and so forth cognize an object, there are [Note: the character 二 is probably superfluous] three meanings: (1) object of cognition (*shoen*/所縁), (2) cognitive mode (*gyōsō*/行相), and (3) substantial event (*taiji*/体事). The Saṃmatīya, however, does not establish the aspect-division. The intention of that school is: the mind and so forth directly cognize the external objects of mind; what need is there to additionally establish an aspect-division of the object?
 
-Master Fan's view: (Note: the text as quoted in the *Ki* reads: "Master Fan sets out two interpretations: first, the direct-object-base is the measured object, the aspect-part is the measurer, the perceiving-part is the measurement-result; second, [etc.]." The present interpretation is offered, and there may be a variant text.)
+Those (Hīnayāna) schools say: the external objects of mind are called the "object of cognition" (*shoen*); what Mahāyāna calls the aspect-division is called the "cognitive mode" (*gyōsō*); what Mahāyāna calls the seeing-division is called the "substance" (*tai*/体). "Substance" means substantial characteristic (*taiso*/体相). "Event" (*ji*/事) is the substantial characteristic of the aspect-division of the mind and mental factors.
 
-When positing two parts (二分): the aspect-part is the measured object (Note: the *Ki* quotation reads 'direct-object-base' for 'aspect-part'), the perceiving-part is the measurer, and the decisive clarity of that very perceiving-part is the measurement-result. Master Kuiji's (基/窺基) view is the same.
+**Question:** Among the Hīnayāna schools, are the names "aspect-division" and "seeing-division" used?
 
-When positing three parts (三分): the aspect-part is the measured object, the perceiving-part is the measurer, the self-witness-part is the measurement-result.
+**Answer:** The commentary of Xīmíng [Woncheuk] [Annotation 4] says: there are two interpretations here.
 
-When positing four parts (四分): the aspect-part is the measured object, the perceiving-part is the measurer, the self-witness-part is the measurement-result. Also: the perceiving-part is the measured object, the self-witness-part is the measurer, the witness-of-the-witness-part (証自証分) is the measurement-result. Also: the witness-of-the-witness-part is the measured object, the self-witness-part is the measurer, and the witness-of-the-witness-part itself is the measurement-result (etc.).
+**First interpretation:** That school (Hīnayāna) also uses [Note: the record-citation adds 名 after 分] the terminology of aspect-division and seeing-division, but the meaning differs.
 
-*Question:* The perceiving-part could serve as the measurement-result of the third part (self-witness-part). Why must we additionally establish the fourth part as the result of the third part?
+**Second interpretation:** One uses Mahāyāna terminology [Note: the Chūsan citation adds 為 after 名] to reconcile what that school teaches [Note: the record-citation adds 故 after 説]. That is to say:
 
-*Answer:* Because it is impermissible for a non-valid cognition (*fēiliàng*/非量) to serve as the result of a direct perception (*xiànliàng*/現量). It is impermissible for the perceiving-part to be an inferential or non-valid cognition when cognizing the aspect, and then when it turns back to cognize the self-witness-part, be a direct perception.
+## Left Page (p. 101): *Yuishiki Bunryō-ketsu* (Section 5)
 
-*Question:* If so, the perceiving-part cognizing the aspect may be either valid cognition or inferential cognition (*bǐliàng*/比量). Since the self-witness-part is consistently direct perception, what is wrong with taking the self-witness-part as the result? The self-witness-part is solely direct perception; even if the measurer is inference or non-valid cognition, can it not still produce a result?
+### [Upper Section] (Continuation of the Gate of Differences in Cognitive Mode Between the Two Schools)
 
-*Answer:* The self-substance of the mind in direct perception must have its result exclusively as direct perception. Inference and non-valid cognition — these two kinds — do not cognize the substance. How could they serve as the result of direct perception? Direct perception may be the result of inference, but inference does not serve as the result of direct perception.
+Our Mahāyāna aspect-division and seeing-division correspond in that school [Note: the record-citation reads 即 for 則] respectively to what are called "cognitive mode" (*gyōsō*/行相) and "event" (*ji*/事). It does not mean that that school also uses "those names" [Note: the record-citation reads 相見 for 彼名]. Yet that school's "seeing-event" is largely the same as what Mahāyāna calls the seeing-division. The cognitive mode (*gyōsō*) differs, however.
+
+Regarding the cognitive mode as taught by the Sarvāstivāda school (*Sappōda*/薩婆多) [Annotation 5], there have traditionally been two interpretations handed down:
+
+**First interpretation:** For example, when the mind and so forth cognize impermanence and so forth: the cognized form (*shoen no shiki*/所緣色) is called "the same object of cognition," and the separate meaning above the object of suffering, impermanence, and so forth is called "one cognitive mode."
+
+**Second interpretation:** The meaning of "same object of cognition" is as explained before. When the mind and mental factors and so forth all form the same cognitive understanding of "blue" (*shōge*/青解), this is called "the same cognitive mode" [etc.].
+
+Within the Mahāyāna school, excluding those who have not yet realized Consciousness-Only — such as Bhāviveka and his kind — those who have deeply realized [it] explain that what is transformed by oneself (i.e., the reflected image aspect-division) is the object of cognition, unlike the various Hīnayāna schools that call the aspect-division [Note: it appears 行 is missing after 名] "aspect" (*gyōsō*). The cognizing seeing-division is called the "cognitive mode" (*gyōsō*). The phenomenal mode (*sōmō*/相貌) [the original text reads 状] of discursive understanding (*gyōge*/行解) is called "cognitive mode." This is a *jigōshaku* (持業釈, *karmadhāraya*) interpretation, as distinguished above. The self-nature division (*jitai-bun*/自体分) is called "event" (*ji*/事), because "event" is substance.
 
 ---
 
-### The Section on Distinguishing Inner and Outer (内外分別門)
+### Gate of the Measure, Measurer, and Result of Measurement (能所量果門)
 
-The treatise states: "Among these four parts, the first two are outer and the latter [two] are inner."
+The three kinds — aspect-division, seeing-division, and self-nature division — are respectively the measured (*shoryō*/所量), the measurer (*nōryō*/能量), and the result of measurement (*ryōka*/量果) [Annotation 6]. They are assigned in that order. This is like using a ruler to measure a physical thing: the thing is the "measured" (aspect-division), the ruler is the "measurer" (seeing-division), and the wisdom that comprehends the numerical result is called the "result of measurement" (self-nature division / self-witnessing division). The same should apply to how the mind and so forth measure (*ryō*/量) — i.e., cognize — objects.
 
-*Question:* Since the perceiving-part already pervades both [inner and outer] …
+What does "three kinds of results" mean? It means the meaning of *fulfilling the cause* (*jōman'in*/成満因). When the seeing-division cognizes the aspect-division and acts as the measurer, what benefit is there to the measurer if it does not measure the object? It is like a person measuring a thing and thereby arising to a cognitive understanding of the measurement.
+
+In Hīnayāna, the result of measurement is the seeing-division itself. The cognitive mode (*gyōsō*/行相) functions as the "measurer," and the external aspect functions as the "measured." This is somewhat different from [the Mahāyāna account].
+
+Furthermore, various non-Buddhist schools (*gedō*/外道) take the object as the "measured," the wisdom (*chi*/智) as the "measurer," and the self (*ātman*/我) as the "result of measurement," because they calculate that the self is the knower.
+
+### [Lower Section]
+
+**Master Fàn's explanation** [Note: The text cited in the *ki* reads "Master Fàn makes two interpretations, namely: first, the original substantial object is the measured, the aspect-division is the measurer, and the seeing-division is the result of measurement; second, etc." — This differs from the present interpretation; there may be a variant text.]: For one who establishes [two] divisions, the original substantial object [Note: the record-citation reads "aspect-division" for "original substantial object"] is the "measured," and the seeing-division is the "measurer." The clear and definitive character of this seeing-division is then the "result of measurement." Master Kuījī's intention agrees with this.
+
+For one who establishes three divisions: the aspect-division is the "measured," the seeing-division is the "measurer," and the self-witnessing division (*jishō-bun*/自証分) is the "result of measurement."
+
+For one who establishes four divisions: the aspect-division is the "measured [□, probably 量]," the seeing-division [Note: 是 is probably 為] is the "measurer," and the self-witnessing division is the "result of measurement." Further, the seeing-division is the "measured," the self-witnessing division is the "measurer," and the witness-of-witness division (*shō-jishō-bun*/証自証分) is the "result of measurement." Further still, the self-witnessing division is the "measured" [Annotation 7], the witness-of-witness division is the "measurer," and the self-witnessing division itself is the "result of measurement." And the witness-of-witness division is the "measured," the self-witnessing division is the "measurer [農量, probably a scribal error for 能量]," and the witness-of-witness division itself is the "result of measurement" [etc.].
+
+**Question:** Since the seeing-division can serve as the result of measurement for the third division (self-witnessing division), why is it necessary to additionally establish a fourth division as the result for the third?
+
+**Answer:** Because a *non-valid cognition* (*hiiryō*/非量) cannot serve as the result of *direct perception* (*genjō*/現量) [Annotation 8]. It would be contradictory for the seeing-division — which sometimes cognizes the aspect-division as inferential or non-valid cognition — to turn back and cognize the self-witnessing division and thereby become again a direct perception.
+
+**Question:** If that is so, even if the seeing-division cognizes the aspect-division and is sometimes valid, sometimes inferential — what harm is there in the self-witnessing division, which is uniformly direct perception, serving as (the seeing-division's) result? The self-witnessing division is solely direct perception. The measurer can also take inferential or non-valid [cognition] as its result.
+
+**Explanation:** The self-nature (*jitai*/自体) of a direct-perception mind, even when serving as the result for inferential or non-valid [cognition], may be solely direct-perceptual. But inferential and non-valid cognitions of the two kinds do not witness (*shō*/証) the substance. How could they serve as the result of direct perception? Direct perception can serve as the result of inference, but inference cannot serve as the result of direct perception.
+
+---
+
+### Gate of the Distinction of Inner and Outer (内外分別門)
+
+The treatise says: "Among these four divisions, the first two are outer, and the latter [Note: the character 二 is probably missing after 後] are inner."
+
+**Question:** Since the seeing-division already extends to both [inner and outer]…(continues on next page)

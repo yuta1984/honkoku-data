@@ -1,85 +1,84 @@
-[Right Page]
-[Upper Section: Reading Notes on the Ise Monogatari]
+【Right Page】
+【Margin Label: 3-2】
 
-Reading Conventions for the Ise Monogatari
-(Notes on correct pronunciation and interpretation)
+**Notes on Reading the Ise Monogatari (Yomikuse)**
 
-▲ Section 49: "Ito okashige" should be read with voiced consonants (nigori). The character "ka" in "urawakame" should be read with unvoiced consonants (sumu).
+▲Section 49: "ito okashige" should be read with voiced consonants. The character "ka" in "urawakemi" should be read with an unvoiced consonant.
 
-▲ Section 50: "Adakurabe" should be voiced. It should be read as "katato-to," meaning "the mutual feeling/heart." Reading it as "katami" is an error (it is a matter of new interpretation).
+▲Section 50: "adakurabe" should be read with voiced consonants. "Katami" should be read [with "ka" and "ta" lengthened, and "mi" voiced]—this means "mutually/reciprocally." Reading "katami" with an unvoiced "mi" refers to "keepsake/memento."
 
-▲ Section 55: "Eumajiu" — this ultimately means "something that shall not come into my hands." Reading it as "yō" is incorrect.
+▲Section 55: "Eumajiu"—this means that something ultimately will not come into one's possession. Reading it as "yō" is incorrect.
 
-▲ Section 58: "Miyahara" should be voiced. Read as "sudaku." "Ochibotazura" should be voiced. "Yukamashi" should be read unvoiced.
+▲Section 58: "Miyahara" should be read with voiced consonants. Read as "sudaku." "Ochiho tazura" should be read voiced. "Yukamashi" should be read with unvoiced consonants.
 
-▲ Section 60: "Shisō no tomo (official?)" should be read unvoiced. Read and pause at "friend/companion," then continue with "sate me ni te." (It is written as "wife/spouse.") "Sarasuba" means "sa arasuba" (otherwise/if that were not so).
+▲Section 60: "Shisō no kannin" should be read with unvoiced consonants. Read "kannin" as a complete unit, then continue with "sate me nite." The word written is "妻" (wife/spouse). "Sarazuba" means "sa arazuba" (if it were not so).
 
-▲ Section 63: Should be read as "saburō." "Onwonoko" (御男) should be read as "on-wo-no-ko."
+▲Section 63: Should be read as "saburau." "御男" should be read as "on'wonoko."
 
-▲ Section 65: "Makate" should be read as "makante."
+▲Section 65: "Makate" should be read as "makante."
 
-▲ Section 69: "Soko ni gosasekeri" should be voiced.
+▲Section 69: "Sokonigosasakeri" should be read with voiced consonants.
 
-▲ Section 77: "Meha tagahinagara" should be voiced.
+▲Section 77: "Mehatakai nagara" should be read with voiced consonants.
 
-▲ Section 78: "Yamashina no senshi" should be read as "no mikoto."
+▲Section 78: Should be read as "Yamashina no Senshi no Mikoto."
 
-▲ Section 81: "Taijiki" should be voiced.
+▲Section 81: "Taijiki" should be read with voiced consonants.
 
-▲ Section 82: "Yamato Uda" should be voiced (referring to Uda in Yamato Province). "Sono ki no moto" should be read as "kono moto." "Notamaukereba" should be voiced. "Kaegaezu" is read with "ujitamō," and "kaesugaesu" should be unvoiced. "Mine mo tahira" should be read as "taira."
+▲Section 82: "Yamato uda" should be read voiced—it refers to Yamato Uda (a place name). "Sono ki no moto" should be read as "kono moto." "Notamaukereba" should be read voiced. "Kahekahe zuji tamau"—"kahesukahesu" should be read unvoiced. "Mine mo tahira" should be read as "taira."
 
-▲ Section 85: "Kotodatsu" should be voiced. "Kohosuga goto furite" should be voiced.
+▲Section 85: "Kotodatsu" should be read voiced. "Kohosu ga goto furite" should be read voiced.
 
-▲ Section 87: Read as "yomikeru zo kono to." "Iza kono yama" should be voiced. "Inakahito wa" should be read as "inaka-udo."
+▲Section 87: Should be read as "yomikeru sono koto." "Iza kono yama" should be read voiced. "I naka hito wa" should be read as "inakabito."
 
-▲ Section 93: "Afuna-funa" should be read as "auna-auna."
+▲Section 93: "Auna auna" should be read as "auna auna."
 
-▲ Section 95: "Nado shite" should be read as "nanto shite."
+▲Section 95: "Nani shite" should be read as "nan to shite."
 
-▲ Section 97: "Ōimōchikimi" should be voiced.
+▲Section 97: "Ōi mōchigimi" should be read voiced.
 
-▲ Section 101: "Marōdo-sane" should be voiced.
+▲Section 101: "Marauto sane" should be read voiced.
 
-▲ Section 108: "Kaze fukeba" should be read as "towa ni."
+▲Section 108: "Kaze fukeba towa" should be read as "ni."
 
-▲ Section 109: "Kohin to ka mishi" should be read unvoiced.
+▲Section 109: "Kohin to ka mishi" should be read with unvoiced consonants.
 
-▲ Section 111: "Tōrau yō ni te" should be read as "tomurau." "Saru to nigenaku" should be voiced.
+▲Section 111: "Torafu yō ni te" should be read as "tomurau." "Saru to nigenaku" should be read voiced.
+
+【Illustration】
 
 ---
 
-[Left Page: Main Text]
+【Left Page】
 
-**Section 49**
-Long ago, a man looked upon his (step-)sister, who was exceedingly charming in appearance, and sent (this poem):
+**"Section 49"**
 
-*Urawakame, neyoge ni miyuru wakakusa wo / hito no musuban koto wo shi zo omou*
-(Young and fresh, this tender grass that looks as though it sleeps well — I am troubled at the thought of another tying it to himself.)
+Long ago, a man, gazing upon his sister who was remarkably charming in appearance, composed:
 
-She replied:
+*Young grass that appears to be growing up beautifully and well—I cannot help but think of someone plucking and binding it for themselves.*
 
-*Hatsukusa no nado mezurashiki koto no ha zo / uranaku mono wo omoikerukana*
-(Like new spring shoots, what a remarkable word you have sent — you who have thought of me so guilelessy and innocently.)
+He presented this poem to her. In reply:
 
-**Section 50**
-Long ago, there was a man. He resented the one who resented him (and composed):
+*Like new young shoots of grass, what a surprising verse this is—you have been thinking such innocent, guileless thoughts.*
 
-*Tori no ko wo tō-zutsu tō wa kasanedo mo / omowan hito wo omou mono ka wa*
-(Though one cannot stack bird's eggs ten by ten to a hundred, would I really think of one who does not think of me? — Yet I do.)
+---
 
-She replied:
+**"Section 50"**
 
-*Asatsuyu wa kie noko rite mo arinubeshi / tare ka kono yo wo tanomi hatsubeki*
-(The morning dew may linger and remain a while, yet who in this world can rely on anything to the very end?)
+Long ago, there was a man. Resenting someone who resented him:
 
-The man again:
+*Even if you were to stack bird's eggs ten by ten in ten layers (treating me so harshly), would I ever yearn for someone who does not care for me? Never.*
 
-*Fuku kaze ni kozo no sakura wa chirazu tomo / ana tami gata hito no kokoro wa*
-(Even if last year's cherry blossoms had not scattered in the blowing wind, how impossible to grasp is the heart of a person like you.)
+When he said this, (she replied):
 
-The woman replied again:
+*Morning dew may linger and remain awhile, but who in this world can truly place their hope in another?*
 
-*Yuku mizu ni kazu kaku yori mo hakanaki wa / omowan hito wo omou narikeri*
-(More fleeting than writing numbers in flowing water — that is the act of loving one who does not love you.)
+Again the man:
 
-And the man again (continues on next page)...
+*Even if last year's cherry blossoms did not scatter in the blowing wind—ah, yours alone is a heart so difficult to rely upon.*
+
+Again the woman's reply:
+
+*More fleeting than writing numbers on flowing water is the act of longing for one who does not long for you.*
+
+Again the man (continues)

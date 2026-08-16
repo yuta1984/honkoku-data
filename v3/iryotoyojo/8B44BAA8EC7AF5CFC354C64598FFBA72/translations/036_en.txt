@@ -1,25 +1,25 @@
-**A (Kinoe)**
-**Point (·)** — The center of the sun and moon, the center of the earthly realm, the center of the human body, and the center of all things in the universe — all arise from this single point.
+**[A] Point**
+The center of the sun and moon, or the center of the earth, the center of the human body, and the center of all things in creation — all arise from this single point.
 
-**B (Kinoto)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C (Hinoe)**
-**Line** — Horizontal, Vertical, Arc &nbsp;&nbsp;&nbsp;&nbsp; Two lines [vertical] · Two lines [diagonal] · Two lines [broken/angular]
+**[B]** (Left section) **[C]** (Right section)
+Line: horizontal line, vertical line, arc line | Two lines [vertical] · Two lines [diagonal] · Two lines [broken/bent]
 
-**D (Hinoto)**
-**Triangle** — As a form: Triangle [tall isosceles] · Triangle [wide isosceles] · Triangle [scalene or other]
+**[D]**
+Triangle: forming a shape · Triangle [tall isosceles] · Triangle [wide isosceles] · Triangle
 
-**E (Kanoe)**
-**Surface** — Right triangle (kōko) · Equilateral triangle · Rhombus · Rectangle · Square · Circle
+**[G] (Geng)**
+Plane: right-triangle (gou-gu) · equilateral triangle · rhombus · rectangle · square · circle
 
-**F (Kanoto)**
-**Solid**
+**[H] (Xin)**
+Solid
 
-It is only upon reaching the solid that form is truly determined. Among solids, the cube (the six-faced body with equal faces on all sides — top, bottom, and four directions) is taken as the standard (*sei*). That Tomonobu independently discovered that musical tuning (*ritsu*) derives from this cube — with its six equal faces — without relying on any written treatise on mathematical principles, is also a most remarkable thing.
+It is only upon reaching the solid that form is truly determined. Among solids, the cube (the "square solid") is taken as the standard. Therefore, the fact that musical tuning (ritsu) emerges from this solid body — whose top, bottom, four sides, and six faces are all equal — was discovered independently by Tomonobu, without reference to any mathematical texts; this too is a remarkable thing.
 
 ---
 
-**A diagram showing that the triangle is the beginning of all mathematical operations**
+**Diagram showing that the triangle is the beginning of all mathematical operations:**
 
 Four lines · Four lines (long and short) · Five lines · Six lines (long and short) · Eight lines
-[The ways in which multiple lines form figures are various, as illustrated here.]
+*(The way in which multiple lines form figures is varied, as illustrated here.)*
 
-Any figure made of four or more lines can be divided into triangles; but when a triangle is further divided, only lines remain and no figure (*katachi*) is formed. Therefore, a triangle cannot be divided further. Hence, the triangle is a natural form that inherently contains the principles (*ri*) of all figures, and this is the reason why three gives rise to all things. That the number three is used in astronomy, calendar-making, solar and lunar eclipses, and all manner of arithmetic is an immovable, fixed principle of heaven and earth — and it is the very reason why the study of musical tuning (*ritsuryō*) takes its law from heaven and earth.
+Any figure of four lines or more can always be divided into triangles, but when a triangle is divided, it yields only lines and no longer forms a shape. Therefore, it cannot be divided further. Thus the triangle is a naturally occurring form that inherently contains within it the principles of all shapes. This is the reason why three gives rise to all things. In astronomy, calendar science, solar and lunar eclipses, and all forms of arithmetic, the use of this number three is an immutable principle of heaven and earth, and it is the very reason why the study of musical tuning (ritsuryō) takes heaven and earth as its model.

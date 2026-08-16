@@ -1,41 +1,31 @@
 **Moon Star (Monday Star)**
 Eighth
-Amida
+Amida (Amitābha)
 
 **Jupiter Star (Thursday Star)**
 Ninth
-Fudo
+Fudō (Acalanātha)
 
-**Twenty-Eight Lunar Mansions**
+---
 
-**Jiao Constellation (Horn) 《First》**
-According to the Comprehensive Study of the Book of Documents, the two stars of Jiao form the celestial gate, with the space between them being the heavenly gate, and inside is the heavenly court, through which the ecliptic passes. They govern all military affairs.
-[Star chart]
-Flat path
-Jiao ○ ○
-○
-○
+## The Twenty-Eight Lunar Mansions
 
-**Kang Constellation (Neck) 《Second》**
-According to the comprehensive study, the four stars of Kang represent the inner court of the Son of Heaven.
-[Star chart]
-○ ○
-○Kang ○
+**Horn Mansion (Jiao/Kaku), No. 1**
 
-**Di Constellation (Root) 《Third》**
-According to the comprehensive study, the four stars of Di are the lodging officials of the Son of Heaven.
-[Star chart]
-○
-○ Di ○
-○
+According to the *Shujing Tongkao* (Comprehensive Study of the Book of Documents), the two stars of the Horn Mansion form the Celestial Gate. The space between them is the Heavenly Gate, and the interior is called the Heavenly Court. The ecliptic passes through its center. It is therefore said to preside over military affairs.
+[Star diagram: Jiao/Kaku, Píngdào]
 
-**Fang Constellation (Room) 《Fourth》**
-According to the comprehensive study, the four stars of Fang form the bright hall, the palace where the Son of Heaven administers government 《abbreviated below》
-[Star chart]
-○
-○Fang
-○
-○
-○
-○
-○Gou Qian
+**Neck Mansion (Kang/Kō), No. 2**
+
+According to the *Tongkao*, the four stars of the Neck Mansion constitute the inner court of the Son of Heaven.
+[Star diagram: Kang/Kō]
+
+**Root Mansion (Di/Tei), No. 3**
+
+According to the *Tongkao*, the four stars of the Root Mansion are the official lodgings of the Son of Heaven.
+[Star diagram: Di/Tei]
+
+**Room Mansion (Fang/Bō), No. 4**
+
+According to the *Tongkao*, the four stars of the Room Mansion form the Míngтáng (Bright Hall), the palace from which the Son of Heaven issues his governance. (The remainder is abbreviated.)
+[Star diagram: Fang/Bō, Gōuqián]

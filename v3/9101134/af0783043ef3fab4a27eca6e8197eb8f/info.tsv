@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116298/full/full/0/default.jpg
+001.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116298/full/full/0/default.jpg
 002.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116299/full/full/0/default.jpg
 003.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116300/full/full/0/default.jpg
 004.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116301/full/full/0/default.jpg
@@ -30,8 +30,8 @@ filename	status	image
 029.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116326/full/full/0/default.jpg
 030.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116327/full/full/0/default.jpg
 031.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116328/full/full/0/default.jpg
-032.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116329/full/full/0/default.jpg
-033.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116330/full/full/0/default.jpg
+032.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116329/full/full/0/default.jpg
+033.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116330/full/full/0/default.jpg
 034.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116331/full/full/0/default.jpg
 035.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116332/full/full/0/default.jpg
 036.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116333/full/full/0/default.jpg
@@ -63,8 +63,8 @@ filename	status	image
 062.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116359/full/full/0/default.jpg
 063.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116360/full/full/0/default.jpg
 064.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116361/full/full/0/default.jpg
-065.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116362/full/full/0/default.jpg
-066.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116363/full/full/0/default.jpg
+065.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116362/full/full/0/default.jpg
+066.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116363/full/full/0/default.jpg
 067.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116364/full/full/0/default.jpg
 068.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116365/full/full/0/default.jpg
 069.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116366/full/full/0/default.jpg
@@ -74,8 +74,8 @@ filename	status	image
 073.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116370/full/full/0/default.jpg
 074.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116371/full/full/0/default.jpg
 075.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116372/full/full/0/default.jpg
-076.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116373/full/full/0/default.jpg
-077.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116374/full/full/0/default.jpg
+076.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116373/full/full/0/default.jpg
+077.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116374/full/full/0/default.jpg
 078.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116375/full/full/0/default.jpg
 079.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116376/full/full/0/default.jpg
 080.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116377/full/full/0/default.jpg
@@ -84,7 +84,7 @@ filename	status	image
 083.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116380/full/full/0/default.jpg
 084.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116381/full/full/0/default.jpg
 085.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116382/full/full/0/default.jpg
-086.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116383/full/full/0/default.jpg
+086.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116383/full/full/0/default.jpg
 087.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116384/full/full/0/default.jpg
 088.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116385/full/full/0/default.jpg
 089.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/1116386/full/full/0/default.jpg

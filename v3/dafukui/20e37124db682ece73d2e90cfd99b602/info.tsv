@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552082/full/full/0/default.jpg
-002.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552083/full/full/0/default.jpg
-003.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552084/full/full/0/default.jpg
+002.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552083/full/full/0/default.jpg
+003.txt	initiated	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552084/full/full/0/default.jpg
 004.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552085/full/full/0/default.jpg
 005.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552086/full/full/0/default.jpg
 006.txt	default	https://www.digital-archives.pref.fukui.lg.jp/iiif/2/2552087/full/full/0/default.jpg
