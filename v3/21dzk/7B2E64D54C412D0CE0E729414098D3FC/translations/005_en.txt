@@ -1,0 +1,103 @@
+## Right Page (p. 104, Section Eight)
+
+### Upper Section
+
+*(Continuing the "Section on Distinguishing the Four Conditions" [四緣分別門])*
+
+There are three distinctions of their own. First, explanation in terms of the aspect-part (*xiāngfēn* 相分). Second, explanation in terms of the perceiving-part (*jiànfēn* 見分). Third, explanation in terms of the self-witness-part (*zìzhèngfēn* 自証分). (Note: The character "shuō 說" is absent in the base text and is supplemented following the *Ki*'s quotation.)
+
+**In terms of the aspect-part** (Note: "jiù 就" may be an error for "yuē 約"): the aspect-part operates for the perceiving-part as three kinds of conditions. First, the dominant condition (*zēngshàngyuán* 増上緣). Second (Note: "sān 三" is probably an error for "èr 二"), the object-condition (*suǒyuányuán* 所緣緣). Third, the causal condition (*yīnyuán* 因緣). That is, the seeds of the aspect-part and perceiving-part — these two kinds of seeds — are equally subsumed under the aspect-part of the eighth consciousness (*ālāyavijñāna* 第八識) and are capable of producing the perceiving-part, and therefore function as the causal condition. They are not the immediately antecedent condition (*děngwújiàn* 等無間緣), because they are within the same instant. However, the treatise states "there is no causal condition" because it is only speaking of mutually arisen present phenomena as conditions (Note: "hù 互" appears as "shǒu 手" in the base text). Here, in this passage, it is speaking of the seeds-as-aspect-part.
+
+*Question:* The aspect-part functions as the object-condition for the perceiving-part. Is there a case where the perceiving-part is not the object-condition for the aspect-part?
+
+*Answer:* Yes. This is the case with the wisdom of thusness (*zhēnrúzhì* 真如智).
+
+*Question:* True thusness (*zhēnrú* 真如) is cognized but is not the aspect-part. By the same token, could one say that the correct wisdom (*zhèngzhì* 正智) that cognizes it is not the perceiving-part?
+
+*Answer:* The correct wisdom is the cognitive agent, and since it does not certify a separate substance, it is the perceiving-part. True thusness does not arise following the mind's (*jiàn*-mind's) arising, so one cannot say that there is a transformation of aspect and perceiving-part; with regard to the aspect-part there is only a single dominant condition.
+
+The aspect-part operates in relation to the self-witness-part as two kinds of conditions: first, the dominant condition; second, the causal condition. That is, the seeds imprinted by the aspect-part, together with the seeds imprinted upon the self-witness-part, and also the innate seeds (*bēnyǒuzhǒng* 本有種) — three (kinds).
+
+*Question:* When these three kinds of seeds produce the self-witness-part, do they only produce the function (*yòng* 用), or do they produce both the substance (*tǐ* 体) and the function?
+
+*Answer:* They produce both substance and function. However, there is no separately arising aspect between the function and the substance.
+
+*Question:* The perceiving-part and the self-witness-part are already dharmas of a single substance. How can they arise in parallel?
+
+*Answer:* It is not said that they arise in parallel. It is only said that a single substance arises from multiple causes. If one explains following the distinctions of meaning, what harm is there in saying that, following their respective functions, there are two ways of arising? The third part (self-witness-part) and the fourth part (witness-of-the-witness-part), with respect to the first part (aspect-part), are only a single dominant condition.
+
+**In terms of the perceiving-part (约见说):** the perceiving-part operates in relation to the self-witness-part as two kinds of conditions: first, the dominant condition; second, the object-condition. The self-witness-part, in turn looking back toward the perceiving-part, is only a single dominant condition. The perceiving-part in relation to the fourth part, and the fourth part in relation to the perceiving-part, are only a single dominant condition.
+
+### Lower Section
+
+**In terms of the self-witness-part (约自证):** The self-witness-part in relation to the fourth part, and the fourth part in relation to the third part — both have two kinds of conditions: first, the dominant condition; second, the object-condition.
+
+*Question:* The *Yogācārabhūmi* states: "A dharma of one instant cannot serve as a cause for the dharma of that same instant." Why then does the present text say that the four parts, looking at one another, are all dominant conditions?
+
+*Answer:* A substance looking back at itself has no function of a dominant condition. But what prevents substance and function from serving as mutual dominant conditions? And two functions can likewise serve as mutual dominant conditions. The distinction of the four conditions is broadly explained in accordance with the treatise and the eighth (scroll of the) commentary.
+
+---
+
+### Section on Same Seeds and Different Seeds (同種別種門)
+
+That the third (self-witness-part) and fourth (witness-of-the-witness-part) arise from the same seeds is without question. Regarding the aspect-part and perceiving-part there is debate. The *Chéng Wéishí Lùn Zhǎngzhōng Shūyào* (成唯識論掌中枢要, "Torch," 唯識燈) states:
+
+*Question:* Do the two parts — the aspect-part and the perceiving-part — arise from the same seed, or do they arise from different seeds?
+
+*Answer:* Three masters have different views.
+
+**The first master** says: the perceiving-part and aspect-part arise from the same seed. Since (the system) is already named "consciousness-only" (*wéishí* 唯識), if they arose from different seeds, the aspect-part would be distinct from consciousness — how then could it be called "consciousness-only"? This has two sub-categories: (a) three dharmas arise from the same seed — namely the original object (*běnzhí* 本質), the reflected image (*yǐngxiàng* 影像, i.e., the aspect-part), and the perceiving-part; (b) two dharmas arise from the same seed — namely the aspect-part and the perceiving-part, etc. (etc.)
+
+**The second master** says: the perceiving-part and aspect-part arise from different seeds. (Against this view) there are three faults, as broadly explained there (in that text).
+
+**The third master** says: the two parts — the perceiving-part and the aspect-part — depending on each particular case, arise either from the same or from different seeds. For example, in the case of cognizing non-existent objects such as tortoise-hair (*guīmáo* 龜毛), the aspect-part and the perceiving-part arise from the same seed. Since such an aspect-part has no self-substance and is merely nominal, it does not separately imprint seeds; it simply arises from the same seed following the power of the perceiving-part. In the case of cognizing real objects such as the five faculties (*wǔgēn* 五根), the aspect-part and the perceiving-part arise from (Note: "jí 卽" seems to be missing the character "bié 別") different seeds. The seeds of the eighteen elements (*aṣṭādaśadhātu* 十八界) are each respectively different, and hence there is no confusion or intermixing.
+
+Among these three views, the third is superior. If one asserts that seeds are uniformly the same or uniformly different, this would be contrary to reason.
+
+*Question:* If so, why does the first scroll of the commentary (疏) say: "The aspect-part arising from a different seed is superior in terms of principle"?
+
+*Answer:* The intent of the commentary is that, with respect to real (*shí* 実) aspect-parts, they arise from different seeds.
+
+## Left Page (p. 105, Section Nine)
+
+### Upper Section
+
+*(Continuing)* For nominal aspect-parts, they arise from the same seed.
+
+*Question:* Both the aspect-part and the perceiving-part are distinct functions of the substance of consciousness. Why is it that the perceiving-part arises from the same seed as the substance of consciousness, while the aspect-part arises from a different seed from the substance of consciousness? What is the reason for this?
+
+*Answer:* Kuiji (基/窺基) says: "If one says that the aspect-part and perceiving-part each arise from different seeds, (one must note that) the perceiving-part is the meaning of the self-substance (of consciousness), being divided off as its function; apart from the substance of consciousness there is no separate (Note: "zhǒng 種/seed" seems missing after "bié 別") one. That is, the single substance of consciousness transforms and arises, resembling the perceiving-part's distinct function; consciousness is the supporting basis (*suǒyī* 所依). The seeds of the aspect-part transform, resembling the aspect (Note: "wèi 爲" may be an error for "ér 而"), and arise. Because the natures of their functions are distinct and not the same, the aspect-part arising from a different seed is superior in terms of principle. Hence the saying: the substance of consciousness transforms resembling the two parts."
+
+*Question:* Do the original object (*běnzhí* 本質) and the reflected image (aspect-part/*yǐngxiàng* 影像) arise from the same (Note: "xìng 性" is probably an error for "shēng 生") seeds, or from different seeds?
+
+*Answer:* The *Torch* (掌中枢要) says: one view holds they arise from the same seed; another holds from different seeds. Although there are two interpretations, it is also reasonable in principle that the seeds of the aspect-part and the original object be different. This is because the seeds for direct (*qīn* 親) and indirect (*shū* 疎) conditions are each distinct. In the case of cognizing the eighth consciousness: if the aspect-part and the original object arise from the same seed, one would have to admit that a single seed produces both that which deliberates (consciousness's aspect-part) and that which does not deliberate (the original object such as the sense-faculties). There would also be the fault of two body-faculties (*shēngēn* 身根) etc. arising together. Since the aspect-part and the original object arise from the same seed, why would there not be (confusion between) the two body-faculties etc.? If, when the sixth (mental) consciousness cognizes its six objects, the aspect-part is nominal, there would be the fault of a single seed producing both what is nominal and what is real. What is called "nominal" (*jiǎ* 假) here is not like nominal entities such as pots — because (the aspect-part) can be imprinted as a perfuming cause, but it simply lacks the function of a sense-faculty (*gēn* 根) and does not directly give rise to consciousness, and hence is called "nominal." For this reason the aspect-part and the original object are sometimes said to (arise from) the same (seed) and sometimes from different seeds, etc. (etc.)
+
+---
+
+### Section on Opening and Combining (開合不同門)
+
+The four parts in this way can be combined as three. The witness-of-the-witness-part is subsumed into the third part (self-witness-part), because it is the same as the self-witness (function). Therefore Dignāga (*Chénnà* 陳那) established only three parts: (1) the appropriated part (*suǒqǔfēn* 所取分); (2) the appropriating part (*néngqǔfēn* 能取分); (3) the self-witness part (*zìzhèngfēn* 自証分). These correspond respectively to the measured (*suǒliàng* 所量), the measurer (*néngliàng* 能量), and the result of measurement (*liàngguǒ* 量果).
+
+Or they can be combined as two. The third (self-witness-part) and fourth (witness-of-the-witness-part) are subsumed under and encompassed by the perceiving-part, because they share the same capacity of being cognizers. Therefore Vasubandhu (*Shìqīn* 世親) established only two parts: (1) the aspect-part; (2) the perceiving-part. This is because cognizer and cognized are distinct.
+
+Or they can be combined as one (Note: "wèi 爲" appears to be missing after "shè 攝"). This is because there is only consciousness. The above opening and combining follows the treatise in making distinctions.
+
+Master Hōng (弘法師, Kūkai): "Or they can be combined as one — namely, the aspect-part. This is because its functions are empty. Or they can be combined as one — namely, emptiness itself. Because it is neither aspect-part nor perceiving-part. Like what is called 'dharma-nature (*fǎxìng* 法性)' — because it has no substantial characteristics. Because the dharma-nature of dependent arising cannot be spoken of. In this way, opening and combining are in accordance with meaning and are unobstructed (*wú'ài* 無礙). How could one cling to one corner and obstruct broad enlightenment?"
+
+Xīmíng's (西明, Woncheuk's) commentary says: "Such opening and combining means that Dharmapāla (*Hùfǎ* 護法), in order to establish the principle of one (body of) consciousness, opened and combined according to principle. That is, although the opening and combining of four, three, etc. differ, the principle does not deviate. Hence the *Ghanavyūha Sūtra* (*Hòuyán jīng* 厚嚴経) opens (the analysis) into four parts, while the *Pramāṇasamuccaya* (*Jíliàng lùn* 集量論) combines them into three parts, etc." (etc.)
+
+*Question:* If the aspect-part and perceiving-part arise from different seeds, how can they be "combined as one"?
+
+*Answer:* One view says the perceiving-part and aspect-part arise from a single seed; therefore the aspect-part is subsumed back into the fundamental (consciousness) and declared to be a single mind. According to Bandhuprabha (*Qīnguāng* 親光), the aspect-part is empty/nominal (*xū* 虛), and since the nominal derives from the real, one speaks of a single consciousness. The present (approach of) Dharmapāla's school blocks dharmas outside of mind, or, based on the self-substance-part (*zìtǐfēn* 自体分) among the four parts, declares it to be a single substance. But in real principle (*lǐshí* 理実), the perceiving-part and aspect-part each arise from different seeds.
+
+---
+
+### Section on Interpreting Consciousness-Only (唯識解釈門)
+
+First, in terms of the three parts, the substance of consciousness-only (*wéishí tǐ* 唯識体) is elucidated. There are four different interpretations.
+
+**First, the interpretation of Sthiramati (*Ānhuì* 安慧):** There is the self-substance-part (*zìtǐfēn* 自体分), but there is no perceiving-part or aspect-part. The two parts — the perceiving-part and the aspect-part — constitute the nature of what is *adhered to* as subject-apprehender and object-apprehended (*néngsuǒqǔ* 能所取), i.e., they belong to the imagined (*parikalpita*/遍計所執) nature. Only the self-substance-part is the dependent-arising (*paratantra*/依他起) nature. By retaining the self-substance-part and blocking off the perceiving-part, aspect-part, etc., (this view) is named "consciousness-only."
+
+**Second, the interpretation of Bandhuprabha (*Qīnguāng* 親光):** All four parts are possessed. The meaning is as explained previously. Only the self-substance of the perceiving-part (exists); there is no real aspect-part. Hence "consciousness-only" is declared. Although perceiving-part and aspect-part (exist)...
+
+*(Continues on next page)*

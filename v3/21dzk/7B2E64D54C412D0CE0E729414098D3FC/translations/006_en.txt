@@ -1,0 +1,95 @@
+## Right Page (p. 106, Section Ten)
+
+### Upper Section
+
+*(Continuing from the previous page)*
+
+…etc. are all subsumed under the dependent-arising (*paratantra* 依他起) nature. The perceiving-part (*jiànfēn* 見分) is real; the aspect-part (*xiāngfēn* 相分) is nominal/empty. Since the nominal follows the real, this is called "consciousness-only."
+
+**Third, the *Chéng Wéishí Lùn* (Treatise on the Establishment of Consciousness-Only), scroll one [one character missing], says:** Among the three parts, the self-substance-part (*zìtǐfēn* 自体分) is real, while the perceiving-part and aspect-part are nominal. (Note: the character "xū 虛/nominal" seems to have dropped out after "yǐ 以".) Since the nominal follows the real, this is called "consciousness-only." Scroll ten of the Treatise states: "However, the aspect-part etc. are not real in the manner that the nature of consciousness is real within the dependent-arising nature. If this were not the case, the principle of consciousness-only would not hold. Because that would mean one admits that the objects within consciousness are all equally real." Etc. (etc.)
+
+**Fourth, Dharmapāla's (*Hùfǎ* 護法) explanation:** All four parts are subsumed under the dependent-arising nature. They equally arise from conditions. Together (they are of) the dependent-arising (nature), being both nominal and real in the same way as consciousness. It is only by blocking off (*zhē* 遮) external objects (*wài jìng* 外境) that (the system) is called "consciousness-only."
+
+**Fifth:** All phenomena — both their phenomenal aspects (*shì* 事) and their underlying principle (*lǐ* 理) — do not depart from consciousness; hence it is called "consciousness-only."
+
+*Question:* (In the case where) the perceiving-part and aspect-part arise from the same seed — if they do not arise from the same seed, the principle would also not hold in that way. (The seeds) are imprinted at different times (and) come to maturity separately. How can two (different) seeds together produce one thing? For example: at one time (consciousness) cognizes the perceiving-part of the *ālaya* (*làiyē* 賴耶) consciousness, and within that same moment cognizes an aspect-part such as blue etc. Two seeds together produce the eighth (consciousness's) *vipākavijñāna* (异熟識, retributive consciousness). How could (both) be produced from the same single seed? If from different seeds, and the seeds are each separately distinct, how would the perceiving-part and aspect-part come to differ in their being real or nominal?
+
+*Answer:* That school has its own (Note: "yī 一" is probably an error for "èr 二") explanations. One view says same seed — this is broadly refuted in the (relevant) texts. Another view says different seeds, with a distinction of real and nominal. The perceiving-part is the transforming agent (*néngbiàn* 能変), and therefore is (Note: "jí 卽" is probably an error for "shí 實") actually existent. The aspect-part is the transformed product (*suǒbiàn* 所変) and is not called "real." If this were not so, why would one speak only of "consciousness-only" rather than "non-object"? Dharmapāla refutes (the third master's view) by saying: "When cognizing conditioned dharmas, the perceiving-part is real and the aspect-part is nominal — hence it is called 'consciousness-only.'" (But if that logic holds,) when the non-discriminating wisdom (*nirvikalpajñāna* 無分別智) cognizes true thusness (*zhēnrú* 真如), one should say "only object (*wéijìng* 唯境)," since the object would be real and the wisdom nominal.
+
+*Question:* According to Dharmapāla's school, since the perceiving-part and aspect-part are both real and both equally arise from conditions, why is it called "consciousness-only"?
+
+*Explanation:* Because (consciousness and its object) are not mutually separate.
+
+*Question:* If so, since mind does not depart from object, should it not be called "object-only"?
+
+*Answer:* In real principle, mind and object are certainly not mutually separate. Yet one says "consciousness-only." Consciousness is the root (*běn* 本) and object is the branch (*mò* 末). Based on the root, one says "only."
+
+### Lower Section
+
+Hence there is no fault.
+
+Questions and answers of this kind are truly numerous. One should examine and pay attention to the various texts.
+
+---
+
+### Section on One Function or Many Functions (一用多用門)
+
+*Question:* Is the function (*yòng* 用) by which the perceiving-part cognizes the aspect-part one or many?
+
+*Answer:* According to the *Shenbang Ji* (神昉集, Collected Works of Shenbang) (Note: the note says "following the *Ki*'s quotation this is written as 'Shenbang'"), there are two explanations. One says: since the aspect-parts are many, the functions of the perceiving-part are also many. Another says: a single perceiving-part comprehensively cognizes many aspect-parts.
+
+A determination: the view that the functions of the perceiving-part are also many is superior. The reason is this: the two grasping (tendencies) — clinging to self (*ātmagrāha* 我執) and clinging to dharmas (*dharmagrāha* 法執) — divide into two following the functions. How could it be that cognizing blue etc. does not give rise to multiple (functions)? The remaining questions and answers are as explained previously.
+
+*Question:* Within the self-witness-part (*zìzhèngfēn* 自証分), does it have only a single function that comprehensively witnesses the second (perceiving-part) and fourth (witness-of-the-witness-part), or does it have two functions each separately witnessing the second and fourth? If it has only a single function that comprehensively witnesses the second and fourth, it would undermine the established (position of) the foundational school, which previously stated that there are multiple functions following the object. If there are two functions each witnessing the second and fourth — (Note: the editorial note says "the eighteen characters from 'ruò yǒu etc.' are probably interpolated/dittographic") — if there are two functions each separately witnessing the second and fourth parts, although there would be four functions, there would be no infinite regress fault.
+
+*Answer:* There are two explanations. One says: two functions. However, since the fourth part has only a single function, there is no infinite regress fault. Another says: one function. (Whether) a single function knows many (things), or multiple functions know many (things) — both are self-consistent positions. Therefore there is no fault.
+
+Master Kūkai (弘法師) determines: the latter view (one function) is superior. The reason is this: if there were separately distinct functions (Note: "yǒu 有" is probably an error for "yòng 用") for knowing the second (perceiving-part) and the fourth (witness-of-the-witness-part), then the function of knowing the second would constitute a third part (self-witness), and the function of knowing the fourth would constitute a fifth part. (But) a single function of the fourth part comprehensively knows (what would be) the third and fifth — and hence there is no sixth part. By this reasoning, the latter view is superior.
+
+*Question:* Understanding (*jiě* 解) arises following the object. If the objects are already two distinct (things), how can the understanding be one?
+
+*Answer:* There are naturally two kinds (of cases) in which the perceiving-part cognizes the aspect-part. First: the inferential cognition (*bǐliàng* 比量) mind cognizes aspect-parts such as suffering etc. — this is a case of one function cognizing many aspect-parts. Second: the direct cognition (*xiànliàng* 現量) mind cognizes aspect-parts such as suffering etc. — this is a case of multiple functions each witnessing multiple aspect-parts.
+
+## Left Page (p. 107, Section Eleven)
+
+### Upper Section
+
+The reason is this: Inferential cognition operates toward external objects and constructs a single "suffering-aspect" (as a general concept), superimposing that aspect (*xíngyìyì xiāng* 行増益相) upon (multiple objects), and hence one function cognizes the many aspect-parts, because each of the various instances of suffering etc. has similar (shared) characteristics. Direct cognition internally witnesses each of the many aspect-parts, individually and separately, in internal experience — hence only multiple functions each cognize multiple aspect-parts. Whether (cognizing) blue, yellow, etc. through direct or inferential cognition, all (direct cognitions) use multiple functions to separately cognize multiple aspect-parts. Hence the *Abhidharmasamuccaya* (*Duì fǎ lùn* 対法論) states:
+
+*Question:* At each sense-faculty door, various objects appear simultaneously in the present. With respect to these many objects, do multiple consciousnesses arise in sequence, or do they arise simultaneously?
+
+*Answer:* There is only one consciousness, (yet) various cognitive modes (*xíngxiàng* 行相) arise simultaneously.
+
+When the third (part), the self-witness-part, witnesses the second (perceiving-part) and fourth (witness-of-the-witness-part) — even though this is direct cognition, because there are two meanings, one function comprehensively witnesses (both). First: the two functions of the second and fourth are one and the same function; the aspects of their functions are similar (identical). Second: (it is) a self-reflection (*fǎnzhào* 反照) upon one's own substance; since the cognizer and the cognized are close (together), it is effortlessly easy to understand.
+
+(When) the self-witness-part knows the perceiving-part: the perceiving-part has multiple functions. Although the cognizer and the cognized are close, (these) are distinct functions, and hence the aspects of the functions are not similar. Therefore, multiple functions know the multiple functions of the perceiving-part. Moreover, the perceiving-part has both substance (*tǐ* 体) and function (*yòng* 用). However, in principle, the substance and function are extremely close to each other. Therefore, when the self-witness-part reflects back upon itself, the cognizer and cognized are close. Hence (Note: "gù 故" is probably an error for "yún 云"), a single function comprehensively witnesses both the substance and the function. If one explains it this way, it accords with correct principle. Also, what is meant by "same substance" (*zhìtóng* 質同) is called "one and the same." It does not mean that multiple perceiving-parts together cognize one direct (*qīn* 親) aspect-part as the same. (Note: there seems to be missing text after "yě 也".)
+
+*Question:* If so, consider that the eighth consciousness's (*ālāyavijñāna*) mind-king (*xīnwáng* 心王) cannot cognize the aspect-parts of the mental factors (*xīnsuǒ* 心所). In that case there is no original object (*běnzhí* 本質). How can it be called "one and the same object of cognition"?
+
+*Answer:* "One and the same object of cognition" has two (meanings). First: because the original object (*zhí* 質) is one, (they are) called "the same." This is like the mind-king and mental factors of the five consciousnesses, etc. Second: because they are similar, (they are) called "the same." This is like the mental factors of the eighth consciousness,
+
+### Lower Section
+
+and the sixth consciousness cognizing (objects such as) the past, future, etc. Even if there is no original object and they do not rely upon the transformation (of aspect-parts) of another (consciousness), (the aspect-parts that) each individually transforms (Note: "yì 異" is probably an error for "sì 似") resembles (the other's), and hence is called "the same." It is not required that the mind-king cognize the object of the mental factor in order for that to be called "the same."
+
+**The second master** says: in some cases one explains "not mutually cognizing" based on the perceiving-part; in other cases one explains "there is the meaning of mutual cognition" based on the aspect-part, etc. (etc.)
+
+*Explanation:* In some cases, based on the perceiving-part, one says that mind and mental factors of the same group do not mutually cognize each other, because (each) cannot cognize the multiple perceiving-parts (of the others) that are simultaneous. This applies to the causal stage (*yīn wèi* 因位, i.e., the stage of practice). In the case of the Buddha it is not so. If based on the aspect-part, the mind-king and mental factors (Note: "▢" is probably the character "xiāng 相") mutually cognize — the reason is as follows: The mind-group (*xīnjù* 心聚) of the eighth consciousness contains its five (associated) dharmas (i.e., the five always-accompanying mental factors). Based on the seed of the (main) mind, it takes (those seeds) as the original object, and transforms the seeds of the reflected images (*yǐngxiàng* 影像, aspect-parts). Then it uses the original object as the remote object-condition (*shū suǒyuán* 疎所緣) and takes its own reflected image as the direct object-condition (*qīn suǒyuán* 親所緣). The mind-substance (*xīn tǐ* 心体) is the same: it takes its own self-transformed seed as the direct object-condition and takes the transformation of the mental factor as the remote object-condition.
+
+Next, **clarifying the pure stage (*jìng wèi* 淨位)**:
+
+*Question:* How do the four parts of the same substance (*tóngtǐ* 同体) mutually cognize one another?
+
+*Answer:* There are two interpretations.
+
+**First, Kuiji's (基/窺基) explanation:** Among the four parts of the same substance, the perceiving-part can cognize the self-witness-part. It can also cognize (what is) the witness-of-the-witness-part (Note: the six characters in the text are corrected to read "证自证/证自证"). It can also cognize the aspect-part and the perceiving-part. This is only possible at the stage of buddha-fruition (*fóguǒ* 佛果). Those at other (stages) cannot do so. The intent here is to show that the remaining three parts mutually cognize all dharmas, and hence are called "universally cognizing" (*biànyuán* 遍緣).
+
+*Question:* If the remaining three parts all cognize all dharmas, what is the distinction (among them)?
+
+*Answer:* The distinction of the three parts is this: what was previously obtained is obtained directly; what is newly obtained among the rest is obtained by transforming a reflected image. Hence distinctions arise.
+
+**Second, Ce's (側/測, probably the monk Woncheuk's disciple or another commentator) (Note: "cè 側" is probably an error for "cè 測") explanation:** There are four interpretations here. One says: among the four parts, (Note: "sān 三" is probably an error for "èr 二") two parts are equally defiled (*rǎn* 染) (i.e., functioning within the defiled stream), and only the perceiving-part alone can cognize the three parts. Excluding the perceiving-part, the cognizer and cognized would become confused/disordered.
+
+Another says: the perceiving-part universally cognizes all four (parts). There is no text that blocks this. However, (one might object): "excluding only the perceiving-part, (it is) not the object of cognition for the aspect-part" —
+
+*(Continues on next page)*

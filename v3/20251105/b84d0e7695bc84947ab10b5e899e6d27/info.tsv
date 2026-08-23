@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	initiated	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/1.tif/full/full/0/default.jpg
 002.txt	initiated	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/2.tif/full/full/0/default.jpg
-003.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/3.tif/full/full/0/default.jpg
+003.txt	initiated	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/3.tif/full/full/0/default.jpg
 004.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/4.tif/full/full/0/default.jpg
 005.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/5.tif/full/full/0/default.jpg
 006.txt	default	https://repo.lib.okayama-u.ac.jp/iiif/komonjo/miura-A84/6.tif/full/full/0/default.jpg
