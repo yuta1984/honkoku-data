@@ -1,25 +1,26 @@
 [Right page]
 ※○1 tan 7 se 3 bu
 [Right figure]
-[Left side] Length 24 ken [Middle vertically] Length 33 ken [Right side] 24 ken
-[Horizontally] Width 18 ken
-　By the calculation method, add 24 ken to the length of 33 ken to make 57 ken.
-　When divided by two, it becomes 28 ken and a half. When multiplying this by
-　18 ken, it becomes 513 tsubo. When
-　dividing this by the field method of 3, it should be known as 1 tan 7 se 3 bu.
-　　The right land survey calculations copied here are essential for comparison.
-　　Although the basic approach is the same for all, this is roughly
-　　for the purpose of teaching beginners.
+[Left side] Length 24 ken [Middle vertical] Length 33 ken [Right side] 24 ken
+[Horizontal] Width 18 ken
+　By the calculation method, adding 24 ken to the length of 33 ken gives 57 ken.
+　Dividing this by two gives 28 ken and a half. Multiplying this by
+　18 ken gives 513 tsubo. When dividing this
+　by the field method of 3, it should be known as 1 tan 7 se 3 bu.
+　　The above is a transcription of the land survey calculations, provided here for reference and convenience.
+　　The underlying principles are all the same, but this has been presented
+　　in this manner as a teaching aid for beginners.
+
 
 [Left page]
-Chapter 27: On fiefdom yields
-　※When there are 2 tan 7 se, with a rate of 1 koku 5 to per tan,
-　　when asking how much the yield is,
-　　　○The yield is 4 koku 5 shō.
-　　By the calculation method, place 2 tan 7 se on the right, multiply by 1 koku 5 to,
-　　the yield should be known as 4 koku 5 shō.
+《Section 27》　On the yield of landholdings (chigyo monari)
+　※When there are 2 tan 7 se, and the assessed rice yield rate (tokudai) is 1 koku 5 to per tan,
+　　when asked how much the total assessed yield (taka) is for the above,
+　　　○The total assessed yield (taka) is 4 koku 5 sho.
+　　By the calculation method, place 2 tan 7 se to the right, and multiply by 1 koku 5 to,
+　　and the assessed yield (taka) should be known as 4 koku 5 sho.
 
-　※There are 9 tan 3 se 21 bu. At a rate of 1 koku 5 to per tan,
-　　when asking how much the yield is,
-　　　○The yield is 14 koku 5 shō 5 gō.
-　　By the calculation method, place 9 tan 3 se 21 bu, and for units below se
+　※There are 9 tan 3 se 21 bu. With an assessed yield rate of 1 koku 5 to per tan,
+　　when asked how much the total assessed yield is for the above,
+　　　○The total assessed yield is 14 koku 5 sho 5 go.
+　　By the calculation method, place 9 tan 3 se 21 bu, and [continuing on the next page] from se downward...

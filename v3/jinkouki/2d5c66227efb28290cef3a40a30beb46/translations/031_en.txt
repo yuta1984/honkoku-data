@@ -1,25 +1,29 @@
 [Right page]
-Chapter 29: Calculating the volume of measuring containers
-　　〇With new measures: 1 to 2 sho 2 go 8 shaku
-　　〇With old measures: 1 to 2 sho 7 go 4 shaku
-[Figure at bottom right]
-[Top surface] 1 shaku 3 sun　[Side] 7 sun　[Bottom] inner bottom diameter 1 shaku 1 sun
-　The calculation method: combine the diameter at the top
-　and the diameter at the bottom, making 2 shaku 4 sun in total.
-　Divide this by two to get 1 shaku 2 sun. Square this
-　to get 144. Multiply this by the height of 7 sun to get
-　1008. Multiply this by the circular coefficient 79 to get
-　79632. When this is divided by the Kyō-sho coefficient 64827,
-　the result is known to be 1 to 2 sho 2 go 8 shaku.
+《Section 29》　Measuring the Volume of a Measuring Box (Masu)
+
+　　〇 Using the current (Kyoto) masu: 1 to 2 sho 2 go 8 shaku
+　　〇 Using the old masu: 1 to 2 sho 7 go 4 shaku
+
+[Figure at lower right]
+[Top face] 1 shaku 3 sun　[Side] 7 sun (height)　[Bottom] Inner base diameter: 1 shaku 1 sun
+
+　Method: Add together the diameter of the upper (circular) opening
+　and the diameter of the lower opening, giving 2 shaku 4 sun.
+　Divide this by two, giving 1 shaku 2 sun. Place this on both sides (i.e., use as both factors)
+　and multiply, giving 144. Multiply this by the height of 7 sun, giving
+　1,008. Multiply this by the factor for circles, 0.79, giving
+　796.32. Divide this by the Kyoto masu factor of 648.27,
+　and you will find the answer to be 1 to 2 sho 2 go 8 shaku.
+
 
 [Left page]
-　※When calculating with old measures, as shown on the right,
-　　add the top diameter to the bottom diameter
-　　to get 2 shaku 4 sun. Divide by two to get 1 shaku 2 sun.
-　　Square this, then multiply by the height, and then
-　　multiply by the circular coefficient 79, then multiply by 16
-　　to know the result as 1 to 2 sho 7 go 4 shaku.
-　　　The above calculation is how to calculate for general approximation.
-　　　For containers that taper from rim to bottom, there are
-　　　slight differences from this visual calculation method.
-　　　The true calculation requires oral transmission.
+　※When measuring using the old masu, as described above,
+　　add the upper diameter to the lower diameter,
+　　giving 2 shaku 4 sun. Divide by two, giving 1 shaku 2 sun. Place this
+　　on both sides and multiply; then multiply by the height; then multiply by
+　　the circular factor 0.79; then multiply this by 16,
+　　and you will find the answer to be 1 to 2 sho 7 go 4 shaku.
+　　　The calculation shown above is for when the vessel is placed in an approximate (standard) configuration.
+　　　For vessels whose base is narrower than their circumference (i.e., tapering more steeply),
+　　　there will be a slight difference when using the method of calculation shown on the right.
+　　　The precise calculation method is transmitted orally.

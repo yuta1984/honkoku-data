@@ -1,68 +1,85 @@
-【Right Page Upper Section】
-Eiwa 3rd year (Ding-Si)　　　　　　　　　　　Mountain tsunami occurred, most of the
-479 years before Ansei 2　　　　　　　　　　　mountains in various provinces collapsed,
-　　　　　　　　　　　　　　　　　　　　　but it was not caused by an earthquake
+[Right page, upper section]
 
-Oei 13th year (Bing-Xu)　　　　　　　　　　　Great earthquake in various provinces
-450 years ago　　　　　　　　　　　　　　　Great wind and flood occurred
+Eiwa 3 (Hinoto-Mi / 丁巳)　　　　　　Mountain tsunami [?] □□□ — the majority of mountains across [all provinces] collapsed. This was not an earthquake [per se].
+(479 years before Ansei 2)
 
-Eikyo 4th year (Ren-Zi)　　　　　　　　　　　Great earthquake in various provinces
-424 years ago
+Ōei 13 (Hinoe-Inu / 丙戌)　　　　　　A great earthquake struck all provinces. Violent winds and floodwaters arose.
+(450 years before the same)
 
-Hotoku 1st year (Ji-Si)　　　　　　　　　　　Great earthquake in various provinces
-407 years ago
+Eikyō 4 (Mizunoe-Ne / 壬子)　　　　　A great earthquake struck all provinces.
+(424 years before the same)
 
-Meio 3rd year (Jia-Yin)　　　　　　　　　　　Great earthquake in various provinces
-362 years ago
+Hōtoku 1 (Tsuchinoto-Mi / 己巳)　　　A great earthquake struck all provinces.
+(407 years before the same)
 
-Kan'ei 4th year (Ding-Mao)　　　　　　　　　　Great earthquake in various provinces
-229 years ago　　　　　　　　　　　　　　　Great flood occurred
+Meiō 3 (Kinoe-Tora / 甲寅)　　　　　A great earthquake struck all provinces.
+(362 years before the same)
 
-Tenwa 3rd year (Gui-Hai)　　　　　　　　　　　Great earthquake in Nikko
-173 years ago
+Kan'ei 4 (Hinoto-U / 丁卯)　　　　　　A great earthquake struck all provinces. Floodwaters arose.
+(229 years before the same)
 
-【Right Page Lower Section】
-Enbun 5th year (Geng-Zi)　　　　　　　　　　　Great earthquake in various provinces, until Ansei 2
-Oei 17th year (Geng-Yin)　　　　　　　　　　　Heaven and earth rumbled, 446 years ago
-　　　　　　　　　　　　　　　　　　　　　Great tremor occurred
+Tenna 3 (Mizunoto-I / 癸亥)　　　　　A great earthquake struck Nikkō.
+(173 years before the same)
 
-Bun'an 5th year (Wu-Chen)　　　　　　　　　　　Great earthquake in various provinces, 408 years ago
-　　　　　　　　　　　　　　　　　　　　　Great flood occurred
+---
 
-Bunmei 7th year (Yi-Wei)　　　　　　　　　　　Great earthquake in Settsu Province, 381 years ago
+[Right page, lower section]
 
-Eisho 7th year (Geng-Wu)　　　　　　　　　　　Great earthquake in Totomi Province, Imagire collapsed
-346 years ago
+Enbun 5 (Kanoe-Ne / 庚子)　　　　　A great earthquake struck all provinces.
+(□□ years before Ansei 2)
 
-Kan'ei 10th year (Gui-You)　　　　　　　　　　Great earthquake in Sagami Province, 223 years ago
+Ōei 17 (Kanoe-Tora / 庚寅)　　　　　Heaven and earth rumbled and reverberated; a great tremor occurred.
+(446 years before the same)
 
-Genroku 16th year (Gui-Wei)　　　　　　　　　　Great earthquake in Kanto in October
-153 years ago　　　　　　　　　　　　　　　Great fire occurred
+Bun'an 5 (Tsuchinoe-Tatsu / 戊辰)　　A great earthquake struck all provinces. Floodwaters arose.
+(408 years before the same)
 
-【Left Page Upper Section】
-Horeki 1st year (Xin-Wei)　　　　　　　　　　　Great earthquake in Kyoto on February 29th
-105 years ago　　　　　　　　　　　　　　　Great earthquake in northern provinces on April 25th
+Bunmei 7 (Kinoto-Hitsuji / 乙未)　　　A great earthquake struck Sesshū (Settsu Province).
+(381 years before the same)
 
-Bunka 1st year (Jia-Zi)　　　　　　　　　　　Great earthquake in Sakata, Dewa Province
-52 years ago
+Eishō 7 (Kanoe-Uma / 庚午)　　　　　A great earthquake struck Enshū (Tōtōmi Province). Imagiri was destroyed.
+(346 years before the same)
 
-Bunsei 2nd year (Ji-Mao)　　　　　　　　　　　Great earthquake in Sanjo, Echigo Province
-37 years ago
+Kan'ei 10 (Mizunoto-Tori / 癸酉)　　　A great earthquake struck Sōshū (Sagami Province).
+(223 years before the same)
 
-Koka 4th year (Ding-Wei)　　　　　　　　　　　March 26th at Zenkoji Temple in Shinano Province
-9 years ago　　　　　　　　　　　　　　　　Great earthquake, many deaths
+Genroku 16 (Mizunoto-Hitsuji / 癸未)　In the tenth month, a great earthquake struck the Kantō region. There was a great fire.
+(153 years before the same)
 
-Ansei 1st year (Jia-Yin)　　　　　　　　　　　June 14th in Ise and along Tokaido route
-2 years ago　　　　　　　　　　　　　　　　Great earthquake and tsunami
-　　　　　　　　　　　　　　　　　　　　　November 4th great earthquake in Kai Province, many deaths
+---
 
-【Left Page Lower Section】
-Tenmei 2nd year (Ren-Yin)　　　　　　　　　　Great earthquake in various provinces in July, 74 years ago
+[Left page, upper section]
 
-Bunka 9th year (Ren-Shen)　　　　　　　　　　Great earthquake in various provinces in November, 44 years ago
+Hōreki 1 (Kanoto-Hitsuji / 辛未)　　　On the 29th day of the second month, a great earthquake struck Kyoto. On the 25th day of the fourth month, a great earthquake struck the northern provinces.
+(105 years before the same)
 
-Tenpo 2nd year (Xin-Mao)　　　　　　　　　　Great earthquake in Kyoto, 25 years ago
+Bunka 1 (Kinoe-Ne / 甲子)　　　　　　A great earthquake struck Dewa Province, in Sakata.
+(52 years before the same)
 
-Kaei 5th year (Ren-Zi)　　　　　　　　　　　Great earthquake in Odawara, Sagami Province, 4 years ago
+Bunsei 2 (Mizunoe-U / 壬卯)　　　　　A great earthquake struck Sanjō in Echigo Province.
+(37 years before the same)
 
-Ansei 2nd year (Yi-Mao)　　　　　　　　　　　Great earthquake and fire in Kanto, same year
+Kōka 4 (Hinoto-Hitsuji / 丁未)　　　　On the 26th day of the third month, a great earthquake struck Zenkōji in Shinshū (Shinano Province). Many people perished.
+(9 years before the same)
+
+Ansei 1 (Kinoe-Tora / 甲寅)　　　　　On the 14th day of the sixth month, a great earthquake and massive tsunami struck Ise and the Tōkaidō region. On the 4th day of the eleventh month, a great earthquake struck Kōshū (Kai Province); many people perished.
+(2 years before the same)
+
+---
+
+[Left page, lower section]
+
+Tenmei 2 (Mizunoe-Tora / 壬寅)　　　In the seventh month, a great earthquake struck all provinces.
+(74 years before the same)
+
+Bunka 9 (Mizunoe-Saru / 壬申)　　　In the eleventh month, a great earthquake struck all provinces.
+(44 years before the same)
+
+Tenpō 2 (Kanoto-U / 辛卯)　　　　　A great earthquake struck Kyoto.
+(25 years before the same)
+
+Kaei 5 (Mizunoe-Ne / 壬子)　　　　　A great earthquake struck Odawara in Sōshū (Sagami Province).
+(4 years before the same)
+
+Ansei 2 (Kinoto-U / 乙卯)　　　　　　A great earthquake and great fire struck the Kantō region.
+(Same year — [reference year])

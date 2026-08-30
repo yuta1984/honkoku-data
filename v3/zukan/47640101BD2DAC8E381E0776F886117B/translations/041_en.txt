@@ -1,15 +1,26 @@
-【A plant of the Apiaceae family, possibly Torilis japonica or a closely related species】
-The "Bukō Sanbutsu-shi" (Records of Edo Products) states:
-　Yabu-kōhon (Wild Ligusticum)
+**The *Bukō Sanbutsu-shi* (武江産物志, "Catalog of Products of Edo") states:**
 
-【Some plant of the Acanthaceae family】
-The "Nōzen" (Complete Agriculture) states:
-　Shiun-sai (Purple Cloud Vegetable, also called Ruri-teusō)
-Based on the collective opinions of flower merchants and others who have examined this,
-the details are unclear, but Shiun-sai corresponds to Tatunami-sō (立波草)
+　*Yabu-kōhon* (薮藁本, *Ligusticum* sp. or similar Apiaceae plant found in wooded areas)
 
-The "Jiuhuang Bencao" (Famine Relief Materia Medica) states:
-　Zhu-wei-ba-miao (Pig-tail Sprout, called Kagura-sō in Japanese)
+　　　　Sketched in the garden on a *Hitsuji* (未) day of the intercalary 6th month, Year *Teigai* (1827).
+　　　　【Grass/Herb category】
 
-Copied on the same day
-【Seal】Herbaceous plants
+　　　　Sketched on the same day.
+　　　　【Grass/Herb category】
+
+---
+
+**The *Nōzen* (農全) states:**
+
+　*Shi'un-sai* (紫雲菜, "Purple Cloud Vegetable")
+　　(*Ruri-chōja-sō*, "Lapis Lazuli Clove Herb")
+
+　　　　Upon reviewing the assessments of flower merchants and the general opinions of various people,
+　　　　the matter is not clear. Upon my own careful consideration (*jukō*), I conclude that *Shi'un-sai* is
+　　　　to be identified with *Tachinami-sō* (立浪草, *Scutellaria* sp.).
+
+---
+
+**The *Kyūkō Honzō* (救荒本草, "Famine Relief Herbal") states:**
+
+　*Chobiha-byō* (猪尾把苗, "Pig-tail seedling")　　*Kagura-sō* (神楽草, "Sacred Dance Herb")

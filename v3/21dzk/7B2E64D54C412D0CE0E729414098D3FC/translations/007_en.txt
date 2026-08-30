@@ -1,0 +1,96 @@
+## Right Page (p. 108, Section Twelve)
+
+### Upper Section
+
+*(Continuing from the previous page)*
+
+…is a rough manner of speaking. If one makes fine distinctions, one should say "excluding the aspect-part and the remaining two parts," because those three parts (Note: "sān 三" is probably an error for "èr 二") are not different from defilement.
+
+One view says: all three parts (self-witness-part, witness-of-the-witness-part, and aspect-part) can cognize the (remaining) three, each excluding its own part, because the cognizer and cognized would otherwise become confused. Another view says: all three parts comprehensively cognize all four (parts), because there is no text that blocks this. Hence the Treatise says: "Excluding only the perceiving-part — because the aspect-part has no function of cognizing by principle" — and therefore (Note: the two characters "ér gù 而故" are probably interpolated) (it) does not separately distinguish the three parts.
+
+*Question:* If so, the aspect-part should be able to cognize the self-witness-part and the witness-of-the-witness-part. Since (they) are not separately distinguished, (how is this to be understood)?
+
+*Explanation:* Excluding the perceiving-part is equivalent to excluding (those) two parts, hence there is no separate distinction. Because all three parts share in the meaning of the perceiving-part.
+
+*Question:* When the various parts mutually cognize one another, do they transform a reflected image (*biàn yǐng* 変影) in order to cognize, or not?
+
+*Answer:* There are two views. First, Kuiji's explanation: When the perceiving-part cognizes the self-witness-part, it transforms a reflected image to cognize. When the witness-of-the-witness-part cognizes the aspect-part and perceiving-part, (and) when the perceiving-part cognizes the third and fourth (parts), (these are cases of) cognizing across a gap (*gé yuè* 隔越), and hence they cognize by transforming a reflected image, etc. (etc.)
+
+The *Daosheng Ji* (*Dào Zhèng Jí* 道証集) refutes this, saying: What is stated thus is entirely unreasonable. The same-substance (four parts) are divided in terms of meaning (only). How can one speak of "cognizing across a gap"? When the perceiving-part regards the self-witness-part, how can that be called a gap? Since the perceiving-part cognizing the self-witness-part is already an internal self-witnessing, how could it transform a reflected image? If it cognizes by transforming an image, how can it be called "cognizing itself"? Etc. (etc.)
+
+Master Huizhao, in his *Dēng* (燈, *Lamp*), refutes the meaning of the *Daosheng Ji*, saying: This objection is also incorrect. (Consider the examples of) "using a mirror as a condition, (one) thereby sees one's own substance," and "using the mind as a condition, (one) thereby sees one's own mind" — in these (cases), is there no transformation of an image? (Note: "▢" is probably "yé 耶") When the perceiving-part cognizes the self-witness-part, it transforms the image of the self-witness-part and thereby cognizes (it), hence it is called "cognizing oneself." In what way does this violate (correct) principle?
+
+Second, Ce's (測, Woncheuk's) explanation: There are altogether fifteen interpretations. Among the four interpretations given above for "the same-substance four parts mutually cognizing one another," the first explanation has two interpretations, the second has three, the third has four, and the fourth has six. For details, see that commentary. (Note: "Zhèng 證" is probably "Dào 道") It is said: among the fifteen interpretations, the thirteenth is superior.
+
+*Question:* If all three parts
+
+### Lower Section
+
+mutually cognize one another, what distinctions are there (among them)?
+
+*Answer:* Ce (測, Woncheuk) says: there is a difference between primary (*zhèng* 正) and secondary (*jiān* 兼) taking. By primarily taking the four parts as their own object, there is no confusion. By secondarily taking other objects, they can cognize universally (*biàn yuán* 遍緣).
+
+*Question:* How does the mutual cognition work between (consciousnesses of) the same group (*tóng jù* 同聚) but different substance (*yì tǐ* 異体) (i.e., between main-mind and mental factors of the same group)?
+
+*Answer:* There are two views. First, Kuiji's explanation: The pure (Note: "第 dì" seems to be superfluous) eighth-consciousness group — all (members) can mutually cognize one another. The simultaneous mind and mental factors can also mutually cognize the simultaneous mind and mental factors from themselves, because their capacity (*gōngnéng* 功能) universally manifests reflected images. The self-witness-part of the consciousness and the perceiving-part of the corresponding dharmas (mental factors) together cognize (their own) self-perceiving-part. The same applies to the remaining pure mental factors' meaning. Also (Note: "néng huò 能或" probably should be reversed as "huò néng 或能") they can cognize those aspect-parts. If they did not manifest those reflected images, they would not be able to know everything, etc. (etc.)
+
+Second, Ce's (Woncheuk's) explanation: There are two interpretations here. One says: only the perceiving-part cognizes all four (parts). Another says: all three (parts) cognize (Note: "rán 然" is probably an error for "yuán 緣") all four (parts). However, regarding the transformation of reflected images, there are naturally three sub-views. One says: the perceiving-part cognizes all four (parts) by transforming images; the remaining three parts do not cognize and hence do not separately transform images. Another says: the perceiving-part cognizes all four (parts) by transforming images; the remaining two parts do cognize but do not transform images. Another says: (all) three parts cognize all four (parts) and transform images. Among all these interpretations, Dharmapāla's true meaning should be determined solely by the above and below (passages in the) Treatise. The wise should reflect on this.
+
+---
+
+### Section on the Distinctions of Various Categories (諸門分別門)
+
+*Question:* If the perceiving-part at the causal stage (*yīn wèi* 因位) comprehensively encompasses the three kinds of cognition (*sān liàng* 三量: direct perception, inference, and erroneous cognition), does a single mind's perceiving-part simultaneously give rise to all three kinds of cognition at the same moment? (Note: "yǐ 以" is absent in the quotation in the *Ki*; Note: "bù 不" in the *Ki* quotation is written as "fǒu 否".)
+
+*Answer:* Based on Kuiji (Note: the *Ki* quotation has the character "tōng 通" after "Kuiji 基"), speaking (from his perspective): they do not arise simultaneously. Hence the *Yuishiki-sho* (*Wéishí shū* 唯識疏), scroll three, says: "It is impossible for the perceiving-part to be both (valid) cognition and invalid cognition at the same moment, because these are mutually contradictory." (etc.)
+
+*Question:* How do the four parts at the buddha-fruit stage (*fó guǒ* 佛果) mutually cognize one another?
+
+*Answer:* Master Kuiji has three (Note: the marginal note says "three" appears as "two" in the *Ki* quotation) explanations; Master Ce (Woncheuk) has four explanations. However, Kuiji's true position is that three (parts) comprehensively cognize all four (parts). As for Master Ce's,
+
+## Left Page (p. 109, Section Thirteen)
+
+### Upper Section
+
+among his four explanations, the fourth agrees with this. The *Yō-shū* (要集, *Essential Collection* by Huizhao) determines: take this as the correct (interpretation). Why? Because the function (*yòng* 用) of the non-outflow (*anāsrava* 無漏) mind etc. is all-pervasive (*zhōubiàn* 周遍). (etc.)
+
+*Question:* If so, what distinctions exist among the three parts?
+
+*Answer:* Kuiji says: what was previously obtained is obtained directly; what is newly (Note: the *Ki* has the character "suǒ 所" after "xīn 新") obtained among the rest is obtained by (transforming) a reflected image. Hence distinctions exist.
+
+The *Yō-shū* (*Yào Jí* 要集) refutes this, saying: Since the perceiving-part cognizing the self-witness-part is already an internal self-witnessing, how could it cognize by (transforming an) image? If it cognizes by transforming an image, how can it be called "cognizing itself"? By this reason, in internal self-witnessing there is no transformation of reflected images. Also, (if) "because it is newly obtained, it transforms reflected images" — then when correct wisdom (*zhèng zhì* 正智) cognizes true thusness (*zhēnrú* 真如), it should also transform images. If (one argues that) "because true thusness is the nature of wisdom (*zhì xìng* 智性), it cognizes without transforming (an image)" — then it would be incorrect to say that subsequently attained wisdom (*hòu dé zhì* 後得智) cognizing thusness does not transform images. Now, I (i.e., the author of the *Yō-shū*) would say: When the remaining three parts cognize the aspect-part, (they) all cognize by transforming reflected images. When the remaining three parts are the object of cognition (*suǒyuán* 所緣), (they) all do not transform images. This is precisely the thirteenth of Ce's (Woncheuk's) fifteen interpretations. This is the correct interpretation. (etc.)
+
+The *Dēng* (*Lamp*) refutes (this), saying: (The view that) "when the perceiving-part cognizes the aspect-part it transforms (an image), but the rest do not transform (images)" is incorrect. Since (we are) already explaining mutual cognition (*xiāng yuán* 相緣) in terms of the same-substance (*tóngtǐ* 同体) four parts (Note: "bìng 幷" is probably an error for "biàn 辨"), the perceiving-part cognizing its own aspect-part is a case of direct cognition (*qīn yuán* 親縁). How can it be called "transforming (an image)"? If producing (a cognition) by carrying (the aspect of the object) is called "transforming," then the self-witness-part (Note: "zhèng 証" probably lacks "fēn 分" after it) (Note: the interlinear note suggests that approximately thirty-five characters may be interpolated here, relating to "transforming means the consciousness-substance resembling the two parts" from scroll one, and questioning why the remaining two parts cognizing the aspect-part would not transform) is also the same — one who (Note: "rán rén 然人" are probably interpolated characters) says "since it already cognizes by transforming the aspect-part, how can it be called 'cognizing oneself'" — this objection is also incorrect. Just as "using a mirror as a condition, (one) thereby sees one's own substance," (or) "using the mind as a condition, (one) thereby sees one's own mind" (Note: the *Lamp* has the two characters "děng yán 等言" after "mind 心") — in these (cases), is there no transformation of an image? (Note: "rú 如" is absent in the *Lamp*) (In the same way,) when the perceiving-part cognizes the self-witness-part (Note: "fēn 分" is absent in the *Lamp*), it transforms the image of its own substance (Note: "tǐ 体" is probably an error for "zhèng 証") and hence (Note: "qǐ 起" is probably an error for "gù 故") is called "cognizing itself." In what way does this violate (correct) principle? (etc.) (End of this section.)
+
+When correct wisdom cognizes true thusness — although this is newly attained (wisdom), because (true thusness) is (the wisdom's own) self-nature (*zìxìng* 自性), it does not transform reflected images. Subsequently attained wisdom (*hòu dé zhì* 後得智) cognizes conventional truth (*sú dì* 俗諦) (Note: the *Ki* quotation lacks "zhī 之"), and although its true-thusness object is (the wisdom's own) self-nature, it is not an object belonging to its own division (*zì fēn jìng* 自分境). Hence it transforms reflected images (Note: "xiàng 像" is probably an error for "yuán 緣").
+
+*Question:* If "because the principle of true thusness is the nature of wisdom (*zhì xìng* 智性), it does not transform an image" — then, since the self-witness-part is also of the nature of wisdom, could it not transform an image and cognize the self-nature-part (*zì xìng fēn* 自性分)? (Note: the three characters "bù biàn yǐng 不変影" are absent in the original and are supplied from the *Shiki* private notes.)
+
+*Answer:* Although the self-witness-part (Note: the nine characters from "yé zì xìng etc." are absent in the original and are supplied from the *Shiki*) is of the nature of wisdom, it has aspects (*yǒu xiāng* 有相); hence it cognizes (it) by transforming reflected images (Note: the four characters "biàn yǐng děng 変影等" are supplied from the *Shiki*). Correct wisdom cognizing true thusness — (Note: "bù 不" is probably superfluous) by principle (true thusness) is without aspects (*wú xiāng* 無相); hence it cognizes (it) without transforming (an image) (Note: the four characters "bù biàn děng 不変等" in the original text read "bǐ zhì yóu yuán 彼智猶緣" and are revised based on the *Shiki*).
+
+*Question:* The reflected image that appears when the perceiving-part at the buddha-fruit stage cognizes (its own) etc. — to what part does it belong?
+
+*Answer:* According to Kuiji's commentary (*shū* 疏), scroll eight: the reflected image that appears when the perceiving-part cognizes (its own) etc. is also separately transformed. However, it is subsumed under the aspect-part, because it takes (objects) externally in the same way as the corresponding dharmas (mental factors). (etc.)
+
+*Question:* Based on what sūtra or treatise did Bodhisattva Dharmapāla establish the four parts?
+
+*Answer:* The establishment of the two parts is based on evidence from Dignāga's *Pramāṇasamuccaya* (*Jí Liàng Lùn* 集量論). Hence the *Pramāṇasamuccaya* says: "What resembles the appearance of the object is the measured (*prameya* 所量). The appearance of the grasper (*grāhaka* 能取相) is the self-witness (*svāsaṃvitti* 自証). This is precisely the measurer (*pramāṇa* 能量) and its fruit (*phala* 果). These three are not different in substance." Furthermore, the establishment of the four parts is based on evidence from the *Ghanavyūhasūtra* (*Hòuyán Jīng* 厚嚴経, also known as *Mitsugon-kyō* 密厳経). Hence that sūtra says: "The mind of sentient beings has a twofold nature (*èr xìng* 二性); within all divisions, internal and external, the enwrapments of grasped-object (*grāhya* 所取) and grasping-subject (*grāhaka* 能取) (appear as) various distinctions within the perceiving (part)." (etc.) Hence one knows that there is also a fourth part.
+
+*Question:* If so, since it is by means of two enwrapments (*chán* 纏) that (there come to be) four parts — (yet) the non-outflow (consciousness) has no enwrapment — there should be no four parts (in the non-outflow consciousness). If (one) says "it is not because of enwrapment that (there is the) four(th) (Note: probably "fēn 分" has dropped out after "sì 四") — (then) the sūtra's statement is useless.
+
+(Note: The above text is based on the Daigo-ji temple manuscript.)
+
+---
+
+## *Zhǎngzhēn Lùn Wèi Liàng Xiǎn Guò Jué* — Part One
+
+*(Decision on the Faults Revealed through the Two Syllogisms in the Zhǎngzhēn Lùn)*
+
+In the *Zhǎngzhēn Lùn* (*Karatna-śāstra*, Treatise of the Precious Palm), in order to display the two syllogisms (*liǎng liàng* 二量), the brief verse (*lüè sòng* 略頌) is set forth as follows:
+
+> **The ultimate nature (*zhēn xìng* 真性) of conditioned phenomena (*yǒuwéi* 有為) is empty. Because, like illusions, they arise through conditions.**
+> **Unconditioned phenomena (*wúwéi* 無為) have no reality. Because, like flowers in the sky (i.e., optical illusions), they do not arise.**
+
+The commentary says: The first half-verse (i.e., the first two lines) is the upper scroll of the three-membered (syllogism) (*sān zhī* 三支),
+
+*(Continues on the next page)*

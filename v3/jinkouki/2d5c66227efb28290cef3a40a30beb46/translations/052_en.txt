@@ -1,26 +1,25 @@
-**[Right Page]**
+【Right page】
 
-　※April: Born — 4,116 mice
-　　　Total becomes 4,802 mice
-　※May: Born — 28,812 mice
-　　　Total becomes 33,614 mice
-　※June: Born — 201,684 mice
-　　　Total becomes 235,298 mice
-　※July: Born — 1,400,411,788 mice [1 chō, 4 oku, 11,788]
-　　　Total becomes 1,640,047,086 mice [1 chō, 6 oku, 40,047,086]
-　※August: Born — 9,800,882,516 mice [9 chō, 8 oku, 882,516]
-　　　Total becomes 11,500,529,602 mice [1 kei, 1 chō, 5 oku, 29,602]
+　《Fourth month》　Born: 4,116 mice
+　　　Total: 4,802 mice
+　《Fifth month》　Born: 28,812 mice
+　　　Total: 33,614 mice
+　《Sixth month》　Born: 216,684 mice
+　　　Total: 235,298 mice
+　《Seventh month》　Born: 1,400,411,788 mice
+　　　Total: 1,600,647,086 mice
+　《Eighth month》　Born: 9,800,082,516 mice
+　　　Total: 10,100,529,602 mice [= 1 *kei* (京) + ...]
 
-**[Left Page]**
+【Left page】
 
-　※September: Born — 69,100,177,612 mice [6 kei, 9 chō, 1 oku, 77,612]
-　　　Total becomes 80,700,077,214 mice [8 kei, 7 oku, 77,214]
-　※October: Born — 483,420,243,284 mice [4 gai, 8 kei, 4 chō, 2 oku, 43,284]
-　　　Total becomes 564,900,500,498 mice [5 gai, 6 kei, 4 chō, 9 oku, 500,498]
-　※November: Born — 3,338,900,097,002,988 mice [3 jo, 3 gai, 8 kei, 9 chō, 7 oku, 2,988]
-　　　Total becomes 3,900,054,650,053,486 mice [3 jo, 9 gai, 5 kei, 4 chō, 6 oku, 53,486]
-　※December: 23,720,027,090,209,116 mice [2 jō, 3 jo, 7 gai, 2 kei, 7 chō, 9 oku, 20,916]
-　　　Total becomes 27,680,025,074,402 mice [2 jō, 7 jo, 6 gai, 8 kei, 2 chō, 5 oku, 74,402]
+　《Ninth month》　Born: 69,100,177,612 mice
+　　　Total: 800,077,214 mice [= 8 *kei* (京) + ...]
+　《Tenth month》　Born: 4 *gai* (垓) 8 *kei* 4,200,243,284 mice
+　　　Total: 5 *gai* 6 *kei* 4,900,504,98 mice
+　《Eleventh month》　Born: 3 *jo* (秭) 3 *gai* 8 *kei* 9,700,002,988 mice
+　　　Total: 3 *jo* 9 *gai* 5 *kei* 4,600,053,486 mice
+　《Twelfth month》　Born: 2 *jō* (穰) 3 *jo* 7 *gai* 2 *kei* 7,900,020,916 mice
+　　　Total: 2 *jō* 7 *jo* 6 *gai* 8 *kei* 2,500,074,402 mice
 
-　　　　In the first month (January), when a pair of parent mice produces 12 offspring,
-　　　　the parents and offspring together number 14 mice. By the second month (February), these mice…
+　　　　When a pair of mice (father and mother) appears in the first month and gives birth to twelve offspring, the parents and offspring together number fourteen mice. These mice, in the second month…

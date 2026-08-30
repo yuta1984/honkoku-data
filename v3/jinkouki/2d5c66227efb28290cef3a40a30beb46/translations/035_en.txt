@@ -1,22 +1,23 @@
 [Right page]
-　In the calculation method, when 2 shaku is multiplied left and right, it becomes 4. When this is
-　multiplied by depth 3 shaku 5 sun, it becomes 14. When this is
-　multiplied by 333, it becomes 4662. Also, when multiplied by the old measure coefficient
-　16, it should be known as 7 to 4 sho 5 go 9 shaku 2 sai.
+　As the method, place 2 shaku on each side and multiply, giving 4. Multiply this by
+　the depth of 3 shaku 7 sun, giving 14.8. Multiply this by
+　333, giving 4938.4. Then when multiplied by the old measure coefficient
+　16, one should know it to be 7 to 4 sho 5 go 9 shaku 2 sai.
 
-Chapter 30: On calculating the amount of foil to place on folding screens
-　※A two-panel folding screen has a height of 5 shaku and width of 3 shaku. On both sides,
-　　it is 6 shaku wide. When asking how much
-　　4-sun gold foil is needed for this,
+《Box: No. 30》　On the Matter of Estimating Gold Leaf for a Folding Screen
+　※A two-panel folding screen has a height of 5 shaku and a width of 3 shaku per panel. Together,
+　　the horizontal measure is 6 shaku. When asked how many
+　　sheets of 4-sun gold leaf can fit,
+
 
 [Left page]
-　　　　〇187 and a half sheets are needed
-[Drawing of a folding screen at bottom right]
-　In the calculation method, when 5 shaku is multiplied by 6 shaku, it becomes 3,000 sun tsubo.
-　When this is divided by 16, the tsubo number of 4-sun foil,
-　it is known to be 187 and a half sheets. To this, margins of 10% or
-　20% should be added. In any case, this is stated according to the foil. Generally,
-　it should be known like this.
+　　　　○187 and a half sheets fit.
+[Illustration of a folding screen at lower right]
+　As the method, when 5 shaku is multiplied by 6 shaku, the area becomes 3,000 sun-tsubo.
+　When this is divided by 16, the area in sun-tsubo of a 4-sun sheet of leaf,
+　one knows it to be 187 and a half sheets. To this, add an allowance of
+　10% or 20%. This is to be said depending on the quality of the leaf. Generally,
+　one should know it to be approximately as described.
 
-　※When a hexagonal object has corner weights of 7 sun each,
-　　when placing 3-sun gold foil on this, how many sheets of foil
+　※When each face of a hexagonal object measures 7 sun,
+　　and 3-sun gold leaf is to be applied, how many sheets of leaf...

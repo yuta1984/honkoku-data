@@ -1,0 +1,33 @@
+(Continued from previous page)
+
+| Solar Term | Direction & Degrees |
+|---|---|
+| Start of Winter (*Lìdōng*) | South: 16° 40′ |
+| Minor Snow (*Xiǎoxuě*) | South: 20° 12′ |
+| Major Snow (*Dàxuě*) | South: 22° 46′ |
+| Winter Solstice (*Dōngzhì*) | South: 23° 31′ |
+| Minor Cold (*Xiǎohán*) | South: 22° 46′ |
+| Major Cold (*Dàhán*) | South: 20° 12′ |
+| Start of Spring (*Lìchūn*) | South: 16° 40′ |
+| Rain Water (*Yǔshuǐ*) | South: 11° 30′ |
+| Awakening of Insects (*Jīngzhé*) | South: 6° 19′ |
+
+---
+
+### The Eastward Movement of the Fixed Stars
+
+**Question:** The fixed stars travel forever along unchanging paths without alteration. Yet the degrees and minutes measured for the Turtle Beak Mansion (*Zǐ xiù*, *Orion's Belt* region) have differed in all measurements made across the ages. Do the fixed stars also have movement?
+
+**Answer:** The fixed stars take the pole of the ecliptic as their own pole, and their degrees of motion are sometimes nearer, sometimes farther from the pole of the celestial equator. This is because the ecliptic is obliquely wound [around the equator]; thus their degrees have regions of nearness and regions of distance. If the stars' motion gradually approaches the pole of the celestial equator, the determinative star lines (*jùxīng xiàn*) they pass through become increasingly dense, and the arc of their home mansion along the celestial equator becomes smaller. Conversely, if the stars' motion gradually recedes from the pole of the celestial equator, the determinative star lines become increasingly sparse, and the arc of their home mansion along the celestial equator becomes larger. This arises from the fact that the poles of the two paths [the ecliptic and the equator] are not the same. It does not mean that the determinative stars (*jùxīng*) themselves have different motions or different positions.
+
+Take, for example, the determinative star of the Turtle Beak Mansion (*Zǐ xiù*): in high antiquity it was measured at three degrees, but it has decreased successively through the generations, and today's measurements show it has already encroached twenty-four minutes into the參Mansion (*Shēn xiù*, Orion). This is because the two paths — the ecliptic and the celestial equator — have inherently different systems of division. Since the fixed stars take the ecliptic pole as their pole, if one measures the latitudinal degree (*wéidù*) from the stars' own true pole [i.e., the ecliptic pole], the Orion Mansion (*Shēn*) is behind (to the west of) the Turtle Beak Mansion (*Zǐ*), and this has remained constant throughout all ages. But when this is discussed in terms of the celestial equator, that pole is not the pole of the fixed stars [i.e., not the ecliptic pole], and the latitudinal degrees are likewise not the latitudinal degrees of the fixed stars [i.e., not ecliptic latitude]. Thus, in antiquity, although *Zǐ* was ahead of (to the east of) *Shēn*, from approximately two hundred years ago, *Shēn* has come first (to the east) and *Zǐ* has fallen behind (to the west).
+
+In sum, this is because each of the two paths draws lines from its respective poles to define degrees; hence the differences arise. What was originally established as the sequence of the zodiacal palaces (*gōngcì*) is now no longer the same in all cases. The fixed stars have their own inherent motion [precession of the equinoxes], and the mansion-degrees have already shifted eastward by more than ten degrees.
+
+---
+
+### The Discrepancy Between Ancient and Modern Measurements of the Turtle Beak Mansion
+
+**Question:** The reason measurements differ can be understood from the fact that the method of drawing lines to define degrees differs depending on whether one proceeds from the two poles [the ecliptic pole or the equatorial pole]. However, regarding the Turtle Beak Mansion (*Zǐ xiù*)—
+
+(Continued on next page)

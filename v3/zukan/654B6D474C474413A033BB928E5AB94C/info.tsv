@@ -50,6 +50,6 @@ filename	status	image
 049.txt	completed	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000049/full/full/0/default.jpg
 050.txt	completed	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000050/full/full/0/default.jpg
 051.txt	completed	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000051/full/full/0/default.jpg
-052.txt	completed	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000052/full/full/0/default.jpg
-053.txt	completed	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000053/full/full/0/default.jpg
+052.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000052/full/full/0/default.jpg
+053.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000053/full/full/0/default.jpg
 054.txt	default	https://www.dl.ndl.go.jp/api/iiif/1286769/R0000054/full/full/0/default.jpg

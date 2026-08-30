@@ -1,0 +1,19 @@
+One: 1 bu [gold]　　Hokomochi-machi district　Cooper　　Umeji
+One: 1 bu [gold]　　Shimosato-machi district　Cooper　　[■]shichi's apprentice, Zentarō
+　　　　　　　　　　[Petition] not yet [resolved /] approved by the petitioner's request
+One: 1 bu [gold]　　Same as above　　Seigōrō
+　　　　　　　　　　Same as above
+One: 1 bu [gold]　　Same as above　　Sugijirō
+　　　　　　　　　　Also: 〇Hachijūtakin [?]
+　　　　　　　　　　One apprentice: ■■jū■■ [illegible]
+One: 1 bu [gold]　　Shimo-machi district　　Cooper　　Bunzaemon
+One: 1 bu [gold]　　Same district　　　　　　Cooper　　Kichitarō
+One: 1 bu [gold]　　Fukuro-machi district　　Cooper　　Kihei
+One: 1 bu [gold]　　Same district　　　　　　Cooper　　Tōzaemon [Fujizaemon]
+　　　　　　　　　　Note: reduced by half
+One: 1 bu [gold]　　Shimizu-machi district　　Cooper　　Toyohachi
+　　　　　　　　　　Note: died of illness during the 11th month; [levy applies] from the beginning of this year [only, or reduced accordingly]
+One: 1 bu [gold]　　Yoko-machi district　　　Tatami maker　　Kuhachi
+One: 1 bu [gold]　　Apprentice of the above　　　　　　　　Torazō
+
+One: Stonemason　　Seri-machi district　　Stonemason　　Ichiuemon

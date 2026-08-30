@@ -1,36 +1,44 @@
-"Kyūkō Honzō" (Famine Relief Materia Medica) states:
-Hagi (Lespedeza) 《Also commonly called Zuigunchaと》《Both alternative and other names are detailed in Volume 1 of the Autumn Section》
+"Jiuhuang Bencao" (Famine Relief Materia Medica) states:
+Hūzhī zǐ (Hagi/Bush clover) - Also commonly known as "Suijun-cha." Other names and alternative names are detailed in Autumn Section, Volume 1.
 
-One of the seven autumn grasses
-Hinoe-Inu year, Nanryo (8th month), 17th day, re-copied
+One of the Seven Autumn Grasses
 
-In "Yamato Honzō" it is recorded in the flowering plants section
+Hinoe-Inu year, Nanryo (8th month), 17th day
+Re-copied
 
-"Jukō" states:
-There are three types of Lespedeza. Hagi refers to tree hagi. It is also recorded as withered hagi in "Taigen-shō". This tree does not die in winter, and produces branches and leaves from the tree in spring. This is the Chinese hagi (tō-hagi) that came from China. Also, what grows from perennial roots in spring and withers in winter is grass hagi. There is also one type with thread-like tassels hanging down and deep flower color. These two types grow in mountains everywhere and are native species of our country. The wild hagi of Miyagino and others are separate varieties.
+Yamato Honzō - Listed under [Flowering Grasses]
 
-"Wakan Sansai Zue" in the wetland plants section states:
-Ketsumeishi (Cassia seed) Batei-ketsumei
-《ketsumeishi》《Japanese name》Ehisukusa
-Commonly called Batereigusa
-Perhaps a corruption of "horse hoof grass"
+"Jukko" (Longevity Considerations) states:
+There are three varieties of Hūzhī zǐ. "Hagi" refers to ki-hagi (woody bush clover). It is also recorded in "Taigen-shō" as "kare-hagi" (withered hagi). Its tree does not wither in winter, and in spring, branches and leaves sprout from the wood itself. This is "Kara-hagi" (Chinese bush clover) that was introduced from China. The variety that grows from perennial roots in spring and withers in winter is "kusa-hagi" (herbaceous bush clover). There is yet another variety with thread-like supplementary branches hanging down and deeply colored flowers. These two varieties grow on mountains everywhere and are native Japanese species. Miyaginono-midare-hagi and similar varieties are separate species.
 
-"Tashiki-hen" in the fragrant grass section states:
-Ketsumei
-Japanese names: Itachi
-　　　　　　　 Sasage
+"Wakan Sansai Zue" (Illustrated Sino-Japanese Encyclopedia), in the Marsh Grasses section, states:
+Juémíng zǐ (Ketsumei-shi/Senna seed) - Mǎtí juéming (Horse-hoof cassia)
+Japanese name: Ebisugusa (Senna obtusifolia)
+Also commonly called "Baterē-gusa"
+Perhaps a corruption of "Mǎtí-sō" (Horse-hoof grass)
 
-Recorded in "Yamato Honzō" miscellaneous grass section
+"Tashiki-hen" (Encyclopaedia of Many Identifications), Fragrant Grasses section, states:
+Juéming
+Japanese name: Itachi (weasel plant)
+             Sasage
 
-○Ketsumeishi 《namely this horse hoof ketsumei》
-Grass ketsumei 《namely blue box seed》
-Stone ketsumei 《namely horse clam shell》
+Yamato Honzō - Listed under [Miscellaneous Grasses]
 
-My opinion:
-"Honzō Kōmoku" mentions two types: horse hoof ketsumei and jōbō ketsumei. The explanation of horse hoof matches well, and Japanese and Chinese sources agree. ○Jōbō ketsumei resembles horse hoof and also resembles locust tree leaves. At night they also do not close, flowers are similar and form horn-like pods about the size of a little finger. Bōkōnan is this ketsumei. However, "Sansai Zue" records both types as ketsumei and treating them as one thing in separate entries is an error. If not, then Bōkōnan is a separate species. Will copy in a later section.
+○ Juéming zǐ - That is, this Mǎtí juéming (Horse-hoof cassia)
 
-Night leaf closing diagram
+Grass Juéming - That is, Qīngxiāng zǐ (Celosia argentea seed)
 
-The leaves are like this, these flower buds do not open, at their peak.
+Stone Juéming - That is, the shell of the abalone (駒の臭/koma no kusai)
 
-Bōkōnan (Itachi-sasage) Its flowers are called chakaji, or called kaidou, or directly called ketsumei
+The author states:
+"Bencao Gangmu" (Compendium of Materia Medica) states that "there are two varieties of Mǎtí juéming zǐ and Jiāngmáng juéming." The description of the horse-hoof variety corresponds well. Japanese and Chinese usages are the same. ○ Jiāngmáng juéming resembles the horse-hoof variety and also resembles the leaves of the Japanese pagoda tree (Sophora japonica). At night, its leaves also do not fold together. Its flowers are the same as those of Mǎtí juéming, producing pods like a little finger. Wàngjiāngnán is this juéming. However, the "Sansai Zue" lists two varieties under juéming - recording them as if they were a single plant is an error. Or perhaps not. Wàngjiāngnán (Habu-sō/Senna sophera) is a separate species. To be copied in a later section.
+
+Diagram of leaves folding at night
+(Illustration of leaf closure)
+
+The leaves are of this shape, and the flower buds remain closed without opening
+(at the height of its season)
+
+Wàngjiāngnán (Itachi-sasage / Senna sophera) - Its flower is called "Chá huā ér" (Tea flower).
+Also called "Huái dòu" (Pagoda-tree bean).
+Or simply referred to as "Juéming."

@@ -1,21 +1,25 @@
 [Right page]
-　When you divide the aforementioned silver of 43 monme 2 bu by this 36,
-　you should know that the 1-shō pot is 1 monme 2 bu. From this
-　the right method of division is good calculation.
+　Dividing the aforementioned 43 monme 2 bu of silver by this 36,
+　one should know that the 1-shō pot is 1 monme 2 bu. This is
+　the best method of division for the above.
 
-　　The aforementioned nested calculation means that besides this,
-　　there are various other calculations passed down orally.
+　　As for what is called the "nested items calculation" (irikozan),
+　　there are many other varieties of such calculations,
+　　passed down through oral tradition.
 
 
 [Left page]
-Chapter 36: On Land Survey
+《No. 36》　On Land Survey (Kenchi)
 ※○4 tan 8 se 10 bu
-[Rectangle below]
-[Top edge] 25 ken　[Bottom edge] Same　[Right edge] Length 58 ken　[Left edge] Same
-　The method: place the length and width measurements on the right and left, multiply them to get
-　1,450 tsubo. When you divide this by the field method of 3, it becomes 4 tan 8 se 10 bu.
+[Rectangular diagram]
+[Top side] 25 ken　[Bottom side] same　[Right side] length 58 ken　[Left side] same
 
-※○2 tan 1 se 28 bu 9 fun
-[Rectangle below]
-[Top edge] 18 ken 4 shaku　[Bottom edge] Same　[Right edge] Length 35 ken 2 shaku 6 sun　[Left edge] Same
-　The method: place the length of 35 ken 2 shaku 6 sun on the right, from 1 ken
+　The method: place the length and width in ken to the right and left and multiply them,
+　which gives 1,450 tsubo. When this is divided by the rice field standard of 3,
+　it becomes 4 tan 8 se 10 bu.
+
+※○2 tan 1 se 28 bu 9 bu
+[Rectangular diagram]
+[Top side] 18 ken 4 shaku　[Bottom side] same　[Right side] length 35 ken 2 shaku 6 sun　[Left side] same
+
+　The method: place the length of 35 ken 2 shaku 6 sun on the right, and from 1 ken...

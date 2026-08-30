@@ -1,26 +1,27 @@
-**[Right Page]**
+【Right page】
 
-　　　　Since the offspring also give birth, the parents and offspring together become 98 mice.
-　　　　When they give birth once a month in this manner, if one asks
-　　　　how many mice there will be over the course of one year:
-　〇Total: 27,680,025,074,402 mice [2 jō, 7 jo, 6 gai, 8 kei, 2 chō, 5 oku, 74,402]
-　　　As the method: multiply 2 mice by 7, twelve times, and you will arrive at the above number.
+　　　　The offspring also give birth to offspring, so parents and young together number 98 mice.
+　　　　When they breed once a month in this manner, the question is asked:
+　　　　how many mice will there be in the course of one year?
+　〇Total: 2 *jō* (穰) 7 *jo* (秭) 6 *gai* (垓) 8 *kei* (京) 2 *chō* (兆) 500,074,402 mice
+　　　Method: multiply 2 mice by 7, twelve times, and you will obtain the above total.
 
-　※When asked how long a line these mice would form if laid end to end:
-　〇Length: 788,654 ri, 23 chō, 20 ken, 8 sun
-　　　1 ri = 36 chō　　　　1 chō = 60 ken
-　　　1 ken = 6 shaku 5 sun　　　　Length of one mouse = 4 sun
+　※When asked how far the above mice would stretch if lined up in a row:
+　〇Length: 788,654 *ri* (里), 23 *chō* (町), 20 *ken* (間), 8 *sun* (寸)
+　　　1 *ri* = 36 *chō*　　　　1 *chō* = 60 *ken*
+　　　1 *ken* = 6 *shaku* 5 *sun*　　　　Length of one mouse: 4 *sun*
 
-**[Left Page]**
+【Left page】
 
-Problem 34: Doubling One Unit Each Day
+《No. 34》　On Doubling Day by Day
 
-　※Starting with a single poppy seed and doubling it every day,
-　　※after 30 days: (assuming 4,000,000 seeds fit in 1 shō)
-　　　Total becomes 1 koku, 3 to, 4 shō, 2 gō, 1 shaku, 7 sai, 7 satsu, 2 kei, 8 soku
-　　　　　The above number is:
-　　　　　　530,687,090,912 seeds
-　※Starting with 1 mon in coins and doubling every day,
-　　※after 30 days: (calculating at the rate of 96 mon per 100 mon, i.e., accounting for exchange fees)
-　　　Total: 559,240 kan, 532 mon, including exchange fees (mokusen)
-　　　　　The exchange fee (mokusen) amounts to 22,369 kan, 620 mon
+　※Starting with one poppy seed and doubling it day by day,
+　　《in 30 days》　　　Assuming 4,000,000 seeds fit in one *shō* (升):
+　　　Total: 1 *koku* (石) 3 *to* (斗) 4 *shō* (升) 2 *gō* (合) 1 *shaku* (勺) 7 *sai* (才) 7 *satsu* (撮) 2 *kei* (圭) 8 *soku* (栗)
+　　　　　The above number amounts to
+　　　　　　536,870,912 seeds in total
+
+　※Starting with one *mon* (文) coin and doubling it day by day,
+　　《in 30 days》　　　Calculating at the rate of 96 *mon* per 100 *mon* (accounting for exchange fees):
+　　　Total: 559,240 *kan* (貫) 532 *mon*, including exchange fees (*mesen*)
+　　　　　Of this, the exchange fees amount to 22,369 *kan* 620 *mon*

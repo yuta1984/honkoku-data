@@ -1,20 +1,51 @@
-Tiangou Major Star: Xu constellation 2+ degrees, 31- degrees, 3rd magnitude, 14+ degrees past Zi hour, 60+ degrees north
-Leibi Western Star: Xu constellation 3+ degrees, 110- degrees, 3rd magnitude, 15+ degrees past Zi hour, 18+ degrees south
-Wei Northern Star: Wei constellation initial degree+, 87+ degrees, 3rd magnitude, 17+ degrees past Zi hour, 7+ degrees north
-Shi Northern Star: Shi constellation initial degree, 65.5 degrees, 2nd magnitude, 7+ degrees past Hai hour, 25+ degrees north
-Shi Southern Star: Shi constellation initial degree, 78+ degrees, 2nd magnitude, 8 degrees past Hai hour, 12+ degrees north
-Yulin Major Star: Shi constellation 9+ degrees, 107- degrees, 3rd magnitude, 4+ degrees past Hai hour, 18 degrees south
+(Continued from previous page — Star Catalog Table)
 
-Solar Transit Degrees and Minutes from the Celestial Equator
+　　　　　　　　　Entry Mansion　　Polar Distance　　Grade　　Ecliptic Palace　　Distance from Equator
 
-When observing stars, one must first recognize the celestial equator and the North Pole. The North Pole has stars that can serve as indicators, but for the celestial equator, measurement methods must be employed. Without knowing the measurement methods, even movements of several degrees would lack foundation.
+Celestial Hook Large Star (*Tiān Gōu dà xīng*)
+　　　　　　　　　Emptiness (*Xū*) [2°+]　　[31°−]　　3rd　　Rat (*Zǐ*) [14°+]　　North [60°+]
 
-Using the sun's transit north and south of the celestial equator as the standard, each extends 23.5 degrees, with no difference between inner and outer limits, and the movement is gradual. This is calibrated using the sun's positions at the 24 solar terms. <<The sun's distance from the celestial equator changes daily, but using the solar term days as reference makes measurement easier>> One can know the elevation of the celestial equator and thereby deduce the position of the North Pole at that location.
+Rampart Wall West Star (*Lěi Bì xī xīng*)
+　　　　　　　　　Emptiness [3°+]　　[110°−]　　3rd　　Rat [15°+]　　South [18°+]
 
-The sun's distance from the celestial equator <<During the spring and autumn equinoxes, when the sun travels the celestial sphere along the true circle of the celestial equator with no deviation north or south, one can recognize this as the boundary that bisects the celestial sphere north and south>>
+Rooftop Mansion North Star (*Wēi xiù běi xīng*)
+　　　　　　　　　Rooftop (*Wēi*) [initial°+]　　[87°+]　　3rd　　Rat [17°+]　　North [7°+]
 
-Spring Equinox: Center <<At this time, on the central line, no distance>>  Clear and Bright: North 6°19'  Grain Rain: North 11°30'
-Summer Begins: North 16°40'  Grain Fills: North 20°12'  Grain in Ear: North 22°46'
-Summer Solstice: North 23°31'  Slight Heat: North 22°46'  Great Heat: North 20°12'
-Autumn Begins: North 16°40'  Heat Ends: North 11°30'  White Dew: North 6°19'
-Autumn Equinox: Center <<At this time, on the central line, no distance>>  Cold Dew: South 6°19'  Frost Falls: South 11°30'
+Encampment Mansion North Star (*Shì xiù běi xīng*)
+　　　　　　　　　Encampment (*Shì*) [initial°0]　　[65°½]　　2nd　　Boar (*Hài*) [7°+]　　North [25°+]
+
+Encampment Mansion South Star (*Shì xiù nán xīng*)
+　　　　　　　　　Encampment [initial°0]　　[78°+]　　2nd　　Boar [8°0]　　North [12°+]
+
+Imperial Guard Large Star (*Yǔ Lín dà xīng*)
+　　　　　　　　　Encampment [9°+]　　[107°−]　　3rd　　Boar [4°+]　　South [18°0]
+
+---
+
+### The Sun's Degrees of Entry and Exit from the Celestial Equator
+
+**Question:** When observing stars, one must first identify the celestial equator and the North Pole. The Pole has a star that can be pointed to. However, the equator can only be located through measurement. Without knowing the method of measurement, one wanders several degrees without any basis.
+
+**Answer:** It is established that the sun enters north and south of the celestial equator by twenty-three and a half degrees on each side. There is no difference between the inner and outer [hemispheres], and its passage back and forth occurs gradually. The sun's position at each of the twenty-four solar terms is used as the standard for measuring this. [Note: The sun's distance from the equator shifts day by day, but the days of the solar terms alone are used as the standard, making it easy for people to measure.] From this, one can know the altitude of the celestial equator at one's location, and from that, one can further infer the altitude of the North Pole above the horizon at that location.
+
+The Sun's Distance from the Celestial Equator [Note: On days such as the Spring and Autumn Equinoxes, the sun travels along the great circle of the whole sky — namely the true circle of the celestial equator — with no degrees of deviation to the south or north. This reveals the boundary of the celestial sphere that divides it equally between north and south.]
+
+| Solar Term | Direction & Degrees |
+|---|---|
+| Spring Equinox (*Chūnfēn*) | Center (at this moment, [the sun] is on the central line [equator]; no angular distance) |
+| Clear and Bright (*Qīngmíng*) | North: 6° 19′ |
+| Grain Rain (*Gǔyǔ*) | North: 11° 30′ |
+| Start of Summer (*Lìxià*) | North: 16° 40′ |
+| Grain Buds (*Xiǎomǎn*) | North: 20° 12′ |
+| Grain in Ear (*Mángzhòng*) | North: 22° 46′ |
+| Summer Solstice (*Xiàzhì*) | North: 23° 31′ |
+| Minor Heat (*Xiǎoshǔ*) | North: 22° 46′ |
+| Major Heat (*Dàshǔ*) | North: 20° 12′ |
+| Start of Autumn (*Lìqiū*) | North: 16° 40′ |
+| End of Heat (*Chǔshǔ*) | North: 11° 30′ |
+| White Dew (*Báilù*) | North: 6° 19′ |
+| Autumn Equinox (*Qiūfēn*) | Center (at this moment, [the sun] is on the central line [equator]; no angular distance) |
+| Cold Dew (*Hánlù*) | South: 6° 19′ |
+| Frost's Descent (*Shuāngjiàng*) | South: 11° 30′ |
+
+(Continued on next page)

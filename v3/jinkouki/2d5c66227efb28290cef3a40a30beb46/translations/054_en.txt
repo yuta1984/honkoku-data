@@ -1,0 +1,27 @@
+【Right page】
+
+　※Starting with one grain of rice and doubling it day by day,
+　　《in 30 days》　　　Assuming 60,000 grains fit in one *shō* (升):
+　　　Total: 89 *koku* (石) 4 *to* (斗) 7 *shō* (升) 8 *gō* (合) 4 *shaku* (勺) 8 *sai* (才) 5 *satsu* (撮) 3 *kei* (圭) 3 *soku* (栗)
+　　　　The above number amounts to
+　　　　　536,870,912 grains in total.
+
+　※Starting with one soybean and doubling it day by day,
+　　《in 30 days》　　　Assuming 5,000 beans fit in one *shō* (升):
+　　　Total: 1,073 *koku* (石) 7 *to* (斗) 4 *shō* (升) 1 *gō* (合) 8 *shaku* (勺) 2 *sai* (才) 4 *satsu* (撮)
+　　　　The above number is
+　　　　　the same as the number of grains of rice.
+
+
+【Left page】
+
+　※Starting with one poppy seed and doubling it day by day,
+　　《in 50 days》　　　Assuming 4,000,000 seeds fit in one *shō* (升):
+　　　Total: 1,407,374 *koku* (石) 8 *to* (斗) 8 *shō* (升) 3 *gō* (合) 5 *shaku* (勺)
+　　　　　　　　　　　　　5 *sai* (才) 3 *satsu* (撮) 2 *kei* (圭) 8 *soku* (栗)
+　　　　The above number is: 5 *sai* (載) 6 *sei* (正) 2 *kan* (澗) 9 *kō* (溝) 4 *jō* (穰) 9 *jo* (秭) 9 *gai* (垓) 5 *kei* (京)
+　　　　　　　　　3 *chō* (兆) 400,021,312 seeds in total
+　　　　　Applying the cube root method (*kairitsu*) to the above number:
+　　　　Length: 31 *ken* (間) 4 *shaku* (尺) 9 *sun* (寸) 2 *bu* (分) 5 *rin* (厘) 2 *mō* (毛) 5 *shi* (糸)
+　　　　Width is the same as above　　　　Assuming 6 *shaku* 5 *sun* = 1 *ken* (間)
+　　　　Height is likewise the same as above
