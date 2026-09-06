@@ -1,36 +1,59 @@
-Chikōin-sama　　　17th day, 1st month　　Shōhōji Temple
-　　　Seishōin-sama　　　14th day, 7th month　　Reigan-ji Temple
-　　The above: proxy visits (daisan) on memorial days and in the 1st, 5th, and 9th months shall be performed by the middle councillors (chūrō).
-　　　However, when the middle councillors are occupied, the senior guard captain (shoin-bangashira) shall perform the duty; when the senior guard captain is occupied, the executive official (goyōnin) shall perform the duty.
+### (Continued from previous page) — Proxy Worship by the *Go-chūrō* (Middle Elders), continued
 
-　　Item: Personnel accompanying the middle councillors when they proceed to the temples to perform proxy visits:
-　　　　　　　　　　　　　　　　　　　　(Tochimetsuke)
-　　　　　　　　　　　　Hand-washing water attendant　　(Bōzu)
-　　　　Proceed ahead in accordance with the above and go out to meet them upon arrival.
+| Posthumous Buddhist Name | Date | Temple |
+|---|---|---|
+| Chikōin-sama | 17th day of the 1st month | Shōhōji |
+| Seishōin-sama | 14th day of the 7th month | Reigаnji |
 
-An'ei 7th Year (Year of the Dog)
+The above death anniversary days (*kijitsu*) and visits for the 1st, 5th, and 9th months shall be performed as proxy worship by the *go-chūrō* (Middle Elders).  
+*Proviso:* Should the *go-chūrō* have other duties, the *o-shoin-bangashira* (Captain of the Shoin Guard) shall perform the duty; should the *o-shoin-bangashira* also have duties, the *Goyōnin* (Senior Steward) shall perform it.
 
-Item: On the 4th day of the 11th month, Watanabe Jūrozaemon passed along a separately written notice, the contents of which are as follows:
+---
 
-　　　　　　Memorandum
+- **Item —** Personnel to proceed to the temple on occasions when the *go-chūrō* performs proxy worship:
 
-　　2nd day of the 11th month:
-　　On the occasion of the lord's circuit of the residence (oyakata-mawari) on the above date, from the day before until past midday on the day itself, one shall refrain from eating fish.
+| Position | Duty |
+|---|---|
+| *O-kachi-metsuke* | To accompany |
+| *O-bōzu* | To serve as attendant for ritual hand-washing (*temizu*) |
 
-An'ei 9th Year (Year of the Rat)
+In accordance with the above, the above personnel shall proceed to the temple in advance and shall go out to receive the *go-chūrō* upon their arrival.
 
-Item: On the 12th day of the 6th month, Isono Tamiya communicated the following instructions, which had been issued as per the attached document, and are recorded below:
+---
 
-　　Item: Regarding persons who have been born (gosetsu-sama): henceforth, newborn male children shall also be written and referred to as "Ohime-sama" (御姫様, princess/young lady).
-　　Item: For days prior to the current day, write "yesterday the Nth" or "the day before yesterday the Nth"; for days further back than that, write "the past Nth day."
-　　Item: For the current day, write "today the Nth"; for subsequent days, write "tomorrow the Nth" or "the day after tomorrow the Nth"; for days further ahead, write "the coming Nth day."
-　　Item: For references that correspond to the four seasons, write "this spring," "this summer," "this autumn," or "this winter" accordingly.
+## An'ei 7th Year (1778), Year of the Dog
 
-　　　　　　12th day of the 6th month
+### 4th Day of the 11th Month — A written notice was delivered by Watanabe Jūrozaemon, the contents of which are as follows:
 
-Item: On the 18th day of the 6th month, Isono Tamiya communicated the following: Although it had previously been instructed on multiple occasions that packages carried by messengers (hikyaku) should not be made excessively heavy and bulky, and that even ordinary correspondence should absolutely not be sent, discipline had grown lax and disorderly. Therefore, the matter is being communicated once again by means of the attached written notice, recorded below:
+#### Memorandum (*Oboegaki*)
 
-　　　　　　Memorandum
+Concerning the 2nd day of the 11th month (the occasion of the *o-yashiromawari* — the lord's inspection round of the residence):  
+From the day preceding said round until past noon on the day itself, consumption of fish and seafood (*gyorui*) shall be abstained from.
 
-　　Item: When using messengers, even official documents (goyōjō) of any kind should be kept as light and compact as possible.
-　　Item: Regarding letters passed to officials through personal connections and intermediaries — as has been communicated repeatedly in the past — acting as an intermediary for such letters shall absolutely not be done.
+---
+
+## An'ei 9th Year (1780), Year of the Rat
+
+### 12th Day of the 6th Month — The following was conveyed by Isono Tamiya, stating that the below had been decreed by separate written notice; recorded here accordingly.
+
+- **Item —** Regarding newborn children (*go-shussei-sama*): henceforth, a newborn male child (*go-danshi-sama*) shall be written and recorded as "*o-hime-sama*" (princess/female-form honorific).
+
+- **Item —** Regarding days prior to the present day: the day before yesterday shall be written as "*kino nannichi*" (yesterday, such-and-such day) and the day before that as "*ototoi nannichi*" (the day before yesterday, such-and-such day); days further back shall be written as "*saru nannichi*" (the such-and-such day past).
+
+- **Item —** Regarding the current day, it shall be written as "*ima nannichi*" (today, such-and-such day); for subsequent days, "*asu nannichi*" (tomorrow) and "*asatte nannichi*" (the day after tomorrow); and for days further ahead, "*kitaru nannichi*" (the coming such-and-such day).
+
+- **Item —** For matters corresponding to the four seasons, they shall be written as "*tō-haru*" (this spring), "*tō-natsu*" (this summer), "*tō-aki*" (this autumn), and "*tō-fuyu*" (this winter).
+
+　　　　　　　12th Day of the 6th Month
+
+---
+
+### 18th Day of the 6th Month — Conveyance by Isono Tamiya:
+
+It was stated that regarding the dispatch of couriers (*hikyaku*), it had previously been communicated on multiple occasions that parcels and correspondence combined must not become excessively heavy, and furthermore that ordinary personal correspondence must absolutely not be sent through official courier channels. However, as compliance had been growing lax and disorderly, a fresh notice was hereby issued. This was conveyed by means of a separately attached written notice, recorded here as follows:
+
+#### Memorandum (*Oboegaki*)
+
+- **Item —** On occasions of courier dispatch, even official communications (*goyōjō*) for all parties and offices must be kept sufficiently light in weight and must not become excessively heavy.
+
+- **Item —** Regarding letters sent to domain officials by means of personal connections and intermediaries (*tesуji*): as has been communicated repeatedly on previous occasions, the forwarding and relaying of such letters must absolutely not be permitted.

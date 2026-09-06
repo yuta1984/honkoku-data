@@ -1,0 +1,17 @@
+Item: 611 lots　　　Samurai residences
+　　　　　　Item: 39 lots　　　Yoriki residences
+　　　　　　Item: 76 lots　　　Residences of various officials and foot soldiers (kachi)
+　　　　　　Item: 9 lots　　　　Buddhist chaplain (bōzu) residences
+　　　　　　Item: 1,042 lots　　Various unit residences (shogumi)
+　　　　　　Item: 5,386 lots　　Townspeople's residences (machiya)
+　　　　　　　　　Of which, 1,813 lots are jikataichi (rural-designated land), nago (dependent tenants), and monzen (precincts before temples/shrines)
+　　　　　　Item: 148 temples
+　　　　　　Item: 8 shrine households (shake)
+
+　　　　　　Item: 10,473 males
+　　　　　　Item: 9,538 females
+　　　　　　Item: 426 persons associated with temples and shrines
+　　　　　　　　　Of which, 3 shrine priests (sōnin) and 31 nuns (ama)
+　　　　　　Item: 15 persons in the Shinmei shrine precincts under shogunal seal (goshūinjichi): 3 Buddhist monks, 1 shrine priest,
+　　　　　　　　　5 males, 6 females
+　　　　　Right, in addition to the above, population registers (ninbetsu aratamechō) for the rural districts (kōrigata) and other areas were also to have been submitted, but the details are unknown.

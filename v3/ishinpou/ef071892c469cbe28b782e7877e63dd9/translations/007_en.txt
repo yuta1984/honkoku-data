@@ -1,42 +1,33 @@
-**[Continuation of the preceding passage—Each obtains what is appropriate]**
+**[Continuing from the *Taisu Jing* (Grand Basis Classic)]**
 
-Each [region's method] obtained what was appropriate to it. Therefore, even though the treatments differ, the fact that all diseases are cured [by these methods] comes from having grasped the true nature (*qíng*) of the disease. This is what it means to know the fundamental principles (*dàtǐ*) of treatment.
+Each [method] has obtained what is most suitable [for the situation]. Therefore, although the treatments differ, the reason all diseases are cured is that [the physician] has grasped the true nature (*qíng*) of the disease and knows the essentials (*dàtǐ*) of treatment.
 
-It is also said: When diagnosing a disease, one must always ask whether [the patient] was formerly of high status and later became of low status. Even without being struck by an external pathogenic influence (*wài xié*), disease can arise from within [the body]. This is called "loss of glory" (*tuō róng*). [A case where someone] was formerly wealthy and later became poor is called "loss of essence" (*shī jīng*).
+It is also said: When examining a disease, one must always ask whether [the patient] was once of high rank and later fell to low station. Even if they have not been struck by external pathogenic influences (*wàixié*), if disease arises from within, this is called "loss of glory" (*tuō róng* 脱栄). When someone was once rich and has since become poor, this is called "loss of essence" (*shī jīng* 失精).
 
-Yáng Shàngshàn says: One who was first noble and later became humble suffers the injury of "loss of glory" (*tuō róng*). One who was first wealthy and later became poor suffers the detriment of "loss of essence" (*shī jīng*). "Loss of glory" is an injury—it arises from the humiliation of being reduced to low and base status. "Loss of essence" is likewise an injury—it arises from the [suffering of] poverty and destitution. Even without being struck by an external pathogenic influence, these [conditions] are brought about by the affliction of both the physical form and the spirit (*shén*).
+Yang Shangshan (*Yáng Shàngshàn*) says: One who was first of high rank and later became lowly suffers the injury of "loss of glory" (*tuō róng*). One who was first wealthy and later became poor suffers the damage of "loss of essence" (*shī jīng*). Loss of glory is an injury, arising from the humiliation of low and base station. Loss of essence is also an injury, arising from the [hardship and suffering] of poverty and destitution. Even without the attack of external pathogenic influences, these are conditions brought about by the suffering of both the physical body (*xíng*) and the spirit (*shén*).
 
 ---
 
-**[From the *Suvarṇaprabhāsottama-sūtra* (最勝王経 / *Saishōōkyō*)]**
+**[From the *Suvarṇaprabhāsa Sūtra* (最勝王経, *Saishōōkyō*)]**
 
-*[Marginal annotation: This passage from the Saishōōkyō is absent in the Uji manuscript but present in the Hinoshōshi manuscript.]*
+*[Marginal note: The passage from the Suvarṇaprabhāsa Sūtra is absent in the Uji manuscript but present in the physician's manuscript.]*
 
-Diseases are distinguished into four kinds: namely, wind (*fū*), heat (*netsu*), phlegm-rheum (*tan'on*), and "total confluence" (*sōshū*—the disease in which all three converge). One should know the time at which [each] arises and moves.
+Disease has four distinct types, namely: wind (*fēng*), heat (*rè*), phlegm-humor (*tán yǐn* / 痰癊), and combined accumulation (*sōng jí* / 惣集). One should know the time of their arising and activity:
 
-- In **spring**, phlegm-rheum (*tan'on*) becomes active.
-- In **summer**, wind-disease (*fūbyō*) arises.
-- In **autumn**, yellow-heat (*ōnetsu*) increases.
-- In **winter**, all three arise together.
+In spring, phlegm-humor (*tán yǐn*) becomes active. In summer, wind-disease (*fēng bìng*) arises. In autumn, yellow-heat (*huáng rè*) increases. In winter, all three arise together.
 
-- **Spring**: eat astringent (*shibu*), heating (*netsu*), and pungent (*karai*) [foods].
-- **Summer**: [eat] fatty (*neri*), heating, salty (*shiokarai*), and sour (*suppai*) [foods].
-- **Autumn**: [eat] cooling (*hiyayaka*), sweet (*amai*), and fatty [foods].
-- **Winter**: [eat] sour, astringent, fatty, and sweet [foods].
+In spring, eat astringent (*shè*), heating (*rè*), and pungent (*xīn*) [foods]. In summer, [eat] rich/oily (*nì*), heating, salty (*xián*), and sour (*cù*) [foods]. In autumn, [eat] cooling (*lěng*), sweet (*tián*), and rich/oily [foods]. In winter, [eat] sour, astringent, rich/oily, and sweet [foods].
 
-When taking medicine and consuming food and drink during these four seasons, if one follows the appropriate flavors as described above, there will be no means by which the multitude of diseases can arise.
+Within these four seasons, if in taking medicine and in [choosing] food and drink one follows the flavors appropriate to each season as described above, there will be no reason for the many diseases to arise.
 
-Disease after eating arises from [phlegm-]rheum. When food is being digested, [disease arises] from heat. After digestion is complete [and disease arises], it is due to wind. According to the time [of occurrence], one must discern the disease [accordingly].
+Disease after eating arises from *yǐn* (phlegm-humor/癊). When food is being digested, [disease] arises from heat. After digestion is complete, [disease] arising is due to wind. In accordance with the season, it is necessary to identify the disease.
 
-Once the source of the disease has been identified, one simply prescribes medicine according to the disease. Even if the symptoms presenting are varied, one must first treat the fundamental root [of the condition].
+Once the source of the disease has been identified, simply follow the disease and prescribe medicine accordingly. Even if the symptoms and condition of the ailment vary, one must first treat its root (*běn*, the fundamental cause).
 
-- For **wind** disease: administer oily, fatty [preparations].
-- For **heat** [disease]: effecting purgation/discharge is considered best.
-- For **phlegm-rheum** disease: one should alter the [dietary] flavors.
-- For **total confluence** (*sōshū*): medicines for all three [wind, heat, and phlegm-rheum] are required.
+For wind disease, take oily and fatty [foods/medicines]. For heat disorders, using [purgative] drainage is best. For phlegm-humor disease, one should change the diet (flavors). For combined accumulation (*sōng jí*), the three medicines (*sān yào*) are necessary.
 
-When wind, heat, and phlegm-rheum are all present together, this is called "total confluence" (*sōshū*). Even if one knows the time at which the disease arose, one should also observe the patient's fundamental constitution (*honshō*—innate nature/constitution).
+When wind, heat, and phlegm-humor are all present together, this is called "combined accumulation" (*sōng jí* / 惣集). Even when one knows the time at which the disease arises, one should also observe the patient's fundamental constitution (*běn xìng*).
 
-Having thus observed and understood [the condition], one should administer medicine in accordance with the season. If there is no error in the food, drink, and medicine [prescribed], such a person is called a "skilled physician" (*zen'i*).
+Having thus observed and understood [all these things], one administers medicine in accordance with the season; if there is no error in [prescribing] food, drink, and medicine, such a person is called a "good physician" (*shàn yī* / 善医).
 
-Furthermore, one should know the "Eight Arts" (*hachijutsu*). [One should] comprehensively master the methods of all the various [branches of] medicine. If one is thoroughly versed in these, one will be able to treat the diseases of all living beings.
+Furthermore, [a good physician] should know the Eight Arts (*bā shù* / 八術). By comprehensively mastering the methods of all [branches of] medicine, if one is thoroughly conversant with these [Eight Arts], one can treat the diseases of all living beings.

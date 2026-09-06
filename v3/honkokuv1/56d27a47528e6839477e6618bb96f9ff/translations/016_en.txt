@@ -1,18 +1,39 @@
-Excerpts from letters from Osaka ○ On the night of September 28th, there was an earthquake, and Hirano Bridge, Hoki-cho, and Sakai Bridge area collapsed greatly. Many people in this area were harmed. Also in Nagoya in Owari Province and Hamamatsu in Totomi Province, parts of the castle towns burned slightly. This is said to have been due to simultaneous earthquakes.
+## Extract from a Letter Received from Osaka
 
-Among the theater districts of Edo that burned down, the remaining actor residences include those of Bando Shuka's son Kichiya, Nakamura Fukusuke, Ichimura Uzaemon, Morita Kanya, Onoe Kikunojuro, and two or three teahouses that survived.
+On the night of the 28th day of the 9th month, an earthquake struck, and the areas around Hiranobashi, Hōkimachi, and Sakaibashi were heavily damaged by collapses. Many people in this vicinity suffered losses. Furthermore, it is reported that the castle towns of Nagoya in Owari Province and Hamamatsu in Tōtōmi Province also suffered some fires. It is conveyed that these [earthquakes] occurred simultaneously [with the Edo earthquake].
 
-First, regarding storehouses: those that collapsed greatly numbered over 65,700, those with slight damage numbered over 87,200, and those that burned are countless.
+---
 
-First, the dead numbered over 132,400 people, the injured over 101,000 people, and others frequenting restaurants and inns numbered over 31,200 people.
+## On the Edo Theatre District
 
-First, in Shin-Yoshiwara, the dead numbered over 1,430 people, and the injured over 2,300 people.
+Among the actors' residences that survived the fires in Edo's theatre district (Shibai-machi): the house of Bandō Shiuka's son Kichiya, Nakamura Fukusuke, Ichimura Uzaemon, Morita Kanya, Onoe Kikujirō, and two or three teahouse establishments.
 
-《At Asakusa Kannon, great segaki ceremonies from November 1st to 4th》《Great segaki at Zojoji Temple, memorial services at Honjo Ekoin》《Great segaki ceremonies at Nishi Honganji》《Great segaki ceremonies at Higashi Honganji》《Kiya Kyubei held segaki at Ekoin from October 19th to November 21st》《Great segaki ceremonies held by various other sects》
+---
 
-[Horizontal text]
-Gansho-do Bookstore
-Kanda Tokyo
-No.
+## Damage Statistics
+
+- Earthen storehouses (dozō) severely collapsed: more than 65,700; those slightly damaged: more than 87,200; those destroyed by fire: number unknown.
+
+- Deaths: more than 132,400 persons; injured persons: more than 101,000; those attending surgical treatment: more than 31,200 persons.
+
+- Deaths in Shin-Yoshiwara: more than 1,430 persons; injured: more than 2,300 persons.
+
+---
+
+## Memorial Services and Segaki Rites
+
+- At Asakusa Kanzeon (Sensō-ji), a grand segaki rite was held from the 1st to the 4th day of the 11th month.
+- Grand segaki rite at Zōjō-ji; memorial services (ekō) held at Honjo Ekō-in.
+- Grand segaki rite held at Nishi Hongan-ji.
+- Grand segaki rite held at Higashi Hongan-ji.
+- Kiya Kyūbei [sponsored a] segaki rite at Ekō-in from the 19th day of the 10th month to the 21st day of the 11th month.
+- Grand segaki rites were also held at various other religious sects and temples.
+
+---
+
+**[Horizontal printed label — bookseller's sticker]**
+GANSHŌDŌ SHOTEN (Ganshōdō Bookstore)
+KANDA, TOKYO
+№
 ¥ .70
-6, 12, 14,
+6, 12, 14

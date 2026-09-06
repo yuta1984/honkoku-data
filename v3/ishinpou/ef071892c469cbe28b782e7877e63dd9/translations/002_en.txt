@@ -1,24 +1,22 @@
-**[Right folio]**
+【Right Folio】
 
-*Ishinpō*, Volume One
+# Ishinpō, Volume One
 
-Compiled by Tanba no Sukune Yasuyori, Junior Fifth Rank Lower Grade, Acting Director of Acupuncture (Hari Hakase), concurrently Governor of Tanba Province (Tamba no Suke)
-
-Chapter 1: General Principles of Treating Disease
-Chapter 2: Signs of Incurable Conditions in Various Diseases
-Chapter 3: Rules for Taking Medicine
-Chapter 4: Things Prohibited When Taking Medicine
-Chapter 5: Remedies for Poisoning from Medicines
-Chapter 6: Methods for Compounding and Preparing Medicines
-Chapter 7: Methods for Measuring Medicine by Jin, Ryō, Shō, and Gō
-Chapter 8: Medicines Not to Be Added to Decoctions or Sake
-Chapter 9: Medicines That Have Antagonistic or Incompatible Relationships
-Chapter 10: Japanese Names (Wamyō) for Various Medicines
+Compiled by Tamba no Sukune Yasuyori, Junior Fifth Rank Lower Grade, Acting Master of Acupuncture, concurrently Governor of Tamba Province
 
 ---
 
-**[Left folio]**
+**Table of Contents:**
 
-**Chapter 1: General Principles of Treating Disease**
+- Chapter 1: The Fundamental Principles of Treating Disease　／　Chapter 2: Conditions in Which Diseases Cannot Be Treated　／　Chapter 3: Rules for Taking Medicines
+- Chapter 4: Things Prohibited When Taking Medicines　／　Chapter 5: Remedies for Poisoning from Medicines　／　Chapter 6: Methods for Compounding and Preparing Medicines
+- Chapter 7: Methods for Measuring Medicinal Weights and Volumes　／　Chapter 8: Medicines That Should Not Be Added to Decoctions or Liquor　／　Chapter 9: Medicines That Fear, Dislike, or Are Incompatible with Others
+- Chapter 10: Japanese Names for Various Medicines
 
-The *Qianjin Fang* [Prescriptions Worth a Thousand Gold Pieces] states: Zhang Zhan said: "The reason that mastery of classical medical prescriptions (*jingfang*) is so difficult is that the tradition stretches back through deep antiquity. There are cases where the internal condition is the same yet the external symptoms differ, and likewise cases where the internal condition differs yet the external symptoms appear the same. Therefore, the fullness and depletion of the five viscera (*wuzang*), and the free flow or obstruction of the blood vessels and the *ying-wei* (nutritive and defensive qi), cannot truly be discerned through the ears and eyes alone. One must examine the pulse in order to make them clear. Within the blood vessels there are the disorders of floating (*fu*), sinking (*chen*), wiry (*xian*), and tight (*jin*) [pulse qualities], and at the *shu* acupoints, there is the flow and concentration of qi..."
+---
+
+【Left Folio】
+
+## Chapter 1: The Fundamental Principles of Treating Disease
+
+The *Qianjin Fang* (Prescriptions Worth a Thousand Gold) states: Zhang Zhan said, "The difficulty in achieving thoroughness in the study of classical prescriptions has long been such that [even the wisest have struggled]. There are conditions that are internally the same yet externally different, and there are also conditions that are internally different yet externally the same. Therefore, the fullness and emptiness of the five viscera, and the free flow or obstruction of the blood vessels and the nutritive and defensive qi, truly cannot be discerned by ear and eye alone. One must examine the pulse in order to understand them clearly. In the blood vessels there are disorders such as floating, sinking, wiry, and tight [pulses]; and the flow passes through the acupoints (small openings)…"

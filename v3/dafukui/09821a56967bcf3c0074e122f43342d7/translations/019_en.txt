@@ -1,39 +1,62 @@
-An'ei 6th Year (Year of the Rooster)
+## An'ei 6th Year (1777), Year of the Rooster
 
-Item: On the 17th day of the 3rd month, at Edo, Hayashi Hachiemon communicated the following: Even when the regularly scheduled monthly temple visits are naturally postponed, the senior councillors (karō-jū) are to serve as representatives (nadai). At such times, one of our number (among the tochimetsuke) is ordered to be in attendance. Furthermore, all other matters are to be conducted as specified in the attached written notice. That notice is recorded below.
+### 17th Day of the 3rd Month — Conveyance by Hayashi Hachiemon at the Edo Residence:
 
-　　　　　During the Lord's Presence in the Domain — Monthly Visits
+It was conveyed that in the event of a postponement (*en'in*) of the lord's fixed monthly visits to the temples, the Senior Elders (*go-karōchū*) shall perform the duties of proxy representative (*o-naidai*). On such occasions, one of our number (i.e., from among the *o-kachi-metsuke*) shall be in attendance, as has been decreed. Furthermore, all matters are to be understood in accordance with a separately attached written notice, which was duly conveyed. Said written notice is recorded below.
 
-　　Jōkōin-sama　　　8th day　　　Zōjōji Temple
-　　Gentakuin-sama　　18th day　　Tentokuji Temple
-　　Tokushōin-sama　　21st day　　Same temple
-　　Kakuryōin-sama　　22nd day　　Ryōun'in Temple
-　　　　The above are for regular visits. When postponed, the senior councillors serve as representatives.
+---
 
-　　Ryūhōin-sama　　　1st day, 8th month　　　Zōjōji Temple
-　　Daian'in-sama　　　24th day, 3rd month　　Tentokuji Temple
-　　Tangen'in-sama　　12th day, 9th month　　Nansen-ji Temple
-　　Seijōin-sama　　　11th day, 2nd month　　Reigan-ji Temple
-　　Shōan'in-sama　　　4th day, 12th month　　Tentokuji Temple
-　　Hōsen'in-sama　　　27th day, 4th month　　Same temple
+#### Monthly Temple Visits During the Lord's Residence in the Domain
 
-　　The above are for memorial month visits and visits in the 1st, 5th, and 9th months. When postponed, the senior councillors serve as representatives.
+| Posthumous Buddhist Name | Date | Temple |
+|---|---|---|
+| Jōkōin-sama | 8th day | Zōjōji |
+| Genryūin-sama | 18th day | Tentokuji |
+| Tokushōin-sama | 21st day | Same temple (Tentokuji) |
+| Kakuryōin-sama | 22nd day | Ryōun'in |
 
-Item: New Year and Obon visits shall continue as before; when postponed, the senior councillors serve as representatives.
+The above are regular temple visits. *Proviso:* In the event of postponement, the *go-karōchū* (Senior Elders) shall serve as proxy.
 
-Item: When the senior councillors are occupied, the middle councillors (chūrō) shall perform the duty; when the middle councillors are occupied, the senior guard captain (shoin-bangashira) shall perform the duty; when the senior guard captain cannot perform the duty, the御用人 (goyōnin, executive official) shall perform the duty.
+---
 
-Item: Personnel accompanying the senior councillors when they serve as representatives at the temples:
-　　When there is business to attend to, the side unit commander (soba-monogashira) shall perform the duty. When the side unit commander is occupied, Fujita Kazaemon and Dōjōji Shichizaemon shall perform the duty.　　　　　(Metsuke)
-　　　　　　　　　　　　　　　　　　　　　　　　　　　(Tochimetsuke)
-　　Hand-washing water attendant　　　　　　　　　　(Bōzu)
+#### Visits for Death Anniversary Months and the 1st, 5th, and 9th Months
 
-In accordance with the above, the accompanying personnel shall proceed ahead to the temple and go out to meet the senior councillors upon their arrival.
+| Posthumous Buddhist Name | Date | Temple |
+|---|---|---|
+| Ryūhōin-sama | 1st day of the 8th month | Zōjōji |
+| Daian'in-sama | 24th day of the 3rd month | Tentokuji |
+| Tangen'in-sama | 12th day of the 9th month | Nansеnji |
+| Seijōin-sama | 11th day of the 2nd month | Reigаnji |
+| Shōan'in-sama | 4th day of the 12th month | Tentokuji |
+| Hōsen'in-sama | 27th day of the 4th month | Same temple (Tentokuji) |
 
-Item: Visits by proxy (daisan) performed by the middle councillors are as follows:
-　　Seichiin-sama　　　28th day, 3rd month　　Tentokuji Temple
-　　Kōjuin-sama　　　　17th day, 8th month　　Dentsu'in Temple
-　　Shōkeiin-sama　　　12th day, 2nd month　　Nansen-ji Temple
-　　Yōjuin-sama　　　　2nd day, 11th month　　Tentokuji Temple
-　　Kōshōin-sama　　　3rd day, 12th month　　Nansen-ji Temple
-　　Seiryōin-sama　　　21st day, 7th month　　Tenryūji Temple
+The above are visits for death anniversary months (*kijitsu*) and for the 1st, 5th, and 9th months. *Proviso:* In the event of postponement, the *go-karōchū* shall serve as proxy.
+
+---
+
+- **Item —** New Year visits (*nenshigyō*) and Bon season visits (*bon-chū*) shall continue as before; in the event of postponement, the *go-karōchū* shall serve as proxy.
+
+- **Item —** Should the *go-karōchū* have other official duties, the *go-chūrō* (Middle Elders) shall perform the duty; should those also have duties, the *o-shoin-bangashira* (Captain of the Shoin Guard) shall perform it; and should the *o-shoin-bangashira* be unable to perform it, the *Goyōnin* shall do so.
+
+- **Item —** Personnel to proceed to the temple on occasions when the *go-karōchū* serves as proxy:
+
+| Position | Duty / Notes |
+|---|---|
+| *O-metsuke* (Inspector) | Should they have other duties, the *o-soba-monogashira* shall serve in their place; should the *o-soba-monogashira* also have duties, Fujita Kazaemon and Dōji Shichizaemon shall perform the duty. |
+| *O-kachi-metsuke* | To accompany |
+| *O-bōzu* | To serve as attendant for ritual hand-washing (*temizu*) |
+
+In accordance with the above, the above personnel shall proceed to the temple in advance and shall go out to receive the *go-karōchū* upon their arrival.
+
+---
+
+- **Item —** Proxy worship (*o-daibai*) by the *go-chūrō* (Middle Elders) shall be as follows:
+
+| Posthumous Buddhist Name | Date | Temple |
+|---|---|---|
+| Seichiin-sama | 28th day of the 3rd month | Tentokuji |
+| Kōjuin-sama | 17th day of the 8th month | Dentsu'in |
+| Shōkeiin-sama | 12th day of the 2nd month | Nansenji |
+| Yōjuin-sama | 2nd day of the 11th month | Tentokuji |
+| Kōshōin-sama | 3rd day of the 12th month | Nansenji |
+| Seiryōin-sama | 21st day of the 7th month | Tenryūji |

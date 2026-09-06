@@ -1,41 +1,45 @@
 **Tenmei 2nd Year (1782), Year of the Tiger**
 
-On the 9th day of the 5th month, Isono Tamiya communicated the following directive, as per the attached document:
+**9th Day of the 5th Month**
+Isono Tamiya communicated the following decree, as stated in the attached document:
 
-　　　**Attached Document:**
+　　*Attached Document*
 
-Regarding those who are in mourning at the time of a purification ceremony (o-kiyome): henceforth, they shall be replaced beginning from the seventh hour (approximately 4:00 PM) of the preceding day.
+In cases where persons in mourning are present during purification ceremonies (o-kiyome), it is henceforth decreed that those in mourning shall be relieved of duty starting from the seventh hour (approx. 4:00 p.m.) of the preceding day.
 
-　　　　〆
+〆
 
 ---
 
-On the 9th day of the 10th month, Isono Tamiya communicated the following: In accordance with the attached written notice, henceforth all dispatch documents (o-okuri-gaki) and official communications (o-yōjō) sent between Edo and the home domain shall be written using the wording prescribed in the attached notice. Accordingly, copies of this notice have been prepared and distributed to the foot inspectors (o-kachi-metsuke) and the records clerks (kumi-monokaki), with instructions to ensure no errors are made going forward. Furthermore, it has been decreed that the notice be sent to Edo as well, with the relevant instructions. This was accordingly dispatched via express messenger on the 17th of the same month. The contents of the notice are as follows:
+**9th Day of the 10th Month**
+Isono Tamiya communicated the following: In accordance with the attached written directive, it is henceforth decreed that in both Edo and the home domain, all courier correspondence (o-okuri-gaki) and official dispatches (go-yōjō) shall be written using the terminology specified in the directive. Accordingly, copies of said directive were prepared and distributed to the foot inspectors (okachi-metsuke) and the unit clerks (kumi-monokaki), with instructions to ensure there are no errors henceforth. Furthermore, as it was decreed that the directive be forwarded to Edo with instructions to communicate this intent, it was sent via express courier on the 17th day of the same month. The directive reads as follows:
 
-- When the lord departs → write: "御出殿" (*Go-shūden*, "His Lordship departs")
-- When the lord returns → write: "御帰殿" (*Go-kiden*, "His Lordship returns")
-- When referring to where the lord has gone → write: "何方へ被為入" (*izukata e nasare-iri*, "His Lordship has proceeded to [location]")
-- When referring to a stopover location → write: "御膳所　何方へ被為入" (*go-zensho, izukata e nasare-iri*, "His Lordship's dining place: proceeded to [location]")
+- For the lord's departure:　　　　　　→ write **"go-shutsu-den"** (御出殿, "Departed the residence")
+- For the lord's return:　　　　　　　 → write **"go-ki-den"** (御帰殿, "Returned to the residence")
+- For indicating the lord's destination: → write **"izukata e irasare"** (何方へ被為入, "Proceeded to [such-and-such place]")
+- For the lord's stopover location:　　→ write **"go-zensho, izukata e irasare"** (御膳所何方へ被為入, "Proceeded to [such-and-such place] for a meal stop")
 
-The above rules regarding proper wording and recording had already been decreed in the previous Year of the Rat (prior to Tenmei 1st year / around 1780), but as compliance was found to be insufficient, they are hereby reiterated. Should errors occur henceforth, strict measures will be taken. A written notice shall be duly passed on to the inspectors (o-metsuke).
+The above instructions for how to understand and write these terms were already decreed in the previous Year of the Rat (Tenmei 1, 1780), but as they had not been properly observed, the decree is issued once again. Should there be any errors henceforth, a stern reproof will be issued. The directive shall be conveyed in writing to the inspectors (metsuke).
 
-　　　　　　　　10th month, 9th day
+　　　　10th Month, 9th Day
 
 ---
 
 **Tenmei 4th Year (1784), Year of the Dragon**
 
-On the 8th day of the 5th month, Hashiba Oribu communicated the following: As has been decreed per the attached document, the following shall be understood accordingly:
+**8th Day of the 5th Month**
+Hashiba (Inaba) Oribu communicated the following: It was decreed as stated in the attached document, and all parties shall take note accordingly:
 
-- The term "御居間" (*o-ima*, "the lord's living room/private room") → shall henceforth be referred to as "御座之間" (*o-za-no-ma*, "the lord's presence chamber")
-- The term "御寝間" (*o-nema*, "the lord's bedchamber") → shall henceforth be referred to as "御休息" (*o-kyūsoku*, "the lord's resting room")
+- What was formerly called **"o-ima"** (御居間, "private sitting room") shall henceforth be referred to as **"o-za-no-ma"** (御座之間, "audience chamber / sitting room").
+- What was formerly called **"o-nema"** (御寝間, "bedchamber") shall henceforth be referred to as **"o-kyūsoku"** (御休息, "resting room").
 
-　　　　〆
+〆
 
 ---
 
-On the 24th day of the 11th month, Makino Shuzen communicated the following per an attached document, and the same was also dispatched to Edo:
+**24th Day of the 11th Month**
+The following was communicated by Makino Shūzen via attached document, and was accordingly forwarded to Edo:
 
-- Although one foot guard (o-kachi) has been accompanying the lord's tea and lunch service (o-cha-bentō), no other domain follows a similar practice; a tea-ceremony monk (bōzu / chabōzu) must invariably be assigned. Therefore, henceforth both in Edo and in the home domain, only the tea-ceremony monk of the tea service (o-chamata o-bōzu) shall be attached, and the accompanying foot guard shall be discontinued. The Edo establishment has been instructed to begin implementing this from the New Year's Day attendance at the castle by the Young Lord (Wakatono-sama). As for the home domain, it has been decreed that the change shall take effect from the next forthcoming departure of His Lordship (go-shūden). The above is hereby noted.
+Regarding the tea-serving attendant detail (o-cha bentō): although previously one foot soldier (okachi) was assigned to accompany this duty, in other domain households no such arrangement exists, and it is an established practice that a Buddhist attendant (bōzu) must be assigned. Therefore, it is henceforth decreed that, in both Edo and the home domain, only the tea-ceremony Buddhist attendant (o-cha-kata go-bōzu) shall accompany the tea duty, and the foot soldier (okachi) shall no longer be assigned. As regards Edo, this arrangement shall take effect from the New Year's Day visit to Edo Castle by the Young Lord; as regards the home domain, it shall take effect from the lord's next imminent departure from the residence. That is all.
 
-　　　　11th month, 24th day
+　　　　11th Month, 24th Day

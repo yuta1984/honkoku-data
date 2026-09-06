@@ -1,0 +1,83 @@
+## Right Page (p. 110, Section Fourteen)
+
+### Upper Section
+
+*(Continuing from the previous page)*
+
+(The latter half's three members of the syllogism) are presented in the lower scroll. The detailed explanation of the three members is as stated in the Treatise.
+
+Master Jìnglián's commentary, upper scroll, says: Within the section "explaining both conditioned and unconditioned phenomena in general," (it) is further divided into two (parts). First, the verse is cited; second, the verse is explained discursively in prose. Within the first (part, i.e.,) the verse, the two characters "zhēn xìng" (真性, true/ultimate nature) constitute the basis-proposition (*suǒ yī zhī zōng* 所依之宗), and the eighteen characters from "yǒu wéi" (有為, conditioned) downward constitute the refuting syllogism (*néng qiǎn zhī liàng* 能遣之量). Within the refuting syllogism, the upper eight characters, relying on ultimate nature, refute all fixed attachments (*dìng zhí* 定執) to conditioned phenomena as having (existence) or not having (existence), etc.; the lower ten characters, relying on ultimate nature, refute all fixed attachments to unconditioned phenomena as having or not having (existence), etc.
+
+Within the (section on the) upper eight characters relying on ultimate nature to refute all fixed attachments to conditioned phenomena as having or not having existence: "Conditioned phenomena are empty" is the establishment of the proposition (*lì zōng* 立宗). "Conditioned phenomena" (*yǒu wéi* 有為) is the subject (*yǒu fǎ* 有法), and "empty" is the predicate (*fǎ* 法). The inseparability of the predicate and the subject is called the "proposition" (*zōng* 宗). "Like illusions" is the affirming example (*tóng yù* 同喩). "Because they arise through conditions" is the establishment of the reason (*lì yīn* 立因).
+
+(As for) "ultimate nature" (*zhēn xìng* 真性): here, in explaining the emptiness of conditioned phenomena, (the author) explains the emptiness of conditioned phenomena in terms of ultimate nature — not in terms of conventional truth (*shì dì* 世諦). The reason for this is: if the emptiness of conditioned phenomena were explained in terms of conventional truth, it would be in contradiction with the four kinds of valid cognition — one's own teaching (*zì jiào* 自教), one's own statements (*zì yǔ* 自語), direct perception (*xiàn liàng* 現量), and common consensus (*shì jiān* 世間). For this reason, when explaining the emptiness of conditioned phenomena here, it is explained in terms of ultimate nature.
+
+Within the (section on the) ten characters relying on ultimate nature to refute all fixed attachments to unconditioned phenomena as having or not having existence: the statement "unconditioned phenomena have no reality" — this is the establishment of the proposition. "Unconditioned phenomena" is the subject, "having no reality" is the predicate. "Not arising" is the establishment of the reason. "Like flowers in space" (i.e., like optical illusions) is the affirming example.
+
+The statement "unconditioned phenomena have no reality" — this too is stated in terms of ultimate nature, (and therefore) "unconditioned phenomena have no reality" is said. If the emptiness of unconditioned phenomena were explained in terms of conventional truth, it would likewise be in contradiction with the four kinds of valid cognition such as one's own teaching, etc. For this reason, the emptiness of unconditioned phenomena is explained in terms of the principle of ultimate nature. The phrase "having no reality" is simply another name for "emptiness," etc. (etc.) For details, see that commentary.
+
+---
+
+### Lower Section
+
+## Section One: Decision on *Zhēn Xìng* as the Subject (*Yǒu Fǎ*)
+
+*Question:* Do the two characters "zhēn xìng" (真性, ultimate nature) enter into the subject (*yǒu fǎ* 有法) (of the syllogism), or not?
+
+*Answer:* In explaining this matter, there are roughly two approaches. First, the interpretation of the (view that it does) "not enter"; second, the exposition of the (view that it does) "enter."
+
+Regarding the first, the interpretation of the "not enter" view: there are four explanations.
+
+**First**, according to the view of Master Mài (邁法師): the intention of the Treatise is that "zhēn xìng" does not enter the subject. That master's commentary says: "The two characters 'zhēn xìng' are the basis-proposition. The eighteen characters from 'yǒu wéi' downward are the refuting syllogism," etc. (etc.) Since it already says "the two characters 'zhēn xìng' are the basis-proposition," it is clearly known that (they) do not enter the subject. (They function) as a qualifying restriction (*jiǎn bié* 簡別) serving as the basis, and thereby block the faults (*guò* 過) such as (contradiction with) the world (consensus), etc.
+
+**Second**, according to the view of Master Fǎng (昉法師): the intention of the Treatise is that "zhēn xìng" does not enter the subject. In that master's *Yuishiki Mongi Ki* (*Wéishí Wén Yì Jì* 唯識文義記), scroll five, it says: "The *Karatna-śāstra* says: '(What) cattle-herders (*mù niú rén* 牧牛人) and others commonly understand: the universally accepted (*jí chéng* 極成) eye, etc. (are taken) in total as the proposition.' Also it says: 'With respect to ultimate truth (*shèng yì dì* 勝義諦), the emptiness of their substance is explained.' Based on this, since 'zhēn xìng' is not within the subject, that subject (the eye, etc.) is not a case of 'non-universally-accepted,' etc." (etc.)
+
+**Third**, according to the view of Master Taekhyŏn (*Taehyŏn* 太賢師) of Silla: the intention of the Treatise is that "zhēn xìng" does not enter the subject. In the *Taejŭng Simnо Jang Ki* (*Dàchéng Xīnlù Zhāng Jì* 大乗心路章記), Masters Lijian (*Lì jiàn* 利見), Xiyuan (*Xī yuǎn* 希遠), and others, expounding the view of Master (Tae)hyŏn, say: "The expression 'zhēn xìng' (in that text) is the qualifying predicate (*néng bié fēn* 能別分) and is not subsumed within the subject. One should say 'conditioned phenomena are empty in terms of ultimate nature.' Therefore it says: 'By means of the emptiness (pertaining to) ultimate nature, conditioned phenomena are differentiated.' Hence the *Karatna-śāstra* says: 'Cattle-herders, etc., understand that the eye, etc., (as) conditioned phenomena, are taken as the subject.' Therefore it is clearly known that 'zhēn xìng' is not subsumed within the subject. If the expression 'zhēn xìng' were the subject, then the reason 'because (they) arise through conditions' (*yuán shēng gù* 縁生故) would apply (*zhuǎn* 転) to conditioned phenomena but would not apply to 'zhēn xìng.' In that case, (the reason) should fail to be a universal characteristic of the proposition (*biàn shì zōng fǎ* 遍是宗法). Therefore it is known that the expression 'zhēn xìng' is not subsumed within the subject," etc. (etc.) (The above is from the *Ki* text. One should also consult the original chapter and can expound Master (Tae)hyŏn's meaning.)
+
+**Fourth**, according to the view of Master Zhǎo (沼法師, i.e., Huizhao 恵沼): the intention of the Treatise is that "zhēn xìng" does not enter the subject. Hence the *Yuishiki Ryōgi Tō* (*Wéishí Liǎo Yì Dēng* 唯識了義燈),
+
+---
+
+## Left Page (p. 111, Section Fifteen)
+
+### Upper Section
+
+scroll four, says: "As those various views (say), in the proposition there is no fault of the subject being non-universally-accepted. Because 'zhēn xìng' is not the subject; (rather,) by citing this 'zhēn xìng,' the intention is to take 'conditioned phenomena' (*yǒu wéi* 有為) as the subject." Now, (the author of the present text) thinks: this (explanation) has a fault. When (the *Dēng*) cites "zhēn xìng" (Note: the character "xìng 性" is absent in the original manuscript and is supplied from the *Dēng*), if ultimate nature is entirely empty and there are no conditioned dharmas, then the original intention is not to take "zhēn xìng" as the subject, and within ultimate nature it is not possible to speak of (anything). What can one explain as the subject of conditioned phenomena? Therefore there is a fault of the subject (*yǒu fǎ guò* 有法過), etc. (etc.) The commentary says: "The original intention is not to take 'zhēn xìng' as the subject." It is therefore clearly known that "zhēn xìng" does not enter the subject.
+
+Regarding the second (approach), the exposition of the "enter" view: there are three explanations.
+
+**First**, according to the view of Master Zhōu (周法師): "zhēn xìng" enters the subject. Hence the *Yuishiki Enpi* (*Wéishí Yǎn Mì* 唯識演秘) says:
+
+"*Question:* Just as when a Buddhist controversialist (*fó fǎ zhě* 仏法者) (debates) against a grammarian (*shēng lùn shī* 声論師, Vaiyākaraṇa), (he) establishes 'sound is impermanent.' 'Sound' is the subject (*yǒu fǎ*) and there is no fault in the proposition. (By analogy,) 'ultimate-nature conditioned-phenomena' is already the subject. Why then do the commentaries judge this to be a fault? Because (in that syllogism) nothing about 'emptiness' is said within the subject (*yǒu fǎ*).
+
+*Answer:* (Consider) when a Sāṃkhya (*shù lùn shī* 数論師) controversialist debates against a Buddhist (*fó fǎ zhě*) and says 'the self (*ātman*) is (the faculty of) thought (*cetanā*).' Although in Buddhism the existence of a conventional self (*jiǎ wǒ* 假我) is accepted, because that (Sāṃkhya teacher) speaks of 'thought' and 'self' without differentiating, there is the fault of the qualificand (*suǒ bié guò* 所別過). This case (of 'zhēn xìng yǒu wéi') is also similar, and therefore there is the fault of the subject (*yǒu fǎ shī* 有法失).
+
+(Sub-question:) If so, in the (case of the) 'sound' proposition, likewise, without differentiating (with respect to) the opponent (who claims sound is) permanent, there should (also) be a fault (of a similar kind).
+
+(Sub-answer:) Speaking of 'sound' in a general sense, both proponent and opponent accept (the same referent). (But the case of) 'ultimate nature' and 'conditioned phenomena' — their doctrinal level is different … (characters unclear) … (they are dealt with) separately, and therefore the fault of the subject is not the same as in the 'sound' proposition. With respect to the *Karatna-śāstra*, there is extensive controversy; (for details,) see the *Inmyō-shō* (*Yīnmíng chāo* 因明鈔), etc." (etc.)
+
+Since it already says "ultimate-nature conditioned-phenomena" (as the subject), it is clearly known that "zhēn xìng" enters the subject.
+
+**Second**, according to the view of Master Yìbīn (義濱師): the expression "zhēn xìng" also enters the subject. Hence in that master's *Sūyō-ki* (*Shū Yào Jì* 樞要記) it says: "The main purport of this chapter (of the *Karatna-śāstra*): in the syllogism of Bodhisattva Bhāvaviveka (*Qīngbiàn* 清弁), the four characters 'true-nature conditioned-phenomena' (*zhēn xìng yǒu wéi* 真性有爲) are all the subject (*yǒu fǎ*). Hence it says there is 'the fault of the one-sided qualificand (*yī fēn suǒ bié guò* 一分所別過).' The meaning of the fault is: the ultimate nature (*zhēn xìng*) (as understood in the) position (*zōng* 宗) of
+
+### Lower Section
+
+you (Bhāvaviveka, Mādhyamika) — our (*wǒ zōng* 我宗, Yogācāra's) position does not accept (it). The ultimate nature of our position — your position does not accept (it). Because (the two positions) mutually do not accept (each other's understanding of ultimate nature), it is said that there is 'the fault of one-sided qualificand (*yī fēn suǒ bié yǒu fǎ guò* 一分所別有法之過).' This is precisely the fault within the subject (*yǒu fǎ zhōng guò* 有法中過), etc." (etc.) Since it already says the four characters "zhēn xìng yǒu wéi" are all the subject, it is clearly known that (they) enter.
+
+**Third**, according to the view of Master Xīng (興法師): "zhēn xìng" enters the subject. Hence the *Biǎnliàng* (*Biǎn Liàng* 貶量), scroll ▢, says: "Now I (the author) would say: one view holds that there are altogether two faults: the qualificand (*suǒ bié* 所別) is not (commonly) established, and (the syllogism) contradicts one's own teaching (*zì jiào* 自教). However, the *Karatna-śāstra* says: 'The universally accepted (*jí chéng* 極成) eye, etc. — the statement "in total taken as the proposition" cannot prove that "zhēn xìng" (of) that (syllogism) is not (part of) the proposition's subject (*zōng huì wéi zōng* 惣爲宗). "Taken in total as the proposition" (*huì wéi zōng* 惣爲宗) means: it is not that only the eye, etc. are separately taken as the proposition — rather, "zhēn xìng" is included as well,' etc." (etc.) Since it already says "(zhēn xìng is) included" (*jiān 兼*), it is clearly known that this master also (holds that "zhēn xìng") enters the subject.
+
+---
+
+## Section Two: The Faults Revealed in the Three Members (三支顕過失)
+
+*Question:* Among the three members (三支) of this syllogism establishing the emptiness of conditioned phenomena, in which member(s) and how many faults are there?
+
+*Answer:* In explaining this matter, there are three views.
+
+**First**, the view of Master Jī (基法師, Kuiji): In the proposition (*zōng* 宗) there is "the fault of one part of the subject being non-universally-accepted" (*yǒu fǎ yī fēn bù jí chéng guò* 有法一分不極成過), and also "the fault of contradicting the proposition." In the example (*yù* 喩), both the proponent's and the opponent's (elements) have the fault of non-establishment (*jù bù chéng guò* 倶不成過). Hence the commentary, scroll four, says: "What is called 'seeming inference' (*sì bǐ liàng* 似比量): according to our (*wǒ zōng* 我宗, Yogācāra) position, in terms of ultimate nature (*zhēn xìng* 真性), conditioned and unconditioned phenomena are neither empty nor non-empty. (There is) the fault of one part of the subject being non-universally-accepted. Because you (Bhāvaviveka) do not accept that our (*wǒ*) ultimate (*shèng yì* 勝義) exists. If (we follow) your own position of ultimate-nature emptiness (*shèng yì kōng*), (we) do not accept your ultimate-nature emptiness (*kōng shèng yì*), so it is also not universally accepted," etc. (etc.)
+
+The lower (scroll of) *Sūyō* (*Shū Yào* 樞要, Kuiji's *Yinming Rumen Lun Shu Chuyao* 因明入正理論疏樞要) says: "If (we) discuss (the syllogism) in terms of middle-path (*zhōng dào* 中道) ultimate nature, there is also the fault of one-sided contradiction with the proposition. (The example's) non-establishment is as in the commentary. How so? Furthermore by our (*wǒ*) explanation: if (we speak) in terms of conventional reality (*shì sú* 世俗), both unconditioned and conditioned (phenomena) are existent. If (we speak) in terms of ultimate (*shèng yì* 勝義), (they are) neither empty nor (non-empty). You (Bhāvaviveka) now declare (them) empty. This is precisely (a case of) having the fault of contradicting one's own position, (which is) called 'seeming inference.'"
+
+*Question:* If "zhēn xìng" enters the subject (*yǒu fǎ*), the meaning of "one-part (fault)" (*yī fēn* 一分) can be established. If "zhēn xìng" does not enter the subject, then what serves as
+
+*(Continues on the next page)*

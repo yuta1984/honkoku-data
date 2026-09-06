@@ -1,22 +1,24 @@
-[Right page: Blank]
-[Left page: Frame lines omitted]
-[Red square collection seal: "Tokyo Museum Seal"]
+**[Right folio: Blank page]**
+**[Left folio: Frame lines omitted]**
+**[Collector's seal in red: "Tokyo Hakubutsukan In" (Tokyo Museum Seal)]**
 
-Table of Contents for Volume 5 of the Illustrated Materia Medica
-　　Mountain Plants Category - Part One, Section One
+---
 
-[Upper section]
-Licorice (kansō)　《Fuzhou variety｜sweet grass》　　　　　　Page 2
-Astragalus (ōgi)　《soft grass｜》　　　　Page 3
-One variety《with purple flowers｜》　
-Same　《one-year plant｜》
-Buddha's Palm Ginseng (busshōjin)　《kano-nigekusa｜》　　　Page 7
-One variety《with purple flowers｜》　
+**Illustrated Compendium of Materia Medica (*Honzō Zufu*), Volume 5: Table of Contents**
 
-[Lower section]
-Same　《Nanjing variety｜》
-Wood Astragalus (mokuōgi)　《fuji-ōgi｜》　　　　Page 4
-Ginseng (ninjin)　《imperial variety｜》　　　　　　　Page 5
-Same　《two-year plant｜》　　　　　　　Page 6
-One variety　《plant with half-black fruit｜》
-Earth Ginseng (doshin)　《Yoshino ginseng｜》　　　　Page 8
+**Category: Mountain Herbs (*Sansō-rui*), Part One (Upper)**
+
+| Entry | Japanese Reading | Variety / Alternate Name | Page |
+|---|---|---|---|
+| 甘草 *Gancao* (Licorice) | *kanzō* | Fuzhou variety (*fukushū-dane*); *amakusa* | 2 |
+| Same | — | Nanjing variety (*nankin-shu*) | — |
+| 黄耆 *Huangqi* (Astragalus) | *ōgi* | *yawarakusa* | 3 |
+| 木黄耆 *Mu-Huangqi* (Shrubby Astragalus) | *moku-ōgi* | *fuji-ōgi* | 4 |
+| — | — | One variety: purple-flowered form | — |
+| 人参 *Renshen* (Ginseng) | *ninjin* | Cultivated seed variety (*otane*) | 5 |
+| Same | — | One-year-old plant | — |
+| Same | — | Two-year-old plant | 6 |
+| 仏掌参 *Fo-zhang-shen* | *busshōjin* | *kano-nigekusa* | 7 |
+| — | — | One variety: fruit half-black | — |
+| — | — | One variety: purple-flowered form | — |
+| 土参 *Tushen* | *dojin* | *Yoshino-ninjin* | 8 |
