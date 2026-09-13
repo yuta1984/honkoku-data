@@ -1,0 +1,28 @@
+## Section on Heaven and Earth (continued)
+
+| Japanese | Ainu (Katakana) | Ainu (Hiragana) | Notes |
+|----------|----------------|-----------------|-------|
+| Rabbit (4th zodiac sign) | MENASHI | menashi | The zodiac sign of the Rabbit |
+| Dragon (5th zodiac sign) | IKA MENASHI | ikamenashi | The zodiac sign of the Dragon |
+| Snake (6th zodiac sign) | BEKERE BIKATA | bekerebikata | The zodiac sign of the Snake |
+| Horse (7th zodiac sign) | HIKATA | hikata | The zodiac sign of the Horse |
+| Goat (8th zodiac sign) | ASHINO BIKATA | ashinobikata | The zodiac sign of the Goat |
+| Monkey (9th zodiac sign) | OMOYORO | omoyoro | The zodiac sign of the Monkey |
+| Rooster (10th zodiac sign) | SHIYUMU | shiyumu | The zodiac sign of the Rooster |
+| Dog (11th zodiac sign) | CHIKAINEFУ | chikainеfu | The zodiac sign of the Dog |
+| Boar (12th zodiac sign) | OTSUTOMUN | otsutomun | The zodiac sign of the Boar |
+| 1st Month (January) | TOI TANNE CHIYUTSUBU | toitannechiyutsubu | First lunar month |
+| 2nd Month (February) | HABU RABU CHIYUTSUBU | haburabuchiyutsubu | Second lunar month |
+| 3rd Month (March) | MOKI UTA CHIYUTSUBU | mokiutachiyutsubu | Third lunar month |
+| 4th Month (April) | SHIKI UTA CHIYUTSUBU | shikiutachiyutsubu | Fourth lunar month |
+| 5th Month (May) | MOHAU TA CHIYUTSUBU | mohautachiyutsubu | Fifth lunar month |
+| 6th Month (June) | SHIMAU TA CHIYUTSUBU | shimautachiyutsubu | Sixth lunar month |
+| 7th Month (July) | MONIYŌ RABU | moniyōrabu | Seventh lunar month |
+| 8th Month (August) | SHINIYŌ RABU | shiniyōrabu | Eighth lunar month |
+| 9th Month (September) | UREBOKE CHIYUTSUBU | urebokechiyutsubu | Ninth lunar month |
+| 10th Month (October) | SHIYUNAN CHIYUTSUBU | shiyunanchiyutsubu | Tenth lunar month |
+| 11th Month (November) | KUIKAI CHIYUTSUBU | kuikaichiyutsubu | Eleventh lunar month |
+| 12th Month (December) | CHIURUBU | chiurubu | Twelfth lunar month |
+| First third of month (1st–10th) | ASHINNO CHIYUTSUBU | ashinnochiyutsubu | The first ten days of a month |
+| Middle third of month (11th–20th) | CHIYUTSUBU SHIKARI | chiyutsubushikari | The middle ten days of a month |
+| Last third of month (21st–31st) | CHIYUTSUBU NIN | chiyutsubunin | The last ten days of a month |

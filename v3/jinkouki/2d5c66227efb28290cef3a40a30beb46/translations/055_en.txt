@@ -1,0 +1,26 @@
+【Right page】
+
+　※Starting with one poppy seed and doubling it day by day,
+　　《in 120 days》, the total number is:
+　　　6 *oku* (億) 60,000 4,610 〈called *asōgi* (阿僧祇)〉 3 *koku* (極) 9 *sai* (載) 9 *sei* (正) 10 *kan* (澗) 8 *kō* (溝)
+　　　　9 *jō* (穰) 2 *jo* (秭) 4 〈called *gōgasha* (恒河沙)〉 *gai* (垓) 5 *kei* (京) 7 *chō* (兆) 9 *oku* (億) 36,450
+　　　　1 *koku* (極) 9 *sai* (載) 0 *kan* (澗) 3 *kō* (溝) 5 *jō* (穰) 3 *jō* (穰) 0 *gai* (垓) 1 *gai* (垓) 4 *kei* (京) 0 *kei* (京) 1 *oku* (億) 70,000
+　　　　22,288 seeds in total
+　　　　　Applying the cube root method (*kairitsu*) to the above number:
+　　　　Length: 155,392 *ri* (里) 9 *chō* (町) 31 *ken* (間) 1 *shaku* (尺) 7 *sun* (寸) 2 *bu* (分) 2 *rin* (厘) 5 *mō* (毛)
+　　　　Width is the same as above
+　　　　Height: 155,392 *ri* (里) 9 *chō* (町) 31 *ken* (間) 1 *shaku* (尺) 7 *sun* (寸) 2 *bu* (分) 5 *rin* (厘)
+
+
+【Left page】
+
+　　〇 36 *chō* (町) = 1 *ri* (里)　　〇 60 *ken* (間) = 1 *chō* (町)
+　　〇 6 *shaku* (尺) 5 *sun* (寸) = 1 *ken* (間)　　〇 4 poppy seeds fit in 1 *bu* (分) [of length]
+　　　　Applying the cube root method to the remainder above:
+　　〇 15 *ri* (里) 3 *chō* (町) 36 *ken* (間) 2 *shaku* (尺) 2 *sun* (寸) 2 *bu* (分)　　　Height, width, and length are all the same
+　　〇 40 *ken* (間) 5 *shaku* (尺) 4 *sun* (寸) 2 *bu* (分) 2 *rin* (厘) 5 *mō* (毛)　　　Height, width, and length are all
+　　〇 8 *shaku* (尺) 7 *bu* (分) 2 *rin* (厘) 5 *mō* (毛)　　　　　　　　　　　　　equal
+　　〇 7 *bu* (分) 2 *rin* (厘) 5 *mō* (毛)　　　　　　　　　　　　　　　　　　　equal
+　　〇 3 *bu* (分)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　equal
+　　〇 1 *bu* (分) 7 *rin* (厘) 5 *mō* (毛)　　　　　　　　　　　　　　　　　　same
+　　〇 7 *rin* (厘) 5 *mō* (毛)　　　　　　　In the above smallest compartment, 25 seeds remain

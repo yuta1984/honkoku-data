@@ -1,9 +1,42 @@
-Those produced have somewhat refined stone grain. These are not all quarried, but rather large blocks are cut and dropped down the mountain, then divided into thousands of pieces for distribution.
+## [Right Page]
 
-○Uses are: For sword smiths: taiguchi; for polishers: aokaya, shiroma, chamiko, amakusa, iyo, and jōkenji stones, progressing through increasingly fine grades to inokura and uchikumori, finally using uwahiki to bring out a blue-cloud luster. 《Uwahiki refers to stone powder from uchikumori. However, it is also called Narutaki chitsuka and is sometimes used before inokura. This is also called kaki.》 ○For razors: rough polishing with Karatsu, shiroma, aomiko, chamiko, amakusa, then finishing with Narutaki, Takao, etc. ○For knives: tobacco knives use taiguchi, medium whetstones, Hirao, Somata, etc., not reaching finishing stones. Also for thin-blade vegetable knives: rough polishing uses taiguchi, shiroma, aomiko, chamiko, white Iyo; final stage uses hiki for coloring. ○For coins: polish with Karatsu and Miko-ga-hama, then burnish with Yoshu red. ○For carpenters 《and》 box makers, joiners, etc.: use Monzen, Hirao, Somata blue whetstones, then finish with Narutaki, Takao, etc. ○For cooking knives: Yamashiro blue ○For small knives: Minamimura ○For bamboo crafts: Amakusa ○For needles and tweezers: rough polish with Tosa, then burnish with Yoshu white and red ○For carving: Yoshu white
+Those produced [in Yōshū/Iyo] have somewhat fine-grained stone texture. None of these are extracted by digging; instead, a single mass is cut and dropped down the mountain, then divided into many thousands of pieces for distribution.
 
-○For paper cutting: Somata. Generally it is like this. In general usage, hard materials are applied to soft ones, and soft materials are polished with hard ones, but there is a natural compatibility between metal and stone qualities that cannot be determined categorically.
+### ○ Uses by Trade (Kōyō)
 
-Varieties of Mushrooms and Fungi
+**For sword and blade smiths:** Starting from the coarsest grade (daiguchi), polishing craftsmen proceed through stages of progressively finer stones — blue-green kaya (aokaya), white horse (shirōma), tea-colored miko (chamiko), Amakusa, Iyo, Jōkenji, and so on — before finishing with Inokura and uchikumori. After this, "uwahiki" is applied to bring out the deep blue-black gleaming luster (seiunno tsuya).
+※ "Uwahiki" refers to stone chips from uchikumori stone. However, this is sometimes also called "chitsуya (ground luster)" from Narutaki, used before the Inokura step. It is also called "kaki."
 
-Those growing on the ground are called kin or jin, those growing on wood are called sen. Kin in the Wamyōshō is read as "take," sen as "kinomimi." There are several types of kin: wood fungi 《kikurage types》, soil fungi 《types growing from earth》, stone fungi 《iwatake types》, etc., with extremely many varieties. The Song person Chen Renyu wrote the Kinpu (Mushroom Treatise) in great detail. The Honzō states: "Generally fungi grow in mountains during the sixth and seventh months when steamed by humid heat, and are sweet, smooth, and edible," etc. However, those recorded in the Kinpu and Honzō are mostly different from those found in our country, making complete identification difficult. ○While these are commonly called kusabira, in the Wamyōshō vegetables are called kusabira. In the dialects of central Honshu and Kyushu they are called naha. In the Owari region they are called mimi.
+**For razors:** Coarse sharpening is applied using Karatsu, shirōma, aomiko, chamiko, and Amakusa stones, then finished using Narutaki, Takao, and similar stones.
+
+**For kitchen knives:** Tobacco knives are sharpened on daiguchi and medium-grade stones such as Hirao and Somata, without reaching the level of finishing stones. For thin-bladed vegetable knives (usuba, nagatana), the coarse sharpening uses daiguchi, shirōma, aomiko, chamiko, and white Iyo stones, and uwahiki is used to apply a final color-finish.
+
+**For coins (cast copper coins):** These are sharpened/polished on Karatsu and Mikogahama stones, then finished with the red stone of Yōshū (Iyo Province).
+
+**For carpenters, box-makers, and cabinetmakers (sashimono):** These are applied to the aoto (blue-green stones) of Monzen, Hirao, and Somata, then finished on Narutaki, Takao, and similar stones.
+
+**For culinary knives:** The blue-green stone of Yamashiro is used.
+
+**For small knives (kogatana):** The stone from Minamimura is used.
+
+**For bamboo crafts:** Amakusa stone is used.
+
+**For needles and tweezers:** Coarse sharpening is done with Tosa stone, then finished with the white and red stones of Yōshū.
+
+**For mold carving (katagaeri):** The white stone of Yōshū is used.
+
+## [Left Page]
+
+**For paper cutting (kamisachi) blades:** Somata stone is used.
+
+This is the general outline. In principle, when working on hard materials, a softer stone is used, and when working on soft materials, a harder stone is used — yet because there is a natural affinity between the quality of the metal and the quality of the stone, no universal rule can be firmly established.
+
+---
+
+## Shikin-hin (芝菌品) — Varieties of Mushrooms and Fungi
+
+That which grows on the ground is called "kin (菌)" or "jin (蕈)," and that which grows on trees is called "sen (䓴)." In the *Wamyō Ruijushō* (Japanese lexicon), "kin" is read as "take (タケ)" and "sen" is read as "kinomimi (キノミヽ)." There are several types of kin: wood fungi (mokukin; things like kikurage / wood ear mushrooms), earth fungi (dokin; types that grow from the soil), and stone fungi (sekkin; things like iwatake / rock tripe), among others, with a great many varieties in total. On this subject, the Song-dynasty scholar Chen Renyu compiled the *Kinpu (菌譜, Treatise on Fungi)*, which is exceedingly thorough.
+
+The *Honzō Kōmoku* (Bencao Gangmu, Compendium of Materia Medica) states: "In general, fungi grow in the mountains during the sixth and seventh months when heat and humidity cause steaming. Those that are sweet and smooth to the touch may be eaten," and so on. However, many of the fungi recorded in the *Kinpu* and the *Honzō Kōmoku* do not correspond to those found in Japan, and it is difficult to classify them all completely.
+
+○ These are commonly called "kusahira" in vernacular speech, though in the *Wamyō Ruijushō*, the word "kusabira" refers to vegetables and edible herbs in general. In the dialects of the Chūgoku region and Kyushu, mushrooms are called "naha." In the area around Owari Province, they are called "mimi."

@@ -1,23 +1,23 @@
-Utensils and Goods Section
+Implements and Goods Section
 
-Records all things that serve as implements or constitute property, including household goods, tools, boats, and equipment.
+Records all things that serve as implements or constitute property, including houses, machinery, boats, and tools.
 
 Birds and Beasts Section
 
-Records not only birds and beasts, but all living creatures that swim and run about.
+Records not only birds and beasts, but broadly all living creatures that swim, walk, or move about.
 
 Plants and Trees Section
 
-Records things similar to plants and trees, including edible grains, fruits, vegetables, and things that sprout and grow in mountains and fields.
+Records plants and trees, as well as edible grains, fruits, vegetables, and all things that sprout and grow in mountains and fields.
 
-Categories Section
+Classification Section
 
-Records items classified and enumerated by their qualities, such as large/small, good/bad, rising/falling, and flourishing/declining.
+Records items that are enumerated by raising categories and establishing entries, such as large/small, good/bad, high/low, and rise/fall.
 
-Auxiliary Words Section
+Grammatical Particles Section
 
-Records Ainu dialect words belonging to the category of auxiliary words (particles and grammatical function words).
+Records Ainu dialect words belonging to the category of grammatical particles.
 
-Compound Expressions Section
+Set Phrases Section
 
-Records commonly used compound expressions and set phrases that have become established in everyday usage.
+Records commonly used idiomatic expressions that have become established in everyday life among the general population.

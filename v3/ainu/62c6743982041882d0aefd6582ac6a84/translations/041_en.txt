@@ -1,15 +1,18 @@
-Vocabulary Items
+## Vocabulary Items
 
-Large: Poro
-Small: Pon
-Good: Pirka
-Bad: Wen
-Color: Tsum
-Increase: Iikaun, Iikashiyu
-Decrease: Shushiyan, Irabotukari, Nin
-Calm/Peaceful: Shinnumo
-Quiet/Tranquil: Shinratchi
-Calm sea (no waves): Metoan ※Same meaning as Shinnumo
-Begin: Ashinke
-New: Ashire
-Beginning/First: Ashinno
+| Japanese Term | Reading | Ainu Equivalent |
+|---------------|---------|-----------------|
+| Large | ō (large) | Poro |
+| Small | chii(sai) (small) | Pon |
+| Good | yoi (good) | Pirka |
+| Bad | warui (bad) | Wen |
+| Color | iro (color) | Tsum |
+| Luster/Gloss | tsuya (sheen) | Iro |
+| Increase | fueru (to increase) | Ī-kaun ▲ Ī-kashiu |
+| Decrease | heru (to decrease) | Shushian ▲ Irabokar(tsu) ▲ Nin |
+| Calm/Gentle | odayaka (calm) | Shinnumo |
+| Silence/Stillness | seihitsu (tranquility) | Shinratchi |
+| Quiet (soundless) | naki (silent) | Meto-an 【Note: "Stillness" and "Quiet" are both indicated as】 same as "Shinnumo" |
+| Begin | hajimu (to begin) | Ashinkë |
+| New | atarashii (new) | Ashirë |
+| First/Beginning | hajime (beginning) | Ashinno |

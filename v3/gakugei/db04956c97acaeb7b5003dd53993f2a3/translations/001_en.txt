@@ -1,0 +1,112 @@
+# Nazorae Monji Dōchū Sugoroku
+## (A Board Game of the Tōkaidō Road with Hidden-Letter Picture Puzzles)
+
+**Author:** Ittaisha Bunshin　　**Illustrator:** Kōsai Yoshimori　　**Publisher:** Kogaya Katsugoro
+
+---
+
+## How to Play
+[Read from the "Start" square in the lower right, proceeding around the board in a spiral]
+[The hidden place names within the picture-letters in each square are not explained here]
+
+---
+
+### START (Furidashi)
+
+- **Nihonbashi** (Edo) ―― 2 *ri* to Shinagawa
+- **Shinagawa** ―― 2½ *ri*
+- **Kawasaki** ―― 2½ *ri*
+- **Kanagawa** ―― 1 *ri* and a bit
+- **Hodogaya** ―― 2 *ri*
+- **(Inn) Totsuka** ―― 2 *ri*
+- **Fujisawa** ―― 3 *ri* and a bit
+- **Hiratsuka** ―― 27 *chō*
+- **Ōiso** ―― 4 *ri*
+- **(Inn) Odawara** ―― 4 *ri*
+
+---
+
+- **Hakone** ―― 3 *ri* 28 *chō*
+- **Mishima** ―― 1½ *ri*
+- **(Inn) Numazu** ―― 1½ *ri*
+- **Hara** ―― 2 *ri* 16 *chō*
+- **Yoshiwara** ―― 3 *ri*
+- **Kanbara** ―― 1 *ri*
+- **Yui** ―― 2 *ri* [No illustrated square]
+
+---
+
+- **Okitsu** ―― 1 *ri* 2 *chō*
+- **(Inn) Ejiri** ―― 2 *ri* 20 *chō*
+- **Fuchū (Sunpu)** ―― 1½ *ri* — Nichōmachi district
+- **Mariko** ―― 2 *ri* — Famous for *tororo-jiru* (grated yam soup)
+- **Okabe** ―― 1 *ri* 26 *chō*
+- **Fujieda** ―― 2 *ri* — Local specialty: *someii* (saffron-dyed rice)
+- **Shimada** ―― 2 *ri*
+- **(Inn) Kanaya** ―― 1 *ri* 31 *chō* — Sayo-no-nakayama pass; Muken-no-te
+- **Nissaka** ―― 1 *ri* 29 *chō* — Local specialty: bracken-starch sweets (*warabi mochi*)
+
+---
+
+- **Kakegawa** ―― 2 *ri* 16 *chō*
+- **Fukuroi** ―― 1½ *ri*
+- **(Inn) Mitsuke** ―― 2½ *ri*
+- **Hamamatsu** ―― 2½ *ri* and a bit
+- **Maisaka** ―― 1 *ri* 18 *chō*
+
+---
+
+- **Arai** ―― 1 *ri* 24 *chō*
+- **Shirasuka** ―― 1 *ri* 17 *chō*
+- **Futakawa** ―― 1 *ri* 22 *chō*
+- **Yoshida (Toyohashi)** ―― 2 *ri* 22 *chō*
+- **Goyu** ―― 16 *chō*
+- **Akasaka** ―― 2 *ri* 9 *chō*
+- **Fujikawa** ―― 1½ *ri* and a bit
+- **Okazaki** ―― 3 *ri* 4 *chō*
+
+---
+
+- **Chiryu (Chiryū / Ikejiri)** ―― 2 *ri* 28 *chō*
+- **Narumi** ―― 1½ *ri*
+- **(Inn) Miya (Atsuta)** ―― 7 *ri* by sea
+- **Kuwana** ―― 3 *ri* 8 *chō*
+- **Yokkaichi** ―― 2 *ri* 25 *chō* [No illustrated square]
+
+---
+
+- **Ishiyakushi** ―― 25 *chō*
+- **Shōno** ―― 2 *ri*
+- **Kameyama** ―― 1½ *ri*
+- **Seki** ―― 1 *ri* 27 *chō*
+- **(Inn) Sakanoshita** ―― 2½ *ri*
+- **Tsuchiyama** ―― 2 *ri* 25 *chō*
+- **Minakuchi** ―― 2 *ri* 26 *chō* — Local specialty: *tsuzura-zaiku* (wicker basketwork)
+
+---
+
+- **(Inn) Ishibe** ―― 3 *ri*
+- **Kusatsu** ―― 2 *ri* 24 *chō*
+- **Ōtsu** ―― 3 *ri* to Kyoto
+
+---
+
+## GOAL: Kyoto (Miyako)
+
+*Setting out with high hopes, traversing all fifty-three stations,*
+*not a cloud in the sky — today we arrive at the capital!*
+
+**Arriving from the East (Nobori)**
+
+[Text within the illustration:]
+Attendants, Retainers, Celestial beings (*tennin*), Court nobles (*kuge*), Two persons
+
+---
+
+## Overshoot Rules (when dice exceed the goal)
+
+- Overshoot by 1 ―― Return to Ōtsu
+- Overshoot by 2 ―― Return to Kusatsu
+- Overshoot by 3 ―― Return to Ishibe
+- Overshoot by 4 ―― Return to Minakuchi
+- Overshoot by 5 ―― Return to Miya

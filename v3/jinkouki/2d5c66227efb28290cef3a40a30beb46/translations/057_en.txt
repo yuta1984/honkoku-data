@@ -1,0 +1,22 @@
+【Right page】
+
+《Section 36》　Finding the cube root of 1,000 gold coins
+
+　〇 Length: 6 *sun* 3 *bu* 1 *rin* 1 *mō* 5 *shi*
+　〇 Width:  6 *sun* 3 *bu* 1 *rin* 1 *mō* 5 *shi*
+　〇 Height: 6 *sun* 3 *bu* 1 *rin* 1 *mō* 5 *shi*
+　　　　Assuming 175 *monme* per square *sun* (i.e., per cubic *sun*).
+
+　　The method: 1,000 gold coins weigh 44 *monme* each [in total, 44,000 *monme*]. Dividing this by 175 *monme*, one obtains 251 *tsubo* 4 *bu* 2 *rin* 8 *mō* 5 *shi* 7 *kotsu* 1 [in cubic *sun*]. Applying the cube root method to this gives 6 *sun* 3 *bu* 1 *rin* 1 *mō* 5 *shi*.
+
+　※Finding the cube root of 1,000 silver coins
+
+
+【Left page】
+
+　〇 Length: 6 *sun* 7 *bu* 4 *rin* 7 *mō*
+　〇 Width:  6 *sun* 7 *bu* 4 *rin* 7 *mō*
+　〇 Height: 6 *sun* 7 *bu* 4 *rin* 7 *mō*
+　　　　Assuming 140 *monme* per cubic *sun*.
+
+　　The method: 1,000 silver coins weigh 43 *monme* each [in total, 43,000 *monme*]. Dividing this by 140 *monme*, one obtains 307 *tsubo* 1 *bu* 4 *rin* 2 *mō* 8 *shi* 5 *kotsu* 7 1 [in cubic *sun*]. Applying the cube root method to this gives 6 *sun* 7 *bu* 4 *rin* 7 *mō*.

@@ -1,0 +1,30 @@
+## Ezo Language Glossary (Ainu Vocabulary)
+
+### Section on Heaven and Earth (continued)
+
+| Japanese | Ainu (Katakana) | Ainu (Hiragana) | Notes |
+|----------|----------------|-----------------|-------|
+| River (kawa) | BETSU | betsu | |
+| Big Dipper (hokuto) | CHINUKARU-GURU | chinukaruguru | |
+| Sea/Ocean (umi) | AZUI | azui | |
+| Open sea/Offshore (oki) | REPTA | repta | Going offshore: rebun |
+| Cape/Promontory (saki) | SHIRIIZU | shiriizu | |
+| Frost (shimo) | SHITAKORE | shitakore | |
+| Thunder (kaminari) | KAMUY-FUMI | kamuifumi | |
+| Island (shima) | MOSHIRI | moshiri | |
+| Road/Path (michi) | RU | ru | |
+| Upstream (kawakam) | BENAKE | benake | |
+| Downstream (kawashimo) | BANAKE | banake | |
+| River mouth (kawajiri) | BETSU-OSHORO | betsuoshoro | |
+| Place/Settlement (tokoro) | KOTAN | kotan | Same word used for country, district, and village |
+| Wave (nami) | KOI | koi | |
+| Swell (uneri) | MUKANNERI | mukanneri | |
+| Marsh/Swamp (sawa) | NAI | nai | |
+| Earthquake (jishin) | SHIRI-SHUMUI | shirishyumui | |
+| Hail (arare) | KAU-KAU | kaukau | |
+| Sleet (mizore) | BESEUSHI | beseushi | |
+| Riverbank (kawagishi) | BETSUCHYA | betsuchya | |
+| Anchorage/Harbor (tomari) | TOMARI | tomari | |
+| Rock (iwa) | WATARA | watara | |
+| Far/Distant (tōi) | TOIMA | toima | |
+| Near/Close (chikai) | HANGE | hange | |

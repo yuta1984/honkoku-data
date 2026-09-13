@@ -1,43 +1,44 @@
 **Kansei 1st Year (1789), Year of the Rooster**
 
-**23rd day of the 5th month:** Mizutani Jirōsuke communicated the following: regarding the matter of sending letters of inquiry after one's health and congratulatory letters henceforth, the following rules are to be observed:
+**23rd day of the 5th month:** Mizutani Jirōsuke communicated the following regarding the proper manner for submitting letters of inquiry after one's lord's health and congratulatory correspondence going forward:
 
-　On occasions such as the New Year, midsummer greetings, midwinter greetings, and other celebratory occasions, it has been the practice until now to send separate letters to each of the ladies of the household. However, as this is a time of retrenchment and economy, and since sending individual letters to each lady results in a large number of letters, henceforth a single sheet is to be composed and sent collectively to all the ladies of the household.
+At the New Year, mid-summer, mid-winter, and other occasions of celebration or respectful acknowledgment, separate letters had previously been submitted to each of the ladies of the household (okatakata-sama). However, given the current season of retrenchment and economy, submitting individual letters to each lady would result in a great many letters. Therefore, henceforth, a single letter (ichishi) addressed collectively to all the ladies of the household is to be composed and submitted.
 
-　Furthermore, even when sending a letter solely to the Principal Lady (go-mae-sama / the lord's principal consort), it should be composed in the format of a letter addressed to the Edo retainer officials (go-yōnin).
+Furthermore, even when submitting a letter solely to the principal consort (go-mae-sama), it shall be written in the form addressed to the Edo administrators (go-yōnin).
 
-　The format for sending a single letter collectively to the Five Ladies (go-go-kata-sama) is as follows:
+**Model opening phrase when writing to all five ladies (go-go-kata-sama) on a single sheet:**
 
-> "I respectfully write this letter. I trust that all the Honored Ladies continue to enjoy excellent health… I write to convey these congratulations…"
+> "Ippitsu kei-jō itashisōrō. Uebito-sama masumasu go-kigen yoku (etc.). Migi o-kan no tame mōshi-agetaku (etc.)."
+> ("I humbly write this letter. I trust that the ladies are in ever-excellent health [etc.]. I write to offer my congratulations [etc.].")
 
-　The format for a letter addressed to the Lord and the Young Lord, arranged as appropriate, is as follows:
+**Model opening phrase when writing to both His Lordship and the Young Lord:**
 
-> "I respectfully write this letter. I trust the Lord and the Young Lord continue to enjoy excellent health… I write to convey these congratulations…"
+> "Ippitsu kei-jō itashisōrō. Tono-sama, Waka-tono-sama masumasu go-kigen yoku (etc.). Migi o-kan no tame mōshi-agetaku (etc.)."
 
-　　　Note: When addressing a single person, compose the letter in accordance with the above format as appropriate.
+　　Proviso: When submitting to only one person, follow the above forms accordingly.
 
 　　　　〆 (End of notice)
 
 ---
 
-**22nd day of the 7th month:** Mizutani Jirōsuke communicated the following: henceforth, the attached instructions are to be observed. This having been communicated, the foot inspectors (okachi-metsuke) and members of their units have been so instructed.
+**22nd day of the 7th month:** Mizutani Jirōsuke communicated the following — that the contents of the attached document are to be understood and followed going forward — and accordingly these instructions were conveyed to the foot inspectors (okachi-metsuke) and the members of their units:
 
-1. During courier dispatches (hikyaku), even official correspondence (goyō-jō) of various kinds is to be kept from becoming excessively bulky in volume.
+1. When dispatching express couriers (hikyaku), all official correspondence to various destinations shall be kept as compact and unbulky as possible.
 
-2. Regarding letters entrusted through personal connections (tesujii) to retainer officials — as has been widely communicated previously — the forwarding of such letters shall in no case be permitted. This is entirely unnecessary.
+2. Concerning letters submitted through personal connections or intermediaries requesting favors from officials: as has been broadly communicated previously, under no circumstances shall such letters be forwarded or acted upon as intermediary.
 
-3. Regarding letters sent to the residences of those remaining in Edo (Edo rusukyō), efforts are to be made to prevent these from becoming excessively bulky. Ultimately, if letters accumulate and are left undelivered, this will result in inconvenience for each person's own affairs.
+3. Letters addressed to the residences of those on leave from Edo attendance (Edo-rusu no menmen) shall likewise be kept as compact as possible. In any case, if letters are allowed to accumulate, it will create difficulties in attending to each person's own affairs.
 
-4. For those serving as intermediaries for the unavoidable personal affairs of Edo-resident (jōfu) relatives and matters such as the forwarding of stipend provisional allocations (gisaku), as well as correspondence with other locations: these are treated as exceptional cases. However, beyond such cases — regardless of whether it concerns the New Year, midsummer, midwinter, auspicious or inauspicious events of any kind — even section chiefs (shihai-gashira) are not to engage in routine, formulaic correspondence. Such correspondence is entirely unnecessary.
+4. Concerning those in permanent Edo residence (Edo-jōfu), their relatives, and those acting as intermediaries for matters such as stipend grants and supernumerary quotas (gigi-saku): truly unavoidable business and correspondence with other locations are excepted; however, all other routine correspondence — regardless of occasion, whether New Year greetings, summer or winter salutations, or matters of good or ill fortune — is absolutely prohibited, even for unit commanders (shihai-gashira).
 
-　The above has been communicated previously, but as compliance has gradually grown lax and the situation has become disorderly, this notice is issued anew. Ensure there are no misunderstandings.
+The above has been communicated previously, but as observance has grown lax and disorderly, this notice is issued anew. Ensure that there are no misunderstandings.
 
-　　　　7th month
+　　　　　(7th month)
 
 ---
 
-〇 This is communicated by letter: until now, regarding the departure and arrival dates for travel to and from other provinces, days considered inauspicious (omigara / calendrical taboo days) have been excluded and avoided. However, henceforth, no such consideration need be given. Please be aware of this accordingly. The above.
+○ This is communicated by letter. Hitherto, when express couriers (hikyaku) were dispatched or arrived from other provinces, those days falling on inauspicious calendar dates (omoi o-higara) were avoided. However, going forward, no such consideration of auspicious dates need be taken. Please understand this accordingly. That is all.
 
-　　　　8th day of the 8th month　　Monthly duty officer: Nishimura [name unclear] 
+　　　　　8th day of the 8th month　　Monthly duty official (tsukiban): Nishimura ■■■
 
-　Furthermore, regarding the above contents: those who hold supervisory authority over units (kumi) are to communicate this to those under their command.
+　Addendum: Regarding the contents of the main notice, those members who have units under their supervision shall communicate this to those in their charge.

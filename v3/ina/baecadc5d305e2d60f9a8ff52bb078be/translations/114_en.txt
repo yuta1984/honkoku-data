@@ -10,12 +10,12 @@
 　　　　Jūbei
 　　Honmachi district
 　　　　Shōzō
-　　Shimosatomachi district
+　　Shimosatocho district
 　　　　Jingobyō
 
-Those of "Machidai-nami" rank (equivalent to ward representative)
+Those of "Machi-dai-nami" rank (equivalent to Ward Representative)
 　　Iseya (shop name)
-　　　　~~■　Shichichi~~ (crossed out)
+　　　~~Excluded: Zenshichi~~ (crossed out)
 　　Kitaya (shop name)
 　　　　Sakutarō
 　　Kobikiya (shop name)
@@ -23,4 +23,4 @@ Those of "Machidai-nami" rank (equivalent to ward representative)
 　　Onoya (shop name)
 　　　　Sōbei
 　　Matsudaya (shop name)
-　　　　Koматarō
+　　　　Komatarō

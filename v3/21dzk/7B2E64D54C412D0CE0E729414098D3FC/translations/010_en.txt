@@ -1,0 +1,89 @@
+## Right Page (p. 114, Section 18)
+
+### Upper Section
+
+(Continued from Kakuhō's explanation)
+
+If one says, on the basis of ultimate truth (勝義), that "dharmas arising from conditions are empty," this is what you (Bhāviveka) yourself accept, not what we (Dharmapāla) accept. Therefore, within the reason (hetu), there is the fallacy of "one-sided non-establishment" (随一不成, *ekadeśāsiddha*). Dharmapāla's intention is: on the basis of the ultimate truth, (Dharmapāla) does not speak of "arising from conditions" in the ultimate sense. (For Dharmapāla, dharmas in the ultimate sense) are not of the nature of being dependently arisen, etc.
+
+Furthermore, (Kakuhō) constructs a "conclusively contradictory" (決定相違, *viruddha*) syllogism, saying: "Conventional dharmas (俗法) are empty because they are not (empty) through the nature of ultimate truth (真性), (yet) they serve as the object-condition (所縁縁, *ālambanapratyaya*). Just as ultimate truth (真性). Ultimate truth serves as the object-condition; it is empty not through the ultimate nature. Conventional dharmas serve as the object-condition; they are empty not through the ultimate (nature), etc." (And so on.)
+
+---
+
+**Section Three: Displaying Faults to the Opponent (対敵顕過決)**
+
+Q: The syllogism "conditioned dharmas are empty" — among self-inference (自比量), other-inference (他比量), and common-inference (共比量), which kind of inference is it?
+
+A: It is a common inference (共比量, *sādhāraṇānumāna*).
+
+Q: If so, the thesis (宗, *pratijñā*) has the fallacy of "corresponding to what is already established" (相符極成, *prasiddhasādhana*), and the reason (因, *hetu*) has the fallacy of "one-sided non-establishment" (随一不成). For example, taking the case of the "annihilationist non-Buddhists" (拨無外道), since they accept that "all conditioned dharmas are empty," there is (the fallacy of) "correspondence" (相符). Also, the "spontaneist non-Buddhists" (自然外道) do not accept that "conditioned dharmas arise from conditions," so there is the fallacy of "one-sided non-establishment." How should these various faults be avoided?
+
+A: Just as in the common inference of the syllogism "sound is impermanent," the reason (hetu) capable of proof is changed according to which opponent one faces: if facing (those who hold that) "sound arises by production" (声生), the reason "being produced" (所作因) is needed; if facing (those who hold that) "sound is manifested" (声顕), the reason "produced by effort" (勤勇因) is needed. The same applies here. When facing the "spontaneist non-Buddhists," one simply changes the reason capable of proof. In this matter, further diligent inquiry (劬労) should be made.
+
+Q: Regarding Bhāviveka's "body of illusion" (幻体), what should be said of it — is it existent or non-existent?
+
+A: For Bhāviveka, the body of illusion is non-existent in the ultimate (真, *paramārtha*) and existent in the conventional (俗, *saṃvṛti*).
+
+Q: If so, when confronting Dharmapāla, there should be the fallacy of "contradiction with the subject's own nature" (法自相相違, *dharmasvabhāvaviruddha*). In the collected works of Master Fǎng (昉法師, Wengui), this contradictory syllogism is presented: "The conditioned dharmas of true nature (真性の有為) are not empty. Because they arise from conditions. Like illusory phenomena (幻事). This reason of 'arising from conditions' is entirely absent in the similar case (同品遍無) and entirely present in the dissimilar case (異品遍有), so contradiction is obtained. Because dharmas without substance (無体の法) do not arise from conditions." The meaning being made clear: since Bhāviveka accepts in the ultimate sense that "the body of illusion is empty and arises from conditions," how can the reason apply to
+
+---
+
+### Lower Section
+
+"empty illusory dharmas without substance"? (Those dharmas are) not dependently arisen. Therefore (the reason is) absent in the similar case and present in the dissimilar case — hence it is properly called a "contradiction."
+
+---
+
+**Section Four: Determining the Similarities and Differences Among Other Syllogisms (余量同異決)**
+
+Q: In the *Guangbai lun* (廣百論, *Catuḥśatakavṛtti*), a syllogism (比量) is established as follows: "All conditioned dharmas are not really existent. Because their substance arises from conditions. Like illusory phenomena. All unconditioned dharmas are also not really existent. Because they have no arising. Like tortoise-hair." What is the difference between these two syllogisms and the syllogism of the *Zhǎngzhēn lun* (掌珍論, *Karatalaratna*)?
+
+A: The Korean master Woncheuk (新羅元暁法師) judged the theory of syllogisms, saying: "The syllogism of *Zhǎngzhēn* is the same as the syllogism of *Guangbai*, etc." (And so on.)
+
+Master Dàozhèng (道証師) explains why this judgment is unreasonable and why the meanings of the syllogisms differ: "The *Zhǎngzhēn lun* says: (Regarding) what others take to be parikalpita (遍計所執, imaginarily constructed) conditioned dharmas — claiming that in the ultimate truth they really have self-nature — now (Bhāviveka) establishes them as empty. The seventh chapter of *Guangbai* says: Wishing to refute the parikalpita objective appearances of non-Buddhists and practitioners of other vehicles, these two syllogisms are established. Although both treatises refute what is grasped (所執), the opponents they face differ. *Guangbai* only refutes Hīnayānists and non-Buddhists. *Zhǎngzhēn* faces the Greater, Lesser (vehicles) and non-Buddhists alike."
+
+Master Fǎng (昉法師) says: "The opponents faced by the two treatises, *Zhǎngzhēn* and *Guangbai*, do not differ from *Zhǎngzhēn*. Since the word 'other' (他) encompasses non-Buddhists and other vehicles, even when facing the Great Vehicle, both refute what is grasped and display that dharmas are not real. The meaning of the syllogisms being the same, the evaluation (by Dàozhèng) is also not fully reasoned."
+
+Master Xīng (興法師) says: "The syllogisms of the two treatises are different and not the same as the collected opinion (元暁's judgment). The reason for this is: *Zhǎngzhēn* says (the thesis is) 'empty' (空), while *Guangbai* says 'not real' (非実). The meanings are extremely different. Since Dharmapāla already says 'the substance of conditioned and unconditioned dharmas is not really existent,' one should know that (this) does not mean the substance and characteristics are all empty. How can one say that '(Bhāviveka's) empty-but-fallacious syllogism and (Guangbai's) establishment of non-reality are the same'? If one argues that 'since Bhāviveka's "empty" indicates "non-real," there is no fault,' this would contradict the interpretation established in this treatise." (In reply,) it is seen (見): "Non-Buddhists are attached only to non-reality." For full details, see *Biǎn liàng* (貶量, Critiquing Syllogisms), Chapter Ten. The third explanation is the most excellent.
+
+Q: Bodhisattvas compose treatises in order to interpret the Buddha's
+
+---
+
+## Left Page (Continued, p. 114 continued)
+
+### Upper Section
+
+sutras. If so, the syllogism of "conditioned dharmas are empty" in *Zhǎngzhēn* — what sutra does it interpret?
+
+A: The syllogism of *Zhǎngzhēn* is itself a syllogism stated in the Buddha's sutras. Since it is not a syllogism composed independently by a bodhisattva, there is no fault.
+
+Q: If so, the meaning of "consciousness-only" is recorded in the *Avataṃsaka* and other sutras. From what sacred text does the syllogism "True nature — conditioned dharmas are empty, etc." originate?
+
+A: The *Dà Fódǐng Rúlái mìyīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng* (大仏頂如来密因条証了義諸菩薩万行首楞厳経, *Śūraṃgama-sūtra*), Volume Five, says: "True nature — conditioned (dharmas) are empty; because of dependent origination, like illusions. Unconditioned (dharmas) have no arising or cessation; not real, like sky-flowers. ... Furthermore (the same sutra) says: 'The ādāna-vijñāna (陀那識) is the subtle consciousness; habitual tendencies (習気) form a violent stream. I always fear (explaining) the true and non-true (boundary) would cause confusion; I never expound it openly.'" For full details, see that (sutra's) account. From this it is clearly known: (the syllogism) is stated in the Buddha's sutras; it is not a syllogism composed independently by a bodhisattva.
+
+Q: If so, since it is already the Buddha's words, why have ancient and modern great masters pointed out various faults in this syllogism?
+
+A: There are three explanations (三釈) for this.
+
+**The First Explanation:** Regarding establishing "conditioned dharmas are empty" on the basis of "true nature" with the reason "because of dependent origination" — the Buddha's original intention is to rely upon "the non-self-nature of arising" (生無自性性, *utpatti-niḥsvabhāvatā*) among the Three Non-Natures (三無性, *triḥsvabhāva*) to establish (conditioned dharmas) as empty. What does this meaning entail? All conditioned dharmas arise from multiple conditions and are not self-existent. On the basis of "non-nature through arising" (生無性), he establishes them as empty — this does not mean "the true and conventional natures are ultimately empty" (畢竟空). Therefore, the fifth volume of that sutra says: "Speaking of the false (妄) is for the purpose of revealing all truth (真). False and true alike are within the 'three falsehoods' (三妄). Yet they are neither false-true nor (ultimate) true. How can the seer and the seen be (distinguished as) seen?" Since it says "the false and true are alike within the three falsehoods," the "three falsehoods" refer to the Three Non-Natures. From this it is clearly known: the Buddha's original intention is to establish (conditioned dharmas) as empty on the basis of "non-nature through arising," not to say "the substance of the true and conventional is ultimately empty." Now, Master Bhāviveka conflates "the emptiness of both true and conventional natures," interpreting the meaning of the sutra one-sidedly. Therefore, the various great masters competitively point out various faults in the syllogism he established. Hence there is no problem (with this critique).
+
+---
+
+### Lower Section
+
+**The Second Explanation:** Regarding the interpretation of the meaning of the Buddha's syllogism, Bhāviveka and Dharmapāla each have separate intentions. Bhāviveka's interpretation: "True nature" (真性) means the principle of genuine ultimate truth — that is, the principle of the emptiness-nature in the ultimate-of-ultimates (勝義の勝義). Within the principle of emptiness-nature, the substance of paratantra (dependent) dharmas is ultimately empty. Therefore, the Tathāgata, addressing those who are confused about emptiness, established this syllogism.
+
+Dharmapāla's interpretation: "True nature" means the third ultimate truth (第三勝義, among four levels of ultimate truth). Through this mode of exposition, the parikalpita (imaginarily constructed; 遍計所執) is removed. In the fourth (level of the) true (ultimate), the paths of mind and language are cut off, so (verbal) execution cannot remove attachment. Hīnayānists and non-Buddhists are attached to (the idea that) "the substance of the paratantra is truly real." Therefore, the Tathāgata, in order to remove their false attachment to existence (妄有), established this syllogism. Hence, the *Guangbai lun*, "Chapter on Instructing Disciples," (says): "To remove their false (attachment to) existence, true emptiness is established." (And so on.) Master Bhāviveka violates the Buddha's original intention by trying to remove the substance of other's (paratantra) dependent (dharmas), and so the syllogism of *Zhǎngzhēn*, though its words are the same as the sutra, has many faults. The sutra's syllogism does not remove the substance of conditioned dharmas, hence it has no faults.
+
+Q: If so, the spontaneist non-Buddhists do not accept the reason "arising from conditions." How then can the Buddha's syllogism's reason lack the fallacy of "one-sided non-establishment"?
+
+A: Using an already-refuted thesis as the reason is in accordance with the original intention of *hetuvidyā* (因明, Buddhist logic). Therefore there is no fault.
+
+**The Third Explanation:** Both Bhāviveka and Dharmapāla accord with the intent of the sutra and do not contradict the Buddha's meaning. In that case, Bhāviveka's "emptiness" is none other than the emptiness inherent in "existence." Dharmapāla's "existence" is none other than the existence inherent in "emptiness." Establishing "emptiness" is for the purpose of establishing "existence." Establishing "existence" is for the purpose of establishing "emptiness." They face each other eye to eye, mutually displaying the appearance of dispute. However, this is only because later learners and students, upon seeking to understand this, cannot comprehend (the underlying unity), and so (the masters) each compose different interpretations. Therefore, discussing the root (本), there are no various faults at all; discussing the branches (末), each has faults from the other's perspective.
+
+---
+
+**Section Five: Resolving Doubts Revealed Beyond the Text (文外顕疑決)**
+
+Q: If "true nature" (真性) does not enter into the subject-term (有法, *dharmin*), a contradictory syllogism can be constructed. Constructing a syllogism: "Your term 'true nature' ought to be encompassed by the subject-term (法攝). Regarding this syllogism's terminology, the reason and example...

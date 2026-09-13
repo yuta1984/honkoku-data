@@ -1,0 +1,13 @@
+【Right page】
+
+《Section 37》　On the total length of the warp and weft threads of silk fabric
+
+　〇 Length of warp:  4 *ri* 11 *chō* 4 *ken* 4 *shaku*
+　〇 Length of weft:  2 *ri* 35 *chō* 31 *ken* 1 *shaku* 3 *sun*
+　　　　Combined total: 7 *ri* 10 *chō* 35 *ken* 5 *shaku* 3 *sun*
+
+　　The method: The number of warp threads is 1,800. One *tan* of silk has a warp length of 2 *jō* 8 *shaku*, which, converted diagonally [i.e., accounting for the weaving angle], equals 3 *jō* 3 *shaku* 6 *sun*. Multiplying this by the 1,800 threads gives 6,048 *jō*. Dividing this by 6 *shaku* 5 *sun* [one *ken*], one obtains 9,304 *ken* 4 *shaku*. Dividing this by 60 *ken* [one *chō*], one obtains 155 *chō* 4 *ken* 4 *shaku*. Dividing this by 36 *chō* [one *ri*],
+
+【Left page】
+
+　　one obtains 4 *ri* 11 *chō* 4 *ken*. 〇 Next, for the weft: the width of the fabric is 1 *shaku* 3 *sun*, which converted diagonally equals 1 *shaku* 5 *sun* 6 *bu*. Assuming there are 8 threads per *bu*, multiplying 1 *shaku* 5 *sun* 6 *bu* by 8 gives 1 *jō* 2 *shaku* 4 *sun* 8 *bu* [the number of weft threads]. Multiplying this by 3 *jō* 3 *shaku* 6 *sun* [the diagonal length of one *tan*], one obtains 4,193 *jō* 2 *shaku* 8 *sun*. Dividing this by 6 *shaku* 5 *sun*, one obtains 6,451 *ken* 1 *shaku* 3 *sun*. Dividing this by 60 *ken*, one obtains 107 *chō* 31 *ken* 1 *shaku* 3 *sun*. Dividing this by 36 *chō*, one obtains 2 *ri* 35 *chō* 31 *ken* 1 *shaku* 3 *sun*.

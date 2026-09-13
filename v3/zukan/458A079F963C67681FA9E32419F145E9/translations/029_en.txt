@@ -1,29 +1,26 @@
 【Right folio】
-*Title: Honzō Zufu*
-
+《Title: Honzō Zufu》
 【Library label affixed over the botanical illustration】
 　　Tokyo Educational Museum
 　　No. 5　No. 1 [in red ink]
 　　　Category: Natural History
-　　　Subcategory: Botany
-　　　Volumes: 91
+　　　Subcategory: Plants
+　　　Volume: 91
 　　　Case: 11
 
 【Left folio】
-*Honzō Zufu*, Volume 89 — Table of Contents
+*Honzō Zufu*, Volume 89: Table of Contents
 　　Shrubs (*Kanboku-rui*)
 
-| Chinese name | Reading | Japanese name | Page |
-|---|---|---|---|
-| 五加 (Goka) | | Mukōgi | 1 |
-| 　一種 (a variety) | | | 2 |
-| 枸杞 (Kuko) | | Kuko | 3 |
-| 枸棘 (Kukyoku) [*Jijie*] | | Oni-kuko | 4 |
-| 溲疏 (Sōso) | | Utsugi | 5 |
-| 　一種 (a variety) | | Kō-utsugi | 6 |
-| 　一種 (a variety) | | | 7 |
-| 　一種 (a variety) | | | |
-| 　一種 (a variety) | | Shiro-utsugi | 8 |
-| 　一種 (a variety) | | Mitsuba-utsugi | |
-| 　一種 (a variety) | | Fusuma-utsugi | 9 |
-| 楊櫨 (Yōro) | | Tani-utsugi | 10 |
+*Wujiā* (goka) ／ mukogi [*Acanthopanax*]　　　　　　　　p. 1
+　　Variety　　　　　　　　　　　　　　　　　　　　　　p. 2
+*Gǒuqǐ* (kuko) ／ numikusuri [Chinese wolfberry]　　　　p. 3
+*Gǒují* (kukyoku) 《coll. commentary》／ onikuko　　　　p. 4
+*Sōu shū* (sōso) ／ utsugi [deutzia]　　　　　　　　　　p. 5
+　　Variety ／ kōutsugi　　　　　　　　　　　　　　　　p. 6
+　　Variety　　　　　　　　　　　　　　　　　　　　　　p. 7
+　　Variety
+　　Variety ／ shirōutsugi　　　　　　　　　　　　　　　p. 8
+　　Variety ／ mitsubautsugi
+　　Variety ／ fusumautsugi　　　　　　　　　　　　　　p. 9
+*Yánglú* (yōro) ／ taniutsugi [*Weigela*]　　　　　　　p. 10

@@ -1,0 +1,21 @@
+## Ezo Language Glossary (Ainu Vocabulary)
+
+### Section on Heaven and Earth
+
+| Japanese | Ainu (Katakana) | Ainu (Hiragana) | Notes |
+|----------|----------------|-----------------|-------|
+| Heaven/Sky (ten) | RIKIKU | rikiku | To rise: rikin / High: rii |
+| Earth/Ground (chi) | SHIRIKA | shirika | Surrounding land: mojiri |
+| Soil/Earth (tsuchi) | TOI | toi | |
+| Cloud (kumo) | NISHI | nishi | |
+| Rain (ame) | APUTO | aputo | |
+| Fire (hi) | ABE | abe | |
+| Water (mizu) | WAKKA | wakka | |
+| Fog/Mist (kiri) | ŪRARI | ūrari | |
+| Dew (tsuyu) | MUNBE | munbe | |
+| Sun (hi) | BEKERCHUP | bekere chyutsuppu | |
+| Moon (tsuki) | KUNNECHUP | kunne chyutsuppu | |
+| Sun and Moon (jitsugetsu) | CHUPKAMUY | chyupukamoī | |
+| Star (hoshi) | NOCHIU | nochiu | |
+| Mountain (yama) | KIMITA | kimita | |
+| Peak/High Mountain (take) | NUPURI | nuburi | |

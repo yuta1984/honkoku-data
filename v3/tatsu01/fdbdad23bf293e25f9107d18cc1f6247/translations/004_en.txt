@@ -1,33 +1,15 @@
-【Left Page】
-【Header Notes】
-According to Volume 9 of the Azuma Kagami:
-Bunji 5th year, 12th month, Day of Kinoe-ne
-Inaba no Zenji Hiromoto was sent as an envoy
-for the seasonal journey to the capital... Iwai, Isawa, Esashi—these three
-districts should dispatch farmers from the northern mountain region
-to one district to distribute seeds, etc...
-And according to Volume 10 of the same work:
-Bunji 6th year, Kanoe-inu, 1st month (short month)
-6th day, Kanoto-tori: The former retainers of the late Yasuhira of Oshu, Okawa Jiro Kanetou
-and others, since last winter's harsh season,
-have been plotting rebellion. Some called themselves
-Iyo no Kami Yoshitsune and appeared
-in the coastal manors of Dewa Province, while others
-claimed to be Asahi Kanja,
-the eldest son of Sama no Kami Yoshinaka, and rose up in
-Yamakita District of the same province. Each formed
-rebel parties. Kanetou led
-his eldest son Tsuru Taro, second son Ou
-Kii-nai Jiro, along with over seven thousand mounted
-villains toward Kamakura,
-setting out on a route that passed through Kawakita, Akita
-Castle, and other places...
-This "Yamakita District" mentioned here
-likely refers to the three districts of Ogachi, Hiraka, and Yamamoto collectively
-called Yamakita District.
+【Header Note】
+The ninth volume of the Azuma Kagami (Mirror of the East) states:
+On the day of kinoe-ne (甲子) in the twelfth month of Bunji 5 (1189), Hirooto (Ōe no Hiromoto), the Former Governor of Inaba, went up to the capital as an envoy, and so forth. Regarding the three districts of Iwai, Isawa, and Esashi, seeds and other agricultural supplies are to be sent from the northern side of the mountains to the agricultural districts, and so forth.
+
+The same work's tenth volume states:
+On the sixth day (辛酉) of the first month of Bunji 6 (1190), Kanetō, the Second Son of the Ōkawa clan, a retainer of the late Yasuhira of Ōshū, and his followers, having plotted rebellion since the previous winter: some calling themselves Yoshitsune, Governor of Iyo, emerged from the Kaibe Manor in Dewa Province; others, calling themselves Asahi Kanja, the eldest son of Yoshinaka, Lord of the Left Stables, rose up in the Yamakita district of the same province. Each gathering rebel factions, Kanetō ultimately set out toward Kamakura with his eldest son Tsurутарō, second son Kinai Jirō, and over seven thousand mounted rebels, their route passing through Kahoku, the foot of Akita Castle, and so forth.
+
+This reference to "the district of Yamakita" most likely refers collectively to the three districts of Ogachi, Hiraka, and Yamamoto, called together "Yamakita district."
 
 【Main Text】
-　　　　　Moon's Dewa Road (Tsuki no Ide Haji)　　《Annotation: Senboku District Section》
-Senboku was originally not the name of a district, but perhaps a place spoken of in contrast between Yamakita (Mountain-North) and Kawakita (River-North) as east and west. Kawakita perhaps referred to places like Noshiro and Hinokiyama. Ancient Buddhist statues and old vessels have the characters for Kawakita carved or recorded on them. Upon reflection, the Sandai Jitsuroku《Annotation: Volume 37, Folio 5}} records "Yamakita: Ogachi, Hiraka, and Yamamoto three districts."
-In the present age, these three districts are exclusively called Yamakita (Senboku) using the Sino-Japanese reading. In the Wamyo-sho, the name Yamakita also appears in Ikuha District of Chikugo Province. There are probably others in various places as well. This Yamakita of Dewa Province came to be read as Senboku in Sino-Japanese pronunciation from some period, and it was also written as Senboku (mountain-poor) and other variations. Since the character for "poor" was not appropriate, it was changed to characters like Senpuku (thousand-fortune), though this doesn't seem to be from very recent times. This can also be seen in works like the Azuma Kagami and Shaseki-shu. Yamakita likely refers to the northern shadow of Mount Komagata《Annotation: Enshrined at Mount Komagatake, a Shikinaisha shrine in Mutsu Province}}.
-The current characters for Senboku have probably been written mostly since the Tensho period. Now it has become exclusively a district name, with the ancient Yamamoto District being called Senboku District and counted among the districts. There are probably many more things to consider and compare.
+　　　　　Moon's Dewa Road　　《Annotation: The Senboku District Section》
+
+"Senboku" was not originally a district name; it was likely a place name used in contrast between Yamakita (Mountain North) and Kawakita (River North), referring to east and west respectively. "Kawakita" may have referred to places like Noshiro and Hinoyama. On ancient Buddhist statues and old utensils, the characters for "Kawakita" can be found carved or written. Considering this further, the Sandai Jitsuroku (Veritable Records of Three Reigns), Volume 37, Leaf 5, states: "Yamakita: the three districts of Ogachi, Hiraka, and Yamamoto." In the present age, these three districts are collectively referred to as "Senboku," reading the characters for Yamakita with their Sino-Japanese (on'yomi) readings. The Wamyō Ruijushō (Japanese Names for Things Classified) also shows the name "Yamakita" in the Ikuha District of Chikugo Province; similar place names likely exist elsewhere as well.
+
+At some point, the "Yamakita" of Dewa Province began to be read in the Sino-Japanese manner as "Senboku," and then this was also written as "Sanboku" (山乏, meaning "mountain-scarce"), and since the character 乏 (meaning "scarce/lacking") was felt to be inappropriate, it was changed to "Senbuku" (千福, meaning "thousand blessings")—this change does not appear to be entirely recent, as it can be seen in both the Azuma Kagami and the Shasekishū (Collection of Sand and Pebbles). "Yamakita" most likely refers to being in the shadow (on the north side) of Mount Komagata《where the Komagata deity, a nationally registered shrine of Mutsu Province, is enshrined》. The current characters "仙北" (Senboku) have mostly been in use since around the Tenshō era (1573–1593). Today, the name has become firmly established as a district name, with the ancient Yamamoto district now being counted and incorporated into the category of Senboku district. There are likely many more matters worth further investigation.
