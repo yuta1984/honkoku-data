@@ -2,51 +2,45 @@
 
 ### Upper Section
 
-(Continued from the previous page: the question of whether "true nature" [真性] is included within the subject-term [有法])
+(The reason and example) do not encompass (it), just like the term "conditioned dharma." How is this objection to be resolved?
 
-...is not encompassed within (the reason and example). Therefore, just like the term 'conditioned dharmas' (有為の言)." How is this objection to be resolved?
+Answer: Because there is a fault, the objection cannot be validly constructed. (Instead,) constructing a "contradiction with the subject's own nature" (法自相相違, *dharmasvabhāvaviruddha*): "My (Bhāviveka's) term 'true nature' (真性) ought not to be the subject-term (有法, *dharmin*). (Thesis.) Because it relates to this syllogism's terminology yet is not encompassed by the reason and example. (Reason.) Like the term 'empty' (空), which is the predicate-dharma (法) of the thesis. (Example.)"
 
-**Answer:** Because (the counter-syllogism itself) contains a fault, the objection cannot be sustained. (We) construct a "contradiction with the subject's own nature" (法自相相違) syllogism as follows: "Our term 'true nature' (真性) ought not to be (the) subject-term (有法). [Thesis] Because within the terms of this syllogism, it is not encompassed by the reason (hetu) and example (dṛṣṭānta). [Reason] Like the term 'empty' in the thesis-predicate (宗法空). [Example]"
+Q: Within "conditioned dharmas" as the subject-term, is there a fault of contradiction (相違)?
 
-**Q:** Within the (syllogism where) conditioned dharmas (有為) serve as the subject-term (有法), is there a "difference-of-subject-qualification contradiction" (有法差別相違) fault?
+A: There is. Constructing a "contradiction with the qualification of the subject-term" (有法差別相違, *dharmivišeṣaviruddha*): "Eye-faculty (眼等) conditioned dharmas ought not to be conditioned dharmas that are non-existent in the ultimate (真無). (Thesis.) Because they arise from conditions. (Reason.) Like material forms (色等) that exist in the conventional (俗有). (Example.)" If one accepts that "what is conventionally existent is thereby ultimately non-existent (真無)," then in the positive example (同喩) of the original syllogism, namely "illusory phenomena" (幻事), the quality of "arising from conditions while being conventionally existent" is present, and so (the reason) cannot serve as a proving reason (*sādhana-hetu*) — precisely because (the illusion) is accepted as ultimately non-existent (真無). From this it is clearly known: the meaning of "ultimate non-existence" (真無) and the meaning of "conventional existence" (俗有) are each distinct from the other.
 
-**A:** There is. Constructing a "subject-qualification contradiction" (有法差別相違) syllogism: "Eye-consciousness (眼等) and other conditioned dharmas ought not to be conditioned dharmas that are non-existent in the ultimate (真無の有為). [Thesis] Because they arise from conditions. [Reason] Like form (色) and other (dharmas) that are conventionally existent (俗有). [Example]"
+Q: By what (evidence) does one know there is this contradiction?
 
-If one accepts that "the conventionally existent (俗有) is precisely what is non-existent in the ultimate (真無)," then the "conventional existence of dependent-arising" (俗有の縁生義) in the positive example (同喩) — the illusory phenomena (似事幻) — of the original syllogism cannot function as the establishing reason (能立因). Because (the illusory phenomena are also) accepted as being non-existent in the ultimate (真無). From this it is clearly known: the meaning of "non-existent in the ultimate" (真無) and the meaning of "existent in the conventional" (俗有) are each separately distinct.
+A: In the Tripiṭaka Master's (Xuanzang's) syllogism it is stated: "Established-in-common form (極成色) is the intrinsic nature of the subject-term (有法自相). The form within consciousness (*vijñāna*) and the form apart from consciousness — these are the qualifications of the subject-term (有法差別)." Following this as a model, it is clearly known: "eye-faculty conditioned dharmas" is the intrinsic nature of the subject-term; "conditioned dharmas that are ultimately non-existent are not conditioned dharmas that are ultimately non-existent" is the qualification of the subject-term — hence this fault exists. Since the reason in the original syllogism of "conditioned dharmas are empty" does not say "self-accepted" (自許, *svābhimata*), one cannot construct an "indeterminacy" (不定, *anaikānta*) to block this fault.
 
-**Q:** By what means can one know that this contradiction (fault) exists?
+Q: Does this syllogism have a dissimilar-case example (異法喩, *vipakṣa dṛṣṭānta*)?
 
-**A:** In Tripiṭaka (Xuanzang's) syllogism it is said: "Universally established form (極成色) is the self-nature of the subject-term (有法自相). That is, form-as-consciousness (識の色) and form-apart-from-consciousness (識を離れた色) are the qualification of the subject-term (有法差別)." In accordance with this it is clearly known: "Eye-consciousness and other conditioned dharmas" is the self-nature of the subject-term (有法自相), and "conditioned dharmas that are non-existent in the ultimate — not being conditioned dharmas non-existent in the ultimate" is the qualification of the subject-term (有法差別). Therefore this fault exists. Since the reason in the original syllogism of "conditioned dharmas are empty" does not already say "self-accepted" (自許), one cannot construct an "indeterminate" (不定) (fault). This (limitation) prevents (the construction of) this fault.
+A: Following the statement of *Zhǎngzhēn* (掌珍論), there is no dissimilar-case example, because the exclusionary meaning (*vacchedārtha*) of that treatise is already established, and there is no dissimilar case (*vipakṣa*), etc. (And so on.)
 
-**Q:** Does this syllogism contain a "dissimilar-case example" (異法喩)?
+Q: If there is no dissimilar case (*vipakṣa*) in this syllogism, why does the treatise on *hetuvidyā* (因明論) say "only these three components are called the means of proof" (能立)?
 
-**A:** In accordance with what the *Zhǎngzhēn lun* says, there is no dissimilar-case example (異法喩). Because that treatise's meaning of negation (遮義) is already established, there is no dissimilar case (異品) etc. (And so on.)
+A: The word "only" (唯) in the treatise merely excludes the error of the "four equivalents" (四等); it means that a means of proof must necessarily possess these three (components).
 
-**Q:** If there is no dissimilar case (異品) in this syllogism, why does the treatise on *hetuvidyā* say: "Only these three parts are called the 'capable of establishing' (能立)"?
+Q: This reason of "dependent origination" (縁生因) ought not to be evident (顕). (Thesis.) Because it lacks the three marks (三相). (Reason.) Like reasons having only one mark, etc. (Example.) How does one resolve this objection?
 
-**A:** When the treatise says "only" (唯), it simply excludes the "four non-capable ones" (四等非), meaning that the capable of establishing necessarily possesses these three parts.
+A: There is the fault of "definite contradiction" (決定相違, *viruddha*). That is: the reason "because it arises from conditions" is definitely capable of making the thesis manifest, for it possesses the first two marks (遍是宗法性 and 同品定有性) and does not pervade the dissimilar case (異品遍無) — hence (it is) like the reason of "being made/produced" (所作因).
 
-**Q:** This reason of "arising from conditions" (縁生の因) ought not to be able to demonstrate (the thesis). [Thesis] Because it lacks the three characteristics (三相, *trairūpya*) (of a valid reason). [Reason] Like a reason possessing only one characteristic. [Example] How is this objection to be resolved?
+Q: If among the three means of proof (三能立: thesis, reason, positive example) one can establish the thesis without the dissimilar example (異法喩), then (conversely,) among the three means of proof one should also be able to establish the thesis without the similar example (同法喩).
 
-**A:** There is a "conclusively contradictory" (決定相違) fault (with that objection). That is, the reason "because of dependent arising" (縁生故) can definitively demonstrate the thesis. Because it possesses the first two characteristics (初二相) and does not operate in the dissimilar case (異品において行じない) — just like the reason "being produced" (所作因).
+A: The similar example (同喩) serves to "positively establish" (順成) (the thesis); if the similar example is absent, there is no auxiliary support. The dissimilar example (異法喩) serves to "prevent overflow" (止濫, excluding false instances); if the dissimilar example is absent, the "overflow" is eliminated. Hence they cannot be treated as analogous cases.
 
-### Lower Section
+Q: The *Zhǎngzhēn lun* says: "If others take parikalpita (*遍計所執*) conditioned dharmas as (the subject), this very (syllogism) breaks that clinging" — and Dharmapāla accepts this in common. If so, the thesis has the fault of "corresponding to what is already established" (相符極成). Why bother seeking further faults?
 
-**Q:** If among the three capable-of-establishing (三能立 — thesis, reason, example), there is no "establishing the thesis through the dissimilar case," then is there also no "establishing the thesis through the similar case"?
+A: (Dharmapāla) does not say that "conditioned dharmas have real self-nature in the ultimate truth." Against whom does Bhāviveka establish this syllogism of emptiness? When he says "relying on the dependent arising's causal reality (*依他因成実*) etc.," this relies on conventional-ultimate (世俗勝義), not on the true ultimate (真勝義). Already stated in such general terms — against whom is emptiness being established?
 
-**A:** The positive example (同喩) affirmatively establishes (順成) (the thesis); when the positive case is absent, the supplementary negative example (異法喩) prevents overextension (止濫). The removal of "overextension" when there is no negative example differs (from the positive case), so they cannot be treated as analogous.
+Answer: In the third scroll of the (Cheng weishi) lun, after refuting Bhāviveka's position, it concludes: "From this it should be believed that there is the Eighth Consciousness (*ālayavijñāna*), etc." (And so on.) Having already refuted those who hold "conditioned dharmas are empty in true nature," it then concludes "there is an Eighth Consciousness." From this it is clearly known: Dharmapāla also, relying on "true nature" (真性), asserts there is an Eighth Consciousness. (Bhāviveka) now establishes the syllogism of emptiness in opposition to this position, so there is no problem.
 
-**Q:** The *Zhǎngzhēn lun* says: "If others accept conditioned dharmas as parikalpita (遍計所執), then this (syllogism) refutes that grasping and is commonly accepted by Dharmapāla." If so, the thesis has the fallacy of "correspondence" (相符極成, *prasiddhasādhana*). Why bother seeking further faults?
+Q: Following the third scroll of the treatise, it seems the meaning is as stated. But Dharmapāla does not say "the consciousness of true nature is existent." How then is there a contradiction?
 
-**A:** Dharmapāla does not say that "conditioned dharmas have real self-nature (実自性) in the ultimate truth (勝義諦)." Against whom, then, does Bhāviveka establish this syllogism of emptiness? However, when (the *Zhǎngzhēn lun*) says "dependent (dharmas) are established as real through the hetu (依他因成実)," this refers to the conventional ultimate (世俗の勝義), not the true ultimate (真の勝義). Having thus generally asked against whom (the syllogism of) emptiness is established —
+A: The first scroll of the treatise says: "Consciousness is a conventional object-domain; because there is a basis-event (所依事), it is also (existent) in the ultimate sense, etc." (And so on.) Bhāviveka, not knowing that Dharmapāla speaks of the Eighth Consciousness as existent in reliance upon conventional-ultimate, negates this consciousness by means of a fallacious syllogism (*似比量*). It is not that Dharmapāla establishes the Eighth Consciousness as existent in reliance upon the true ultimate — hence there is no contradiction. Reading the treatise in a general way, the meaning appears to be so; examining the treatise's intent deeply, the meaning is not so.
 
-**Answer:** In the third scroll of (the *Cheng weishi lun*), after refuting Bhāviveka's thesis, it concludes: "From this, one can believe in the existence of the eighth consciousness, etc." (And so on.) Having already refuted those who claim "conditioned dharmas are empty based on true nature" and then concluded "there is an eighth consciousness" — from this it is clearly known: Dharmapāla also says, based on "true nature" (真性), that the eighth consciousness exists. Now, against this thesis (of Bhāviveka), (Dharmapāla) establishes the syllogism of emptiness (空比量) — hence there is no problem.
-
-**Q:** In accordance with the third scroll of the treatise, it would seem that the meaning is as such. But Dharmapāla does not say "the consciousness exists in true nature (真性識有)." How then is there a contradiction?
-
-**A:** The first scroll of the treatise says: "Consciousness is a conventional object (*prajñaptisattva*); because it serves as the basis (所依の事). Also, it exists even in the ultimate sense (勝義においても有), etc." (And so on.) Bhāviveka does not know that Dharmapāla says the eighth consciousness "exists" based on the "conventional ultimate" (世俗の勝義). Therefore there is no contradiction. If one superficially searches through the treatise, the meaning may appear to be so. But if one deeply seeks the treatise's intent, the meaning is not so.
-
-**Q:** If so, Bhāviveka accepts that in the conventional realm, mind (consciousness) and objects exist together. Why then does (Dharmapāla) further refute the claim that
+Q: If so, Bhāviveka holds that in the conventional realm both mind and object co-exist. Why then does he further refute the co-
 
 ---
 
@@ -54,42 +48,42 @@ If one accepts that "the conventionally existent (俗有) is precisely what is n
 
 ### Upper Section
 
-"mind (consciousness) and objects both exist depending on the conventional"? If that (conventional co-existence) is accepted, it contradicts his own school's position.
+existence of conventional mind and object? If that (co-existence) is accepted, it contradicts his own position (自宗).
 
-**A:** Because (Bhāviveka) does not know the distinction Dharmapāla makes between the "conventional" (世俗) and the "ultimate" (勝義).
+A: Because he does not know the distinction between Dharmapāla's conventional-ultimate (世俗勝義) and (his) different (levels of the ultimate).
 
-**Q:** Bhāviveka's *Madhyamakahṛdayakārikā* (中観心論), in the chapter "Entering the True Nectar" (入真甘露品), says: "The ālaya-vijñāna (阿頼耶識) has no distinct self-nature. Because it is not encompassed by the six consciousnesses beginning with eye-consciousness (眼等六識). Like a sky-flower (空花)." What fault does this (syllogism) have?
+Q: In Bhāviveka's composed *Madhyamakahṛdayakārikā* (中観心論), in the "Chapter on Entering True Ambrosia" (入真甘露品), it is stated: "The ālayavijñāna (阿頼耶識) has no separate substance (*dharmatā*). Because it is not encompassed by the six consciousnesses of the eye-faculty, etc. Like a sky-flower." What fault does this have?
 
-**A:** Master Ximing (西明法師 — Woncheuk, 円測) interprets (this syllogism as having) faults in both the thesis (宗) and the reason (因). As to the thesis: if based on the ultimate (勝義), (one speaks of) "having no distinct nature" — (a fault arises). If "having no distinct nature" is stated with respect to the "conventional ultimate" (世俗の勝義), then there is the fault of "contradiction with sacred scripture" (聖教相違). Because it contradicts the *Saṃdhinirmocana-sūtra* (深密経) and other texts. Furthermore, (Bhāviveka) himself accepts that "in the conventional mode (世俗の門), form, sound, and other dharmas have distinct self-natures" — so the reason is also indeterminate (不定). There is also the fault of "indeterminate for the other" (他不定). In our (Dharmapāla's) school, the seventh consciousness (第七識) is not encompassed by the six consciousnesses (六識), yet has a distinct substance (別体). Therefore (the reason is indeterminate).
+A: The Xīmíng (西明, referring to the monk Yuance/Woncheuk, or alternately to a Ximing scholar) explains that both the thesis (宗) and reason (因) of this syllogism have faults. If "no separate nature" is (interpreted) on the basis of the ultimate (勝義), then if one says "no separate nature" in terms of conventional-ultimate (世俗勝義), there is the fault of "contradiction with sacred scripture" (聖教相違, *āgamaviruddha*), since it contradicts the *Saṃdhinirmocana-sūtra* (深密経) and others. Furthermore, Bhāviveka himself accepts that in the conventional mode (世俗門) dharmas such as form and sound have separate self-natures. The reason (hetu) is also indeterminate (不定, *anaikānta*). There is also "other-side indeterminacy" (他不定, *paravyabhicāra*). In our position (護法の宗), the Seventh Consciousness (末那識) is not encompassed by the six consciousnesses, yet it has a separate substance.
 
-Master Xīng (興法師) says there is the fault of "one-sided non-establishment of the reason" (因随一不成). Dharmapāla's school accepts that the ālaya-vijñāna is encompassed (摂) within the six consciousnesses (六識). If not, it would contradict the *Xiǎngyáng lun* (顕揚論), which says "the ālaya-vijñāna extends throughout the encompassment by the six consciousnesses." So Dharmapāla does not accept (this reason). This reason has the fault of "one-sided non-establishment" (随一不成). From this it is clearly known: the claim that Ximing's reason constitutes an "indeterminate" (不定) fault is definitely not the case. For full details, see *Biǎn liàng* (貶量), Chapter Ten.
+Master Xīng (興法師) explains: the reason has "one-sided non-establishment" (因随一不成, *ekadeśāsiddha*). According to Dharmapāla's position, the ālayavijñāna is accepted as encompassed within the six consciousnesses. If not, it would contradict the *Xiǎngyáng lun* (顕揚論, *Mahāyānasaṃgraha-*related text), which says "the ālayavijñāna is encompassed within the six consciousnesses." Thus Dharmapāla does not accept (the reason). This reason has "one-sided non-establishment." From this it is clearly known: the Xīmíng (master's) construction of the fault of "indeterminacy" (不定) in the reason is definitively without basis. For full details, see *Biǎn liàng* (貶量), Chapter Ten.
 
-**Q:** In a common inference (共比量), is there the fault of "indeterminate for the other" (他不定)? If one says "no," how is it that Tripiṭaka (Xuanzang)'s syllogism has (faults of) "indeterminate for oneself" (自不定) and "indeterminate for the other" (他不定)? If one says "yes," the reason "because of dependent arising" (縁生故) would then have the fault of "indeterminate for the other." (That is:) just as illusory phenomena (幻等) are dependently arisen, conditioned dharmas are empty — or, just as our (Dharmapāla's) eighth consciousness is dependently arisen, conditioned dharmas are not empty. How is this fault prevented?
+Q: In a common inference (共比量), can there be the fault of "other-side indeterminacy" (他不定)? If one says "no," how does the Tripiṭaka Master's (Xuanzang's) syllogism come to have "self-indeterminacy" (自不定) and "other-side indeterminacy" and so on? If one says "yes," then the reason "because of dependent origination" (*pratītyasamutpāda*) has "other-side indeterminacy": "Because things like illusions arise from conditions, conditioned dharmas are empty" — or "because the Eighth Consciousness (which we accept) arises from conditions, conditioned dharmas are not empty." How is this fault to be blocked?
 
-**A:** There is such an identification-fault (識過). Therefore (such syllogisms) are merely called "pseudo-inferences" (似比量). If one says "the eighth consciousness is not empty in true nature," this contradicts one's own school. Against such an objector: if so, (claiming that) "conditioned dharmas in true nature are empty" also contradicts one's own school. Both you and I mutually say that "regarding true nature, we do not speak of empty or not-empty." If (you claim that) in order to refute your attachment, (I) provisionally say "empty,"
-
-### Lower Section
-
-then I too, in order to refute your attachment, provisionally say "not empty." How can (you) escape this fault (and yet I cannot)?
-
-**Q:** If both schools (清弁・護法) equally say "true nature" (真性), yet do not mutually accept the meaning of "empty" and "not-empty" — so it is called "non-establishment" (不成) — then both schools equally say "sound" (声) yet do not mutually accept "permanent" and "impermanent." There should be the fault of "non-establishment" (不成).
-
-**A:** "Permanent" and "impermanent" are not the intrinsic meaning (正義) of "sound." Only the meaning of "having resistance" (質礙, *sapratigha*) is the proper meaning of sound. The meaning of "permanent and impermanent" is a secondary meaning (別義) of sound, not its proper meaning (正義). Therefore they cannot be treated as analogous.
-
-**Q:** The proper meaning (正義) of "true nature" (真性) is the meaning of "neither empty nor existent" (非空非有). Yet there are the "two meanings of empty and existent." From the perspective of the secondary meaning (別義) over which (the two schools) dispute, how does this stand? The syllogism "sound is impermanent" has no fault of "non-establishment of one part of the subject-term" (有法一分不成). (You say:) "Like true nature, therefore." 
-
-**A:** For Bhāviveka, the meaning of "empty" (空の義) is the proper meaning (正義) of "true nature" (真性). (Therefore) the subject-term is not universally established (極成). Hence there is a "one-part fault" (一分過). The syllogism of sound is not like this, so they cannot be treated as analogous.
-
-**Q:** How does one know that "the meaning of resistance (質礙) is the proper meaning of sound"?
-
-**A:** In the category of the five aggregates (五蘊の門), the "meaning of resistance" is the same (for sound and form). Sound is therefore encompassed within the form-aggregate (色蘊). By this reasoning, it is clearly known that the proper meaning of sound is the meaning of resistance.
+A: There is precisely this fault of the (Eighth) Consciousness. Hence it is called a "fallacious syllogism" (似比量, *abhāsānumāna*). If one says "the Eighth Consciousness of true nature is not empty," this violates one's own position (自宗). For one who objects in this way: if so, "conditioned dharmas are empty in true nature" also violates one's own position. Since both you (Bhāviveka) and I (Dharmapāla) together say that in terms of true nature one does not speak of "empty or not-empty," if
 
 ---
 
-## Section Two: Resolving the Faults of the Tripiṭaka Master Xuanzang's Consciousness-Only Syllogism (玄奘三蔵唯識比量淨過決第二)
+### Lower Section
 
-**The Tripiṭaka Master (Xuanzang) traveled throughout the Western Regions (西域) and, responding to the invitation of King Harṣavardhana (戒日王), established the Consciousness-Only syllogism (唯識比量) as follows:**
+(you) say "empty" for the purpose of breaking your (opponent's) attachment, then I likewise say "not-empty" only for the purpose of breaking your attachment. How can (you) escape this fault?
 
-"Form that is universally established in truth (真故極成の色) is not separate from eye-consciousness (眼識). [Thesis] Because of what is self-admitted (自許) as belonging to the first three (categories), (which is) encompassed by the eye (眼所摂) but not encompassed (by the eye-consciousness itself, though it serves as its object condition) (初三摂眼所不摂). [Reason] Like eye-consciousness itself (眼識). [Example]"
+Q: If both positions (二宗, Bhāviveka and Dharmapāla) equally say "true nature" (真性) yet do not commonly accept the meaning of "empty" or "not-empty," and this is called "non-establishment" (不成), then (by analogy,) since both positions equally say "sound" (声) yet do not commonly accept whether it is "permanent" (常) or "impermanent" (無常), there ought to be a fault of "non-establishment."
 
-**Explanation:** The phrase "because of truth" (真故) contains two qualifications (簡別, *viśeṣaṇa*). The first indicates "conventional ultimate truth" (世俗の勝義), excluding the fault (of non-establishment) arising from "non-scholarly worldly (understanding)" (非学世間). The second, "based on the superior meaning of the Great Vehicle" (大乗の殊勝な義), excludes the "worldly fault of Hīnayāna scholars" (小乗の学者の世間過). The reason for this is as follows: "Worldly" (*laukika*, 世間) has two kinds. The first is "non-scholarly worldly" (非学世間) — the worldly understanding commonly accepted by people other than scholars (practitioners). The second is "scholarly worldly" (学者世間) — the coarse dharmas known to the various scholars (practitioners). If the profound and subtle (dharmas)...
+A: "Permanent" or "impermanent" is not the intrinsic meaning (正義) of "sound." Only the meaning of "material resistance" (質礙義, *sapratighatva*) is the proper intrinsic meaning (正義) of sound. The meaning of "permanent" or "impermanent" is a secondary meaning (別義) of sound, not its primary intrinsic meaning — hence they cannot be treated as analogous cases.
+
+Q: The intrinsic meaning of "true nature" is the meaning of "neither empty nor existent" (非空非有). Yet "empty" and "existent" are two meanings derived from the secondary, contested meaning (諍の別義). How, then? The syllogism "sound is impermanent" has no fault of "partial non-establishment with respect to the predicate-dharma" (法一分不成過). Since it is like "true nature" — (should not "true nature" also have no such fault)?
+
+A: Bhāviveka's meaning of "empty" is taken as the intrinsic meaning of "true nature," so the subject-term (有法) is not "established in common" (極成, *prasiddha*) — hence there is a "partial fault" (一分過). The syllogism about sound is not like this — hence they cannot be treated as analogous cases.
+
+Q: By what (evidence) does one know that "material resistance" (質礙義) is the intrinsic meaning of sound?
+
+A: Because within the category of the Five Aggregates (*pañca-skandha*), the meaning of "material resistance" is common (to all matter/色), and sound is accordingly encompassed within the aggregate of form (色蘊, *rūpa-skandha*). By this principle it is clearly known: the intrinsic meaning (正義) of sound is the meaning of material resistance (質礙義).
+
+---
+
+## Section Two: Resolving the Faults of Xuanzang Tripiṭaka's Consciousness-Only Syllogism (玄奘三蔵唯識比量淨過決 第二)
+
+The Tripiṭaka Master (Xuanzang) traveled throughout the Western Regions (西域) and, at the invitation of King Harṣa (戒日王), established the Consciousness-Only syllogism, saying: "Form established-in-common in the ultimate sense (真故極成色) does not depart from eye-consciousness (眼識). (Thesis.) Because it is self-accepted as being encompassed within the first three (sense-fields), not encompassed by the eye-faculty. (Reason.) Like eye-consciousness itself. (Example.)"
+
+Explanation: The phrase "in the ultimate sense" (真故) contains two qualifications (簡別, *viśeṣaṇa*). First, it points to "conventional ultimate" (世俗勝義), to exclude the fault of the "non-learning worldly person" (非学世間). Second, it relies on the "distinctive ultimate of the Great Vehicle" (大乗殊勝義), to exclude the fault of "the worldly level of Hīnayāna learners" (小乗学者世間). The reason for this is as follows: "World" (世間) has two (types). The first is the "non-learning world" (非学世間), namely the laws commonly accepted by the worldly persons remaining after all learners/practitioners are excluded. The second is the "learners' world" (学者世間), namely the coarse dharmas known by all practitioners. If (the dharmas are) deep and subtle,

@@ -51,10 +51,10 @@ filename	status	image
 050.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F050.tif/info.json
 051.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F051.tif/info.json
 052.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F052.tif/info.json
-053.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F053.tif/info.json
+053.txt	editing	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F053.tif/info.json
 054.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F054.tif/info.json
-055.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F055.tif/info.json
-056.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F056.tif/info.json
+055.txt	editing	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F055.tif/info.json
+056.txt	editing	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F056.tif/info.json
 057.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F057.tif/info.json
 058.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F058.tif/info.json
 059.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F250_a_03%2F059.tif/info.json

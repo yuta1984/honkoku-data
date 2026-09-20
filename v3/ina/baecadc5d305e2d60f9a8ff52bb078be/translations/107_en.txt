@@ -1,45 +1,34 @@
-[Right Section]
+[Right folio]
+Memorandum
 
-Notice/Record
+(Goyōtashi — Officially designated merchants/suppliers):
+　Miyazawa Rokubei
+　Ikegami Honzaemon
+　Ikegami Riemon
 
-　　Miyazawa Rokubei
-　　Ikegami Motoizaemon
-　　Ikegami Riuemon
-　　　　(Recipients of domain stipend/support)
+Oshiokurioki-narabi (Stipend recipients with sword-wearing privilege):
+　Kasuga Matazaemon
 
-　　Kasuga Mataizaemon
-　　　　(Lifetime permission to wear swords)
+Permanent sword-wearing privilege (Einen taitō):
+　Komatsu Kichiemon
 
-　　Komatsu Kichiuemon
-　　　　(Same as above)
+Same as above (permanent sword-wearing privilege):
+　Kobayashi Tōsuke
 
-　　Kobayashi Tōsuke
-　　　　(Permission to wear swords)
+Sword-wearing privilege (taitō):
+　Itō Jizaemon
 
-　　Itō Jiuemon
+Representatives (Chōdai) of the Ten Districts:
 
-Representatives (Chōdai) of the Yokochō district:
+　Yokochō　　　　Toshichi
+　Shimizuchō　　　Jūbei
+　Fukurochō　　　Yoemon
+　Hokomochichō　　Jūsaburō
+　Shimomochō　　　Jūemon
+　Serichō　　　　　Magohachi
+　Nakachō　　　　 Kyūemon
+　Honchō　　　　　Shōzō
+　Shimorichō　　　Jimpachi
 
-　Yokochō district
-　　　Richi (Toshichi)
-　Shimizuchō district
-　　　Jūbei
-　Fukurochō district
-　　　Youemon
-　Hokomochicho district
-　　　Jūsaburō
-　Shimomochō (Shimo-no-chō) district
-　　　Jūuemon
-　Seirichō district
-　　　Mahachi (Magohachi)
-　Nakachō district
-　　　Kyūuemon
-　Honchō district
-　　　Shōzō
-　Shimosatochō district
-　　　Jihachi (Jimbachi)
-
-Town Representative (Chōdai):
-
-　Iseya (shop name)
-　　　Kokichi (Koketchi)
+District representative (chōdai):
+　Iseya　　　　　　Kokeshichi

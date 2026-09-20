@@ -2,23 +2,23 @@
 
 　　　Memorandum
 
-One: 1 bu — Hokomochi-machi district, Cooper: Aji
-One: 1 bu — Same district, Same [trade]: Yohei
-One: 1 bu — Shimosato-machi district, Apprentice of Takeshichi, Same [trade]: Zentarō
-One: 1 bu — Shimoshige-machi district, Same [trade]: Yazaemon
-One: 1 bu — Same district, Same [trade]: Zentarō
-One: 1 bu — Fukuro-machi district, Same [trade]: Kihei
-One: 2 shu — Same district, Same [trade]: Tōzaemon
-　　　　　　　　　(Half-rate reduction)
-One: 1 bu — Shimizu-machi district, Same [trade]: Jihachi
-One: 1 bu ○ Seri-machi district, Same [trade]: Rihei
-　　　　　　　(To be guaranteed / Through the 6th month, petition from Jioka village, [matter] settled ■)
-One: 1 bu — Yoko-machi district: Sakubei
+One: 1 bu [gold] —ほこもち-machi district, Cooper: Aji
+One: 1 bu — Same district, Same [cooper]: Yohei
+One: 1 bu — Shimosato-machi district, Apprentice of Takeshichi, Same [cooper]: Zentarō
+One: 1 bu — Shimomo-machi district, Same [cooper]: Monzaemon
+One: 1 bu — Same district, Same [cooper]: Kichitarō
+One: 1 bu — Fukuro-machi district, Same [cooper]: Kihei
+One: 2 shu [gold] — Same district, Same [cooper]: Tōzaemon
+　　　　　　　(half-rate artisan)
+One: 1 bu — Shimizu-machi district, Same [cooper]: Jinpachi
+One: 1 bu ◯ — Seri-machi district, Guaranteed by Musashi, Same [cooper]: Rihei
+　　　　　　　[Note: 5th month of the Year of the Snake — petition from Jioka [?] village — officially resolved ■]
+One: 1 bu — Yoko-machi district, Sakubei
 One: 1 bu — Apprentice of the same person: Yoshizō
 One: 1 bu — Seri-machi district, Stonemason: Ichibei
 One: 1 bu — Shimosato-machi district, Apprentice of Takeshichi, Cooper: Seigōrō
-One: 1 bu — Apprentice of the same person, Cooper: Matsujirō (Fumi [?])
+One: 1 bu — Apprentice of the same person, Cooper: Matsujirō [文]
 
-Total: 1 ryō, 1 bu, 2 shu
+Total: 1 ryō, 1 bu, 2 shu [gold]
 
-The above represents the calculation of the artisans' tax (unjo) collected in this town; it stands as stated above. Respectfully submitted.
+The above represents the collected tax assessment (un'jō) for all artisans of this town, calculated as stated. Respectfully submitted.

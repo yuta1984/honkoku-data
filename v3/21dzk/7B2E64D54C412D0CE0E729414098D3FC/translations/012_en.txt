@@ -1,0 +1,75 @@
+## Right Page (p. 118, Section 22)
+
+### Upper Section
+
+(Deep and subtle) dharmas are not (matters belonging to the) "world." Relying on the first (type), namely "non-learning conventional (understanding)," the ultimate truth (*paramārtha*) becomes the "deep and subtle dharma." Relying on the latter, namely "learners (' world)," the distinctive ultimate of the Great Vehicle becomes the "deep and subtle dharma." Since, according to each appropriate (party), these are not things (commonly) known (to both sides), there is no fault of "contradicting the world" (*lokavipratyanīka*).
+
+The term "established-in-common" (極成, *prasiddha*) serves to exclude (簡別, *viśeṣaṇa*) "color that is not established-in-common," and it has two qualifications. First, it excludes "the unwholesome form of Hīnayāna final-birth bodhisattvas" and "the defiled (*sāsrava*) form of all Buddha-bodies, etc.," thereby excluding the fault of "non-establishment of the subject's predicate-qualifier on one's own side" (自一分所別不成). Second, it excludes "the form of the ten-direction Buddhas of the various Great Vehicle (traditions)" and "the undefiled (*anāsrava*) form of Buddhas, etc.," thereby excluding the fault of "non-establishment of the subject's predicate-qualifier on the other side" (他一分所別不成). When one establishes these forms as being "consciousness-only" (*vijñaptimātra*), various faults would arise — hence one uses "established-in-common" to qualify those forms.
+
+The reason the hetu (理由) states "self-accepted" (自許, *svābhimata*) is to exclude the Hīnayāna fault of "contradiction with the qualification of the subject-term" (有法差別相違, *dharmivišeṣaviruddha*). If the hetu did not say "self-accepted," the Hīnayāna (opponent) would immediately construct a "qualification-contradiction" (差別相違) saying: "Form established-in-common ought not to be (that which) does not depart from eye-consciousness. Because form is encompassed within the first three (sense-fields) and not encompassed by the eye-faculty. Like eye-consciousness." In order to exclude this fault, (the syllogism) states "self-accepted."
+
+Furthermore, against the "expanded syllogism" (披比量), one constructs an "indeterminacy" (不定, *anaikānta*) saying: "Is established-in-common form — because eye-consciousness is encompassed within the first three sense-fields and not encompassed by the eye-faculty — (therefore) not a form that departs from eye-consciousness? Or is it — because the form of Buddhas in other directions, which is self-accepted (as existing), is encompassed within the first three and not encompassed by the eye-faculty — a form that does not depart from eye-consciousness?" If the hetu did not state "self-accepted," one could not use "form of Buddhas in other directions" as an "indeterminacy," because the common hetu could not be transferred to apply to the self-accepted example. 
+
+"Encompassed within the first three" (初三摂) serves to qualify (and thereby exclude) the faults of "indeterminacy" and "contradiction with the thesis." Furthermore, "not encompassed by the eye-faculty" (眼所不収) also raises questions of "indeterminacy" and "definitively contrary to the subject's own nature" (法自相決定相違). These various faults are expounded in detail as shown in the commentary (*shū*). "Like eye-consciousness" (猶如眼識): because eye-consciousness itself does not depart from eye-consciousness, it can serve as the example.
+
+### Lower Section
+
+**Section One: Deciding (the Meaning of) "True Hence" (真故決 第一)**
+
+Q: The distinctive ultimate (*viśeṣārthatā*) of the Great Vehicle is not accepted by the Hīnayāna. How can a law not commonly accepted (by both parties) be used as a qualifying restriction (簡別)?
+
+A: There are two meanings. First, there is (the fact that) what is originally present in the Great Vehicle is also accepted by Hīnayāna. The present deep and subtle dharmas of the Great Vehicle are not within the knowledge of Hīnayāna practitioners — hence the qualifying restriction is invoked to exclude the fault of the "learner's world." Second, (Xuanzang) had already, by means of thirty syllogisms, established that the Great Vehicle sūtras are the word of the Buddha. Hence the qualifying restriction is established (on that basis).
+
+Q: Relying on "worldly ultimate truth" (世間勝義), there are three levels. On which of these levels is Consciousness-Only established?
+
+A: The three levels of conventional-ultimate (世俗勝義) all rely on the "gate of expression" (*quán mén*, the linguistic/conceptual approach) to reveal dharmas — hence, relying on each of the three levels, one establishes in all cases "Consciousness-Only, the Three Categories (*tridhātu*), the Four Noble Truths, the Two Kinds of Emptiness, thusness (*tathatā*), etc." Since none of these departs from mind, they are called "Consciousness-Only." The fourth level (of the ultimate) abandons expression (*quán*) and directly addresses the intent (*zhǐ*) — hence relying on this gate, one does not establish "Consciousness-Only," because "Consciousness-Only" transcends the gate of its own expression.
+
+Q: Do the two characters "真故" (true hence) enter into the subject-term (有法, *dharmin*)?
+
+A: They do not.
+
+Q: If so, how does the commentary (*shū*) say "the subject-term is called *true*" (有法言真)?
+
+A: In the course of interpreting the passage, a separate doubt arises with respect to the text. I now consider: at the place where "极成色 (established-in-common form) is the subject-term," one says "真故 (true hence), etc." — from this it is clearly known that (the syllogism) is established relying on the ultimate, not relying on the conventional, and the "真故" is named "pertaining to the subject-term" (有法) because it displays the qualifying restriction. "真" (true) is said (in that context), but it does not function as the subject-term itself. The term "真性" (true nature) in the *Zhǎngzhēn lun* (掌珍論) can be understood following this same principle. If all qualifying-restriction expressions were to count as "subject-terms," then expressions such as "your attachment etc." would all have to be "subject-terms." If that were accepted, it would violate (the rule that): "the inseparable nature of predicate and subject-term is what is called 'establishing the thesis (*pakṣa*), etc.'" (And so on.)
+
+Q: If "真故" (true hence) (denotes) the distinctive ultimate of the Great Vehicle, this syllogism ought to be a "self-inference" (自比量, *svārthānumāna*). How then can it be called a "common inference" (共量, *sādhāraṇānumāna*)?
+
+A: The single expression "真故" contains two intentions. First, relying on the ultimate (勝義), it qualifies out the fault of the "non-learning (world)." Second, relying on the distinctive ultimate of the Great Vehicle (大乗殊勝義), it qualifies out
+
+---
+
+## Left Page (p. 119, Section 23)
+
+### Upper Section
+
+the fault of the "learner (world)." The reason is as follows: naming the deep truth of form (色) as the "distinctive ultimate" (殊勝義) is something both Great Vehicle and Hīnayāna commonly accept. The (syllogism) is now established relying on the Great Vehicle's distinctive ultimate of the depth of form, not relying on Hīnayāna. Hence this is precisely a common inference (共量), not a self-inference (自比量).
+
+Q: If by means of the expression "真故" one jointly qualifies out two faults, does the expression "真性" also jointly qualify out two faults?
+
+A: In the *Zhǎngzhēn lun* (掌珍論), it only says in general terms that it "qualifies out the fault of contradicting the world," without specifying "two worldly faults." However, following the meaning, one can also say it qualifies out two faults.
+
+Q: Bhāviveka's syllogism qualifies out "真性" (true nature): one (party, Dharmapāla) accepts it as empty, the other (party, Bhāviveka) accepts it as existent. Since they mutually do not accept each other's meaning of "empty" or "existent," one portion of the meaning within the subject-term is not established (一分不成). From this, that (Bhāviveka's) syllogism has the fault of "non-establishment of one portion of the subject-term" (有法一分不成). By the same token, the Consciousness-Only syllogism now being established should also have the fault of "non-establishment of one portion of the subject-term." The reason is as follows: When "真性" is explicitly stated, both Bhāviveka's and Dharmapāla's schools each say "真性" (true nature), but they mutually do not accept each other's meaning of "empty" or "existent" — hence one speaks of "one portion non-establishment." When "真故" is explicitly stated, both Hīnayāna and Great Vehicle schools say "真故" (true hence) in common, but "the meaning that form is identical (with mind)" and "the meaning that form is separate (from mind)" are mutually not accepted — hence there ought to be the fault of "non-establishment of one portion of the subject-term." If (one says) "真性," one school says "(that which is) identical with emptiness" and the other school says "(that which is a) wondrous existent." If (one says) "真故," (it) relies on the distinctive ultimate of the Great Vehicle and also relies on the ultimate, not on the conventional — hence (the two cases) cannot be treated as analogous. (But to this one may counter:) the Hīnayāna school says "according to the true principle, form and mind are always separate." The Great Vehicle school says "by means of the distinctive ultimate, form and mind are always not separate." Therefore, just as before, there ought to be a fault of "one-portion non-establishment." Since this (case) is already not (subject to that fault), how can that (other case) be?
+
+A: This objection had not previously been resolved. I now consider: the "真性" syllogism uses a "non-established-in-common dharma" (*aprasiddha dharma*) as the subject of the qualifying restriction — hence, because the qualifying restriction is poor (悪), the subject-term has a fault. The "真
+
+### Lower Section
+
+故" syllogism uses a dharma "established-in-common" (*prasiddha*) as the subject of the qualifying restriction — hence, because the qualifying restriction is good (善), the subject-term has no fault. Therefore (the two cases) do not contradict (each other).
+
+---
+
+**Section Two: Deciding (the Meaning of) "Established-in-Common Form" (極成色決 第二)**
+
+Q: "Established-in-common form" (極成色) — if this means the "original-substance form" (本質色, the actual external object), then eye-consciousness ought to apprehend objects external to the mind. If it means "reflected-image form" (影像色, the image within consciousness), then the Hīnayāna school says "the reflected image is precisely the cognitive aspect (*ākāra*)" — so the thesis (*pakṣa*) would commit the fault of "corresponding to what is already established" (相符過, *pakṣābhāsa*).
+
+A: "Established-in-common form" (極成色) is precisely the "original-substance form." The Hīnayāna says the original substance (*mūlavastu*) is the "object-condition" (*ālambana-pratyaya*) and therefore accepts that the mind can apprehend objects external to the mind. Now, with respect to this form, (the syllogism) is called "(that which) does not depart from eye-consciousness."
+
+Q: By what (evidence) does one know that, according to the Great Vehicle's intent, even the original-substance form does not depart from eye-consciousness?
+
+A: The eye-consciousness of a bodhisattva with (supernormal) power takes the (sense) faculty (根, *indriya*) as its object; and the wisdom of accomplishing actions (成所作智, *kṛtyānuṣṭhānajñāna*) also universally takes the eye-faculty as its object. Could the "indirect object-condition" (疎所縁縁, *parokṣa-ālambana-pratyaya*) and the perceiving eye-consciousness be mutually separate? From this it is clearly known: the original-substance form, which is the indirect object-condition, also does not depart from eye-consciousness.
+
+Q: Since "established-in-common / not established-in-common" is applied with respect to the form that is the *object* of cognition (所縁の色), is "established-in-common / not established-in-common" also applied with respect to eye-consciousness as the *subject* of cognition (能縁の識)?
+
+A: Eye-consciousness as the subject of cognition also (admits of) "established-in-common / not established-in-common." The defiled eye-consciousness of all Buddha-bodies is what the Great Vehicle regards as "not established-in-common." The eye-consciousness of Buddhas in the ten directions, and the undefiled eye-consciousness of Buddhas, is what the Hīnayāna regards as "not established-in-common." If stated fully, one should say "form established-in-common in the ultimate sense (真故極成色) does not depart from eye-consciousness established-in-common (極成眼識), etc." — but the text abbreviates this for brevity's sake. If it were not so, it would commit the faults of "one-sided non-establishment of the predicate-qualifier on one's own side and the other side" (自他一分能別不成等の過失).
+
+Q: The expression "existent nature" (有性, *sat*) is commonly accepted by both proponent and opponent, yet through the "challenge via the predicate-dharma" (能別難), because (the reason states) "departing from real existence" (*dravyasattva*), there arises the fault of "contradiction with the intrinsic nature of the subject-term" (有法自相相違, *dharmyātmaviruddha*). (By analogy,) the expression "established-in-common form" (極成色) is also commonly accepted by both proponent and opponent, yet through the "challenge via the predicate-dharma," (namely) "because it is form identical with consciousness" (即識色故), there ought (likewise) to be (this fault).

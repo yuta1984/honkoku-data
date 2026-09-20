@@ -1,27 +1,57 @@
-According to the "Honzo Wamyo" (Japanese Names for Medicinal Herbs):
-Tiger cane [alternative names] bitter cane, great insect cane, spotted cane, sour cane [Japanese name] itadzuri
+---
 
-The "Kyuko Yafu" (Famine Relief Field Guide) states:
-Vinegar-tube grass (itadori) grows by the waters of lakes and rivers. Its leaves resemble those of cotton rose hibiscus but it is a different plant.
+**From the *Honzō Wage* (Japanese Explanation of the Materia Medica):**
 
-The "Kyuko Honzo" (Famine Relief Materia Medica) states:
-Sour-tube shoots (itadori)
+**Hujang** (虎杖, *Kojō*; Japanese knotweed, *Reynoutria japonica*)
+- Alternative names: Kujō (Bitter Staff), Daichūjō (Great Worm Staff), Hanjō (Spotted Staff), Sanjō (Sour Staff)
+- Japanese name: *Itadzuri* (伊多豆里)
 
-In the "Bencao Gangmu" it says that tiger cane flowers in the seventh month and I hear that the flower shape resembles peach blossoms, but this entry says the flowers resemble chrysanthemums, which is questionable.
-The "Shu Bencao" says the tree height is over one zhang, but Kou Zongshi doubts this and considers it incorrect. I think this is because what grows differs according to the locality. Is it only tiger cane that varies thus?
+---
 
-Written on the first day of the eighth month of the year Kinoto-Tori
+**From the *Kyūkō Yafu* (Wild Plants for Famine Relief):**
 
-Illustration of tiger cane tender stems (young shoots of itadori)
+**Sōtōsō** (*Itatori*): Grows along the waterways of the Hu-Xiang (Hunan/Xiang River) region. Its leaves resemble those of the woody *hibiscus* (*Hibiscus mutabilis*), but it is a different plant. [Note: this point requires further investigation.]
 
-The "Wamyo Ruiju-sho" states: The "Bencao" says
-Tiger cane, also called martial cane [Japanese name] itadori
+---
 
-The "Imyo Bunrui-sho" (Classification of Alternative Names) states:
-Two-leaf red leaf [tachihi]
+**From the *Kyūkō Honzō* (Materia Medica for Famine Relief):**
 
-The "Hansei-ki" (Record of Emperor Hansei) states: There was a well called the Auspicious Well. When they drew from it to bathe the prince, tachihi flowers had fallen into the well, so the prince was named Tachibana (many-delayed flower). This is what we now call tiger cane, etc.
+**Santōjun** (*Itadori*)
 
-In the "Yamato Honzo," Shizhen says that "cane" refers to the stem, and "tiger" refers to the spots.
-In Sei Shonagon's "Makura no Soshi" (Pillow Book), she writes "itadori is written as 'tiger's cane.' It could do without the cane part - how presumptuous of it!" This is playful talk.
-Old tiger cane should be used as a walking stick. It is very light, but it breaks easily.
+　According to the *Bencao Gangmu* (Compendium of Materia Medica), *Hujang* blooms in the seventh month, and upon inquiry, its flowers are said to resemble those of the peach — but this account is inconsistent with other entries. The statement that its flowers resemble the chrysanthemum is also suspicious and uncertain.
+　The *Shu Bencao* states that the plant grows to over one *zhang* (approx. 3 meters) in height, but Kou Zongshi doubted this and held that it is not so.
+　In all likelihood, variation according to region of production is by no means unique to *Hujang* alone (this is true of many plants).
+
+**Written on the first day of Nanryo (eighth lunar month) in the year of Kinototori (Yiyou)**
+
+---
+
+## Illustration of *Itadori* Young Shoots (虎杖嫩茎)
+
+---
+
+**From the *Wamyō Ruijushō* (abridged edition):**
+
+　　Hujang (虎杖)
+
+**From the *Honzō ■*:**
+
+　　Hujang (虎杖); also named *Wuzhang* (武杖); Japanese name: *Itadori* (伊太止里)
+
+---
+
+**From the *Imyō Bunruishō* (Classified Collection of Alternative Names):**
+
+　　*Futaba momiji* — [reading:] *Tachihi*
+
+---
+
+　From the *Hanzei-ki* (Chronicle of Emperor Hanzei): "There was a well here, called the *Mitsui* (Auspicious Well). When the Crown Prince was washed with its water, *tachihi* flowers fell into the well. Because of this, the Prince was named *Tachihana no Hana* (多遅花). What is today called *itadori* (虎杖) is that same plant." And so on.
+
+---
+
+　In the *Yamato Honzō*, [Li] Shizhen states: "*Zhang* (杖, 'staff') refers to the stem; *hu* (虎, 'tiger') refers to the speckled markings [on the stem]."
+
+　〇 In Sei Shōnagon's *Pillow Book* (*Makura no Sōshi*), it is written: "*Itatori* is written with the characters for 'tiger's staff' (虎杖). It seems it could do without the 'staff' — for it is rather slender and graceful." This is said in jest.
+
+　The mature *itadori* ought to be usable as a walking staff — it is extremely light. However, it breaks easily.

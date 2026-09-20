@@ -1,49 +1,49 @@
 【Left folio】
 
-Memorandum
+　　　Memorandum
 
-　　　Konmochi-machi district
-One: 1 bu — Cooper
+　　　　　Hokomochi-machi district
+One: 1 bu — Cooper (barrel-maker)
 　　　　　　　Umeji
 
-　　　Same district
+　　　　　Same district
 One: 1 bu — Cooper
-　　　　　　　Yohei
+　　　　　　　Yohee
 
-　　　Shimono-machi district
+　　　　　Kudari-machi district
 One: 1 bu — Apprentice of Takeshichi
-　　　　　　　Zentarō □ [character illegible]
+　　　　　　　Zentarō
 
-　　　Shimono-machi district
+　　　　　Shimo-mo-machi district
 One: 1 bu — Cooper
 　　　　　　　Bunzaemon
 
-　　　Same district
+　　　　　Same district
 One: 1 bu — Cooper
 　　　　　　　Kichitarō
 
-　　　Fukuro-machi district
+　　　　　Fukuro-machi district
 One: 1 bu — Cooper
-　　　　　　　Kihei
+　　　　　　　Kihee
 
-　　　Same district
+　　　　　Same district
+One: 2 shu — Cooper
+　　Note: half-reduction — Tōzaemon
+
+　　　　　Shimizu-machi district
 One: 1 bu — Cooper
-　　　Note: half reduction — Tōzaemon [Fujizaemon]
+　　　　　　　Tsukuhachi
 
-　　　Shimizu-machi district
-One: 1 bu — Cooper
-　　　　　　　■hachi [first character illegible]
+　　　　　Seri-machi district — Cooper
+One: 1 bu — Musashi migrant worker
+　　　　　　　Rihei
 
-　　　Seri-machi district, Cooper
-One: 1 bu — Minzō-Echishoku [mixed public duty of Minzō]
-　　　　　　　Riheiwa
-
-　　　Same district
+　　　　　Same district
 One: 1 bu — Stonemason
-　　　　　　　Tsunezaemon
+　　　　　　　Ichiemon
 
-　　　Yoko-machi district
-One: 1 bu — Cooper
-　　　　　　　Sakubei
+　　　　　Yoko-machi district
+One: 1 bu — Tatami craftsman
+　　　　　　　Sakubee
 
-Total: 2 monme, 2 bu, 2 shu
+Total: 2 ryō, 2 bu, 2 shu
