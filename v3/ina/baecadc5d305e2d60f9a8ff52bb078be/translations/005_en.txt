@@ -5,16 +5,17 @@
 　　　　　Hokomochi-machi district
 One: 1 bu — Cooper (barrel-maker)
 　　　　　　　Umeji
+　　　　　　　　　[Three seals affixed]
 
 　　　　　Same district
 One: 1 bu — Cooper
-　　　　　　　Yohee
+　　　　　　　Yohei
 
 　　　　　Kudari-machi district
 One: 1 bu — Apprentice of Takeshichi
 　　　　　　　Zentarō
 
-　　　　　Shimo-mo-machi district
+　　　　　Shimo-machi district
 One: 1 bu — Cooper
 　　　　　　　Bunzaemon
 
@@ -24,18 +25,18 @@ One: 1 bu — Cooper
 
 　　　　　Fukuro-machi district
 One: 1 bu — Cooper
-　　　　　　　Kihee
+　　　　　　　Kihei
 
 　　　　　Same district
 One: 2 shu — Cooper
-　　Note: half-reduction — Tōzaemon
+　　　　　　　Note: half-reduction applied — Tōzaemon
 
 　　　　　Shimizu-machi district
 One: 1 bu — Cooper
 　　　　　　　Tsukuhachi
 
 　　　　　Seri-machi district — Cooper
-One: 1 bu — Musashi migrant worker
+One: 1 bu — [Craftsman from] Musashi Province (itinerant worker)
 　　　　　　　Rihei
 
 　　　　　Same district
@@ -43,7 +44,7 @@ One: 1 bu — Stonemason
 　　　　　　　Ichiemon
 
 　　　　　Yoko-machi district
-One: 1 bu — Tatami craftsman
-　　　　　　　Sakubee
+One: 1 bu — Tatami-maker
+　　　　　　　Sakubei
 
 Total: 2 ryō, 2 bu, 2 shu

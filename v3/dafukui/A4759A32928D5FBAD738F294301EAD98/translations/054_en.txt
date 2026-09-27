@@ -1,0 +1,13 @@
+| Land Type | Area | Assessed Yield (Kokudaka) | Landholder |
+|-----------|------|--------------------------|------------|
+| Upper-grade field (upland) | 1 tan 6 se | 1 koku 9 to 2 shō | Shinzaemon |
+| Mulberry field | 2 se 24 bu | 3 to 6 shō | Jinzaemon |
+| Upper-grade field (upland) | 2 tan 2 se 12 bu | 2 koku 6 to 8 shō 8 gō | Same person |
+| Mulberry field | 6 se 9 bu | 9 to 4 shō 5 gō | Jinzaemon |
+| Upper-grade field (upland) | 4 tan 8 se 3 bu | 5 koku 7 to 4 shō 6 gō | Same person |
+| [Verification seal: "Fukuju"] | | | |
+| Upper-grade field (upland) | 21 bu | 8 shō 4 gō | Yasuke |
+| Upper-grade field (upland) | 2 se 21 bu | [yield figures illegible] | Jinzaemon |
+| Upper-grade field (upland) | 1 tan 24 bu | 1 koku 2 to 9 shō 6 gō | Same person |
+| Residential plot (yashiki) | 1 se 9 bu | 1 to 9 shō 5 gō | Ue (?) |
+| Upper-grade field (upland) | 5 se 3 bu | 6 to 3 shō 6 gō | Jinshirō |

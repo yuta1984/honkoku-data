@@ -1,24 +1,76 @@
-61 buildings ○ Samurai residences: 20,148 buildings ○ Shrines and temples combined: 12,125 locations ▲ Burned and damaged storehouses ○ Official residences: 239,379 ○ Temple quarters: 8,948 ○ Townhouses: 114,652 ・ Total: 362,979 locations. Among these, the gold, silver, treasures, clothing, and furnishings consumed in the fires were completely destroyed in an instant, turning everything into scorched earth and wasteland - truly a lamentable disaster. ○ Afterwards, earthquakes continued to occur frequently day and night, causing people great fear. Someone spread the rumor that "there will certainly be a severe earthquake tonight," and this spread throughout the populace without anyone knowing who started it. To avoid this calamity, people used sliding doors as roofs in any open spaces at street corners, or enclosed themselves with baggage and folding screens, spreading straw mats below to camp outdoors. This was widespread throughout the towns. However, nothing significant happened thereafter, so people returned to their homes around mid-October. But those who lost their homes to fire had nowhere to return, so they remained in makeshift huts covered with straw mats, and one can imagine their hardships during heavy rains. Therefore, the government built relief huts for the destitute and issued an official notice that people could apply as needed. The homeless gathered there, receiving daily rice distributions and carrying on their livelihoods - truly grateful mercy of this benevolent era.
+[Right folio]
 
-Relief hut locations: Yukibashi Gate vicinity, Asakusa Hirokoji; Fukagawa seaside new fields, same Hachiman shrine grounds; Below Ueno mountain, from Ueno shrine to same location. (Total number of Edo districts: 3,818 towns)
+(Continued from previous page) — Burned: 61 buildings. ○ Samurai residences: 20,148 buildings. ○ Shrines and temples combined: 12,125 sites.
 
-Records of major earthquakes and tsunamis from ancient times to the present year of Ansei 2 (1855), as found in old documents:
-Hakuho 5 (1180): Over 50 koku of farmland in Tosa became sea
-Same 6 (1179): Izu Oshima island formed
-Same 11 (1174): Shrines and temples collapsed without wind
-Same 12 (1173): Great earthquake throughout the realm, many people and horses died
-Keiun 4 (1157): Great earthquake throughout the realm in 6th month
-Tempyo 6 (1151): Great earthquake throughout the realm in 4th month
-Same 17 (1140): Great earthquake throughout the realm continued for over a month
-Shoho 5 (1134): Great tsunami in Settsu province
-Enryaku 18 (1088): Mount Fuji erupted with sound like thunder
-Tencho 4 (1061): Great earthquakes in various provinces
-Jogan 6 (1020): Mount Fuji erupted in 5th month, houses collapsed for 30 ri
-Same 11 (1015): Great earthquake in Oshu
-Gankyo 2 (1011): Great earthquake in Kanto
-Ninna 1 (1004): Great earthquake, great thunder, stars fell like rain
-Engi 11 (974): Great earthquake in 1st month
-Johei 2 (954): Great earthquake on 9th month 27th day
-Same 5 (951): Great earthquakes in various provinces
-Tengyo 1 (937): Great earthquakes from 4th month 15th to 27th day
-[Continues with chronological list through 1855]
+▲ Burned and damaged earthen storehouses (dozō):
+○ Samurai residences: 239,379. ○ Temples: 8,948. ○ Townspeople's properties: 114,652. Grand total: 362,979 sites.
+
+Among these, the gold, silver, treasures, clothing, and furnishings consumed in the fires were wiped out in an instant, leaving nothing but scorched wasteland — truly a catastrophe most lamentable.
+
+○ After the earthquake, tremors continued to occur day and night without rest, and the people's fear was extraordinary. Then someone — it is unclear who started it — spread word throughout the city that "there will certainly be a severe earthquake tonight," and the rumor passed from person to person without any clear source. In order to avoid the anticipated disaster, people in open spaces at crossroads throughout the city constructed shelters using sliding doors and shoji screens as roofs, surrounded themselves with luggage and folding screens, and spread straw mats (mushiro) and rush matting (komo) on the ground to sleep outdoors. Such people could be found in great numbers throughout the neighborhoods. However, no further major tremors occurred, and people returned to their homes around mid-October.
+
+Those whose homes had been destroyed by fire, however, had no house to return to, and remained in those rough mat-walled shelters; one can only imagine their hardship during heavy rains and storms.
+
+Therefore, the honorable Shogunal authorities erected relief shelters for the destitute and issued a proclamation stating that people should come forward at their own discretion to seek assistance. All those sleeping outdoors gathered there, received cooked rice distributed each day, and were able to resume their livelihoods. Truly, this was a benevolent blessing of this august reign.
+
+Locations of relief shelters:
+Outside Saiwai-bashi Gate / Asakusa Hirokoji / Fukagawa Kaibe Shinden / Fukagawa Hachiman Shrine grounds / Below Ueno Hill / From Ueno Palace to the same location.
+
+Total number of towns in Edo: said to be 3,818 chō. — End.
+
+---
+
+[Left folio]
+
+A record of great earthquakes, tsunamis, and the like found in old writings, from ancient times up to the present year of Ansei 2 (1855), the Year of the Wood Rabbit.
+
+| Era Name | Event | Years before Ansei 2 (1855) |
+|----------|-------|------------------------------|
+| Hakuhō 5 | Over 50 koku of farmland in Tosa Province became sea | 1,180 years ago |
+| Hakuhō 6 | Ōshima island formed in Izu Province | 1,179 years ago |
+| Hakuhō 11 | Shrines and temples collapsed without any wind | 1,174 years ago |
+| Hakuhō 12 | Great earthquake throughout the realm; many people and horses died | 1,173 years ago |
+| Keiyun 4 | In the 6th month, great earthquake throughout the realm | 1,157 years ago |
+| Tenpyō 6 | In the 4th month, great earthquake throughout the realm | 1,151 years ago |
+| Tenpyō 17 | Great earthquake throughout the realm; continued without ceasing for over a month | 1,140 years ago |
+| Shōhō 5 | Great tsunami in Settsu Province | 1,134 years ago |
+| Enryaku 18 | Mt. Fuji erupted; the sound was like thunder | 1,088 years ago |
+| Tenchō 4 | Great earthquake throughout the provinces | 1,061 years ago |
+| Jōgan 6 | In the 5th month, Mt. Fuji erupted; houses collapsed within approximately 30 ri | 1,020 years ago |
+| Jōgan 11 | Great earthquake in Ōshū (northern Honshū) | 1,015 years ago |
+| Gangyō 2 | Great earthquake in the Kantō region | 1,011 years ago |
+| Ninna 1 | Great earthquake, great thunder, stars fell like rain | 1,004 years ago |
+| Engi 11 | In the 1st month, great earthquake | 974 years ago |
+| Jōhei 2 | Great earthquake on the 27th day of the 9th month | 954 years ago |
+| Jōhei 5 | Great earthquake throughout the provinces | 951 years ago |
+| Tengyō 1 | Great earthquake from the 15th to the 27th day of the 4th month | 937 years ago |
+| Chōkyū 2 | Great earthquake | 839 years ago |
+| Chōkyū 3 | Great earthquake in Kyoto | 838 years ago |
+| Kanji 1 | Great earthquake throughout the provinces | 793 years ago |
+| Kanji 6 | Great tsunami throughout the provinces | 787 years ago |
+| Kenpō 1 | Great earthquake during the Battle of Wada | 677 years ago |
+| Shōka 1 | Great earthquake; Mibu-dera Temple fire | 622 years ago |
+| Kengen 1 | Great storm and great tsunami | 577 years ago |
+| Genkō 1 | Great earthquake | 521 years ago |
+| Enbun 5 | Great earthquake | 497 years ago |
+| Tenju 3 | Mountains collapsed throughout the provinces | 482 years ago |
+| Ōei 13 | Great earthquake | 451 years ago |
+| Bunan 5 | Great earthquake | 409 years ago |
+| Hōtoku 1 | Repeated great earthquakes | 408 years ago |
+| Bunmei 7 | Great tsunami in Tsu Province (Settsu) | 383 years ago |
+| Meiō 3 | Great earthquake | 363 years ago |
+| Eishō 7 | Particularly severe earthquake in Tōtōmi Province | 346 years ago |
+| Tenshō 17 | Great earthquake in Suruga and Tōtōmi Provinces | 266 years ago |
+| Keichō 2 | Great earthquake in Kyoto and Osaka | 259 years ago |
+| Keichō 18 | Great earthquake throughout the provinces | 243 years ago |
+| Kan'ei 4 | In the 1st month, great earthquake in the Kantō region | 229 years ago |
+| Kanbun 1 | Great earthquake throughout the provinces | 195 years ago |
+| Tenna 3 | Great earthquake at Mt. Nikkō | 173 years ago |
+| Genroku 15 | Mt. Hōei (Fuji) erupted; great earthquake in the Kantō region | 153 years ago |
+| Hōei 4 | In the 10th month, great earthquake in the Gokina (five home provinces) | 119 years ago |
+| Bunka 1 | Great earthquake in Dewa Province from the 4th to 7th day of the 6th month | 52 years ago |
+| Bunsei 11 | Great earthquake in Echigo on the 12th day of the 11th month; tsunamis in various places | 28 years ago |
+| Tenpō 1 | Great earthquake in Kyoto on the 2nd day of the 7th month | 26 years ago |
+| Kōka 4 | Great earthquake in Shinano Province during the Zenkōji temple pilgrimage festival | 9 years ago |
+| Kaei 6 | Great earthquake in Odawara, Sagami Province | 3 years ago |
+| Kaei 7 | Earthquake and tsunami at Shimoda, Izu Province | (same period) |

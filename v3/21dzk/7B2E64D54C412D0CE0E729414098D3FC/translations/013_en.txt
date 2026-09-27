@@ -1,0 +1,79 @@
+## Right Page (p. 120, Section 24)
+
+### Upper Section
+
+(There) would be the fault of "contradiction with the intrinsic nature of the subject-term" (有法自相相違過, *dharmyātmaviruddha*). If one says "Form is originally accepted as existent by both proponent and opponent, so there is no point of dispute whatsoever, and therefore it is not a fault of contradiction" — then (the same applies to) "existent nature" (*sat*, 有性), which is also accepted by both proponent and opponent as not being "non-existent." Hence it should have no fault of contradiction because "it is existent-natured." If one says "When challenging 'existent nature,' beneath it there is the implicit acceptance (*itivyañjanā*, 意許) of 'great existent-nature' (*mahāsat*, the Vaiśeṣika concept of universal existence), and hence there is the fault of contradiction" — then beneath "established-in-common form" there is (the implicit acceptance of) "form identical with consciousness" (*soku-shiki no iro*, 即識色), and therefore there should likewise be a fault of contradiction. Based on this reasoning, one constructs "contradiction with the subject-term's intrinsic nature" (有法自相相違) as follows: "Established-in-common form (*prasiddha* form) ought not to be established-in-common form. Because, by self-acceptance, it is encompassed within the first three (sense-fields) and not encompassed by the eye-faculty. Like eye-consciousness." How can this fault of contradiction be excluded?
+
+A: This doubt is difficult to resolve. However, following the meaning (*gi*, 義), one may say: analogous to the "fault of contradiction with the qualification of the subject-term" (有法差別相違過), there should be a "fault of indeterminacy" (不定過, *anaikānta*). (The indeterminacy would be:) "Is established-in-common form, like eye-consciousness which is self-accepted as encompassed within the first three and not encompassed by the eye-faculty, therefore not form? Or is it, like the self-accepted form of Buddhas in other directions, self-accepted as encompassed within the first three and not encompassed by the eye-faculty, therefore (still) form?"
+
+---
+
+**Section Three: Deciding (the Meaning of) "Self-Accepted" (自許決 第三)**
+
+Q: What is the distinction among the three types of inference — self-inference (*svārthānumāna*, 自比量), other-inference (*parārthānumāna*, 他比量), and common inference (*sādhāraṇānumāna*, 共比量)?
+
+A: To begin with, in self-inference, the three members (三支, *trirūpa*: thesis, reason, example) are all accepted (by the proponent) and are all the more supportive of the thesis. Even if the other (party) finds (something) unestablished, there is no fault. The reason is as follows: at the time (of self-inference), one is merely establishing one's own school (宗), not refuting the other — and since it is an accepted meaning (of the proponent), even if the other does not commonly accept it, there is no error in the inference.
+
+Q: If so, a self-inference ought not to be a "means of valid establishment" (能立, *sādhana*), since it does not refute the other's school nor cause the other to understand.
+
+A: Even if (the proponent) has already known the meaning of his own school beforehand, he establishes it through the measure (量, *pramāṇa*) in order to be free of fault. Hence, though it functions as a means of establishment, it does not refute the other's school. Once the measure is established, what the other comes to accept thereby becomes that which causes the other to understand — hence it is also called "causing the other to understand" (他悟, *paravijñāpana*). Therefore, self-inference is called a "means of establishment" (能立).
+
+As for other-inference, when the three members are commonly accepted (by the other party), the thesis and the rest are admirably established. Even if the self (proponent) does not accommodate it as a valid measure, there is no fault. The reason is as follows: other-inference is solely for refuting the other's school, not for establishing the meaning that one's own school accepts — hence even if the self does not commonly accept it, there is no error in the inference.
+
+As for common inference, only when both proponent and opponent commonly accept the thesis, reason, and example — all three members — does the measure properly become established. If either party lacks one (of these elements), it is not established. The reason is as follows: by means of common inference, one (1) establishes the thesis and (2) refutes the other's meaning. Hence all (three) members within the three must be "established-in-common" (極成, *prasiddha*). If they are not established-in-common, they are called "quasi-thesis, etc." (*pakṣābhāsa*, 似立宗等).
+
+Q: In establishing the thesis, if one says "The sound of the Buddhas in other directions, which is self-accepted, does not depart from ear-consciousness," and adds the expression "self-accepted" (自許), is the subject-term (有法, *dharmin*) established?
+
+A: Even if one says "self-accepted," the other ultimately cannot establish (acceptance of) it — so even though one says "self-accepted," the common inference still cannot be established.
+
+Q: If so, take (the syllogism) "True hence, established-in-common form does not depart from eye-consciousness, etc." — since this is already a common inference, if the reason states "self-accepted," it ought not to be "established-in-common."
+
+A: The reason stating "self-accepted" (自許) does not mean it is called "self-accepted" in order to exclude the other's acceptance. That established-in-common form is encompassed within the first three and not encompassed by the eye-faculty is something commonly accepted by both self and other. Therefore the reason is not "unestablished" (不成, *asiddha*).
+
+Q: If that is already the case, why is it necessary to state the expression "self-accepted"?
+
+A: There are three explanations. First, Masters Ūn (応師, Dōshō) and Wŏnhyo (元暁師) and others all say: "The expression 'self-accepted' is stated in order to exclude the other's indeterminacy (他不定)." The Sarvāstivāda (*Sabbatthivāda*, 薩婆多) school and others construct the fault of indeterminacy (*anaikānta*) against this reason, saying: "Is (established-in-common form), like the truly unwholesome form of the final-birth bodhisattva of our school (小乗), which is encompassed within the first three and not encompassed by the eye-faculty, therefore necessarily departing from eye-consciousness? Or is it, like eye-consciousness, encompassed within the first three and not encompassed by the eye-faculty, therefore not necessarily departing from eye-consciousness?" In order to exclude this indeterminacy, the expression "self-accepted" is stated. Because, as indicated by what they (the Sarvāstivādins) point to, the truly unwholesome form of the final-birth bodhisattva is not (a form that) the proponent self-accepts as being encompassed within the first three and not encompassed by the eye-faculty — (the proponent's) reason does not apply to it (*hetu* is absent there), hence there is no indeterminacy. Moreover, through common inference, one does not merely establish the thesis one desires for oneself, but also refutes the other — hence the other's indeterminacy is called "non-established-in-common" (不□, likely 不極成). Since common inference is already like this, other
+
+### Lower Section
+
+inference is also so. Second, Master Kuiji (基法師, 窺基) explains: "One says 'self-accepted' in order to exclude the fault of 'contradiction with the qualification of the subject-term' (有法差別相違過)." The outside person (外人, external opponent) thereupon constructs "qualification-contradiction" and challenges: "Established-in-common form ought not to be form identical with consciousness (即識之色). Because (form) is encompassed within the first three sense-fields and not encompassed by the eye-faculty. Like eye-consciousness." In order to exclude this fault, one says "self-accepted." Against that syllogism, (one) constructs an "indeterminacy" saying: "Is established-in-common form — like eye-consciousness, self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore not form identical with consciousness? Or is it — like the form of Buddhas in other directions, which our school accepts (大乗が許す), self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore form identical with consciousness?" If (the reason) does not state "self-accepted," then one cannot construct an "indeterminacy against the other" (他不定) to exclude the challenge of contradiction.
+
+Q: Even by simply saying "encompassed within the first three and not encompassed by the eye-faculty," one can construct the fault of indeterminacy. Why is "self-accepted" necessary?
+
+A: If "self-accepted" is not stated, then there is a "fault of indeterminacy from the other side" (他不定過). That is, the other constructs the fault of indeterminacy, saying: "Established-in-common form, if like eye-consciousness — is it like the unwholesome form of Śākya (Bodhisattva, i.e., the Bodhisattva Śākyamuni in a previous life) of our (Hīnayāna) school, etc.?" (And so on.) In order to avoid this fault, one says "self-accepted." If, in order to avoid this fault, one says "established-in-common (form) is encompassed within the first three and not encompassed by the eye-faculty," then one cannot (construct an indeterminacy against the other to)
+
+---
+
+## Left Page (p. 121, Section 25)
+
+### Upper Section
+
+(exclude) it against the other (either).
+
+(This is) also the case with other-inference. Third, Master Wengui (文軌法師) explains: "The reason states 'self-accepted' in order to exclude both the 'other's indeterminacy' and the 'fault of contradiction with the qualification of the subject-term' (有法差別相違過)." (The opponent) constructs a "contradiction," challenging: "Established-in-common form ought not to be form identical with consciousness. Because, by self-acceptance, it is encompassed within the first three sense-fields and not encompassed by the eye-faculty. Like eye-consciousness." Now, to exclude this challenge, (one argues): "Is this established-in-common form — like eye-consciousness, self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore not form identical with consciousness? Or is it — like the form of Buddhas in other directions, which our school accepts, self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore form identical with consciousness?" If (the reason) does not state "self-accepted," then one cannot "construct a fault of indeterminacy against the other and thereby exclude the challenge of contradiction."
+
+Q: Even by simply saying "encompassed within the first three and not encompassed by the eye-faculty," one can construct the fault of indeterminacy. Why is "self-accepted" necessary?
+
+A: If "self-accepted" is not stated, then there is a "fault of other-indeterminacy" (他不定過). That is, the other constructs the fault of indeterminacy, saying: "Established-in-common form — if like eye-consciousness — is it like the unwholesome form of the Śākya bodhisattva of our (Hīnayāna) school, etc.?" (And so on.) In order to avoid this fault, one says "self-accepted." If, in order to avoid this fault, one says "established-in-common form is encompassed within the first three and not encompassed by the eye-faculty," then one cannot
+
+Q: If the common-factor reason (共許之因) transfers to the self-accepted example (自許之喩), what obstacle is there? When the expression "self-accepted" is not stated, can one not construct "the fault of other-indeterminacy"?
+
+A: If that were accepted, then it would be like (the case of) the Great Vehicle establishing (the syllogism) against the Śabdajanma (*Śabdajanma* school, 声生論, those who hold that sound is produced/eternal): "Sound is impermanent. Because it is produced (*kṛtaka*). Like a pot, etc." The Śabdajanma teachers would construct a "self-determining contradiction" (自決定相違, *svavipakṣa-bādha*), saying: "Sound is permanent. Because it has the nature of being heard (*śrāvaṇatva*). Like sound-nature, which is self-accepted." If such things were permissible, all inferences whatsoever would have no valid reason (*saddhet u*, 正因) at all.
+
+Q: If so, then in common inference, one originally cannot construct "other-indeterminacy." If that is accepted, then "self-indeterminacy, etc." should likewise not be constructible — which would contradict the commentary (*shū*) text, since (Kuiji's commentary) uses "the form of Buddhas in other directions" to construct "indeterminacy of the reason."
+
+A: When there is a qualifying restriction (簡別, *viśeṣaṇa*), one can also construct it (i.e., the indeterminacy). When there is no qualifying restriction, one cannot construct it. However, the reason why the commentary text constructs "self-indeterminacy" (自不定) is that within the reason, the expression "self-accepted" (自許) is used as a qualifying restriction. This meaning is somewhat difficult — one must inquire (and reflect) before one can understand it.
+
+Third, Master Wengui (文軌法師) explains: "The reason states 'self-accepted' in order to exclude both the 'other's indeterminacy' and the 'fault of contradiction with the qualification of the subject-term.'" (The opponent) constructs the "contradiction" and challenges: "Established-in-common form ought not to be form identical with consciousness. Because, by self-acceptance, it is encompassed within the first three and not encompassed by the eye-faculty. Like eye-consciousness." Now, to exclude this challenge, (one says): "Is this established-in-common form — like eye-consciousness, self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore not form identical with consciousness? Or is it — like the form of Buddhas in other directions which our school accepts, self-accepted as encompassed within the first three and not encompassed by the eye-faculty — therefore form identical with consciousness?" If (the reason) does not state "self-accepted," one cannot "construct a fault of indterminacy against the other and thereby exclude the challenge of contradiction."
+
+Q: Even by simply saying "encompassed within the first three and not encompassed by the eye-faculty," one can construct the fault of indeterminacy. Why is "self-accepted" necessary?
+
+A: If "self-accepted" is not stated, then there is a "fault of other-indeterminacy." The other constructs the fault of indeterminacy, saying: "Established-in-common form, if like eye-consciousness, is it like the unwholesome form of the Śākyamuni Bodhisattva of our (Hīnayāna) school, etc.?" (And so on.) In order to avoid this fault, one says "self-accepted." If, in order to avoid this fault, one says "established-in-common form is encompassed within the first three and not encompassed by the eye-faculty," one then cannot (construct an indeterminacy against the other to)
+
+### Lower Section
+
+(exclude the challenge of contradiction against the other either).
+
+Q: If common inference originally cannot have "other-indeterminacy," if that is accepted, then "self-indeterminacy, etc." should also not be constructible — which would contradict the commentary text, since (it) uses "the form of Buddhas in other directions" to construct "indeterminacy of the reason."
+
+A: When there is a qualifying restriction, one can also construct it. When there is no qualifying restriction, one cannot construct it. However, the reason why the commentary text constructs "self-indeterminacy" is that within the reason, "self-accepted" (自許) is used as a qualifying restriction. This meaning is somewhat difficult, and one must inquire carefully before one can understand it.

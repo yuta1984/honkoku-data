@@ -1,64 +1,64 @@
 [Right Page]
 
-**Memorandum (Oboegaki)**
+Memorandum (Oboegaki)
 
-　　　　　　　Kitahara Rizaemon
-　　　　　　　Hirose Jirozaemon
-　　　　　　　Miyazawa Rokubei
-　　　　　　　Ikegami Zenbei
-　　　　　　[Honorary stipend/provisions granted (o-shiosoki)]
-　　　　　　　Kasuga Matazaemon
-　　　　　　[Permanent right to wear swords (einen taitō)]
-　[Ill]　　　Ikegami Kunitarō
-　　　　　　[Perpetual Ichida (eiei ichida)]
-　　　　　　　Ikegami Kunitarō
-　　　　　　　Kobayashi Akaji
-　　　　　　[Sword-bearing privilege, partially illegible]
-　[Ill]　　　Sakai Seibei
-　[Same as above]　Itō Jizaemon
+　　　　　　Kitahara Rizaemon
+　　　　　　Hirose Jirozaemon
+　　　　　　Miyazawa Rokubei
+　　　　　　Ikegami Zenbei
+　　　　　　　　　(Appointed to serve/retained in position)
+　　　　　　Kasuga Mataemon
+　　　　　　　　　(Lifetime sword-wearing privilege)
+　Illness　　Ikegami Kunitarō
+　　　　　　　　　(Permanent [assignment to] Ichida)
+　　　　　　Ikegami Kunitarō
+　　　　　　Kobayashi Akaji
+　　　　　　　　　(Persons holding sword-wearing privilege)
+　Illness　　Sakai Seibei
+　Same　　　Itō Jizaemon
 
-**Chōdai (Town District Representatives) of Yokochō**
+　　　District/Block Representatives (Chōdai) of Yokochō
 
-　　　　　　Honmachi (Main Town)
-　　　　　　　Kanemon
-　[Ill]　　Nakamachi (Middle Town)
-　　　　　　　Sōshichi
-　　　　　　Shimomo-machi (Lower Town)
-　　　　　　　Tōshichi
-　　　　　　Kudari-machi (Descending Town)
-　　　　　　　Jihei
-　　　　　　Yokogawa (Riverside District)
-　　　　　　　Toshichi
-　　　　　　Shinmachi (New Town)
-　　　　　　　Sōshichi
-　　　　　　Seri-machi
-　　　　　　　Magohachi
-　　　　　　Shimizu-machi (Shimizu Town)
-　　　　　　　Gibei
-　　　　　　Hokomochi-machi (Halberd-bearer's Town)
-　[Ill]　　　Jūzaburō
-　　　　　　Fukuro-machi (Bag/Pouch Town)
-　　　　　　　■shichi [name partially illegible]
+　　　　　　Honmachi (Main Street District)
+　　　　　　　　Kanemon
+　Illness　　Nakamachi (Middle Street District)
+　　　　　　　　Sōshichi
+　　　　　　Shimomo-machi (Lower Street District)
+　　　　　　　　Tōshichi
+　　　　　　Kudari-machi (Descending Street District)
+　　　　　　　　Jihei
+　　　　　　Yokokawa (Lateral River District)
+　　　　　　　　Toshichi
+　　　　　　Shinmachi (New Street District)
+　　　　　　　　Sōshichi
+　　　　　　Seri-machi (Auction/Watercress Street District)
+　　　　　　　　Magohachi
+　　　　　　Shimizumachi (Clear Water Street District)
+　　　　　　　　Gibei
+　　　　　　Hokomochi-machi (Halberd-Bearer Street District)
+　Illness　　　　Jūsaburō
+　　　　　　Fukuro-machi (Bag/Sack Street District)
+　　　　　　　　■shichi (name partially illegible)
 
-**Town Representatives of Equal Standing (Chōdai-nami)**
+　　　Those of Equivalent Status to Block Representatives (Chōdai-nami)
 
-　　　　　　Yoshidaya [merchant house]
-　　　　　　　Kanzō
-　　　　　　　Denemon
-　　　　　　Izawaya [merchant house]
-　　　　　　　Sōemon
-　　　　　　Nakaya [merchant house]
-　　　　　　　Kichizaemon
-　　　　　　Kobikiya [merchant house]
-　[Exempted from Chōdai duty]　Sōshichi
-　　　　　　Soshiya [merchant house]
-　[Same as above]　Jūzaburō
-　　　　　　Yoshidaya [merchant house]
-　[Exempted from Chōdai duty]　Kanzō
-　　　　　　Kobayashiya [merchant house]
-　[Same as above]　Jōbei
+　　　　　　Yoshidaya [shop/house]
+　　　　　　　　Kanzō
+　　　　　　　　Denemon
+　　　　　　Izawaya [shop/house]
+　　　　　　　　Sōemon
+　　　　　　Nakaya [shop/house]
+　　　　　　　　Kichizaemon
+　　　　　　Kobikiya [shop/house]
+　Exempt from Chōdai duty　　Sōshichi
+　　　　　　Soshiya [shop/house]
+　Same　　　Jūsaburō
+　　　　　　Yoshidaya [shop/house]
+　Exempt from Chōdai duty　　Kanzō
+　　　　　　Kobayashiya [shop/house]
+　Same　　　Jōbei
 
-**Official Purveyor of Dyeing Services (O-somemono go-yōtashi)**
+Official Supplier for Dyeing Services (O-somemono go-yōtashi)
 　　　　　　[■]na[■]
-　　　　　　　Gobei
-Kuwana-shō [Kuwana district/庄]
+　　　　　　　　Gobei
+Kuwana庄 [Kuwanashō — possibly a place or household name]
