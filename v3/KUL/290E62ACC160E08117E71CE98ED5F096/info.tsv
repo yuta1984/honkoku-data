@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132374.tiff/info.json
+001.txt	editing	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132374.tiff/info.json
 002.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132375.tiff/info.json
 003.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132376.tiff/info.json
 004.txt	completed	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132377.tiff/info.json
@@ -9,7 +9,7 @@ filename	status	image
 008.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132381.tiff/info.json
 009.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132382.tiff/info.json
 010.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132383.tiff/info.json
-011.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132384.tiff/info.json
+011.txt	initiated	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132384.tiff/info.json
 012.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132385.tiff/info.json
 013.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132386.tiff/info.json
 014.txt	default	https://catalog.lib.kyushu-u.ac.jp/image/iiif/1/820/7162302/1132387.tiff/info.json

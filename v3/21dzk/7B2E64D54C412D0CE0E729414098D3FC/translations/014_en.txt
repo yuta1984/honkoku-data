@@ -1,0 +1,98 @@
+## Right Page (p. 122, Section 26)
+
+### Upper Section
+
+(…one cannot construct the fault of indeterminacy against the other side's objection of contradiction.) Therefore one says only "self-accepted" (自許).
+
+---
+
+**Section Four: Deciding (the Meaning of) "Encompassed within the First Three" (初三収決 第四)**
+
+Q: Simply saying "not encompassed by the eye-faculty" without saying "encompassed within the first three sense-fields" — what obstacle would that pose, that one would go to the trouble of requiring two expressions?
+
+A: If one does not say "encompassed within the first three" but merely says "not encompassed by the eye-faculty," then there arises the problem of "indeterminacy" (不定). (That is:) "Is established-in-common form — because eye-consciousness is not encompassed by the eye-faculty — necessarily not departing from eye-consciousness? Or — because the five-three (*go-san*, the five sense-objects and the five sense-faculties apart from the eye, i.e., of hearing, smell, taste, touch) are not encompassed by the eye — necessarily departing from eye-consciousness?" If one were to accept that "the five-three, being not encompassed by the eye-faculty, does not depart from eye-consciousness," this would contradict one's own doctrine (the Mahāyāna). In order to exclude this fault, one says "encompassed within the first three," because "encompassed within the first three" serves to separate out (*ma ni oku*, to interpose and exclude) the five-three.
+
+Q: Since the eye-consciousness of a bodhisattva who has attained mastery (自在菩薩) cognizes the eye-faculty (*cakṣurindriya*), the cognized eye-faculty does not depart from eye-consciousness. Likewise, the eye-consciousness of the Buddha-fruit (*buddhaphala*) also cognizes the five-three, and the cognized five-three would then not depart from eye-consciousness. How, then, can one now say "if one accepts that the five-three, not being encompassed by the eye, does not depart from eye-consciousness, this contradicts one's own doctrine"? Conversely, if the eye-consciousness of the Buddha-fruit does not cognize the five-three, it would not be "omniscient wisdom" (遍智).
+
+A: Here we take only a partial case (一分), so there is no contradiction. Or alternatively, (the statement) is made with reference to the "position of non-mastery" (不自在位), and so it is said to "contradict one's own doctrine" — that is all.
+
+---
+
+**Section Five: Deciding (the Meaning of) "Not Encompassed by the Eye-Faculty" (眼所不攝決 第五)**
+
+Q: Simply saying "encompassed within the first three" without saying "not encompassed by the eye-faculty" — what obstacle would that pose, that two expressions are required?
+
+A: Because there are three faults, both expressions must be complete. The first is the fault of indeterminacy. If one does not say "not encompassed by the eye-faculty" but merely says "encompassed within the first three," then there arises the fault of "indeterminacy": "Is established-in-common form — because eye-consciousness is encompassed within the first three — necessarily not departing from eye-consciousness? Or — because the eye-faculty (*cakṣurindriya*) is encompassed within the first three — necessarily
+
+### Lower Section
+
+not departing from eye-consciousness?" (i.e., necessarily departing from it?) The Mahāyāna masters say that the eye-faculty does not necessarily and in all cases depart from eye-consciousness. This indeterminacy says "not necessarily not departing from eye-consciousness," and one cannot say "necessarily departing from eye-consciousness."
+
+The second is the fault of "contradiction with the intrinsic nature of the dharma" (法自相相違). If one does not say "not encompassed by the eye-faculty" but merely says "encompassed within the first three," one can construct a "contradiction" saying: "Form that is established-in-common in the true sense ought not to be that which does not depart from eye-consciousness. Because it is encompassed within the first three. Like the eye-faculty." 
+
+The third is the fault of "definite contradiction" (決定相違). Based on the above fault of "contradiction with the intrinsic nature of the dharma," this fault also arises. From the thesis and example of "contradiction with the intrinsic nature of the dharma" alone, one can understand the "definite contradiction." Hence the commentary (疏) says: "By this, there is accordingly a definite contradiction." The "definite contradiction" is then constructed as follows: "Form that is established-in-common in the true sense ought not to be that which does not depart from eye-consciousness. Because it possesses material resistance (質礙, *sapratigha*). Like the eye-faculty." In order to exclude these three faults, one says "not encompassed by the eye-faculty." Furthermore, a "definite contradiction" must necessarily alter the reason (*hetu*) and example (*dṛṣṭānta*). Thus, while the original (root) syllogism's reason says "because it is encompassed within the first three" and the example says "like eye-consciousness," the present "definite contradiction" syllogism's reason says "because it possesses material resistance" and the example says "like the eye-faculty." Hence the two (syllogisms) are distinct.
+
+---
+
+**Section Six: Deciding the Faults Revealed in the Reason (因顯過失決 第六)**
+
+Q: What faults exist within the reason?
+
+A: In revealing the faults of the reason, the various masters do not agree. The Silla master Sungyŏng (順憬法師) says: within the reason there is the fault of "definite contradiction" (決定相違). (The counter-syllogism would be:) "In the true sense, established-in-common form necessarily departs from eye-consciousness. Because, by self-acceptance, it is encompassed within the first three and not encompassed by eye-consciousness. Like the eye-faculty." The Mahāyāna master Ji (Kuiji, 窺基師) excludes this fault saying: within the reason there is the fault of "non-establishment restricted to one party" (随一不成, *anyatarāsiddha*). Because the Mahāyāna side does not accept that the other side self-accepts "not encompassed by eye-consciousness," and because the reason applies (*pravartate*) to form (色) that is commonly (accepted as such). Also, the positive example (*sapakṣa*, 同喩) has the fault of "non-establishment of what is to be proved" (所立不成). In the Mahāyāna (view), the eye-faculty does not necessarily depart from
+
+---
+
+## Left Page (p. 123, Section 27)
+
+### Upper Section
+
+eye-consciousness. Because the faculty is the cause (*hetu*) and the consciousness is the effect (*phala*), they do not necessarily depart from each other immediately. Moreover, the "accomplishing wisdom" (成事智, i.e., Kṛtyānuṣṭhāna-jñāna, one of the five wisdoms of the Buddha) universally cognizes the eye-faculty as a remote object-condition (*ālambana-pratyaya*) together with the subjectively-cognizing eye-consciousness — how, then, could there be any necessary meaning of mutual separation? The broader exposition of the remaining faults is as given in the detailed commentary (疏).
+
+Master Xuanying (玄應師) says: just as the Sarvāstivāda (*Sarvāstivādin*) and others (can), one can further use the Mahāyāna's "form of inherent nature and characteristics" (本性相色) to make an "indeterminacy" (不定): "Is established-in-common form — because eye-consciousness, by self-acceptance, is encompassed within the first three and not encompassed by the eye-faculty — not departing from eye-consciousness? Or is it — because your (Mahāyāna's) form of inherent nature and characteristics, by self-acceptance, is encompassed within the first three and not encompassed by the eye-faculty — necessarily departing from eye-consciousness?" This is indeed an exposition of the fault of "self-side indeterminacy" (自不定) on the part of the Mahāyāna. To exclude this fault, he says now in a separate explanation by Master Xuanying: "Since (the reason says) 'commonly accepted (共許) to be encompassed within the first three, etc.,' there is accordingly no indeterminacy. Because things other than established-in-common form (極成色) are not commonly accepted as encompassed within the first three."
+
+Q: If so, the earlier reason is subject to the objection of "contradiction." How is this to be reconciled and explained? That is: "Established-in-common form ought not to be form identical with consciousness (即識之色). Because (it is) commonly accepted (共許) to be encompassed within the first three and not encompassed by the eye-faculty. Like eye-consciousness." In order to block this objection, the original reason states the expression "self-accepted" (自許) to construct an "indeterminacy" against the "contradicting syllogism": "Is established-in-common form — because eye-consciousness is self-accepted (自許) as encompassed within the first three and not encompassed by the eye-faculty — not form identical with consciousness? Or is it — because our school's form of Buddhas in other directions is self-accepted as encompassed within the first three and not encompassed by the eye-faculty — form identical with consciousness?" If one says "commonly accepted" (共許), then one cannot construct the fault of indeterminacy against the other side's "contradicting syllogism," because the form of Buddhas in other directions is not "commonly accepted" — and so on (云云).
+
+Q: Why does the Mahāyāna master Ji (Kuiji) not exclude this fault?
+
+A: Because there is no need to specifically delimit (the exclusion) — that is the only reason he does not raise the exclusion. The reason is as follows: since (we) already accept that when the accomplishing wisdom (成事智) cognizes the eye-faculty, the root-object eye-faculty (本質眼根) as remote object-condition does not depart from the subjectively-cognizing eye-consciousness — how could one possibly accept that a root-object form (本質色) departs from eye-consciousness? This principle is manifestly clear, and therefore (Kuiji) does not separately exclude (it).
+
+### Lower Section
+
+Q: If so, the mental consciousness that accompanies the five (sense-consciousnesses) (五倶意識, *pañcadvāravajjavijñāna*) — its directly-cognized aspect (*svabhāga*, 相分) is separate from eye-consciousness. Is there not a fault of indeterminacy?
+
+A: That (mental consciousness's aspect) also is not separate from the five (sense-)consciousnesses and the directly-cognized aspect of the consciousness that accompanies the five. Because (they) arise from the same root-object (*mūla-vastu*) seed (種).
+
+Q: Regarding the two kinds — root-object (質) and image (影, the aspect/image) — it has been judged as superior that they invariably arise from different seeds (別種). So the commentary "Deng" (燈, i.e., the *Cheng weishi lun liaoyi deng*, 成唯識論了義灯) has determined. Why do you now say "they arise from the same root-object seed"?
+
+A: According to the *Shūyō* (樞要, i.e., *Cheng weishi lun zhang zhong shuyao*, 成唯識論掌中樞要), it is said "sometimes the same, sometimes different." It is clearly known that this statement is the superior explanation. And in the lower part of the first fascicle of the "Deng" (義燈), it also says: "On account of this aspect and root-object, it is said to be either the same or different, etc." (云云).
+
+Also, a certain person constructs a "contradiction with the qualification of the subject-term" (有法差別相違) saying: "Form of one's own realm (*svakṣetra*) and other realms (*parakṣetra*) ought not to be form identical with consciousness (即識色). Because (it is) self-accepted as encompassed within the first three and not encompassed by the eye-faculty. Like eye-consciousness." Now (one may) rescue this by saying: the thesis has the fault of "non-establishment of the term-to-be-differentiated (*viśeṣya*, 所別不成) with respect to a portion accepted by the other side" (他一分所別不成). (This is) because the other party does not accept that the unwholesome form of Śākyamuni-bodhisattva and so forth among form of one's own realm exists (as such).
+
+---
+
+## *Jōyuishikiron Bunryō Ketsu*, Fascicle One — *End*
+
+This is the writing of the monk Ichiō (壹應) of Yamashina-dera (山階寺, i.e., Kōfuku-ji). This monk passed away (lit., "departed into the dark realm") on the twenty-fifth day of the ninth month of Hōki 3 (772 CE). I humbly beseech the various learned scholars who open and read this text: please do not take it and make it your own possession. Nor shall (you) sell it among the congregation in later times. Only take joy in transmitting it to open the eye of wisdom (慧眼). By this merit, may (you) repay the divine spirit, be born in the Pure Land (浄刹), sever ignorance (愚癡), and realize perfect enlightenment (円覚).
+
+On the seventeenth day of the second month of Hōki 4 (773 CE). Recorded by the monk Shin'ei (信叡) in reliance upon (his teacher's wishes).
+
+---
+
+## [The following is transcribed from the first leaf recto of the *Jōyuishikiron Juki Joshaku Ikkan*:]
+
+### Section 28, Upper Part
+
+In the spring of Kanji 8 (1094 CE), while playing (遊戯), I climbed the bell tower and discovered it (at age twelve).
+Discovered in the sūtra repository (経中) of the bell tower of Daigo-ji (醍醐寺).
+　　　　　　　　　　　　　This is the original (exemplar) of Kennin (賢仁), a (member of the) branch lineage of the Sanron school.
+
+(The box's exterior label says:)
+*Jōyuishikiron Bunryō Ketsu* No. 1 / *Shōchin-ron* (Written by Ichiō of Yamashina-dera during the Hōki era)
+
+(The inside of the lid says:)
+*Jōyuishikiron Bunryō Ketsu* No. 1 / *Shōchin-ron*, one fascicle. Contains a colophon of ninety characters.
+Its opening says: "This is the writing of the monk Ichiō of Yamashina-dera. This monk departed from the dark realm (i.e., died) on the twenty-fifth day of the ninth month of Hōki 3" (etc.). Its closing clause says: "On the seventeenth day of the second month of Hōki 4. Recorded by the monk Shin'ei in reliance (upon his teacher's wishes)." The calligraphic style mingles semi-cursive (*gyōsho*) and cursive (*sōsho*) scripts, and is also to be treasured.
+
+This scroll is (preserved) in the midst of the bookworm-infested (蠹魚叢) (collection) at Daigo-ji. Having requested and obtained (it) from the various head abbots (座主) and the Dharma master Engo (演護師), (I note that) the first half (前半) has been left on that mountain (Daigo-ji), they say.
+
+　　　　　　　　　Zuishin Monzeki, (also) Shinkō Revival Monk (中興比丘): Chiman (智滿)

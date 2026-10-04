@@ -245,5 +245,5 @@ filename	status	image
 244.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00244.tif/full/full/0/default.jpg
 245.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00245.tif/full/full/0/default.jpg
 246.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00246.tif/full/full/0/default.jpg
-247.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00247.tif/full/full/0/default.jpg
-248.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00248.tif/full/full/0/default.jpg
+247.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00247.tif/full/full/0/default.jpg
+248.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249468/v4/AJNM/AJNM-00083/AJNM-00083-00248.tif/full/full/0/default.jpg

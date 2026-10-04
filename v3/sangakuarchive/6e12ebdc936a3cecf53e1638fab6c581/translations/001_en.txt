@@ -1,0 +1,25 @@
+**Title: Votive Offering (Hōnō)**
+
+Suppose there is a belt-shaped (annular) circle as shown in the figure.
+Inside it, there are four "ko-circles" (larger circles, 甲円),
+and within the successive stacked circles (累円), there are
+two "otsu-circles" (smaller circles, 乙円).
+Given that the number of stacked circles equals the number, and the diameter of the final (smallest) circle equals the diameter of the ko-circles, what is the diameter of the otsu-circles?
+
+**Answer:** Find the diameter of the otsu-circle using the method below.
+
+**Method:**
+Subtract the diameter of the final circle from the diameter of the ko-circle and call this value "ko" (子).
+Multiply "ko" by the diameter of the ko-circle, take the square root, then subtract twice "ko" — the result is the diameter of the otsu-circle.
+This satisfies the problem.
+
+Formally expressed:
+Let *d* = diameter of ko-circle, *m* = diameter of final (smallest) circle.
+Let *s* = *d* − *m* (called "ko/子").
+Then: diameter of otsu-circle = √(*s* · *d*) − 2*s*
+
+**School of Seki (関流)**
+Student of Master **Oshida Kunimasa (押田邦全)**
+
+**Auspicious day in the first month of the seventh year of Kaei, Year of the Kinoe-Tora (1854)**
+**Suga Sanjirō Kuniyoshi (須賀三治郎邦慶)**

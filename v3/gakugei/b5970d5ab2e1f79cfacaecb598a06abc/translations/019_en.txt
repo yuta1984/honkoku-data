@@ -1,0 +1,44 @@
+【Right folio】
+
+It had been kept in hopes that it might catch the eye of a daimyo lord — but a lodestone that does not attract iron is nothing more than an ordinary stone. Surely, the proprietor thought, after so many years its magnetism must have naturally grown weak; this was quite a loss, and he felt considerably dispirited. Then came the great earthquake in the middle of the night, at the fourth hour (*yotsu-doki*, around midnight). After that, when iron was brought near the stone, it adhered just as it had before. From this, it was discovered that prior to the great earthquake, the lodestone had ceased to attract iron — or so the story goes.
+
+Inspired by this account, a certain person conceived of making something to be called an "earthquake timepiece" (*jishin-dokei*), and drew up a design for it. That design is here copied down, in hopes that a skilled craftsman may be found to bring it to completion.
+
+**Seismometer — Full Diagram**
+
+*Rin* (bell/chime)
+
+This wheel is connected to the mechanism that strikes the alarm bell.
+
+Magnet (*jishaku*)
+
+This nail responds to the magnetic force of the magnet — to be made in both large and small sizes.
+
+This post/pillar — (its height corresponds to) the length of the thread.
+
+This weight: when the magnetic connection between the nail and the magnet is released, the mechanism disengages and the weight falls, causing the thread-wheel to rotate; this rotation is transmitted to the alarm wheel, which in turn strikes the chime (*rin*) of the alarm mechanism.
+
+This wheel serves as the thread-spool.
+
+*Copied by Naohisa*
+
+【Left folio】
+
+The mechanism wheel — separated (i.e., shown disassembled).
+View from the front.
+
+The alarm-striking mechanism inside the chime (*rin*) is as shown above.
+
+This spindle (*shinbō*) connects to the thread-wheel.
+
+Thread-wheel — showing where the thread is wound.
+
+This needle is attracted to the magnet.
+
+For this (thread — use something similar to) shamisen strings; above all, one should use material with the smoothest possible glide.
+
+For this nail, the key principle is to choose bamboo or wood with the smoothest possible surface.
+
+This thread should be made as thin as possible; the mechanism should be thought of in the same way as a mousetrap (*nezumiotoshi*). If the weight is heavy and the magnetic attraction of the lodestone is weak, it may be wound twice.
+
+All of this may resemble what the proverb calls "swimming practice in a field" (*hatake suiren*) or "military strategy from inside a *kotatsu*" (*kotatsu hyōhō*) — in other words, armchair theorizing — but if one truly applies ingenuity and effort, surely it could be brought to fruition. And perhaps it may prove of benefit to future generations — it is with this hope that the design has been copied here, with the assistance of the painter Naohisa.

@@ -1,8 +1,8 @@
 filename	status	image
-001.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F001.tif/info.json
-002.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F002.tif/info.json
+001.txt	initiated	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F001.tif/info.json
+002.txt	initiated	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F002.tif/info.json
 003.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F003.tif/info.json
-004.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F004.tif/info.json
+004.txt	initiated	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F004.tif/info.json
 005.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F005.tif/info.json
 006.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F006.tif/info.json
 007.txt	default	https://iiif.adeac.jp/iiif/3/3310015100%2Fk000530%2F007.tif/info.json

@@ -1,21 +1,39 @@
-- Meiwa 9 (1772), Year of the Water Dragon, 2nd month (from the evening of the 29th day at the hour of the Snake until the morning of the 30th/1st day): Demon constellation (Water), flowing water
-  From Meguro to Senju, the Eastern Gate ruins burned down (Meiwa 9 refers to the previous era name; the era was changed to An'ei in the 11th month)
+**Record of Major Fires in Edo, with the Twenty-Eight Lunar Mansions and the Five Phases (continued)**
 
-- An'ei 7 (1778), Year of the Earth Dog, 2nd month, 12th day: Great fire in Edo, Horn constellation (Wood), trees on flat ground
+1. **The 9th year of Meiwa, the year Mizunoe-Tatsu (壬辰, 1772)** — 2nd month [from around the Hour of the Snake (c. 9–11 a.m.) on the 29th day, through to the morning of the 30th day (1st day of the following month)]
+[Lunar mansion: *Ki* (鬼宿, "Ghost"); Phase: Water (*mizu*)] — *Nagare no Mizu* ("Flowing Water")
 
-- Tenmei 4 (1784), Year of the Wood Dragon, 12th month, 26th day: Winnowing Basket constellation (Metal), lamp fire
-  From Yashiro-gashi wharf to Tsukiji Western Gate ruins burned down
+Fire spread from Meguro as far as Senju; the Higashi Honganji temple gate complex was destroyed. [Note: the character *waku* (惑) in "Meiwa" (明和, lit. "bright harmony") is (an ill omen) as shown in the preceding table. The era name was changed to "An'ei" in the 11th month (of that year).]
 
-- Same 6th year (1786), Year of the Fire Horse, 1st month: Ox constellation (Earth), pond water
-  Great fires in various places throughout Edo
+2. **The 7th year of An'ei, the year Tsuchinoe-Inu (戊戌, 1778)** — 12th day of the 2nd month
+Great Fire of Edo. [Lunar mansion: *Kaku* (角宿, "Horn"); Phase: Wood (*ki*)] — *Heichi no Ki* ("Wood of the Flatlands")
 
-- Kansei 4 (1792), Year of the Water Rat, 7th month, 21st day, daytime: Legs constellation (Wood), mulberry tree
-  From Azabu Kōgai Bridge to Banchō Kōji-machi area, Hikone Senjō-dana burned down
+3. **The 4th year of Tenmei, the year Kinoe-Tatsu (甲辰, 1784)** — 26th day of the 12th month
+[Lunar mansion: *Ki* (箕宿, "Winnowing Basket"); Phase: Metal (*kin*)] — *Tōmyō no Hi* ("Fire of the Votive Lamp")
 
-- Same 5th year (1793), Year of the Water Ox, 10th month, 25th day: Bond constellation (Fire), same tree
-  Great fire in Edo, both theaters' name holders changed (Sakai-chō Tsuden'uchi, Fukiya-chō Kirinaga-kiri)
+Fire spread from Yaezugashi (Yaesu quayside) to Tsukiji; the Nishi Honganji temple gate complex was destroyed.
 
-- Same 6th year (1794), Year of the Wood Tiger, 1st month, 10th day, middle of the hour of the Sheep: Stomach constellation (Water), mountain stream water
-  From Kōji-machi 5-chōme to Shiba Sendai lord's residence
+4. **The 6th year of Tenmei (same era), the year Hinoe-Uma (丙午, 1786)** — 1st month
+[Lunar mansion: *Go* (牛宿, "Ox"); Phase: Earth (*tsuchi*)] — *Ike no Mizu* ("Water of the Pond")
 
-- Bunka 3 (1806), Year of the Fire Tiger, 3rd month, 4th day, hour of the Snake: Horn constellation (Wood), hearth fire
+Great fires broke out in various locations throughout Edo.
+
+---
+
+5. **The 4th year of Kansei, the year Mizunoe-Ne (壬子, 1792)** — daytime of the 21st day of the 7th month
+[Lunar mansion: *Kei* (奎宿, "Legs"); Phase: Wood (*ki*)] — *Kuwa no Ki* ("Wood of the Mulberry")
+
+Fire spread from Azabu Kōgaibashi (bridge) through the Bancho and Kōjimachi areas; the Hikone domain's *senjōshiki* (千帖鋪, a large-floored building) was destroyed.
+
+6. **The 5th year of Kansei (same era), the year Mizunoto-Ushi (癸丑, 1793)** — 25th day of the 10th month
+[Lunar mansion: *Rō* (婁宿, "Bond"); Phase: Fire (*hi*)] — same wood type (*Kuwa no Ki*, "Wood of the Mulberry")
+
+Great Fire of Edo; the licensees (*nadai*) of both licensed theaters changed. [Sakaichō theater: Miyako Den'nai; Fukiyachō theater: Kirichō / Kiri]
+
+7. **The 6th year of Kansei (same era), the year Kinoe-Tora (甲寅, 1794)** — 10th day of the 1st month, middle of the Hour of the Sheep (c. 1–2 p.m.)
+[Lunar mansion: *I* (胃宿, "Stomach"); Phase: Water (*mizu*)] — *Yamazawa no Mizu* ("Water of Mountain and Marsh")
+
+Fire spread from the 5th block of Kōjimachi as far as Shiba and the Sendai domain lord's residence.
+
+8. **The 3rd year of Bunka, the year Hinoe-Tora (丙寅, 1806)** — 4th day of the 3rd month, Hour of the Snake (c. 9–11 a.m.)
+[Lunar mansion: *Kaku* (角宿, "Horn"); Phase: Wood (*ki*)] — *Irori no Hi* ("Fire of the Hearth")

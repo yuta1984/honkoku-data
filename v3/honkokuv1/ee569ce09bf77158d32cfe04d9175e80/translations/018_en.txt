@@ -1,24 +1,36 @@
-[Diagrams] [Diagrams] [Diagrams]
-[Below the diagrams]
-The years of Tekisatsu (calamitous stars) are as follows: One of the four is one's 
-birth year, the opposite is the seventh year, the left is the fourth year,
-and the right is the tenth year. During these four years, all matters are extremely 
-inauspicious. It is greatly mistaken to say that the seventh year is auspicious for married couples.
+**[Diagram with explanatory text]**
 
-Tekisatsu (Years, months, days, and hours all have the same fundamental basis, so they should be considered together)
+The years of *tekisetsu* (的殺, "personal deadly direction") are as shown in the figures. Of the four [critical years], one is the person's own birth year; opposite it is the seventh [year], to the left is the fourth [year], and to the right is the tenth [year]. These four years are greatly inauspicious in all matters. It is a serious error to call the seventh year auspicious for married couples.
 
-1st month  2nd  3rd  4th  5th  6th  7th  8th  9th  10th  11th  12th
-Tiger month Rabbit Dragon Snake Horse Sheep Monkey Rooster Dog Boar Rat  Ox
+---
 
-Dawn 6th hour, 5th, 4th, 9th, 8th, 7th, Evening 6th, Night 5th, 4th, 9th, 8th
-Rabbit hour Dragon Snake Horse Sheep Monkey Rooster Dog Boar Rat Ox
+**Tekisetsu** *(The same principle applies equally to years, months, days, and hours — these should be cross-referenced and considered together.)*
 
-Seventh
-Tiger
+**[Table of Months and the Twelve Earthly Branches]**
 
-This is something everyone knows, but I record it so that children and women can easily understand.
+| 1st month | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 12th |
+|-----------|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------|
+| Tiger (寅) | Rabbit (卯) | Dragon (辰) | Snake (巳) | Horse (午) | Goat (未) | Monkey (申) | Rooster (酉) | Dog (戌) | Boar (亥) | Rat (子) | Ox (丑) |
 
-Great Fires of Edo: Years and Months with the Twenty-Eight Constellations and Five Elements
-1. Meireki 3rd year, Hinoto-Tori year (Tsui constellation, Fire day, Fire of Okuyama) From the Dragon hour of the 18th day of the 1st month until the 20th day.
-   The fire started from Hongō Maruyama and spread to Fukagawa waterfront and also to the Ushijima area. On the 19th day at the Snake hour, a fire started in Koishikawa Shin-Takashōmachi. Also at the Monkey hour, a fire started in Kōji-machi. With two sources, around Sannō and inside and outside the palace grounds, great and small daimyo, and generally all the towns of Edo without exception up to the Shiba waterfront. The number of storehouses burned was approximately over 9,000. The fire was extinguished after three days and three nights. Details are in the Musashi Kagami.
-1. From the 11th month of the previous Monkey year until the 1st month of the Rooster year, there was a drought for over 80 days, and on the 21st day of the same month, there was large hail.
+**[Table of Hours (*toki*) and the Twelve Earthly Branches]**
+
+| Dawn sixth bell | Fifth bell | Fourth bell | Ninth bell | Eighth bell | Seventh bell | Dusk sixth bell | Night fifth bell | Fourth bell | Ninth bell | Eighth bell |
+|----------------|------------|-------------|------------|-------------|--------------|----------------|-----------------|-------------|------------|-------------|
+| Hour of the Rabbit (卯) | Dragon (辰) | Snake (巳) | Horse (午) | Goat (未) | Monkey (申) | Rooster (酉) | Dog (戌) | Boar (亥) | Rat (子) | Ox (丑) |
+
+*"Seventh bell"* — This is something everyone knows, but it is written here for the benefit of children and women who may find it easier to read.
+
+*(Tiger)*
+
+---
+
+**Record of Major Fires in Edo, with the Twenty-Eight Lunar Mansions and the Five Phases**
+
+1. **The 3rd year of Meireki, the year Hinoto-Tori (丁酉, 1657)**
+[Lunar mansion: *Shi* (觜宿, "Turtle Beak"); Day: Fire (*kayō*); Nature of fire: *Okuyama no hi* ("fire of the deep mountain")]
+
+From the Hour of the Dragon (*tatsu no koku*) on the 18th day of the 1st month to the 20th day:
+
+The fire originated at Hongō Maruyama and spread as far as the Fukagawa seaside and the vicinity of Ushijima. On the 19th day at the Hour of the Snake (*mi no koku*), another fire broke out at Koishikawa Shin-Takajō-machi. Furthermore, at the Hour of the Rooster (*tori no koku*) on the same day, a third fire broke out at Kōjimachi — from these two simultaneous outbreaks, the areas around Sannō, both inside and outside the *o-kuruwa* (the castle's outer enclosure), the residences of great and lesser lords (*daimyō* and *shōmyō*), and all the townspeople's districts of Edo without exception, as far as the Shiba seaside, were consumed. Approximately 9,000 or more storehouses (*kura*) were burned and destroyed. The fire was extinguished after three days and three nights. Full details are recorded in *Musashi Abumi* (武蔵鐙).
+
+Furthermore: from the 11th month of the preceding year of the Monkey (*申*) to the 1st month of the year of the Rooster (*酉*), there had been a drought (*kanbatsu*) lasting more than eighty days, and on the 21st day of that same month a heavy snowfall occurred.

@@ -1,0 +1,13 @@
+[Mother]: Daughter of the father of grandfather Samorisō
+[Daughter]: Youngest child; wife of Shayu-tei Sōgen
+[Mother]: Same as above
+
+Oku-no-suke　Sōshi
+[Mother]: Daughter of grandfather Yotomo-tei Sōgoku
+[Wife]: Daughter of Igi-jū-katsu-katsu-gen
+
+Sha-jirō　Sōgen
+[Mother]: Same as above
+
+Tomi-no-rō
+[Mother]: Same as above

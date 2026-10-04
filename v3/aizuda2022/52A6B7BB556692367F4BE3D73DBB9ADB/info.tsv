@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F001.tif/info.json
+001.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F001.tif/info.json
 002.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F002.tif/info.json
 003.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F003.tif/info.json
 004.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F004.tif/info.json
@@ -56,5 +56,5 @@ filename	status	image
 055.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F055.tif/info.json
 056.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F056.tif/info.json
 057.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F057.tif/info.json
-058.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F058.tif/info.json
-059.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F059.tif/info.json
+058.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F058.tif/info.json
+059.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F335_hi_06%2F059.tif/info.json

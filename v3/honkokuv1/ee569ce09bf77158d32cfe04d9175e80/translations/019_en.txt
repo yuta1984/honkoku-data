@@ -1,15 +1,39 @@
-Hail fell, and the cold was particularly severe. Many people who were hungry due to the great fire died of starvation and cold.
+*(Continued from the previous page)* — snow fell, and the cold was especially severe; in the wake of the great fire, many who were left without food perished from hunger and freezing.
 
-- Kanbun 8, Year of the Dog-Monkey: Great Fire of Edo, Tei constellation (Fire element), Earth of the great marsh
-- Tenna 2, Year of the Water-Dog: Same, I constellation (Water element), Water of the great sea  
-- Genroku Year of Earth-Dog-Tiger: Same, Shin constellation (Fire element), Earth of the deep mountains
-- Same 16, Year of Water-Sheep, 11th month, 29th day, Nu constellation (Wood element), Willow tree
-  From Ushigome to Tora-no-gomon gate burned down
-- Kyōhō 2, Year of Fire-Rooster, 1st month, 21st day, Ryū constellation (Wood element), Fire of the deep mountains
-  From Hongō to Tsukiji seaside
-- Same 9, Year of Wood-Dragon, 3rd month, Tei constellation (Fire element), Fire of the lamp
-  Shibaguchi gate burned down  
-- Same 10, Year of Wood-Snake, 2nd month, Bō constellation (Water element), Same fire
-  From Azabu Toriizaka to Shinagawa
-- Enkyō 3, Year of Fire-Tiger (from the last day of 2nd month to 1st day of 3rd month), Sei constellation (Fire element), Fire of the hearth
-  From Honjo and Tsukiji to Senju
+---
+
+**Record of Major Fires in Edo, with the Twenty-Eight Lunar Mansions and the Five Phases (continued)**
+
+1. **The 8th year of Kanbun, the year Tsuchinoe-Saru (戊申, 1668)**
+Great Fire of Edo. [Lunar mansion: *Tei* (氐宿, "Root"); Phase: Fire (*hi*)] — *Ōsawa no Tsuchi* ("Earth of the Great Marsh")
+
+2. **The 2nd year of Tenna, the year Mizunoe-Inu (壬戌, 1682)**
+Great Fire of Edo. [Lunar mansion: *I* (胃宿, "Stomach"); Phase: Water (*mizu*)] — *Taikai no Mizu* ("Water of the Great Ocean")
+
+3. **The 11th year of Genroku, the year Tsuchinoe-Tora (戊寅, 1698)**
+Great Fire of Edo. [Lunar mansion: *Shin* (心宿, "Heart"); Phase: Fire (*hi*)] — *Miyama no Tsuchi* ("Earth of the Deep Mountain")
+
+4. **The 16th year of Genroku, the year Mizunoto-Hitsuji (癸未, 1703)** — 29th day of the 11th month
+[Lunar mansion: *Jo* (女宿, "Girl"); Phase: Wood (*ki*)] — *Yanagi no Ki* ("Wood of the Willow")
+
+Fire spread from Ushigome to Toranomon Gate, which was destroyed.
+
+5. **The 2nd year of Kyōhō, the year Hinoto-Tori (丁酉, 1717)** — 21st day of the 1st month
+[Lunar mansion: *Ryū* (柳宿, "Willow"); Phase: Wood (*ki*)] — *Okuyama no Hi* ("Fire of the Deep Mountain")
+
+Fire spread from Hongō to the Tsukiji seaside.
+
+6. **The 9th year of Kyōhō, the year Kinoe-Tatsu (甲辰, 1724)** — 3rd month
+[Lunar mansion: *Tei* (氐宿, "Root"); Phase: Fire (*hi*)] — *Tōmyō no Hi* ("Fire of the Votive Lamp")
+
+Shibaguchi Gate was destroyed by fire.
+
+7. **The 10th year of Kyōhō, the year Kinoto-Mi (乙巳, 1725)** — 2nd month
+[Lunar mansion: *Bō* (房宿, "Room"); Phase: Water (*mizu*)] — same fire type (*Tōmyō no Hi*, "Fire of the Votive Lamp")
+
+Fire spread from Azabu Toriizaka to Shinagawa.
+
+8. **The 3rd year of Enkyō, the year Hinoe-Tora (丙寅, 1746)** — [from the last day of the 2nd month to the 1st day of the 3rd month]
+[Lunar mansion: *Sei* (星宿, "Star"); Phase: Fire (*hi*)] — *Irori no Hi* ("Fire of the Hearth")
+
+Fire spread from Honjo and also from Tsukiji as far as Senju.

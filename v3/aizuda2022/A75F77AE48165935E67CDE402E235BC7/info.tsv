@@ -1,7 +1,7 @@
 filename	status	image
-001.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F001.tif/info.json
-002.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F002.tif/info.json
-003.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F003.tif/info.json
+001.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F001.tif/info.json
+002.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F002.tif/info.json
+003.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F003.tif/info.json
 004.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F004.tif/info.json
 005.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F005.tif/info.json
 006.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F006.tif/info.json
@@ -74,11 +74,11 @@ filename	status	image
 073.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F073.tif/info.json
 074.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F074.tif/info.json
 075.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F075.tif/info.json
-076.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F076.tif/info.json
+076.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F076.tif/info.json
 077.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F077.tif/info.json
 078.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F078.tif/info.json
 079.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F079.tif/info.json
-080.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F080.tif/info.json
-081.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F081.tif/info.json
-082.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F082.tif/info.json
-083.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F083.tif/info.json
+080.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F080.tif/info.json
+081.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F081.tif/info.json
+082.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F082.tif/info.json
+083.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F200_ku_06%2F083.tif/info.json

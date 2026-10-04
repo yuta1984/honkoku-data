@@ -1,0 +1,39 @@
+**[Upper section, horizontal writing]**
+*Title: Votive Offering (Hōnō)*
+
+**[Lower section]**
+Seki School disciple: Matsumoto Toraemon, his disciple:
+Toyota Kitarō
+
+---
+
+**[Problem 1]**
+As shown in the figure, there is a small circle inside a large circle. It is given that the sum of the square root of the small circle's diameter and the cube root of the large circle's diameter equals 4 *sun*, and furthermore that the small circle's diameter falls short of the large circle's diameter by 4 *sun*. What are the respective diameters of the large and small circles?
+
+> **Answer:** Diameter of large circle: 8 *sun*
+> Diameter of small circle: 4 *sun*
+
+**Method:** Set the celestial element (unknown) as the square root of the small circle's diameter. Subtract the given value (first condition) to obtain the cube root of the large circle's diameter; square this to obtain the large circle's diameter, and place it on the left. Square the square root of the small circle's diameter to obtain the small circle's diameter, then add the second given value to obtain the large circle's diameter. Equate this with the left-side expression and solve. Taking the cube root yields the square root of the small circle's diameter; squaring it gives the small circle's diameter, and adding the given value gives the large circle's diameter. This satisfies the problem.
+
+---
+
+**[Problem 2]**
+As shown in the figure, there is a right triangle with sides *kō* (shorter leg), *ko* (longer leg), and *gen* (hypotenuse). Given that the hypotenuse is 997 *sun* and the area is 172,050 square *sun*, what is the length of *kō* (the shorter leg)?
+
+> **Answer:** *Kō* = 372 *sun*
+
+**Method:** Set the celestial element as *kō*. Square it to obtain *kō*'s power. Square the hypotenuse and subtract *kō*'s power from it; multiply the remainder by *kō*'s power to obtain four times the square of the area, and place it on the left. Square the area and multiply by four; equate with the left-side expression to obtain an equation. Solving the cubic equation (*sanjōhō*) yields *kō*. This satisfies the problem.
+
+---
+
+**[Problem 3]**
+As shown in the figure, there is a square pyramid with a volume of 32 cubic *sun*. Given that the sum of the square root of the base side length (*kaihōmen*) and the height (*tate*) equals 8 *sun*, what are the base side length and height?
+
+> **Answer:** Base side (*hōmen*): 4 *sun*
+> Height (*tate*): 6 *sun*
+
+**Method:** Set the celestial element as the height. Subtract the height from the given value (8 *sun*), square the remainder, and this gives the base side length. Square this and multiply by the height; place on the left. Multiply the volume by 3 and equate with the left-side expression to obtain an equation. Solving the quartic equation (*yojōhō*) yields the height. Subtract from the given value and square to obtain the base side length. This satisfies the problem.
+
+---
+
+*Meiji 34 (1901), January, an auspicious day*
