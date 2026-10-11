@@ -1,0 +1,32 @@
+## A Matter Displayed at Kumano Shrine, on Usui Pass at the Border of Shinano and Kōzuke Provinces
+
+**[Problem 1]**
+Suppose there is a principal sum lent out at annual interest, from which equal annual payments are collected until the debt is fully repaid (that is, with compound interest accruing on interest).
+Given: principal = ○○ *kan*, equal annual payment = ○○ *kan*, number of years = ○○ *kan*. Find the annual interest rate.
+
+　　Answer: As given by the method below.
+
+**Method:**
+Divide the principal by the equal annual payment; call this quotient the "rate" (*ritsu*). Add one to it. Call one the "original number" (*gensū*).
+According to the number of years (for 2 years, square twice; for 3 years, cube; for 4 years, raise to the 4th power; and so forth), multiply the self-multiplied result by the rate, add one, multiply by the original number, divide by the square of the original number, and add half the original number; call this "First Rate" (*ichi-ritsu*).
+According to the number of years, perform the same self-multiplication, multiply by the rate, add one, multiply by the original number, divide the square of the First Rate by the First Rate, and add half the First Rate; call this "Second Rate" (*ni-ritsu*).
+Perform the same operation using the Second Rate to obtain the "Third Rate" (*san-ritsu*).
+Continue accumulating in this manner to find the final rate (*sui-ritsu*). Divide one by it and subtract one; the remainder is the annual interest rate. This satisfies the problem.
+
+---
+
+**[Problem 2]**
+Suppose there is a principal sum lent out at annual interest, with the full principal-plus-interest total collected at the end of a fixed number of years, at which point the debt is fully settled.
+Given: principal = ○○ *kan*, total of principal and interest = ○○ *kan*, number of years = ○○ *kan*. Find the annual interest rate.
+
+　　Answer: As given by the method below.
+
+**Method:**
+Divide the total principal-plus-interest by the principal, subtract one, and call the remainder the "rate" (*ritsu*). Divide this by the number of years and call it *kō* (甲). Subtract *kō* from the rate; call the remainder *otsu* (乙). Add the rate to *otsu*; call it *hei* (丙). Add the rate to *hei*; call it *tei* (丁). Add the rate to *tei*; call it *bo* (戊). Continue in this manner up to the term called *kan* (幹).
+Set one as the "original number" (*gensū*). Multiply by *kō* and divide by one to obtain "First Difference" (*ichi-sa*). Multiply by *otsu* and divide by two to obtain "Second Difference" (*ni-sa*). Multiply by *hei* and divide by three to obtain "Third Difference" (*san-sa*). Continue finding each successive difference. Subtract these differences cumulatively from the original number. Divide one by the remainder and subtract one; the result is the annual interest rate. This satisfies the problem.
+
+---
+
+　　　　　　　　　　Disciple of Teacher Saitō
+　[Goryō Village, Usui District, Kōzuke Province]　　Suzuki Ainosuke Masahide
+　[Sixth month, Ansei 4, Year of the Snake (1857)]

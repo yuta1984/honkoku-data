@@ -1,25 +1,11 @@
-**Title: Votive Offering (Hōnō)**
+[Title: Votive Offering]
 
-Suppose there is a belt-shaped (annular) circle as shown in the figure.
-Inside it, there are four "ko-circles" (larger circles, 甲円),
-and within the successive stacked circles (累円), there are
-two "otsu-circles" (smaller circles, 乙円).
-Given that the number of stacked circles equals the number, and the diameter of the final (smallest) circle equals the diameter of the ko-circles, what is the diameter of the otsu-circles?
+Suppose, as shown in the figure, within a circumscribed right-angle configuration (belt-circle), there are four circles of type "ko" (甲, larger circles) and a series of nested/separated circles ("rui-en"), which contain two circles of type "otsu" (乙, smaller circles). Given that the number of the nested circles and the diameter of the final (smallest) circle equal the diameter of the ko circle, find the diameter of the otsu circle.
 
-**Answer:** Find the diameter of the otsu-circle using the method below.
+Answer: The diameter of the otsu circle is found by the following method.
 
-**Method:**
-Subtract the diameter of the final circle from the diameter of the ko-circle and call this value "ko" (子).
-Multiply "ko" by the diameter of the ko-circle, take the square root, then subtract twice "ko" — the result is the diameter of the otsu-circle.
-This satisfies the problem.
+Method: Subtract the diameter of the final circle from the diameter of the ko circle, and call this value "ko" (子, "child"). Multiply this by the diameter of the ko circle. Take the square root, then subtract twice the value of "ko" (子). The result is the diameter of the otsu circle. This satisfies the problem.
 
-Formally expressed:
-Let *d* = diameter of ko-circle, *m* = diameter of final (smallest) circle.
-Let *s* = *d* − *m* (called "ko/子").
-Then: diameter of otsu-circle = √(*s* · *d*) − 2*s*
-
-**School of Seki (関流)**
-Student of Master **Oshida Kunimasa (押田邦全)**
-
-**Auspicious day in the first month of the seventh year of Kaei, Year of the Kinoe-Tora (1854)**
-**Suga Sanjirō Kuniyoshi (須賀三治郎邦慶)**
+　　　[School: Seki School (関流)]
+　　　　[Teacher: Oshida Kunimasa] — Student of the above teacher
+[Date: An auspicious day in the first month of Kaei 7, the year of Kinoe-Tora (1854)]　[Dedicator: Suga Sanjiro Kuniyo]

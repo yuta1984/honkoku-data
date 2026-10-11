@@ -1,17 +1,17 @@
-【Right Page】
+**[Right Page]**
 
-Written by Master Takei Ranzan
+*Composed by Master Takei Ranzan*
 
-《Title: Onkun Kanazukai (A Guide to the On and Kun Readings of Japanese Characters)》
+**Title: Onkun Kanazukai (A Guide to the On and Kun Readings and National Characters)**
 
-The Japanese iroha syllabary is also known as "women's script," and if one knows its forty-seven characters, there is nothing in the world one cannot communicate. However, Chinese characters each have their own inherent readings, and in particular, since Japanese kana distinguishes between characters of similar sound—such as "i/wi," "wo/o," and "e/we"—there are many cases where matching characters to readings goes awry. Therefore, this work records the distinctions in kana orthography for both on (Chinese-derived) and kun (native Japanese) readings, and by correlating kan-on, go-on, and tō-on with their respective characters, it aims to make clear where no error exists.
+The Japanese *iroha* syllabary is also called "women's writing" (*onnaji*), and if one knows even its forty-seven characters, there is nothing in the world one cannot communicate. However, Chinese characters each have their own inherent readings, and in particular, among the national syllabic characters (*kana*), there are distinctions of weight and lightness—such as between *i* and *wi* (い・ゐ), *o* and *wo* (を・お), and *e* and *ye* (え・ゑ)—and so there are many cases where matching them to characters does not align correctly. Therefore, this work records the distinctions in *kana* usage for both *on* (Chinese-derived) and *kun* (native Japanese) readings, and, extending even to matters of *kan-on*, *go-on*, and *tō-on*, it aims to make known the correct correspondences between sounds and characters, free of error.
 
 ---
 
-【Left Page】
+**[Left Page]**
 
-**Preface to Onkun Kanazukai**
+**Preface to Onkun Kanazukai**　[Square seal]
 
-It is only after language exists that characters come into being. It is only after characters exist that on and kun readings come into being. On and kun readings are, in turn, language itself. That which communicates between people sharing the same seat is "speech"; that which reaches across the boundaries of nations is "writing." In the most ancient times, things were simple—like the knotted cords and bird-track marks of primitive writing—but refined in both form and substance, and arriving at the beauty of seal script, large-seal script, regular script, and cursive script: these things do not merely belong to foreign courts alone. They have spread and circulated throughout ten thousand lands as if in a single day. In our own [country…]
+First there was spoken language, and thereafter writing was born. First there was writing, and thereafter *on* and *kun* readings were born. *On* and *kun* are, in turn, also a form of language. What conveys meaning to those sharing the same room is speech; what reaches across the distance of nations is the written character.
 
-*(Text continues on the next page.)*
+In the remote past, from the rustic simplicity of knotted cords and bird-track-like markings, through the refined elegance of the various script styles—seal, great seal, standard, and cursive (篆・籀・楷・草)—could it be that these things remained confined to a single court alone? Surely not. Through change and circulation, even ten thousand nations were as if united in a single day. And in our own [country...]

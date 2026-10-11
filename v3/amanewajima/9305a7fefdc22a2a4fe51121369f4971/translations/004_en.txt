@@ -1,0 +1,15 @@
+Sake Rationing Coupon　[Bottom right: "Handling Sake Brewery"]
+
+One item: Two shō of refined sake (seishu)
+Shōwa Year __, Month __
+Fugeshi District Sake Brewers' Association (Seal: "Seal of the Ishikawa Prefecture Fugeshi District Sake Brewers' Association")
+
+[In red] ◎ This coupon is valid for the current month only.
+
+[Above the following three items] Important Notices
+
+1. Please be sure to bring your rationing coupon when placing an order.
+   If you do not bring it, we will be unable to provide your rationed allocation.
+2. Please be sure to bring empty bottles when placing an order.
+3. Please be aware in advance that the rationed quantity may increase or decrease slightly from month to month.
+</translation_ja>

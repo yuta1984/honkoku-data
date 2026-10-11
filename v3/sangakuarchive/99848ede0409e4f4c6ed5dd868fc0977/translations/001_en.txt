@@ -1,0 +1,14 @@
+Two problems dedicated to Yushima Tenman Shrine in the Eastern Capital (Edo/Tokyo):
+
+　　　Suppose that, as shown in the figure, there are several small circles inscribed within a right triangle (a "hook-and-leg" triangle), separated by the hypotenuse (a provisional figure shows nine circles). Given the length of the shorter leg (hook), the length of the longer leg (leg), and the total count of the small circles, what is the diameter of each small circle?
+
+　　　Answer: The diameter of the small circle is obtained by the following method.
+
+　　　Method: (First, find the hypotenuse separately.)
+　　　Take the total number of small circles, subtract one from it; the remainder becomes the "multiplier for root extraction." ○ Next, add the leg and hypotenuse to the hook, divide the hypotenuse by this sum, double the result, and subtract one; extract the square root of the multiplier so that it equals this remainder. (For example, if there are nine circles, extract the root of eight.)
+　　　Multiply this remainder by both the hook and the leg, then divide by the hypotenuse, and one obtains the diameter of the small circles. This satisfies the problem.
+
+　　　　　　　　　　Seki School — Disciple of Kamiya Sadanori (Yukikichi)
+　　　　　　　　　　Residing in Hongo, Eastern Capital (Edo)
+
+　3rd Month, Kansei 1st Year (1789), Year of the己酉　　　　Kazamatsuri Hannosuke Taira no Kunitoyo

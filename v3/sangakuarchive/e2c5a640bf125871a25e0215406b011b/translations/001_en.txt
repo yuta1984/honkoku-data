@@ -1,0 +1,14 @@
+**Problem:**
+As shown in the figure, when ten chords are inscribed within a circle (though the number of chords does not matter), and each chord has a length of 3 sun, find the diameter of the circle such that the total area of the outer segments (the regions between the chords and the arc) is minimized.
+
+**Answer:**
+The diameter of the circle is a little more than 10 sun.
+
+**Method (Solution):**
+Place the number of chords; divide by the value of π (using the true value); add 1 to the quotient; take the square root; multiply by the length of the chord — this gives the diameter of the circle. This satisfies the problem.
+
+　　　　　　　School of Seki
+　　　　　　　Disciple of Fujita Sadasuke
+　　　　　　　Retainer of Mōri, Lord of Iwami
+Kansei 7th year, Year of Kinoto-U (1795), 11th month
+　　　　　　　Yamabe Hyōsuke Kiyomasa

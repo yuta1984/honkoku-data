@@ -1,0 +1,41 @@
+## A Matter Dedicated to Kumano Shrine [located at: the border between Shinano and Jōshū provinces, Usui Pass]
+
+**[Problem 1]**
+
+Suppose there is a principal sum lent out at annual interest, with equal annual payments collected until the debt is fully settled (that is, with compound interest, where interest accrues upon interest).
+Given: principal = [some amount], annual payment = [some amount], number of years = [some amount]; what is the annual interest rate?
+
+**Answer: As given in the method below.**
+
+**Method:**
+Divide the principal by the annual payment amount; call the result the "ratio" (*ritsu*). Add one to it. Divide one by this sum; call the result the "original number" (*gensū*).
+
+Raise the "ratio" to the power corresponding to the number of years (for two years, multiply it by itself twice; for three years, three times; for four years, four times; and so on in this manner). Add one to this result, multiply by the "original number," divide by one, then add the square of the "original number" to the "original number" itself and halve the sum; call this the "first rate" (*ichi-ritsu*).
+
+Raise the "ratio" to the power corresponding to the number of years, add one, multiply by the "original number," divide by one, then add the square of the first rate to the first rate itself and halve the sum; call this the "second rate" (*ni-ritsu*).
+
+Raise the "ratio" to the power corresponding to the number of years, add one, multiply by the "original number," divide by one, then add the square of the second rate to the second rate itself and halve the sum; call this the "third rate" (*san-ritsu*).
+
+Continue accumulating in this manner to obtain the "final rate" (*tsui-ritsu*). Divide one by this final rate, then subtract one from the result; the remainder is the annual interest rate. This agrees with the problem.
+
+---
+
+**[Problem 2]**
+
+Suppose there is a principal sum lent out at annual interest, with a fixed term, after which the combined total of principal and interest is collected and the debt is fully settled.
+Given: principal = [some amount], combined principal-and-interest total = [some amount], number of years = [some amount]; what is the annual interest rate?
+
+**Answer: As given in the method below.**
+
+**Method:**
+Divide the principal-and-interest total by the principal; subtract one; call the remainder the "ratio" (*ritsu*). Divide by the number of years; call the result *kō* (甲). Subtract *kō* from the ratio; call the remainder *otsu* (乙). Add the ratio; call it *hei* (丙). Add the ratio; call it *tei* (丁). Add the ratio; call it *bo* (戊). Continue in this manner to obtain *kan* (幹).
+
+Set one as the "original number" (*gensū*). Multiply by *kō* and divide by one; call this the "first difference" (*ichi-sa*). Multiply by *otsu* and divide by two; call this the "second difference" (*ni-sa*). Multiply by *hei* and divide by three; call this the "third difference" (*san-sa*). Obtain each successive difference in this manner, and subtract them cumulatively from the "original number." Divide one by the remainder and subtract one; the result is the annual interest rate. This agrees with the problem.
+
+---
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Disciple of [Saitō] Sensei**
+
+&emsp;&emsp;**[Jōshū, Usui District, Goryō Village]&emsp;&emsp;Suzuki Ainosuke Masahide**
+
+&emsp;&emsp;**Ansei 4, Year of the Hinoto-Mi (1857), Sixth Month**

@@ -1,0 +1,13 @@
+This is a problem dedicated to the Marishiten Hall in Shitaya, Eastern Capital [Edo/Tokyo].
+
+　Suppose that, as shown in the figure, the interior of a trapezoid is divided by a diagonal line, and four circles are inscribed [in the resulting regions]. It is given only that the diameter of circle A (甲) is 100 sun, the diameter of circle B (乙) is 28 sun, and the diameter of circle C (丙) is 45 sun. What is the length of the large base [upper base] of the trapezoid?
+
+　Answer: The large base is 300 sun.
+
+　Method: Place the diameter of circle A, add the diameter of circle B, and call this the "kii" [working sum]. (Hereafter, the two characters for "diameter" are abbreviated.) Add four stages [i.e., multiply by 4] to [the diameter of] circle C to obtain a value. Multiply [this] by the kii, then subtract from the interior [of this product] four stages of the product of A and B multiplied together. Extract the square root of the remainder. Subtract this from the sum of the kii and circle C combined; divide the remainder by the square root of circle C, obtaining a value. Multiply [this] by [the diameter of] circle A to obtain the large base. This accords with the problem.
+
+　　　　　　　　　　　Seki School, disciple of Kamiya Sadayoshi
+　　　　　　　　　　　Residing at Shin-horibata, Asakusa, Eastern Capital
+　　　　　　　　　　　Miura Banjirō Naruyoshi
+
+　Third month of the Year of the Monkey, Tenmei 8 [1788]

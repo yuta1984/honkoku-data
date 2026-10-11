@@ -1,29 +1,30 @@
 【Left folio】
 
-　　　　　Shimono-machi district
-One: Same [cooper]　　　Monzaemon
-　　　　　Same district
-One: Same　　　　Kichitarō
-　　　　　Fukuro-machi district
-One: Same　　　　Kihei
-　　　　　Same district
-One: Same　　　　Tōzaemon
-　　　Note: Half-rate unjo (artisan tax) — partial trade
-　　　　　Shimizu-machi district
-One: Same　　　　Toyohachi
+One: Same [cooper]　　　Shimono-machi district
+　　　　　　　　　　　Monzaemon
+One: Same　　　　　　Same district
+　　　　　　　　　　　Kichitarō
+One: Same　　　　　　Fukuro-machi district
+　　　　　　　　　　　Kihei
+One: Same　　　　　　Same district
+　　　　　　　　　　　Tōzaemon
+　　Note: Half-rate artisan tax (unjo)
+　　　　　　　　　　Shimizu-machi district
+One: Same　　　　　　　Toyohachi
 
-《Struck through: Petition of the 5th month of the Year of the Snake, [?] village [?] — Seri-machi district, Musashi, cross-district worker under guarantee》
-　《Struck through: Same as above 《interlinear note: ■ settled》》　Rihei
-　　　　　Katsura-machi district
-One: Tatami-maker　　　Sakubei
-　　　　　Cross-district worker at said person's shop
-One: Tatami-maker　　　Torazō
-　　Note: Temporary [status]
-　　　　　　Seri-machi district
+Petition to return to home village, 5th month of the Year of the Snake
+　　　　　　　Seri-machi district, crossed-district worker under guarantee of Musashi [underlined in original]
+One: Same [cooper]　　Rihei
+　　　　　　　　　　Katsura-machi district
+One: Tatami-maker　　Sakubei
+　　　　　　　　　　Crossed-district worker at said person's establishment
+One: Tatami-maker　　Torazō
+　　Note: Temporary only
+　　　　　　　　　　Seri-machi district
 One: Stonemason　　　Ichiemon
 
-The foregoing is as stated. Respectfully submitted.
-　　　　　　　Monthly duty officer:
+The foregoing is as stated above. Respectfully submitted.
+　　　　　　　　　Monthly duty officer:
 　　11th month of the Year of the Dragon — Kitahara Rizaemon
 
-The foregoing: on the 13th day of the 11th month, an instruction was received from Lord [■]zaemon to the effect that a written report should be submitted; accordingly, on the 15th day, the report was duly drawn up and submitted as above.
+Regarding the above, an instruction was received from Shimizu Tanzaemon on the 13th day of the 11th month to prepare and submit a written report, and accordingly the report was duly submitted on the 15th day as stated above.

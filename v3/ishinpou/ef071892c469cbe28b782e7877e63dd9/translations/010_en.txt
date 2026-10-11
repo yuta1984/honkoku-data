@@ -1,42 +1,42 @@
-## [From the *Shinkyū-kyō* and *Imon-hō* — Age-based Restrictions on Needling, Methods of Inducing Perspiration, and Prescriptions]
+## From the *Shinkyū-kyō* (Classic of Acupuncture and Moxibustion) and the *Imon-hō* (Medical Prescriptions) — Sweating Therapies and Formulas
 
-### From the *Shinkyū-kyō* (Classic of Acupuncture and Moxibustion)
+**[From the *Shinkyū-kyō* 針灸経]**
 
-The *Shinkyū-kyō* says: Children of ten years of age and the elderly of seventy years of age must not receive acupuncture needling. Moxibustion (*kyū*) and sweet medicines (*kanyaku*) are appropriate for them.
-
-### From the *Imon-hō* (Medical Formulary)
-
-The *Imon-hō* says: As a general principle (*ōmune*), in spring and summer it is appropriate to induce perspiration.
-
-In general, when taking an herbal decoction (*tōyaku*) [to promote sweating]: if the sweating is induced and hits the mark [i.e., effectively addresses the illness], stop [taking the medicine] at once. It is not necessarily required to finish the entire prescribed dose (*sai*, one full course of the formula).
-
-In general, when inducing perspiration, it is best to have the fluids and humours (*shin'eki*, i.e., body fluids) circulate throughout, reaching the hands and feet evenly, moistening the entire body all at once. However, it is not necessary for the sweat to pour forth like a streaming rainstorm. Apply powder by rubbing it onto the body, and do not expose [the body] to wind or cold.
-
-In general, after a great sweat has broken out and then subsequently the pulse becomes *kōdai* (surging and large), and the appearance [of the condition] resembles that of malaria (*okori*), recurring twice in one day — when sweat breaks out [again], the condition will resolve. [In this case,] administer *Keishi Maō-tō* (Cinnamon Twig and Ephedra Decoction) once more.
+The *Shinkyū-kyō* says: Children of ten years of age and elderly persons of seventy years of age must not receive acupuncture needling. It is appropriate to use moxibustion and sweet-flavored medicines (*kanyaku*).
 
 ---
 
-**Keishi Maō-tō 桂枝麻黄湯 (Cinnamon Twig and Ephedra Decoction)**
+**[From the *Imon-hō* 医門方 — The General Rule for Inducing Sweating]**
 
-- Ephedra (*maō*) [vernacular names: *kure no hashikami*, or *amana*, or *katsunekusa*]: 4 *ryō* (nodes removed)
-- Cinnamon heartwood (*keishin*): 2 *ryō*
-- Licorice (*kanzō*) [lit. "sweet herb"]: 1 *ryō* (roasted/processed)
-- Apricot kernels (*kyōnin*) [lit. "seeds of the Chinese apricot"]: 80 pieces (tips removed)
+The *Imon-hō* says: As a general rule (*ōmune*), in spring and summer it is appropriate to induce sweating.
 
-Using 7 *shō* of water, first boil the ephedra until it has come to three boils; skim off and discard the foam; add the remaining medicines; boil down and obtain 2½ *shō*. Divide into three doses and take. Allow seven to eight *ri* [of travel time] between each dose. [Cover the body to keep warm.] [This will induce] perspiration. It is not necessary to sip (*susuru*) rice gruel (*kayu*). For the remainder [of the treatment], follow the method of *Keishi* (Cinnamon Twig Decoction).
+When administering herbal decoctions (*tōyaku*) to induce sweating, if sweating [is brought about and] strikes (*ataru*) the disease [effectively], stop [the administration of medicine] immediately. It is not necessary to exhaust an entire preparation (*zai*, a full dosage).
+
+When inducing sweating, it is best to have the fluids of the body (*shin'eki*, body fluids, i.e., *jin ye* 津液) flow through to the extremities of the hands and feet (*shūhen*, comprehensively throughout) *[phonetic gloss: "蟄" (*chitsu*) — fanqie reading 直立反, meaning "to store / conceal"]*, circulate throughout the body, and moisten [it] all at once — that is the superior result. However, one must not allow the sweat to pour off in streams (flowing out of the pores) like a sudden rainstorm. Apply powdered [medicine], grinding and rubbing it onto the body, and do not expose [the patient] to wind or cold.
+
+When a great sweat has broken out and then the pulse again becomes flooding and large (*kōdai*), and the patient's condition resembles a malarial attack (*okori*), recurring twice in a single day — if sweating occurs the condition is promptly resolved. Administer *Keishi-maō-tō* (Cinnamon Twig and Ephedra Decoction, 桂枝麻黄湯) once again.
+
+**[Formula: *Keishi-maō-tō* 桂枝麻黄湯]**
+
+> Ephedra (*maō*, 麻黄) — *kure-no-hashikami*, also known as *amana* or *katsunekusa* — 4 *ryō* [remove the nodes]
+> Cinnamon heartwood (*keishin*, 桂心) — 2 *ryō*
+> Licorice root (*kanzo*, 甘草) — 1 *ryō* [dry-roasted]
+> Apricot kernel (*kyōnin*, 杏仁; *karamomo no sane*) — 80 pieces [remove the pointed tips]
+
+Using 7 *shō* of water, first boil the ephedra until three full rolling boils have occurred, skim off the foam (*撩去沫*), add all the other medicines, boil down to obtain 2½ *shō*, divide into three portions, and take [one portion] at a time. Each dose should be spaced approximately the time it takes to walk seven or eight *ri* apart. Cover [the patient with bedding] to induce sweating. There is no need to sip gruel (*kayu*). For the remainder [of the method], follow the protocol for Cinnamon Twig Decoction (*Keishi-hō*).
 
 ---
 
-In general, after perspiration has been induced and the sweat subsequently continues to leak out without stopping — and the patient avers to wind (*kaze o nikumu*), finds urination difficult, has slight stiffness (*kyū*) in the four limbs, and finds it difficult to flex and extend them — *Keishi-ka-Bushi-tō* (Cinnamon Twig Decoction plus Aconite) governs this condition.
+**[Formula for Persistent Leaking Sweat (*rōkan*) After Sweating Treatment]**
 
----
+When, after inducing sweating, the sweat continues to leak and does not stop, and the patient has an aversion to wind, difficulty urinating, mild cramping in the four limbs, and difficulty bending and extending [the limbs], *Keishi-ka-bushi-tō* (Cinnamon Twig Decoction Plus Aconite, 桂枝加附子湯) governs this condition.
 
-**Keishi-ka-Bushi-tō 桂枝加附子湯 (Cinnamon Twig Decoction with Aconite)**
+**[Formula: *Keishi-ka-bushi-tō* 桂枝加附子湯]**
 
-- Cinnamon heartwood (*keishin*): 3 *ryō*
-- Peony (*shakuyaku*) [vernacular: *ebisu-kusuri*]: 3 *ryō*
-- Licorice (*kanzō*): 2 *ryō* (roasted/processed)
-- Fresh ginger (*shōkyō*): 3 *ryō*
-- Jujube (*taisō*): 12 pieces (crushed and sliced)
+> Cinnamon heartwood (*keishin*, 桂心) — 3 *ryō*
+> Peony (*shakuyaku*, 芍薬; *ebisukusuri*) — 3 *ryō*
+> Licorice root (*kanzo*, 甘草) — 2 *ryō* [dry-roasted]
+> Fresh ginger (*shōkyō*, 生姜) — 3 *ryō*
+> Large jujube (*taiso*, 大棗) — 12 pieces [cut into pieces / torn apart]
 
-Using 7 *shō* of water, cook over a gentle flame (*toro-bi*) and obtain 3 small *shō*; remove the dregs (*kasu*). Take warm, divided into three doses. After taking the decoction, it is necessary to further sip one *shō* of hot rice gruel to help augment the power of the medicine. Cover warmly [to keep the body warm] and allow [the patient] to perspire gently. If [the sweating] does not appear, take [the medicine] again as before. For those in whom sweating does not occur, from about half a day's interval [after taking the medicine], one will begin to feel recovery (*iyuru*). Observe the illness the following morning (*myōshin*)…
+Using 7 *shō* of water, simmer over a gentle flame, reduce to obtain 3 small *shō*, remove the dregs (*kasu*), and take warm in three divided doses. After taking the decoction, one should then sip one *shō* of hot rice gruel to assist the efficacy of the medicine. Cover [the patient] warmly to promote sweating. If sweating appears [and then stops], take [the medicine] again as before. For those who do not sweat, after about half a day [they will] find that recovery has been achieved. The following morning, observe [the patient's condition] — and the illness [continues to be assessed as follows...]

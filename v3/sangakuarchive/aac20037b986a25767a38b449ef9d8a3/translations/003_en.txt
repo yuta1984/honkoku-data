@@ -1,0 +1,39 @@
+## [Problem: Finding the Annual Interest Rate from Principal and Total Amount]
+
+Suppose there is a principal sum lent at annual interest, to be settled in full after a fixed number of years, with both principal and interest collected together at the end.
+Given: principal = [some amount], total of principal and interest combined = [some amount], number of years = [some amount]; what is the annual interest rate?
+
+**Answer: As given in the method below.**
+
+**Method:**
+Divide the principal by the total principal-plus-interest amount, then subtract one; call the remainder the "ratio" (*ritsu*). Divide this ratio by the number of years; call the result "Kō" (甲, "A"). Subtract Kō from the ratio; call the remainder "Otsu" (乙, "B"). Add the ratio to Otsu; call the result "Hei" (丙, "C"). Add the ratio to Hei; call the result "Tei" (丁, "D"). Add the ratio to Tei; call the result "Bo" (戊, "E"). Continue naming in this manner to obtain the "trunk" (*miki*, 幹).
+
+Place one as the "original number" (*gensū*). Multiply by Kō and divide by one to obtain the "first difference" (*ichi-sa*). Multiply by Otsu and divide by two to obtain the "second difference" (*ni-sa*). Multiply by Hei and divide by three to obtain the "third difference" (*san-sa*). Continue obtaining each successive difference in this manner, subtract them cumulatively from the "original number," divide one by the remainder, then subtract one from the result; the annual interest rate is obtained. This agrees with the problem.
+
+---
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A pupil of **Saitō Sensei**
+&emsp;**[Goryō Village, Usui District, Jōshū Province]**&emsp;&emsp;**Suzuki Ainosuke Masahide**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ansei 4, Year of Hinoto-Mi (1857), Sixth Month**
+
+---
+
+## A Matter Dedicated to Kitano Tenmangū Shrine [in the Imperial Capital (Kyoto)]
+
+**[Problem: Finding the Minor Axis of an Ellipse]**
+
+Suppose there is an ellipse. Given: circumference = [some amount], major axis = [some amount]; what is the minor axis?
+
+**Answer: As given in the method below.**
+
+**Method:**
+Place the major axis, multiply by the circular ratio (π), divide this into the circumference, subtract one; call the remainder "Ten" (天, "Heaven"). Raise Ten to the fourth power.
+Using the method of the "pseudo-ratio" (*gi-ritsu*), find the "ellipse ratio" (*daen-ritsu*) and the "side ratio" (*soku-ritsu*).
+
+Place the fifth power of Ten (*Ten* to the fifth), add [104], multiply by Ten, subtract [4,104], multiply the remainder by Ten, add [4,568], multiply by Ten, add [461]; call this "Chi" (地, "Earth").
+
+Place the ratio at [591 steps], add [33,339], multiply by the ratio, add [25,566], multiply by the ellipse ratio; call this "Jin" (人, "Person/Human").
+
+Place the ratio at [13,542 steps], subtract [2,664] from within, multiply by the ratio, (add or subtract as appropriate) add [16,206], multiply by the side ratio, subtract this from "Jin"; the remainder is…
+
+*(Page continues)*

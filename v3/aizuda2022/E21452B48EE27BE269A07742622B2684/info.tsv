@@ -1,5 +1,5 @@
 filename	status	image
-001.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F001.tif/info.json
+001.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F001.tif/info.json
 002.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F002.tif/info.json
 003.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F003.tif/info.json
 004.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F004.tif/info.json
@@ -69,7 +69,7 @@ filename	status	image
 068.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F068.tif/info.json
 069.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F069.tif/info.json
 070.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F070.tif/info.json
-071.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F071.tif/info.json
+071.txt	initiated	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F071.tif/info.json
 072.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F072.tif/info.json
-073.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F073.tif/info.json
-074.txt	default	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F074.tif/info.json
+073.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F073.tif/info.json
+074.txt	completed	https://iiif.adeac.jp/iiif/3/0720215100%2F175_na_17%2F074.tif/info.json

@@ -1,24 +1,28 @@
-[Continued from previous page] …and thus one stands. In general, the direction toward the eave (*noki*) is the position of honor (*agari*, upper seat). The standing position of ■■■ (illegible) person is also the position of honor. The ■ (illegible) of the eave is likewise the same.
+(Continued from the previous page) …one stands accordingly. In general, the side toward the eaves (*noki*) is called *akari* (the "bright" or "upper" side). The place where that [certain] person stands is the *akari*. The ■■ of the eaves is likewise the same.
 
-Item: Whether the garden faces south, west, northwest, or the building faces east, the placement of the trees remains ■ (illegible) unchanged, as described here. 
-　　Masamori adds the following as a personal note: Regardless of whichever direction a garden faces, the rule is as follows — to the right of the eave is the pine (*matsu*), to the left is the tachibana (wild orange), facing the pine is the maple (*kaede*), and facing the tachibana is the willow (*yanagi*). This is the prescribed arrangement.
+Item: Whether the garden faces south, west, north, or east, the placement of the trees should be replanted accordingly as follows.
+　　[A note added personally by Masamori:] No matter which direction the garden faces, to the right of the eaves should be the pine (*matsu*), to the left should be the tachibana (橘, mandarin orange), facing the pine should be the maple (*kaede*), and facing the cherry (*sakura*) should be the willow (*yanagi*). This is the prescribed rule.
 
-【Diagrams: "Eight-Boundary Diagram" (*Hakkyō-zu*) / "Two-Division Diagram" (*Ryōbun-zu*)】
+【Diagrams: "Hachi-kyō-zu" (Eight-Boundary Diagram) and "Ryōbun-zu" (Two-Division Diagram)】
 
-[Eight-Boundary Diagram]
-　　　　　Tree　　　　　　　(Tree)
-　Player　　　　　Player
-*Taishuku* (Contracted Pair)
-　Player
-　　　　　　　Player
-　　　　　　Ball (*mari*)
-　Tree　　　　　　Player　　Tree
-　Player
-　Player　　　Player
+*(Eight-Boundary Diagram)*
+```
+              [Tree]
+                                    [Tree]
+        [Person]          [Person]
+  Taishuku (對縮)
+        [Person]
+                  [Person]
+              [Ball (鞠)]
+        [Tree]            [Person]    [Tree]
+      [Person]
+    [Person]          [Person]
+```
 
-[Two-Division Diagram]
-　　　　　Tree
-　　　　　　(arrangement abbreviated)
-　　　　　Tree
+*(Two-Division Diagram)*
+```
+              [Tree]
+                                    [Tree]
+```
 
-Take a sheet of *hanshi* (half-sheet paper) held horizontally, then hold it folded vertically in two, wrap the thumb in a leftward (counter-clockwise) winding, and then, raising it into a knot at the tip (*kamokasaki*-knot?), tie it, then draw it around, and tie at the inside of the fingers and also at the side, up to the edge.
+Concerning the wrapping of this [object — likely the kemari ball or paper cord]: Fold the paper horizontally, then fold it again vertically into two; wrap the thumb (*oyayubi*) in a left-handed roll (*hidarimaki*); twist it into a paper cord (*koyori*); tie it in a "*kamokasaki*-knot" (*かもかさき結び*), tying also the top; draw it around [through] ■■; tie also the inside of the fingers and the sides; and at the edge…

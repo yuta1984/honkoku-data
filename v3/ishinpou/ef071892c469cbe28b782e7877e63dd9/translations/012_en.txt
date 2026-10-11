@@ -1,43 +1,47 @@
-## [General Principles of Emesis and Purgation]
+## [General Principles of Emesis and Purgation Therapy]
 
-It further says: As a general rule, in spring, emesis (inducing vomiting) is appropriate.
+### General Principles of Emesis (Inducing Vomiting)
 
-As a general rule, in all cases where the illness resides in the chest (*kyōchū*), it is appropriate to induce vomiting.
+It further says: As a general rule (*ōmune*, the overarching principle), in **spring**, emesis (inducing vomiting) is appropriate.
 
-As a general rule, when one takes a decoction (*tō*) and vomits, this means the medicine has reached the illness; one may then stop [administering it], and it is not necessary to use up the entire preparation (*zai*). Those in whom emesis is indicated include: patients with *okori* (疟, malaria-like intermittent fever) and *shōkan* (傷寒, febrile illness) where the chest is full; those with accumulated phlegm (*shakutan*) and dry retching (*kan'ō*); those with phlegm-heat (*tannetsu*) in the chest and diaphragm area; those with coughing (*tensō*); and those with lung abscess (*haiyō*) expectorating pus — all of these are appropriate for emesis.
+As a general rule, in all diseases where the illness is located within the chest (*kyōchū*), emesis is appropriate.
 
-As a general rule, if there is retained food (*shukushoku*, food stagnation) in the stomach (*ikan*, the stomach vessel), one should cause it to be expelled — either by emesis or by purgation.
+As a general rule, if after taking a decoction (*tō*) the patient vomits, this means the medicine has struck (*atatta*) the disease; one may then stop, and it is not necessary to finish the entire preparation (*zai*).
 
-It further says: All persons with *shigyaku* (四逆, reversal cold of the four limbs — when all four extremities are cold) must not be subjected to emesis.
+Those for whom emesis is appropriate — [the indications are]: *nue* (虐, malaria-like intermittent fever) and *shōkan* (傷寒, cold-damage fever illness) with fullness in the chest (*kyōman*); accumulated phlegm (*shakutan*) or dry retching (*kan'ō*, nausea without vomiting); also phlegm-heat (*tannetsu*) in the chest and diaphragm region; *tenshō* (転嗽, coughing — fanqie reading: *sōzō-han*); and *haiyō* (肺癰, lung abscess) with expectoration of pus — all of these alike are appropriate for emesis.
 
-As a general rule, all persons who are deficient and emaciated (*kyorui*, weak and wasted) must not be subjected to emesis.
+As a general rule, if undigested food (*shukushoku*, retained food) is present in the gastric tract (*ikan*, the stomach and its passageway), one should cause the patient to both vomit and purge (*hakikudashi*, emesis and downward purgation).
 
-As a general rule, women who have recently given birth (*shinsan*) must not be subjected to emesis.
+It further says: As a general rule, persons with *shigyaku* (四逆, reversal cold of all four limbs) must not be made to vomit.
 
-As a general rule, persons whose *kakke* (脚気, beriberi) is surging upward toward the heart (*shōshin*, the qi of beriberi striking upward toward the heart) should not be subjected to emesis.
+As a general rule, persons who are *kyorui* (虚羸, vacuous and emaciated, weak and wasted) must not be made to vomit.
 
-As a general rule, a patient who has an aversion to cold and does not want clothing near them must not be subjected to emesis.
+As a general rule, persons who have recently given birth (*shinsan*, newly postpartum) must not be made to vomit.
+
+As a general rule, persons in whom *kakke* (脚気, leg qi, beriberi) surges upward (*jōshō*) and thrusts into the heart region (*mune*, chest) must not be made to vomit.
+
+As a general rule, if a sick person has an aversion to cold (*nikumu*) and does not wish to bring clothing close (i.e., wants to remove their clothing), they must not be made to vomit.
 
 ---
 
-It further says: As a general rule, in autumn, purgation (inducing bowel movements) is appropriate.
+### General Principles of Purgation (Inducing Downward Evacuation)
 
-As a general rule, when one takes a decoction (*tō*) with the aim of purging, if it reaches the illness [and takes effect], one should stop; one must not use up the entire preparation.
+It further says: As a general rule, in **autumn**, purgation (*kudasu*) is appropriate.
 
-As a general rule, when disease flares up and there is much sweating, promptly purge the patient.
+As a general rule, when taking a decoction (*tō*) that purges downward, if it strikes the disease, one should stop, and must not finish the entire preparation (*zai*).
 
-As a general rule, when a disease has persisted for five or six days and the abdomen is full and there is no bowel movement, promptly purge the patient.
+As a general rule, when a disease flares up (*hossa*) and there is profuse sweating, urgently purge it.
 
-As a general rule, when after a major purgation six or seven days pass without a bowel movement, and there is troublesome [unresolved] distress — the condition is not resolved, the abdomen is painful and full — this is because there is dry stool (*sōshi*, desiccated feces, hardened stool). Such a person originally has retained food (*shukushoku*); it is appropriate to use *Jōki-tō* (承気湯, Chengqi Decoction/Order-the-Qi Decoction) to purge it.
+As a general rule, when a disease has persisted for five or six days, the abdomen is full, and there has been no bowel movement, urgently purge it.
 
-> **Interlinear note:** "This note is absent in the Uji manuscript. The formula appears below."
+As a general rule, after a major purging, if after six or seven days there is still no bowel movement, the distress (*wazurawashisa*, vexation) does not resolve, and the abdomen is painful and full — this is because there are *sōshi* (燥屎, dry, desiccated stools). This is because there was originally retained food (*shukushoku*) present. It is appropriate to purge with **Jōki-tō** (承気湯, Order-Restoring Decoction, *Chéng Qì Tāng*).
 
-As a general rule, when a patient cannot urinate freely (*shōbenri*, dysuria), and the bowel movement is sometimes difficult and sometimes easy, and there is occasional mild fever that seems to be boiling in the stomach (*i wo wakasu*), and the patient is unable to lie down — this is because there is dry stool (*sōshi*). It is appropriate to purge [the patient].
+> **Interlinear note:** "This note is absent in the Uji manuscript (*Uji-bon*). The formula (*hō*) is found below (*shimo*)."
 
-As a general rule, in those who should be purged, a decoction (*tō*) is superior to pills (*gan*).
+As a general rule, when a sick person has difficulty urinating (*shōben furi*), and the bowel movements are sometimes difficult and sometimes easy, and from time to time there is a slight fever, and the stomach is "boiling" (agitated, seething), and the patient is unable to lie down — this is because there are dry stools (*sōshi*, desiccated feces). It is appropriate to purge.
 
-When there is localized pain in the lateral sub-costal region (*kyoku no shita*, below the hypochondrium) on one side, along with fever, this is a condition of cold (*kan*). One should appropriately purge using warming medicines (*on'yaku*). Even in cases of cold abdominal distension (*kantō*, distension due to cold), purgation is needed.
+As a general rule, for those in whom purgation is appropriate, a decoction (*tō*, liquid preparation) is superior to pills (*gan*).
 
-As a general rule, in all of the following conditions — constipation (*daiben jū*, difficulty with bowel movements) in various illnesses; abdominal fullness (*harami*) in various types of *shōkan* (febrile illness); abdominal fullness in *okori* (intermittent fever); drum-like abdominal distension (*kochō*, tympanites); water distension (*suichō*, ascites/oedema with abdominal swelling); and obstruction of the bowels (*daiben futsū*) — purgation is necessary. As for those in whom urination should be promoted — those with *ōbyō* (黄病, jaundice) and *suibyō* (水病, water-swelling disease/oedema)…
+When there is localized pain below the ribs (*waki no shita*, hypochondrium, one side), and the patient has fever — this is a cold condition (*kan*, cold pathogen). One should purge using warm/warming medicines (*onyaku*, thermally warm medicinals). Even in cold-induced abdominal distension (*kanchō*, distension due to cold), one must still purge.
 
-*(Page continues)*
+As a general rule, [in all of the following conditions]: difficulty in defecation (*taibin jū*, constipation) in various diseases; abdominal fullness (*fukuman*) in the various *shōkan* (cold-damage) illnesses; abdominal fullness in *nue* (疟, malaria-like fever); *kochō* (鼓脹, drum-like abdominal distension); *suichō* (水脹, water-swelling, abdominal dropsy); and constipation (*taibin futsū*, inability to defecate) — [for those requiring urination to be facilitated] — *ōbyō* (黄病, yellowing disease, jaundice) and *suibyō* (水病, water disease, edema/dropsy)…

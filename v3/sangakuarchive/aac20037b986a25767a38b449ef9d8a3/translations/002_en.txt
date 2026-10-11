@@ -1,0 +1,33 @@
+## [Continuation from the Previous Page: End of the Cylinder/Bore Diameter Problem]
+
+Name eight as the "ratio" (*ritsu*); square it, divide by 384/53, and add one; call this the "引数" (*hiki-sū*, "subtractive number").
+
+Place eight; multiply by one and divide by [2/2] to obtain the "original number" (*gensū*). Multiply by the ratio, multiply by three, and divide by [4/4] to obtain the "first difference" (*ichi-sa*). Multiply by the ratio, multiply by [5/1], and divide by [6/6] to obtain the "second difference" (*ni-sa*). Multiply by the ratio, multiply by [7/3], and divide by [8/8] to obtain the "third difference" (*san-sa*). Multiply by the ratio, multiply by [9/5], and divide by [10/10] to obtain the "[fourth] difference" (*shi-sa*). Obtain each successive difference in this manner, and subtract them cumulatively from the "original number." Subtract the "subtractive number" from the remainder, multiply the result by the ratio, extract the square root, and divide by this the bore diameter (*sен-kei*); the result is the cylinder diameter (*dō-kei*). This agrees with the problem.
+
+---
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Chōsai&emsp;**[Saitō Yoshinori], Teacher**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;His son:&emsp;**[Saitō Sankichi Yoshiaki]**
+&emsp;&emsp;**Ansei 4, Year of the Hinoto-Mi (1857), Spring**
+
+---
+
+## A Matter Dedicated to Kumano Shrine [located at: the border between Shinano and Jōshū provinces, Usui Pass]
+
+**[Problem: Repeated]**
+
+Suppose there is a principal sum lent out at annual interest, with equal annual payments collected until the debt is fully settled (that is, with compound interest, where interest accrues upon interest).
+Given: principal = [some amount], annual payment = [some amount], number of years = [some amount]; what is the annual interest rate?
+
+**Answer: As given in the method below.**
+
+**Method:**
+Divide the principal by the annual payment amount; call the result the "ratio" (*ritsu*). Add one to it. Divide one by this sum; call the result the "original number" (*gensū*).
+
+Raise the "ratio" to the power corresponding to the number of years (for two years, multiply it by itself twice; for three years, three times; for four years, four times; and so on in this manner). Add one to this result, multiply by the "original number," divide by one, then add the square of the "original number" to the "original number" itself and halve the sum; call this the "first rate" (*ichi-ritsu*).
+
+Raise the "ratio" to the power corresponding to the number of years, add one, multiply by the "original number," divide by one, then add the square of the first rate to the first rate itself and halve the sum; call this the "second rate" (*ni-ritsu*).
+
+Raise the "ratio" to the power corresponding to the number of years, add one, multiply by the "original number," divide by one, then add the square of the second rate to the second rate itself and halve the sum; call this the "third rate" (*san-ritsu*).
+
+Continue accumulating in this manner to obtain the "final rate" (*tsui-ritsu*). Divide one by this final rate, then subtract one from the result; the remainder is the annual interest rate. This agrees with the problem.

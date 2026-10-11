@@ -1,0 +1,47 @@
+## Problem One
+
+**Problem:** As shown in the figure, there are five geometric solids: the diameter of a hemisphere (half-sphere diameter), the diameter of a sphere (sphere diameter), the triangular face of a soroban bead, the octagonal face, and the jewel (hōju) diameter. The sum of their respective volumes totals 481 *bu* 2 *fun* 5 *rin*. It is given that each successive measurement differs by 1 *sun*. What is each measurement?
+
+**Answer:**
+- Half-sphere diameter: 8 *sun*
+- Sphere diameter: 7 *sun*
+- Soroban-bead triangular face: 6 *sun*
+- Octagonal face: 5 *sun*
+- Jewel (hōju) diameter: 4 *sun*
+
+**Method (Solution):**
+
+Set the celestial element (天元, the unknown variable) as one unit representing the half-sphere diameter. Subtract the difference to obtain the sphere diameter. Subtract the difference again to obtain the soroban-bead triangular face. Subtract the difference again to obtain the octagonal face. Subtract the difference again to obtain the jewel diameter.
+
+Square the jewel diameter and multiply by the volume coefficient for the jewel to obtain the jewel volume. Place this in position *kō* (甲, the accumulator).
+
+Square the octagonal face to form the square, multiply by the octagonal volume coefficient to obtain the octagonal volume. Add to position *kō*.
+
+Square the soroban-bead triangular face and multiply by the volume coefficient to obtain the soroban-bead triangular volume. Add to position *kō*.
+
+Square the sphere diameter and multiply by the sphere volume coefficient to obtain the sphere volume. Add to position *kō*.
+
+Square the half-sphere diameter, multiply by the sphere volume coefficient, and halve it to obtain the half-sphere volume. Add to position *kō*.
+
+Combine the five volumes to form the total sum, and set it aside to the left. Eliminate (cancel) the total sum against the value set to the left to obtain an equation for root extraction. Solving by the *hanhō* (翻法, a method of solving polynomial equations), the quotient yields the half-sphere diameter, from which all values are obtained, consistent with the problem.
+
+---
+
+## Problem Two
+
+**Problem:** As shown in the figure, within three fan-shaped figures (*jigami*), there are large and small circles. The remaining area outside the circles is 4,932 *bu*. It is given that the diameter of the large circle exceeds that of the small circle by 32 *sun*, and the sum of the *ten-ko* (天弧, upper arc) and *chi-ko* (地弧, lower arc) is 341 *sun*. What are the diameter of the large circle, the diameter of the small circle, the upper arc, the lower arc, and the total area?
+
+**Answer:**
+- Large circle diameter: 84 *sun*
+- Small circle diameter: 52 *sun*
+- Upper arc (*ten-ko*): 256 *sun*
+- Lower arc (*chi-ko*): 84 *sun*
+- Total area: 14,282 *bu*
+
+---
+
+&emsp;&emsp;&emsp;&emsp;&emsp;*At this place*
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tanaka Teruaki (Dedicator)
+
+Meiji 23 (1890), Year of the Tiger, 7th month, early decade (*jōkan*)

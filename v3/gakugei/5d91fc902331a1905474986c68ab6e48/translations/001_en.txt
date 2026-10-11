@@ -1,5 +1,17 @@
-[Cover page]
-[Title label (daisen)]
+[Cover Page]
+[Title Label]
+"Yononaka Hyakushu Eshō (Volume 1)" by Arakida Moritake
 
-(Title label reads:)
-Moritake — Yononaka Hyakushu Eshō — Volume One (Upper)
+[Library Classification Label, written horizontally from left]
+Category: Ōraimono (Educational Texts)
+Subcategory: (blank)
+Number: (blank)
+
+Box 5, Item No. ○
+Number: 611
+Number of Volumes: 3
+Acquisition method: Purchase
+
+Call number: T1A0 / 23 / 4
+
+Aoyama (collection/donor name)

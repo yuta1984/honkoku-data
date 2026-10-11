@@ -1,7 +1,7 @@
 filename	status	image
 001.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504050800/iiif/F1000000000000033452_0001.jp2/full/full/0/default.jpg
-002.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504050900/iiif/F1000000000000033452_0002.jp2/full/full/0/default.jpg
-003.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504051000/iiif/F1000000000000033452_0003.jp2/full/full/0/default.jpg
+002.txt	completed	https://www.digital.archives.go.jp/api/content/item/da12/C100504050900/iiif/F1000000000000033452_0002.jp2/full/full/0/default.jpg
+003.txt	initiated	https://www.digital.archives.go.jp/api/content/item/da12/C100504051000/iiif/F1000000000000033452_0003.jp2/full/full/0/default.jpg
 004.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504051100/iiif/F1000000000000033452_0004.jp2/full/full/0/default.jpg
 005.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504051200/iiif/F1000000000000033452_0005.jp2/full/full/0/default.jpg
 006.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100504051300/iiif/F1000000000000033452_0006.jp2/full/full/0/default.jpg

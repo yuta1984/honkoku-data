@@ -1,23 +1,27 @@
 [Right folio]
 
 [Upper section]
-[Continued from the upper left section of the previous page]
 
-Even if one were to govern the realm, what task could there be that one could not accomplish? This is precisely why such a person is dependable in all things — and it is the great guiding principle of the world that everyone should be this way.
+[Continued from the upper section of the left folio of the previous frame]
 
-Regarding the phrase "brothers" (*ani ototo*): one should read the character *uyamahi* (reverence/respect) as meaning "to revere one's elder brother," attaching it to the character for *otōto* (younger brother); and likewise, one should read the character *hagukumu* (to nurture/cherish) as meaning "to cherish one's younger brother," attaching it to the character for *ani* (elder brother). This is a matter of literary grammar (rhetorical convention). The intent of the commentary is already made clear by the preceding poem.
+Even if one were to govern the entire realm, what could possibly be difficult to accomplish? This is precisely why, in all things, such a person is reassuring — and it is the great guiding principle of the world, which everyone ought to follow.
+
+Regarding the verse on "elder and younger brother" (*ani ototo*): the reader should note that this is a grammatical construction. The character for "respect/reverence" (*uyamahi*) is to be read as "respecting one's elder brother," attached to the character for "younger brother" (*ototo*); and the character for "nurturing/raising" (*hagukumu*) is to be read as "nurturing one's younger brother," attached to the character for "elder brother" (*ani*). This is a matter of literary grammar (*bunpō*). The meaning of the annotation can be understood from the preceding poem.
 
 [Lower section]
 
-O brothers —
-　　to show
-　　　reverence
-　and to cherish one another:
-　this is how
-　　　all should
-　　　　surely
-　be in
-　　this world.
+Between elder and younger —
+　　showing
+　　　reverence,
+　　　　
+　and nurturing —
+　　　　
+　everyone
+　　ought
+　　　to be
+　just so,
+　　in this
+　　　world.
 
 ---
 
@@ -25,16 +29,19 @@ O brothers —
 
 [Upper section]
 
-The phrase "without negligence" (*tōkan naki*) means a sincere and attentive heart. Among ordinary people, it is common that as one grows intimate with another, the feeling of respect gradually fades. Yan Pingzhong (*Anpei-chū*) was praised by Confucius himself for being skilled in forming friendships and maintaining respect even after long acquaintance. This accords with the saying in the *Quli* (*Kyokurei*) chapter of the *Book of Rites*: "The worthy person, even when familiar, still shows reverence" (*nare te kei su*). In the *Tsurezuregusa* (Essays in Idleness), there is a tale of a monk from Ninnaji temple who, in his eagerness to enliven a drinking party, placed a three-legged cauldron (*ashikanae*) on his head, only to find that it could not be removed, resulting in a prolonged ordeal. Incidents of this kind seem to arise from the pitfalls of excessive familiarity (going astray). There is surely also a proper manner in which to conduct friendships, and there ought to be an appropriate path to follow.
+"Without negligence" (*tōkan naki*) means a spirit of care and attentiveness. With ordinary people, when they become close and familiar with someone, their sense of reverence invariably tends to fade — this is a common occurrence. Yan Pingzhong (*Anpeichū*) was praised by Confucius himself with the words: "He was skilled at associating with people, and the longer the acquaintance, the more he showed respect." This also connects to what is said in the *Quli* (*Kyokurei*): "The wise person, even when familiar, maintains reverence (*nare te kei su*)." In the *Tsurezuregusa*, there is the story of a monk from Ninnaji Temple who, in his eagerness to enjoy sake to the fullest, put a three-legged cauldron (*ashikanae*) on his head, only to find that he could not remove it, and it became a prolonged affliction — such instances are perhaps a result of straying into crooked paths (*sadō*). This should hold equally true in friendships: it ought to be the proper way.
 
 [Lower section]
 
 In this world,
 　without
 　　negligence,
-　one ought to be
-　　　courteous
-　　and sincere —
-　　　　this is how
-it should
-　rightly be.
+　being
+　　　cordial
+　　　　and
+　　sincere —
+this is
+　how
+　　things
+　　　ought
+　　　　to be.

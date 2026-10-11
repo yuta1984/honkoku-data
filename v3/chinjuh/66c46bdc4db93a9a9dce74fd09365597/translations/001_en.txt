@@ -1,0 +1,14 @@
+《Title: Shinpen Musashi Fudoki Kō》《Annotation: Toshima District / Katsushika District, Volumes 7–8》
+
+[About this document]
+This document is the "Shinpen Musashi Fudoki Kō" (New Compiled Topographical Records of Musashi Province), a gazetteer compiled during the Bunka-Bunsei era (1804–1829) by the Geography Bureau of the Shōheizaka Academy (under scholars including Hayashi Jussai and Mamiya Motonobu). The printed edition used here was published in April 1884 (Meiji 17) by the Geography Bureau of the Ministry of Home Affairs.
+
+[Transcription Policy]
+Since the source is a printed typeset book, simply copying it as-is has limited value. Therefore, the following conventions are applied:
+- All katakana characters are converted to hiragana
+- Old-form kanji (kyūjitai) are replaced with modern standard forms (shinjitai), including in proper nouns
+- Line breaks are preserved as in the original
+- Characters rendered illegible due to poor printing are indicated with □
+- Characters too difficult to read or input are indicated with ■
+
+※For a link to the catalog, see Annotation 1.
