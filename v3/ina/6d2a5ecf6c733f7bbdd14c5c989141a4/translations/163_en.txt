@@ -2,9 +2,9 @@
 
 　　　　　　Kisoya [shop/house]
 　　　　　　　　Seishichi
-　　　　　　Ōtaban
+　　　　　　Ōtaban [designation/post]
 　　　　　　　　Matsujirō
-　　　　　　Hokomochi-machi [district]
+　　　　　　Hokokimachi [district]
 　　　　　　　Ichōya [shop/house]
 　　　　　　　　Jūsaburō
 　　　　　　Fujisawaya [shop/house]
@@ -14,11 +14,10 @@
 　　　　　　　　Chūzaemon
 　　　　　　Tamachi [district]
 　　　　　　　Man'ei [shop/house]
-　　　　　　　　Yozaburō
+　　　　　　　　Yosaburō
 　　　　　　Umemachi [district]
 　　　　　　　　Tomishima Mahachi
 　　　　　　Honmachi [district]
 　　　　　　　　Kitahara Shōzō
 　　　　　　Yamaya [shop/house]
 　　　　　　　　Shigeshichi
-□

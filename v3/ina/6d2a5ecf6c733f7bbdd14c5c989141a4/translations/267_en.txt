@@ -1,19 +1,18 @@
 【Left Folio】
 
-　　Provided, however, that those who apply through the appropriate channels regarding increased production shall be investigated, and a ruling shall be issued according to the particulars of each case.
+　　However, those wishing to increase production beyond the prescribed limits must submit a petition through the appropriate channel; upon inquiry, a ruling will be issued according to the circumstances of each case.
 
-Item: In years of poor harvest (*kyōnen*), brewing shall be conducted in installments [i.e., production shall be divided and reduced accordingly].
+Item: In years of poor harvest (*kyōnen*), brewing is to be carried out in installments (i.e., divided and reduced quantities).
 
-Item: It is hereby ordered that twenty *ryō* in gold shall be paid per one hundred *koku* of sake produced.
+Item: It is hereby ordered that a sum of twenty *ryō* in gold per one hundred *koku* of brewed sake be paid as a levy (*ōnō*).
 
-Item: Those who, in the previous year, through a misunderstanding of the rules, produced sake beyond the prescribed limits and consequently had their brewing licenses (*kansatsu*) revoked — should any such persons repent and submit a petition, they shall be pardoned upon payment of fifty *ryō* in gold per one hundred *koku*.
+Item: Those who, in the previous year, through misunderstanding of the rules, increased production beyond the prescribed limits and had their brewing licenses (*kansatsu*) revoked — should they repent and submit a petition, they shall be pardoned upon payment of fifty *ryō* in gold per one hundred *koku*.
 
-【The following section constitutes a template format; the area from "Such-and-such Town" through "The Fourth Year of Keiō, Year of the Dragon" is enclosed in a box.】
+【Note: The following section, from "Such-and-such town" through "Keiō 4, Year of the Dragon," is enclosed in a box, indicating a template format.】
 
-　　　　　[Name of Town]
-　　　　　　[Name of Person]
-　　　[Divided Seal]
-Cover:　Sake Brewing Rice　○ [Several] Hundred *Koku*
-　　　　　Provided: Including base rice (*motogome*), steeping rice (*kakegome*), and malted rice (*kōji*), combined.
-
-　　The Fourth Year of Keiō, Year of the Dragon [1868]
+　　　　[Name of Town]
+　　　　　[Name of Person]
+　　　　*Wariin* (split seal)
+　Cover:　Sake Brewing Rice: ○ [X] hundred *koku*
+　　　　　(Including base rice, *kakegome*, and *kōji* combined)
+　　　　　　Keiō 4, Year of the Dragon (1868)

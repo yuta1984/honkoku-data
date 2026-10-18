@@ -1,11 +1,12 @@
-[Title: Votive Offering]
+**[Title: Votive Offering (Hōnō)]**
 
-Suppose, as shown in the figure, within a circumscribed right-angle configuration (belt-circle), there are four circles of type "ko" (甲, larger circles) and a series of nested/separated circles ("rui-en"), which contain two circles of type "otsu" (乙, smaller circles). Given that the number of the nested circles and the diameter of the final (smallest) circle equal the diameter of the ko circle, find the diameter of the otsu circle.
+Suppose, as shown in the figure, there is a straight (outer) circle containing four *kō*-circles (甲円) and a layered partition circle (*ruien*), within which two *otsu*-circles (乙円) are inscribed. Given that the diameter of the final (*sue*) circle equals the diameter of the *kō*-circle, find the diameter of the *otsu*-circle.
 
-Answer: The diameter of the otsu circle is found by the following method.
+**Answer:** The diameter of the *otsu*-circle is found by the following method.
 
-Method: Subtract the diameter of the final circle from the diameter of the ko circle, and call this value "ko" (子, "child"). Multiply this by the diameter of the ko circle. Take the square root, then subtract twice the value of "ko" (子). The result is the diameter of the otsu circle. This satisfies the problem.
+**Method:** Subtract the diameter of the final circle from the diameter of the *kō*-circle and call this value *ko* (子). Multiply this by the diameter of the *kō*-circle, take the square root, then subtract twice *ko*. The result is the diameter of the *otsu*-circle. This satisfies the problem.
 
-　　　[School: Seki School (関流)]
-　　　　[Teacher: Oshida Kunimasa] — Student of the above teacher
-[Date: An auspicious day in the first month of Kaei 7, the year of Kinoe-Tora (1854)]　[Dedicator: Suga Sanjiro Kuniyo]
+　　　**[School: Seki School (関流)]**
+　　　　**[Teacher: Oshida Kunimasa (押田邦全)]** — Student of the above teacher
+
+**[Kōka 7th year, Year of the Kinoe-Tora (甲寅), First Month, an auspicious day]**　**[Dedicator: Suga Sanjirō Kuniyoshi (須賀三治郎邦慶)]**

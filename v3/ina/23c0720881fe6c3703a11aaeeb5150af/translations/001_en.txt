@@ -1,0 +1,44 @@
+# Memorandum (Oboegaki)
+
+　　　　　　　　　　　　[Average: 1 item]
+
+Item: 15 ryō 1 bu — Total expenses for travel to Edo (府/capital)
+　　　　　　28 mon
+
+　　Breakdown:
+　　Item: 4 ryō 2 bu — From the 2nd month of the Year of the Horse (午),
+　　　　　　　　　　　to the 6th month of the Year of the Rooster (酉): 40 months
+
+　　　　Interest calculation: 110 ryō 7 bu
+　　　　　　　　　　　　　　at 12% (annual interest rate of 1 wari 2 bu)
+
+　　Item: 10 ryō 3 bu — From the 5th month of the Year of the Horse,
+　　　　　　　　　　　to the 6th month of the Year of the Rooster: 38 months
+
+　　　　Interest calculation: 240 ryō
+　　　　　　　　　　　　　　1 mon
+
+Principal and Interest Total:
+　　Total: 21 ryō 2 bu
+　　　　　　　　3 bu 5 mon 6 rin
+
+　　Breakdown:
+　　　Amount: 1 ryō 1 bu — Received in the 6th month of the Year of the Horse
+
+　　　Interest on this: 27 bu　　Through the 6th month of the Year of the Rooster
+　　　　　　　　　　　7 mon 5 rin　　37 months
+
+　　　Amount: 2 ryō 1 bu 5 mon — Received in the 7th month of the Year of the Horse
+
+　　　Interest on this: 50 ryō　　Through the 6th month of the Year of the Rooster
+　　　　　　　　　　　2 bu 5 mon　　36 months
+
+　　　Amount: 2 ryō — Withdrawn in the 10th month of the Year of the Horse
+
+　　　Interest on this: 39 bu 6 mon　　Through the 6th month of the Year of the Rooster
+　　　　　　　　　　　　　　　　　　　33 months
+
+　　　Amount: 2 ryō — Withdrawn in the 11th month of the Year of the Horse
+
+　　　Interest on this: 38 bu 4 mon　　Through the 6th month of the Year of the Rooster
+　　　　　　　　　　　　　　　　　　　32 months

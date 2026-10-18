@@ -2,10 +2,10 @@ id	label	manifestUrl	projectId	size	progress	attribution	thumbnail
 003CA20A2638758762B67DAEF14BAF79	京都出火略図	https://www.dheq.org/repo/iiif/5506/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/b53c3bc93e314ce6de7bab7c017633b8eaa8e166.jpg
 01887C4C0C1582FF7C78D8B37E80366E	島原半島之図	https://www.dheq.org/repo/iiif/5739/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/99b816ccd36380a6f95b68857d97206486374eac.jpg
 021ED325B7EB635D89E87804FD431639	安政二年十月二日夜亥刻大地震焼失市中騒動図	https://www.dheq.org/repo/iiif/5709/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/3e154090bc2a8e82b313a9bd6a8cf3cc435ae227.jpg
-03C75F5A678A526E72F80878FAE40E08	明暦大火回向院供養の図	https://www.dheq.org/repo/iiif/5698/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/2171ede108747be373af691523b864a2c6735efb.jpg
+03C75F5A678A526E72F80878FAE40E08	明暦大火回向院供養の図	https://www.dheq.org/repo/iiif/5698/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/2171ede108747be373af691523b864a2c6735efb.jpg
 0508B3E6E83275DCD61EA80A579E7765	大阪今昔三度の大火	https://www.dheq.org/repo/iiif/5527/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/1a11577aa4d74e89bfacbc05cd4386c7f897687c.jpg
 0B1DF755EB5AE5EDCE3395BF3F7648AB	ほね抜どぞう／なまづおなんぎ大家場焼	https://www.dheq.org/repo/iiif/5729/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/d0e98a941dd2cdf8a70977686761fe88065b07a3.jpg
-0E97F7B953D8DF97EC70A5B3978D6AC7	島原市街傍近現景	https://www.dheq.org/repo/iiif/5738/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/c2de345214107f8e832d71dcdde9287fffdd23cf.jpg
+0E97F7B953D8DF97EC70A5B3978D6AC7	島原市街傍近現景	https://www.dheq.org/repo/iiif/5738/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/c2de345214107f8e832d71dcdde9287fffdd23cf.jpg
 109BD1203D76B90520BA08AF9CC0B5C8	嘉永七寅年大地震記	https://www.dheq.org/repo/iiif/5499/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/aa7dff7076e75481affc4a1abeea151d06b5a93c.jpg
 136A81747735FF1673599F5B8106C83E	京都出火略図	https://www.dheq.org/repo/iiif/5494/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/3889ab15a940c0aeaecdd2f62c2f4d96ff6a2ee6.jpg
 1512C26EF913AAD30B93FE95C4CE05B8	京都大火之略図	https://www.dheq.org/repo/iiif/5507/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/ad78b730af929caf436bb5f54539c17e1ce1d69b.jpg
@@ -47,7 +47,7 @@ id	label	manifestUrl	projectId	size	progress	attribution	thumbnail
 5A822C93DAB7361204E63EE3D8C5D80C	伊勢伊賀志摩近江尾張美濃大地震の図	https://www.dheq.org/repo/iiif/5753/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/73377f1e0323ed5ac66114a9b6760f424645ab21.jpg
 5FEF6399249E0D7A80C45C3CDE1FB563	じしん百万遍	https://www.dheq.org/repo/iiif/5724/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/0bb781a82294843ae0e18546498de5d135c2507d.jpg
 63B51D3DF6702B1D51C035B06DB42B1D	平安大火末代噺	https://www.dheq.org/repo/iiif/5514/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/64c7aa817b91e4814451589bbb0662144235c4c3.jpg
-67475A431D2F7465B7E9DC7F13BA17CC	京都近世大火略図	https://www.dheq.org/repo/iiif/5508/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/a8d5d116db4650794f5631acc9a9957ea909eda4.jpg
+67475A431D2F7465B7E9DC7F13BA17CC	京都近世大火略図	https://www.dheq.org/repo/iiif/5508/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/a8d5d116db4650794f5631acc9a9957ea909eda4.jpg
 6C6446010C8833984C034B84D3BBA215	嘉永三年江戸落雷の図	https://www.dheq.org/repo/iiif/5693/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/15f2919d03aa966e2f0029932954fa43753deee9.jpg
 6D86ED5E5612F4455DACD08FAD948E45	四ツ目ヨリ天神川通リ堤上ニテ江戸ノ方ヲ見ル図	https://www.dheq.org/repo/iiif/5712/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/627177d01bc87a4e949c95f8a384a85ee9744b4f.jpg
 6DF2CA812BA7A9183B1C6454AA1538E1	岐阜県愛知県大地震実況	https://www.dheq.org/repo/iiif/5758/manifest	hirose	2	2	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/b1a42510614ffa03bc3d94f96ef33e962ae3dba4.jpg
@@ -79,7 +79,7 @@ A4F288C05316E246BFB723D2019362D0	地震百万遍	https://www.dheq.org/repo/iiif/
 A7F720C2C8357F41174DF25D58B5A52B	嘉永七年大和外二か国大地震	https://www.dheq.org/repo/iiif/5497/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/b1d5d01e6191e70b9d090ed629e7a56363cc2374.jpg
 A9FF483F8C708C5753BB0FC360E6730F	鯰と職人たち／鯰大尽の遊び	https://www.dheq.org/repo/iiif/5726/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/3ed7bf9c2a50e16b29254993a75385c948793352.jpg
 AFEE59AEBBA18B2627DAFE5814213343	弘化四年信州地方大地震	https://www.dheq.org/repo/iiif/5746/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/e6fb0fee406b504175a34f820c822310366ffe1f.jpg
-B42CFA9129670CA90A425EEF2958731B	明暦大火の図	https://www.dheq.org/repo/iiif/5697/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/ed4aea1fd7ddf38abfdd05d51760007d0e5fe905.jpg
+B42CFA9129670CA90A425EEF2958731B	明暦大火の図	https://www.dheq.org/repo/iiif/5697/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/ed4aea1fd7ddf38abfdd05d51760007d0e5fe905.jpg
 B4ED7BF14DA32BE7CC469A851E0CBA9E	京都所々図絵	https://www.dheq.org/repo/iiif/5495/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/b418a20fa58eac2ae84949cfebdba586ecb5c548.jpg
 B6BF98247211261DA6BF9ED0FC6FB508	流行暴瀉病療治方	https://www.dheq.org/repo/iiif/5797/manifest	hirose	1	1	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/cb3724c6ad7ebb283a9ba9ddcc1299ba27a7ccdb.jpg
 BA14510A843F10943A93BF855EE81E12	安芸国大水図	https://www.dheq.org/repo/iiif/5751/manifest	hirose	1	0	あいおいニッセイ同和損保株式会社	https://www.dheq.org/repo/files/medium/8c18f13084cb11cccd8e1c7d8cbdc2e6b10e041e.jpg

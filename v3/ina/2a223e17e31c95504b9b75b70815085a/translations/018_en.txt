@@ -1,0 +1,35 @@
+Ashizawa [village]
+One    3 bundles of rope       Tahei
+
+One    wheat flour    Mizoguchi [village]    Heiemon
+                                             Rihei
+                                             Genemon
+Kurosawa [village]
+One    Same (wheat flour)      Masaemon
+Kamimaki [village]
+One    1 mat                   Sanzaburō
+
+One    10 bundles of rope      Same person
+Kamimaki [village]
+One    3 mats                  Jūemon
+
+One    rope                    Same person
+Same [village]
+One    rope and mat            Kiemon
+Same [village]
+One    Same                    Gonemon
+Ashizawa [village]
+One    1 load of wheat straw   Tohei
+One    5 bundles of rope       Same person
+Koide [village]
+One    4 bamboo poles          Shōemon
+Nakagoshi [village]
+One    2 shō of wheat flour    Chōemon
+Same place
+One    Same                    Hikozaemon
+Irinoya [village]
+One    1 shō of wheat flour    Matajirō
+Same [village]
+One    Same                    Matahei
+Kitabayashi village
+One    1 shō of tea            Takeemon

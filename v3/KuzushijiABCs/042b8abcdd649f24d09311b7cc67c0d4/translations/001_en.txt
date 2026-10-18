@@ -1,0 +1,126 @@
+## Sumo Match Sugoroku (Board Game)
+
+【Game progression: Starting from "Chikara-mizu" in the lower right corner, moving in a zigzag pattern up to "Kawazu-gake" in the upper right corner】
+
+---
+
+**Chikara-mizu (Purification Water)**
+Roll 4: Soto-gake
+Roll 5: Yagura-nage
+Roll 6: Kaisho (Sumo Association Office)
+
+**Yotsu-gumi (Four-limb Grapple)**
+Roll 1: Keiko (Practice)
+Roll 2: Kake-nage
+Roll 3: Chikara-mizu
+Roll 4: Kujiki-taoshi
+
+**Start Square**
+
+**Fure-daiko (Announcement Drum)**
+Roll 1: Taiko-yagura (Drum Tower)
+Roll 2: Kujiki-taoshi
+Roll 3: Keiko
+Roll 4: Kake-nage
+Roll 5: Kao-bure (Wrestler Parade)
+Roll 6: Yotsu-gumi
+
+*Published by Izumiya Ichibei*
+
+**Keiko (Practice/Training)**
+Roll 4: Kao-bure
+Roll 5: Soto-gake
+Roll 6: Kaisho
+
+**Yagura-nage (Tower Throw)**
+Roll 1: Chikara-mizu
+Roll 2: Mukō-zuki
+Roll 3: Tobi-chigai
+Roll 4: Taiko-yagura
+
+**Kaisho (Sumo Association Office)**
+Roll 4: Heya (Stable)
+Roll 5: Yobidashi (Ring Announcer)
+Roll 6: East Dohyō-iri
+
+**Kake-nage (Hooking Throw)**
+Roll 1: Soto-gake
+Roll 2: Mukō-gaki
+Roll 3: Tobi-chigai
+Roll 4: Kujiki-taoshi
+
+**Taiko-yagura (Drum Tower)**
+Roll 4: Kao-bure
+Roll 5: East Dohyō-iri
+Roll 6: Heya
+
+**Kujiki-taoshi (Sprain Topple)**
+Roll 1: Tobi-chigai
+Roll 2: Kaisho
+Roll 3: Yobidashi
+
+**Kao-bure (Wrestler Parade/Announcement)**
+Roll 4: Tachi-ai (Initial Charge)
+Roll 5: Heya
+Roll 6: Kaisho
+
+**Soto-gake (Outside Leg Trip)**
+Roll 1: Kake-nage
+Roll 2: Tobi-chigai
+Roll 3: Kawazu-gake
+Roll 4: Kaisho
+
+**East Dohyō-iri (East Ring Entrance Ceremony)**
+Roll 4: West Dohyō-iri
+Roll 5: Tobi-chigai
+Roll 6: Heya
+
+**Mukō-zuki (Forward Thrust)**
+Roll 1: Kawazu-gake
+Roll 2: Tachi-ai
+Roll 3: Kaisho
+Roll 4: Yobidashi
+
+**West Dohyō-iri (West Ring Entrance Ceremony)**
+Roll 4: East Dohyō-iri
+Roll 5: Kao-bure
+Roll 6: Kake-nage
+
+**Tobi-chigai (Flying Evasion)**
+Roll 1: Tachi-ai
+Roll 2: Mukō-zuki
+Roll 3: Kawazu-gake
+Roll 4: Kao-bure
+
+**Heya (Sumo Stable)**
+Roll 4: Agari (Goal/Finish)
+Roll 5: Yobidashi
+Roll 6: West Dohyō-iri
+*(Note: an additional entry reads Roll 4: West Dohyō-iri)*
+
+**Tachi-ai (Initial Charge/Face-off)**
+Roll 1: Agari (Goal)
+Roll 2: Heya
+Roll 3: Kawazu-gake
+Roll 4: Chikara-mizu
+
+---
+
+## Sumo Match Sugoroku — Illustration of a Yokozuna's Yumi-tori (Bow-twirling Ceremony)
+
+**Agari (Goal/Finish Square)**
+
+*Painted by Ikkōsai Yoshitora*
+
+---
+
+**Yobidashi (Ring Announcer)**
+Roll 4: Agari (Goal)
+Roll 5: West Dohyō-iri
+Roll 6: Heya
+
+**Kawazu-gake (Kawazu Leg Hook)**
+Roll 1: Yobidashi
+Roll 2: Tachi-ai
+Roll 3: Tobi-chigai
+Roll 4: Agari (Goal)

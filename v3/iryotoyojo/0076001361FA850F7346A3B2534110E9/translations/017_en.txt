@@ -1,22 +1,27 @@
 【Right page】
-[He]
-Loofah　　hechima　　糸瓜
-　Sweet and neutral. Non-toxic. Reduces swelling, dissolves phlegm, and kills parasites.
-Safflower　　benibana　　紅花苗
-　Sweet and warm. Non-toxic. Circulates blood and stops pain.
-Red mushroom　　benitake　　胭脂菰
-　Those growing in spring are non-toxic. Those growing in autumn are toxic.
-Red apple　　beniringo
-　Same as apple.
-[To]
+[He] 【Section header in a box at the top margin】
+
+Luffa / Sponge gourd (hechima)　　Silk gourd
+　Sweet and neutral in nature. Non-toxic. Reduces swelling, dissolves phlegm, and kills parasites.
+
+Safflower (benibana)　　Safflower seedling
+　Sweet and warm in nature. Non-toxic. Promotes blood circulation and relieves pain.
+
+Red mushroom (benitake)　　Cochineal mushroom
+　Those that grow in spring are non-toxic. Those that grow in autumn are toxic.
+
+Red apple (beni ringo)
+　Same as ringo (apple).
+
+[To] 【Section header in a box at the top margin】
 
 【Left page】
-Chinese rice　　touhoshi　　大唐米
-　Sweet and neutral. Non-toxic. Beneficial for people suffering from stroke when eaten regularly.
-　Not beneficial for people with weak spleen and stomach, elderly people, and patients.
-Corn　《Also called》nanbanmimi　　玉蜀黍
-　Sweet and neutral. Non-toxic. Warms the middle and constricts the intestines and stomach. Stops cholera. Difficult to digest when eaten in large quantities. Should be avoided by children and patients.
-Tofu　　toufu　　豆腐
-　Sweet, salty, and cold. Non-toxic. Relaxes the middle, benefits qi, harmonizes the spleen and stomach,
-　and neutralizes alcohol toxicity. ○When poisoned by tofu, squeezed
-　juice of daikon radish should be used.
+
+Tōhoshi (long-grain rice)　　Great Tang rice
+　Sweet and neutral in nature. Non-toxic. Beneficial when consumed regularly by those suffering from stroke (chūfū). However, it provides no benefit to those with a weak spleen and stomach, the elderly, or patients.
+
+Corn (tōmorokoshi)　　Also known as nanban kimi　　Maize
+　Sweet and neutral in nature. Non-toxic. Warms the interior of the body and tightens the intestines and stomach. Stops霍乱 (kakuran; acute gastrointestinal distress). If eaten in excess, it is difficult to digest. Children and patients should avoid it.
+
+Tofu (tōfu)　　Bean curd
+　Sweet, salty, and cold in nature. Non-toxic. Loosens and relaxes the interior of the body, tonifies qi, harmonizes the spleen and stomach, and neutralizes alcohol toxicity. ○ In case of food poisoning from tofu, one should use the pressed juice of daikon radish as a remedy.
