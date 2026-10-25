@@ -36,11 +36,11 @@ filename	status	image
 035.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00035.tif/full/full/0/default.jpg
 036.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00036.tif/full/full/0/default.jpg
 037.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00037.tif/full/full/0/default.jpg
-038.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00038.tif/full/full/0/default.jpg
+038.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00038.tif/full/full/0/default.jpg
 039.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00039.tif/full/full/0/default.jpg
 040.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00040.tif/full/full/0/default.jpg
 041.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00041.tif/full/full/0/default.jpg
-042.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00042.tif/full/full/0/default.jpg
+042.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00042.tif/full/full/0/default.jpg
 043.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00043.tif/full/full/0/default.jpg
 044.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00044.tif/full/full/0/default.jpg
 045.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00045.tif/full/full/0/default.jpg
@@ -50,9 +50,9 @@ filename	status	image
 049.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00049.tif/full/full/0/default.jpg
 050.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00050.tif/full/full/0/default.jpg
 051.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00051.tif/full/full/0/default.jpg
-052.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00052.tif/full/full/0/default.jpg
-053.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00053.tif/full/full/0/default.jpg
-054.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00054.tif/full/full/0/default.jpg
+052.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00052.tif/full/full/0/default.jpg
+053.txt	completed	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00053.tif/full/full/0/default.jpg
+054.txt	initiated	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00054.tif/full/full/0/default.jpg
 055.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00055.tif/full/full/0/default.jpg
 056.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00056.tif/full/full/0/default.jpg
 057.txt	default	https://kotenseki.nijl.ac.jp/api/iiif/100249802/v4/AJNM/AJNM-00270/AJNM-00270-00057.tif/full/full/0/default.jpg

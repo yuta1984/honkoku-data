@@ -1,0 +1,33 @@
+## [Section Four: Things Prohibited When Taking Medicine, continued]
+
+The *Honzō-kyō* (本草経, *Classic of Materia Medica* / *Shennong Bencao Jing*) states: When taking medicine, one must not eat large quantities of raw *ōhiru* (葫, garlic), *kohiru* (蒜, wild garlic), and various kinds of raw vegetables.
+
+It also states: When taking medicine, one must not eat any slippery or mucilaginous things (*nameritaru mono*, 滑物), fruits, or vegetables.
+
+It also states: When taking medicine, one must not eat large quantities of the fatty flesh of pigs or dogs, rich and fatty broths (*atsumono*, 羹), or fish *namasu* (膾, finely sliced or minced raw fish dressed with vinegar). [Note: The character 膾 is also read *sō*, or with the *fanqie* spelling *soro* 蘓労反; it may also be read *tsukusaki*.]
+
+It also states: When taking medicine, one must in general avoid encountering corpses (*shinikutabira*, 死尸), women in childbirth (*sanpu*, 産婦), and all manner of polluted or defiled matters (*oware no koto*, 淹穢之事).
+
+It also states: When taking medicine, if the formula contains *jutsu* (术, atractylodes), one must not eat peaches, plums, sparrow meat, garlic (*ōhiru*, 葫), wild garlic (*kohiru*, 蒜), or salted and fermented green fish (*ao-i sakana no sushi*, 青魚の鮓). If the formula contains *hazu* (巴豆, *Croton tiglium*, croton seeds), one must not eat a broth made from the young shoots of reed (*ashi no takamuna no atsumono*, 蘆笋羹) nor the flesh of pig or boar. [Note upon examination: The *Han Wang Fang* (范汪方, *Prescriptions of Fan Wang*) states that eating these causes the patient to suffer *shukusan* (縮産, a contraction or prolapse), the medicine fails to descend, and the illness is not cured. Furthermore, the *Han Wang Fang* states: Eating them causes seminal leakage (*sei ga moreru*, 精漏) and reduces fertility.]
+
+If the formula contains *ōren* (黄連, *Coptis japonica*, goldthread — also called *kakumakusa* or *amana*) and *kikyō* (桔梗, *Platycodon grandiflorum*, balloon flower — also called *ari no hifuki*), one must not eat pork or boar flesh. [Note upon examination: The *Han Wang Fang* states that eating it causes seminal contraction (*shukusei*, 縮精) and leakage, reduces fertility, prevents the medicine taken during childbirth from descending, and the illness will not be cured.]
+
+If the formula contains *hange* (半夏, *Pinellia ternata*, pinellia — also called *hosokusa*) and *shōbu* (昌蒲, *Acorus calamus*, sweet flag / calamus — also called *ayamegusa*), one must not eat *ame* (飴糖, malt sugar / candy) nor mutton. [Note upon examination: The *Han Wang Fang* states that eating them causes the patient's illness to remain uncured. The *Zenpu-kyō* (膳夫経, *Classic of the Royal Chef*) states: For three days, one must not eat *mochikome* (糯, glutinous rice / mochi rice).]
+
+If the formula contains *saishin* (細辛, *Asarum*, wild ginger — also called *ara no ne-gusa*), one must not eat raw vegetables. [Note upon examination: The *Han Wang Fang* states: Eating them worsens the illness.]
+
+If the formula contains *kanzō* (甘草, *Glycyrrhiza*, licorice — literally "sweet grass"), one must not eat *takana* (菘, Chinese mustard greens). [Note upon examination: The *Han Wang Fang* states: When the formula contains licorice, do not eat *takana* for three days; the illness will not be cured. The *Zenpu-kyō* states: Do not eat *bui* (蕪荑, *Ulmus pumila* samaras, elm seed husks) nor *tade* (蓼, smartweed / water pepper). Eating them together will cause the person to grow thin and weaken their *yōdō* (陽道, virility / reproductive capacity).]
+
+If the formula contains *reiro* (䔧蘆, *Veratrum* sp., false hellebore — also called *yamaubara*), one must not eat the flesh of *tatake* (狸, raccoon dog / tanuki). [Note upon examination: The *Han Wang Fang* states: Eating it causes the person's *suidō* (水道, urinary tract / waterways) to reverse its flow upward, resulting in abdominal distension (*fukuchō*, 腹脹).]
+
+If the formula contains *botan* (牡丹, *Paeonia suffruticosa*, tree peony), one must not eat raw garlic (*ōhiru*, 葫) nor *namoa* (葈, an herb). [Note upon examination: The *Han Wang Fang* states: For one day, do not eat garlic (*ōhiru*); the illness will worsen. The *Zenpu-kyō* states: For two days, do not eat raw *kohiru* (蒜, wild garlic); the illness will worsen.]
+
+If the formula contains *kōzan* (恒山, *Dichroa febrifuga*, blue evergreen hydrangea — also called *kusaki*), one must not eat raw scallion or green onion vegetables. [Note upon examination: The *Han Wang Fang* states: Eating them worsens the illness.]
+
+If the formula contains *kūsei* (空青, azurite, a blue copper mineral) and *shūsa* (朱沙, cinnabar / *Cinnabaris*), one must not eat raw-blood foods (*namachiha no mono*, 生血物 — raw or blood-containing foods). [Note upon examination: The *Yōjō-yōshū* (養生要集, *Essentials of Nourishing Life*) states: The illness will not be cured.]
+
+If the formula contains *mashuhodo* (伏苓, *Poria cocos*, poria / tuckahoe fungus), one must not eat any sour (*su*, 酢) things. [Note upon examination: The *Zenpu-kyō* states: Do not eat anything sour and hot. The *Gyokusō-hō* (玉箱方, *Prescriptions of the Jade Box*) states: Poria is incompatible with (*imu*, 忌) carp (*rigyo*, 鯉魚).]
+
+The *Yōjō-yōshū* (養生要集, *Essentials of Nourishing Life*) states: When taking medicine, one must not eat any slippery or mucilaginous things, fruits, vegetables, oil, *mukiko* (麺, wheat flour foods such as noodles), raw (*namamuku*) or chilled (*hiyaka*) things, or sour (*su*) things.
+
+It also states: When taking medicine, one must not eat large quantities of raw garlic (*ōhiru*, 葫), wild garlic (*kohiru*, 蒜), various kinds of raw vegetables, or pork and boar flesh.

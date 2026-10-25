@@ -1,20 +1,11 @@
-One item: Fish　180 horse loads　　　　Origin:
-　　　　　　　　　　　　　　　　　　　Nagoya
+- Fish/seafood: 180 horse-loads　　　　　Origin: Nagoya
 
-Total: 1,307 horse loads
+Total: 1,307 horse-loads
 
-　　　Incoming goods from Okazaki and Yoshida in Mikawa Province
+　　　Incoming goods from Okazaki and Yoshida in Mikawa Province (Sanshū)
 
-One item: Used clothing　10 horse loads　　Origin:
-　　　　　　　　　　　　　　　　　　　　　Okazaki
+- Used clothing: 22 horse-loads and a half-load　　Origin: Okazaki
+- Cotton cloth: 10 horse-loads　　　　　　　　　　Origin: Same as above (Okazaki)
+- Fish/seafood: 93 horse-loads　　　　　　　　　　Origin: Yoshida
 
-One item: Cotton　10 horse loads　　　　　Origin:
-　　　　　　　　　　　　　　　　　　　　　Same as above
-
-One item: Lead　2 and a half horse loads　Origin:
-　　　　　　　　　　　　　　　　　　　　　Osaka
-
-One item: Fish　93 horse loads　　　　　　Origin:
-　　　　　　　　　　　　　　　　　　　　　Yoshida
-
-Total: 125 and a half horse loads
+Total: 125 horse-loads and a half-load

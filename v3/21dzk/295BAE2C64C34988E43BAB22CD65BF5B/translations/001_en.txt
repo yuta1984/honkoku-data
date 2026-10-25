@@ -1,100 +1,79 @@
-## Saishō Mondō Shō (Questions and Answers on the Suvarṇaprabhāsa Sūtra), Volume 1: Table of Contents
+## Saisho Mondōshō (Questions and Answers on the Suvarṇaprabhāsa-sūtra), Volume 1: Table of Contents
 
-[Note] Each volume has no table of contents cover page; the external title reads "Saishō Mondō Shō." I have therefore privately supplied an internal title here and follow the same practice below.
+[Editorial note] Each volume has no cover for the internal title; the external title reads "Saisho Mondōshō." Therefore, I have here privately supplied the internal title, following the same practice below.
+
+### Volume One
+[Editorial note] Each volume opens with the volume number and a table of contents. These were probably added later. The same practice is followed below.
+
+- Question: Regarding the particular (別) arising-cause (*hetupratyaya*), how does the commentator (Zichou Dashi) explain it? (Argued from both sides)
+- Question: How is the Second Samādhi-fulfillment to be explained?
+- Question: Regarding the benefit of Attaining the Pure Dharma Eye (*dharma-cakṣus-viśuddhi*): does this belong to the Mahāyāna or Hīnayāna category of benefits? (Argued from both sides)
+- Question: On the presence or absence of the Sanskrit form of the *dhāraṇī* syllables.
+- Question: On what translational basis did Paramārtha (Zhendi Sanzang) establish the three-part structure of this sutra?
+- Question: According to Paramārtha, the Circulation (*liútōng*) section contains two chapters. What are they?
+- Question: Was this sutra expounded prior to the Lotus Sutra?
+- Question: Regarding the classification of this sutra under the Third Period: how does the commentator explain this?
+- Question: On the matter of "one time, one assembly."
+- Question: Does the *Suvarṇaprabhāsa-sūtra* include miraculous signs such as the emission of light?
+- Question: Is the Fragrant-Elephant Powerful King (*Gandhasthāman-rāja*) identical with the Garuḍa King?
+- Question: Is the Pure Land of the Wondrous Banner Chamber (*Myōdōshitsu*) a product of Śākyamuni's supernatural power?
+- Question: Among the assembly of yakṣas, does Vaiśravaṇa serve as the chief?
+
+---
+
+- Question: The scripture says, "I am always on Vulture Peak, proclaiming this sutra" (etc.). Among the Three Bodies, which body is it that teaches?
+- Question: The sutra contains the phrase "the brahmin-lineage Kauṇḍinya" (etc.). It is said that this brahmin refers to the Tenth of the Ten Transferences (*daśa-pariṇāmanā*). How is this explained?
+
+---
+
+## Saisho Mondōshō, Volume One
+
+[Editorial note] The base manuscript has no internal title for each volume. I have supplied it here, and follow the same practice below.
 
 ### Volume One
 
-[Note] At the beginning of each volume there is a volume number and table of contents. These were likely added later. The same practice is followed below.
+**Question:** Regarding the arising-cause of the present sutra, and specifically the particular arising-cause: how does Zichou Dashi (Master of Zizhou, i.e., Kuiji/Jizang) explain it?
 
-- Question: Regarding the specific (particular) causes (*betsu-kiin*): how does the commentator (Faqi/Zichou Dashi) explain this? [Two positions.]
-- Question: Regarding the Second Samādhi-perfection (*zanmai enman*): how is it explained?
-- Question: The benefit of the purification of the Dharma Eye (*hōganjō*): does it belong to the Mahāyāna or the Hīnayāna? [Two positions.]
-- Question: Whether the Sanskrit equivalent of the *myōji* (luminous syllable) exists.
-- Question: On what translation did the Tripiṭaka master Paramārtha base the three-part division of this sūtra?
-- Question: According to Paramārtha, the section on the Dissemination of the Teaching (*rutsū bun*) contains two chapters. Which chapters are they?
-- Question: Was this sūtra expounded before the Lotus Sūtra?
-- Question: Regarding the placement of this sūtra in the Third Period of teaching: how does the commentator explain this?
-- Question: Regarding the matter of "one time, one assembly."
-- Question: Are the auspicious signs such as the emission of light described in this sūtra actually manifested?
-- Question: Is the Fragrant Elephant Power King the same as the Garuḍa King (*Keyrōda Ō*)?
-- Question: Is the Pure Land of Wonderful Banner Hall a result of Śākyamuni's supernatural power?
-- Question: Among the assembly of *yakṣa* (spirit beings), is Vaiśravaṇa the chief?
+**Response:** The commentary (疏) states: "Particular means being restricted to this teaching" (etc.). With regard to this, looking at the six particular arising-causes listed below, one finds: "removing and liberating [beings from] unwholesome causes and effects, and enabling the attainment of the blissful fruits of humans and gods." This principle is found in all Mahāyāna and Hīnayāna teachings alike. How then can it be restricted to the present sutra?
 
----
+**Question:** Regarding the particular arising-cause of the present sutra: how does Zichou Dashi explain it?
 
-[Lower section]
+**Response:** The particular arising-cause is restricted exclusively to this sutra. That is to say, it refers to: the Chapter on the Lifespan of the Tathāgata (*Tathāgatāyuḥpramāṇa*), the merits of the Three Bodies, and the Chapter on Eliminating Karmic Obstructions. Regarding this: the teaching of phenomenal and noumenal repentance (*shīlǐ chànhuǐ*) that causes the elimination of karmic obstructions derives from the *Guanpuxian Bodhisattva Xingfa Jing* (Sutra of Meditation on Samantabhadra), while the Tathāgata's lifespan and the merits of the Three Bodies derive from the Lifespan Chapter of the Lotus Sutra. How then can such a determination be made?
 
-- Question: It is said, "I always dwell on Vulture Peak, expounding the treasure of this sūtra" (etc.). If so, which of the Three Bodies (*sanjin*) is it that expounds this teaching?
-- Question: The sūtra text mentions "of the Brahmin lineage, Kauṇḍinya" (etc.). Now, this Brahmin is said to refer to the Tenth Dedication (*daijū ekō*) among the Ten Dedications. How is this explained?
+**Question:** Regarding the division of the seven fulfillments (*saptasampat*) into the General Preface (*tōnjō*) and the Specific Preface (*betsujō*): how is the Second, the Samādhi-fulfillment, to be determined?
 
----
+**Response:** The First (Sequence-fulfillment) and the Third (Assembly-fulfillment) are called the General Preface, and are also called the Attestation Preface (*shōshinjo*). The remaining are the Specific Preface (etc.). With regard to this: considering the General and Specific Prefaces — what is common to other sutras is called the General Preface, and what is restricted to this sutra is called the Specific Preface. However, in other sutras such as the Lotus Sutra and the Benevolent King Sutra (*Renwang Jing*), there are also accounts of entering into meditation. These ought most properly to be called the General Preface. Why then are they called the Specific Preface? Moreover, the Third, the Assembly-fulfillment, is already the General Preface. Why should the Second be otherwise? Following from this, do not the Chinese masters judge that from "Thus have I heard" to "supremely wondrous Dharma" constitutes the General Preface, and from "At that time, the Bhagavān" onward constitutes the Specific Preface?
 
-## Saishō Mondō Shō, Volume One
+The meaning of this sutra is that within the passage "Thus have I heard... supremely wondrous Dharma," the Samādhi-fulfillment is present. This is why such a difficulty is raised.
 
-[Note] The original manuscript has no internal title for each volume. I have privately supplied this below, following the same format.
+**My view:** A certain commentary excerpts the following: the entry into meditation in the Lotus Sutra, the Benevolent King Sutra, and others is partial and not comprehensive. Therefore, they are called the Specific Preface. (etc.)
 
-### Volume One
+Furthermore, it is said: The commentary, in clarifying the particular arising-cause, presents six reasons. (1) It clarifies the undefiled fruit (*anāsrava-phala*) of Bodhi and Nirvāṇa. (2) It clarifies the removal of unwholesome causes. (3) It liberates [beings] from unwholesome retributions. (4) It enables the cultivation of the undefiled causes of Bodhi and Nirvāṇa. (5) It enables the cultivation of defiled wholesome causes. (6) It enables the attainment of the blissful fruit of humans and gods. (etc.) Other sutras do not fully clarify all six of these causes. Therefore, it is restricted to the present sutra and called the particular arising-cause.
 
-**Question:** Regarding the causes for the arising of this sūtra, and specifically the particular causes (*betsu-kiin*): how does Zichou Dashi (the great master of Zizhou, i.e., Jingmai) explain this?
+Furthermore, a doubt is raised: The commentary explains the sutra text such that from "Thus have I heard" to "supremely wondrous Dharma" constitutes the General Preface, and from "At that time, the Bhagavān" onward is judged to be the Introductory Preface (*hakkijo*). Does this explanation not treat the Samādhi-fulfillment as part of the General Preface?
 
-**Response (Answer):** The commentary says, "By 'particular' (*betsu*) is meant that which is specific to this teaching" (etc.). Regarding this, when one looks at the six particular causes listed below — namely "to remove and liberate from the causes and effects of unwholesomeness, and to bring about the blissful fruit of humans and gods" — this meaning is found universally in all Mahāyāna and Hīnayāna teachings. How can it be limited to this sūtra alone?
+**My view:** This explanation is truly difficult to reconcile. However, since the Samādhi-fulfillment lies between the Sequence-fulfillment and the Assembly-fulfillment, it is provisionally judged in this way by following [the logic of] what comes before and after.
 
-**Question:** Regarding the particular causes for the arising of this sūtra: how does Zichou Dashi explain this?
+**Further inquiry:** Why is the Samādhi-fulfillment placed before the Assembly-fulfillment? Since both the Sequence-fulfillment and the Assembly-fulfillment are General Preface, they should equally appear first.
 
-**Response:** The particular causes are limited solely to this sūtra, namely: the Chapter on the Lifespan of the Tathāgata (*Nyorai jūryō hon*), the merits of the Three Bodies, and the Chapter on the Elimination of Karmic Hindrances (*Metsugōshō hon*). Regarding this: the teaching of confession through phenomena and principle (*jiri sange*) to eliminate the hindrances of sin comes from the Contemplation of Samantabhadra Sūtra (*Fugenkan gyō*). The Tathāgata's lifespan and the merits of the Three Bodies come from the Lifespan Chapter of the Lotus Sūtra. Why, then, is such a judgment made?
-
-**Question:** Regarding the division of the general preface (*tsū-jo*), the specific preface (*betsu-jo*), and the separate preface (*betsu-jo*) by means of the Seven Perfections: how is the second perfection, the Samādhi Perfection (*zanmai enman*), to be judged?
-
-**Response:** The first (Preface Perfection) and the third (Assembly Perfection) are called the "general preface," also called the "preface of attestation" (*shōshin-jo*). The rest are the specific preface (etc.). Regarding this: considering the two types of preface — general and specific — what is common to other sūtras is called the "general preface," and what is limited to this sūtra is called the "specific preface." However, in other sūtras such as the Lotus and the Renwang (Benevolent Kings), there are also events like entering samādhi. These should most properly be called "general preface." How then are they called "specific preface"? Moreover, the third Congregation Perfection is already a general preface. Why is the second (Samādhi Perfection) not so? Based on this, do not the Chinese masters judge that from "Thus have I heard" down to "supremely wonderful Dharma" is the general preface, and from "At that time, the Bhagavat" onward is the specific preface?
-
-In this sūtra's understanding, within the phrase "Thus have I heard... supremely wonderful Dharma," the Samādhi Perfection is included. It is for this reason that such an objection is raised.
-
-**Private note:** Consulting an existing commentary, it says: "The entering-into-samādhi (*nyūjō*) in sūtras such as the Lotus and the Renwang is only partial, not extensive. Therefore it is called the specific preface" (etc.).
-
-Furthermore: The commentary clarifies the particular causes and presents six reasons. First: it clarifies the undefiled fruit (*muro no ka*) of bodhi and nirvāṇa. Second: it clarifies the removal of unwholesome causes. Third: it liberates from the retribution of unwholesome deeds. Fourth: it leads to cultivation of the undefiled causes of bodhi and nirvāṇa. Fifth: it leads to cultivation of defiled (*uro*) wholesome causes. Sixth: it leads to the attainment of the blissful fruit of humans and gods (etc.). However, other sūtras do not fully clarify all six of these causes. Therefore it is specifically with regard to this sūtra that one speaks of "particular causes of arising."
-
-**Further doubt:** The commentary, in explaining the sūtra text, takes from "Thus have I heard" to "supremely wonderful Dharma" as the "general preface," and judges what follows "At that time, the Bhagavat" as the "inciting preface" (*hossoki-jo*). This commentary has already explained the Samādhi Perfection as part of the general preface, has it not?
-
-**Private note:** This commentary is indeed difficult to reconcile. However, since the Samādhi Perfection is located in the middle, between the Preface Perfection and the Congregation Perfection, following the context before and after, it is provisionally judged in this way.
-
-**Further inquiry:** Why is the Samādhi Perfection placed before the Congregation Perfection? Since both the Preface Perfection and the Congregation Perfection are general prefaces, they should alike come first.
-
-**Private reconciliation:** This matter is addressed in the commentary's own question-and-answer section. The commentary answers it as follows: because both the dwelling of body and the dwelling of mind are equally called "dwelling."
+**My reconciliation:** This matter is addressed in a question-and-answer section in the commentary. The commentary answers it: "Because both physical abiding and mental abiding are equally called 'abiding.'"
 
 ---
 
-## Page Three
+Furthermore, because of two meanings, they are clarified together in one place. (etc.) However, the meaning of the text is extremely obscure, and even scholars of former ages found it troublesome. For a later student, it is all the more difficult to comprehend. Tentatively, this unworthy monk proposes: the Sequence-fulfillment clarifies the place of dwelling, and is therefore "physical abiding." The Samādhi [entry] refers to the place of the mind's abiding. Therefore, they are shown in connection with each other. Next, "because of two meanings, clarified in one place" means: by calling the place of dwelling the "mind's abiding," while also encompassing samādhi, and by setting forth the "physical abiding," [the text] draws out the mind's abiding. Therefore, both have two meanings, and thus they are clarified together in one place.
 
-[Upper section]
+[Editorial note: The character 擧 (*raise/set forth*) likely belongs after 三昧; and below 出, the three characters 心所住 (*the mind's place of abiding*) are probably missing.]
 
-Furthermore, because there are two meanings, they are explained together in one place (etc.). However, the textual meaning is extremely obscure; even scholars of ancient times found it troublesome, and it is difficult for a student of later times to comprehend. For now, as my humble personal conjecture: the Preface Perfection clarifies the place of dwelling (*shokyō no sho*), and is therefore the "dwelling of the body" (*shinjū*).
+**Question:** In the commentary, where the benefits of the present sutra are clarified and the benefit of the Pure Dharma Eye is mentioned — does this belong to the Mahāyāna or Hīnayāna category of benefits?
 
-[Note] The character *ko* (擧, "to raise/present") may perhaps belong below "samādhi."
+**Response:** The commentary contains two interpretations; the latter is judged superior, and the interpretation that it is a Hīnayāna benefit is held to be superior. (etc.) With regard to this: the present sutra is a teaching of the Middle Way and of definitive meaning (*nītārtha*). The benefits listed must certainly belong to the Mahāyāna category. What grounds exist for calling it a Hīnayāna benefit? Moreover, the Mahāyānasūtrālaṃkāra (*Zhuangyan Lun*) speaks of it as a Mahāyāna benefit. (etc.) Judging by analogy, the benefits of the present sutra should belong to the Mahāyāna category. How then should this be understood?
 
-The samādhi raises the object of the mind's dwelling. Therefore, they are explained in connection, one might say. Next, "because there are two meanings, they are explained together in one place" means: the place of dwelling is called the "dwelling of the mind" (*shin no shojū*), and while incorporating samādhi, it also presents the dwelling of the body.
+**My view:** Upon consulting the sutra text and examining the benefits obtained, those described as Mahāyāna benefits include "arousing the mind of supreme Bodhi and obtaining the prediction (*vyākaraṇa*) of Anuttarā-samyak-saṃbodhi." In the Chapter on Fulfilling Vows through Emptiness (*Kūmangon-hin*), besides the benefit of the Unborn Dharma Tolerance (*anutpattikadharmakṣānti*), the benefit of the Pure Dharma Eye is mentioned — from which we know it is not a Mahāyāna benefit. Likewise, consulting the teachings of the Lotus Sutra (*Myōhō*), the Mahāyāna benefits described include "attaining supreme Bodhi, attaining the Unborn Tolerance, and attaining the gift of dhāraṇī." These are each distinct from the others, as can be seen. Based on this, [I conjecture that] Zichou [Dashi] drew upon the statement in the *Yogācārabhūmi-śāstra* (*Yuqielun*) which describes the benefits of the first fruit [of stream-entry] and formed his high assessment from this. The present sutra is a teaching for all vehicles in general; its doctrines are not restricted solely to Mahāyāna benefits. However, as for the statement in the *Mahāyānasūtrālaṃkāra*: "removing dust and being free from defilement" refers to the meaning of severing delusions, while "attaining the Pure Dharma Eye" is the designation for the realization of fruit. The text presents the idea that this meaning exists at the first bhūmi of the Mahāyāna, and thus cites this explanation based on the perspective of the particular meaning (*betsugīmon*). Following this intention, the *Mahāyānasūtrālaṃkāra* appears to include the explanation of the Pure Dharma Eye benefit of the Ten Stages. This passage of the treatise should be consulted.
 
-[Note] Below the character *shutsu* (出), the three characters *shin-shojū* (心所住) may have been accidentally omitted.
+**Objection:** [Whether there should be more here is uncertain, but the text is left as in the original.]
 
-Therefore both have two meanings each, and are accordingly explained together in one place, one might say.
+[Marginal note: This is an argument concerning the *Fahua Jing Lun* (Treatise on the Lotus Sutra). It was composed by Engen (Yuanxuan).]
 
-**Question:** In the commentary, in clarifying the benefits obtained from this sūtra, the benefit of the Purification of the Dharma Eye (*hōganjō*) is presented. Among Mahāyāna and Hīnayāna benefits, to which does this belong?
+**Question:** The sutra text says, "Among all the dharmas, he attained the Pure Dharma Eye" (etc.). Was this benefit of the Pure Dharma Eye obtained in the Pure Land? From both sides: if obtained in the Pure Land, the *Xuanzan* (*Commentary of Profound Praises*) explains it as a Hīnayāna benefit, but Hīnayāna practitioners do not obtain benefits in the Pure Land. How can it be said to be so? Alternatively, if obtained in the defiled land (*edo*): according to the view of our own school (*jishū*), the land described in the chapters from the Yakuō (Medicine King) chapter onward is entirely a Pure Land. Thus it follows that [the benefit] was obtained in the Pure Land. Moreover, if this is so, would it not mean failing to accord with the views of other schools?
 
-**Response:** The commentary presents two interpretations, of which the latter is superior. It judges the interpretation that calls it a Hīnayāna benefit to be superior (etc.). Regarding this: since the present sūtra is a definitive teaching of the Middle Way (*chūdō ryōgi no kyō*), the benefits listed should certainly be Mahāyāna benefits. What basis is there for saying it is a Hīnayāna benefit? Moreover, in the Mahāyānasūtrālaṃkāra (*Shōgon ron*), it is described as a Mahāyāna benefit (etc.). Following this, the benefit obtained from the present sūtra should be a Mahāyāna benefit. How then (can it be said otherwise)?
-
-**Private note:** Consulting the sūtra text and examining the benefits obtained, the Mahāyāna benefits are stated as: "arousing the aspiration for unsurpassed bodhi (*mujō bodaishin*), and receiving the prophecy (*ki*) of *anuttarā-samyak-saṃbodhi*." Furthermore, following what is stated in the Kūman願品(Void-fulfillment Chapter), where outside of the benefit of the insight into non-arising (*mushō hōnin*), the benefit of the purification of the Dharma Eye is cited — it becomes clear that this is not a Mahāyāna benefit. Also, consulting the explanation of the Wonderful Sūtra (*Myōkyō*, i.e., the Lotus Sūtra) on Mahāyāna benefits: "attaining unsurpassed bodhi, attaining non-arising patience (*mushōnin*), attaining the *dhāraṇī* of giving" — these are each distinct from one another (as observed). For this reason, what is stated in the Yogācārabhūmi-śāstra (*Yuga ron*) as the benefit of the first fruit — this is where Zichou's esteemed view may have originated. The present sūtra is a teaching that pervades all three vehicles. Does it mean that what is expounded is limited to Mahāyāna benefits? However, regarding what the Mahāyānasūtrālaṃkāra states: far off —
-
----
-
-[Lower section]
-
-"Removing dust and separating from defilement" refers to the meaning of cutting off delusion (*wakudai*). "Attaining the Purification of the Dharma Eye" is the designation for realizing the fruit (*shōka*). It is stated that the first ground (*shoji*) of the Mahāyāna has this meaning. Therefore, relying on the gate of the separate meaning (*betsu-gimmon*), this statement is recorded. Following this, in that treatise, the explanation of the benefit of the Dharma Eye Purification at the ten grounds — could it be according to this intent? One should consult the treatise.
-
-**Objection:** [Whether this should appear later is uncertain, but recorded as is in the original.]
-
-[Marginal note] This is a doctrinal question on the Lotus Sūtra commentary. Engen (Yuanxuan) composed it.
-
-**Question:** The sūtra text says, "Among all dharmas, one attains the Purification of the Dharma Eye" (etc.). Therefore, is this benefit of the Purification of the Dharma Eye obtained in the Pure Land? [Two positions.] If it is obtained in the Pure Land, then the Xuanzan (Vijñaptimātratāsiddhi commentary) describes it as a Hīnayāna benefit. Hīnayāna practitioners do not obtain benefits in the Pure Land. How can one say so? If, on the other hand, one says it is obtained in the defiled land (*edo*), then according to one's own school, in the chapters from Bhaiṣajyarāja onward, the lands in which beings dwell are all Pure Lands. We can therefore know that it is obtained in the Pure Land. Moreover, if this is so, does it not go against the spirit of the other school (*tasshū*)?
-
-**Question:** The commentary on this sūtra presents the benefit of the Purification of the Dharma Eye. Is this benefit limited to the benefit of the first fruit (*shoha*, i.e., *srotāpatti*) of the Hīnayāna? [Two positions.] If it is limited to the first fruit: realizing the true principle of the Dharma-nature (*hōshō shinnri*) and thereby attaining the undefiled wisdom-eye (*muro egan*) is called "Purification of the Dharma Eye." Since later stages (*gogo*) already have this meaning too, how can one say it is limited to the first fruit? Based on this, the Yogācārabhūmi-śāstra discusses this as applying to all four fruits (*shika*), showing that it extends to the later stages as well. Other treatises likewise say the same. If so, then how is it that the present commentary and the Xuanzan both interpret it as limited to the first fruit?
-
-**A certain person says:** Regarding the benefit of the Purification of the Dharma Eye: first cutting off the kleśas of discrimination (*funbetsu-waku*) is called "attaining" (the Dharma Eye).
+**Question:** In the commentary on the present sutra, the benefit of the Pure Dharma Eye is set forth. Is this benefit restricted to the Hīnayāna first fruit of stream-entry? From both sides: if restricted to the first fruit, [one would say that] by realizing the true principle of dharma-nature and obtaining the undefiled eye of wisdom, one is said to have attained the Pure Dharma Eye. Yet this same meaning exists in later [fruits — second, third, and fourth]. How can it be said to be restricted to the first fruit? Following from this, the *Yogācārabhūmi-śāstra* describes it as common to all four fruits, thereby showing that it applies through the subsequent fruits as well. Other treatise-explanations are likewise to this effect. But if so, the present commentary and the *Xuanzan* restrict it to the first fruit. How is this? Someone says: "As for the Pure Dharma Eye benefit, [it is at the point when] one first severs the discriminative defilements (*vikalpa-kleśa*) that one is said to obtain [the Pure Dharma Eye]…"

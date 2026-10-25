@@ -1,44 +1,83 @@
-【Page 44】
-【Upper section】
-In my view: Both explanations have their logic. First, regarding the initial explanation's intention: isn't the golden color of the body's light dependent on the golden skin color? Therefore it praises the golden skin color characteristic. Next, regarding "World Honored One's supreme body golden color," the commentary explains this as "praising together." The meaning is that above, separately within the body parts, one part praises the skin, while below generally praises the body parts. This is because body parts include bones, etc. The intention of the next explanation: in praising the constant light, there are respective meanings. This is compared to golden color, while below, being one fathom, manifests compassion for sentient beings. Though both are constant light, they merely express different virtues.
+## Page Forty-Four
 
-Question: In the sūtra's clarification of the principle of emptiness, besides conditioned emptiness and unconditioned emptiness, can conditioned-unconditioned emptiness be established? Answer: It is not established. Regarding this, in the present commentary, besides internal emptiness and external emptiness, internal-external emptiness is established as a judgment. By analogy, couldn't conditioned-unconditioned emptiness be established? Moreover, regarding conditioned and unconditioned dharmas, there should be attachment to separation and combination. Why not establish conditioned-unconditioned emptiness through combination?
+### [Upper Section]
 
-In my view: In the present commentary, clarifying internal-external emptiness appears to have two meanings. First, creating regarding dharma essence. That is, regarding the four great elements that create the five sense faculties and supporting matter, there are two meanings: creating internal faculties and creating external supporting matter. Therefore it is called internal-external emptiness. Second, internal emptiness and external emptiness are observed separately, and also observed in total combination, called internal-external emptiness. Regarding these two meanings, when responding to the analogical objection, when discussing regarding dharma essence, internal-external emptiness has dharma essence. Its essence is precisely the four great elements. However, besides conditioned emptiness and unconditioned emptiness, the so-called conditioned-unconditioned emptiness through combination has no dharma essence.
+**Personal view:** Both interpretations each have their reasonableness. First, the intent of the initial interpretation: "Is it not the case that the golden color of the body's radiance (*shinkō*) derives from the golden color of the skin of the body? Therefore, (the verse) is said to praise the characteristic of the skin of the body being the color of gold." Next, regarding "The most superior body of the World-Honored One is the color of gold (etc.)": the commentary (*sho*) interprets this as "combined praise (*gōsan*, 合讚) (etc.)." The meaning is: the upper (passage) separately praises, among the parts of the body, the skin as one part; the lower (passage) praises the parts of the body collectively — and this is because the parts of the body include bones and so forth. Next, the intent of the (second) interpretation: in praising the constant radiance (*jōkō*, 常光), there are distinct aspects on each side. The (upper passage) uses the simile of gold color, while the lower (passage) reveals (the Buddha's) compassion for sentient beings through (the image of) one *hiro* (a unit of length). Although (both passages speak of) the constant radiance, they each express distinct virtues.
 
-【Lower section】
-How can this be established? Next, when observing in total combination, conditioned-unconditioned emptiness should also exist. Therefore the Chapter on Emptiness judges: "It doesn't say 'only explained.' Principle also has no harm." This is that intention. The meaning is it doesn't say "only establishing internal-external emptiness alone." Principle also permits this without fault. Not obstructing the non-establishment of conditioned-unconditioned emptiness, perhaps explaining that permitting this is without fault. However, that chapter uses two meanings to explain the matter of non-establishment, explaining matters not taught in the teachings. It's not saying the teachings don't permit it.
+---
 
-The Chapter on Emptiness states: Question: Why do internal and external immediately separate and combine for observation, while existent and non-existent do not do so? Answer: It doesn't say "only explained." Principle also has no harm. Internal and external dharmas are both conditioned. Combined observation is easy. Conditioned and unconditioned - combined observation is difficult. Therefore it's not explained. Also, grasping internal and external dharmas, separation and combination have self and possessions. Scattered observation of separation and combination destroys that grasping. Conditioned and unconditioned dharmas are not so. Therefore there is no combination.
+**Question:** Concerning the clarification of the purport of emptiness (*kū*, *śūnyatā*) in the sūtra — apart from "emptiness of the conditioned" (*ui-kū*, 有爲空) and "emptiness of the unconditioned" (*mui-kū*, 無爲空), can one establish "emptiness of both the conditioned and the unconditioned" (*ui-mui-kū*, 有爲無爲空)?
 
-Spring Shrine New Building Ten Volumes, Fifth Volume
-Using manuscript one, comparison completed
-Paper materials overseen by Apparent Determination Quarters Provisional Great Monk (Kinzōin Original Vow)
+**Answer:** One cannot establish it.
 
-Eiroku First Year (Tsuchinoe-Uma) Last Day of Seventh Month, Work Completed - Seiin
+Regarding this: in the present commentary, apart from "inner emptiness" (*naikū*, 内空) and "outer emptiness" (*gekū*, 外空), (the commentary) has judged that "emptiness of inner-and-outer" (*naige-kū*, 内外空) is to be established. By analogy [Marginal note: (Editor's note) there appears likely to be a missing character below "example" (*rei*, 例)], could one not establish "emptiness of both the conditioned and the unconditioned"? Furthermore, with respect to the various conditioned and unconditioned dharmas, there should be the attachment of separating and combining (*ri-gō no shū*, 離合執), so why, when combined, does one not establish "emptiness of both the conditioned and the unconditioned"? [Marginal note: Erin of the Prajñā Assembly (*Hannyakai no Erin*) raises this (as a problem).]
 
-【Page 45】
-【Upper section】
-Supreme Questions and Answers Commentary Volume Six Table of Contents
+**Personal view:** In the present commentary, the clarification of "inner-outer emptiness" (*naige-kū*) appears to involve two meanings. First, (establishing it) with reference to the substance of dharmas (*hōtai*, 法体): in the (process of) creating (*tsukuru*, 造) the five faculties (*go-kon*, 五根) and the supporting material (*fuchinjin*, 扶塵) by the four great elements (*shi-dai-shu*, 四大種), there are two aspects — creating the inner faculties (*nai-kon*, 内根) and creating the outer supporting matter (*gai fuchinjin*, 外扶塵) — and therefore one speaks of "inner-outer emptiness." Second, "inner emptiness" and "outer emptiness" (can be) observed separately and then also observed collectively in combination, (and this combined observation) is called "inner-outer emptiness (etc.)." [Marginal note: Paraphrase of the meaning.] When the analogical objection (*rei-nan*, 例難) is addressed through each of these two meanings: when (the question is) discussed with reference to the substance of dharmas, "inner-outer emptiness" has a substance of dharmas — namely, its substance is the four great elements. However, the so-called "emptiness of both the conditioned and the unconditioned," combined beyond the conditioned and unconditioned emptiness, has no substance of dharmas.
 
-Volume Six
-Question: The sūtra's "with different mouths but same voice praising the dharma master saying..." - Is this limited to the offering dharma master?
-Question: At the beginning of the ten dharma practices, raising the merit of listening - how is this explained?
-Question: The sūtra text "crossing the boundless fearsome great ocean, liberated from birth and death" - Does birth and death refer to both karma and afflictions?
-Question: Are the six types including dharma drum and dharma conch the Mahāyāna dharma wheel?
-Question: The sūtra text "Buddha's virtues boundless like the great ocean" - which virtues are praised?
-Question: Is there a principle of taking wisdom as primary?
-Question: The sūtra text "surpassing all sage assemblies, transcending the three realms to be the supreme honored one" - how does the commentary master explain this?
-Question: The sūtra "arousing great compassionate mind, wishing to give peace and happiness" - how is this explained?
-Question: The sūtra "able to kindle the supreme extremely bright dharma torch" - how is the dharma-analogy combination explained?
-Question: Do the four heavens together recite the divine mantra?
-Question: The sūtra text "excellent characteristics like space immeasurable, surpassing a thousand moons emitting light" - which of the three bodies is this?
-Question: The sūtra clarifying proper dharma standards, citing the Yogācāra Foundation Stages "revering correct dharma" - is reverence the meaning of non-disparagement?
+### [Lower Section]
 
-【Lower section】
-Supreme Questions and Answers Commentary Volume Six
+How, then, could one establish it? Next, when (they are) observed collectively in combination, "emptiness of both the conditioned and the unconditioned" should also exist. Therefore, the *Kūgi-shō* (空義章, "Chapter on the Meaning of Emptiness") judges: "It is not said to be the only (teaching); the principle also admits of no harm (*mushō*, 無傷)." This is that meaning. The meaning is: it does not say that "only inner-outer emptiness is to be established"; (the text implies that) even if the principle permits (*yurusu*) this (i.e., emptiness of both the conditioned and the unconditioned), there is no fault. (The *Kūgi-shō*) does not prohibit (*sha*, 遮) the establishing of "emptiness of both the conditioned and the unconditioned," but rather interprets (the matter) as: there is no fault in permitting it. However, the reason that the (relevant) chapter (of the *Kūgi-shō*) interprets the non-establishment (of emptiness of both the conditioned and the unconditioned) through two meanings is that it is interpreting the fact that (the matter) is not taught (*toku*, 說) in the doctrine — it is not saying that the doctrine does not permit it.
 
-Volume Six
-Question: The sūtra text states "with different mouths but same voice praising the dharma master saying..." Then is this dharma master limited to the offering dharma master, or how should it be understood? Proceeding to say: The commentary states: "Including the dharma master who expounds is the correct meaning." Regarding this, according to the commentary master's explanation, examining the sūtra text from beginning to end: when the human king offers various incense to make offerings to this wonderful canon, the incense clouds reach the ten directions' Ganges sand buddha lands, transforming in the space realm into incense canopies. The buddhas observe the auspicious response, with different mouths but same voice praising the offering dharma master: "Excellent! Excellent! You great hero, widely propagate such profound and subtle sūtra texts." The sūtra text clearly appears to limit this to the offering dharma master. Moreover, the text praising future results also limits this to the offering dharma master. Why does the explanation of praising present causes include the expounding dharma master? According to this, the master's definitive judgment follows the sūtra text. How should this be understood?
+---
 
-In my view: Master Cízhōu made two explanations, judging that the explanation including both types of dharma masters is superior. Generally, this explanation's meaning is that the auspicious sign of incense clouds pervading the ten directions depends on the merit power of the human king's offering to the sūtra. Also, the one who expounds, by proclaiming the sūtra, has the sūtra king's威power, causing it to pervade the ten directions. Therefore it includes both types of dharma masters. However, regarding the objection that the text explaining future results limits this to the offering dharma master: understanding that the explanation praising present causes includes the expounding dharma master, the future
+The *Kūgi-shō* states: "Question: Why is it that inner and outer (emptiness) are observed through the combination and separation (*ri-gō*, 離合), whereas conditioned and unconditioned (*u-mu*, 有無) are not? Answer: It is not said to be the only (teaching); the principle also admits of no harm. The two dharmas of inner and outer are alike (in being) conditioned (*ui*, 有爲), and therefore combined observation is easy. (But) conditioned and unconditioned observed in combination is difficult. Therefore (the sūtra) does not teach it. Furthermore, attachment to the two dharmas of inner and outer (creates the view that there is) a self (*ga*, 我) and a self's possessions (*gasho*, 我所) in their separation and combination; by observing the separation and combination (analytically), one breaks through that attachment. The two dharmas of conditioned and unconditioned are not like this. Therefore there is no combined (observation) (etc.)." [Marginal note: The *Daijō Gishō* (*Dacheng yizhang*, 大乘義章) is in general agreement with this.]
+
+---
+
+**Colophon:**
+
+The fifth of the ten (fascicles kept in the) newly built house (*shinjōya*, 新造屋) of Kasuga Shrine (*Kasuga-sha*, 春日社).
+
+　　Collated once against a manuscript copy (*shahon*), completed.
+
+　　The writing paper: (managed by) the Provisional Senior Monk (*Gon-Daisō*, 権大僧都) of the Kendōbō (*Kendō-bō*, 顕定房). [Konzōin hon'gan (金藏院本願).]
+
+　　Completed at the end of Eiroku first year (*tsuchinoe-uma*, 戊午), seventh month, last day. Seiin (*Seiïn*, 清胤).
+
+---
+
+## Page Forty-Five
+
+### [Upper Section]
+
+**Table of Contents for *Saishō Mondōshō*, Scroll Six**
+
+**Scroll Six**
+
+Question: The sūtra (states): "(The Buddhas) with one accord praised the *dharmabhāṇaka* (Dharma-teacher), saying (etc.)." Is (the praise) limited to the Dharma-teacher who makes offerings?
+
+Question: At the beginning of the ten Dharma-practices (*juppō-gyō*, 十法行), the merit of listening and learning is mentioned. How is this interpreted?
+
+Question: The sūtra (states): "Crossing the vast and fearsome great ocean, one is liberated from birth-and-death (text)." Does "birth-and-death" encompass both karma and the afflictions (*gyō-bonnō*, 業煩惱)?
+
+Question: Are the six kinds (of instruments) such as the Dharma-drum (*hōku*, 法皷) and the Dharma-conch (*hōra*, 法螺) the Mahāyāna wheel of Dharma (*daijō hōrin*, 大乘法輪)?
+
+Question: The sūtra (states): "The Buddha's virtue is boundless, like the great ocean (text)." What virtue is being praised?
+
+Question: [Marginal note: (Editor's note) "有" (*u*, "there is/exists") appears likely to be a superfluous character.] [Marginal note: (Editor's note) "為" (*i*) is likely "以" (*i*, "using/by means of")] The principle of taking wisdom as the primary (element). Does this exist?
+
+Question: The sūtra (states): "Transcending all the assemblies of the holy (ones), surpassing the three realms, (the Buddha) is the most supreme honored one (text)." How does the commentary master (*shoshu*) interpret this?
+
+Question: The sūtra (states): "Arousing the great compassionate mind (*daijishin*, 大慈心), he vows to bestow peace and happiness (etc.)." How is this interpreted?
+
+Question: The sūtra (states): "He is able to kindle the supremely and most brilliantly illuminating torch of the Dharma (*hōkyo*, 法炬) (etc.)." How is the correspondence between the Dharma-referent and the simile (*hō-yu gō*, 法喩合) interpreted?
+
+Question: Do the Four Heavenly Kings (*shi-tennō*, 四天) all together teach the divine spell (*shinju*, 神呪)?
+
+Question: The sūtra (states): "The major and minor marks (*sōkō*, 相好) are like empty space — immeasurable; surpassing a thousand moons, (the Buddha) radiates light (text)." To which of the three bodies (*sanshin*, 三身) does this refer?
+
+Question: The sūtra [Marginal note: (Editor's note) "sūtra" (*kyō*, 經) is likely "commentary" (*sho*, 疏)] clarifies "the standard principles of the True Dharma (*shōhō no kisoku*, 正法軌則)" and cites from the *Yogācārabhūmi* (*Yuga honchi-bun*, 瑜伽本地分): "reverencing the True Dharma (etc.)." Does "reverencing" (*kyōkei*, 恭敬) signify the meaning of "not disparaging" (*fu-kyō no gi*, 不輕義)?
+
+### [Lower Section]
+
+**Saishō Mondōshō, Scroll Six**
+
+**Scroll Six**
+
+**Question:** The sūtra text states: "With one accord (the Buddhas) praised the Dharma-teacher, saying (etc.)." If so, is this Dharma-teacher now (to be understood as) limited to the Dharma-teacher who makes offerings (*kuyō hōshi*, 供養法師), or what?
+
+**It is advanced:** The commentary states: "(The praise) extends to (*tsūzu*, 通) the Dharma-teacher who expounds the Dharma — this is the correct interpretation (etc.)."
+
+Regarding this: based on the commentary master's interpretation, and having read through the sūtra text from beginning to end, (one finds that) when the King of Men (*jinnō*, 人王) makes offerings to this wondrous scripture (*myōten*, 妙典) using various incenses, the cloud of incense reaches the (Buddha-)lands of the sands of the Ganges in the ten directions; within the realm of empty space it transforms into a fragrant canopy (*kōgai*, 香蓋); the various Buddhas observe this auspicious response (*zuiō*, 瑞應), and with one accord praise the Dharma-teacher who makes offerings (*kuyō hōshi*), (saying:) "Well done, well done! You, O great man (*daijōbu*, 大丈夫), are well able to broadly disseminate (*ryūfu*, 流布) such a profoundly deep and subtle wondrous sūtra (etc.)." The sūtra text clearly appears to be limited to the Dharma-teacher who makes offerings (*kuyō hōshi*). Furthermore, the passage praising the future fruit (*tōka*, 当果) is also limited to the Dharma-teacher who makes offerings, and the explanation praising the present causal practice (*gen-in*, 現因) is also (similarly) limited. How then does (the praise) extend to the Dharma-teacher who expounds the Dharma (*nōsetsu hōshi*, 能說法師)? For this reason, (other) masters have definitively judged (the matter) in accordance with the sūtra text. How (should this be understood)?
+
+**Personal view:** The Great Master of Zīzhōu (Huizhao, 慧沼) offers two interpretations, and has judged that the interpretation extending (the praise) to both kinds of Dharma-teachers (*nishū no hōshi*, 二種法師) is superior. In general, the intent of this interpretation is as follows: the auspicious sign (*zuisō*, 瑞相) of the cloud of incense spreading throughout the ten directions is due to the meritorious power (*kurikī*, 功力) of the King of Men's offering of the sūtra; and also, the one who expounds (the Dharma) — by virtue of proclaiming (*senzetsu*, 宣說) the sūtra — brings about the majestic power (*ikiroku*, 威力) of the King of Sūtras (*kyōō*, 経王), causing (it) to pervade the ten directions. Therefore (the praise) is said to extend to both kinds of Dharma-teachers. However, concerning the objection that "the passage explaining the future fruit (*tōka*) is limited to the Dharma-teacher who makes offerings": in the explanation praising the present causal practice (*gen-in*), (the interpretation of) extending (the praise) to the Dharma-teacher who expounds the Dharma is acceptable. As for the passage speaking of the future fruit (*tōka*)...

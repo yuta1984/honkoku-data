@@ -1,84 +1,80 @@
-## New Edition: Shiritori Sugoroku (Word-Chain Board Game) — Illustrated by Yoshifuji
+## New Edition: Shiritori Sugoroku (Word-Chain Game Board)
+**Illustrated by Yoshifuji**
 
-Filed [with authorities] in Meiji 20 (1887), [Month] [Day]
+Submitted for approval: Meiji 20 (1887), Month, Day
 42 Komagata-chō, Asakusa Ward
-Illustrator and Publisher: Kodama Matasichi
+Artist and Publisher: Kodama Matashichi
 
 ---
 
 ### How to Play
-[Read from the "Start" square in the lower right, proceeding around the board. Read the column titles together with the text in each square in sequence.]
-
----
+(Start from the "furihajime" square at the lower right and proceed in a spiral pattern)
 
 **START**
 
-Peonies with Chinese lions; bamboo with tigers /
-Treading on a tiger: Watōnai [the hero] /
-Lord Naitō's family crest is the drooping wisteria /
-Gazing at wisteria: the monk Saigyō, turning away /
-"Mukōmi" [facing away] is a clam; "baka-bashira" [fool's post] /
-A post [hashira] is in the second floor and under the veranda /
-Shitaya and Ueno's mountain kudzu [yamakatsura] /
-Katsura Bunji is a rakugo storyteller [hanashika] /
-The "denden" drum and the shō flute /
-Enma [King of Hell] comes at Obon and New Year's
+Peonies with Chinese lions, bamboo with tigers /
+Treading on a tiger — Watōnai /
+The Naitō family crest is the hanging wisteria /
+Saigyō viewing wisteria, facing away /
+Shelled clams, fool's pillar (barnacle) /
+Pillars are found on the second floor and under the veranda /
+Shitaya, Ueno, and mountain kudzu /
+Kuzunoha Bunji is a rakugo storyteller /
+The dendenden drum and the shō flute /
+Emma (the King of Hell) goes "bon!" — it's the New Year! /
 
-Lord Katsuyori's emblem is the Takeda diamond crest /
-The diamond-shaped rice cake of the third month: the Doll Festival /
-The Doll Festival's lanterns and festival floats /
+Lord Katsuyori bears the Takeda diamond crest /
+The diamond-shaped mochi of March, the Doll Festival /
+Festival with ten-thousand lanterns, festival floats /
 Sea bream, bonito, octopus, and tuna /
-London — a great harbor of a foreign land /
-The one people climb [tozan] is Mount Fuji
+London — a great foreign harbor /
+What you climb is Mount Fuji /
 
-"Three times around, then have a smoke" /
-Properly so, Shōtayu [a performer's name], things of Ise /
-Koto, shamisen, flute, and drums /
-The Taikō [Toyotomi Hideyoshi] was the Imperial Regent [Kampaku] /
-The white snake's glow is at Yanagishima /
-In the island wallet: fifty ryō
-
+Turn around three times and take a smoke /
+Formal ceremony — Shōtayū, things of Ise /
+Koto shop, shamisen, flute, and drum /
+The Taikō (Toyotomi Hideyoshi) was the Regent (Kampaku) /
+The shining white snake is at Yanagishima /
+In the island purse, fifty ryō /
 Gorō and Jūrō — the Soga Brothers /
-[The brothers'] sewing box, tobacco tray /
-"A sleepy child is a good child — go to sleep now"
+The brothers' lacquer box and tobacco tray /
+A bon season baby is a good child — go to sleep /
 
-To the Shinagawa courtesans: ten monme /
-Ten monme musket ball /
-Tamaya's fireworks are the great originator /
-The haiku master's dwelling is Bashō-an [Bashō's Hut]
+The courtesans of Shinagawa charge ten monme /
+The iron-rod ball weighing ten monme /
+Tamaya's fireworks are the original and greatest /
+The one who lives under that name is Bashō-an /
 
-Bean curd in thick sauce, and nighthawk soba noodles /
-"The money from speculation is all spent — hey, Ma, give me four mon!" /
-If [the money] runs out, wait for New Year's (Stay/Forfeit a turn)
+Bean curd with thick sauce, and night-hawk soba noodles /
+Market-price money goes roaring — "Mama, give me four mon!" /
+If the delay passes, it's New Year's! (STAY) /
+The treasure ship of New Year's /
+On the treasure ship ride the Seven Gods of Fortune /
+Empress Jingū, Takenouchi (no Sukune) /
+The "Utsu" is Kenbishi, Nanatsu-Ume /
 
-The New Year's treasure ship /
-On the treasure ship: the Seven Lucky Gods /
-Empress Jingū and Takenouchi [no Sukune] /
-The drawn crest is the Kenbishi; the Seven Plums [Nanatsu Ume]
+Plum, pine, and cherry belong to Sugawara /
+Bundled in straw — the thrown shimada hairstyle /
+Shimada, Kanaya — the great Ōi River /
 
-Plum, pine, and cherry blossom — [all associated with] Sugawara [no Michizane] /
-Bound in straw: the "nage-shimada" [a hairstyle] /
-Shimada, Kanaya — the Ōi River
+It is because I love you that I come all the way from Kanda /
+Coming to Fukakusa — the devotion of a hundred nights (STAY) /
+Sake and snacks for six hundred — spend as you please /
+"Oh well!" — wearing the three-ridge hat tilted to the side /
+Wearing it upright and shaking — the woman of Sagami /
+A widowed woman blooms like a flower /
 
-"It's only because she's dear to me that I travel all the way from Kanda" /
-Commuting through Fukakusa — a hundred nights of devotion (Stay/Forfeit a turn)
+Why tie your horse to the blossoming cherry tree? /
+Tie the hairpiece — and the great elephant stops here /
 
-"With sake and snacks, spend six hundred freely, as you please" /
-"Well, never mind" — wearing the three-tiered sedge hat, cocked to the side /
-Wearing it tilted forward — the woman of Sagami /
-A woman widowed [will eventually see better days]: flowers bloom for the widow
-
-On the blooming cherry tree — why do you tether your horse? /
-To the tethering-post of false hair [katsura/wig], the great elephant stops
-
-**GOAL**
+**GOAL (Agari)**
 
 ---
 
-**Return Rules (when dice overshoot the goal):**
+### Rules for Overshooting the Goal
 
-Roll 1 over → Return to "Great Elephant"
-Roll 2 over → Return to "Blooming Cherry Blossoms"
-Roll 3 over → Return to "Woman Widowed"
-Roll 4 over → Return to "Wearing it tilted forward"
-Roll 5 over → Return to "Well, never mind — three-tiered hat"
+- Overshoot by 1: Return to "the great elephant"
+- Overshoot by 2: Return to "the blossoming cherry"
+- Overshoot by 3: Return to "widowed woman"
+- Overshoot by 4: Return to "wearing it upright and shaking"
+- Overshoot by 5: Return to "Oh well, the three-ridge hat"

@@ -1,68 +1,73 @@
-## Tsukushi / Sugina (Field Horsetail / Common Horsetail)
+## [Tsukushi / Sugina — Field Horsetail: *Equisetum arvense*]
 
-Spring of Kanoto-Mi (辛巳, 1821)　　[Seal: Vegetable category]
+Spring of Kanoto-Mi (1821)　　[Seal] Vegetable category
 
-　　天花菜 (Tenkwasai) — Tsukutsukushi (horsetail sprout)
-土筆 (Tsukushi / horsetail fertile shoot)
+　　Tiānhuācài (Tenkwasai) — Tsukutsukushi (Tsukushi / horsetail shoots)
 
-*From the appendix of "Yamato Honzō" (Yamato Materia Medica):*
-　　It grows in mountain valleys and fields. In spring, it first produces a flower-spike resembling a brush (筆).
-　　Separately, it produces stems and leaves, which are called Sugina (杉菜, "cedar grass"), as they resemble cedar. The Chinese name
-　　is not yet clearly known. It has not been encountered in Chinese texts either. Some say
-　　that in "Honzō Kōmoku" (Bencao Gangmu), under the entry for mokuzoku (wood horsetail), there is an entry for "Monkei" (問荊),
-　　also called "Setsuzokusō" (接続草, "connecting grass"), and suggest this may be the Tsukushi.
-　　　　　　　　(And so forth.)
+From the appendix of the *Yamato Honzō* (Japanese Natural History):
+　　It grows in mountain valleys and wild fields. In spring it first sends up flower shoots resembling writing brushes.
+　　Separately, it grows stems and leaves, which are called "Sugi-na" (cedar grass), as they resemble cedar. The Chinese name
+　　is not yet clear, and it has not yet been encountered in Chinese books. However, some say
+　　that in the appendix to the entry on "Mokuzan" (scouring rush / *Equisetum hyemale*) in the *Honzō Kōmoku* (Bencao Gangmu), there is an entry for "Wènjīng" (Mondokei),
+　　also known by the alternate name "Setsuzokusō" (jointed-grass), and that this may well be what we call Tsukushi.
+　　　　　　　　　　　　　　　　(And so on.)
 
-*From "Honzō Ikka-gen" (Personal Views on Materia Medica):*
-　蕒 (Sugina) — has eleven names: Gyūshin (牛脣), ■Dan, Sōshisō (相思草), Danchōsō (断腸草),
-　　　　　Shūfusō (愁婦草), Sōsō (霜草), Ryōsamon (寮沙問), Ansokusō (按続草),
-　　　水瀉花 (Suishaka), 筆頭菜 (Hittōsai). The name "Suisha" (水瀉) is said to be erroneous.
-　　My (the author's) own assessment:
-　　　The leaf-bearing plant is Sugina (杉菜), and the spore-bearing shoot is Tsukushi (土筆).
-　　　Mōkō (麻黄, ephedra) is the male; Sugina is the female — so it is said.
+The *Honzō Ikkagen* (Personal Views on Materia Medica) states:
+　Sugina has eleven names: Niúchún, ■Dan, Xiāngsīcǎo (Lovesick grass), Duànchángcǎo (Heartbreak grass),
+　　　　　Chóufùcǎo (Sorrowful wife grass), Shuāngcǎo (Frost grass), Liáoshāwèn, Àn​xùcǎo (Jointing grass),
+　　　　　Shuǐxièhuā, Bǐtóucài (Brushhead vegetable). (The name "Shuǐxiè" is said to be an error.)
 
----
-
-## Tsubaki (Camellia)
-
-　　　[Seal: Flowering tree]
-椿花 (Camellia flower)
-　　　　Listed in various texts
-　曼荼羅樹 (Mandara-ju / Mandala Tree)
-　山茶花 (Sazanka / Camellia sasanqua)
+　My (the author's) assessment:
+　　　The leaves are called Sugina (スギナ), and the flower shoots are called Tsukushi (土筆).
+　　　Ephedra (*Mahuang*) is the male, and Sugina is the female — so it is said, etc.
 
 ---
 
-## Hirado Tsutsuji (Hirado Azalea)
+## [Tsubaki — Camellia: *Camellia japonica*]
 
-[Seal: Flowering tree]
-　　　　Copied on a spring day of Kanoe-Tatsu (庚辰) year
+　　　[Seal] Flowering tree
 
-*From "Wakan Sansai Zue" (Japanese-Chinese Illustrated Encyclopedia), section on poisonous plants:*
-　　平戸躑躅 (Hirado Tsutsuji / Hirado Azalea)
-　　　　琉球躑躅 (Ryūkyū Tsutsuji / Ryūkyū Azalea)
+Camellia flowers
+　　　　Listed in various books
+
+　Mandara-ju (Mandāra tree)
+　Sazanka (Mountain tea flower / *Camellia sasanqua*)
+
+---
+
+## [Hirado Azalea: *Rhododendron* × *mucronatum*]
+
+[Seal] Flowering tree
+　　　　Kōshin spring (1820)
+
+The *Wakan Sansai Zue* (Japanese-Chinese Illustrated Encyclopedia), under "Poisonous Plants," states:
+　　Hirado-tsutsuji (Hirado Azalea)
+　　　　Ryūkyū-tsutsuji (Ryūkyū Azalea)
 　　　On examination: Hirado is a place name in Kyushu.
-　　　This plant originally came from the Ryūkyū Islands, hence the name.
-　　　Those with white flowers are called "Ryūkyū," while those with purple
-　　　flowers are called "Tsutsuji" (azalea).
+　　　It originally came from Ryūkyū (the Ryūkyū Islands), and was named accordingly.
+　　　The white-flowered variety is called "Ryūkyū," and the purple-
+　　　flowered variety is called "Tsutsuji" (azalea).
 
 ---
 
-## Kirishima Tsutsuji (Kirishima Azalea)
+## [Kirishima Azalea: *Rhododendron obtusum*]
 
-*From "Wakan Sansai Zue," section on poisonous plants:*
-　　　　映山紅 (Yōsankō / "Mountain-reflecting red") — known as Kirishima
-　　　　　紅躑躅 (Kō-tsutsuji / Red Azalea)
-　　　　　　Commonly called "Kirishima" (岐利之末)
-　　In "Honzō Kōmoku" (Bencao Gangmu), 山躑躅 (Mountain Azalea; also known as 山石榴 and 杜鵑花) and
-　　映山紅 (紅躑躅, Red Azalea) are treated as one and the same plant.
-　　Now [in this text] they are distinguished as two separate plants.
+The *Wakan Sansai Zue*, under "Poisonous Plants," states:
+　　　　Yìngshānhóng (Kirishima)
+　　　　　Hóng Zhízhú (Red Azalea)
+　　　　　　Colloquially called "Kirishima" (岐利之末)
 
-*From "Zōho Tashiki-hen" (Expanded Polyglot Encyclopedia), section on poisonous plants:*
-　　山躑躅 (Santekiryoku / Mountain Azalea)　Japanese name: Tsutsuji　Expanded alternate name: 紅躑躅 (Kō-tsutsuji)
-　　　山石榴 (Sansekiō) · 映山紅 (Yōsankō) · 杜鵑花 (Tōkenka / Azalea flower)
+　　The *Honzō Kōmoku* treats Shān Zhízhú (Mountain Azalea; also: Mountain Pomegranate / Cuckoo Flower) and
+　　Yìngshānhóng (Red Azalea) as a single species;
+　　but now they are regarded as two distinct species.
 
-　　　　　My own assessment: "Honzō Kōmoku" treats 山躑躅 and 映山紅 as a single plant, and there is in fact some basis
-　　　　　for considering them to be one, as can be understood from the "Tashiki-hen." 映山紅, whose flowers are
-　　　　　deep crimson and which, when in bloom, color the entire mountain — could this be how the name arose? Perhaps it is a
-　　　　　variety of 山躑躅, and a separate name was later assigned to it as an alias. This matter warrants further study.
+The *Zōho Tashikiben* (Expanded Polyglot Dictionary), under "Poisonous Plants," states:
+　　Mountain Azalea (*Shān Zhízhú* / Santekichoku)　Japanese name: Upon reflection, "Tsutsuji"　Additional alternate name: Hóng Zhízhú (Red Azalea)
+　　　Shān Shíliu (Mountain Pomegranate)　Yìngshānhóng　Dùjuānhuā (Cuckoo Flower)
+
+　　　　　My assessment: The *Honzō Kōmoku*'s treatment of Mountain Azalea and Yìngshānhóng as a single species is
+　　　　　not without basis, as can be understood from the *Tashikiben* — they were originally one and the same.
+　　　　　Yìngshānhóng (literally "reflecting red across the mountain") has flowers of
+　　　　　a deep crimson color, and when in bloom the color spreads across an entire mountainside — it is from this that the name derives.
+　　　　　Whether it is a distinct variety of Mountain Azalea whose alternate name was later separated out
+　　　　　and made its own name remains to be examined in later texts.
