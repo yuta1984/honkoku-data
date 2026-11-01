@@ -1,33 +1,26 @@
-【Right page】
-　Long hook　　　Izumiya
-　　　　　　　　　Kichizenaemon
-　　Same　　　　Fukunoya (dyer)
-　　　　　　　　　Tarōzaemon　
-　　　　　　　Awaya
-　　Well bucket　　　Heiuemon
-　　　　　　　Oil shop
-　　　　　　　　　Tōhachi
-　　Water storehouse　　Atsumaya
-　　　　　　　　　Tomouemon
-　　Same　　　　Yoshinoya
-　　　　　　　　　Kiuemon
-　　Same　　　　Fujinoya
-　　　　　　　　　Kyūuemon　
+**[Right folio]**
 
-【Left page】
-　　　　　　　Taruya (barrel shop)
-　　　　　　　　　Genzaemon
-　　Same　　　　Yamazatoya
-　　　　　　　　　Izaemon
-　　　　　　　Kyōkonya (Kyoto dyer)
-　　　　　　　　　Jingorōemon
-　　　　　　　Izumiya
-　　　　　　　　　Chōbei
-　　Same　　　　Tsuchiya (hammer shop)
-　　　　　　　　　Sajiuemon
-One　Ladder　　　Momijiya (maple shop)
-　　　　　　　　　Kanuemon
-　　Same　　　　Yanaya (weir shop)
-　　　　　　　　　Chūzaemon
-One　Large rope　　　Kaneshiya (carpenter's square shop)
-　　　　　　　　　Magobei
+*Sakari-machi (continued)*
+
+| Firefighting Equipment | Shop Name & Person Responsible |
+|---|---|
+| Long pike pole (*naga tobiguchi*) | Izumiya — Zensaemon |
+| Same (long pike pole) | Fukukon'ya — Tarōzaemon |
+| Bucket on a rope (*tsurube*) | Awaya — Heisaemon |
+| (Same, *tsurube*) | Ōmiya — Tohachi |
+| Water storage (*mizugura*) | Azumaya — Tomosaemon |
+| Same (water storage) | Yoshinoya — Kisaemon |
+| Same (water storage) | Fujinoya — Kyūsaemon |
+
+**[Left folio]**
+
+| Firefighting Equipment | Shop Name & Person Responsible |
+|---|---|
+| Same (water storage) | Taruya — Genzaemon |
+| Same (water storage) | Yamazatoya — Izaemon |
+| (Not specified) | Kyōkon'ya — Jingorōemon |
+| (Not specified) | Izumiya — Chōbei |
+| Same | Nuchiya — Sajirōemon |
+| Ladder (*hashigo*) | Momijiya — Kansaemon |
+| Same (ladder) | Yanaya — Chūzaemon |
+| Large rope (*ōtsuna*) | Makeshiya — Magobei |

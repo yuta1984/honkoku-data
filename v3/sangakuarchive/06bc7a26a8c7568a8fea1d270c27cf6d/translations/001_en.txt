@@ -1,0 +1,19 @@
+**Problem:**
+As shown in the figure, upon a square with a side of 4 sun, there is triangle Otsu (乙), a right triangle with leg (釣/鉤), base (股), and hypotenuse (弦); the short leg (釣) of Otsu is 3 sun. Find the leg, base, and hypotenuse of right triangle Ko (甲).
+
+**Answer:**
+　Ko's leg (釣): 4 sun
+　Ko's base (股): 5 sun 3 bu 3 rin (with remainder)
+　Ko's hypotenuse (弦): 6 sun 6 bu 6 rin (with remainder)
+
+**[Dedication inscription]**
+
+**Method (Solution):**
+Square Otsu's leg of 3 sun, and also square the side of the square (4 sun), add them together, and extract the square root to obtain Otsu's hypotenuse of 5 sun.
+Separately, square the side of the square (4 sun) and divide by Otsu's leg (3 sun) to obtain Ko's base. Also, multiply the side of the square (4 sun) by Otsu's hypotenuse (5 sun) and divide by Otsu's leg (3 sun) to obtain Ko's hypotenuse. The side of the square (4 sun) becomes Ko's leg. This satisfies the problem.
+
+　　　March, Meiji 17 (1884)
+　　　　　Hio Village, this district
+　　　　　　Pupil of Imai Kojirō Nagami
+　　　　　　　This village:
+　　　　　　　　Yamaguchi Mokuhei Tadamitsu

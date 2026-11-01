@@ -1,0 +1,31 @@
+**[Figure – Problem 1]**
+
+Suppose, as shown in the figure, a circle contains a triangle, three small circles, and six large circles. Given that the diameter of the outer circle is 30 sun and the diameter of the small circles is 5 sun, what is the diameter of the large circles?
+
+**Answer:** The diameter of the large circles is 8 sun 9 bu 8 rin 9 mō (with a remainder).
+
+**Method:** Subtract the square of the small diameter from the cube of the outer diameter, and call this "Ten." Multiply "Ten" by the fourth power of the outer diameter, take the square root, then subtract half of "Ten" from the result to obtain the large diameter. This satisfies the problem.
+
+---
+
+**[Figure – Problem 2]**
+
+Suppose, as shown in the figure, a truncated cage (a solid with 6 square faces and 8 triangular faces — i.e., a cuboctahedron or truncated octahedron) contains a sphere (the sphere touches all faces and does not move inside). Given that each face has a side length of 3 sun 8 bu, what is the diameter of the sphere?
+
+**Answer:** The diameter of the sphere is 6 sun 5 bu 8 rin 1 mō (with a remainder).
+
+**Method:** Take 3, extract the square root, and multiply by the side length (3 sun 8 bu) to obtain the diameter of the sphere. This satisfies the problem.
+
+---
+
+&emsp;&emsp;Seki School — Ninth Generation Orthodox Transmission
+
+&emsp;&emsp;Resident of Kōzuke Province, Amaha District, Kamimura
+
+&emsp;&emsp;&emsp;Student of Saitō Seizō Fujiwara Yoshimitsu
+
+&emsp;&emsp;&emsp;&emsp;Same village:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Sakabe Jirōsuke Tachibana Kiyoyoshi
+
+&emsp;&emsp;Meiji 10th year, Year of the Ox (Hinoto-Ushi), Second Month (Kisaragi / February), 1877

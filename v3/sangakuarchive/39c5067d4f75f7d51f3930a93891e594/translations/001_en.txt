@@ -1,0 +1,21 @@
+**[Title: Problem]**
+
+One problem: Suppose a regular pentagon has sides of a certain length. As shown in the figure, a circle is inscribed within the diagonal (interior). Find the diameter of the circle.
+
+　　　Answer: The diameter of the circle is [a certain value].
+
+　　　　　　Derivation
+
+[Figure]
+
+Method: Place 0.05 (五厘); take its square root. Subtract this from the square root of 0.5 (五分); multiply by the length of the side to obtain the diameter of the circle.
+
+---
+
+**Location: Kōshima Village, Ōaza Higashi-Kōsai**
+
+Solved and dedicated by: **Negi Shikamatsu Harunobu** (根木鹿松春𫝕)
+
+　**Brief Biography**
+
+　　Under [the instruction of] Okazaki Yanosuke and Ozaki Chizaemon, he studied soroban (bead arithmetic), general mathematics (*kaimoku*), and algebraic methods (天元術, *tenyenjutsu*). Under Kubota Yoshiyuki, he studied the method of *endan* (演段術), the method of *senkan* (翦管術), the method of *shōsa* (招差術), and the astronomical calculation methods of the Jōkyō Calendar (貞享暦推歩術). He also studied written calculation methods (*fubitsu sanpō*).

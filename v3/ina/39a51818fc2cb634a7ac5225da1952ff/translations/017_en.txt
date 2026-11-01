@@ -1,29 +1,31 @@
-【Right Page】
-　　　　　　　　Ichimonjiya (shop name)
+【Right page】
+　　　　　　　　Ichimojiya
 　　　　　　　　　　Tokujuro
-　　　　　　　　Confectionery shop
-　　　　　　　　　　Tomizaemon
-　　　　　　　　Tofu shop
+　　　　　　　　Kashitsukiya (Confectionery shop)
+　　　　　　　　　　Toemon
+　　　　　　　　Tofuya (Tofu shop)
 　　　　　　　　　　Gonzaburo
-　　　　　　　　Tatami mat shop
+　　　　　　　　Tatamiya (Tatami shop)
 　　　　　　　　　　Iemon
-　　　　　　　　Echigoya (shop name)
+　　　　　　　　Echigoya
 　　　　　　　　　　Kanshiro
-　　　　　　　　Kochiya (shop name)
-　　　　　　　　　　Choshiro　
-　　　　　　　　Cord/string shop
-　　　　　　　　　　Saishiki
-　　　　　　　　Uwashimaya (shop name)
+　　　　　　　　Kochiya
+　　　　　　　　　　Choshiro
+　　　　　　　　Himonoya (Dried goods shop)
+　　　　　　　　　　Sajihei
+　　　　　　　　Uwashimaya
 　　　　　　　　　　Hanzaemon
-　　　　　　　　Echigoya (shop name)
+　　　　　　　　Echigoya
 　　　　　　　　　　Yuzaemon
-【Left Page】
-　Large rope　　　Daikokuya (shop name)
+
+【Left page】
+Large rope　　　　Daikokuya
 　　　　　　　　　　Magoshichi
-　Wooden mallet　Yamakuraya (shop name)
+Maul/beetle　　　Yamazoya
 　　　　　　　　　　Chuzaemon
-　Official notice board removal　Carpenter shop
+Removal of official notice boards　　Daikuya (Carpenter's shop)
 　　　　　　　　　　Kaemon
-　　　　　　　　General goods shop　
-　　　　　　　　　　Eisuke
-　　Total number of people: 29
+　　　　　　　　Yorozuya (General store)
+　　　　　　　　　　Esuke
+
+　　Total number of persons: 29

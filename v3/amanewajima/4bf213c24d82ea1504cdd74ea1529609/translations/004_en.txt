@@ -1,18 +1,16 @@
 [Right folio]
+In the first month of Bunsei 3 (Year of the Dragon), an order was placed with Genjirō, a shipwright from Kominato in Wakasa Province. Construction began in the second month and was completed entirely by the ninth month.
+From Bunsei 4 (Year of the己/Tsuchinoto-I), the vessel set out to sea and commenced commercial operations.
 
-In the first month of the third year of Bunsei (1820), the Year of the Dragon, an order was placed with Genjirō, a shipwright of Kominato in Wakasa Province. Construction began in the second month and was fully completed by early ninth month.
-From the fourth year of Bunsei (1821), the Year of the Earth Ox, the vessel set out to sea to commence trading.
+　　The supervising carpenter for the above was Fujii Ihachi of Kurojima.
+　　He departed on the 18th day of the second month and returned home on the 6th day of the tenth month.
 
-　　Supervising carpenters (yokome daiku): Kuroshima, Fujii, and Ihachi
-　　Inspected from the 18th day of the second month; confirmed completion at □ residence on the 6th day of the tenth month.
-
-The agreement (gijō) regarding timber, nails, and clamps (kasugai) is as follows:
+The agreed specifications for timber, nails, and clamps (kasugai) for the above vessel are as follows:
 
 [Left folio]
-
-One: Shiki (keel/bottom planking)　　Superior-grade red pine, finished thickness: 7 sun 5 bu [approx. 22.7 cm]
-One: Omoki (main structural beams)　Superior-grade red pine, finished thickness: 6 sun 5 bu [approx. 19.7 cm]
-One: Naka-dana and Ue-dana (middle and upper shelves/strakes)　Cedar, finished thickness: 3 sun 8 bu [approx. 11.5 cm]
-　　　Note: Minor repair construction; standard nail spacing set at 8 sun [approx. 24.2 cm]
-One: Tsuri-ita (hanging/suspended boards)　Cedar (interlinear note: thickness from surface to hollow: 4 sun / from hollow □: 4 sun 5 bu)
-One: Miyoshi (prow/stem timber)　Superior-grade red pine
+One: Shiki (keel/bottom planking)　　Finest red pine　Finished thickness: 7 sun 5 bu [approx. 22.7 cm]
+One: Omoki (main structural beam)　Finest red pine　Finished thickness: 6 sun 5 bu [approx. 19.7 cm]
+One: Nakadana & Uwadana (middle and upper shelves/strakes)　Japanese cedar　Finished thickness: 3 sun 8 bu [approx. 11.5 cm]
+　　　Note: For minor repairs, the standard nail length is fixed at 8 sun [approx. 24.2 cm]
+One: Tsuri-ita (hanging side planks)　Japanese cedar　《Split entry: Thickness from bow (hora) toward the prow: 4 sun [approx. 12.1 cm] / From bow (hora) toward the stern: 4 sun 5 bu [approx. 13.6 cm]》
+One: Miyoshi (stem post/bow timber)　Finest red pine

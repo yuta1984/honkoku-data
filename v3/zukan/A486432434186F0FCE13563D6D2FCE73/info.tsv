@@ -49,6 +49,6 @@ filename	status	image
 048.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000034/full/full/0/default.jpg
 049.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000035/full/full/0/default.jpg
 050.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000036/full/full/0/default.jpg
-051.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000037/full/full/0/default.jpg
-052.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000038/full/full/0/default.jpg
-053.txt	default	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000039/full/full/0/default.jpg
+051.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000037/full/full/0/default.jpg
+052.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000038/full/full/0/default.jpg
+053.txt	initiated	https://www.dl.ndl.go.jp/api/iiif/1287211/R0000039/full/full/0/default.jpg

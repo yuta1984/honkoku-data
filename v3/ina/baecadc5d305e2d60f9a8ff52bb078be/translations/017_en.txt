@@ -1,26 +1,27 @@
-【Left Folio】
+[Left Folio]
 
-　　　　Fukuro-machi (Bag-makers' Quarter)
-　　　　Cooper (Barrel-maker)
-One item:　1 bu [gold]　　Kihei
+One *bu* [gold]: 《Fukuromachi [district] / Barrel maker / Kihei》
 
-　　　　Same district
-　　　　Cooper
-One item:　2 shu [gold]　　Tōzaemon
-　　　　　　Note: half reduction applied
-　　　　Cooper (monetary surcharge)
-One item:　1 bu [gold]　　■ya
-　　　　　　Same as above
-One item:　1 bu [gold]　　Motoya
-　　　　Yoko-machi (Side Street Quarter)　Tatami-maker / Decorator
-One item:　2 bu [gold]　　Sakubei
-　　　　　　Apprentice of the above
-One item:　1 bu [gold]　　Kūzō
-　　Half-season laborers (semi-annual workers)
-　　　　[Originally ■■,] 3 persons' share　　Seri-machi Quarter
-One item:　1 bu [gold]　　　　Ichiemon
+One 2-*shu* [gold]: 《Same town / Barrel maker / Tōzaemon》
+　　　Note: Half-trade status (*hanshoku*)
 
-Total:　2 ryō, 3 [bu], 2 shu [gold]
+　　　Barrel maker — cross-trade (*eshoku*)
+One *bu* [gold]: Tetsuya
+　　　Same as above
+One *bu* [gold]: Motoya
 
-The above represents the settlement of the unjo (occupational tax) levied upon the various craftsmen of this town, and has been duly verified and confirmed. The foregoing is respectfully submitted.
-　　　　12th month, [Year of the] Sheep　　Monthly duty officer: Misawa Rokubei
+　　　Yokocho [district], Tatami maker
+One 2-*bu* [gold]: Sakubei
+　　　Same person's apprentice
+One *bu* [gold]: Torazō
+　　　*Saru* year, 3rd month — petition submitted
+　　　Originally ■■ — three persons' share
+
+　　　　　　Sericchō [district]
+　　　　　　Stonemason
+One *bu* [gold]: Ichiemon
+
+Total: 2 *ryō*, 3 *bu*, 2 *shu* [gold]
+
+The foregoing is the accounting of the levies (*unjo*) collected from the various artisans of this town, and the tally is as stated above. Respectfully submitted.
+　　*Mi* year, 12th month　《Month-duty officer / Miyazawa Rokubei》

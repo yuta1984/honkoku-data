@@ -1,0 +1,66 @@
+## Dedicated to the Shrine — Nakanishi School of Mathematics
+
+At this place, disciples of Suzumura Saburōemon Yoshiteru
+
+---
+
+### *Zukai Sampō* (Illustrated Mathematical Methods), Volume 7, Problem 8
+
+【Diagram】
+
+> As shown in the figure, inside a square, a triangle and two circles of equal diameter are inscribed. Given that the side of the square is 30 *sun*, find the equal diameter (of the circles).
+
+**Answer:** The equal diameter is 16 *sun*, 4 *bu*, 8 *rin*, 6 *mō* (with remainder).
+
+**Method:** First find the "diagonal ratio" (*shakuritsu*) separately. Take the square root of 3, add 2, combine with the diagonal ratio, and divide by 2. Divide the side of the square by this, then multiply by the diagonal ratio to obtain the equal diameter. This agrees with the problem.
+
+　　　　　　　　　　　　　　　　(Location: Sae Village)
+　　　　　　　　　　　　　　　　　　Dedicator: Nagata Takematsu
+
+---
+
+### *Zukai Sampō*, Volume 9, Problem 6
+
+【Diagram】
+
+> As shown in the figure, a large circle, Circle *kō* (甲), and a small circle are inscribed. Given that the diameter of Circle *kō* is 100 *sun*, find the diameter of the small circle.
+
+**Answer:** The diameter of the small circle is 23 *sun*, 1 *bu*, 7 *rin*, 5 *mō* (with a remainder of 100).
+
+**Method:** Place the value 2.621 (called "*ten*"). Square it. Subtract 4 from the result, take the square root of the remainder. Subtract *ten*, multiply by the diameter of Circle *kō*, and divide by 4 to obtain the diameter of the small circle. This agrees with the problem.
+
+　　　　　　　　　　　　　　　　(Location: Kitayama Village)
+　　　　　　　　　　　　　　　　　　Dedicator: Inozawa Yūtarō
+
+---
+
+### *Zukai Sampō*, Volume 1, Problem 14
+
+【Diagram】
+
+> As shown in the figure, a square and a circle are inscribed inside a right triangle. Given that the shorter leg (*kō*) is 21 *sun* and the diameter of the circle is 8 *sun*, find the length of the side of the square.
+
+**Answer:** The side of the square is 12 *sun*.
+
+**Method:** Multiply the diameter of the circle by ■ (illegible), use the leg as the "true value," multiply by the sum of the square of the two legs and the diameter of the circle, use the diameter as the "correct method," and use 2 as the "true square method"; open (take the square root of) this to obtain the length of the side of the square. This agrees with the problem.
+
+　　　　　　　　　　　　　　　　(Location: Sae Village)
+　　　　　　　　　　　　　　　　　　Dedicator: □□□ Tarō
+
+---
+
+### Problem of Daikokuten and the Poor Men
+
+【Diagram (illustration of Daikokuten and poor men)】
+
+> As shown in the figure, there are three people: Daikokuten (the god of wealth) and two poor men. Daikokuten says: "When I shake this mallet, a thousand *en* (yen/coins) will come out." The poor men say: "Please lend us two the thousand *en* in equal shares." Daikokuten replies: "That is easily done. However, I do not know the method of division — please ask a teacher to divide it." The correct solution is as follows:
+
+Set *Tengen* (the unknown) as one person's share (since they are equal, double it to get both men's share). Separately set the total as one thousand *kin* (gold). Combining and canceling the left and right sides, solve for one person's share. Divide by the method (*hō*) to obtain the refined solution.
+
+**Method:** Place 1,000 *en*. Looking at its digit positions: 1,000 is in the thousands place, and 2 is in the units place. Therefore, across the four places — thousands, hundreds, tens, units — mark them below, and applying the division rule "*nii-ichi tensakuno go*" (2 into 1 gives 5 in the next place), the quotient falls in the hundreds and tens places, giving 500 *kin*. This agrees with the problem.
+
+**Answer:** Each poor man receives 500 *en*. 　　　A certain person of this place
+
+---
+
+**Written in Meiji 16 (1883), the Year of the Sheep (*Hitsuji*), in the tenth month. Respectfully and reverently dedicated.**

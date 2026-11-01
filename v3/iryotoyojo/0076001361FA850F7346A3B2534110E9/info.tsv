@@ -86,8 +86,8 @@ filename	status	image
 085.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00085_0.ptif/info.json
 086.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00086_0.ptif/info.json
 087.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00087_0.ptif/info.json
-088.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00088_0.ptif/info.json
-089.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00089_0.ptif/info.json
-090.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00090_0.ptif/info.json
-091.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00091_0.ptif/info.json
-092.txt	default	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00092_0.ptif/info.json
+088.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00088_0.ptif/info.json
+089.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00089_0.ptif/info.json
+090.txt	initiated	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00090_0.ptif/info.json
+091.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00091_0.ptif/info.json
+092.txt	completed	https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004635%2FRB00004635_00092_0.ptif/info.json

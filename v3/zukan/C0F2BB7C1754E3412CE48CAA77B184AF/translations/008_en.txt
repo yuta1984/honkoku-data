@@ -1,33 +1,40 @@
-**Right Folio (with illustration)**
+**[Right folio — with illustration]**
 
-**Upper Section:**
-According to *Nansan-shi* (南産志, "Records of Southern Products"): "The black ray (*kuro-ei*) is shaped like a round fan; because its head resembles that of a swallow (*tsubame*), it is called the Swallow Ray (*tsubame-ei*)."
+**[Upper section]**
+*Nansan-shi* (Records of Southern Products) states: The black ray (*kokukō*) has a shape resembling a round fan (*uchiwa*). Because its head resembles that of a swallow, it is called the "swallow ray" (*enkō*).
 
-In Nagaoka, Echigo Province, it is called "Konpei Yokosa □□ (possibly *ei*/ray)?" — text partially obscured beneath the illustration.
-"Its form resembles [the Red Ray (*aka-ei*)], its color is black, and its tail is long."
+The Konpei-yokosa [ray?] from Nagaoka in Echigo Province has a [similar fan-like] shape, is black in color, and has a long tail.
 
-**Lower Section:**
-According to *Buppin* (物品, "Material Goods"): The *Sa-ei* is small in form, reddish-black in color, and larger specimens can exceed one shaku (approx. 30 cm) in length.
-According to *Buppin Mokuroku* (物品目録, "Catalogue of Material Goods"): "The *Bantasen* (*坂田鱣*) measures two to three shaku in length; the head is round and flat, resembling a round fan; the body is narrow and long..." (text continues, partially lost)
-(Marginal note beside illustration): *Uchiwa-zame* (Fan Shark)
+**[Lower section]**
+According to *Moppin* [*Buhin*/*Honzō Moppin*]: The *sa-ei* (a type of skate/ray) is small in shape, reddish-black in color, and the largest specimens reach over one shaku (~30 cm) in length.
+*Moppin Mokuroku* states: The *Bandanei* (坂田鱣) measures two to three shaku in length; its head is round and flat, resembling a round fan, and its body is narrow and elongated.
+This is called *Uchiwa-zame* (fan shark/ray).
 
 ---
 
-**Left Folio (with illustration)**
+**[Left folio — with illustration]**
 
-**Sticky note (see previous frame):** *Katatabori*
+**[Sticky note text (see previous frame)]:** Katatabori (カタタホリ)
 
-**Upper Section:**
-On the Cow Ray (*Ushi-ei*), from *Buppin*:
+**[Upper section]**
+*Ushi-ei* (Bull Ray / Black Ray) — Source: *Moppin*
 
-- The *Gin-ebi* (Silver Ray) is darker in color than the Red Ray (*Aka-ei*). It resembles the Red Ray but is not as fine in appearance.
-- The *Nabe-ebi* from Tajiri in Hitachi Province (modern Ibaraki) is considered the least attractive and is very dark.
-- People of Matsumae (Hokkaido) call it *Kasube* and prepare it as a dried/cured product (*hoshi-mono*) similar to that made from Red Ray.
-- People of Sendai call it *Karakai-ebi*. It belongs to the ray family, lacks a stinging spine, has a faint wisteria-purple color, and the smaller ones are called *Kasebi*. The dried form is called *Renden*. It can be eaten as sashimi, but its flavor does not match that of the Red Ray.
-- According to *Ise no Tadashi*: "It resembles the Red Ray, but the flesh is thicker, tends toward black in color, and there is a slightly dark area on the belly. Its flavor is somewhat inferior to the Red Ray. The belly side is like a cooled Red Ray, and the flesh too is thinner than the *Mae-ebi*."
-- According to *Kaimono* (*Keimō*, 啓蒙): "The Cow Ray (*Ushi-ei*), also known as the Black Ray (*Kuro-ei*). In Seishū (Ise Province) it is called *Ushiū*; in Sendai, [another name]. Its color is black; large specimens reach about six shaku (approx. 180 cm). It is considered low quality. This corresponds to the *Gyūgyo* (牛魚, 'Cow Fish') of the *Binsho* (閩書, a Chinese reference work)."
+*Gin-ebi* (Silver Ray): Its color is darker/blacker than the *Aka-ei* (Red Ray/Common Stingray). It resembles the *Aka-ei* but is not as good (in taste).
 
-**Lower Section:**
-The *Katatabori* from Geishū (Aki Province, modern Hiroshima) is a type of black ray. The way it is consumed is the same as with the Red Ray. It can also be caught by fishing. Large specimens reach about six shaku in length.
+The *Nabe-ebi* from Tajiri in Hitachi Province is considered the least tasty and is black in color.
 
-**Ink notation (upper left):** 六 (Six)
+People of Matsumae (Hokkaido) dry the *Kasube* (ray) as dried fish (*ho*), treating it similarly to *Aka-ei*.
+
+People of Sendai call it *Karakai-ei*. It is a type of ray with no spine (tail barb), has a wisteria-purple (*fuji*) hue, and smaller ones are called *Kasebi*.
+　Dried specimens are called *Renden*. It is eaten as sashimi. In taste, it does not measure up to *Aka-ei*.
+
+A merchant/source from Ise called *Tadashi* states: It resembles the *Aka-ei*; the flesh is thick, largely dark/black, with a slightly dark area on the belly side. The taste is slightly inferior to that of the *Aka-ei*. The belly side resembles *Aka-ei* after it has cooled. The flesh is also thinner than *Ma-ei* (Common Ray).
+
+*Kaimō* [*Honzō Kōmoku Keimō*] states: Another name for *Ushi-ei* is *Kuro-ei* (Black Ray). In Sei Province (Ise), it is called *Ushieu*; in Sendai, [another name is used]. Its color is black, and large specimens measure about six shaku (~180 cm). It is considered low-grade. It corresponds to the "Bull Fish" (*gyūgyo*) in the Chinese text *Minsho* (*Fujian Records*).
+
+**[Lower section]**
+The *Katatabori* (Black Ray) of Geishū (Aki Province / present-day Hiroshima area): Preparation methods are the same as for *Aka-ei*. Large specimens caught by fishing measure about six shaku.
+
+---
+
+**[Ink notation in upper left]:** 六 (6) [page number]
