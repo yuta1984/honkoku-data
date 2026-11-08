@@ -1,39 +1,40 @@
-[Left folio]
+【Left folio】
 
 4th month installment
-Item: 84 mon　　　Hatsūemon　(seal)
-　　　　　　　　　　　(collected)
-
-5th month installment
-Item: 84 mon　　　Han'emon　(seal)
-　　　　　　　　　　　(collected)
-
-6th month installment　　　　■-machi [district]
-Item: 72 mon　　　Kihei　(seal)
+Item: 84 mon　　Hatsuemon　(seal)
 　　　　　　　　　　(collected)
 
-16th day of the 7th month, Zensuke
+5th month installment
+Item: 84 mon　　Hanemon　(seal)
+　　　　　　　　　　(collected)
+
+6th month installment　　　Shinmachi
+Item: 72 mon　　Kihei　(seal)
+　　　　　　　　　　(collected)
+
+16th day of the 7th month　Zensuke
 Item: 479 mon　　　Risuke　(seal)
-　　　　　　　　　　[amount] collected, including coin shrinkage/discount, subtotal
+　　Collection total including exchange/handling fee
 
 13th day of the 8th month
-　　　　　　　　　　Same person [as above]
-Item: 75 mon　　　Gen'emon　(seal)
+　　　　　　　　　same person
+Item: 75 mon　　Genemon　(seal)
 
 9th month installment
-Item: 84 mon　　　Jihei　(seal)
+Item: 84 mon　　Jihei　(seal)
 
 10th month installment
-Item: 84 mon　　　Chūzaemon　(seal)
+Item: 84 mon　　Chūzaemon　(seal)
 
 11th month installment
-Item: 66 mon　　　Gen'emon　(seal)
-　　　　　　　　　　　(collected)
+Item: 66 mon　　Genemon　(seal)
+　　　　　　　　　　(collected)
 
-Subtotal: 3 kan 627 mon
-　　Of which: 1 kan 426 mon
-　　　　　　　delivered at the time of Genji's bereavement　(seal)
+Total: 3 kan 627 mon
+　Of which: 1 kan 426 mon
+　　　　paid out at the time of Genji's bereavement　(seal)
+　　　　　　　　　　disbursed
 Adjusted total: 2 kan 201 mon
-　　　　　　　　　11th month, 12th day
+11th day of the 11th month [sic]
 
-15 mon 4 mon　　　《interlinear note: day-laborer wages | Yaemon's portion | monthly installment》　(seal)
+15 mon, 4 mon　《split entry: labor wages | Yaemon's portion | monthly installment》　(seal)

@@ -1,9 +1,9 @@
 filename	status	image
-001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00001.tif/full/full/0/default.jpg
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00002.tif/full/full/0/default.jpg
+001.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00001.tif/full/full/0/default.jpg
+002.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00002.tif/full/full/0/default.jpg
 003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00003.tif/full/full/0/default.jpg
-004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00004.tif/full/full/0/default.jpg
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00005.tif/full/full/0/default.jpg
+004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00004.tif/full/full/0/default.jpg
+005.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00005.tif/full/full/0/default.jpg
 006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00006.tif/full/full/0/default.jpg
 007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00007.tif/full/full/0/default.jpg
 008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100424253/v4/IBRK/IBRK-50210/IBRK-50210-00008.tif/full/full/0/default.jpg

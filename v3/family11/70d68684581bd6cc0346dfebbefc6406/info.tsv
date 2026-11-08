@@ -1,9 +1,9 @@
 filename	status	image
 001.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00000.tif/full/full/0/default.jpg
-002.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00001.tif/full/full/0/default.jpg
-003.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00002.tif/full/full/0/default.jpg
-004.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00003.tif/full/full/0/default.jpg
-005.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00004.tif/full/full/0/default.jpg
+002.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00001.tif/full/full/0/default.jpg
+003.txt	completed	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00002.tif/full/full/0/default.jpg
+004.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00003.tif/full/full/0/default.jpg
+005.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00004.tif/full/full/0/default.jpg
 006.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00005.tif/full/full/0/default.jpg
 007.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00006.tif/full/full/0/default.jpg
 008.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00007.tif/full/full/0/default.jpg
@@ -44,4 +44,4 @@ filename	status	image
 043.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00042.tif/full/full/0/default.jpg
 044.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00043.tif/full/full/0/default.jpg
 045.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00044.tif/full/full/0/default.jpg
-046.txt	default	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00045.tif/full/full/0/default.jpg
+046.txt	initiated	https://kokusho.nijl.ac.jp/api/iiif/100271715/v4/TSDT/TSDT-00563/TSDT-00563-00045.tif/full/full/0/default.jpg

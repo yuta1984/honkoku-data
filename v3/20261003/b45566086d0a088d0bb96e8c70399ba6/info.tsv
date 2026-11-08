@@ -26,10 +26,10 @@ filename	status	image
 025.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242400/iiif/F1000000000000030389_0025.jp2/full/full/0/default.jpg
 026.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242500/iiif/F1000000000000030389_0026.jp2/full/full/0/default.jpg
 027.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242600/iiif/F1000000000000030389_0027.jp2/full/full/0/default.jpg
-028.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242700/iiif/F1000000000000030389_0028.jp2/full/full/0/default.jpg
-029.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242800/iiif/F1000000000000030389_0029.jp2/full/full/0/default.jpg
-030.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586242900/iiif/F1000000000000030389_0030.jp2/full/full/0/default.jpg
-031.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586243000/iiif/F1000000000000030389_0031.jp2/full/full/0/default.jpg
+028.txt	initiated	https://www.digital.archives.go.jp/api/content/item/da12/C100586242700/iiif/F1000000000000030389_0028.jp2/full/full/0/default.jpg
+029.txt	initiated	https://www.digital.archives.go.jp/api/content/item/da12/C100586242800/iiif/F1000000000000030389_0029.jp2/full/full/0/default.jpg
+030.txt	completed	https://www.digital.archives.go.jp/api/content/item/da12/C100586242900/iiif/F1000000000000030389_0030.jp2/full/full/0/default.jpg
+031.txt	completed	https://www.digital.archives.go.jp/api/content/item/da12/C100586243000/iiif/F1000000000000030389_0031.jp2/full/full/0/default.jpg
 032.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586243100/iiif/F1000000000000030389_0032.jp2/full/full/0/default.jpg
 033.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586243200/iiif/F1000000000000030389_0033.jp2/full/full/0/default.jpg
 034.txt	default	https://www.digital.archives.go.jp/api/content/item/da12/C100586243300/iiif/F1000000000000030389_0034.jp2/full/full/0/default.jpg

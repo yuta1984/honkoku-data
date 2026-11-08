@@ -1,83 +1,87 @@
-**Page 140 (Sequential number: 16)**
+## [Right Page, Upper Section]
 
-**Upper Section:**
-- *Dōron Senki* (Commentary on the same treatise), 30 fascicles — Gyōga
-- *Dōron Kanjinki* (Essential commentary on the same treatise), 8 fascicles — Zenju
-- *Dōron Bunryōketsu* (Resolution on volume divisions of the same treatise), 1 fascicle — same (Zenju)
-- *Chū Yuishikiron* (Annotated Vijñaptimātratāsiddhi-śāstra), 20 fascicles — Sūjun
-- *Chūronki* (Commentary record; inner title reads "Yōshō"), 4 fascicles
-- *Ken Yuishiki Sho Inmonshō* (Notes on obscure passages in the commentary on the Vijñaptimātratā), 10 fascicles — Jōtō
-- *Jōyuishikiron Ketsu* (Determination on the Vijñaptimātratāsiddhi-śāstra), 3 fascicles — Shōzō
-- *Dōron Dōi Hokketsu-shō* (Supplementary chapter on agreements and differences in the same treatise), 2 fascicles — Toku'ichi of the Eastern Land [Japan]
-- *Kaidai* (Commentary on the preface of Kuiji's commentary), 1 fascicle — Collected notes by Kadontōshū
-- *Gisei* (Explanation of the preface of Kuiji's commentary), 1 fascicle — Gyōga
-- *Joshaku* (Commentary on the preface; lectured at Okadera Temple in the 18th year of Enryaku [799 CE]), 1 fascicle — Gomyō
-- *Joshaku* (Commentary on the preface of Kuiji's commentary), 1 fascicle — Zenju
-- *Gikyōshō* (Mirror of meaning notes), 12 fascicles (or 6 fascicles) — Seiso
-- *Dōron Gikei-shō* (Landscape of meaning notes on the same treatise), 20 fascicles (or 14 fascicles) — Tangyō
-- *Dōron Ka* (Outline divisions of the same treatise), 5 fascicles — Compiled by Jūshiki, revised and supplemented by Tangyō
-- *Dōron Sho Joshō* (Notes on the preface of the commentary on the same treatise), 1 fascicle — Jūshiki
-- *Dōron Shōkyō Yūbi Shinshō* (New detailed notes on the subtle and obscure aspects of the same treatise), 17 fascicles — Senmyō
+| Work | Fascicles | Compiler/Author |
+|---|---|---|
+| *Qiān jì* (僉記, Collected Notes) on the same treatise | 30 fascicles | Gyōga (行賀) |
+| *Gāngxīn jì* (肝心記, Record of the Essential Core) on the same treatise | 8 fascicles | Zenju (善珠) |
+| *Fēnliàng jué* (分量決, Resolution of Measure and Quantity) on the same treatise | 1 fascicle | Same |
+| *Zhù Wéishí lùn* (注唯識論, Annotated Vijñaptimātratāsiddhi-śāstra) | 20 fascicles | Sūjùn (崇俊) |
+| *Zhù lùn jì* (注論記, Record Annotating the Treatise) (annotation: internal title reads *Yào chāo* 要鈔) | 4 fascicles | |
+| *Xiǎn Wéishí shū yǐn wén chāo* (顕唯識疏隠文鈔, Excerpts Revealing Hidden Passages in the Vijñaptimātratā Commentary) | 10 fascicles | Jōtō (常騰) |
+| *Chéngyúshí lùn jué* (成唯識論決, Determination on the Vijñaptimātratāsiddhi-śāstra) | 3 fascicles | Shōzō (勝荘) |
+| *Tóng yì bǔ quē zhāng* (同異補闕章, Chapter Supplementing Gaps on Identities and Differences) of the same treatise | 2 fascicles | Toku-ichi (德一) of the Eastern Land [Japan] |
+| *Kaidai* (開題, Introductory Exposition) (annotation: commentary on the preface to Kuiji's commentary) | 1 fascicle | Recorded by Katonton (嘉遁) during a visit |
+| *Gijō* (義精, Essence of Meaning) (annotation: commentary on the preface to Kuiji's commentary) | 1 fascicle | Gyōga (行賀) |
+| *Joshaku* (序釈, Commentary on the Preface) (annotation: lectured at Okadera in the 18th year of Enryaku [799]) | 1 fascicle | Gomyō (護命) |
+| *Joshaku* (序釈, Commentary on the Preface) (annotation: commentary on the preface to Kuiji's commentary) | 1 fascicle | Zenju (善珠) |
+| *Gikyōshō* (義鏡鈔, Mirror of Meaning Excerpts) | 12 fascicles (annotation: or 6 fascicles) | Seiso (清素) |
+| *Gikeshō* (義景鈔, Excerpts on the Landscape of Meaning) on the same treatise | 20 fascicles (annotation: or 14 fascicles) | Tangyō (澹凝) |
+| *Ka* (科, Structural Outline) of the same treatise | 5 fascicles | Compiled by Jūshiki (従式), revised and supplemented by Tangyō (澹凝) |
+| *Shojoshō* (疏序鈔, Excerpts on the Preface to the Commentary) of the same treatise | 1 fascicle | Jūshiki (従式) |
+| *Shōkyōyūbishinshō* (詳鏡幽微新鈔, New Excerpts for Detailed Examination of Subtle and Hidden [Meanings]) of the same treatise | 17 fascicles | Senmyō (詮明) |
 
-**Lower Section:**
-- *Dōron Ō Shinshō* (New notes on the same treatise; 4 fascicles of textual outline and 1 fascicle of major outline) — same (Senmyō)
-- *Dōron Bengen-shō* (Notes distinguishing the profound in the same treatise), 20 fascicles — Giyū
-- *Dōron Ka* (Outline divisions of the same treatise), 7 fascicles — same (Giyū)
-- *Dōron Sanyō* (Compiled essentials of the same treatise), 20 fascicles (or 10 fascicles) — Woncheuk
-- *Dōron Kōyō* (Essential outline of the same treatise), 13 fascicles — Dōshō
-- *Dōron Yōshū Ketsumyō-shō* (Clarifying chapter for the essential collection of the same treatise), 4 fascicles — Jinyū
-- *Dōron Yōshū Ryakujutsu* (Brief account for the essential collection of the same treatise), 10 fascicles — same (Jinyū)
-- *Dōron Sho* (Commentary on the same treatise), 20 fascicles — Genhan
-- *Dōron Gishinshō* (Notes on the ford of meaning in the same treatise), 6 fascicles — Zōmyō
-- *Dōron Shūkai* (Collected explanations of the same treatise), 3 fascicles — Eiso
-- *Dōron Gion-shō* (Garden of meaning notes on the same treatise), 3 fascicles — Goshin
-- *Dōron Kōjutsu* (Extensive account of the same treatise), 6 fascicles — Jinyū
-- *Dōron Shūyō* (Essential tenets of the same treatise), 1 fascicle — Wonhyo
-- *Dōron Yōketsu* (Essential resolution of the same treatise), 2 fascicles — Tonrin
-- *Yuishiki Hiryō Kengiwakoshinjō* (Chapter removing falsehood and establishing truth in the syllogisms of Vijñaptimātratā), 1 fascicle — Gyōga
-- *Dōron Geset*su (Explanation of sections of the same treatise), 3 fascicles — Sōkaku
-- *Dōron Yuiryōshō* (Notes on the measure of consciousness-only in the same treatise) — Zōshun
+## [Right Page, Lower Section]
 
----
+| Work | Fascicles | Compiler/Author |
+|---|---|---|
+| *Ōshinshō* (応新鈔, New Responding Excerpts) of the same treatise (annotation: 4 fascicles of *kamon* [structural outline text] and 1 fascicle of broad outline) | | Same |
+| *Bengenishō* (辨玄鈔, Excerpts Distinguishing the Profound) of the same treatise | 20 fascicles | Giyū (義幽) |
+| *Ka* (科, Structural Outline) of the same treatise | 7 fascicles | Same |
+| *Sanyō* (纂要, Compendium of Essentials) of the same treatise | 20 fascicles (annotation: or 10 fascicles) | Yuáncè (圓測, Woncheuk) |
+| *Gōngyào* (綱要, Outline of Essentials) of the same treatise | 13 fascicles | Dào Zhèng (道証) |
+| *Yōjūketsumyōshō* (要集決明章, Chapters Determining and Clarifying the Essential Collection) of the same treatise | 4 fascicles | Jinnyū (神雄) |
+| *Yōjūryakujutsu* (要集略述, Brief Account of the Essential Collection) of the same treatise | 10 fascicles | Same |
+| Commentary (*shū* 疏) on the same treatise | 20 fascicles | Genhan (玄範) |
+| *Gitsuishō* (義津鈔, Excerpts on the Ford of Meaning) of the same treatise | 6 fascicles | Zōmyō (藏明) |
+| *Shūkai* (集解, Collected Explanations) of the same treatise | 3 fascicles | Eiso (慧素) |
+| *Gienishō* (義苑鈔, Excerpts from the Garden of Meaning) of the same treatise | 3 fascicles | Goshin (悟真) |
+| *Kōjutsu* (廣述, Broad Account) of the same treatise | 6 fascicles | Jinnyū (神雄) |
+| *Shūyō* (宗要, Essentials of the School) of the same treatise | 1 fascicle | Wŏnhyo (元暁) |
+| *Yōketsu* (要決, Essential Determination) of the same treatise | 2 fascicles | Tonrin (遁倫) |
+| *Yuishiki hiryō kengishinshō* (唯識比量遣偽興真章, Chapter on Eliminating the False and Promoting the True in the Vijñaptimātratā Inference) | 1 fascicle | Gyōga (行賀) |
+| *Gesetsu* (解節, Untying the Knots [of Meaning]) of the same treatise | 3 fascicles | Sōkaku (宗廓) |
+| *Yuiryōshō* (唯量鈔, Excerpts on Sole Measure) of the same treatise | | Zōshun (藏俊) |
 
-**Page 141 (Sequential number: 17)**
+## [Left Page, Upper Section]
 
-**Upper Section:**
-- *Dōron Dōgakushō* (Notes for fellow students on the same treatise), 68 fascicles — (Southern Capital [Nara] old manuscript; the number of fascicles varies. There are also differences in the detail of the questions and answers. Ryōsan, Kōgen, and their disciples created the draft; Jōkei compiled six editions and established the present title.)
-- *Dōron Chisokushō* (Knowing-sufficiency notes on the same treatise) — Eikō
-- *Dōron Genjinshō* (Mysterious dust notes on the same treatise), 10 fascicles — Gyōnen
-- *Dōron Ka* (Outline divisions of the same treatise) — Kojima Shingyō
-- *Dōron Kunron Kikigaki* (Oral notes on the same treatise), 28 fascicles — Shōjōin Kōin
-- *Dōron Ryaku Dōgakushō* (Abbreviated fellow-student notes on the same treatise), 10 fascicles
-- *Dōron Senshō* (Spring notes on the same treatise), 31 fascicles — Hosshin'in Zennen
+| Work | Fascicles | Compiler/Author |
+|---|---|---|
+| *Dōgakushō* (同学鈔, Excerpts for Fellow Students) of the same treatise | 68 fascicles (annotation: an old edition from the Southern Capital [Nara]. The fascicle count is inconsistent. Also, the question-and-answer [sections] vary between full and abbreviated versions. First drafted by Ryōsan, Kōgen, and their circle; Jōkei compiled six sections and placed the current title as the *Tokushū* [德集] edition.) | |
+| *Chisokuishō* (知足鈔, Excerpts for Those Knowing Sufficiency) of the same treatise | | Eikō (英弘) |
+| *Genjinshō* (玄塵鈔, Excerpts on the Profound Dust) of the same treatise | 10 fascicles | Gyōnen (凝然) |
+| *Ka* (科, Structural Outline) of the same treatise | | Mashima Shinnyū (子嶋真興) |
+| *Kunronmonjo* (訓論聞書, Recorded Teachings on the Treatise) of the same treatise | 28 fascicles | Kōin (光胤) of Shōjōin (清浄院) |
+| *Ryakudōgakushō* (略同学鈔, Abbreviated Excerpts for Fellow Students) of the same treatise | 10 fascicles | |
+| *Izumishō* (泉鈔, Spring Excerpts) of the same treatise | 31 fascicles | Zenen (善円) of Hosshin-in (発心院) |
+| (annotation: Although in the Ming dynasty there exist works such as Zhì Xù's (智旭) *yìzhāng*, they deviate somewhat from Kuiji's commentary and are therefore not recorded here.) | | |
+| *Shōchūsūyō* (掌中樞要, Essentials in the Palm [of the Hand]) | 2 fascicles (annotation: expanded into 4 fascicles) | Jī [Kuiji] (基) |
+| *Sūyōhōshi* (樞要方誌, Topical Register of the Essentials) | 2 fascicles (annotation: or 1 fascicle) | Zhìzhōu (智周) |
+| Record (*ki* 記) on the same | 2 fascicles | (annotation: Kyōng Heung [憬興] and Gihin [義濱]) |
+| *Dōgiki* (同義暉, Radiance of the Same Meaning) | 1 fascicle | Gyōga (行賀) |
+| Record (*ki* 記) on the same | 2 fascicles | Kyōng Heung (憬興) |
+| Record (*ki* 記) on the same | 2 fascicles | Ken (憲) |
+| Record (*ki* 記) on the same | 2 fascicles (annotation: or divided into 4 fascicles) | Jōtō (常騰) |
+| Record (*ki* 記) on the same | 2 fascicles | Shin'ei (信叡) |
+| Record (*ki* 記) on the same | 2 fascicles (annotation: divided into 3 fascicles) | In-shi (印師) |
 
-*(Note: Although works such as Zhixu's doctrinal chapters exist from the Ming dynasty, since they diverge somewhat from Kuiji's commentary, they are not included here.)*
+## [Left Page, Lower Section]
 
-- *Shōchū Sūyō* (Essential pivot within the palm), 2 fascicles (expanded to 4 fascicles) — Kuiji
-- *Sūyō Hōshi* (Topical guide to the essential pivot), 2 fascicles (or 1 fascicle) — Zhizhou
-- *Dōki* (Commentary on the same), 2 fascicles — Gyōkō / Gihin
-- *Dō Giki* (Radiance of meaning on the same), 1 fascicle — Gyōga
-- *Dōki*, 2 fascicles — Gyōkō
-- *Dōki*, 2 fascicles — Ken
-- *Dōki*, 2 fascicles (or divided into 4 fascicles) — Jōtō
-- *Dōki*, 2 fascicles — Shinei
-- *Dōki*, 2 fascicles (divided into 3 fascicles) — In-shi
-
-**Lower Section:**
-- *Dōki*, 2 fascicles — Tetsu-shi
-- *Dō Chū Sūyō* (Annotated pivot essentials), 2 fascicles — Shōgun of Saidaiji Temple
-- *Dō Gesetsuki* (Record of explanatory sections), — Gomyō
-- *Dōki* — Tatsu
-- *Dō Yuishiki Sūyō Gi* (Meaning of the essential pivot of consciousness-only), 2 fascicles — Gyōga
-- *Dō Yōsetsu* (Essential abridgment of the same), 2 fascicles
-- *Dōki*, 2 fascicles — Gihin
-- *Dō Shōki* (Notes and record of the same), 4 fascicles (or 2 fascicles) — Enshō
-- *Dō Yōketsu* (Essential resolution of the same), 8 fascicles — Jōtō
-- *Dō Shiki* (Private record of the same), 1 fascicle (22 leaves) — Gen'ichi
-- *Ryōgitō* (Lamp of definitive meaning), 7 fascicles (divided into 13 fascicles as main and supplementary) — Huizhao of Zizhou
-- *Dō Ryōgitō-ki* (Record of the Lamp of Definitive Meaning; up to the 6th fascicle of the Lamp), 1 fascicle — Zhizhou
-- *Dō Zōmeiki* (Record amplifying the Lamp; covering the 1st fascicle of the Lamp), 4 fascicles — Zenju
-- *Dō Shō* (Notes on the same), 7 fascicles — Jōtō
-- *Dō Gesetsuki* (Record of explanatory sections of the same), 3 fascicles — Myō
-- *Dō Shō* (Notes on the same), 4 fascicles — Shinei
-- *Enpishaku* (Commentary on the Yanmi), 5 fascicles — Nyori
+| Work | Fascicles | Compiler/Author |
+|---|---|---|
+| Record (*ki* 記) on the same | 2 fascicles | Tetsu-shi (哲師) |
+| *Dōchūsūyō* (同注樞要, Annotated Essentials of the Same) | 2 fascicles | Shōkin (勝均) of Saidaiji (西大寺) |
+| *Dōgesetsu-ki* (同解節記, Record Untying the Knots of the Same) | | Gomyō (護命) |
+| Record (*ki* 記) on the same | | Tatsu (達) |
+| *Dōyuishikisūyōgi* (同唯識樞要義, Meaning of the Essentials of the Same Vijñaptimātratā) | 2 fascicles | Gyōga (行賀) |
+| *Dōyōsetsu* (同要節, Essential Sections of the Same) | 2 fascicles | |
+| Record (*ki* 記) on the same | 2 fascicles | Gihin (義斌) |
+| *Dōshōki* (同鈔記, Excerpts and Record of the Same) | 4 fascicles (annotation: or 2 fascicles) | Enshō (圓証) |
+| *Dōyōketsu* (同要決, Essential Determination of the Same) | 8 fascicles | Jōtō (常騰) |
+| *Dōshiki* (同私記, Private Record of the Same) | 1 fascicle (annotation: 22 leaves) | Genichi (玄壹) |
+| *Liǎo yì dēng* (了義燈, Lamp of Definitive Meaning) | 7 fascicles (annotation: divided into *honmatsu*, totaling 13 fascicles) | Huìzhǎo (慧沼) of Zīzhōu (淄州) |
+| Record of the *Liǎo yì dēng* (annotation: through the 6th fascicle of the *Dēng*) | 1 fascicle | Zhìzhōu (智周) |
+| *Dō zōmyōki* (同増明記, Record Augmenting and Clarifying the Same) (annotation: covering the 1st fascicle of the *Dēng* in full) | 4 fascicles | Zenju (善珠) |
+| Excerpts (*shō* 鈔) on the same | 7 fascicles | Jōtō (常騰) |
+| *Dōgesetsu-ki* (同解節記, Record Untying the Knots of the Same) | 3 fascicles | Myō (命) |
+| Excerpts (*shō* 鈔) on the same | 4 fascicles | Shin'ei (信叡) |
+| *Enpisshaku* (演秘釈, Commentary on the *Yǎn Mì*) | 5 fascicles | Ruri (如理) |
